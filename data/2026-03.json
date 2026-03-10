@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "9541cc796fe7",
+      "title": "KubeSolo sur Raspberry Pi Zero : mon article dans Sysops Pratique",
+      "description": "Kubernetes sur 512 Mo de RAM, c’est possible Après avoir teasé sur Bluesky, je peux enfin vous annoncer (fièrement) la publication de mon article dans le numéro de mars/avril de Sysops Pratique (le successeur de Linux Pratique, magazine bien connu des administrateurs système francophones). Le sujet…",
+      "link": "https://blog.zwindler.fr/2026/03/09/kubesolo-raspberry-pi-zero-sysops-pratique/",
+      "pubDate": "2026-03-09T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/sysops-pratique.webp"
+    },
+    {
       "id": "110290748295",
       "title": "Découvrez BullMQ, une MessageQueue simple avec NodeJS",
       "description": "Dans une application moderne, certaines opérations peuvent être longues et bloquer l’application principale, on utilise alors souvent des files de tâches. BullMQ est une solution simple pour gérer ce type de traitement en arrière-plan.",
