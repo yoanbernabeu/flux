@@ -1,6 +1,6 @@
 ---
 import type { Article } from '../types/index';
-import { getFreshnessBadge, formatDate, getCategoryGradient, getCategoryColor } from '../utils/articles';
+import { getFreshnessBadge, formatDate, getCategoryGradient, getCategoryColor, getTypeLabel, getTypeColor } from '../utils/articles';
 
 interface Props {
   article: Article;
@@ -40,6 +40,11 @@ const badge = getFreshnessBadge(article.pubDate);
     {badge && (
       <span class={`absolute top-3 left-3 px-2 py-0.5 text-xs font-medium rounded-full ${badge.class}`}>
         {badge.label}
+      </span>
+    )}
+    {article.type === 'podcast' && (
+      <span class={`absolute top-3 right-3 px-2 py-0.5 text-xs font-medium rounded-full border ${getTypeColor(article.type)}`}>
+        Podcast
       </span>
     )}
   </a>

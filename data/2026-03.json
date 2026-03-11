@@ -2,6 +2,24 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "900253b54f06",
+      "title": "#182.diff - Recrutement et tests techniques: Réussir un test technique avec Hugo Venturini",
+      "description": "Il y a 3 ans, dans l'épisode #182 je recevais Hugo Venturini. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site |…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-182-refacto-89449ef5ce98",
+      "pubDate": "2026-03-11T04:00:10.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://audio.audiomeans.fr/file/ayaVFqnsuO/0dcec652-3b1c-4fe5-925e-89449ef5ce98.mp3?_=1773147670",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/0dcec652-3b1c-4fe5-925e-89449ef5ce98.mp3?_=1773147670",
+      "duration": "47:40"
+    },
+    {
       "id": "c1a59b1bc127",
       "title": "Installer et configurer Caddy 2 avec certificat SSL pour tous vos sous-domaines",
       "description": "Sécuriser votre serveur avec des certificat SSL pour tous vos sous-domaines grâce au DNS challenge",

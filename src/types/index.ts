@@ -1,7 +1,10 @@
+export type FeedType = 'blog' | 'podcast';
+
 export interface FeedConfig {
   url: string;
   name: string;
   categories: string[];
+  type?: FeedType;
 }
 
 export interface FeedsConfig {
@@ -18,6 +21,9 @@ export interface Article {
   sourceUrl: string;
   categories: string[];
   image: string | null;
+  type: FeedType;
+  audioUrl?: string;
+  duration?: string;
 }
 
 export interface MonthlyData {

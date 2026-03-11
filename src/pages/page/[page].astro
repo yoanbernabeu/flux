@@ -1,7 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import ArticleListPage from '../../components/ArticleListPage.astro';
-import { loadAllArticles, getAllCategories, getAllSources } from '../../utils/articles';
+import { loadAllArticles, getAllCategories, getAllSources, getAllTypes } from '../../utils/articles';
 
 export function getStaticPaths() {
   const PAGE_SIZE = 15;
@@ -9,6 +9,7 @@ export function getStaticPaths() {
   const totalPages = Math.max(1, Math.ceil(allArticles.length / PAGE_SIZE));
   const categories = getAllCategories(allArticles);
   const sources = getAllSources(allArticles);
+  const types = getAllTypes(allArticles);
 
   return Array.from({ length: Math.max(0, totalPages - 1) }, (_, i) => ({
     params: { page: String(i + 2) },
@@ -18,11 +19,12 @@ export function getStaticPaths() {
       totalPages,
       categories,
       sources,
+      types,
     },
   }));
 }
 
-const { articles, currentPage, totalPages, categories, sources } = Astro.props;
+const { articles, currentPage, totalPages, categories, sources, types } = Astro.props;
 ---
 
 <Layout title={`Veille technologique - Page ${currentPage}`} image="https://flux.yoandev.co/og.webp">
@@ -30,6 +32,7 @@ const { articles, currentPage, totalPages, categories, sources } = Astro.props;
     articles={articles}
     categories={categories}
     sources={sources}
+    types={types}
     currentPage={currentPage}
     totalPages={totalPages}
   />

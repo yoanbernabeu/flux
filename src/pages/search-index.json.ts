@@ -12,6 +12,9 @@ export async function GET() {
     pubDate: a.pubDate,
     image: a.image || '',
     link: a.link,
+    type: a.type || 'blog',
+    ...(a.audioUrl ? { audioUrl: a.audioUrl } : {}),
+    ...(a.duration ? { duration: a.duration } : {}),
   }));
   return new Response(JSON.stringify(index), {
     headers: { 'Content-Type': 'application/json' },

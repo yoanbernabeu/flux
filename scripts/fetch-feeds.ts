@@ -188,6 +188,8 @@ async function main() {
 
       const monthKey = getMonthKey(pubDate);
 
+      const feedType = feedConfig.type || 'blog';
+
       const article: Article = {
         id,
         title: item.title || 'Sans titre',
@@ -198,6 +200,9 @@ async function main() {
         sourceUrl: feedConfig.url,
         categories: feedConfig.categories,
         image: extractImage(item, item.link || feed.link || feedConfig.url),
+        type: feedType,
+        ...(feedType === 'podcast' && item.enclosure?.url ? { audioUrl: item.enclosure.url } : {}),
+        ...(feedType === 'podcast' && (item as any).itunes?.duration ? { duration: (item as any).itunes.duration } : {}),
       };
 
       // Add to the right month

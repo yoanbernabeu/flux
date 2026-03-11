@@ -136,6 +136,24 @@
       "image": "https://jolicode.com//media/cache/content/2026/elasticon/elasticon-2026.jpg"
     },
     {
+      "id": "e863ad0ff063",
+      "title": "#344.src - Cloud du coeur: Pas de cloud sans casserole, bricoler pour 35 000 utilisateurs avec Julien Briault",
+      "description": "\"Quand tu arrives à mêler la passion plus le fait d'aider, c'est le combo gagnant.\" Le D.E.V. de la semaine est Julien Briault, lead infra bénévole chez les Restos du C&oeligur. Il raconte comment l'association a bâti son propre cloud en réutilisant du matériel récupéré auprès d'entreprises, pour…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-344-743023d5de42",
+      "pubDate": "2026-01-28T04:00:42.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://audio.audiomeans.fr/file/ayaVFqnsuO/bef5aeb3-d241-4a18-a3c4-743023d5de42.mp3?_=1769518902",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/bef5aeb3-d241-4a18-a3c4-743023d5de42.mp3?_=1769518902",
+      "duration": "58:08"
+    },
+    {
       "id": "d8eaceecb7ff",
       "title": "Quand le code devient une commodité: La montée des sociétés AI natives",
       "description": "Après le Cloud Native, place aux entreprises IA Natives. Découvrez comment l'IA transforme le code en commodité et pourquoi le dilemme \"Build or Buy\" devient \"Build, Buy, Run or Vibe\" (BBRV). Quel est le nouveau MOAT d'un logiciel quand le code n'est plus une barrière ?",
@@ -486,6 +504,24 @@
         "DevOps"
       ],
       "image": "https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGdpdHxlbnwwfHx8fDE3NjgyMDU2OTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000"
+    },
+    {
+      "id": "9831ee320b7f",
+      "title": "#343.src - Sensome: La miniaturisation jusqu'à l'extrême avec Gor Lebedev",
+      "description": "\"si on savait la complexité technique que ça allait engendrer, on ne commencerait jamais le projet.\" Le D.E.V. de la semaine est Gor Lebedev, CTO chez Sensome. Dans cet épisode, il partage les coulisses techniques et humaines de la création d'un capteur miniature capable de détecter la nature d'un…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-343-2764ead9dba4",
+      "pubDate": "2026-01-21T04:00:46.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://audio.audiomeans.fr/file/ayaVFqnsuO/da286347-8a53-4198-abd9-2764ead9dba4.mp3?_=1768914106",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/da286347-8a53-4198-abd9-2764ead9dba4.mp3?_=1768914106",
+      "duration": "52:23"
     },
     {
       "id": "21144dad47a1",
@@ -845,6 +881,24 @@
       "image": null
     },
     {
+      "id": "fb1f891cdb03",
+      "title": "#342.src - Agilité destructrice: Pourquoi l'agilité ne vous rendra pas plus rapide avec Denis Migot",
+      "description": "\"On s'en fiche d'être agile. Qu'est-ce qu'on veut faire avec ça ?\" Le D.E.V. de la semaine est Denis Migot, chief of staff du Département Produit chez Fabriq. Dans cet épisode, il démonte les illusions autour de l'agilité, souvent réduite à une surcouche process sans réel changement de fond. Denis…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-342-8991a2224b0c",
+      "pubDate": "2026-01-14T04:00:44.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://audio.audiomeans.fr/file/ayaVFqnsuO/4a641c88-1403-491d-93c9-8991a2224b0c.mp3?_=1768309304",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/4a641c88-1403-491d-93c9-8991a2224b0c.mp3?_=1768309304",
+      "duration": "46:11"
+    },
+    {
       "id": "2dbc8a569416",
       "title": "Développeur à l’ère des agents IA : mutation, industrialisation et avenir du métier",
       "description": "En 2025, les agents IA ont profondément transformé le développement logiciel. Revue de presse des impacts concrets sur le métier de développeur, entre industrialisation, expertise et renouveau.",
@@ -1059,6 +1113,24 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390540-cover.jpg"
+    },
+    {
+      "id": "e39004c4d6af",
+      "title": "#341.bin - Bilan 2025: IA, productivité et rupture : nouvelle donne pour les développeurs ? avec Quentin Adam",
+      "description": "\"Le développeur, sa valeur, c'est d'être capable d'automatiser, de penser l'automatisation du boulot qu'il connaît de la boîte.\" Le D.E.V. de la semaine est Quentin Adam, CEO chez Clever Cloud. Dans cet épisode bilan, Quentin revient sans filtre sur une année 2025 dense pour Clever, entre expansion…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-341-ba8e6e29ad65",
+      "pubDate": "2026-01-07T04:00:30.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://audio.audiomeans.fr/file/ayaVFqnsuO/1a936cbc-f66b-45b8-806f-ba8e6e29ad65.mp3?_=1767704490",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/1a936cbc-f66b-45b8-806f-ba8e6e29ad65.mp3?_=1767704490",
+      "duration": "01:27:46"
     },
     {
       "id": "e3f8087b67ae",

@@ -558,6 +558,24 @@
       "image": "https://blog.ippon.fr/content/images/2026/02/spec-driven-developement.png"
     },
     {
+      "id": "4f4362f6a61a",
+      "title": "#347.src - Vibe Coding: Coder, c'est valider : prototyper, jeter, recommencer avec Pierre Lemaire",
+      "description": "\"Il n'y a qu'une seule chose qui m'intéresse dans ce que je fais, c'est l'utilité.\" Le D.E.V. de la semaine est Pierre Lemaire, Startup Builder chez Hexa. Cet épisode revient sur la montée du Vibe Coding, ces nouvelles pratiques où l'on crée des MVPs bluffants sans pour autant être un dev…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-347-82cd87000c97",
+      "pubDate": "2026-02-18T04:00:53.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://audio.audiomeans.fr/file/ayaVFqnsuO/bfe7b74b-2ae3-46e8-88cb-82cd87000c97.mp3?_=1771333253",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/bfe7b74b-2ae3-46e8-88cb-82cd87000c97.mp3?_=1771333253",
+      "duration": "54:45"
+    },
+    {
       "id": "2d425c903f79",
       "title": "Touraine Tech 2026 - Voyage au pays de la rillette",
       "description": "Dans ma tournée des conférences tech de France pour jouer à Factorio, je suis passé par Touraine Tech, la semaine dernière. Comme toujours, c’est l’occasion de faire de nouvelles rencontres et de croiser les autres speakeuses et speakers. Voici donc le récap de ma visite à Touraine Tech, pour cette…",
@@ -925,6 +943,24 @@
       "image": "https://les-tilleuls.coop/wp-content/uploads/2026/02/image-145-1024x567.png"
     },
     {
+      "id": "2c7d75b9d100",
+      "title": "#346.src - IA & DevX: Code assisté, valeur humaine préservée avec Jocelyn N'takpe",
+      "description": "\"Il ne faut pas que l'humain se dédouane de son rôle\" Le D.E.V. de la semaine est Jocelyn N'takpe, Head of Engineering et Head of Architecture chez ManoMano. Avec l'explosion des outils IA dans le quotidien des devs, Jocelyn partage comment ManoMano intègre Claude Code, Cursor et JetBrains AI pour…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-346-bc8b48298766",
+      "pubDate": "2026-02-11T04:00:52.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://audio.audiomeans.fr/file/ayaVFqnsuO/08157386-d323-4410-b09e-bc8b48298766.mp3?_=1770728512",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/08157386-d323-4410-b09e-bc8b48298766.mp3?_=1770728512",
+      "duration": "01:13:14"
+    },
+    {
       "id": "5ea20c4076f5",
       "title": "Les language tags : Mieux comprendre ce concept clé d’i18n et l10n",
       "description": "Lorsque l’on démarre le sujet de l’internationalisation et de la localisation, on est vite perdu dans cet océan de locales,",
@@ -1204,6 +1240,24 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!9ocx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff806da2b-f368-4f90-8043-82f08c0de439_2731x1778.webp"
+    },
+    {
+      "id": "f6a05e1c13ba",
+      "title": "#345.src - Les pièges du CTO: La lucidité, l'arme secrète du CTO avec Jean-Marc Leglise",
+      "description": "\"il faut être convaincu de la valeur humaine\" Le D.E.V. de la semaine est Jean-Marc Leglise, CTO et accompagnateur de CTOs. Avec 25 ans d'expérience et CTO depuis 15 ans, Jean-Marc partage son parcours : des petites équipes aux organisations IT de 120 personnes, il a appris à naviguer entre…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-345-453be1a0c555",
+      "pubDate": "2026-02-04T04:00:34.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://audio.audiomeans.fr/file/ayaVFqnsuO/fdfbad39-b049-4dba-9a97-453be1a0c555.mp3?_=1770123694",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/fdfbad39-b049-4dba-9a97-453be1a0c555.mp3?_=1770123694",
+      "duration": "01:02:31"
     },
     {
       "id": "195cfd76b550",

@@ -142,3 +142,8 @@ feeds:
   - url: https://lostinbrittany.dev/fr/feed.xml
     name: Lost in Brittany (Horacio Gonzalez)
     categories: [Programmation, Web, Cloud, IA]
+
+  - url: https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml
+    name: IFTTD - If This Then Dev
+    type: podcast
+    categories: [Programmation, IA, Web]

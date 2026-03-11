@@ -1,4 +1,4 @@
-import type { Article, MonthlyData } from '../types/index.ts';
+import type { Article, FeedType, MonthlyData } from '../types/index.ts';
 
 export function loadAllArticles(): Article[] {
   const modules = import.meta.glob<MonthlyData>('/data/*.json', { eager: true });
@@ -116,4 +116,30 @@ const categoryColors: Record<string, string> = {
 
 export function getCategoryColor(category: string): string {
   return categoryColors[category] || 'bg-zinc-500/20 text-zinc-400 border-zinc-500/30';
+}
+
+const typeLabels: Record<FeedType, string> = {
+  blog: 'Article',
+  podcast: 'Podcast',
+};
+
+const typeColors: Record<FeedType, string> = {
+  blog: 'bg-zinc-500/20 text-zinc-400 border-zinc-500/30',
+  podcast: 'bg-fuchsia-500/20 text-fuchsia-400 border-fuchsia-500/30',
+};
+
+export function getTypeLabel(type: FeedType): string {
+  return typeLabels[type] || 'Article';
+}
+
+export function getTypeColor(type: FeedType): string {
+  return typeColors[type] || typeColors.blog;
+}
+
+export function getAllTypes(articles: Article[]): FeedType[] {
+  const types = new Set<FeedType>();
+  for (const article of articles) {
+    types.add(article.type || 'blog');
+  }
+  return Array.from(types).sort();
 }
