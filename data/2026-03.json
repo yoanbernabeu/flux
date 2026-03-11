@@ -2,6 +2,78 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "1d6a98e28f66",
+      "title": "Installer et configurer Caddy 2 avec certificat SSL pour tous vos sous-domaines",
+      "description": "Sécuriser votre serveur avec des certificat SSL pour tous vos sous-domaines grâce au DNS challenge",
+      "link": "/fr/caddy-wildcard-dns-challenge/",
+      "pubDate": "2026-03-11T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null
+    },
+    {
+      "id": "0302f8f8c7c8",
+      "title": "Windows pour FrankenPHP désormais disponible ",
+      "description": "Nous sommes ravis d’annoncer la disponibilité immédiate du support officiel de Windows pour FrankenPHP. Depuis le lancement du projet en 2022, c’était de loin la fonctionnalité la plus demandée. Si beaucoup d’entre vous utilisaient déjà FrankenPHP sur Windows via WSL (Windows Subsystem for Linux),…",
+      "link": "https://les-tilleuls.coop/blog/windows-pour-frankenphp-desormais-disponible",
+      "pubDate": "2026-03-10T20:17:55.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/03/vignette-blog-1024x614.png"
+    },
+    {
+      "id": "fbfd5cf11daa",
+      "title": "Comment j'ai ré-écrit le moteur de mon blog en quelques heures avec Claude Code",
+      "description": "Il est 18h ce vendredi soir, et je suis devant une facture et des logs. On parle du Touilleur Express (ce blog). C'est un Wordpress, sur lequel j'ai mis quelques plugins, pas mal d'outils de défense et de caching, un petit CDN, et qui me coûte 50 euros par mois. Et ça m'agace de voir encore des…",
+      "link": "https://www.touilleur-express.fr/2026/03/10/de-wordpress-a-golang-avec-claude-code",
+      "pubDate": "2026-03-10T20:00:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null
+    },
+    {
+      "id": "b9e449357a95",
+      "title": "Centaure inversé et Burger King",
+      "description": "Vous vous souvenez de ce qu’est un Centaure ? Dans la mythologie grecque, c’est un monstre constitué d’un corps de cheval et d’un torse d’homme. Mais là, je vous parle de numérique. Voici une citation traduite par mes soins de Cory Doctorow (l’auteur de SF) : En théorie de l’automatisation, un…",
+      "link": "https://standblog.org/blog/post/2026/03/10/Centaure-inverse-et-Burger-King",
+      "pubDate": "2026-03-10T18:19:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/Burger_King_nettoyer_toilettes.jpg"
+    },
+    {
+      "id": "82d2d4f3bcf2",
+      "title": "OpenAI acquiert Promptfoo pour renforcer la sécurité des agents IA",
+      "description": "OpenAI acquiert Promptfoo pour renforcer la sécurité des agents IA et l'intégrer à sa plateforme Frontier. Cette acquisition vise à offrir aux entreprises des outils de test, d'évaluation et de conformité pour garantir la sécurité et la fiabilité de leurs systèmes d'intelligence artificielle.…",
+      "link": "https://oliviersauvage.com/2026/03/10/openai-acquiert-promptfoo-pour-renforcer-la-securite-des-agents-ia/",
+      "pubDate": "2026-03-10T16:00:30.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null
+    },
+    {
       "id": "d88fee335c39",
       "title": "Le développeur dans 5 ans : voici les 10 compétences qui résisteront à l’IA",
       "description": "Le WEF a publié son diagnostic sur les métiers tech d'ici 2030 et McKinsey a compté les compétences qui résistent à l'automatisation : voici un plan d'action que vous pouvez commencer cette semaine.",
@@ -205,6 +277,19 @@
       "image": "https://blog.ippon.fr/content/images/2026/03/Generated-Image-Mar-06-2026-from-Google-AI-Studio--1-.png"
     },
     {
+      "id": "b7285745ef66",
+      "title": "Les coûts cachés des processus manuels en B2B",
+      "description": "Découvrez comment une plateforme e-commerce B2B élimine les coûts cachés liés aux processus manuels, booste l'efficacité opérationnelle et favorise la croissance de votre entreprise. Apprenez comment automatiser les tâches, réduire les erreurs et améliorer l'expérience client pour une meilleure…",
+      "link": "https://oliviersauvage.com/2026/03/06/les-couts-caches-des-processus-manuels-en-b2b/",
+      "pubDate": "2026-03-06T09:19:57.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null
+    },
+    {
       "id": "c84409dc4a64",
       "title": "Les 4 nouveautés tech de la semaine #10 à ne pas manquer",
       "description": "Perplexity qui sort l’artillerie lourde, un retour haptique dans le navigateur, Obsidian qui passe en ligne de commande et une alternative gratuite à Postman. On en parle !",
@@ -307,6 +392,19 @@
       "image": "https://david.drugeon-hamon.bzh/blog/2026/02/news-fevrier/banner.avif"
     },
     {
+      "id": "450761523599",
+      "title": "Pourquoi les décisions d’achat B2B se prennent souvent dès le premier contact : le rôle crucial de la vidéo",
+      "description": "Découvrez pourquoi les décisions d'achat B2B sont souvent prises dès le premier jour et comment une stratégie vidéo bien pensée peut vous aider à influencer ces décisions. Apprenez les trois actes clés pour atteindre et engager le comité d'achat, et transformer votre entonnoir de vente en un…",
+      "link": "https://oliviersauvage.com/2026/03/04/pourquoi-les-decisions-dachat-b2b-se-prennent-souvent-des-le-premier-contact-le-role-crucial-de-la-video/",
+      "pubDate": "2026-03-04T14:54:31.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null
+    },
+    {
       "id": "b3bdc389ad34",
       "title": "Les agents IA : pas si autonomes qu’on pourrait le croire !",
       "description": "Une étude conjointe de Carnegie Mellon et Stanford remet en question la vision sur l'impact de l'IA dans le travail. Elle révèle que les recherches se concentrent sur une petite portion d'emplois, souvent des tâches simples. En réalité, les agents IA ont des limitations notables et ne peuvent…",
@@ -364,6 +462,19 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!5gqG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa108f958-190c-47b9-a3aa-5eeb9d61bbca_1920x1253.webp"
+    },
+    {
+      "id": "48b8ea0ec0f2",
+      "title": "Faites un audit SEO-GEO",
+      "description": "Le GEO est désormais sur toutes les lèvres, mais comment s’y retrouver quand on y connait rien. On a peut-être la solution pour vous. Victor Lerat, qui est un expert reconnu du référencement a développé un outil qu’il a mis en libre accès pour vous aider vous même à analyser votre capacité à vous…",
+      "link": "https://oliviersauvage.com/2026/03/03/faites-un-audit-seo-geo/",
+      "pubDate": "2026-03-03T13:43:32.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null
     },
     {
       "id": "f73e307e0e6b",
