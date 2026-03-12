@@ -31,13 +31,13 @@ const canonicalURL = canonicalOverride || new URL(Astro.url.pathname, Astro.site
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonicalURL} />
-    <meta property="og:title" content="Flux. Veille technologique agrégée par YoanDev" />
+    <meta property="og:title" content={`Flux YoanDev | ${title}`} />
     <meta property="og:description" content={description} />
     {image && <meta property="og:image" content={image} />}
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Flux. Veille technologique agrégée par YoanDev" />
+    <meta name="twitter:title" content={`Flux YoanDev | ${title}`} />
     <meta name="twitter:description" content={description} />
     {image && <meta name="twitter:image" content={image} />}
 
