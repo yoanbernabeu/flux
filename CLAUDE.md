@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Flux is a French-language RSS feed aggregator built with **Astro 5** and deployed on **Netlify**. It aggregates 36 tech RSS feeds into a static site with client-side search and filtering.
+Flux is a French-language RSS feed aggregator built with **Astro 5** and deployed on **Netlify**. It aggregates tech RSS feeds and YouTube channels into a static site with client-side search and filtering.
 
 ## Commands
 
@@ -17,15 +17,17 @@ Flux is a French-language RSS feed aggregator built with **Astro 5** and deploye
 
 ## Architecture
 
-**Data pipeline:** `feeds.yaml` → `scripts/fetch-feeds.ts` (rss-parser + retry logic) → monthly JSON files in `/data/` → Astro static build → Netlify deploy.
+**Data pipeline:** `feeds.yaml` → `scripts/fetch-feeds.ts` (rss-parser for RSS/Atom, YouTube Data API v3 for YouTube channels, parallel batch processing) → monthly JSON files in `/data/` → Astro static build → Netlify deploy.
 
 **Key flow:** GitHub Actions runs `fetch-feeds` daily at 4 UTC, commits new articles, then Netlify rebuilds.
 
-**Frontend:** Static HTML with client-side JS for Fuse.js search, category/source filtering, and pagination (15 articles/page). Uses Tailwind CSS v4 and Astro View Transitions.
+**Frontend:** Static HTML with client-side JS for Fuse.js search, category/source/type filtering, and pagination (15 articles/page). Uses Tailwind CSS v4 and Astro View Transitions. Three content types: blog articles, podcasts (with audio player), and YouTube videos (with embedded player).
+
+**YouTube integration:** YouTube channels use the YouTube Data API v3 (playlistItems endpoint, 1 unit/request). The `YOUTUBE_API_KEY` env var is required (`.env` locally, GitHub Actions secret in CI). In `feeds.yaml`, YouTube feeds use `type: youtube` and the `url` field contains the channel ID (e.g. `UCxxx`).
 
 ## Key Files
 
-- `feeds.yaml` — RSS source definitions with categories
+- `feeds.yaml` — RSS/YouTube source definitions with categories and types
 - `scripts/fetch-feeds.ts` — Aggregation script (dedup via SHA256 URL hash, image extraction, date filtering)
 - `src/utils/articles.ts` — Article loading, search, categorization utilities
 - `src/types/index.ts` — TypeScript interfaces (Article, FeedsConfig)

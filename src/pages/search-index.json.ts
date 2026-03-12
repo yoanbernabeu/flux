@@ -15,6 +15,7 @@ export async function GET() {
     type: a.type || 'blog',
     ...(a.audioUrl ? { audioUrl: a.audioUrl } : {}),
     ...(a.duration ? { duration: a.duration } : {}),
+    ...(a.videoId ? { videoId: a.videoId } : {}),
   }));
   return new Response(JSON.stringify(index), {
     headers: { 'Content-Type': 'application/json' },

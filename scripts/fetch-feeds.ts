@@ -7,11 +7,13 @@ import type { FeedsConfig, Article, MonthlyData } from '../src/types/index.ts';
 const DATA_DIR = 'data';
 const FEEDS_FILE = 'feeds.yaml';
 const MAX_RETRIES = 2;
-const RETRY_DELAY = 3000;
+const RETRY_DELAY = 1000;
+const CONCURRENCY = 5;
 const MIN_DATE = new Date('2026-01-01T00:00:00Z');
+const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY || '';
 
 const parser = new RSSParser({
-  timeout: 15000,
+  timeout: 10000,
   headers: {
     'User-Agent': 'Flux-RSS-Aggregator/1.0',
   },
@@ -91,7 +93,7 @@ async function fetchWithRetry(url: string): Promise<RSSParser.Output<RSSParser.I
       // On retry, fetch raw text and strip BOM/whitespace before parsing
       const response = await fetch(url, {
         headers: { 'User-Agent': 'Flux-RSS-Aggregator/1.0' },
-        signal: AbortSignal.timeout(15000),
+        signal: AbortSignal.timeout(10000),
       });
       let text = await response.text();
       // Strip UTF-8 BOM and leading whitespace
@@ -144,6 +146,37 @@ function loadExistingData(): Map<string, MonthlyData> {
   return dataMap;
 }
 
+interface YouTubeVideo {
+  title: string;
+  description: string;
+  videoId: string;
+  publishedAt: string;
+  thumbnail: string;
+}
+
+async function fetchYouTubeVideos(channelId: string): Promise<YouTubeVideo[]> {
+  // The uploads playlist ID is the channel ID with "UC" replaced by "UU"
+  const uploadsPlaylistId = 'UU' + channelId.slice(2);
+  const url = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${uploadsPlaylistId}&maxResults=15&key=${YOUTUBE_API_KEY}`;
+
+  const response = await fetch(url, { signal: AbortSignal.timeout(15000) });
+  if (!response.ok) {
+    throw new Error(`YouTube API error: ${response.status} ${response.statusText}`);
+  }
+
+  const data = await response.json();
+  return (data.items || []).map((item: any) => ({
+    title: item.snippet.title,
+    description: item.snippet.description,
+    videoId: item.snippet.resourceId.videoId,
+    publishedAt: item.snippet.publishedAt,
+    thumbnail: item.snippet.thumbnails?.maxres?.url
+      || item.snippet.thumbnails?.high?.url
+      || item.snippet.thumbnails?.medium?.url
+      || null,
+  }));
+}
+
 async function main() {
   console.log('🚀 Démarrage de la récupération des flux RSS...\n');
 
@@ -163,14 +196,59 @@ async function main() {
 
   let newArticleCount = 0;
 
-  for (const feedConfig of config.feeds) {
-    console.log(`📡 Récupération: ${feedConfig.name} (${feedConfig.url})`);
+  async function processFeed(feedConfig: FeedsConfig['feeds'][number]): Promise<Article[]> {
+    const articles: Article[] = [];
+    const feedType = feedConfig.type || 'blog';
 
+    console.log(`📡 Récupération: ${feedConfig.name}`);
+
+    // YouTube feeds: use YouTube Data API
+    if (feedType === 'youtube') {
+      if (!YOUTUBE_API_KEY) {
+        console.warn(`  ⚠ YOUTUBE_API_KEY non définie, flux YouTube ignoré.`);
+        return articles;
+      }
+
+      try {
+        const videos = await fetchYouTubeVideos(feedConfig.url);
+        console.log(`  → ${videos.length} vidéos trouvées (${feedConfig.name})`);
+
+        for (const video of videos) {
+          const link = `https://www.youtube.com/watch?v=${video.videoId}`;
+          const id = generateId(link);
+          if (existingIds.has(id)) continue;
+
+          const parsedDate = new Date(video.publishedAt);
+          if (parsedDate.getTime() < MIN_DATE.getTime()) continue;
+          if (parsedDate.getTime() > Date.now()) continue;
+
+          articles.push({
+            id,
+            title: video.title,
+            description: truncateDescription(video.description),
+            link,
+            pubDate: parsedDate.toISOString(),
+            source: feedConfig.name,
+            sourceUrl: `https://www.youtube.com/channel/${feedConfig.url}`,
+            categories: feedConfig.categories,
+            image: video.thumbnail,
+            type: 'youtube',
+            videoId: video.videoId,
+          });
+        }
+      } catch (error) {
+        const message = error instanceof Error ? error.message : String(error);
+        console.error(`  ✗ Erreur YouTube API pour ${feedConfig.name}: ${message}`);
+      }
+      return articles;
+    }
+
+    // RSS/Atom feeds
     const feed = await fetchWithRetry(feedConfig.url);
-    if (!feed) continue;
+    if (!feed) return articles;
 
     const items = feed.items || [];
-    console.log(`  → ${items.length} articles trouvés`);
+    console.log(`  → ${items.length} articles trouvés (${feedConfig.name})`);
 
     for (const item of items) {
       const rawLink = item.link;
@@ -179,22 +257,14 @@ async function main() {
       const link = resolveUrl(rawLink, baseUrl);
 
       const id = generateId(link);
-
-      // Deduplication
       if (existingIds.has(id)) continue;
 
       const pubDate = item.pubDate || item.isoDate || new Date().toISOString();
       const parsedDate = new Date(pubDate);
-
-      // Ignorer les articles antérieurs au 1er mars 2026 ou dans le futur
       if (parsedDate.getTime() < MIN_DATE.getTime()) continue;
       if (parsedDate.getTime() > Date.now()) continue;
 
-      const monthKey = getMonthKey(pubDate);
-
-      const feedType = feedConfig.type || 'blog';
-
-      const article: Article = {
+      articles.push({
         id,
         title: item.title || 'Sans titre',
         description: truncateDescription(item.contentSnippet || item.content || item.summary),
@@ -208,15 +278,27 @@ async function main() {
         type: feedType,
         ...(feedType === 'podcast' && item.enclosure?.url ? { audioUrl: item.enclosure.url } : {}),
         ...(feedType === 'podcast' && (item as any).itunes?.duration ? { duration: (item as any).itunes.duration } : {}),
-      };
+      });
+    }
+    return articles;
+  }
 
-      // Add to the right month
-      if (!existingData.has(monthKey)) {
-        existingData.set(monthKey, { month: monthKey, articles: [] });
+  // Process feeds in parallel batches
+  for (let i = 0; i < config.feeds.length; i += CONCURRENCY) {
+    const batch = config.feeds.slice(i, i + CONCURRENCY);
+    const results = await Promise.all(batch.map((f) => processFeed(f)));
+
+    for (const articles of results) {
+      for (const article of articles) {
+        if (existingIds.has(article.id)) continue;
+        const monthKey = getMonthKey(article.pubDate);
+        if (!existingData.has(monthKey)) {
+          existingData.set(monthKey, { month: monthKey, articles: [] });
+        }
+        existingData.get(monthKey)!.articles.push(article);
+        existingIds.add(article.id);
+        newArticleCount++;
       }
-      existingData.get(monthKey)!.articles.push(article);
-      existingIds.add(id);
-      newArticleCount++;
     }
   }
 

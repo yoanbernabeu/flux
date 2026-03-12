@@ -2,6 +2,20 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "4c00be375013",
+      "title": "Découvrez Nano Banana 2 : la nouvelle référence en génération d’images",
+      "description": "Découvrez les nouvelles capacités de Nano Banana 2 (Gemini 3.1 Flash Image) : ancrage visuel via Google Search, nouveaux paramètres comme les ratios extrêmes et les résolutions 512px, et le contrôle du mode \"Réflexion\". Ce guide explore comment maximiser l'utilisation de ce modèle pour la…",
+      "link": "https://oliviersauvage.com/2026/03/12/decouvrez-nano-banana-2-la-nouvelle-reference-en-generation-dimages/",
+      "pubDate": "2026-03-12T05:37:41.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1a6bef1c7254",
       "title": "Structurer l’organisation autour du métier pour accélérer le changement",
       "description": "Les fusions et acquisitions constituent un levier classique de croissance et de transformation stratégique. Pourtant, si leur réussite est généralement évaluée à l’aune de critères économiques ou financiers, leurs conséquences organisationnelles restent souvent sous-estimées.",
@@ -33,6 +47,41 @@
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!KIuL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5cfbcc6-4eac-49b3-bdbc-1826d4cc8bc5_1920x1251.webp",
       "type": "blog"
+    },
+    {
+      "id": "bf9b34651349",
+      "title": "L'API Temporal en JavaScript (finit les Date !)",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/temporal-date-js-2316 Aujourd'hui je vous propose de découvrir l'objet [Temporal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Temporal) qui permet de de remplacer l'objet `Date` avec une gestion plus rigoureuse des…",
+      "link": "https://www.youtube.com/watch?v=unMrx5jd-go",
+      "pubDate": "2026-03-11T14:10:01.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/unMrx5jd-go/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "unMrx5jd-go"
+    },
+    {
+      "id": "3d1711a98f31",
+      "title": "Comment Devoxx France choisit ses conférences ?",
+      "description": "Bienvenue sur la chaîne du Studio Devoxx France ! Dans cette interview, Arnaud Héritier répond aux questions d'Emmanuel Bernard, sur l'organisation et le déroulé du \"CFP\", Call for Papers, de la conférence Devoxx France. Qui sélectionne les sujets ? Comment se fait le tri ? Comment trier plus de…",
+      "link": "https://www.youtube.com/watch?v=sO9zuxfz5AU",
+      "pubDate": "2026-03-11T08:41:36.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/sO9zuxfz5AU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "sO9zuxfz5AU"
     },
     {
       "id": "82debc6e10ee",
@@ -205,6 +254,22 @@
       "duration": "1:10:47"
     },
     {
+      "id": "3d7fb1aee9e1",
+      "title": "L’honnêteté et l’humilité dans la tech par Eric DYKSTEIN",
+      "description": "Dans ce passage, Eric parle d’un sujet essentiel dans la tech : l’honnêteté et l’humilité. Parce que derrière les CV, les compétences techniques et les entretiens… il y a aussi une posture, une manière de travailler et de collaborer. Un extrait qui donne déjà le ton de l’épisode. 📅 L’épisode…",
+      "link": "https://www.youtube.com/watch?v=54aayq-ejLM",
+      "pubDate": "2026-03-10T09:44:02.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/54aayq-ejLM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "54aayq-ejLM"
+    },
+    {
       "id": "d88fee335c39",
       "title": "Le développeur dans 5 ans : voici les 10 compétences qui résisteront à l’IA",
       "description": "Le WEF a publié son diagnostic sur les métiers tech d'ici 2030 et McKinsey a compté les compétences qui résistent à l'automatisation : voici un plan d'action que vous pouvez commencer cette semaine.",
@@ -326,6 +391,22 @@
       "type": "blog"
     },
     {
+      "id": "f4e2efb05beb",
+      "title": "Laravel : la formation COMPLETE pour devenir développeur Laravel en 2026 (cours ultra complet)",
+      "description": "🚀 Accéder à la formation Laravel complète (promo incluse) https://www.udemy.com/course/laravel-fr/?couponCode=LARAVELJUTSU&referralCode=D368E83E8CAD843729B4 🎟️ Coupon : LARAVELJUTSU 💸 Prix promo : 9,99€ (le prix le plus bas possible sur Udemy – valable environ 1 mois) Dans cette vidéo, je vous…",
+      "link": "https://www.youtube.com/watch?v=K63o_XBBYlw",
+      "pubDate": "2026-03-09T07:30:10.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/K63o_XBBYlw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "K63o_XBBYlw"
+    },
+    {
       "id": "ebd732443cdc",
       "title": "Cortical Labs : quand des cellules humaines jouent à Doom",
       "description": "Cortical Labs a créé le CL1, un ordinateur biologique utilisant 800 000 neurones vivants. Capable de jouer à Doom, ce système surpasse l'IA traditionnelle par sa faible consommation d'énergie et sa rapidité d'apprentissage. Cette fusion entre cellules vivantes et silicium ouvre une voie…",
@@ -382,6 +463,24 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "347b64974519",
+      "title": "Un agent IA qui connaît VRAIMENT votre projet Symfony ✨",
+      "description": "Symfony AI Mate : le serveur MCP qui connecte votre agent (Claude Code, Cursor, JetBrains AI...) directement à votre projet Symfony. Logs, profiler, services : votre agent y accède tout seul. Dans cette vidéo, on part de zéro avec la Symfony Demo et on installe AI Mate pas à pas. À la fin, votre…",
+      "link": "https://www.youtube.com/watch?v=pI2rxNkqImw",
+      "pubDate": "2026-03-08T17:01:08.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/pI2rxNkqImw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "pI2rxNkqImw"
     },
     {
       "id": "dc5f234ea930",
@@ -492,6 +591,22 @@
       "image": "https://blog.ippon.fr/content/images/2026/03/Generated-Image-Mar-06-2026-from-Google-AI-Studio--1-.png"
     },
     {
+      "id": "a1f4fb8f7d3a",
+      "title": "UX DataTables : Découverte des nouveautés (Intégration avec API Platform et Mercure)",
+      "description": "Dans cette vidéo, je vous présente les nouveautés majeures de UX DataTables, le bundle Symfony qui simplifie l’intégration de DataTables avec Symfony UX. Le bundle peut maintenant détecter automatiquement les ressources API Platform (JSON-LD / ApiResource) et configurer l’appel Ajax sans…",
+      "link": "https://www.youtube.com/watch?v=qYHRXr_qdPY",
+      "pubDate": "2026-03-06T13:01:37.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/qYHRXr_qdPY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "qYHRXr_qdPY"
+    },
+    {
       "id": "b7285745ef66",
       "title": "Les coûts cachés des processus manuels en B2B",
       "description": "Découvrez comment une plateforme e-commerce B2B élimine les coûts cachés liés aux processus manuels, booste l'efficacité opérationnelle et favorise la croissance de votre entreprise. Apprenez comment automatiser les tâches, réduire les erreurs et améliorer l'expérience client pour une meilleure…",
@@ -563,6 +678,21 @@
       "image": null
     },
     {
+      "id": "637315b0b99d",
+      "title": "Meetup Generative AI Paris - 2 Octobre 2025 chez LBC",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=vDovciiK5jc",
+      "pubDate": "2026-03-05T18:21:53.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/vDovciiK5jc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "vDovciiK5jc"
+    },
+    {
       "id": "43bbc6d25256",
       "title": "Découverte automatique de métriques Prometheus avec les labels Docker",
       "description": "Akvorado, un collecteur de flux réseau, s’appuie sur Traefik, un proxy HTTP, pour exposer les services HTTP d’un environnement Docker Compose. Des labels Docker attachés à chaque service définissent les règles de routage. Traefik les prend en compte automatiquement au démarrage d’un conteneur.…",
@@ -607,6 +737,22 @@
       "image": "https://david.drugeon-hamon.bzh/blog/2026/02/news-fevrier/banner.avif"
     },
     {
+      "id": "bf206ea5e37e",
+      "title": "Contrôler Claude Code à distance avec Telegram (la méthode la plus simple en 2026)",
+      "description": "Dans cette vidéo, je te montre la façon la plus simple de contrôler Claude Code à distance en 2026 grâce à Telegram. Grâce à ce système, tu peux envoyer des commandes à Claude Code directement depuis ton téléphone, lancer des tâches, corriger du code ou même construire un projet sans être devant…",
+      "link": "https://www.youtube.com/watch?v=E-4ZaX75M1I",
+      "pubDate": "2026-03-04T18:32:35.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/E-4ZaX75M1I/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "E-4ZaX75M1I"
+    },
+    {
       "id": "450761523599",
       "title": "Pourquoi les décisions d’achat B2B se prennent souvent dès le premier contact : le rôle crucial de la vidéo",
       "description": "Découvrez pourquoi les décisions d'achat B2B sont souvent prises dès le premier jour et comment une stratégie vidéo bien pensée peut vous aider à influencer ces décisions. Apprenez les trois actes clés pour atteindre et engager le comité d'achat, et transformer votre entonnoir de vente en un…",
@@ -631,6 +777,25 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "bf3575b768bf",
+      "title": "Dans les coulisses des géants de la tech",
+      "description": "« Arrêtez de nous faire des logiciels avec des dizaines de fonctionnalités dont tout le monde se fiche royalement » 🔥 C’est dit ! Rachel Dubois (Product Operating Model Expert et Full Stack Enterprise Coach) nous révèle dans cette conférence comment les géants de la tech comme Google, Airbnb,…",
+      "link": "https://www.youtube.com/watch?v=PdK1xADuUo4",
+      "pubDate": "2026-03-04T10:21:38.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/PdK1xADuUo4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "PdK1xADuUo4"
     },
     {
       "id": "955f711dd170",
@@ -694,6 +859,22 @@
       ],
       "image": null,
       "type": "blog"
+    },
+    {
+      "id": "c5e167ad9052",
+      "title": "Créer des apps mobiles avec NativePHP GRATUITEMENT 🚀",
+      "description": "🚀 NativePHP est maintenant gratuit et open source ! Tu peux enfin créer des applications mobiles en PHP sans payer de licence. Dans cette vidéo, on voit comment utiliser NativePHP pour créer une application mobile complète en utilisant Laravel. Liens utiles : ▶️ NativePHP : https://nativephp.com/…",
+      "link": "https://www.youtube.com/watch?v=EFkAZL7TtiY",
+      "pubDate": "2026-03-03T14:11:35.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/EFkAZL7TtiY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "EFkAZL7TtiY"
     },
     {
       "id": "48b8ea0ec0f2",
@@ -815,6 +996,22 @@
       "image": null
     },
     {
+      "id": "d907333dc5e9",
+      "title": "Playwright CLI ou MCP : Lequel te fait vraiment ÉCONOMISER des tokens ? 💸",
+      "description": "Playwright CLI ou Playwright MCP : lequel est le plus efficace pour réduire la consommation de tokens IA ? Dans cette vidéo, je compare en profondeur Playwright CLI et Playwright MCP pour analyser leur impact réel sur les coûts liés aux modèles IA (OpenAI, Claude, etc.). Si tu utilises Playwright…",
+      "link": "https://www.youtube.com/watch?v=DM1VEikVMkg",
+      "pubDate": "2026-03-02T10:34:51.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/DM1VEikVMkg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "DM1VEikVMkg"
+    },
+    {
       "id": "7ae747da05a5",
       "title": "Détection d'anomalies visuelles automatique : faut-il apprendre du défaut ou de la normalité ?",
       "description": "Comment bien choisir son modèle de détection d'anomalie visuelles ? La réponse dépend du coût de vos erreurs. Cet article compare deux approches sur un cas industriel, et guide votre choix selon vos contraintes opérationnelles.",
@@ -864,6 +1061,24 @@
       "type": "podcast",
       "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_128_iafatigue.mp3",
       "duration": "2884"
+    },
+    {
+      "id": "11640f28a4df",
+      "title": "WebMCP : la fin du web tel qu'on le connaît ?",
+      "description": "WebMCP (Web Model Context Protocol) est un nouveau standard W3C qui permet à une IA comme Claude d'interagir directement avec vos pages web, sans scraping ni API externe. Dans cette vidéo, je vous montre concrètement comment ça fonctionne avec une application Symfony 8 : MiamMCP, une app de…",
+      "link": "https://www.youtube.com/watch?v=Izn9rh6pSj4",
+      "pubDate": "2026-03-01T17:00:22.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/Izn9rh6pSj4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Izn9rh6pSj4"
     },
     {
       "id": "e651672f11b3",

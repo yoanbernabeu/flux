@@ -1,4 +1,4 @@
-export type FeedType = 'blog' | 'podcast';
+export type FeedType = 'blog' | 'podcast' | 'youtube';
 
 export interface FeedConfig {
   url: string;
@@ -24,6 +24,7 @@ export interface Article {
   type: FeedType;
   audioUrl?: string;
   duration?: string;
+  videoId?: string;
 }
 
 export interface MonthlyData {

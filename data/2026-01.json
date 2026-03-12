@@ -18,6 +18,22 @@
       "image": "https://david.drugeon-hamon.bzh/blog/2026/01/news-janvier/banner.avif"
     },
     {
+      "id": "1215144a7689",
+      "title": "Déployer Clawdbot (OpenClaw) chez Cloudflare avec Moltworker",
+      "description": "Dans cette vidéo, je t’explique comment installer et déployer Clawdbot (OpenClaw) sur Cloudflare Workers en utilisant Moltworker, la solution idéale pour exécuter des agents IA rapidement, de manière sécurisée et scalable. 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter :…",
+      "link": "https://www.youtube.com/watch?v=amJXaVqp7vA",
+      "pubDate": "2026-01-30T17:38:51.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/amJXaVqp7vA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "amJXaVqp7vA"
+    },
+    {
       "id": "d983e4527622",
       "title": "Quelle est la différence entre les skills, les agents et les slash commands ?",
       "description": "Voici comment j'ai appris à distinguer skills, agents et commandes pour garder un fil de conversation 8 fois plus propre et éviter que Claude \"oublie\" des détails critiques en pleine implémentation.",
@@ -113,6 +129,22 @@
       "duration": "00:08:39"
     },
     {
+      "id": "59ab6b2cc8d4",
+      "title": "Clawdbot / Moltbot / OpenClaw : Installation propre, rapide et sécurisée 🛡️",
+      "description": "Utilise mon code PENTIMINAX pour avoir -10% sur toutes les offres d'hébergement d'Hostinger : https://www.hostg.xyz/SHIm4 Découvrez Clawdbot, l’un des outils IA les plus puissants du moment 🤖 Dans cette vidéo, je vous montre comment installer Clawdbot proprement, l’utiliser efficacement, et…",
+      "link": "https://www.youtube.com/watch?v=FNy-fa0aSn4",
+      "pubDate": "2026-01-29T15:00:32.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/FNy-fa0aSn4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "FNy-fa0aSn4"
+    },
+    {
       "id": "eae2d029acf4",
       "title": "Les délimiteurs Twig : ce problème d'espace blanc que vous ignorez",
       "description": "Gaps inline-block, diffs bruyants, layouts instables : comprenez l'impact des délimiteurs Twig sur l'espace blanc et adoptez les bonnes pratiques avec {%- et {{-.",
@@ -125,6 +157,25 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "962885e9f3ac",
+      "title": "Vos requêtes SQL 10 000× plus rapides ⚡",
+      "description": "Vos requêtes SQL peuvent être beaucoup (beaucoup) plus rapides ⚡ Jusqu’à 10 000× plus rapides, et surtout du-ra-ble-ment ! Dans cet extrait, Alain Lesage (Consultant PostgreSQL chez Dalibo) rappelle une vérité simple : PostgreSQL n’est pas magique. Les performances ne tombent jamais du ciel. Elles…",
+      "link": "https://www.youtube.com/watch?v=n4LGJ2Q1Zzk",
+      "pubDate": "2026-01-29T08:53:19.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/n4LGJ2Q1Zzk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "n4LGJ2Q1Zzk"
     },
     {
       "id": "81552ce9d316",
@@ -155,6 +206,24 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "1be7f8791209",
+      "title": "Des SKILLS pour GREPAI 🔥",
+      "description": "Infos : https://yoanbernabeu.github.io/grepai/blog/introducing-grepai-skills/ ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉…",
+      "link": "https://www.youtube.com/watch?v=5_1hiThd498",
+      "pubDate": "2026-01-28T17:00:07.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/5_1hiThd498/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "5_1hiThd498"
     },
     {
       "id": "dd83f22c28f7",
@@ -308,6 +377,22 @@
       "image": "https://substackcdn.com/image/fetch/$s_!S9Rd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12da67b8-6f64-4e13-8a33-1855a7f76eb9_2720x1773.png"
     },
     {
+      "id": "94c291320f2e",
+      "title": "Attacher des fichiers à vos models Eloquent",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/has-media-laravel-2312 Quand on a besoin d'attacher des fichiers à nos modèles Eloquent, on pense souvent à des packages comme Spatie MediaLibrary. Le problème, c'est que ces extensions créent une table séparée pour gérer les médias. Dans certaines…",
+      "link": "https://www.youtube.com/watch?v=nlLBMQ_Wa70",
+      "pubDate": "2026-01-26T14:02:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/nlLBMQ_Wa70/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "nlLBMQ_Wa70"
+    },
+    {
       "id": "1bce695c0b0c",
       "title": "LLM : apprendre à s’auto-évaluer pour agir comme un agent",
       "description": "Comment des travaux comme GLAM et MAGELLAN apprennent aux LLM à estimer leurs chances de réussite, choisir quand agir et quand demander de l’aide.",
@@ -322,6 +407,40 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/01/Gemini_Generated_Image_vhb962vhb962vhb9.png"
+    },
+    {
+      "id": "caea0d2e3d63",
+      "title": "✨ Café Tech avec Imen ☕ #8 :Épisode avec Dorra Bartaguiz",
+      "description": "🎙️ Café Tech avec Imen — Épisode avec Dorra Bartaguiz Dans cet épisode de Café Tech avec Imen, je reçois 💎Dorra BARTAGUIZ // , CTO chez Arolla, coach, conférencière et autrice, engagée depuis des années dans le Software Craftsmanship et les bonnes pratiques de développement. Dorra est co-autrice…",
+      "link": "https://www.youtube.com/watch?v=HEhx8w9Mfio",
+      "pubDate": "2026-01-26T13:00:38.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/HEhx8w9Mfio/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "HEhx8w9Mfio"
+    },
+    {
+      "id": "b2b0bded6f55",
+      "title": "J'ai créé un outil qui comprend VRAIMENT ton code 👀",
+      "description": "🚀 On vient de lancer grepai sur Product Hunt ! J'adorerais avoir ton retour : https://www.producthunt.com/products/grepai?launch=grepai Fini de chercher des noms exacts de fonctions ou de variables. Avec grepai, tu décris ce que tu cherches en langage naturel et l'outil comprend ton intention. 📦…",
+      "link": "https://www.youtube.com/watch?v=XE0MLWf2M1Y",
+      "pubDate": "2026-01-26T08:01:19.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/XE0MLWf2M1Y/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "XE0MLWf2M1Y"
     },
     {
       "id": "a0eb4bfad002",
@@ -409,6 +528,70 @@
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
     },
     {
+      "id": "8c6680079482",
+      "title": "APPRENDRE PHP ET LARAVEL EN 2026",
+      "description": "En 2026, l’écosystème Laravel n’a jamais été aussi fluide… à condition de partir sur de bonnes bases. Dans cette vidéo, je te montre comment mettre en place un environnement PHP moderne et productif, puis comment apprendre efficacement PHP et Laravel avec les ressources officielles. On commence par…",
+      "link": "https://www.youtube.com/watch?v=-LF2n7wNV1U",
+      "pubDate": "2026-01-24T10:57:23.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/-LF2n7wNV1U/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "-LF2n7wNV1U"
+    },
+    {
+      "id": "b44ddd4604e8",
+      "title": "Vibe Coder un clone de X/Twitter avec Claude Code (Guide complet)",
+      "description": "Profitez des offres VPS chez Hostinger en cliquant sur mon lien https://www.hostinger.fr/yoandev10 et utiliser mon code coupon YOANDEV10 pour une réduction supplémentaire de 10% ---------- Le \"Vibe Coding\", c'est coder à la vitesse de la pensée avec l'IA. Dans cette vidéo, je vous montre exactement…",
+      "link": "https://www.youtube.com/watch?v=hIVj9fkVPRI",
+      "pubDate": "2026-01-24T08:00:54.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/hIVj9fkVPRI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "hIVj9fkVPRI"
+    },
+    {
+      "id": "a8e5b1ee8b0e",
+      "title": "GEO (Generative Engine Optimization) : un enjeu stratégique pour les marques - Gen AI Rennes #10",
+      "description": "Captation vidéo de Generative AI Rennes #10 enregistrée chez @groupe_sii Rennes le 23 janvier 2026. Antoine Heftler, Accompagnement Stratégique GEO – Ardelys AI, a décrypté le fonctionnement des moteurs génératifs et les différences fondamentales avec le SEO. Il nous a démontré pourquoi chaque…",
+      "link": "https://www.youtube.com/watch?v=a5LS8n-tUPo",
+      "pubDate": "2026-01-23T11:41:47.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/a5LS8n-tUPo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "a5LS8n-tUPo"
+    },
+    {
+      "id": "a01593efac5b",
+      "title": "IA générative et création visuelle : le point de vue d’un Creative Director - Gen AI Rennes #10",
+      "description": "Captation vidéo de Generative AI Rennes #10 enregistrée chez @groupe_sii le 23 janvier 2026. Quentin Lesturgeon, Creative Director et fondateur de Grandmur nous a partagé un retour d’expérience sans filtre sur l’usage de l’IA générative dans la production d’images et de vidéos. Entre fantasmes,…",
+      "link": "https://www.youtube.com/watch?v=Jok-a04Sjp8",
+      "pubDate": "2026-01-23T11:26:13.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/Jok-a04Sjp8/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Jok-a04Sjp8"
+    },
+    {
       "id": "8bcb9ca8d22a",
       "title": "La Couche Sémantique : Le Chaînon Manquant de la Valorisation des Données d'Entreprise",
       "description": "Pourquoi et comment implementer une couche sémantique dans votre plateforme data pour simplifier votre gouvernance et faciliter l'usage par l'IA",
@@ -455,6 +638,24 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390299-cover.jpg"
+    },
+    {
+      "id": "53e4072f53bc",
+      "title": "Crée tes vidéos avec du code ! 🧑‍💻",
+      "description": "Source : https://www.remotion.dev/docs/ai/skills ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉…",
+      "link": "https://www.youtube.com/watch?v=dR3XABCBqXI",
+      "pubDate": "2026-01-22T17:01:06.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/dR3XABCBqXI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "dR3XABCBqXI"
     },
     {
       "id": "278fe174356a",
@@ -764,6 +965,24 @@
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390471-cover.jpg"
     },
     {
+      "id": "f778209dbed8",
+      "title": "⚠️ DÉSINSTALLE REACT : jQuery 4.0 est là !",
+      "description": "C'est pas une blaque : https://blog.jquery.com/2026/01/17/jquery-4-0-0/ ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉…",
+      "link": "https://www.youtube.com/watch?v=eUbPcU2ELWI",
+      "pubDate": "2026-01-19T17:01:12.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/eUbPcU2ELWI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "eUbPcU2ELWI"
+    },
+    {
       "id": "0912ed16b731",
       "title": "FrankenPHP 1.11 : hot reload, logs structurés et performances améliorées",
       "description": "FrankenPHP 1.11 est disponible depuis fin décembre. Cette nouvelle version apporte une amélioration significative de la DX (hot reload) et renforce encore davantage l’intégration entre PHP et l’écosystème Go. Elle introduit plusieurs fonctionnalités majeures ainsi que des optimisations de…",
@@ -884,6 +1103,42 @@
       "image": null
     },
     {
+      "id": "913847149cb4",
+      "title": "L'erreur fatale qui a tué des business",
+      "description": "Imagine te réveiller demain matin : ta base de données Supabase est vide ou corrompue, et tu réalises que ta dernière sauvegarde date d'il y a 3 mois... C'est le scénario catastrophe qui a mis la clé sous la porte de nombreux projets SaaS. Dans cette vidéo, on arrête de bricoler des scripts cron…",
+      "link": "https://www.youtube.com/watch?v=uq9p84EbSvk",
+      "pubDate": "2026-01-17T08:01:08.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/uq9p84EbSvk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "uq9p84EbSvk"
+    },
+    {
+      "id": "b8ef945f538d",
+      "title": "Le père de Linux code avec une IA ? 🐧🤖",
+      "description": "🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉 https://formation.yoandev.co/creer-son-premier-bundle-symfony-de-l-idee-a-la-publication-sur-packagist…",
+      "link": "https://www.youtube.com/watch?v=79PVv-f7_2I",
+      "pubDate": "2026-01-16T16:30:02.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/79PVv-f7_2I/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "79PVv-f7_2I"
+    },
+    {
       "id": "95405354e328",
       "title": "Site internet du Centre Hospitalier de Cholet",
       "description": "Établis­se­ment de santé de réfé­rence sur le terri­toire chole­tais, le Centre Hospi­ta­lier d",
@@ -988,6 +1243,24 @@
       "image": null
     },
     {
+      "id": "fff38945ebcc",
+      "title": "🛑 Ton Agent IA gaspille ton argent !",
+      "description": "GrepAI: https://yoanbernabeu.github.io/grepai/ ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉…",
+      "link": "https://www.youtube.com/watch?v=KjRjQPmgOlY",
+      "pubDate": "2026-01-15T17:30:17.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/KjRjQPmgOlY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "KjRjQPmgOlY"
+    },
+    {
       "id": "cd1231d364cf",
       "title": "Il a mis Siri et Alexa à la retraite!",
       "description": "Cette semaine, format exceptionnel : Steeve et Mehdi reçoivent en studio le \"taulier\" de l'IA vocale mondiale, pendant que Jean-Baptiste est en duplex du CES à Las Vegas (où il présente les technos de streaming de Kyber et les nouveautés VLC). PS : au vu du nombres d'inscrits à Gradium en moins de…",
@@ -1003,6 +1276,22 @@
       "type": "podcast",
       "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/696907aca3b74ba76b2a46c5/media.mp3",
       "duration": "1:12:33"
+    },
+    {
+      "id": "3df1c71540d1",
+      "title": "Je ne déteste plus TailwindCSS ?!",
+      "description": "TailwindCSS, je l'ai détesté à sa sortie. Aujourd'hui, je l'utilise sur quasiment tous mes projets. Dans cette vidéo, je vous explique ce qui m'a fait changer d'avis. - 00:00 Introduction - 00:44 C'est quoi Tailwind ? - 01:19 Pourquoi j'ai détesté ? - 02:43 Pourquoi j'ai changé d'avis ? - 02:54…",
+      "link": "https://www.youtube.com/watch?v=AX2ZUpF_OkE",
+      "pubDate": "2026-01-15T14:15:01.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/AX2ZUpF_OkE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "AX2ZUpF_OkE"
     },
     {
       "id": "647b5549a80c",
@@ -1070,6 +1359,40 @@
       "image": null
     },
     {
+      "id": "f8d2d7132bdb",
+      "title": "Claude Cowork, le Claude Code pour ta grand mère ?",
+      "description": "Info: https://claude.com/blog/cowork-research-preview ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉…",
+      "link": "https://www.youtube.com/watch?v=9WpA99Q55Jc",
+      "pubDate": "2026-01-14T17:00:16.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/9WpA99Q55Jc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "9WpA99Q55Jc"
+    },
+    {
+      "id": "d09e6e7bf3bc",
+      "title": "🤖 L’IA va-t-elle remplacer les développeurs ?",
+      "description": "Dans cet extrait de Café Tech avec Imen, Hubert partage une vision lucide et rassurante sur l’arrivée de l’intelligence artificielle dans notre quotidien de développeur. 👉 Non, l’IA ne remplace pas les devs. 👉 Oui, elle nous aide énormément, surtout sur des tâches chronophages comme la…",
+      "link": "https://www.youtube.com/watch?v=kg7riielf1U",
+      "pubDate": "2026-01-14T11:07:32.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/kg7riielf1U/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "kg7riielf1U"
+    },
+    {
       "id": "fb1f891cdb03",
       "title": "#342.src - Agilité destructrice: Pourquoi l'agilité ne vous rendra pas plus rapide avec Denis Migot",
       "description": "\"On s'en fiche d'être agile. Qu'est-ce qu'on veut faire avec ça ?\" Le D.E.V. de la semaine est Denis Migot, chief of staff du Département Produit chez Fabriq. Dans cet épisode, il démonte les illusions autour de l'agilité, souvent réduite à une surcouche process sans réel changement de fond. Denis…",
@@ -1131,6 +1454,22 @@
         "Web"
       ],
       "image": null
+    },
+    {
+      "id": "3d08e3d67812",
+      "title": "Pourquoi ton CFP n’est pas sélectionné (et comment l’améliorer)",
+      "description": "Soumettre un CFP, c’est bien. Être sélectionné, c’est autre chose. Dans ce short, Cécile partage les vrais critères de sélection d’un CFP : ce que les comités regardent vraiment, ce qui fait la différence entre un talk accepté… ou refusé, et comment maximiser tes chances sans être “expert reconnu”.…",
+      "link": "https://www.youtube.com/watch?v=XIpC1X0rssQ",
+      "pubDate": "2026-01-13T14:49:21.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/XIpC1X0rssQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "XIpC1X0rssQ"
     },
     {
       "id": "2cae3805556f",
@@ -1238,6 +1577,22 @@
       "image": "https://substackcdn.com/image/fetch/$s_!PwoY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31bce773-0080-48be-9297-9660e2a37e09_1920x1250.webp"
     },
     {
+      "id": "1f3b12cf191b",
+      "title": "✨ Café Tech avec Imen – Épisode spécial avec Cécile Helary Hamerel ☕",
+      "description": "Dans cet épisode, nous explorons le marketing, les événements tech, la communauté, la transmission et la place des femmes dans la tech. Cécile partage son expérience et nous raconte : - le travail de fond derrière les événements tech - l’importance du sens, de la cohérence et de l’impact - comment…",
+      "link": "https://www.youtube.com/watch?v=pmEwneYmuhE",
+      "pubDate": "2026-01-12T14:07:58.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/pmEwneYmuhE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "pmEwneYmuhE"
+    },
+    {
       "id": "adea0c8db9ea",
       "title": "Développement d'une plateforme web-cartographique d'indicateurs agroé­co­lo­gique",
       "description": "Une plate­forme pour comprendre et suivre la tran­si­tion agroé­co­lo­gique Le projet est porté par Sola­gro, avec le soutien de parte­naires publics et privés enga­gés pour la tran­si­tion écolo­gique : l’",
@@ -1310,6 +1665,40 @@
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
     },
     {
+      "id": "079e6e5fc2cd",
+      "title": "Symfony + FrankenPHP + Hostinger : Le combo gagnant ?",
+      "description": "Profitez des offres VPS chez Hostinger en cliquant sur mon lien https://www.hostinger.fr/yoandev10 et utiliser mon code coupon YOANDEV10 pour une réduction supplémentaire de 10% ---------- Le repo du projet : https://github.com/yoanbernabeu/FrankenHostinger ---------- 🚀 FORMATIONS 📘 Symfony 7 en…",
+      "link": "https://www.youtube.com/watch?v=4a0j4vFTSOE",
+      "pubDate": "2026-01-10T08:00:11.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/4a0j4vFTSOE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "4a0j4vFTSOE"
+    },
+    {
+      "id": "5795391f0596",
+      "title": "L’IA ne va pas nous remplacer… elle va nous aider (vraiment)",
+      "description": "Dans cet extrait de Café Tech avec Imen, on parle d’IA sans fantasmes ni peur : documentation, tâches répétitives, charge mentale… 👉 l’IA comme alliée, pas comme menace. Et toi, sur quoi l’IA t’aide le plus au quotidien ? 🤖💡 ☕️ Épisode complet disponible sur la chaîne 👉 Pense à t’abonner pour…",
+      "link": "https://www.youtube.com/watch?v=u4l84Yt_q1g",
+      "pubDate": "2026-01-09T15:06:15.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/u4l84Yt_q1g/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "u4l84Yt_q1g"
+    },
+    {
       "id": "de2f53ce5720",
       "title": "Les syndicats, (tout) contre l’IA",
       "description": "En 1977, la Confédération française démocratique du travail (CFDT) publie un épais ouvrage qui décrit le quotidien des travailleur·euses de la poste, des banques et d’autres secteurs concernés par l’automatisation 1. Le constat du syndicat est sans appel : l’accélération Les syndicats, (tout)…",
@@ -1336,6 +1725,22 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390540-cover.jpg"
+    },
+    {
+      "id": "44a867a264cd",
+      "title": "Structure de données : le UnionFind",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/union-find-structure-2310 Dans cette vidéo je vous propose de découvrir une nouvelle structure de données : le \"Union-Find\" qui permet de travailler sur des groupes disjoint. Pour vous donner un cas concret j'ai créé sur mon site un système permettant de…",
+      "link": "https://www.youtube.com/watch?v=M7hVY3bCWJE",
+      "pubDate": "2026-01-07T10:00:39.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/M7hVY3bCWJE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "M7hVY3bCWJE"
     },
     {
       "id": "e39004c4d6af",
@@ -1368,6 +1773,25 @@
         "Web"
       ],
       "image": null
+    },
+    {
+      "id": "d3cbeb3044bc",
+      "title": "Rencontrez le comité CFP de Devoxx France 2026 !",
+      "description": "Le Call for Papers (CFP) pour Devoxx France 2026 ferme ses portes le dimanche 11 janvier 2026 à minuit ⏰ Dans cette vidéo, quelques membres du comité CFP se sont prêtés au jeu des questions : 🔸 “Qu’est-ce que ça fait d’être membre du comité ?” 🔸 “C’est quoi la recette magique pour être accepté…",
+      "link": "https://www.youtube.com/watch?v=GrOx8NeZkl4",
+      "pubDate": "2026-01-06T12:44:28.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/GrOx8NeZkl4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "GrOx8NeZkl4"
     },
     {
       "id": "b26eb40bb854",

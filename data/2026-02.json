@@ -208,6 +208,22 @@
       "image": null
     },
     {
+      "id": "b6b5e86cc8bc",
+      "title": "Animer le changement de thème sur son site",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/theme-switcher-circle-2315 Dans cette vidéo je vous propose de découvrir comment on peut utiliser le système de `ViewTransition` pour dynamiser le changement de thème sur un site avec un effet de cercle qui grandit et qui masque la page.…",
+      "link": "https://www.youtube.com/watch?v=yNDUDGHC0g8",
+      "pubDate": "2026-02-26T14:10:01.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/yNDUDGHC0g8/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "yNDUDGHC0g8"
+    },
+    {
       "id": "f10779032ad8",
       "title": "Google met à jour Flow pour générer des vidéos encore plus belles !",
       "description": "Google Labs dévoile une mise à jour majeure de Flow, sa plateforme de création de contenu assistée par IA. L'interface est repensée pour centraliser la création d'images et vidéos, avec des outils d'édition intuitifs et une gestion flexible des actifs. Découvrez comment Flow simplifie votre…",
@@ -276,6 +292,25 @@
       "image": null
     },
     {
+      "id": "045276078812",
+      "title": "\"L'IA peut coder très vite, mais code très mal !\"",
+      "description": "On entend parler d’IA partout : dans nos feeds, dans nos équipes, dans nos boards stratégiques. Le constat est souvent le même : ✅ Ça code très vite ❌ Mais ça peut coder très mal ! En tout cas au regard des standards comme la maintenabilité, bref : pas exactement ce qu’on appelle du software…",
+      "link": "https://www.youtube.com/watch?v=j-usNx0AFSI",
+      "pubDate": "2026-02-25T07:35:54.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/j-usNx0AFSI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "j-usNx0AFSI"
+    },
+    {
       "id": "f20884f4e39e",
       "title": "Le syndrome B2BigB : comment les grands groupes tuent doucement les startups ",
       "description": "Vendre à un grand groupe semble être la validation ultime pour une startup. C'est souvent le début de la fin. Cycles de vente interminables, trésorerie en tension, produit détourné de sa roadmap : voici pourquoi le B2BigB est un piège, et comment essayer de l'éviter.",
@@ -316,6 +351,22 @@
         "Cloud"
       ],
       "image": null
+    },
+    {
+      "id": "d9daf9466eb9",
+      "title": "Double Authentification en PHP : le tuto que personne ne t'a montré 🚀",
+      "description": "Dans ce tuto, on implémente un système de double authentification (2FA) dans une app PHP Vanilla — sans Laravel, sans Symfony — grâce au package open source de @mrpunyapal (https://github.com/MrPunyapal/php-2fa). Compatible Google Authenticator, Authy et toutes les apps d'authentification TOTP. Au…",
+      "link": "https://www.youtube.com/watch?v=jLYtaZ8Wknk",
+      "pubDate": "2026-02-24T15:22:14.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/jLYtaZ8Wknk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "jLYtaZ8Wknk"
     },
     {
       "id": "1c263806a0be",
@@ -412,6 +463,22 @@
       "image": null
     },
     {
+      "id": "628e35b2acda",
+      "title": "🎙️ Café Tech avec Imen  ☕ #10– Épisode avec Raphaël Geffroy",
+      "description": "Dans cet épisode, je reçois Raphaël Geffroy, développeur chez SensioLabs, issu d’une reconversion professionnelle inspirante. Avant de travailler dans l’informatique, Raphaël évoluait dans le monde de la restauration. Aujourd’hui, il contribue à l’écosystème Symfony au sein de l’entreprise…",
+      "link": "https://www.youtube.com/watch?v=32Etma7GRVI",
+      "pubDate": "2026-02-23T13:00:06.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/32Etma7GRVI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "32Etma7GRVI"
+    },
+    {
       "id": "aaf979fd4407",
       "title": "JavaScript : Pourquoi l’API Temporal va (enfin) enterrer l’objet Date",
       "description": "Si vous développez en JavaScript, vous avez forcément déjà vécu ce moment de frustration intense face à l’objet Date. Entre l’indexation",
@@ -426,6 +493,40 @@
         "DevOps"
       ],
       "image": null
+    },
+    {
+      "id": "7fa097a548dc",
+      "title": "GotenbergBundle : LA nouvelle référence pour le PDF en Symfony",
+      "description": "Partenariat : Cette vidéo est réalisée en collaboration avec SensioLabs, les créateurs de Symfony : https://sensiolabs.com/fr/ 🤝 Générer des PDF en PHP a toujours été une douleur... jusqu'à aujourd'hui. 🚀 Dans cette vidéo, on explore GotenbergBundle, la solution maintenue par SensioLabs pour…",
+      "link": "https://www.youtube.com/watch?v=BwH2APvOb2U",
+      "pubDate": "2026-02-22T17:00:16.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/BwH2APvOb2U/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "BwH2APvOb2U"
+    },
+    {
+      "id": "a5280a5696b2",
+      "title": "Laravel Fuse : Protégez vos jobs des APIs qui tombent (Circuit Breaker Pattern)",
+      "description": "Tu as déjà eu des centaines de jobs qui fail en cascade parce qu'une API externe est down ? Laravel Fuse règle ce problème avec le pattern Circuit Breaker : quand trop d'erreurs sont détectées, le circuit s'ouvre et tes jobs arrêtent de s'exécuter inutilement. Fini les timeouts en chaîne, fini les…",
+      "link": "https://www.youtube.com/watch?v=-eTnYPBuQrg",
+      "pubDate": "2026-02-22T13:42:28.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/-eTnYPBuQrg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "-eTnYPBuQrg"
     },
     {
       "id": "353fb233137c",
@@ -538,6 +639,22 @@
       "image": null
     },
     {
+      "id": "fccda56d1aef",
+      "title": "Doctrine Doctor : Ton ORM est malade ? Voici le diagnostic 🩺",
+      "description": "Ton ORM rame, tes requêtes explosent en N+1, et tu ne sais plus d’où viennent les lenteurs ? 😵‍💫 Doctrine Doctor est un bundle Symfony qui fait un diagnostic runtime de Doctrine ORM directement dans le Symfony Web Profiler. Objectif : gagner du temps, réduire la charge DB, et rendre ton app…",
+      "link": "https://www.youtube.com/watch?v=4UHCWWk99cc",
+      "pubDate": "2026-02-19T17:47:56.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/4UHCWWk99cc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "4UHCWWk99cc"
+    },
+    {
       "id": "81d8a0d4575c",
       "title": "J’ai automatisé ma discipline de self-review (et je vous offre l’outil gratuitement)",
       "description": "Ma skill Claude Code complète pour transformer votre self-review en processus impossible à bâcler. Je vous l'offre gratuitement, prête à installer.",
@@ -598,6 +715,22 @@
       "image": "https://blog.zwindler.fr/2026/02/webperf0.webp"
     },
     {
+      "id": "d6b83f7c86ce",
+      "title": "L'IA s'invite sur mes missions Freelance",
+      "description": "🔗 Article : https://grafikart.fr/blog/impact-llm-freelance-ia Qu'on le veuille ou non, l'IA s'invite dans notre activité de freelance à travers les clients et les projets sur lesquels on est amené à travailler et elle est de plus en plus présente. Aussi, aujourd'hui je voulais partager avec…",
+      "link": "https://www.youtube.com/watch?v=KaheIi944OA",
+      "pubDate": "2026-02-19T14:00:38.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/KaheIi944OA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "KaheIi944OA"
+    },
+    {
       "id": "903bb36b3283",
       "title": "Hooks Claude Code : le guide complet pour reprendre le contrôle de votre assistant IA",
       "description": "Formatage automatique, blocage de commandes dangereuses, commits contextuels : 4 cas d'usage concrets avec du code prêt à l'emploi.",
@@ -627,6 +760,53 @@
         "IA"
       ],
       "image": "https://les-tilleuls.coop/wp-content/uploads/2026/02/7e6c3088-8d5d-4f20-9144-fe5ddc23cd01-1024x683.jpg"
+    },
+    {
+      "id": "d3124b90f945",
+      "title": "Claude Sonnet 4.6 : Le modèle qui bouscule Opus ? 🤯",
+      "description": "Découvrez Claude Sonnet 4.6, le tout dernier modèle d'IA dévoilé par Anthropic, qui redéfinit les capacités des modèles de langage. Dans cette vidéo, nous analysons pourquoi ce modèle est devenu le favori des développeurs, surpassant même Claude Opus 4.5 sur de nombreuses tâches complexes. Liens…",
+      "link": "https://www.youtube.com/watch?v=aAEbyW2zG6g",
+      "pubDate": "2026-02-18T10:00:54.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/aAEbyW2zG6g/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "aAEbyW2zG6g"
+    },
+    {
+      "id": "2970c96cacf8",
+      "title": "Le guide complet pour utiliser Claude Code dans VS Code",
+      "description": "Claude Code s’intègre désormais directement dans VS Code… et ça change tout pour les développeurs. Dans ce guide complet, je te montre comment installer, configurer et utiliser Claude Code dans Visual Studio Code pour booster ta productivité : génération de code, refactoring, compréhension du…",
+      "link": "https://www.youtube.com/watch?v=7dosmTFkaQI",
+      "pubDate": "2026-02-18T09:00:17.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/7dosmTFkaQI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "7dosmTFkaQI"
+    },
+    {
+      "id": "6ed103227130",
+      "title": "Projets et retours d'expérience autour de l'IA générative et du Cloud dans un environnement bancaire",
+      "description": "🎥 Agents IA en banque digitale : retour d’expérience concret chez Alpian Bank Comment déployer des agents IA dans une banque 100 % cloud et régulée FINMA ? Qu’est-ce qui fonctionne vraiment… et qu’est-ce qui échoue ? Dans cette présentation, l’équipe tech d’Alpian, banque digitale suisse lancée en…",
+      "link": "https://www.youtube.com/watch?v=WpeHe9a8nXo",
+      "pubDate": "2026-02-18T08:00:40.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/WpeHe9a8nXo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "WpeHe9a8nXo"
     },
     {
       "id": "0371d13d6650",
@@ -741,6 +921,22 @@
       "duration": "00:09:15"
     },
     {
+      "id": "b8afa0f40351",
+      "title": "La syntaxe Markdown",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/markdown-377 Le Markdown est une syntaxe incontournable pour tout développeur que l'on retrouve partout : dans les fichiers `README.md` sur GitHub, dans les commentaires d'issues, dans les outils de prise de note comme [Obsidian](https://obsidian.md/) ou…",
+      "link": "https://www.youtube.com/watch?v=UmQDMqAjZiw",
+      "pubDate": "2026-02-17T14:07:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/UmQDMqAjZiw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "UmQDMqAjZiw"
+    },
+    {
       "id": "63bc66f58a3c",
       "title": "Générer des PDFs à partir de HTML avec SecretPDF",
       "description": "Apprenez à générer des PDF depuis du HTML avec un seul call d'API !",
@@ -772,6 +968,37 @@
       "duration": "1:17:35"
     },
     {
+      "id": "2aa9707f26a3",
+      "title": "Cline CLI 2.0 : Le meilleur agent de code IA Open Source ?",
+      "description": "Cline CLI 2.0 débarque ! Dans cette vidéo, on explore en détail la nouvelle version de Cline CLI, l’agent de code IA open source qui transforme votre manière de développer. Si vous vous intéressez aux agents IA, au dev assisté par IA, ou aux outils open source pour développeurs, cette vidéo est…",
+      "link": "https://www.youtube.com/watch?v=IR_FqMRy17E",
+      "pubDate": "2026-02-17T09:00:33.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/IR_FqMRy17E/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "IR_FqMRy17E"
+    },
+    {
+      "id": "997754b04e53",
+      "title": "Construire une couche de confiance pour l’IA en entreprise : contrôle des données et gouvernance",
+      "description": "🎥 IA & Finance : Pourquoi l’IA générique ne suffit pas dans les domaines hyper-sécurisés Dans cette intervention, retour d’expérience sur trois années d’expérimentation intensive de l’IA dans les services financiers au sein de la startup Candice AI (https://candiceai.com/) Après des décennies…",
+      "link": "https://www.youtube.com/watch?v=2Wbg-vDzcmo",
+      "pubDate": "2026-02-17T08:00:03.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/2Wbg-vDzcmo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "2Wbg-vDzcmo"
+    },
+    {
       "id": "cfae016ab210",
       "title": "Quoi de neuf les devs? #166 - Veille tech et l'interview de Stella",
       "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de Stella. On parlera aussi de ✅ le langage Go, ✅ Rails, ✅ couleurs et contrastes, ✅ sudo, ✅ Japon, ✅ etc",
@@ -801,6 +1028,37 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/02/CloudNativeDays-1.png"
+    },
+    {
+      "id": "dc79f6cee5d7",
+      "title": "EasyAdminBundle : Découverte des nouveautés (v4.28, v.4.29 et v5.0)",
+      "description": "Dans cette vidéo, on explore les nouveautés majeures qui débarquent avec EasyAdminBundle v5.0 (beta). Cette version apporte des améliorations très attendues pour rendre vos backends Symfony encore plus puissants, flexibles et propres. Au programme : ✅ Support des CSP nonce (Content Security Policy)…",
+      "link": "https://www.youtube.com/watch?v=_Gn-hl_wXek",
+      "pubDate": "2026-02-16T09:00:53.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/_Gn-hl_wXek/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "_Gn-hl_wXek"
+    },
+    {
+      "id": "97ce8b6bbbb0",
+      "title": "Premiers pas pour créer son propre workflow d’agents IA avec vos données métiers",
+      "description": "🎥 Reprendre le contrôle des LLM dans la banque et l’assurance Dans cette conférence 100% live et interactive, Vincent Bertin explore l’écosystème des LLM (Large Language Models) et montre pourquoi les acteurs régulés — notamment banques et assurances — doivent reprendre le contrôle de leurs…",
+      "link": "https://www.youtube.com/watch?v=zXO_FHXWY1I",
+      "pubDate": "2026-02-16T08:01:16.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/zXO_FHXWY1I/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "zXO_FHXWY1I"
     },
     {
       "id": "1a0606d940ab",
@@ -1054,6 +1312,25 @@
       "image": "https://i0.wp.com/dev-to-uploads.s3.amazonaws.com/uploads/articles/1yf6q4vacqcvsmlbjb1t.png?w=800&#038;ssl=1"
     },
     {
+      "id": "9d946ea7e19b",
+      "title": "Using GraalVM in Production",
+      "description": "“Quand ne PAS utiliser GraalVM ?” 🤔 C’est la question qu’on pose à Alina Yurenko pratiquement à chaque conférence 😅 Sa réponse : toujours l’utiliser… mais pas forcément de la même manière. Dans cet extrait de sa conférence “Bring the Action: Using GraalVM in Production”, Alina rappelle une chose…",
+      "link": "https://www.youtube.com/watch?v=SFdn2XWaxLA",
+      "pubDate": "2026-02-12T10:17:52.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/SFdn2XWaxLA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "SFdn2XWaxLA"
+    },
+    {
       "id": "6a6d9bc370f9",
       "title": "Le guide définitif : quand utiliser type vs interface en TypeScript",
       "description": "J’ai épluché toutes les sources récentes sur type vs interface. Voici ce qu’il faut retenir ainsi que la règle que j’applique depuis plusieurs mois.",
@@ -1131,6 +1408,21 @@
         "DevOps"
       ],
       "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2025/12/image-11.png?resize=193%2C66&#038;ssl=1"
+    },
+    {
+      "id": "755a527b50e5",
+      "title": "REX : Gen AI et développement logiciel, récit d'une mutation profonde par Xavier Gorse",
+      "description": "​Pour ce premier meetup de l'année, Xavier Gorse vient nous partager le retour d'expérience de son équipe chez Elao . ​20 ans de développement sur mesure. Des méthodes rodées, une expertise construite projet après projet. Et en quelques mois, tout a bougé. ​La Gen AI a atteint une maturité qui…",
+      "link": "https://www.youtube.com/watch?v=4C7ttR2lS_E",
+      "pubDate": "2026-02-10T14:55:24.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/4C7ttR2lS_E/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "4C7ttR2lS_E"
     },
     {
       "id": "946f5d145622",
@@ -1223,6 +1515,22 @@
       "image": "https://substackcdn.com/image/fetch/$s_!n2rd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81331660-3377-4a4f-b7c3-649059cccaad_1280x834.webp"
     },
     {
+      "id": "1c13b325221c",
+      "title": "Café Tech avec Imen ☕ #9 — Mathéo Daninos",
+      "description": "Dans ce nouvel épisode de Café Tech avec Imen ☕, j’ai le plaisir d’échanger avec Mathéo Daninos, membre de la core team Symfony UX. Ensemble, on discute de : ✨ son parcours dans l’écosystème Symfony ✨ ce que signifie vraiment travailler sur Symfony UX ✨ l’importance de l’expérience développeur et…",
+      "link": "https://www.youtube.com/watch?v=SKCywxr_yRI",
+      "pubDate": "2026-02-09T13:00:49.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/SKCywxr_yRI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "SKCywxr_yRI"
+    },
+    {
       "id": "2c711671671e",
       "title": "J'ai essayé de quitter Windows pour Linux... Spoiler : ça s'est mal passé",
       "description": "Sécurité, géopolitique, obsolescence : les raisons de quitter Windows n'ont jamais été aussi fortes. Récit d'une tentative de migration vers Linux",
@@ -1235,6 +1543,24 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179391122-cover.jpg"
+    },
+    {
+      "id": "d726f8fc8942",
+      "title": "J'ai créé une app pour les JO 2026 plus vite que le CIO (Merci Claude Code !)",
+      "description": "J'ai créé une app pour les JO 2026 plus vite que le CIO 😅 Les JO d'hiver 2026 de Milano Cortina débutent et... pas d'app desktop officielle pour suivre les résultats. Alors j'ai décidé de la coder moi-même. Dans cette vidéo, je crée de A à Z avec Claude Code une application macOS qui se loge dans…",
+      "link": "https://www.youtube.com/watch?v=pyKywW1gH5s",
+      "pubDate": "2026-02-08T17:01:17.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/pyKywW1gH5s/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "pyKywW1gH5s"
     },
     {
       "id": "00e827d26cc9",
@@ -1252,6 +1578,22 @@
       "image": null
     },
     {
+      "id": "07fc7933fc7e",
+      "title": "The power of “why” in teamwork — bien plus qu’une phrase inspirante.",
+      "description": "Dans cet extrait de Café Tech avec Imen, Dorra Bartaguiz nous rappelle pourquoi poser la question “pourquoi ?” est un moteur puissant dans une équipe technique : 👉 donner du sens, 👉 aligner les intentions, 👉 éviter les malentendus, 👉 et renforcer la confiance. Quand une équipe comprend le…",
+      "link": "https://www.youtube.com/watch?v=-jn3QwW4784",
+      "pubDate": "2026-02-08T13:21:54.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/-jn3QwW4784/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "-jn3QwW4784"
+    },
+    {
       "id": "3fedc0123717",
       "title": "Avoir son ASN personnel pour annoncer ses IPs sur Internet",
       "description": "Je vais bientôt souffler la première bougie de mon ASN : 209238 🎉. Je me suis dit qu’il n’y aurait pas de meilleur cadeau pour lui que d’en faire un article de blog pour expliquer mon parcours et comment je l’utilise. On va commencer par le début et expliquer déjà ce qu’est un ASN. Qu’est-ce qu’un…",
@@ -1265,6 +1607,37 @@
         "Cybersécurité"
       ],
       "image": null
+    },
+    {
+      "id": "7741ac54680d",
+      "title": "Comment créer une équipe d’agents IA en 2026 - Gen AI Nantes #14",
+      "description": "Benoît est le co-fondateur et ex-CTO d’Agorapulse, une entreprise SaaS lancée en 2011 et devenue un leader mondial de la gestion des réseaux sociaux. Depuis deux ans, il explore l’état de l’art de l’IA agentique et l’applique à son nouveau projet : Globetrotters.ai , un assistant de voyage basé sur…",
+      "link": "https://www.youtube.com/watch?v=yObMfiPUMfM",
+      "pubDate": "2026-02-07T18:33:46.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/yObMfiPUMfM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "yObMfiPUMfM"
+    },
+    {
+      "id": "7dfe60180570",
+      "title": "Mago PHP : Le nouvel outil ultra-rapide écrit en Rust pour analyser votre code !",
+      "description": "Découvrez Mago, le nouvel outil PHP qui fait sensation ! Écrit en Rust, il propose 3 outils essentiels en un seul package pour vos projets PHP : ✅ Analyseur statique pour détecter les bugs ✅ Formateur de code pour un style cohérent ✅ Linter pour améliorer la qualité du code 🚀 Performance…",
+      "link": "https://www.youtube.com/watch?v=b0LHlgMOmjE",
+      "pubDate": "2026-02-07T15:43:51.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/b0LHlgMOmjE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "b0LHlgMOmjE"
     },
     {
       "id": "8671b6306f81",
@@ -1340,6 +1713,41 @@
       "image": null
     },
     {
+      "id": "44db6a8f8e08",
+      "title": "Créer des animations avec du Code (Motion Canvas)",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/motion-canvas-animation-code-2313 Quand on a besoin de créer des vidéos techniques, ajouter des animations est un bon moyen d'améliorer les explications et la compréhension. Malheureusement les logiciels d'animation classiques ne sont pas adaptés à ce…",
+      "link": "https://www.youtube.com/watch?v=kC51TiPAgQ4",
+      "pubDate": "2026-02-06T10:10:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/kC51TiPAgQ4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "kC51TiPAgQ4"
+    },
+    {
+      "id": "9ca31b7a21bf",
+      "title": "TDD & IA",
+      "description": "\"Je suis un senior dev, pourquoi j’aurais besoin d’un assistant de code ?\" Comme beaucoup, Benoît Prioux a d’abord été sceptique. Puis, à force de voir l’IA s’immiscer dans son workflow, il a fini par l’adopter… sans pour autant renoncer à ses principes. Car c’est là que le bât blesse : Copilot…",
+      "link": "https://www.youtube.com/watch?v=vgv65QDV7Ms",
+      "pubDate": "2026-02-06T08:46:49.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/vgv65QDV7Ms/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "vgv65QDV7Ms"
+    },
+    {
       "id": "b24de20bac4e",
       "title": "Impact de l'IA sur l'état de l'art de l'ingénierie logicielle en 2026",
       "description": "Comment l'IA a-t-elle transformé l'ingénierie logicielle ? De la fin de l'ego-coding au 'Context Driven Engineering', découvrez des retours d'expérience de Doctolib, Malt, Alan et Google sur l'industrialisation des agents IA en 2026",
@@ -1352,6 +1760,38 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179391028-cover.jpg"
+    },
+    {
+      "id": "7b2a9641667e",
+      "title": "Claude Opus 4.6 vs GPT-5.3-Codex ⚔️",
+      "description": "Dans cette vidéo, je compare Opus 4.6 (Claude) et GPT-5.3 Codex (ChatGPT) dans un véritable duel d’IA 🔥 Code, raisonnement, génération de réponses, vitesse, précision, compréhension du contexte… quelle IA est vraiment la plus forte en 2026 ? Développeur, créateur de contenu ou simplement curieux…",
+      "link": "https://www.youtube.com/watch?v=RcmEbO3XBts",
+      "pubDate": "2026-02-05T21:01:56.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/RcmEbO3XBts/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "RcmEbO3XBts"
+    },
+    {
+      "id": "7a4d35862e46",
+      "title": "Installer et utiliser OpenClaw (Clawdbot) sur un VPS Hostinger 💡",
+      "description": "Utilise mon code PENTIMINAX pour avoir -10% sur toutes les offres d'hébergement d'Hostinger : https://www.hostg.xyz/SHIm4 Dans cette vidéo, je te montre comment installer et utiliser OpenClaw (Clawdbot) sur un VPS Hostinger, étape par étape. OpenClaw est un agent IA open-source puissant qui permet…",
+      "link": "https://www.youtube.com/watch?v=L8kCOeATY5M",
+      "pubDate": "2026-02-05T20:15:13.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/L8kCOeATY5M/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "L8kCOeATY5M"
     },
     {
       "id": "a146d7a561bd",
@@ -1369,6 +1809,22 @@
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/18d027e8-3422-4532-a9f5-8a98fba49a9f_1200x630.webp"
     },
     {
+      "id": "35d5549385bb",
+      "title": "Mago : la toolchain PHP moderne (linter, formatter, analyzer)",
+      "description": "Mago n’est pas un simple linter PHP. C’est une toolchain PHP moderne, écrite en Rust, qui combine linting, formatting et analyse statique dans un seul outil ultra-rapide. Mago s’inscrit dans une nouvelle génération d’outils PHP : Plus rapides, plus stricts, plus cohérents, pensés pour les projets…",
+      "link": "https://www.youtube.com/watch?v=7MoYQTPUH-c",
+      "pubDate": "2026-02-04T15:00:19.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/7MoYQTPUH-c/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "7MoYQTPUH-c"
+    },
+    {
       "id": "618c3abfb039",
       "title": "Cloud Native Days France 2026 : mon retour sur l'événement",
       "description": "De retour de CND France 2026 3 ans après KCD France 2023 (que j’avais brièvement aidé à organiser), c’est le retour de la conf préférée des DevOps, SREs et autre platform engineers de France et de Navarre (enfin, je suis pas sûr pour la Navarre) : j’ai nommé Cloud Native Days France 2026, bien…",
@@ -1382,6 +1838,22 @@
         "Programmation"
       ],
       "image": "https://blog.zwindler.fr/2026/02/cndf26-keynote.webp"
+    },
+    {
+      "id": "e28291e4a8c5",
+      "title": "TDD is not unit tests",
+      "description": "❌ Le TDD, ce n’est pas “faire des tests unitaires”. Dans ce short, Dora Bartaguiz casse une idée reçue très répandue : le Test Driven Development, ce n’est pas écrire des tests après coup, ni cocher une case qualité. 👉 Le TDD, c’est avant tout : une méthode de conception une façon de penser le…",
+      "link": "https://www.youtube.com/watch?v=wcRe7qhJn6U",
+      "pubDate": "2026-02-04T09:07:31.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/wcRe7qhJn6U/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "wcRe7qhJn6U"
     },
     {
       "id": "c1eec90bb569",
@@ -1480,6 +1952,22 @@
       "image": null
     },
     {
+      "id": "26563c0e7b28",
+      "title": "OpenAI lance l’app Codex (Claude Code Killer ?)",
+      "description": "OpenAI lance l’app Codex sur macOS : un \"command center\" pour piloter des agents de développement en parallèle. Liens utiles : ▶️ Codex : https://chatgpt.com/codex 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les meilleures formations pour…",
+      "link": "https://www.youtube.com/watch?v=z6X9EnqQpNw",
+      "pubDate": "2026-02-03T15:01:51.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/z6X9EnqQpNw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "z6X9EnqQpNw"
+    },
+    {
       "id": "615a895b7e7c",
       "title": "Le Web Agentique",
       "description": "\"C'est pas une révolution. Il faut arrêter de dire que c'est incroyable. Quand on ouvre le capot, on voit plus de scotch que de tuyau.\" 🛠️ Bienvenue dans un nouvel épisode de A la French ! 🇫🇷 Après le Vibe Coding, on s'attaque à l'autre gros Buzzword du moment : le Web Agentique et les Agents…",
@@ -1538,6 +2026,24 @@
       "image": "https://standblog.org/blog/?pf=laugh.svg"
     },
     {
+      "id": "fa4983526072",
+      "title": "Ton SaaS n'est pas en sécurité ! (Teste-le tout de suite)",
+      "description": "Tu penses que ton projet Supabase est sécurisé parce que tu as activé les règles RLS ? Attention, c'est souvent là que se cachent les plus grosses erreurs de configuration. Dans cette vidéo, on va auditer la sécurité d'une application réelle. Je te montre les erreurs classiques que font 90% des…",
+      "link": "https://www.youtube.com/watch?v=KaB3hp95h1k",
+      "pubDate": "2026-02-01T18:00:29.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/KaB3hp95h1k/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "KaB3hp95h1k"
+    },
+    {
       "id": "e1e7e1417181",
       "title": "Recommandations de contenu avec Meilisearch",
       "description": "Implémentez un système de recommandation d'articles sur votre blog Symfony en utilisant Meilisearch comme moteur de similarité sémantique.",
@@ -1564,6 +2070,22 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "be1bd3e4d258",
+      "title": "Mon VS Code Minimaliste 2026 - Setup Complet (Thème, Extensions & Config)",
+      "description": "Dans cette vidéo, je vous partage ma configuration VS Code minimaliste complète ! 🎨 Ce que vous allez découvrir : Mon thème personnalisé Tailwind Ninja (gratuit sur le Marketplace) Les extensions essentielles que j'utilise pour Laravel/PHP Ma configuration complète (settings.json disponible)…",
+      "link": "https://www.youtube.com/watch?v=OBwB2gGzDok",
+      "pubDate": "2026-02-01T11:54:37.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/OBwB2gGzDok/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "OBwB2gGzDok"
     }
   ]
 }

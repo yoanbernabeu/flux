@@ -121,11 +121,13 @@ export function getCategoryColor(category: string): string {
 const typeLabels: Record<FeedType, string> = {
   blog: 'Article',
   podcast: 'Podcast',
+  youtube: 'YouTube',
 };
 
 const typeColors: Record<FeedType, string> = {
   blog: 'bg-zinc-500/20 text-zinc-400 border-zinc-500/30',
   podcast: 'bg-fuchsia-500/20 text-fuchsia-400 border-fuchsia-500/30',
+  youtube: 'bg-red-500/20 text-red-400 border-red-500/30',
 };
 
 export function getTypeLabel(type: FeedType): string {

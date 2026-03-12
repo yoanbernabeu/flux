@@ -232,6 +232,8 @@ for (let i = 1; i <= totalPages; i++) {
 
     const typeBadgeHtml = a.type === 'podcast'
       ? `<span class="absolute top-3 right-3 px-2 py-0.5 text-xs font-medium rounded-full border bg-fuchsia-500/20 text-fuchsia-400 border-fuchsia-500/30">Podcast</span>`
+      : a.type === 'youtube'
+      ? `<span class="absolute top-3 right-3 px-2 py-0.5 text-xs font-medium rounded-full border bg-red-500/20 text-red-400 border-red-500/30">YouTube</span>`
       : '';
 
     return `<article class="card-hover group rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] overflow-hidden fade-in-up flex flex-col">

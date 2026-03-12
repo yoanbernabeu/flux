@@ -185,3 +185,48 @@ feeds:
     name: Data Driven 101
     type: podcast
     categories: [IA]
+
+  - url: UCRlsJWh1XwmNGxZPFgJ0Zlw
+    name: YoanDev (YouTube)
+    type: youtube
+    categories: [Programmation, Web, DevOps, IA]
+
+  - url: UC36hi0WMeiR8HpUy-A2s4vQ
+    name: Laravel Jutsu (YouTube)
+    type: youtube
+    categories: [Programmation, Web]
+
+  - url: UCb-D560WkMEPE7dwNta_nqA
+    name: AFUP PHP (YouTube)
+    type: youtube
+    categories: [Programmation, Web]
+
+  - url: UCGP6SKfBAQDlEO2QZXPb_Ew
+    name: Les-Tilleuls.coop (YouTube)
+    type: youtube
+    categories: [Programmation, Web, Cloud, IA]
+
+  - url: UCj_iGliGCkLcHSZ8eqVNPDQ
+    name: Grafikart (YouTube)
+    type: youtube
+    categories: [Programmation, Web]
+
+  - url: UCsVPQfo5RZErDL41LoWvk0A
+    name: Devoxx France (YouTube)
+    type: youtube
+    categories: [Programmation, Web, DevOps, IA, Cloud]
+
+  - url: UCO6P25qG9O4f6Bk9UKMLAjw
+    name: Pentiminax (YouTube)
+    type: youtube
+    categories: [Programmation, Web]
+
+  - url: UCUe7lPmBpIVGBC4HIPHfCrA
+    name: Café Tech avec Imen (YouTube)
+    type: youtube
+    categories: [Programmation, IA]
+
+  - url: UCcTmGa_ZjVWzgJLBKq-XieQ
+    name: Generative AI France (YouTube)
+    type: youtube
+    categories: [IA]
