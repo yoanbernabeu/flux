@@ -167,3 +167,21 @@ feeds:
     name: Message à caractère informatique
     type: podcast
     categories: [Programmation, IA, Web]
+
+  - url: https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16
+    name: A la French
+    type: podcast
+    categories: [Programmation, IA]
+
+  - url: https://www.camilleroux.com/feed/
+    name: Camille Roux
+    categories: [Programmation, Web]
+
+  - url: https://blog.octo.com/feed
+    name: OCTO Talks
+    categories: [Programmation, Cloud, IA, DevOps]
+
+  - url: https://datadriven101.tech/feed
+    name: Data Driven 101
+    type: podcast
+    categories: [IA]
