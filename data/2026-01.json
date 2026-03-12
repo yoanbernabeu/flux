@@ -18,6 +18,21 @@
       "image": "https://david.drugeon-hamon.bzh/blog/2026/01/news-janvier/banner.avif"
     },
     {
+      "id": "d330477eb015",
+      "title": "Postfix minimal sur un serveur dédié Debian 13",
+      "description": "Postfix minimal sur un serveur dédié Debian 13 {align=right} [Postfix][1] est un serveur mail, et plus exactement un MTA (Mail Transfer Agent). Il gère l'envoi et la réception de mails par Internet en utilisant le protocole SMTP. Le monde de l'Open Source offre toute une panoplie de MTA, parmi…",
+      "link": "https://www.microlinux.fr/blog/debian-13-postfix-minimal/",
+      "pubDate": "2026-01-31T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/postfix.png",
+      "type": "blog"
+    },
+    {
       "id": "1215144a7689",
       "title": "Déployer Clawdbot (OpenClaw) chez Cloudflare avec Moltworker",
       "description": "Dans cette vidéo, je t’explique comment installer et déployer Clawdbot (OpenClaw) sur Cloudflare Workers en utilisant Moltworker, la solution idéale pour exécuter des agents IA rapidement, de manière sécurisée et scalable. 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter :…",
@@ -96,6 +111,21 @@
         "Cloud"
       ],
       "image": null
+    },
+    {
+      "id": "8b55c907919c",
+      "title": "Pare-feu avec FirewallD sur un serveur Debian 13",
+      "description": "Pare-feu avec FirewallD sur un serveur Debian 13 {align=right} [FirewallD][1] est un système de pare-feu principalement utilisé sur les systèmes Fedora et Red Hat Enterprise Linux et toutes les distributions dérivées de cette dernière comme Rocky Linux, AlmaLinux et Oracle Linux. On le trouve…",
+      "link": "https://www.microlinux.fr/blog/debian-13-firewalld/",
+      "pubDate": "2026-01-30T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/firewall.png",
+      "type": "blog"
     },
     {
       "id": "adedb60a1227",
@@ -443,6 +473,21 @@
       "videoId": "XE0MLWf2M1Y"
     },
     {
+      "id": "062715707e7b",
+      "title": "Configuration réseau d'un serveur Debian 13",
+      "description": "Configuration réseau d'un serveur Debian 13 {align=right} Dans cet article, je vais m'intéresser de plus près à la configuration du réseau sur un serveur Debian. Dans la mesure du possible, je vais privilégier une approche pratique et pragmatique, en m'appuyant sur trois cas de figure de mon…",
+      "link": "https://www.microlinux.fr/blog/debian-13-reseau/",
+      "pubDate": "2026-01-26T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/server-client.png",
+      "type": "blog"
+    },
+    {
       "id": "a0eb4bfad002",
       "title": "PHP 8.3 : typage renforcé et nouvelles fonctionnalités",
       "description": "PHP 8.3 : constantes typées, json_validate(), attribut #[Override] et clonage readonly. Découvrez les nouveautés qui améliorent la sûreté et les performances du langage.",
@@ -514,6 +559,21 @@
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
     },
     {
+      "id": "d131b971d801",
+      "title": "Configuration de base d'un serveur Debian 13",
+      "description": "Configuration de base d'un serveur Debian 13 {align=right} Dans cet article, nous allons partir d'une installation fraîche de Debian 13 Trixie sur un serveur. Peu importe si c'est une [machine locale][1], un [serveur dédié][2] ou un [routeur][3]. La configuration post-installation de chaque serveur…",
+      "link": "https://www.microlinux.fr/blog/debian-13-configuration/",
+      "pubDate": "2026-01-25T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/configuration.png",
+      "type": "blog"
+    },
+    {
       "id": "e47ea8039998",
       "title": "PHP 8.0 : la révolution qui a tout changé",
       "description": "Découvrez PHP 8.0 : JIT, arguments nommés, attributs, match expression, opérateur nullsafe et types d'union : tout ce qu'il faut savoir avec exemples pratiques.",
@@ -560,6 +620,21 @@
       "image": "https://i.ytimg.com/vi/hIVj9fkVPRI/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "hIVj9fkVPRI"
+    },
+    {
+      "id": "08ac6feb4517",
+      "title": "Installer un serveur dédié Debian 13 chez Scaleway",
+      "description": "Installer un serveur dédié Debian 13 chez Scaleway {align=right} Depuis quelques années, la société [Scaleway][1] (anciennement Online) propose une gamme de serveurs dédiés à des prix extrêmement intéressants, notamment la Dedibox Start, qui vous permet de disposer d'un accès root sur votre propre…",
+      "link": "https://www.microlinux.fr/blog/debian-13-dedibox/",
+      "pubDate": "2026-01-24T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/debian.png",
+      "type": "blog"
     },
     {
       "id": "a8e5b1ee8b0e",
@@ -638,6 +713,21 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390299-cover.jpg"
+    },
+    {
+      "id": "6444fe2ac1ac",
+      "title": "Installer Debian 13 sur une carte PC Engines",
+      "description": "Installer Debian 13 sur une carte PC Engines {align=right} Cet article décrit [l'installation de Debian 13 Trixie][1] sur un routerboard PC Engines, en remplacement du système [pfSense][2] préinstallé. La particularité de cette installation, c'est que la machine ne dispose pas de carte vidéo et…",
+      "link": "https://www.microlinux.fr/blog/debian-13-pcengines/",
+      "pubDate": "2026-01-23T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/serial-port.png",
+      "type": "blog"
     },
     {
       "id": "53e4072f53bc",
@@ -730,6 +820,21 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "cb2ee1c93186",
+      "title": "Installer un système de base Debian 13",
+      "description": "Installer un système de base Debian 13 {align=right} Cette page décrit de manière succincte l'installation d'un système de base Debian 13 Trixie sur une machine. Ce système minimal pourra ensuite servir de base pour une configuration serveur.",
+      "link": "https://www.microlinux.fr/blog/debian-13-base/",
+      "pubDate": "2026-01-22T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/debian.png",
+      "type": "blog"
     },
     {
       "id": "7392410eb2d3",
@@ -1243,6 +1348,21 @@
       "image": null
     },
     {
+      "id": "cb1d54f04441",
+      "title": "Debian 13 KDE aux petits oignons",
+      "description": "Debian 13 KDE aux petits oignons {align=right} Dans mon précédent article, j'ai publié un [topo détaillé][1] sur mes préférences personnelles en matière de systèmes d'exploitation. Aujourd'hui je vous ai mitonné une petite illustration pratique de tout cela, en partageant avec vous la configuration…",
+      "link": "https://www.microlinux.fr/blog/debian-13-microlinux/",
+      "pubDate": "2026-01-16T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/chef.png",
+      "type": "blog"
+    },
+    {
       "id": "fff38945ebcc",
       "title": "🛑 Ton Agent IA gaspille ton argent !",
       "description": "GrepAI: https://yoanbernabeu.github.io/grepai/ ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉…",
@@ -1548,6 +1668,21 @@
       "image": "https://domopi.eu/content/images/2025/10/liens-tech.webp"
     },
     {
+      "id": "e38b0f85f27f",
+      "title": "Comment j'ai choisi mon système d'exploitation",
+      "description": "Comment j'ai choisi mon système d'exploitation {align=right} Le Moyen Âge et la Renaissance avaient leurs guerres de religion, où l'on avait tout loisir de partir en croisade pour fracasser allègrement le crâne de tous les incroyants et, plus généralement, de tous ceux qui avaient le malheur de ne…",
+      "link": "https://www.microlinux.fr/blog/choisir-mon-os/",
+      "pubDate": "2026-01-13T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/software.png",
+      "type": "blog"
+    },
+    {
       "id": "ff619224f197",
       "title": "Le FOUC n'est pas un bug graphique, c'est une faille d'architecture !",
       "description": "Marre du contenu qui saute au chargement ? Découvrez comment éradiquer le FOUC (Flash of Unstyled Content), améliorer votre score CLS et optimiser l'UX de vos applications web modernes.",
@@ -1605,6 +1740,21 @@
         "Web"
       ],
       "image": null
+    },
+    {
+      "id": "55a7b88277a4",
+      "title": "Pilote NVidia 550.xx sous Debian 13 Trixie",
+      "description": "Pilote NVidia 550.xx sous Debian 13 Trixie {align=right} Je viens d'installer Debian 13 Trixie sur ma station de travail HP Z440, en remplacement de Rocky Linux 9. La machine est équipée d'une carte graphique NVidia GeForce GTX 1650 :",
+      "link": "https://www.microlinux.fr/blog/nvidia550-debian13/",
+      "pubDate": "2026-01-12T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/nvidia-linux.png",
+      "type": "blog"
     },
     {
       "id": "15bf6ff8261c",

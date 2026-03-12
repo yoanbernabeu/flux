@@ -181,6 +181,10 @@ feeds:
     name: Camille Roux
     categories: [Programmation, Web]
 
+  - url: https://blog.cockpitio.com/index.xml
+    name: Cockpit io
+    categories: [DevOps, Cloud, Cybersécurité]
+
   - url: https://blog.octo.com/feed
     name: OCTO Talks
     categories: [Programmation, Cloud, IA, DevOps]

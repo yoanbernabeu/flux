@@ -433,6 +433,22 @@
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/6668e869-3d97-420d-ade7-44fe1c79f08c_1200x630.webp"
     },
     {
+      "id": "549d8b9c2db2",
+      "title": "Alternatives à MinIO en 2026 : SeaweedFS, RustFS, Garage, CubeFS ou Ceph ?",
+      "description": "Contexte : MinIO passe en maintenance modeMinIO était la référence pour le stockage objet open source, utilisé massivement par des clusters Kubernetes, pipelines CI/CD, data lakes, et des solutions SaaS. Le 3 décembre 2025, l’annonce tombe via le README du répertoire GitHub : le projet MinIO passe…",
+      "link": "https://blog.cockpitio.com/cloud/minio-maintenance-mode-migration-ceph-alternatives/",
+      "pubDate": "2026-02-24T07:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f3483199ae66",
       "title": "Pourquoi j'apprends Rust en 2026",
       "description": "J'avais appris juste assez de Rust il y a quelques années pour hocher la tête dans les conversations, lire un peu de code, ressentir une vague culpabilité, et passer à autre chose. Je ne l'avais jamais vraiment utilisé. Et maintenant, en 2026, j'y reviens volontairement. Ce qui semble un peu…",
@@ -997,6 +1013,22 @@
       "image": "https://i.ytimg.com/vi/2Wbg-vDzcmo/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "2Wbg-vDzcmo"
+    },
+    {
+      "id": "84b1c33cbb19",
+      "title": "Cloud Native Days France 2026 : notre retour d'expérience",
+      "description": "Crédit ©Hopimage 1. IntroductionLe 3 février 2026, l’équipe Cockpit io s’est rendue au Cloud Native Days France 2026, l’événement incontournable de la communauté Cloud Native francophone. Cette journée a été l’occasion de découvrir les dernières tendances, d’assister à des retours d’expérience…",
+      "link": "https://blog.cockpitio.com/events/cloud-native-days-france-2026/",
+      "pubDate": "2026-02-16T23:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "cfae016ab210",
@@ -1996,6 +2028,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!Nmry!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe94f4ba-add8-49d9-ae86-279fd3d85c3e_922x602.png"
+    },
+    {
+      "id": "25f18ceaef86",
+      "title": "Dnsmasq sur un routeur sous Debian 13",
+      "description": "Dnsmasq sur un routeur sous Debian 13 {align=right} Cette page décrit la configuration de [Dnsmasq][1] sur un [routeur tournant sous Debian 13][2]. Dnsmasq est un serveur léger qui fournit les services DHCP et DNS pour des réseaux locaux, même de taille importante. Il est extrêmement facile à…",
+      "link": "https://www.microlinux.fr/blog/debian-13-dnsmasq/",
+      "pubDate": "2026-02-03T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/dnsmasq.png",
+      "type": "blog"
     },
     {
       "id": "0747a15bd6f1",

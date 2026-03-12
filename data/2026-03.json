@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "79612fc896f9",
+      "title": "Skills Claude Code : créez une fois, réutilisez toujours",
+      "description": "Créez une fois, réutilisez toujours : anatomie, configuration et patterns concrets pour transformer Claude Code en expert de votre codebase.",
+      "link": "https://codecodecoders.substack.com/p/skills-claude-code-le-guide-complet",
+      "pubDate": "2026-03-12T09:01:29.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!9p1i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84cc1cb1-d689-4b54-9379-c2fd8ca97358_1200x630.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "d3d6912e48d7",
+      "title": "Où trouver des contenus originaux pour créer des contenus marketing ?",
+      "description": "Créer des contenus originaux pour le marketing, notamment sur LinkedIn, est un défi. Il est essentiel de diversifier ses sources d'inspiration, tant externes qu'internes, pour générer régulièrement des idées. Utiliser des études, actualités, témoignages clients et expertises internes enrichit la…",
+      "link": "https://oliviersauvage.com/2026/03/12/ou-trouver-des-contenus-originaux-pour-creer-des-contenus-marketing/",
+      "pubDate": "2026-03-12T08:24:18.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4c00be375013",
       "title": "Découvrez Nano Banana 2 : la nouvelle référence en génération d’images",
       "description": "Découvrez les nouvelles capacités de Nano Banana 2 (Gemini 3.1 Flash Image) : ancrage visuel via Google Search, nouveaux paramètres comme les ratios extrêmes et les résolutions 512px, et le contrôle du mode \"Réflexion\". Ce guide explore comment maximiser l'utilisation de ce modèle pour la…",
@@ -418,6 +448,22 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "79a7b68f0e67",
+      "title": "La réversibilité pour garantir sa véritable souveraineté cloud",
+      "description": "La souveraineté numérique devient de plus en plus un enjeu vital pour les organisations, notamment lorsque le contexte géopolitique international se tend. Cependant, quand il s’agit d’aborder ce sujet, nous entendons beaucoup d’avis différents sur cette question. Qu’est-ce que vraiment la…",
+      "link": "https://blog.cockpitio.com/cloud/reversibilite-souverainete-cloud/",
+      "pubDate": "2026-03-09T07:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "12361d2abb42",
