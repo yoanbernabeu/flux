@@ -14,6 +14,7 @@ interface Props {
 
 const { title, description = 'Agrégateur de veille technologique — Les derniers articles tech, IA, DevOps, Cloud et Cybersécurité.', image, canonicalOverride, noindex = false } = Astro.props;
 const canonicalURL = canonicalOverride || new URL(Astro.url.pathname, Astro.site).toString();
+const ogImage = image || 'https://flux.yoandev.co/og.webp';
 ---
 
 <!doctype html>
@@ -26,6 +27,7 @@ const canonicalURL = canonicalOverride || new URL(Astro.url.pathname, Astro.site
     <title>{title} | Flux</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL} />
+    <link rel="alternate" hreflang="fr" href={canonicalURL} />
     {noindex && <meta name="robots" content="noindex, follow" />}
 
     <!-- Open Graph -->
@@ -33,13 +35,15 @@ const canonicalURL = canonicalOverride || new URL(Astro.url.pathname, Astro.site
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:title" content={`Flux YoanDev | ${title}`} />
     <meta property="og:description" content={description} />
-    {image && <meta property="og:image" content={image} />}
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:site_name" content="Flux — Veille technologique" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={`Flux YoanDev | ${title}`} />
     <meta name="twitter:description" content={description} />
-    {image && <meta name="twitter:image" content={image} />}
+    <meta name="twitter:image" content={ogImage} />
 
     <!-- RSS -->
     <link rel="alternate" type="application/rss+xml" title="Flux RSS" href="/rss.xml" />
@@ -55,6 +59,22 @@ const canonicalURL = canonicalOverride || new URL(Astro.url.pathname, Astro.site
     <!-- Umami Analytics -->
     <script defer src="https://cloud.umami.is/script.js" data-website-id="f5c6dbb9-2354-4f04-9810-6ef063f229a7"></script>
 
+    <!-- Schema.org -->
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Flux — Veille technologique",
+      "url": "https://flux.yoandev.co",
+      "description": "Agrégateur de veille technologique francophone — Articles, podcasts et vidéos sur la programmation, l'IA, le DevOps, le Cloud et la cybersécurité.",
+      "inLanguage": "fr",
+      "publisher": {
+        "@type": "Person",
+        "name": "YoanDev",
+        "url": "https://yoandev.co"
+      }
+    })} />
+    <slot name="head" />
+
     <ClientRouter fallback="swap" />
   </head>
   <body class="min-h-screen flex flex-col">
@@ -62,16 +82,44 @@ const canonicalURL = canonicalOverride || new URL(Astro.url.pathname, Astro.site
     <main class="flex-1 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <slot />
     </main>
-    <footer class="border-t border-zinc-800/60 py-6 text-sm text-zinc-500">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-3">
-        <p>Flux — Veille technologique agrégée par <a href="https://yoandev.co" class="text-indigo-400 hover:text-indigo-300 transition-colors">YoanDev</a></p>
-        <div class="flex items-center gap-4 text-zinc-600">
-          <a href="/rss.xml" class="hover:text-indigo-400 transition-colors inline-flex items-center gap-1.5">
-            <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>
-            RSS
-          </a>
-          <span class="text-zinc-800">·</span>
-          <span>Analytique sans cookies via <a href="https://umami.is" class="hover:text-indigo-400 transition-colors">Umami</a></span>
+    <footer class="border-t border-zinc-800/60 py-8 text-sm text-zinc-500">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-6">
+          <div>
+            <h4 class="text-xs uppercase tracking-widest text-zinc-600 font-medium mb-3">Catégories</h4>
+            <nav class="flex flex-col gap-1.5">
+              <a href="/categorie/programmation" class="text-zinc-500 hover:text-indigo-400 transition-colors">Programmation</a>
+              <a href="/categorie/ia" class="text-zinc-500 hover:text-indigo-400 transition-colors">IA</a>
+              <a href="/categorie/devops" class="text-zinc-500 hover:text-indigo-400 transition-colors">DevOps</a>
+              <a href="/categorie/cloud" class="text-zinc-500 hover:text-indigo-400 transition-colors">Cloud</a>
+              <a href="/categorie/web" class="text-zinc-500 hover:text-indigo-400 transition-colors">Web</a>
+              <a href="/categorie/cybersecurite" class="text-zinc-500 hover:text-indigo-400 transition-colors">Cybersécurité</a>
+            </nav>
+          </div>
+          <div>
+            <h4 class="text-xs uppercase tracking-widest text-zinc-600 font-medium mb-3">Navigation</h4>
+            <nav class="flex flex-col gap-1.5">
+              <a href="/" class="text-zinc-500 hover:text-indigo-400 transition-colors">Articles</a>
+              <a href="/sources" class="text-zinc-500 hover:text-indigo-400 transition-colors">Sources</a>
+              <a href="/categories" class="text-zinc-500 hover:text-indigo-400 transition-colors">Catégories</a>
+              <a href="/stats" class="text-zinc-500 hover:text-indigo-400 transition-colors">Statistiques</a>
+              <a href="/a-propos" class="text-zinc-500 hover:text-indigo-400 transition-colors">À propos</a>
+            </nav>
+          </div>
+          <div>
+            <h4 class="text-xs uppercase tracking-widest text-zinc-600 font-medium mb-3">Flux</h4>
+            <nav class="flex flex-col gap-1.5">
+              <a href="/rss.xml" class="text-zinc-500 hover:text-indigo-400 transition-colors inline-flex items-center gap-1.5">
+                <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>
+                Flux RSS
+              </a>
+              <a href="https://github.com/yoanbernabeu/flux" target="_blank" rel="noopener noreferrer" class="text-zinc-500 hover:text-indigo-400 transition-colors">Code source</a>
+            </nav>
+          </div>
+        </div>
+        <div class="flex flex-col sm:flex-row items-center justify-between gap-3 pt-6 border-t border-zinc-800/40">
+          <p>Flux — Veille technologique agrégée par <a href="https://yoandev.co" class="text-indigo-400 hover:text-indigo-300 transition-colors">YoanDev</a></p>
+          <span class="text-zinc-600">Analytique sans cookies via <a href="https://umami.is" class="hover:text-indigo-400 transition-colors">Umami</a></span>
         </div>
       </div>
     </footer>

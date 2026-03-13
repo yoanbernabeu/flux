@@ -1,0 +1,119 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { loadAllArticles, getAllCategories, getCategoryColor, slugify } from '../../utils/articles';
+
+export function getStaticPaths() {
+  const PAGE_SIZE = 15;
+  const allArticles = loadAllArticles();
+  const categories = getAllCategories(allArticles);
+  const paths: any[] = [];
+
+  for (const cat of categories) {
+    const catSlug = slugify(cat);
+    const catArticles = allArticles.filter((a) => a.categories.includes(cat));
+    const totalPages = Math.max(1, Math.ceil(catArticles.length / PAGE_SIZE));
+
+    for (let page = 1; page <= totalPages; page++) {
+      const start = (page - 1) * PAGE_SIZE;
+      paths.push({
+        params: { slug: page === 1 ? catSlug : `${catSlug}/${page}` },
+        props: {
+          category: cat,
+          catSlug,
+          articles: catArticles.slice(start, start + PAGE_SIZE),
+          currentPage: page,
+          totalPages,
+          totalArticles: catArticles.length,
+        },
+      });
+    }
+  }
+
+  return paths;
+}
+
+const { category, catSlug, articles, currentPage, totalPages, totalArticles } = Astro.props;
+
+function pageUrl(page: number): string {
+  return page === 1 ? `/categorie/${catSlug}` : `/categorie/${catSlug}/${page}`;
+}
+
+const pages: (number | string)[] = [];
+for (let i = 1; i <= totalPages; i++) {
+  if (i === 1 || i === totalPages || (i >= currentPage - 1 && i <= currentPage + 1)) {
+    pages.push(i);
+  } else if (pages[pages.length - 1] !== '...') {
+    pages.push('...');
+  }
+}
+---
+
+<Layout title={currentPage > 1 ? `Articles ${category} — Page ${currentPage}` : `Articles ${category}`} description={`Tous les articles ${category} agrégés par Flux — Veille technologique francophone sur ${category.toLowerCase()}.`}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://flux.yoandev.co/" },
+      { "@type": "ListItem", "position": 2, "name": category },
+    ]
+  })} />
+  <div class="fade-in-up">
+    <div class="mb-8">
+      <!-- Breadcrumb -->
+      <nav aria-label="Fil d'Ariane" class="mb-3">
+        <ol class="flex items-center gap-1.5 text-xs text-zinc-500">
+          <li><a href="/" class="hover:text-indigo-400 transition-colors">Accueil</a></li>
+          <li class="text-zinc-700">/</li>
+          <li><a href="/categories" class="hover:text-indigo-400 transition-colors">Catégories</a></li>
+          <li class="text-zinc-700">/</li>
+          <li class="text-zinc-400">{category}</li>
+        </ol>
+      </nav>
+      <a href="/categories" class="text-xs text-zinc-500 hover:text-indigo-400 transition-colors mb-3 inline-flex items-center gap-1">
+        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+        </svg>
+        Toutes les catégories
+      </a>
+      <h1 class="text-2xl sm:text-3xl font-bold mb-2 flex items-center gap-3">
+        <span class={`px-3 py-1 text-sm font-medium rounded-full border ${getCategoryColor(category)}`}>{category}</span>
+      </h1>
+      <p class="text-zinc-400 text-sm">
+        {totalArticles} article{totalArticles > 1 ? 's' : ''}
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {articles.map((article: any) => (
+        <ArticleCard article={article} />
+      ))}
+    </div>
+
+    {articles.length === 0 && (
+      <div class="text-center py-20 text-zinc-500">
+        <p class="text-lg font-medium">Aucun article pour cette catégorie</p>
+      </div>
+    )}
+
+    {totalPages > 1 && (
+      <nav aria-label="Pagination" class="flex items-center justify-center gap-1.5 mt-8">
+        {currentPage > 1 && (
+          <a href={pageUrl(currentPage - 1)} class="px-3 py-2 text-sm rounded-lg border border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-600 transition-all" aria-label="Page précédente">←</a>
+        )}
+        {pages.map((p) => (
+          p === '...' ? (
+            <span class="px-2 py-2 text-sm text-zinc-600">…</span>
+          ) : p === currentPage ? (
+            <span class="px-3 py-2 text-sm rounded-lg bg-indigo-500/20 border border-indigo-500/50 text-indigo-400 font-medium" aria-current="page">{p}</span>
+          ) : (
+            <a href={pageUrl(p as number)} class="px-3 py-2 text-sm rounded-lg border border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-600 transition-all">{p}</a>
+          )
+        ))}
+        {currentPage < totalPages && (
+          <a href={pageUrl(currentPage + 1)} class="px-3 py-2 text-sm rounded-lg border border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-600 transition-all" aria-label="Page suivante">→</a>
+        )}
+      </nav>
+    )}
+  </div>
+</Layout>

@@ -53,6 +53,6 @@ Flux is a French-language RSS feed aggregator built with **Astro 5** and deploye
 - TypeScript strict mode enabled
 - Articles are deduplicated by SHA256 hash of URL (first 12 chars)
 - Data files are organized monthly: `/data/YYYY-MM.json`
-- Article pages have `noindex` meta and are excluded from sitemap
+- Article pages are indexable with `canonicalOverride` pointing to the original source URL
 - Sources are sorted alphabetically everywhere (filter dropdown, sources page)
 - Category tags and source names are clickable links to their dedicated pages

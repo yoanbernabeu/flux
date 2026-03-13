@@ -17,14 +17,37 @@ const badge = getFreshnessBadge(article.pubDate);
 ---
 
 <Layout title={`${article.title} (${article.source})`} description={article.description} image={article.image || undefined} canonicalOverride={article.link}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": article.title,
+    "description": article.description,
+    "datePublished": article.pubDate,
+    "author": { "@type": "Organization", "name": article.source, "url": article.sourceUrl },
+    "publisher": { "@type": "Person", "name": "YoanDev", "url": "https://yoandev.co" },
+    ...(article.image ? { "image": article.image } : {}),
+    "mainEntityOfPage": article.link,
+  })} />
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://flux.yoandev.co/" },
+      { "@type": "ListItem", "position": 2, "name": article.source, "item": `https://flux.yoandev.co/source/${slugify(article.source)}/` },
+      { "@type": "ListItem", "position": 3, "name": article.title },
+    ]
+  })} />
   <article class="max-w-3xl mx-auto fade-in-up">
-    <!-- Back link -->
-    <a href="/" class="inline-flex items-center gap-1.5 text-sm text-zinc-400 hover:text-white transition-colors mb-6">
-      <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
-      </svg>
-      Retour aux articles
-    </a>
+    <!-- Breadcrumb -->
+    <nav aria-label="Fil d'Ariane" class="mb-4">
+      <ol class="flex items-center gap-1.5 text-xs text-zinc-500">
+        <li><a href="/" class="hover:text-indigo-400 transition-colors">Accueil</a></li>
+        <li class="text-zinc-700">/</li>
+        <li><a href={`/source/${slugify(article.source)}`} class="hover:text-indigo-400 transition-colors">{article.source}</a></li>
+        <li class="text-zinc-700">/</li>
+        <li class="text-zinc-400 truncate max-w-[200px]">{article.title}</li>
+      </ol>
+    </nav>
 
     <!-- Image -->
     <div class="relative aspect-[2/1] rounded-xl overflow-hidden mb-6">

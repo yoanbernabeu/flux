@@ -1,0 +1,56 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { loadAllArticles, getAllCategories, getCategoryColor, getCategoryGradient, slugify } from '../utils/articles';
+
+const allArticles = loadAllArticles();
+const categories = getAllCategories(allArticles);
+
+const categoryStats = categories.map((cat) => {
+  const articles = allArticles.filter((a) => a.categories.includes(cat));
+  const sources = new Set(articles.map((a) => a.source));
+  return {
+    name: cat,
+    slug: slugify(cat),
+    count: articles.length,
+    sourceCount: sources.size,
+    gradient: getCategoryGradient([cat]),
+  };
+}).sort((a, b) => b.count - a.count);
+---
+
+<Layout title="Catégories" description={`${categories.length} catégories de veille technologique — ${allArticles.length} articles agrégés par Flux.`}>
+  <div class="fade-in-up">
+    <div class="mb-8">
+      <h1 class="text-2xl sm:text-3xl font-bold mb-2">Catégories</h1>
+      <p class="text-zinc-400 text-sm">
+        {categories.length} catégories — {allArticles.length} articles au total
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {categoryStats.map((cat) => (
+        <a href={`/categorie/${cat.slug}`} class="card-hover rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] overflow-hidden hover:border-zinc-600 transition-all flex flex-col">
+          <div class={`h-2 bg-gradient-to-r ${cat.gradient}`}></div>
+          <div class="p-5 flex flex-col gap-3 flex-1">
+            <div class="flex items-start justify-between">
+              <h3 class="font-semibold text-sm flex items-center gap-2">
+                <span class={`px-2.5 py-0.5 text-xs font-medium rounded-full border ${getCategoryColor(cat.name)}`}>
+                  {cat.name}
+                </span>
+              </h3>
+              <span class="text-xs text-zinc-500 bg-[var(--color-surface-2)] px-2 py-0.5 rounded-full">
+                {cat.count} articles
+              </span>
+            </div>
+            <p class="text-xs text-zinc-500">
+              {cat.sourceCount} source{cat.sourceCount > 1 ? 's' : ''}
+            </p>
+            <span class="text-xs text-zinc-500 mt-auto">
+              Voir tous les articles →
+            </span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</Layout>

@@ -12,7 +12,7 @@ const totalPages = Math.max(1, Math.ceil(allArticles.length / PAGE_SIZE));
 const articles = allArticles.slice(0, PAGE_SIZE);
 ---
 
-<Layout title="Veille technologique" image="https://flux.yoandev.co/og.webp">
+<Layout title="Veille technologique" description={`${allArticles.length} articles de veille technologique agrégés depuis ${sources.length} sources — Programmation, IA, DevOps, Cloud, Web et Cybersécurité.`} image="https://flux.yoandev.co/og.webp">
   <ArticleListPage
     articles={articles}
     categories={categories}
