@@ -1,0 +1,51 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { loadAllArticles, getAllCategories, getCategoryColor, slugify } from '../../utils/articles';
+
+export function getStaticPaths() {
+  const allArticles = loadAllArticles();
+  const categories = getAllCategories(allArticles);
+
+  return categories.map((cat) => ({
+    params: { slug: slugify(cat) },
+    props: {
+      category: cat,
+      articles: allArticles.filter((a) => a.categories.includes(cat)),
+    },
+  }));
+}
+
+const { category, articles } = Astro.props;
+---
+
+<Layout title={category} description={`Tous les articles de la catégorie ${category} agrégés par Flux.`} noindex>
+  <div class="fade-in-up">
+    <div class="mb-8">
+      <a href="/" class="text-xs text-zinc-500 hover:text-indigo-400 transition-colors mb-3 inline-flex items-center gap-1">
+        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+        </svg>
+        Retour aux articles
+      </a>
+      <h1 class="text-2xl sm:text-3xl font-bold mb-2 flex items-center gap-3">
+        <span class={`px-3 py-1 text-sm font-medium rounded-full border ${getCategoryColor(category)}`}>{category}</span>
+      </h1>
+      <p class="text-zinc-400 text-sm">
+        {articles.length} article{articles.length > 1 ? 's' : ''}
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {articles.map((article: any) => (
+        <ArticleCard article={article} />
+      ))}
+    </div>
+
+    {articles.length === 0 && (
+      <div class="text-center py-20 text-zinc-500">
+        <p class="text-lg font-medium">Aucun article pour cette catégorie</p>
+      </div>
+    )}
+  </div>
+</Layout>

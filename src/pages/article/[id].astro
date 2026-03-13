@@ -1,7 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
-import { loadAllArticles, getRelatedArticles, formatDate, getCategoryColor, getCategoryGradient, getFreshnessBadge, getTypeLabel, getTypeColor } from '../../utils/articles';
+import { loadAllArticles, getRelatedArticles, formatDate, getCategoryColor, getCategoryGradient, getFreshnessBadge, getTypeLabel, getTypeColor, slugify } from '../../utils/articles';
 
 export function getStaticPaths() {
   const articles = loadAllArticles();
@@ -49,9 +49,9 @@ const badge = getFreshnessBadge(article.pubDate);
     <!-- Meta -->
     <div class="flex flex-wrap items-center gap-2 mb-4">
       {article.categories.map((cat) => (
-        <span class={`px-2.5 py-1 text-xs font-medium rounded-full border ${getCategoryColor(cat)}`}>
+        <a href={`/categorie/${slugify(cat)}`} class={`px-2.5 py-1 text-xs font-medium rounded-full border ${getCategoryColor(cat)} hover:opacity-80 transition-opacity`}>
           {cat}
-        </span>
+        </a>
       ))}
       {badge && (
         <span class={`px-2.5 py-1 text-xs font-medium rounded-full ${badge.class}`}>
@@ -70,12 +70,12 @@ const badge = getFreshnessBadge(article.pubDate);
 
     <!-- Source & Date -->
     <div class="flex flex-wrap items-center gap-3 text-sm text-zinc-400 mb-6 pb-6 border-b border-zinc-800">
-      <span class="inline-flex items-center gap-1.5">
+      <a href={`/source/${slugify(article.source)}`} class="inline-flex items-center gap-1.5 hover:text-indigo-400 transition-colors">
         <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z" />
         </svg>
         {article.source}
-      </span>
+      </a>
       <span>·</span>
       <time datetime={article.pubDate}>{formatDate(article.pubDate)}</time>
     </div>
