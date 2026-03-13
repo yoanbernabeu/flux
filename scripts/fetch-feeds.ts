@@ -310,6 +310,7 @@ async function main() {
 
   console.log(`\n✅ Terminé ! ${newArticleCount} nouveaux articles ajoutés.`);
   console.log(`📊 Total: ${existingIds.size} articles dans ${existingData.size} fichier(s) mensuel(s).`);
+  process.exit(0);
 }
 
 main().catch((error) => {
