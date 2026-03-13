@@ -2,6 +2,85 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "a59c4b8097b1",
+      "title": "#156.diff - Maria DB: MariaDB, du serveur primaire au sharding avec Sylvain Arbaudie",
+      "description": "Il y a 3 ans, dans l'épisode #156 je recevais Sylvain Arbaudie. 3 ans plus tard, nous faisons une refacto de l'épisode ! Liens à suivre : Une personne tres interessante a suivre dans le monde des db : Benjamin Dicken https://www.linkedin.com/in/benjdicken Un flux rss tres planet mariadb par la…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-156-refacto-e6a8902669b6",
+      "pubDate": "2026-03-13T04:00:03.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/3ba28a36-02c3-4b4f-be14-e6a8902669b6.mp3?_=1773320463",
+      "duration": "51:04"
+    },
+    {
+      "id": "86b67a0a022b",
+      "title": "Claude Code Remote : Coder depuis n’importe où",
+      "description": "Et si tu pouvais contrôler Claude Code depuis n’importe où ? Dans cette vidéo, je te montre comment mettre en place Claude Code Remote pour lancer du code, corriger des bugs ou générer des projets à distance, directement depuis ton téléphone. Grâce à cette configuration simple, tu peux transformer…",
+      "link": "https://www.youtube.com/watch?v=eEcNfaeW8dk",
+      "pubDate": "2026-03-12T21:24:58.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/eEcNfaeW8dk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "eEcNfaeW8dk"
+    },
+    {
+      "id": "6642aea9985e",
+      "title": "🎙️ Café Tech avec Imen – Épisode avec Eric Dykstein",
+      "description": "Dans cet épisode de Café Tech avec Imen, je reçois Eric Dykstein, un profil intéressant qui connaît les deux côtés du monde de la tech : il a commencé comme développeur, avant d’évoluer vers le recrutement tech. Une double expérience qui lui donne une vision très claire des attentes des…",
+      "link": "https://www.youtube.com/watch?v=Y4a_EVndd0Y",
+      "pubDate": "2026-03-12T13:01:06.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/Y4a_EVndd0Y/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Y4a_EVndd0Y"
+    },
+    {
+      "id": "73128c5f50d5",
+      "title": "Visibilité IA sur LinkedIn : stratégies pour influencer les réponses de chatGPT",
+      "description": "Découvrez comment votre contenu LinkedIn peut influencer les réponses de l'IA. Apprenez à créer du contenu original et éducatif, à favoriser la régularité et à tirer parti du leadership éclairé pour maximiser votre visibilité. Obtenez un plan d'action concret pour dominer l'écosystème de l'IA grâce…",
+      "link": "https://oliviersauvage.com/2026/03/12/visibilite-ia-sur-linkedin-strategies-pour-influencer-les-reponses-de-chatgpt/",
+      "pubDate": "2026-03-12T12:09:35.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "816720d998f1",
+      "title": "Claudette",
+      "description": "J'ai créé un petit projet sympa : Claudette ! Claudette analyse la structure de votre code source (fonctions, classes, imports, appels) et construit un graphe de connaissances persistant. Cela s'installe comme un plugin Claude Code, il y a un serveur MCP, il faut juste installer Go pour compiler.…",
+      "link": "https://www.touilleur-express.fr/2026/03/12/claudette",
+      "pubDate": "2026-03-12T10:00:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "79612fc896f9",
       "title": "Skills Claude Code : créez une fois, réutilisez toujours",
       "description": "Créez une fois, réutilisez toujours : anatomie, configuration et patterns concrets pour transformer Claude Code en expert de votre codebase.",
@@ -41,6 +120,36 @@
       "sourceUrl": "https://oliviersauvage.com/feed/",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9ac177a3acfd",
+      "title": "font-optimizer pour réduire de 90% le poids de vos polices dans vos projets PHP",
+      "description": "Réduisez de plus de 90% le poids de vos polices grâce à ce package PHP",
+      "link": "https://uxcode.fr/articles/php-composer-font-optimizer",
+      "pubDate": "2026-03-12T00:00:00.000Z",
+      "source": "UXCode",
+      "sourceUrl": "https://uxcode.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "90495f56c1d5",
+      "title": "Les profils T-Shaped",
+      "description": "Il y a un type de profil qui performe particulièrement bien dans les équipes projet. Des profils spécialisés, mais qui ont un truc en plus: des compétences transverses complémentaires. C’est ce que l’on retrouve derrière la notion de profil “T-Shaped”. Ce billet a été initialement publié sur…",
+      "link": "https://www.jdecool.fr/blog/2026/03/12/les-profils-t-shaped.html",
+      "pubDate": "2026-03-11T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
@@ -589,6 +698,21 @@
         "IA"
       ],
       "image": "https://yoandev.co/img/symfony-ai-mate.webp"
+    },
+    {
+      "id": "04d9dbeb4414",
+      "title": "Divisez par 10 le poids de vos polices grâce au subsetting et profitez des polices variables",
+      "description": "Les polices variables sont une petite révolution mais contrairement à ce que l'on nous a promis, elles sont en réalité bien plus lourdes que les fontes classiques.",
+      "link": "https://uxcode.fr/articles/fontes-variables-subset-performance",
+      "pubDate": "2026-03-08T00:00:00.000Z",
+      "source": "UXCode",
+      "sourceUrl": "https://uxcode.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "715187956279",
