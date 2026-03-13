@@ -17,7 +17,7 @@ const sources = getAllSources(allArticles);
 
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
       {sources.map((source) => (
-        <div class="card-hover rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-5 flex flex-col gap-3">
+        <a href={`/source/${source.slug}`} class="card-hover rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-5 flex flex-col gap-3 hover:border-zinc-600 transition-all">
           <div class="flex items-start justify-between">
             <h3 class="font-semibold text-sm">{source.name}</h3>
             <span class="text-xs text-zinc-500 bg-[var(--color-surface-2)] px-2 py-0.5 rounded-full">
@@ -33,15 +33,10 @@ const sources = getAllSources(allArticles);
             ))}
           </div>
 
-          <a
-            href={source.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="text-xs text-zinc-500 hover:text-indigo-400 transition-colors truncate mt-auto"
-          >
-            {source.url}
-          </a>
-        </div>
+          <span class="text-xs text-zinc-500 truncate mt-auto">
+            Voir tous les articles →
+          </span>
+        </a>
       ))}
     </div>
 

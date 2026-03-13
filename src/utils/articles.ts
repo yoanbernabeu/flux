@@ -26,7 +26,16 @@ export function getAllCategories(articles: Article[]): string[] {
   return Array.from(cats).sort();
 }
 
-export function getAllSources(articles: Article[]): { name: string; url: string; categories: string[]; count: number }[] {
+export function slugify(text: string): string {
+  return text
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/(^-|-$)/g, '');
+}
+
+export function getAllSources(articles: Article[]): { name: string; slug: string; url: string; categories: string[]; count: number }[] {
   const sourceMap = new Map<string, { name: string; url: string; categories: Set<string>; count: number }>();
 
   for (const article of articles) {
@@ -47,8 +56,8 @@ export function getAllSources(articles: Article[]): { name: string; url: string;
   }
 
   return Array.from(sourceMap.values())
-    .map((s) => ({ ...s, categories: Array.from(s.categories) }))
-    .sort((a, b) => b.count - a.count);
+    .map((s) => ({ ...s, slug: slugify(s.name), categories: Array.from(s.categories) }))
+    .sort((a, b) => a.name.localeCompare(b.name, 'fr'));
 }
 
 export function getRelatedArticles(article: Article, allArticles: Article[], limit = 4): Article[] {

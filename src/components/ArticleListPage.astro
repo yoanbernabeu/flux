@@ -7,7 +7,7 @@ import type { Article, FeedType } from '../types/index';
 interface Props {
   articles: Article[];
   categories: string[];
-  sources: { name: string; url: string; categories: string[]; count: number }[];
+  sources: { name: string; slug: string; url: string; categories: string[]; count: number }[];
   types: FeedType[];
   currentPage: number;
   totalPages: number;
