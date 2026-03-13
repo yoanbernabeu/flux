@@ -72,7 +72,7 @@ export function getFreshnessBadge(pubDate: string): { label: string; class: stri
   const hoursAgo = (now - published) / (1000 * 60 * 60);
 
   if (hoursAgo < 24) {
-    return { label: 'Nouveau', class: 'bg-emerald-500 text-white border border-emerald-400 shadow-lg shadow-emerald-500/30 backdrop-blur-sm' };
+    return { label: 'Nouveau', class: 'bg-emerald-700 text-white border border-emerald-600 shadow-lg shadow-emerald-700/30 backdrop-blur-sm' };
   }
   if (hoursAgo < 72) {
     return { label: 'Récent', class: 'bg-blue-500 text-white border border-blue-400 shadow-lg shadow-blue-500/30 backdrop-blur-sm' };

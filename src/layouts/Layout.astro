@@ -54,7 +54,9 @@ const ogImage = image || 'https://flux.yoandev.co/og.webp';
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" /></noscript>
 
     <!-- Umami Analytics -->
     <script defer src="https://cloud.umami.is/script.js" data-website-id="f5c6dbb9-2354-4f04-9810-6ef063f229a7"></script>
@@ -118,8 +120,8 @@ const ogImage = image || 'https://flux.yoandev.co/og.webp';
           </div>
         </div>
         <div class="flex flex-col sm:flex-row items-center justify-between gap-3 pt-6 border-t border-zinc-800/40">
-          <p>Flux — Veille technologique agrégée par <a href="https://yoandev.co" class="text-indigo-400 hover:text-indigo-300 transition-colors">YoanDev</a></p>
-          <span class="text-zinc-600">Analytique sans cookies via <a href="https://umami.is" class="hover:text-indigo-400 transition-colors">Umami</a></span>
+          <p>Flux — Veille technologique agrégée par <a href="https://yoandev.co" class="text-indigo-400 hover:text-indigo-300 underline transition-colors">YoanDev</a></p>
+          <span class="text-zinc-600">Analytique sans cookies via <a href="https://umami.is" class="underline hover:text-indigo-400 transition-colors">Umami</a></span>
         </div>
       </div>
     </footer>

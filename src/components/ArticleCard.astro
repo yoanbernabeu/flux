@@ -4,9 +4,10 @@ import { getFreshnessBadge, formatDate, getCategoryGradient, getCategoryColor, g
 
 interface Props {
   article: Article;
+  eager?: boolean;
 }
 
-const { article } = Astro.props;
+const { article, eager = false } = Astro.props;
 const badge = getFreshnessBadge(article.pubDate);
 ---
 
@@ -24,8 +25,9 @@ const badge = getFreshnessBadge(article.pubDate);
       <img
         src={article.image}
         alt={article.title}
-        loading="lazy"
-        decoding="async"
+        loading={eager ? "eager" : "lazy"}
+        decoding={eager ? "sync" : "async"}
+        fetchpriority={eager ? "high" : undefined}
         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
         onerror="this.style.display='none';this.nextElementSibling.style.display='flex';"
       />
@@ -71,7 +73,7 @@ const badge = getFreshnessBadge(article.pubDate);
     <p class="text-xs text-zinc-400 line-clamp-3 leading-relaxed">{article.description}</p>
 
     <!-- Meta -->
-    <div class="flex items-center justify-between text-xs text-zinc-500 pt-1">
+    <div class="flex items-center justify-between text-xs text-zinc-400 pt-1">
       <time datetime={article.pubDate}>{formatDate(article.pubDate)}</time>
     </div>
 
