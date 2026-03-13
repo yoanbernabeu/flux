@@ -8,7 +8,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "fetch-feeds": "tsx --env-file=.env scripts/fetch-feeds.ts"
+    "fetch-feeds": "tsx --env-file-if-exists=.env scripts/fetch-feeds.ts"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.15",

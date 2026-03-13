@@ -185,6 +185,10 @@ feeds:
     name: Cockpit io
     categories: [DevOps, Cloud, Cybersécurité]
 
+  - url: https://uxcode.fr/feed.xml
+    name: UXCode
+    categories: [Programmation, Web]
+
   - url: https://blog.octo.com/feed
     name: OCTO Talks
     categories: [Programmation, Cloud, IA, DevOps]
