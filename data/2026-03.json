@@ -200,6 +200,22 @@
       "videoId": "pj6Tf2WWZ7k"
     },
     {
+      "id": "7d0048876756",
+      "title": "Les 9 nouveautés tech de la semaine #11 à ne pas manquer",
+      "description": "TypeScript 6, Firefox qui se refait une beauté, un outil qui rend vos fichiers .env partageables et les autres découvertes de la semaine !",
+      "link": "https://codecodecoders.substack.com/p/les-9-nouveautes-tech-de-la-semaine",
+      "pubDate": "2026-03-13T09:00:24.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!DugO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5130cfe6-b877-462d-9508-0e571e16840d_1037x492.png",
+      "type": "blog"
+    },
+    {
       "id": "be4c9fc65223",
       "title": "Touraine Tech 2026",
       "description": "Les 12 & 13 février 2026 se tenait Touraine Tech, l’événement spécialisé tech de la région. Découvrez nos retours sur les différentes conférences.",

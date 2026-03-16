@@ -11,7 +11,7 @@ const RETRY_DELAY = 1000;
 const CONCURRENCY = 5;
 const MIN_DATE = new Date('2026-01-01T00:00:00Z');
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY || '';
-const USER_AGENT = 'Mozilla/5.0 (compatible; Flux-RSS-Aggregator/1.0)';
+const USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36';
 
 const parser = new RSSParser({
   timeout: 10000,
@@ -96,6 +96,9 @@ async function fetchWithRetry(url: string): Promise<RSSParser.Output<RSSParser.I
         headers: { 'User-Agent': USER_AGENT },
         signal: AbortSignal.timeout(10000),
       });
+      if (!response.ok) {
+        throw new Error(`Status code ${response.status}`);
+      }
       let text = await response.text();
       // Strip UTF-8 BOM and leading whitespace
       text = text.replace(/^\uFEFF/, '').replace(/^[\s\S]*?(<\?xml)/, '$1');
