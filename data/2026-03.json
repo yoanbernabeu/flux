@@ -54,6 +54,22 @@
       "videoId": "C0nnZsg7gfA"
     },
     {
+      "id": "f96d1348d5dc",
+      "title": "L'IA au service de l'industrialisation : Passer de 30% de réussite à 100% de fiabilité",
+      "description": "L’IA générative n’est pas déterministe. Pour industrialiser sans sacrifier la fiabilité, découvrez comment utiliser les LLM non comme moteurs, mais comme leviers pour forger vos propres outils.",
+      "link": "https://alex.balmes.co/fr/blog/l-ia-au-service-de-l-industrialisation-passer-de-30-de-reussite-a-100-de-fiabilite",
+      "pubDate": "2026-03-15T16:24:57.000Z",
+      "source": "Alex Balmes",
+      "sourceUrl": "https://alex.balmes.co/fr/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7350e1629b21",
       "title": "Flannel et NetworkPolicies : comment ajouter le support avec Cilium en CNI chaining",
       "description": "Flannel, flannel, flannel… Flannel est un CNI simple et populaire 😢. C’est le CNI par défaut de k3s, celui que la moitié des tutos kubeadm utilisent, et on le retrouve aussi dans pas mal d’offres managées. OK, il est simple, il route les paquets entre les pods, il supporte VXLAN et WireGuard, il…",
