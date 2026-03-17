@@ -2,6 +2,67 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "5b73ced72a58",
+      "title": "Au-delà du prompt : maîtriser le Context Engineering en 2026",
+      "description": "Le prompt engineering est devenu un simple sous-ensemble d'une discipline plus large. Ce guide vous explique laquelle, et comment l'appliquer dès cette semaine.",
+      "link": "https://codecodecoders.substack.com/p/au-dela-du-prompt-maitriser-le-context",
+      "pubDate": "2026-03-17T09:09:29.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!4UE2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe9fb6bb-af91-4ae5-ab4d-b2a64437b704_1024x608.png",
+      "type": "blog"
+    },
+    {
+      "id": "6b5fdfffd93a",
+      "title": "Comment ne pas exécuter les scripts tiers avec npm, pnpm et yarn",
+      "description": "Découvrez comment utiliser npm install --ignore-scripts pour empêcher l’exécution de scripts dangereux ou inutiles lors de l’installation des dépendances npm.",
+      "link": "https://code-garage.com/blog/comment-ne-pas-executer-les-scripts-tiers-avec-npm-pnpm-et-yarn",
+      "pubDate": "2026-03-17T08:50:43.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "26af4645062b",
+      "title": "Les 3 règles d’or de la communication sur les réseaux sociaux en B2B",
+      "description": "L'attention est une ressource précieuse sur les réseaux sociaux, ce qui rend difficile sa capture pour les entreprises. La régularité et la variété dans les publications sont essentielles. Il faut également surprendre son audience pour éviter la monotonie. Enfin, des éléments visuels attractifs…",
+      "link": "https://oliviersauvage.com/2026/03/17/les-3-regles-dor-de-la-communication-sur-les-reseaux-sociaux-en-b2b/",
+      "pubDate": "2026-03-17T07:44:05.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fc5ac9ad8617",
+      "title": "Quoi de neuf les devs? #170 - Veille tech et l'interview de David",
+      "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de David. On parlera aussi de ✅ PokemonGO, ✅ Temporal, ✅ Bagel, ✅ Tailwind, ✅ Kyutai, ✅ etc",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-170-veille",
+      "pubDate": "2026-03-17T00:11:44.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!efxY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9c4ab8e-c682-4ea9-8dd1-dbd9154aac2f_1920x1251.webp",
+      "type": "blog"
+    },
+    {
       "id": "e8a07ffd8b93",
       "title": "🎙️ Avant-goût du prochain épisode de Café Tech avec Imen ave @yoandevco",
       "description": "Dans cet extrait, Yoan Bernabeu partage l’un des plus grands défis de son parcours dans la tech. Lead Developer, formateur et créateur de contenu, Yoan raconte comment il a fait face à cette situation et ce qu’elle lui a appris. 👉 L’épisode complet arrive très bientôt sur la chaîne. Si vous aimez…",

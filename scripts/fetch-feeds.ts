@@ -12,12 +12,18 @@ const CONCURRENCY = 5;
 const MIN_DATE = new Date('2026-01-01T00:00:00Z');
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY || '';
 const USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36';
+const BROWSER_HEADERS: Record<string, string> = {
+  'User-Agent': USER_AGENT,
+  'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'Accept-Language': 'fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7',
+  'Accept-Encoding': 'gzip, deflate, br',
+  'Connection': 'keep-alive',
+  'Cache-Control': 'no-cache',
+};
 
 const parser = new RSSParser({
   timeout: 10000,
-  headers: {
-    'User-Agent': USER_AGENT,
-  },
+  headers: BROWSER_HEADERS,
 });
 
 function generateId(url: string): string {
@@ -93,7 +99,7 @@ async function fetchWithRetry(url: string): Promise<RSSParser.Output<RSSParser.I
       }
       // On retry, fetch raw text and strip BOM/whitespace before parsing
       const response = await fetch(url, {
-        headers: { 'User-Agent': USER_AGENT },
+        headers: BROWSER_HEADERS,
         signal: AbortSignal.timeout(10000),
       });
       if (!response.ok) {
