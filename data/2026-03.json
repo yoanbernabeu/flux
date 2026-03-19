@@ -2,6 +2,23 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "94aa44bd0552",
+      "title": "Le mythe du développeur augmenté par l’IA - Partie 1",
+      "description": "Le vieux monde se meurt, le nouveau monde tarde à apparaître et dans ce clair-obscur surgissent les monstresCahiers de prison (1983) de Antonio GramsciAujourd’hui, dans le monde du développement logiciel, l’IA générative suscite de nombreux fantasmes. Le plus répandu est sans doute l’idée que coder…",
+      "link": "https://blog.octo.com/l'illusion-du-developpeur-augmente",
+      "pubDate": "2026-03-18T15:08:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5e1fce6a356f",
       "title": "FOSDEM 2026 : Retour sur deux jours d’Open Source à Bruxelles",
       "description": "Le week-end des 31 janvier et 1er février s’est tenue l’édition 2026 de FOSDEM. Entre keynotes et sessions techniques, le",
@@ -85,6 +102,38 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/2c683223-3bb9-4b02-91b0-51d98889e8c2.mp3?_=1773752512",
       "duration": "59:50"
+    },
+    {
+      "id": "8209ed67440b",
+      "title": "News Mars 2026, Vite+, Void Cloud, du drama et de l'IA",
+      "description": "Nous évoquons le média L'Équipe qui repasse en MPA, Void Zero qui arrive avec plusieurs sorties. Vite 8, Vite Plus et Void Cloud. Datagouv nous propose du MCP, Mistral vous donne la possibilité d'avoir votre propre modèle, un DB vectoriel embarqué et des études sur l'IA. Retrouvez toutes les notes…",
+      "link": "https://double-slash.dev/podcasts/news-mars26/",
+      "pubDate": "2026-03-18T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1773850355/ART_129_efsvof.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_129_news-mars26.mp3",
+      "duration": "4126"
+    },
+    {
+      "id": "4f4bfb08acbd",
+      "title": "Période difficile pour les conférences développeur",
+      "description": "Avec l’avènement de l’IA, notre métier de développement logiciel doit se réinventer et avec lui, son écosystème. Je pense notamment aux conférences pour développeurs. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas…",
+      "link": "https://www.jdecool.fr/blog/2026/03/18/periode-difficile-pour-les-conferences-developpeur.html",
+      "pubDate": "2026-03-17T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "ea68c54b97fa",
