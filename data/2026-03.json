@@ -2,6 +2,116 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "e5b839ee339a",
+      "title": "#315.exe - Apprentissage visuel: Dessine moi un Kube par Julien Dubois",
+      "description": "Pour l'épisode #315 je recevais Aurélie Vache. On en débrief avec Julien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn |…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-315-exe-d2e41d48e8ef",
+      "pubDate": "2026-03-20T04:00:11.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/565b64e1-90c5-4325-bb6c-d2e41d48e8ef.mp3?_=1773925271",
+      "duration": "12:15"
+    },
+    {
+      "id": "7835df95526b",
+      "title": "Personne n’en parle… Mistral AI vient de lâcher 4 bombes 💣",
+      "description": "Personne n’en parle… et pourtant Mistral AI vient de lâcher 4 énormes annonces qui pourraient tout changer dans le monde de l’IA. Dans cette vidéo, je t’explique les 4 bombes de Mistral AI : 🔥 Small 4 : un modèle open source ultra puissant (raisonnement + code + multimodal) 🤝 L’alliance avec…",
+      "link": "https://www.youtube.com/watch?v=2Ur-2qpwLZM",
+      "pubDate": "2026-03-19T15:30:03.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/2Ur-2qpwLZM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "2Ur-2qpwLZM"
+    },
+    {
+      "id": "d43825878bb9",
+      "title": "Vibe coding : comment l’agence World Sellers est passé des LLM aux agents IA",
+      "description": "Wordsellers intègre l'IA, de l'assistance au codage au développement agentique, avec des outils comme Mistral, Claude et Gemini. L'IA améliore la productivité, transforme le rôle des développeurs et ouvre la voie à des applications à faible coût, tout en mettant l'accent sur la valeur humaine et le…",
+      "link": "https://oliviersauvage.com/2026/03/19/vibe-coding-comment-lagence-world-sellers-est-passe-des-llm-aux-agents-ia/",
+      "pubDate": "2026-03-19T11:19:47.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "737002313f74",
+      "title": "Pourquoi construire une identité de marque forte à l’heure des IA génératives ?",
+      "description": "Les petits éditeurs sont les plus touchés par la baisse du trafic de recherche. L'IA ne compense pas les pertes. Les stratégies des grands éditeurs incluent la diversification du trafic. Les petits éditeurs doivent construire une marque forte et explorer l'IA pour survivre. L’article Pourquoi…",
+      "link": "https://oliviersauvage.com/2026/03/19/pourquoi-construire-une-identite-de-marque-forte-a-lheure-des-ia-generatives/",
+      "pubDate": "2026-03-19T09:19:29.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "424bfc2124d4",
+      "title": "How GiLab Duo Agent Platform & Antigravity can collaborate to improve the quality of our applications",
+      "description": "🔎 Short introduction GitLab Duo Agent Platform is the new AI solution available in the DevOps platform. Integrated in the",
+      "link": "https://blog.zenika.com/2026/03/19/how-gilab-duo-agent-platform-antigravity-can-collaborate-to-improve-the-quality-of-our-applications/",
+      "pubDate": "2026-03-19T08:32:16.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f50e.png",
+      "type": "blog"
+    },
+    {
+      "id": "f6a243a6df51",
+      "title": "Claude Code : j’ai réduit mes tokens de 90% grâce à RTK 💸",
+      "description": "Dans cette vidéo, je te montre comment j’ai réussi à réduire ma consommation de tokens de 90% avec RTK en utilisant Claude Code 🔥 Si tu utilises des agents IA, du code assisté ou des outils comme Claude, tu sais à quel point les tokens peuvent exploser… et faire grimper les coûts ou ralentir ton…",
+      "link": "https://www.youtube.com/watch?v=bPv8w-T-ZXM",
+      "pubDate": "2026-03-19T08:19:01.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/bPv8w-T-ZXM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "bPv8w-T-ZXM"
+    },
+    {
+      "id": "c193e3c87590",
+      "title": "GAFAM et souveraineté numérique : quelles sont les alternatives ?",
+      "description": "Comme beaucoup de monde, j'ai longtemps utilisé les services les plus évidents : Google pour chercher, Gmail pour les mails, Drive pour stocker, WhatsApp pour discuter. Les outils des GAFAM, quoi. Ceux qu'on ouvre sans même y penser, parce qu'ils sont",
+      "link": "https://domopi.eu/gafam-et-souverainete-numerique-quelles-sont-les-alternatives/",
+      "pubDate": "2026-03-19T06:45:34.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/03/souverainete_numerique.webp",
+      "type": "blog"
+    },
+    {
       "id": "94aa44bd0552",
       "title": "Le mythe du développeur augmenté par l’IA - Partie 1",
       "description": "Le vieux monde se meurt, le nouveau monde tarde à apparaître et dans ce clair-obscur surgissent les monstresCahiers de prison (1983) de Antonio GramsciAujourd’hui, dans le monde du développement logiciel, l’IA générative suscite de nombreux fantasmes. Le plus répandu est sans doute l’idée que coder…",
