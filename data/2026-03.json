@@ -2,6 +2,23 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "967f216d9fa0",
+      "title": "Le bottleneck n'est jamais là où vous croyez : 4 bugs en cascade sur une API audio temps réel",
+      "description": "« Combien d'utilisateurs simultanés peut-on supporter ? » Une question simple, quatre bottlenecks en cascade. Event loop bloqué, quotas invisibles, race condition gRPC : sur une API audio FastAPI/Cloud Run, chaque fix révélait le problème suivant. REX complet avec méthodo, métriques et code.",
+      "link": "https://blog.octo.com/le-bottleneck-n'est-jamais-la-ou-vous-croyez--4-bugs-en-cascade-sur-une-api-audio-temps-reel-1",
+      "pubDate": "2026-03-20T08:49:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e5b839ee339a",
       "title": "#315.exe - Apprentissage visuel: Dessine moi un Kube par Julien Dubois",
       "description": "Pour l'épisode #315 je recevais Aurélie Vache. On en débrief avec Julien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn |…",
@@ -18,6 +35,39 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/565b64e1-90c5-4325-bb6c-d2e41d48e8ef.mp3?_=1773925271",
       "duration": "12:15"
+    },
+    {
+      "id": "46ba974e2652",
+      "title": "Timbernetes : Ajuster les ressources à chaud d'une appli Java",
+      "description": "La version 1.35 de Kubernetes, nommée “Timbernetes”, est sortie le 17 décembre dernier (ça passe vite !) et est déjà disponible sur toutes les bonnes plateformes de Cloud. Une des nouveautés importantes de cette version est le passage en Stable des In-place updates of Pod resources. Le principe de…",
+      "link": "https://codeka.io/2026/03/20/timbernetes-java/",
+      "pubDate": "2026-03-20T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/03/20/timbernetes-java/cover_hu_4624def1438b62ea.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1cf316f76904",
+      "title": "Migrer 1156 posts WordPress vers Eleventy avec Claude",
+      "description": "Vous vous souvenez de l'âge d'or des blogs français ? Entre 2005 et 2012, plus ou moins. L'époque où des gens comme Korben démarraient, où il existait une vraie blogosphère française, où la plupart des blogueurs se connaissaient, se mettaient dans des blogrolls mutuels, allaient à des rencontres…",
+      "link": "https://lostinbrittany.dev/fr/migrer-1156-posts-wordpress-vers-eleventy-avec-claude/",
+      "pubDate": "2026-03-20T00:00:00.000Z",
+      "source": "Lost in Brittany (Horacio Gonzalez)",
+      "sourceUrl": "https://lostinbrittany.dev/fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://lostinbrittany.dev/img/posts/2026-03-20-migrer-1156-posts-01.png",
+      "type": "blog"
     },
     {
       "id": "7835df95526b",
