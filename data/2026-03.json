@@ -2,6 +2,73 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "a3220e9089ec",
+      "title": "#349.src - Tech et Soft Skills: Pourquoi l'empathie fait la différence dans une équipe de dev ? avec Sébastien Deleuze",
+      "description": "\"Les trois quarts du temps, le problème, il n'est pas technique. Le problème organisationnel, le problème politique&hellip c'est ça qui prend le dessus.\" Le D.E.V. de la semaine est Sébastien Deleuze, committer Spring Framework chez Broadcom. Dans cet épisode, Sébastien partage son expérience sur…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-349-810380cbbb8d",
+      "pubDate": "2026-03-25T04:00:33.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/39a6346b-af07-4450-bb42-6c65730e6ac7.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/62434dc1-affd-4d34-a70e-810380cbbb8d.mp3?_=1774357292",
+      "duration": "01:04:36"
+    },
+    {
+      "id": "58ccc6385a77",
+      "title": "1,65 million de vues en 30 jours : comment j'ai automatisé la diffusion de ma veille techno",
+      "description": "Vous le savez si vous me suivez ici, la veille technologique c'est un sujet qui me passionne depuis longtemps. Je vous ai déjà parlé de comment je m'organise, de mon usage de Inoreader, de comment trouver de bonnes sources, de comment ne",
+      "link": "https://www.camilleroux.com/1-65-million-de-vues-en-30-jours-comment-jai-automatise-la-diffusion-de-ma-veille-techno/",
+      "pubDate": "2026-03-24T12:12:11.000Z",
+      "source": "Camille Roux",
+      "sourceUrl": "https://www.camilleroux.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.camilleroux.com/content/images/2026/03/Capture-d---e--cran-2026-03-24-a---01.24.27-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "4cb9bbc89ca8",
+      "title": "📱 Il a créé /e/OS, le projet open source mobile qui nous libère de Google & Apple",
+      "description": "Bataille des OS mobiles : Peut-on vraiment échapper à Google et Apple ? 📱🛡️ Qu'est-ce qu'une tech de haute qualité éthique et comment reprendre le contrôle de sa vie privée sans sacrifier ses applications quotidiennes ? 🚀 Dans ce nouvel épisode de La French, Steeve, JB et Mehdi reçoivent Gaël…",
+      "link": "https://shows.acast.com/a-la-french/episodes/69c271c57878605e11d3acdd",
+      "pubDate": "2026-03-24T11:13:09.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1774350649229-f07552e8-ecd2-46c6-a103-1b02387cc2f8.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69c271c57878605e11d3acdd/media.mp3",
+      "duration": "1:22:08"
+    },
+    {
+      "id": "cdf51f15cd7a",
+      "title": "⚗️ A local Agent with ADK and Docker Model Runner",
+      "description": "A French version is available on the Jean-Phi’s website. ⛅ Using AI in the Cloud I’m the first to admit",
+      "link": "https://blog.zenika.com/2026/03/24/%e2%9a%97%ef%b8%8f-a-local-agent-with-adk-and-docker-model-runner/",
+      "pubDate": "2026-03-24T09:37:19.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26c5.png",
+      "type": "blog"
+    },
+    {
       "id": "69ef44b1d9a0",
       "title": "Installer un serveur NTP local",
       "description": "La synchronisation temporelle, c'est un de ces trucs qu'on ne remarque pas quand ça fonctionne, mais qui devient vite pénible quand ce n'est pas le cas : logs décalés entre deux machines, automatisations qui partent au mauvais moment,",
@@ -44,6 +111,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!6QTm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7a6ef8d-0c3d-4ed0-90de-6521d1931c0e_1920x1250.webp",
+      "type": "blog"
+    },
+    {
+      "id": "892e04b21395",
+      "title": "Égapro",
+      "description": "– Papa, j’ai trouvé réussi le brevet blanc d’EMC1 ! La semaine dernière, nous avons discuté de l’index de l’égalité professionnelle, à l’occasion de la publication des résultats de mon entreprise. Forcément, ça aide ! Enseignement Moral et Civique. ↩ rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-03-egapro/\n",
+      "pubDate": "2026-03-23T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -319,6 +401,21 @@
         "IA"
       ],
       "image": "https://lostinbrittany.dev/img/posts/2026-03-20-migrer-1156-posts-01.png",
+      "type": "blog"
+    },
+    {
+      "id": "3c4d1522e507",
+      "title": "Autonomie",
+      "description": "En tant que parent, on se fait toute une idée de l’autonomie. Comme quoi un jour, nos chers enfants feront les choses seuls, sans notre aide, et que ça sera à la fois génial et un peu triste. Et puis en fait, comme pour la marche, ça vient après une succession de mouvements désordonés. – Mais, t’es…",
+      "link": "https://boris.schapira.dev/notes/2026-03-autonomie/\n",
+      "pubDate": "2026-03-19T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
