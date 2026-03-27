@@ -2,6 +2,24 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "b34409025030",
+      "title": "MACI #157 - PostgreSQL, Redis et React - Avec Ludovic Dussart de Zatsit",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, nos invités parcourent plusieurs actualités techniques autour des bases de données, de l’open source et des outils développeurs. Nous parlons des évolutions de PostgreSQL et MySQL, du sharding avec PgDog, et de la fin de vie de certaines…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-157-postgresql-redis-et-react-avec-ludovic-dussart-de-zatsit",
+      "pubDate": "2026-03-27T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/wMLOVVja6qOn3E97sHRgpqMEGcwvfDyQmmkBF7A5_1400x1400.jpeg?t=1774590549",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/oZw9zCxXwmLJ.mp3?t=1774590011",
+      "duration": "58:47"
+    },
+    {
       "id": "2c64de19f77e",
       "title": "#335.exe - Figma: From tech debt to AI, all through collaboration. The real life of a VP of Engineering par Caroline Chavier",
       "description": "Pour l'épisode #335 je recevais Marcel Weekes. On en débrief avec Caroline. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn…",
