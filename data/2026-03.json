@@ -2,6 +2,151 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "2c64de19f77e",
+      "title": "#335.exe - Figma: From tech debt to AI, all through collaboration. The real life of a VP of Engineering par Caroline Chavier",
+      "description": "Pour l'épisode #335 je recevais Marcel Weekes. On en débrief avec Caroline. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-335-exe-b617f0a5ec50",
+      "pubDate": "2026-03-27T04:00:30.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/8af292f4-9d4f-4f3f-b226-b617f0a5ec50.mp3?_=1774530150",
+      "duration": "12:29"
+    },
+    {
+      "id": "5fcbb38c82cc",
+      "title": "LLM à l’état de l’art pour équipes de développement : analyse statistique et perspectives",
+      "description": "Introduction Bien que l’invention des neurones formels date de 1943 [1], ce sont les réseaux sémantiques qui ont mené l’intelligence",
+      "link": "https://blog.zenika.com/2026/03/26/llm-a-letat-de-lart-pour-equipes-de-developpement-analyse-statistique-et-perspectives/",
+      "pubDate": "2026-03-26T14:53:56.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/03/image-5.png?resize=800%2C380&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "ccf21e64f3a8",
+      "title": "Google vient de CHANGER L'IA POUR TOUJOURS (Voici comment)",
+      "description": "L'IA coûte trop cher et consomme trop de mémoire... jusqu'à aujourd'hui ! Google vient de dévoiler TurboQuant, un algorithme de compression révolutionnaire qui réduit la mémoire des IA par 6 et les rend jusqu'à 8 fois plus rapides, sans AUCUNE perte de précision Liens utiles : ▶️ Google TurboQuant…",
+      "link": "https://www.youtube.com/watch?v=FVvs0VyTxU0",
+      "pubDate": "2026-03-26T13:00:24.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/FVvs0VyTxU0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "FVvs0VyTxU0"
+    },
+    {
+      "id": "13022312a584",
+      "title": "Café Tech avec Imen est en direct !",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=UvHSvXqbMXo",
+      "pubDate": "2026-03-26T12:39:05.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/UvHSvXqbMXo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "UvHSvXqbMXo"
+    },
+    {
+      "id": "56179096ad79",
+      "title": "Café Tech avec Imen est en direct !",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=-Z5Qy6OTnmk",
+      "pubDate": "2026-03-26T10:09:25.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/-Z5Qy6OTnmk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "-Z5Qy6OTnmk"
+    },
+    {
+      "id": "0d5645b7044c",
+      "title": "AutoMapper 10.0 : Le mapper le plus RAPIDE du monde pour PHP ?",
+      "description": "AutoMapper 10.0 est-il vraiment le mapper le plus rapide du monde en PHP ? Dans cette vidéo, on analyse en profondeur cette librairie développée par JoliCode qui promet des performances impressionnantes… sans passer par un serializer classique. Si tu travailles avec PHP ou Symfony et que tu veux…",
+      "link": "https://www.youtube.com/watch?v=WCoXQ4s_wKI",
+      "pubDate": "2026-03-26T10:00:47.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/WCoXQ4s_wKI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "WCoXQ4s_wKI"
+    },
+    {
+      "id": "a8e857898414",
+      "title": "Git : comment supprimer tous les fichiers en dehors de l’historique",
+      "description": "Découvrez comment supprimer les fichiers non suivis par Git après un git reset, avec git clean, les bonnes options et les précautions à connaître.",
+      "link": "https://code-garage.com/blog/git-comment-supprimer-tous-les-fichiers-en-dehors-de-l-historique",
+      "pubDate": "2026-03-26T09:57:15.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "36202f6fee2f",
+      "title": "Déploiement On-Premise - Partie 2 - Castor à la rescousse",
+      "description": "Dans le précédent article, nous avons vu toutes les étapes nécessaires pour préparer les images Docker qui seront utilisées en production. Mais nous allons maintenant aller plus loin pour automatiser et simplifier encore un peu plus cette étape grâce à Castor et les runners GitLab, le but étant de…",
+      "link": "https://jolicode.com/blog/deploiement-on-premise-partie-2-castor-a-la-rescousse",
+      "pubDate": "2026-03-26T09:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/on-premise-docker-castor/arsol-production-phar.png",
+      "type": "blog"
+    },
+    {
+      "id": "8983fe67fdf0",
+      "title": "Café Tech avec Imen est en direct de SymfonyLive Paris 2026 !",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=7Bb8uZmttw0",
+      "pubDate": "2026-03-26T09:33:42.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/7Bb8uZmttw0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "7Bb8uZmttw0"
+    },
+    {
       "id": "c51371df9e0b",
       "title": "Réorganisation des LXC, panne du NUC, refonte du homelab : retour sur un mois mouvementé",
       "description": "Il y a des projets qu'on repousse pendant des mois. Pas parce qu'ils sont complexes, mais parce qu'ils ne sont pas urgents. L'infra tourne, les services fonctionnent, et remettre les mains dedans hors la maintenance habituelle, les mises à jour ou le",
@@ -14,6 +159,21 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2026/03/rack.webp",
+      "type": "blog"
+    },
+    {
+      "id": "5f1542a56964",
+      "title": "Un lycée 100 % sous Linux",
+      "description": "Un lycée 100 % sous Linux {align=right} Depuis septembre 2010, j'administre le réseau du [lycée Scholae][1], un établissement scolaire pas comme les autres, serti dans une vallée verdoyante des Cévennes entre Saint-Hippolyte-du-Fort et Lasalle. En 2019, l'école a produit une [petite vidéo de…",
+      "link": "https://www.microlinux.fr/blog/lycee-sous-linux/",
+      "pubDate": "2026-03-26T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/linux-lycee.png",
       "type": "blog"
     },
     {
