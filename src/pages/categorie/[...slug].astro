@@ -1,7 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
-import { loadAllArticles, getAllCategories, getCategoryColor, slugify } from '../../utils/articles';
+import { loadAllArticles, getAllCategories, getCategoryColor, slugify, getMetaDescription } from '../../utils/articles';
 
 export function getStaticPaths() {
   const PAGE_SIZE = 15;
@@ -16,6 +16,7 @@ export function getStaticPaths() {
 
     for (let page = 1; page <= totalPages; page++) {
       const start = (page - 1) * PAGE_SIZE;
+      const recentSources = [...new Set(catArticles.slice(0, 10).map((a) => a.source))].slice(0, 3);
       paths.push({
         params: { slug: page === 1 ? catSlug : `${catSlug}/${page}` },
         props: {
@@ -25,6 +26,7 @@ export function getStaticPaths() {
           currentPage: page,
           totalPages,
           totalArticles: catArticles.length,
+          recentSources,
         },
       });
     }
@@ -33,7 +35,7 @@ export function getStaticPaths() {
   return paths;
 }
 
-const { category, catSlug, articles, currentPage, totalPages, totalArticles } = Astro.props;
+const { category, catSlug, articles, currentPage, totalPages, totalArticles, recentSources } = Astro.props;
 
 function pageUrl(page: number): string {
   return page === 1 ? `/categorie/${catSlug}` : `/categorie/${catSlug}/${page}`;
@@ -49,7 +51,17 @@ for (let i = 1; i <= totalPages; i++) {
 }
 ---
 
-<Layout title={currentPage > 1 ? `Articles ${category} — Page ${currentPage}` : `Articles ${category}`} description={`Tous les articles ${category} agrégés par Flux — Veille technologique francophone sur ${category.toLowerCase()}.`}>
+<Layout title={currentPage > 1 ? `Articles ${category} — Page ${currentPage}` : `Articles ${category}`} description={getMetaDescription(`${totalArticles} articles ${category} agrégés par Flux — Sources récentes : ${recentSources.join(', ')}. Veille technologique francophone.`)}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": `Articles ${category} — Flux`,
+    "description": `${totalArticles} articles ${category} agrégés par Flux — Veille technologique francophone.`,
+    "url": `https://flux.yoandev.co/categorie/${catSlug}/`,
+    "numberOfItems": totalArticles,
+    "inLanguage": "fr",
+    "isPartOf": { "@type": "WebSite", "name": "Flux — Veille technologique", "url": "https://flux.yoandev.co" },
+  })} />
   <script slot="head" type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",

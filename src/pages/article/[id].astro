@@ -1,7 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
-import { loadAllArticles, getRelatedArticles, formatDate, getCategoryColor, getCategoryGradient, getFreshnessBadge, getTypeLabel, getTypeColor, slugify } from '../../utils/articles';
+import { loadAllArticles, getRelatedArticles, formatDate, getCategoryColor, getCategoryGradient, getFreshnessBadge, getTypeLabel, getTypeColor, slugify, getMetaDescription } from '../../utils/articles';
 
 export function getStaticPaths() {
   const articles = loadAllArticles();
@@ -16,18 +16,41 @@ const related = getRelatedArticles(article, allArticles);
 const badge = getFreshnessBadge(article.pubDate);
 ---
 
-<Layout title={`${article.title} (${article.source})`} description={article.description} image={article.image || undefined} canonicalOverride={article.link}>
-  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": article.title,
-    "description": article.description,
-    "datePublished": article.pubDate,
-    "author": { "@type": "Organization", "name": article.source, "url": article.sourceUrl },
-    "publisher": { "@type": "Person", "name": "YoanDev", "url": "https://yoandev.co" },
-    ...(article.image ? { "image": article.image } : {}),
-    "mainEntityOfPage": article.link,
-  })} />
+<Layout title={`${article.title} (${article.source})`} description={getMetaDescription(article.description)} image={article.image || undefined} canonicalOverride={article.link}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(
+    article.type === 'youtube' ? {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "name": article.title,
+      "description": article.description,
+      "uploadDate": article.pubDate,
+      "contentUrl": article.link,
+      ...(article.videoId ? { "embedUrl": `https://www.youtube.com/embed/${article.videoId}` } : {}),
+      ...(article.image ? { "thumbnailUrl": article.image } : {}),
+      "publisher": { "@type": "Organization", "name": article.source, "url": article.sourceUrl },
+    } : article.type === 'podcast' ? {
+      "@context": "https://schema.org",
+      "@type": "PodcastEpisode",
+      "name": article.title,
+      "description": article.description,
+      "datePublished": article.pubDate,
+      "url": article.link,
+      "partOfSeries": { "@type": "PodcastSeries", "name": article.source, "url": article.sourceUrl },
+      ...(article.audioUrl ? { "associatedMedia": { "@type": "AudioObject", "contentUrl": article.audioUrl } } : {}),
+      ...(article.duration ? { "timeRequired": article.duration } : {}),
+    } : {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": article.title,
+      "description": article.description,
+      "datePublished": article.pubDate,
+      "author": { "@type": "Organization", "name": article.source, "url": article.sourceUrl },
+      "publisher": { "@type": "Person", "name": "YoanDev", "url": "https://yoandev.co" },
+      ...(article.image ? { "image": article.image } : {}),
+      "mainEntityOfPage": article.link,
+      "inLanguage": "fr",
+    }
+  )} />
   <script slot="head" type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",

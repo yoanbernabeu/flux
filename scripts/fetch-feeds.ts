@@ -77,7 +77,7 @@ function extractImage(item: RSSParser.Item, feedLink: string, isPodcast = false)
   return null;
 }
 
-function truncateDescription(text: string | undefined, maxLength = 300): string {
+function truncateDescription(text: string | undefined, maxLength = 500): string {
   if (!text) return '';
   // Strip HTML tags
   const clean = text.replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
@@ -235,7 +235,7 @@ async function main() {
           articles.push({
             id,
             title: video.title,
-            description: truncateDescription(video.description),
+            description: truncateDescription(video.description || `Vidéo YouTube publiée par ${feedConfig.name} — ${video.title}`),
             link,
             pubDate: parsedDate.toISOString(),
             source: feedConfig.name,

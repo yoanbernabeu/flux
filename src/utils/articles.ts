@@ -80,6 +80,12 @@ export function getFreshnessBadge(pubDate: string): { label: string; class: stri
   return null;
 }
 
+export function getMetaDescription(text: string, maxLength = 155): string {
+  if (!text) return '';
+  if (text.length <= maxLength) return text;
+  return text.slice(0, maxLength).replace(/\s+\S*$/, '') + '…';
+}
+
 export function formatDate(dateStr: string): string {
   return new Date(dateStr).toLocaleDateString('fr-FR', {
     day: 'numeric',
