@@ -2,6 +2,133 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "089cd54a99f7",
+      "title": "Let AI Write Code, Beyond the “Waouh” Effect, the IApocalypse?",
+      "description": "",
+      "link": "https://smaine-milianni.medium.com/let-ai-write-code-beyond-the-waouh-effect-the-iapocalypse-de513ad5319c?source=rss-c730ddf97658------2",
+      "pubDate": "2026-03-30T00:47:04.000Z",
+      "source": "Smaïne Milianni",
+      "sourceUrl": "https://medium.com/feed/@smaine-milianni",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/1024/0*qb9MMGn4tet5i1zx.png",
+      "type": "blog"
+    },
+    {
+      "id": "38bd0bf17208",
+      "title": "En vrac de mars 2026",
+      "description": "Des nouvelles de l’IA «QuitGPT» : un mouvement de boycott du géant de l’intelligence artificielle ChatGPT, dont le cofondateur soutient Donald Trump (le président d’OpenAI est Greg Brockman est effectivement le plus grand donateur au superPAC de Trump, avec 25 millions de dollars pour son foyer.) Trouvé via Les Cerises de Hiatus, qui met aussi en relief le travail de mes collègues sur la low-tech en entreprise (cherchez “Disruption Game” dans la page) ; Humongous Numbers of People Are…",
+      "link": "https://standblog.org/blog/post/2026/03/29/En-vrac-de-mars-2026",
+      "pubDate": "2026-03-29T17:30:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6e2afeaf40c9",
+      "title": "Symfony, PHP, IA : 1h15 de discussion avec Nicolas Grekas !",
+      "description": "Symfony, PHP, IA : 1h15 de discussion avec Nicolas Grekas Nicolas Grekas est membre de la Core Team Symfony, mainteneur du projet et membre de la PHP Foundation. Un acteur incontournable de l'écosystème PHP et de l'open source. Dans cet entretien, on revient sur : - Son parcours : comment il est devenu un pilier de la communauté PHP - Symfony : l'état du framework, sa vision, ses perspectives - L'open source et la PHP Foundation : comment ça fonctionne, les enjeux, le financement - L'IA et son…",
+      "link": "https://www.youtube.com/watch?v=eok2xwvK4Mc",
+      "pubDate": "2026-03-29T16:00:43.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/eok2xwvK4Mc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "eok2xwvK4Mc"
+    },
+    {
+      "id": "21f998eb236b",
+      "title": "101 façons de déployer Kubernetes : 125 solutions, des PRs communautaires et une UI qui s'améliore",
+      "description": "Il bouge encore Depuis la sortie de l’interface web du projet début février, le projet a continué à évoluer. Ajout de solutions manquantes, petites améliorations de l’UI, contributions externes, optimisations de performances… Bref, un bon petit mois bien rempli pour ce gros side project que j’aimerais faire grossir. 101-ways-to-deploy-kubernetes Note : si vous n’avez pas suivi les épisodes précédents : 93 façons de déployer Kubernetes — le Google Sheet original 101 façons de déployer Kubernetes…",
+      "link": "https://blog.zwindler.fr/2026/03/29/101-facons-de-deployer-kubernetes-v3/",
+      "pubDate": "2026-03-29T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/125-kube.webp",
+      "type": "blog"
+    },
+    {
+      "id": "074f52e3fbc6",
+      "title": "Demandez le programme avec Samuel Retiere",
+      "description": "Pas de call for papers. Pas de slots “réservés” pour les sponsors. Cette contrainte force une exigence éditoriale rare. Chaque talk doit mériter sa place. Pas parce qu’il y a un budget derrière. Pas parce qu’il faut “faire plaisir”. Mais parce qu’il apporte quelque chose de vrai, de concret, d’actionnable. Évidemment, cette posture crée une tension permanente entre indépendance et financement. Rien de confortable. Rien d’évident. Mais c’est aussi ce qui donne sa cohérence à l’ensemble.…",
+      "link": "https://podcast.ausha.co/artisan-developpeur/demandez-le-programme-avec-samuel-retiere",
+      "pubDate": "2026-03-29T15:10:00.000Z",
+      "source": "Artisan Développeur",
+      "sourceUrl": "https://feed.ausha.co/BxW2S9Mex0Vb",
+      "categories": [
+        "Programmation"
+      ],
+      "image": "https://image.ausha.co/ZqcVAZgM4bgtgZunqH2Ic9DKxRYvltvQLp34vdp1_1400x1400.jpeg?t=1774448561",
+      "type": "podcast",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/Bxzvt4NElzpy.mp3?t=1774447649",
+      "duration": "17:10"
+    },
+    {
+      "id": "8af9ec815da5",
+      "title": "Ce micro-framework PHP fait 12Ko… et il remplace Laravel ?",
+      "description": "Tu penses que PHP = gros frameworks comme Laravel ? 🤔 Et si je te disais qu’un micro-framework de 12Ko peut faire : 🔗 du routing façon Next.js 🧩 des layouts dynamiques 🛠️ des helpers globaux et scopés 🖼️ la gestion des assets (CSS, JS, images) 🌍 de la traduction automatique (i18n) 👉 Dans cette vidéo, je te fais découvrir Arcane PHP, un micro-framework minimaliste mais étonnamment puissant. ⚡ Ce que tu vas apprendre Comment fonctionne le routing basé sur les fichiers Utiliser le helper…",
+      "link": "https://www.youtube.com/watch?v=YFoocsbqSjM",
+      "pubDate": "2026-03-29T13:00:16.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/YFoocsbqSjM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "YFoocsbqSjM"
+    },
+    {
+      "id": "bd9e2e719c72",
+      "title": "CRD ou APIService : comment étendre l'API Kubernetes ?",
+      "description": "CRD ou APIService ? Deux façons d'étendre l'API Kubernetes avec des philosophies radicalement différentes. On compare les deux avec des exemples concrets !",
+      "link": "https://une-tasse-de.cafe/blog/crd-vs-apiservice/",
+      "pubDate": "2026-03-29T08:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9eb1b05a41c2",
+      "title": "Linux Mint Debian Edition 7 aux petits oignons",
+      "description": "Linux Mint Debian Edition 7 aux petits oignons {align=right} Fin 2025 j'ai lu une [critique détaillée][1] de Linux Mint Debian Edition 7 publiée par Distrowatch, qui a éveillé ma curiosité. J'ai installé ça dans une VM et sur un PC bac à sable, et j'avoue que j'ai été agréablement surpris.",
+      "link": "https://www.microlinux.fr/blog/lmde-7-microlinux/",
+      "pubDate": "2026-03-29T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/chef.png",
+      "type": "blog"
+    },
+    {
       "id": "2a2f7a97e86b",
       "title": "Symfony UX Native : Transforme ton app web en APP MOBILE en 5 min 😱",
       "description": "Symfony peut maintenant faire des applications mobiles natives 🤯 Avec Symfony UX Native, transforme ton application web en véritable app mobile, sans passer par React Native ou Flutter. Dans cette vidéo, je te montre comment utiliser Symfony UX Native pour créer une expérience mobile native directement depuis ton projet Symfony. 🔗 Liens utiles 👉 UX Native : https://ux.symfony.com/native 👉Hotwired Native : https://native.hotwired.dev 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr…",
