@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "887f5cb7b9fb",
+      "title": "OpenCVE, une plateforme de veille et de gestion des vulnérabilités",
+      "description": "Des CVE publiées en permanence, impossible de toutes les suivre. OpenCVE filtre ce qui vous concerne et alerte dès qu'une faille touche vos logiciels ou équipements.",
+      "link": "https://domopi.eu/opencve-une-plateforme-de-veille-et-de-gestion-des-vulnerabilites/",
+      "pubDate": "2026-03-30T05:45:48.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/03/article_opencve.webp",
+      "type": "blog"
+    },
+    {
       "id": "089cd54a99f7",
       "title": "Let AI Write Code, Beyond the “Waouh” Effect, the IApocalypse?",
       "description": "",
