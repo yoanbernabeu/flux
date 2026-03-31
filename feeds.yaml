@@ -1,4 +1,8 @@
 feeds:
+  - url: https://tahak.me/rss.xml
+    name: Taha K.
+    categories: [Programmation, IA]
+
   - url: https://blog.zwindler.fr/index.xml
     name: Zwindler's Reflection
     categories: [DevOps, Cloud, Programmation]
@@ -307,3 +311,7 @@ feeds_world:
   - url: https://blog.dailydoseofds.com/feed
     name: Daily Dose of Data Science
     categories: [IA]
+
+  - url: https://skiplabs.io/blog/rss.xml
+    name: Skip Labs
+    categories: [Programmation]

@@ -448,6 +448,21 @@
       "videoId": "7FhcCvwrexE"
     },
     {
+      "id": "1f36ddb95e90",
+      "title": "Monitorer Claude Code comme un vrai projet : le guide complet avec Grafana",
+      "description": "Comment monter un dashboard Grafana pour monitorer l'utilisation de Claude Code dans une equipe de dev, avec des KPIs pour CTO et Tech Leads.",
+      "link": "https://tahak.me/posts/monitorer-claude-code-grafana/",
+      "pubDate": "2026-03-28T00:00:00.000Z",
+      "source": "Taha K.",
+      "sourceUrl": "https://tahak.me/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "25e1345a320f",
       "title": "320 lecteurs en 3 mois. Et maintenant ?",
       "description": "Ce qui change dès maintenant, ce qui arrive bientôt et pourquoi la newsletter ne sera plus tout à fait la même.",

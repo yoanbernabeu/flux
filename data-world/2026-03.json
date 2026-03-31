@@ -981,6 +981,20 @@
       "type": "blog"
     },
     {
+      "id": "ef01c7330e18",
+      "title": "Code Was Never for Machines — Until Now",
+      "description": "We spent decades making languages readable. Agents don't care. Why we'll resist this shift — and why we'll embrace it anyway.",
+      "link": "https://skiplabs.io/blog/future_of_tools_for_ai",
+      "pubDate": "2026-03-23T00:00:00.000Z",
+      "source": "Skip Labs",
+      "sourceUrl": "https://skiplabs.io/blog/rss.xml",
+      "categories": [
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1b1922450fff",
       "title": "Experimenting with Starlette 1.0 with Claude skills",
       "description": "Starlette 1.0 is out! This is a really big deal. I think Starlette may be the Python framework with the most usage compared to its relatively low brand recognition because Starlette is the foundation of FastAPI, which has attracted a huge amount of buzz that seems to have overshadowed Starlette itself. Kim Christie started working on Starlette in 2018 and it quickly became my favorite out of the new breed of Python ASGI frameworks. The only reason I didn't use it as the basis for my own…",
@@ -1733,6 +1747,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
+      "id": "20ea23750962",
+      "title": "Treat Agent Output Like Compiler Output",
+      "description": "Why our discomfort with AI-generated code reveals exactly what we haven't built yet, and what the compiler analogy teaches us about trusting coding agents.",
+      "link": "https://skiplabs.io/blog/codegen_as_compiler",
+      "pubDate": "2026-03-09T00:00:00.000Z",
+      "source": "Skip Labs",
+      "sourceUrl": "https://skiplabs.io/blog/rss.xml",
+      "categories": [
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
