@@ -60,6 +60,20 @@
       "type": "blog"
     },
     {
+      "id": "ddbb1c17f4ac",
+      "title": "Claude vs. Claude Code vs. Cowork",
+      "description": "...explained visually!",
+      "link": "https://blog.dailydoseofds.com/p/claude-vs-claude-code-vs-cowork",
+      "pubDate": "2026-03-31T02:18:32.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!2kQk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9719cc3b-63ca-4cde-b26c-f6945ec1d102_800x787.gif",
+      "type": "blog"
+    },
+    {
       "id": "a1fd5d35a0f8",
       "title": "datasette-files 0.1a3",
       "description": "Release: datasette-files 0.1a3 I'm working on integrating datasette-files into other plugins, such as datasette-extract. This necessitated a new release of the base plugin. owners_can_edit and owners_can_delete configuration options, plus the files-edit and files-delete actions are now scoped to a new FileResource which is a child of FileSourceResource. #18 The file picker UI is now available as a &lt;datasette-file-picker&gt; Web Component. Thanks, Alex Garcia. #19 New from datasette_files…",
@@ -265,6 +279,20 @@
       "type": "blog"
     },
     {
+      "id": "b586f973a79a",
+      "title": "Concepts of LLM Serving in LLMOps",
+      "description": "...covered with API-based access, inference with vLLM, and practical decisions.",
+      "link": "https://blog.dailydoseofds.com/p/concepts-of-llm-serving-in-llmops",
+      "pubDate": "2026-03-28T20:16:12.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!yepP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27076817-0c76-421a-9810-3cba8c9480da_985x470.png",
+      "type": "blog"
+    },
+    {
       "id": "e52471c9d094",
       "title": "Quoting Matt Webb",
       "description": "The thing about agentic coding is that agents grind problems into dust. Give an agent a problem and a while loop and - long term - it’ll solve that problem even if it means burning a trillion tokens and re-writing down to the silicon. [...] But we want AI agents to solve coding problems quickly and in a way that is maintainable and adaptive and composable (benefiting from improvements elsewhere), and where every addition makes the whole stack better. So at the bottom is really great libraries…",
@@ -336,6 +364,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e6fc87aaaa28",
+      "title": "The Three Layers of Context That Make Coding Agents Actually Useful",
+      "description": "...explained with code!",
+      "link": "https://blog.dailydoseofds.com/p/the-three-layers-of-context-that",
+      "pubDate": "2026-03-27T20:50:32.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!4EsU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec570584-e2db-4d34-81eb-65dcc7305789_1504x762.png",
       "type": "blog"
     },
     {
@@ -425,6 +467,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "69cd40481a06",
+      "title": "CPU vs GPU vs TPU vs NPU vs LPU",
+      "description": "...explained visually!",
+      "link": "https://blog.dailydoseofds.com/p/cpu-vs-gpu-vs-tpu-vs-npu-vs-lpu",
+      "pubDate": "2026-03-26T20:01:10.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!UFKM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a2fea20-6b3c-49d7-9fe8-1326f8b1d21e_1250x1250.jpeg",
       "type": "blog"
     },
     {
@@ -547,6 +603,20 @@
       "type": "blog"
     },
     {
+      "id": "0053a3aa214a",
+      "title": "A Disaster-free Way to Run OpenClaw on Your Real Data/Apps!",
+      "description": "...explained with code (100% local).",
+      "link": "https://blog.dailydoseofds.com/p/a-disaster-free-way-to-run-openclaw",
+      "pubDate": "2026-03-25T20:07:45.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Saok!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33eb00d7-98e1-4e5c-80fd-2b908a367643_1073x532.png",
+      "type": "blog"
+    },
+    {
       "id": "c302cee1c410",
       "title": "LiteLLM Hack: Were You One of the 47,000?",
       "description": "LiteLLM Hack: Were You One of the 47,000? Daniel Hnyk used the BigQuery PyPI dataset to determine how many downloads there were of the exploited LiteLLM packages during the 46 minute period they were live on PyPI. The answer was 46,996 across the two compromised release versions (1.82.7 and 1.82.8). They also identified 2,337 packages that depended on LiteLLM - 88% of which did not pin versions in a way that would have avoided the exploited version. Via @hnykda Tags: packaging, pypi, python,…",
@@ -616,6 +686,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9892dc57daeb",
+      "title": "How to Build an OS for Your AI Workforce?",
+      "description": "An OS layer to manage a fleet of AI agents!",
+      "link": "https://blog.dailydoseofds.com/p/how-to-build-an-os-for-your-ai-workforce",
+      "pubDate": "2026-03-24T21:23:20.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/8fa47ce9-3d41-405a-92b0-94da2310f289_2460x1247.png",
       "type": "blog"
     },
     {
@@ -782,6 +866,20 @@
       "type": "blog"
     },
     {
+      "id": "ccc665fdd387",
+      "title": "Anatomy of the .claude/ Folder",
+      "description": "A complete guide to CLAUDE.md, custom commands, skills, agents, and permissions, and how to set them up properly.",
+      "link": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "pubDate": "2026-03-23T19:36:59.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!ITpM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b81cc25-df87-4ea8-a11b-9a719d5836b1_1166x1176.png",
+      "type": "blog"
+    },
+    {
       "id": "c90da3c8d78e",
       "title": "Quoting David Abram",
       "description": "I have been doing this for years, and the hardest parts of the job were never about typing out code. I have always struggled most with understanding systems, debugging things that made no sense, designing architectures that wouldn't collapse under heavy load, and making decisions that would save months of pain later. None of these problems can be solved LLMs. They can suggest code, help with boilerplate, sometimes can act as a sounding board. But they don't understand the system, they don't…",
@@ -928,6 +1026,20 @@
       "type": "blog"
     },
     {
+      "id": "bfba23d1b89a",
+      "title": "A Practical Deep Dive on LLM Inference and Optimization!",
+      "description": "...covered with fundamentals, bottlenecks, and techniques!",
+      "link": "https://blog.dailydoseofds.com/p/a-practical-deep-dive-on-llm-inference",
+      "pubDate": "2026-03-21T19:27:19.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!BC1v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F526cdbd9-095b-4918-866d-f4c8c0b69da3_1101x524.png",
+      "type": "blog"
+    },
+    {
       "id": "a0dac42528fa",
       "title": "CanisterWorm: npm Publisher Compromise Deploys Backdoor Across 29+ Packages",
       "description": "As of March 21, 2026, the CanisterWorm supply chain attack has expanded to 135 malicious package artifacts spanning more than 64 unique packages. We are tracking the incident on Socket’s dedicated CanisterWorm supply chain attack page: https://socket.dev/supply-chain-attacks/canisterworm. According to the Wiz investigation report released on March 20, 2026, the attack is attributed to “TeamPCP”, a threat actor behind the earlier Aqua Security's Trivy attacks [1 and 2]. We continue to monitor…",
@@ -940,6 +1052,20 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/9023a8c246eac3a7459d4f61ee21e4171330edaa-1800x1050.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "1fe7951f73d2",
+      "title": "Relational DBs vs FalkorDB",
+      "description": "...explained visually!",
+      "link": "https://blog.dailydoseofds.com/p/relational-dbs-vs-falkordb",
+      "pubDate": "2026-03-20T18:48:49.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!p9EC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ab35d0a-9572-44e7-94ee-5453cda839f3_1230x1230.gif",
       "type": "blog"
     },
     {
@@ -1015,6 +1141,20 @@
       "type": "blog"
     },
     {
+      "id": "3f33a93f8f24",
+      "title": "Multi-turn Evals for LLM Apps",
+      "description": "...explained with code!",
+      "link": "https://blog.dailydoseofds.com/p/multi-turn-evals-for-llm-apps-9cc",
+      "pubDate": "2026-03-19T20:39:24.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!zcm2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cb5906e-07a2-41a4-84ce-3a96c2dd3ace_960x874.gif",
+      "type": "blog"
+    },
+    {
       "id": "98435136fb19",
       "title": "PHP Alive And Kicking: Episode 26 Elizabeth Barron",
       "description": "In this episode of PHP Alive and Kicking, hosted by Mike and Chris (from PHP Architect), featuring their guest Elizabeth Barron, the newly appointed Executive Director of the PHP Foundation. The conversation covers Elizabeth’s origin story in PHP (self-teaching in the late 1990s), her vision for the Foundation beyond just funding core developers […] The post PHP Alive And Kicking: Episode 26 Elizabeth Barron appeared first on PHP Architect.",
@@ -1072,6 +1212,20 @@
       "type": "blog"
     },
     {
+      "id": "e465e4858500",
+      "title": "Context Engineering for Agents",
+      "description": "...explained visually.",
+      "link": "https://blog.dailydoseofds.com/p/context-engineering-for-agents-30a",
+      "pubDate": "2026-03-18T20:33:07.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!5R1A!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97dcd5a7-37f4-4ab6-ab39-55a02dc97f32_1080x1080.gif",
+      "type": "blog"
+    },
+    {
       "id": "852cebaf379d",
       "title": "Anthropic vs. DoW #5: Motions Filed",
       "description": "The news has thankfully quieted down on this front, and is mostly about the lawsuit as we build towards a hearing next week, after which we will find out if a temporary restraining order or an injunction is on the table.",
@@ -1098,6 +1252,20 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f34d9b2bf57a",
+      "title": "A New Way to Handle Residual Connections in Transformers",
+      "description": "...explained visually!",
+      "link": "https://blog.dailydoseofds.com/p/a-new-way-to-handle-residual-connections",
+      "pubDate": "2026-03-17T21:03:51.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!xI_o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0777c9ff-4c83-4af5-9bcc-fb0d06915981_1559x933.png",
       "type": "blog"
     },
     {
@@ -1141,6 +1309,20 @@
         "Web"
       ],
       "image": "https://symfony.com/uploads/assets/blog/BLOG-1200x440px-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "bcd38a8bf303",
+      "title": "Claude Subagents vs. Agent Teams",
+      "description": "...explained visually.",
+      "link": "https://blog.dailydoseofds.com/p/claude-subagents-vs-agent-teams",
+      "pubDate": "2026-03-16T19:27:11.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!N-0b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74e64a66-02af-490f-9371-55286fa09cf0_1566x788.png",
       "type": "blog"
     },
     {
@@ -1214,6 +1396,20 @@
       "type": "blog"
     },
     {
+      "id": "418bc873d3e5",
+      "title": "LLM Fine-tuning: Techniques for Adapting Language Models",
+      "description": "Understanding LoRA, QLoRA, RLHF, DPO, GRPO, etc.",
+      "link": "https://blog.dailydoseofds.com/p/llm-fine-tuning-techniques-for-adapting",
+      "pubDate": "2026-03-15T20:41:27.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!1e06!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f6c2eb2-0460-4b41-93d4-e366087ce6e5_2000x970.png",
+      "type": "blog"
+    },
+    {
       "id": "50dbffec9285",
       "title": "A Week of Symfony #1002 (March 9–15, 2026)",
       "description": "This week, the upcoming Symfony 8.1 version deprecated the erase credentials security feature, added a new MapRequestHeader attribute, introduced a deep cloner in the VarExporter component, and added support for defining custom functions in the JsonPath component.…",
@@ -1240,6 +1436,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!rw_t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59f6c2af-f5de-411a-b679-58da4c4d99b3_1905x1382.png",
+      "type": "blog"
+    },
+    {
+      "id": "dbe07ba8d49a",
+      "title": "How to Actually Use Train, Validation, and Test Sets in ML",
+      "description": "...explained visually!",
+      "link": "https://blog.dailydoseofds.com/p/how-to-actually-use-train-validation-e2a",
+      "pubDate": "2026-03-13T22:04:30.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!1dtb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b0d390e-9500-4b33-9b8c-28a6264588de_1108x631.png",
       "type": "blog"
     },
     {
@@ -1315,6 +1525,20 @@
       "type": "blog"
     },
     {
+      "id": "8265a221cef3",
+      "title": "Set Up a Secure OpenClaw Deployment!​",
+      "description": "...explained in step-by-step guide!",
+      "link": "https://blog.dailydoseofds.com/p/set-up-a-secure-openclaw-deployment",
+      "pubDate": "2026-03-12T21:35:40.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://api.substack.com/feed/podcast/190770174/d775a414a56f15d7737db4afee6393d7.mp3",
+      "type": "blog"
+    },
+    {
       "id": "79ee2a645d3a",
       "title": "Is the US military actually afraid of Claude? A new theory of why Anthropic was labeled a supply chain risk.",
       "description": "Unpacking a perplexing argument from the Pentagon",
@@ -1354,6 +1578,20 @@
         "IA"
       ],
       "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/03/image-6.png",
+      "type": "blog"
+    },
+    {
+      "id": "e01da79c7f1d",
+      "title": "[Hands-on] A Federated Query Engine Over Your Entire Data",
+      "description": "...built with open-source stack!",
+      "link": "https://blog.dailydoseofds.com/p/hands-on-a-federated-query-engine",
+      "pubDate": "2026-03-11T21:06:17.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/ca687e24-2c8d-4a2f-abdc-f6ad4aca6c37_1080x1082.png",
       "type": "blog"
     },
     {
@@ -1414,6 +1652,20 @@
       "type": "blog"
     },
     {
+      "id": "ca67f4dc9b5e",
+      "title": "Paged Attention in LLMs",
+      "description": "...explained visually!",
+      "link": "https://blog.dailydoseofds.com/p/paged-attention-in-llms",
+      "pubDate": "2026-03-10T21:05:19.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Dbuj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e888bac-7520-48e1-ad98-b461238d41cd_1456x794.png",
+      "type": "blog"
+    },
+    {
       "id": "76555f8a5c68",
       "title": "“A spate of outages, including incidents tied to the use of AI coding tools”, right on schedule",
       "description": "Some with “high blast radius”",
@@ -1425,6 +1677,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!nWvm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b7edc9f-eb35-479e-8578-ae67ee9a78b5_1095x654.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "b1fb122c5924",
+      "title": "Prompt Caching in LLMs!",
+      "description": "A case study on how Claude achieves 92% cache hit-rate.",
+      "link": "https://blog.dailydoseofds.com/p/prompt-caching-in-llms",
+      "pubDate": "2026-03-09T21:20:35.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!g-ff!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1b720c3-b19a-4d05-a5d7-142598449b7e_1327x669.png",
       "type": "blog"
     },
     {
@@ -1467,6 +1733,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
+      "id": "2d94384c68d3",
+      "title": "A Practical Guide to Evaluation of LLM Apps (Part C)",
+      "description": "Understanding evaluation of conversational LLM systems, toolcalls, tracing, and red teaming.",
+      "link": "https://blog.dailydoseofds.com/p/a-practical-guide-to-evaluation-of",
+      "pubDate": "2026-03-08T21:02:15.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!7vIU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf7cb8e6-0ad7-43c6-a1b9-b428c8db221c_962x509.png",
       "type": "blog"
     },
     {

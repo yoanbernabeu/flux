@@ -303,3 +303,7 @@ feeds_world:
   - url: https://feeds.feedburner.com/symfony/blog
     name: Symfony Blog
     categories: [Programmation, Web]
+
+  - url: https://blog.dailydoseofds.com/feed
+    name: Daily Dose of Data Science
+    categories: [IA]
