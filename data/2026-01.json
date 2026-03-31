@@ -1395,6 +1395,21 @@
       "type": "blog"
     },
     {
+      "id": "3ad33f08edb0",
+      "title": "Mon architecture d'auto-hébergement Docker, de A à Z",
+      "description": "Ça fait plusieurs années que je déploie la même architecture Docker chez mes clients — startups, PME, projets perso. À force d’itérations, j’ai une stack qui tient la route : sécurisée, monitorée, avec des backups qui fonctionnent (et que je teste, ce qui n’est pas la même chose). Cet article, c’est le condensé de tout ça. Pas de théorie, que du concret — les mêmes fichiers de config que j’utilise en production.",
+      "link": "https://kolapsis.com/blog/the-ultimate-guide-to-self-hosting/",
+      "pubDate": "2026-01-16T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "fff38945ebcc",
       "title": "🛑 Ton Agent IA gaspille ton argent !",
       "description": "GrepAI: https://yoanbernabeu.github.io/grepai/ ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉 https://formation.yoandev.co/creer-son-premier-bundle-symfony-de-l-idee-a-la-publication-sur-packagist ---------- Bienvenue sur YoanDev, la chaîne dédiée à toutes les développeuses et tous les développeurs qui veulent progresser en Symfony, PHP, Docker,…",

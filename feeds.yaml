@@ -3,6 +3,10 @@ feeds:
     name: Taha K.
     categories: [Programmation, IA]
 
+  - url: https://kolapsis.com/index.xml
+    name: Kolapsis (Benjamin Touchard)
+    categories: [Programmation, DevOps]
+
   - url: https://blog.zwindler.fr/index.xml
     name: Zwindler's Reflection
     categories: [DevOps, Cloud, Programmation]

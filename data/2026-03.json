@@ -1041,6 +1041,21 @@
       "type": "blog"
     },
     {
+      "id": "a9d17b873a85",
+      "title": "Maintenant — Monitorer tout. Ne rien configurer.",
+      "description": "La plupart des self-hosters jonglent entre 3 et 5 outils pour surveiller leur stack : un pour les containers, un pour l’uptime, un pour les certificats, un pour les métriques, et encore un autre pour la page de statut. J’ai construit Maintenant pour les remplacer tous. Le problème Uptime Kuma pour les endpoints. Portainer ou Dozzle pour les containers. Certbot + un script maison pour les certificats. Prometheus + Grafana pour les métriques. Et encore un outil pour la page de statut publique.",
+      "link": "https://kolapsis.com/blog/maintenant-monitoring-unifie/",
+      "pubDate": "2026-03-24T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "892e04b21395",
       "title": "Égapro",
       "description": "– Papa, j’ai trouvé réussi le brevet blanc d’EMC1 ! La semaine dernière, nous avons discuté de l’index de l’égalité professionnelle, à l’occasion de la publication des résultats de mon entreprise. Forcément, ça aide ! Enseignement Moral et Civique. ↩ rédigés en français. ce flux.",
@@ -3379,6 +3394,21 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "6742cd759765",
+      "title": "FAQ — Questions fréquentes",
+      "description": "",
+      "link": "https://kolapsis.com/faq/",
+      "pubDate": "2026-03-01T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
     }
   ]
 }

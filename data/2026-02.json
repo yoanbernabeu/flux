@@ -325,6 +325,21 @@
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390865-cover.jpg"
     },
     {
+      "id": "4acaf5d81a0e",
+      "title": "GMX : mon transpileur Go + HTMX inspiré de Vue",
+      "description": "🔧 J’ai construit mon propre framework. Pour le fun. Go au quotidien, Vue en front depuis des années. J’adore la DX des single-file components, la Composition API, tout colocalisé dans un .vue, c’est propre. Mais les SPA… c’est lent. Hydration, bundle JS de 400ko, loading spinners partout. Et puis il y avait HTMX m’intriguait depuis un moment. Le serveur renvoie du HTML, le navigateur l’affiche. Pas de build JS, pas de state client, pas de virtual DOM. Mais je n’avais jamais pris le temps de…",
+      "link": "https://kolapsis.com/blog/gmx-transpileur-go-htmx/",
+      "pubDate": "2026-02-25T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6007a2b34f02",
       "title": "Ne confondez pas dette technique et préférence personnelle",
       "description": "Quand on évolue dans la tech, on entend souvent parler de « dette technique ». Je trouve ce terme assez galvaudé, car souvent, lorsque l’on me parle de dette technique, ce que l’on m’explique c’est que le code ne correspond pas au « standard » du développeur qui en parle. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Qui n’a jamais rencontré cette situation ? Un…",
@@ -1409,6 +1424,21 @@
       "image": "https://substackcdn.com/image/fetch/$s_!lySc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F969eaaac-d4ef-4d10-8d8f-166a5e666c13_1017x556.png"
     },
     {
+      "id": "799c967b4ad2",
+      "title": "Herald : le serveur MCP qui se développe lui-même",
+      "description": "On a tous vécu ce moment : 45 min de design system sur le Claude.ai (ou sur le tel), et Claude Code qui nous répond “Hello, what are we building today?” 💀 Quand tu arrives devant ta console… Herald me trottait dans la tête depuis des mois. Un pont entre Claude Chat et Claude Code. Piloter mon poste de dev depuis mon téléphone. Voici l’histoire de Herald — un serveur MCP auto-hébergé qui relie Claude Chat à Claude Code — et la session où il a gagné sa propre confiance.",
+      "link": "https://kolapsis.com/blog/herald-mcp-claude-to-claude/",
+      "pubDate": "2026-02-12T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "fe74b585a51f",
       "title": "Savoir jusqu'où utiliser les \"boring technologies\"",
       "description": "Je milite activement pour l’utilisation des « boring technologies », les technologies ennuyeuses, mais maîtrisées par rapport aux solutions « tendances ». Le plus dur étant de savoir où s’arrêter et de déterminer à quel moment il est temps de changer de solutions. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Choisir une technologie « ennuyante », c’est par exemple…",
@@ -1546,6 +1576,66 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "37049b2af735",
+      "title": "CTO Freelance pour Startups — Direction Technique à Temps Partiel",
+      "description": "Vous avez levé des fonds, mais personne ne pilote la tech Le scénario, je le connais par cœur. Vous avez une idée validée par le marché, peut-être un premier MVP développé par un prestataire ou un cofondateur technique qui est parti depuis. Vous avez levé — ou vous êtes en train de boucler votre tour. Et maintenant, tout s’accélère : il faut structurer l’architecture pour que le produit tienne la montée en charge, recruter les premiers développeurs sans se tromper, faire des choix…",
+      "link": "https://kolapsis.com/services/cto-freelance-startup/",
+      "pubDate": "2026-02-10T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fad2d9805370",
+      "title": "Développeur Web Freelance — Go, Node, Vue & plus",
+      "description": "Votre backend vous ralentit — ou vous n’en avez pas encore Deux scénarios que je rencontre régulièrement. Le premier : votre application a été construite vite pour le MVP, probablement en Node.js ou PHP. Ça a marché, la boîte a grandi, mais aujourd’hui les API répondent lentement, le code est devenu un enchevêtrement que personne n’ose toucher, et chaque nouvelle fonctionnalité prend trois fois plus de temps qu’elle ne devrait. La dette technique s’accumule et le produit avance de moins en…",
+      "link": "https://kolapsis.com/services/developpement-web/",
+      "pubDate": "2026-02-10T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f0cafa9b0c3e",
+      "title": "Infrastructure Docker Sécurisée pour Startups et PME",
+      "description": "Votre serveur Docker tient avec du scotch — et vous le savez Quand j’arrive chez un client pour la première fois, je vois presque toujours la même chose. Docker est en place, les services tournent, mais personne n’a pris le temps de sécuriser le serveur Docker correctement. Des conteneurs lancés en mode privilégié, des réseaux non isolés, parfois le socket Docker exposé directement — autrement dit, une faille dans un conteneur et c’est l’accès root au serveur entier. Côté monitoring Docker en…",
+      "link": "https://kolapsis.com/services/infrastructure-docker-securisee/",
+      "pubDate": "2026-02-10T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "86f47f35df7c",
+      "title": "Remplacement SaaS par l'Auto-Hébergement — Réduisez votre facture de 80%",
+      "description": "Votre facture SaaS grimpe — et personne ne la regarde Vous dirigez une startup de quinze personnes. Au fil des mois, les abonnements SaaS se sont empilés : Slack pour la communication, Notion pour la documentation, GitHub pour le code, Sentry pour le monitoring d’erreurs, un outil de gestion de projet par-dessus, un service d’uptime monitoring en prime. Chaque outil coûte “seulement” quelques euros par utilisateur, alors personne ne prend le temps de regarder la facture globale. Le jour où…",
+      "link": "https://kolapsis.com/services/remplacement-saas-auto-hebergement/",
+      "pubDate": "2026-02-10T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "99a916df4c68",
