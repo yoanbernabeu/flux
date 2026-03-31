@@ -674,6 +674,21 @@
       "type": "blog"
     },
     {
+      "id": "6c7f60670756",
+      "title": "Welcoming Matt Stauffer to The PHP Foundation Board",
+      "description": "We are thrilled to announce that Matt Stauffer has agreed to join The PHP Foundation Board, where he will bring his decades of experience in the PHP ecosystem. Matt joins the Board as a community representative and was voted in by the existing Board members. Not only is Matt a Laravel expert, he has created / maintained dozens of PHP and JavaScript open source packages, he is a published author, and he hosts several successful industry podcasts. We are grateful for his insight, input, and…",
+      "link": "https://thephp.foundation/blog/2026/03/25/welcoming-matt-stauffer-to-the-php-foundation-board/",
+      "pubDate": "2026-03-25T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://thephp.foundation/assets/post-images/2026/matt-stauffer/matt-stauffer.jpg",
+      "type": "blog"
+    },
+    {
       "id": "63aa0a9f3484",
       "title": "Auto mode for Claude Code",
       "description": "Auto mode for Claude Code Really interesting new development in Claude Code today as an alternative to --dangerously-skip-permissions: Today, we're introducing auto mode, a new permissions mode in Claude Code where Claude makes permission decisions on your behalf, with safeguards monitoring actions before they run. Those safeguards appear to be implemented using Claude Sonnet 4.6, as described in the documentation: Before each action runs, a separate classifier model reviews the conversation…",
@@ -1905,6 +1920,21 @@
         "Web"
       ],
       "image": "https://www.phparch.com/wp-content/uploads/2026/03/The-Trust-Protocol-with-Nia-Luckey.png",
+      "type": "blog"
+    },
+    {
+      "id": "b58c80e02f1c",
+      "title": "Working Together on the Future of PHP",
+      "description": "I’m incredibly excited to be joining the PHP Foundation as the Executive Director and continuing the work that has been done under the leadership of Roman Pronskiy and the Board. For those who don’t know me, I look forward to meeting you! A little about me PHP was my introduction to open source, when PHP 3 was the latest release. It was mind blowing to see an amazing group of smart, funny people collaborate with each other, help newbies, and build impactful things together while still having…",
+      "link": "https://thephp.foundation/blog/2026/03/05/working-together-on-the-future-of-php/",
+      "pubDate": "2026-03-05T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

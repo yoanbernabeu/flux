@@ -89,6 +89,21 @@
       "type": "blog"
     },
     {
+      "id": "0c0c4a1e558c",
+      "title": "Welcoming Elizabeth Barron as the New Executive Director of The PHP Foundation",
+      "description": "We're excited to welcome Elizabeth Barron as the next Executive Director of The PHP Foundation, following a thorough process led by our search committee of Nils Adermann, Sebastian Bergmann, Lorna Mitchell, and Ben Ramsey. Elizabeth brings a rare combination of deep roots in the PHP community and proven leadership in open-source governance. She co-founded a volunteer-based nonprofit dedicated to supporting women and non-binary individuals in the PHP industry, served as Community Manager at…",
+      "link": "https://thephp.foundation/blog/2026/02/27/welcoming-elizabeth-barron-new-executive-director/",
+      "pubDate": "2026-02-27T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://thephp.foundation/assets/team/elizabeth_barron.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "1f11f36981c0",
       "title": "Historic statement from Dario Amodei",
       "description": "hat tip to Kylie Robison.",

@@ -304,7 +304,7 @@ feeds_world:
     name: Brent Roose — Stitcher.io
     categories: [Programmation, Web]
 
-  - url: https://thephp.foundation/blog/feed.xml
+  - url: https://thephp.foundation/atom.xml
     name: The PHP Foundation
     categories: [Programmation, Web]
 
