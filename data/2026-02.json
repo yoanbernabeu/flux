@@ -526,6 +526,21 @@
       "image": null
     },
     {
+      "id": "907bcee5ac38",
+      "title": "Pourquoi Rails est devenu, par accident, le framework parfait pour l'IA",
+      "description": "Quelques mois à coder avec un LLM sur un projet Rails. Convention over Configuration, HTML côté serveur, densité du Ruby. Et cette question qui ne me lâche pas : est-ce que je code encore, ou est-ce que je supervise ?",
+      "link": "https://michaelbensoussan.com/posts/rails-llm-friendly/",
+      "pubDate": "2026-02-23T00:00:00.000Z",
+      "source": "Michael Bensoussan",
+      "sourceUrl": "https://michaelbensoussan.com/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://michaelbensoussan.com/images/posts/rails-llm-friendly.png",
+      "type": "blog"
+    },
+    {
       "id": "7fa097a548dc",
       "title": "GotenbergBundle : LA nouvelle référence pour le PDF en Symfony",
       "description": "Partenariat : Cette vidéo est réalisée en collaboration avec SensioLabs, les créateurs de Symfony : https://sensiolabs.com/fr/ 🤝 Générer des PDF en PHP a toujours été une douleur... jusqu'à aujourd'hui. 🚀 Dans cette vidéo, on explore GotenbergBundle, la solution maintenue par SensioLabs pour Symfony. Fini les rendus CSS approximatifs et les bibliothèques obsolètes (RIP wkhtmltopdf). On passe sur une architecture moderne \"Docker-first\" utilisant Chromium pour un rendu pixel-perfect. Au…",

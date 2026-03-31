@@ -117,6 +117,36 @@
       "type": "blog"
     },
     {
+      "id": "8a446a1be26a",
+      "title": "The Hidden Power of Symfony's EventDispatcher",
+      "description": "Most developers use the EventDispatcher for simple notifications and never go deeper. That's a mistake. Here's what's actually in the toolbox and when to reach for it.",
+      "link": "https://marcelmoll.dev/the-hidden-power-of-symfonys-eventdispatcher/",
+      "pubDate": "2026-02-26T22:36:00.000Z",
+      "source": "Marcel Moll",
+      "sourceUrl": "https://marcelmoll.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://images.unsplash.com/photo-1678287759127-1ad7f38855cb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDl8fGRpc3BhdGNofGVufDB8fHx8MTc3MjIwOTkyOXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000",
+      "type": "blog"
+    },
+    {
+      "id": "2c0ffb3e8785",
+      "title": "AI Writes the Draft. You Own the Mess.",
+      "description": "AI writes code that works. That's not the same as code that's good. The moment you merge it, you own it — the shortcuts, the weak names, the missed boundaries. Here's why clean code matters more now, not less.",
+      "link": "https://marcelmoll.dev/ai-writes-the-draft-you-own-the-mess/",
+      "pubDate": "2026-02-24T20:11:44.000Z",
+      "source": "Marcel Moll",
+      "sourceUrl": "https://marcelmoll.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://images.unsplash.com/photo-1549319114-d67887c51aed?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fG1lc3N8ZW58MHx8fHwxNzcxOTYyNTczfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000",
+      "type": "blog"
+    },
+    {
       "id": "7c082fb1064f",
       "title": " Participate in the 100-million-row challenge for PHP ",
       "description": "Read the full post on https://stitcher.io/blog/100-million-row-challenge",

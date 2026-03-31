@@ -1806,6 +1806,21 @@
       "type": "blog"
     },
     {
+      "id": "c17541ff6f8d",
+      "title": "Symfony Messenger: What the Documentation Does Not Cover",
+      "description": "Last year we took over a Symfony e-commerce application that was struggling under a combination of high customer traffic and a constant flood of write operations from external systems: product updates, price changes, availability feeds, all hitting the application simultaneously. The Messenger setup was already in place. Messages were being",
+      "link": "https://marcelmoll.dev/symfony-messenger-what-the-documentation-does-not-cover/",
+      "pubDate": "2026-03-06T18:51:21.000Z",
+      "source": "Marcel Moll",
+      "sourceUrl": "https://marcelmoll.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://images.unsplash.com/photo-1584444734476-2e8392368b07?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDc1fHxNZXNzZW5nZXJ8ZW58MHx8fHwxNzcyNDg0MDI4fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000",
+      "type": "blog"
+    },
+    {
       "id": "f318f8e20ff8",
       "title": "Anthropic Officially, Arbitrarily and Capriciously Designated a Supply Chain Risk",
       "description": "Make no mistake about what is happening.",
@@ -1918,6 +1933,21 @@
         "IA"
       ],
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/16b9cbba-f1cd-4b53-9ef7-51428ed586af_1024x572.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "789c4f95be5a",
+      "title": "Fuck Clean Code - Ain't Nobody Got Time for That",
+      "description": "Clean code is dead. The AI doesn't care about your variable names. It'll read your 800-line controller and generate another one without blinking. But here's the problem: you just taught it everything.",
+      "link": "https://marcelmoll.dev/fuck-clean-code-aint-nobody-got-time-for-that/",
+      "pubDate": "2026-03-03T20:04:31.000Z",
+      "source": "Marcel Moll",
+      "sourceUrl": "https://marcelmoll.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://images.unsplash.com/photo-1608134982564-349bd5379fea?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGZ1Y2slMjBpdHxlbnwwfHx8fDE3NzIyMjkxNDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000",
       "type": "blog"
     },
     {

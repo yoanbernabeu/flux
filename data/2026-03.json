@@ -432,6 +432,21 @@
       "type": "blog"
     },
     {
+      "id": "2cb7cec1de60",
+      "title": "Déléguer à l'aveugle",
+      "description": "Le PM donne le contexte produit. Le dev donne le contexte technique. La machine comble le reste avec des défauts.",
+      "link": "https://michaelbensoussan.com/posts/deleguer-aveugle/",
+      "pubDate": "2026-03-29T00:00:00.000Z",
+      "source": "Michael Bensoussan",
+      "sourceUrl": "https://michaelbensoussan.com/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://michaelbensoussan.com/images/posts/deleguer-aveugle.jpg",
+      "type": "blog"
+    },
+    {
       "id": "2a2f7a97e86b",
       "title": "Symfony UX Native : Transforme ton app web en APP MOBILE en 5 min 😱",
       "description": "Symfony peut maintenant faire des applications mobiles natives 🤯 Avec Symfony UX Native, transforme ton application web en véritable app mobile, sans passer par React Native ou Flutter. Dans cette vidéo, je te montre comment utiliser Symfony UX Native pour créer une expérience mobile native directement depuis ton projet Symfony. 🔗 Liens utiles 👉 UX Native : https://ux.symfony.com/native 👉Hotwired Native : https://native.hotwired.dev 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr…",
@@ -2120,6 +2135,21 @@
       "type": "blog"
     },
     {
+      "id": "765f259867ec",
+      "title": "Trois scènes, même semaine",
+      "description": "Le frontend fait le back. Le PM ship. Le senior ne code plus. Trois scènes d'une semaine ordinaire qui posent des questions pas ordinaires.",
+      "link": "https://michaelbensoussan.com/posts/trois-scenes-meme-semaine/",
+      "pubDate": "2026-03-13T00:00:00.000Z",
+      "source": "Michael Bensoussan",
+      "sourceUrl": "https://michaelbensoussan.com/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://michaelbensoussan.com/images/posts/roles-dev-front-back-llm-squads.jpg",
+      "type": "blog"
+    },
+    {
       "id": "86b67a0a022b",
       "title": "Claude Code Remote : Coder depuis n’importe où",
       "description": "Et si tu pouvais contrôler Claude Code depuis n’importe où ? Dans cette vidéo, je te montre comment mettre en place Claude Code Remote pour lancer du code, corriger des bugs ou générer des projets à distance, directement depuis ton téléphone. Grâce à cette configuration simple, tu peux transformer Claude Code en assistant de développement accessible partout : depuis ton smartphone, en déplacement, ou même loin de ton ordinateur. 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️…",
@@ -3115,6 +3145,21 @@
       "image": "https://blog.ippon.fr/content/images/2026/03/finops_by_design_img-1.png"
     },
     {
+      "id": "498a2cf7f069",
+      "title": "L'IA, les juniors et moi. Et si j'étais juste un vieux con ?",
+      "description": "Superviser l'IA demande les compétences que l'IA érode. J'allais en faire un article inquiet sur les juniors. Et puis je me suis souvenu qu'on m'avait dit RTFM, que les DB c'était lent, et que Google c'était pour les feignasses.",
+      "link": "https://michaelbensoussan.com/posts/10x-engineer-jugement/",
+      "pubDate": "2026-03-04T00:00:00.000Z",
+      "source": "Michael Bensoussan",
+      "sourceUrl": "https://michaelbensoussan.com/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://michaelbensoussan.com/images/posts/ia-junior-vieux-con.png",
+      "type": "blog"
+    },
+    {
       "id": "19efd34e6630",
       "title": "Quoi de neuf les devs? #168 - Veille tech et l'interview de Camille",
       "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de Camille. On parlera aussi de ✅ Open source, ✅ CSS, ✅ WebMCP, ✅ Vinext, ✅ IA, ✅ etc",
@@ -3361,6 +3406,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2ceb3df2d646",
+      "title": "L'empreinte carbone de l'IA : est-ce qu'on regarde les bons problèmes ?",
+      "description": "L'empreinte carbone de l'IA, tout le monde en parle. Personne ne mesure la même chose. Moi non plus.",
+      "link": "https://michaelbensoussan.com/posts/empreinte-carbone-tech/",
+      "pubDate": "2026-03-02T00:00:00.000Z",
+      "source": "Michael Bensoussan",
+      "sourceUrl": "https://michaelbensoussan.com/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://michaelbensoussan.com/images/posts/empreinte-carbone-tech.png",
       "type": "blog"
     },
     {

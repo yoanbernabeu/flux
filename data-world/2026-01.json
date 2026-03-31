@@ -120,6 +120,21 @@
       "type": "blog"
     },
     {
+      "id": "aeac27b211c4",
+      "title": "A Diary of a Data Engineer",
+      "description": "You ingest data. You model it. You transform it. You serve it. Someone asks for a change. Everything breaks. You rebuild. This is the loop. It was the loop in 2005 with SSIS and star schemas. It’s the loop in 2025 with dbt and Iceberg, or 2026 with prompting AI agents. The tools change. The loop doesn’t. The Invisible Plumbers When I started my career in 2003, there was no “data engineering”. There was no big data, no data science. We called it Business Intelligence. Data Warehouse Developer.…",
+      "link": "https://www.ssp.sh/blog/diary-of-a-data-engineer/",
+      "pubDate": "2026-01-13T09:36:39.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://www.ssp.sh/blog/diary-of-a-data-engineer/featured-image.jpg",
+      "type": "blog"
+    },
+    {
       "id": "b9e9b1c6f3b1",
       "title": "Import AI 440: Red queen AI; AI regulating AI; o-ring automation ",
       "description": "How many of your are LLMs?",

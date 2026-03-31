@@ -7,6 +7,10 @@ feeds:
     name: Kolapsis (Benjamin Touchard)
     categories: [Programmation, DevOps]
 
+  - url: https://michaelbensoussan.com/posts/index.xml
+    name: Michael Bensoussan
+    categories: [Programmation, IA]
+
   - url: https://blog.zwindler.fr/index.xml
     name: Zwindler's Reflection
     categories: [DevOps, Cloud, Programmation]
@@ -319,3 +323,11 @@ feeds_world:
   - url: https://skiplabs.io/blog/rss.xml
     name: Skip Labs
     categories: [Programmation]
+
+  - url: https://www.ssp.sh/posts/index.xml
+    name: SSP Data Engineering Blog
+    categories: [Programmation, IA]
+
+  - url: https://marcelmoll.dev/feed
+    name: Marcel Moll
+    categories: [Programmation, Web]
