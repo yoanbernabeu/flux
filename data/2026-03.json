@@ -2,6 +2,53 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "1f0b50f4c02c",
+      "title": "Jane now supports OpenAPI 3.1 and JSON Schema 2020-12",
+      "description": "Version 7.11.0 of Jane PHP, the API client and Normalizer generator, is now available. This major update to the generation engine focuses on aligning with the latest industry standards through the support of JSON Schema 2020-12 and OpenAPI 3.1. 🚀 Major Updates JSON Schema 2020-12 Support One of the most important changes introduced in this version is the integration of support for JSON Schema 2020-12 (PR #918). This update allows Jane to process much more modern and complex data schemas, thus…",
+      "link": "https://jolicode.com/blog/jane-now-supports-openapi-3-1-and-json-schema-2020-12",
+      "pubDate": "2026-03-30T09:50:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2cd50191b378",
+      "title": "Jane supporte maintenant JSON Schema 2020-12 et OpenAPI 3.1",
+      "description": "La version v7.11.0 de Jane PHP, le générateur de client d'API et de Normalizer, est désormais disponible. Cette mise à jour majeure du moteur de génération se concentre sur l'alignement avec les derniers standards de l'industrie via le support de JSON Schema 2020-12 et d'OpenAPI 3.1. 🚀 Évolutions majeures Support de JSON Schema 2020-12 L'un des changements les plus importants introduits dans cette version est l'intégration du support pour JSON Schema 2020-12 (PR #918). Cette mise à jour permet…",
+      "link": "https://jolicode.com/blog/jane-supporte-maintenant-json-schema-2020-12-et-openapi-3-1",
+      "pubDate": "2026-03-30T09:34:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "54f1dc0883c0",
+      "title": "Ember : Le monitoring temps réel pour Caddy et FrankenPHP est disponible",
+      "description": "Nous sommes ravis de vous annoncer la sortie de Ember dans sa première version, un outil d’observabilité taillé pour FrankenPHP et Caddy. En tant que mainteneurs de ces différents projets open-source, nous souhaitons proposer à tous la meilleure expérience de monitoring et la plus intégrée possible à travers ce nouveau compagnon. FrankenPHP et Ember avancent […] L’article Ember : Le monitoring temps réel pour Caddy et FrankenPHP est disponible est apparu en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/ember-le-monitoring-temps-reel-pour-caddy-et-frankenphp-est-disponible",
+      "pubDate": "2026-03-30T08:31:09.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1ec-1f1e7.png",
+      "type": "blog"
+    },
+    {
       "id": "887f5cb7b9fb",
       "title": "OpenCVE, une plateforme de veille et de gestion des vulnérabilités",
       "description": "Des CVE publiées en permanence, impossible de toutes les suivre. OpenCVE filtre ce qui vous concerne et alerte dès qu'une faille touche vos logiciels ou équipements.",
