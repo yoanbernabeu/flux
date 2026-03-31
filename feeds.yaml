@@ -259,3 +259,47 @@ feeds_world:
   - url: https://socket.dev/api/blog/feed.atom
     name: Socket
     categories: [Cybersécurité, Programmation]
+
+  - url: https://garymarcus.substack.com/feed
+    name: Marcus on AI
+    categories: [IA]
+
+  - url: https://thezvi.substack.com/feed
+    name: Don't Worry About the Vase
+    categories: [IA]
+
+  - url: https://simonwillison.net/atom/everything/
+    name: Simon Willison's Weblog
+    categories: [IA, Programmation]
+
+  - url: https://importai.substack.com/feed
+    name: Import AI
+    categories: [IA]
+
+  - url: https://bair.berkeley.edu/blog/feed.xml
+    name: BAIR Blog
+    categories: [IA]
+
+  - url: https://intelligence.org/feed
+    name: MIRI Blog
+    categories: [IA]
+
+  - url: https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml
+    name: O'Reilly Radar — AI/ML
+    categories: [IA]
+
+  - url: https://stitcher.io/rss
+    name: Brent Roose — Stitcher.io
+    categories: [Programmation, Web]
+
+  - url: https://thephp.foundation/blog/feed.xml
+    name: The PHP Foundation
+    categories: [Programmation, Web]
+
+  - url: https://www.phparch.com/feed/
+    name: PHP Architect
+    categories: [Programmation, Web]
+
+  - url: https://feeds.feedburner.com/symfony/blog
+    name: Symfony Blog
+    categories: [Programmation, Web]

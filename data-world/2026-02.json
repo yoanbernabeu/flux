@@ -1,0 +1,191 @@
+{
+  "month": "2026-02",
+  "articles": [
+    {
+      "id": "fdfc454cd928",
+      "title": "The whole thing was a scam",
+      "description": "The fix was in, and Dario never had a chance.",
+      "link": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
+      "pubDate": "2026-02-28T16:35:23.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!TftA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6608686e-a3ed-4420-8dd2-b3ece2c60a4b_1206x582.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ea526a0987b5",
+      "title": "Advanced Unique Index Patterns for Soft Deletes (MySQL and PostgreSQL)",
+      "description": "Tell me if this has ever happened to you: a user contacts support because they’re randomly seeing different order histories every time they log in. Sometimes they see their recent purchases, sometimes they see orders from years ago, and sometimes they see nothing at all. After several hours of debugging, you discover that […] The post Advanced Unique Index Patterns for Soft Deletes (MySQL and PostgreSQL) appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/02/advanced-unique-index-patterns-for-soft-deletes-mysql-and-postgresql/",
+      "pubDate": "2026-02-27T23:25:50.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/02/Gemini_Generated_Image_6gqmgr6gqmgr6gqm.png",
+      "type": "blog"
+    },
+    {
+      "id": "5b4ae61d905c",
+      "title": "Did Trump just overplay his hand?",
+      "description": "We will learn a lot about Silicon Valley in the upcoming days",
+      "link": "https://garymarcus.substack.com/p/did-trump-just-overplay-his-hand",
+      "pubDate": "2026-02-27T22:55:51.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!HyT5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ad1cbe1-5b2d-4bcd-a736-867a4b1aa2b6_1157x1170.png",
+      "type": "blog"
+    },
+    {
+      "id": "34c438380f9d",
+      "title": "Does OpenAI’s new financing make sense?",
+      "description": "I am not alone in seriously doubting it",
+      "link": "https://garymarcus.substack.com/p/does-openais-new-financing-make-sense",
+      "pubDate": "2026-02-27T20:00:32.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!uTlz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa49d8cd6-4ca3-4f8b-a8c4-ec90974533be_1650x1438.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "cddb96d39391",
+      "title": "Monster Coding",
+      "description": "February has a way of making us reflect. The shine of a brand-new year has settled into the rhythm of real work, the resolutions have met reality, and we’re left with one simple question: what are we actually building, and how are we building it? This month’s issue tackles that question from nearly every angle […] The post Monster Coding appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/magazine/2026/02/2026-02-monster-coding/",
+      "pubDate": "2026-02-27T17:45:12.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/02/2026-02-cover_sm.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3df7c164890e",
+      "title": "The PHP Podcast 2026.02.26",
+      "description": "The PHP Podcast streams live, typically every Thursday at 3 PM PT. Come join us and subscribe to our YouTube channel. Another fun episode of the PHP Podcast! Here’s what we covered: 🎿 John’s Ski Trip Adventures John shared stories from his Utah ski trip – including skiing his first green slope ever, and […] The post The PHP Podcast 2026.02.26 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-02-26/",
+      "pubDate": "2026-02-27T01:59:44.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/02/The-PHP-Podcast-2026.02.26.png",
+      "type": "blog"
+    },
+    {
+      "id": "1f11f36981c0",
+      "title": "Historic statement from Dario Amodei",
+      "description": "hat tip to Kylie Robison.",
+      "link": "https://garymarcus.substack.com/p/historic-statement-from-dario-amodei",
+      "pubDate": "2026-02-26T23:09:10.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!oSGB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c370093-b330-420a-9ee1-f637fb82029e_1320x317.png",
+      "type": "blog"
+    },
+    {
+      "id": "7d7ff936a190",
+      "title": "Retired US Air Force General Jack Shanahan on the Anthropic-Pentagon tensions",
+      "description": "”No LLM, anywhere, in its current form, should be considered for use in a fully lethal autonomous weapon system. It's ludicrous even to suggest it.”",
+      "link": "https://garymarcus.substack.com/p/retired-us-air-force-general-jack",
+      "pubDate": "2026-02-26T23:00:22.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/e3eb2792-063f-4f5f-be48-4f16d336d5df_1127x1092.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "7c082fb1064f",
+      "title": " Participate in the 100-million-row challenge for PHP ",
+      "description": "Read the full post on https://stitcher.io/blog/100-million-row-challenge",
+      "link": "https://stitcher.io/blog/100-million-row-challenge",
+      "pubDate": "2026-02-24T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2897769d77e8",
+      "title": "Import AI 446: Nuclear LLMs; China's big AI benchmark; measurement and AI policy",
+      "description": "Will AIs be jealous of one another?",
+      "link": "https://importai.substack.com/p/import-ai-446-nuclear-llms-chinas",
+      "pubDate": "2026-02-23T13:31:18.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
+      "id": "454aed058ebc",
+      "title": "Import AI 445: Timing superintelligence; AIs solve frontier math proofs; a new ML research benchmark",
+      "description": "Will 2026 be looked back on as the pivotal year for making decisions about the singularity?",
+      "link": "https://importai.substack.com/p/import-ai-445-timing-superintelligence",
+      "pubDate": "2026-02-16T14:01:19.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
+      "id": "bad82dd22945",
+      "title": "Import AI 444: LLM societies; Huawei makes kernels with AI; ChipBench",
+      "description": "How can you quantify creativity?",
+      "link": "https://importai.substack.com/p/import-ai-444-llm-societies-huawei",
+      "pubDate": "2026-02-09T14:03:34.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
+      "id": "66bc555348e4",
+      "title": "Import AI 443: Into the mist: Moltbook, agent ecologies, and the internet in transition",
+      "description": "Plus, a story about agents corrupting other agents",
+      "link": "https://importai.substack.com/p/import-ai-443-into-the-mist-moltbook",
+      "pubDate": "2026-02-02T13:31:18.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    }
+  ]
+}

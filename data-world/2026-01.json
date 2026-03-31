@@ -1,0 +1,180 @@
+{
+  "month": "2026-01",
+  "articles": [
+    {
+      "id": "26ab9c6009b7",
+      "title": " Once again processing 11 million rows, now in seconds ",
+      "description": "Read the full post on https://stitcher.io/blog/11-million-rows-in-seconds",
+      "link": "https://stitcher.io/blog/11-million-rows-in-seconds",
+      "pubDate": "2026-01-28T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7ab25284e7d3",
+      "title": "Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espionage",
+      "description": "Is superintelligence a phase change or a gradual shift?",
+      "link": "https://importai.substack.com/p/import-ai-442-winners-and-losers",
+      "pubDate": "2026-01-26T13:31:29.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
+      "id": "9e881d8b6fcd",
+      "title": " Partial function application in PHP 8.6 ",
+      "description": "Read the full post on https://stitcher.io/blog/php-86-partial-function-application",
+      "link": "https://stitcher.io/blog/php-86-partial-function-application",
+      "pubDate": "2026-01-23T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bf131b834348",
+      "title": " AI-induced skepticism ",
+      "description": "Read the full post on https://stitcher.io/blog/ai-induced-skepticism",
+      "link": "https://stitcher.io/blog/ai-induced-skepticism",
+      "pubDate": "2026-01-21T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "57acb5e93e91",
+      "title": "Import AI 441: My agents are working. Are yours? ",
+      "description": "Plus: Corrupting AI systems with a poison fountain",
+      "link": "https://importai.substack.com/p/import-ai-441-my-agents-are-working",
+      "pubDate": "2026-01-19T14:03:24.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
+      "id": "39f1e8d0e9d7",
+      "title": " Processing 11 million rows in minutes instead of hours ",
+      "description": "Read the full post on https://stitcher.io/blog/processing-11-million-rows",
+      "link": "https://stitcher.io/blog/processing-11-million-rows",
+      "pubDate": "2026-01-19T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d7904360e956",
+      "title": " Not optional ",
+      "description": "Read the full post on https://stitcher.io/blog/not-optional",
+      "link": "https://stitcher.io/blog/not-optional",
+      "pubDate": "2026-01-16T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "47c641d12b7a",
+      "title": " Open source strategies ",
+      "description": "Read the full post on https://stitcher.io/blog/open-source-strategies",
+      "link": "https://stitcher.io/blog/open-source-strategies",
+      "pubDate": "2026-01-15T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b9e9b1c6f3b1",
+      "title": "Import AI 440: Red queen AI; AI regulating AI; o-ring automation ",
+      "description": "How many of your are LLMs?",
+      "link": "https://importai.substack.com/p/import-ai-440-red-queen-ai-ai-regulating",
+      "pubDate": "2026-01-12T13:31:42.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
+      "id": "639b2ba25a22",
+      "title": " PHP in 2026 ",
+      "description": "Read the full post on https://stitcher.io/blog/php-2026",
+      "link": "https://stitcher.io/blog/php-2026",
+      "pubDate": "2026-01-12T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5819a2ff8919",
+      "title": "Information-Driven Design of Imaging Systems",
+      "description": "An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how well measurements distinguish objects. Many imaging systems produce measurements that humans never see or cannot interpret directly. Your smartphone processes raw sensor data through algorithms before producing the final photo. MRI scanners collect frequency-space measurements that require…",
+      "link": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/",
+      "pubDate": "2026-01-10T09:00:00.000Z",
+      "source": "BAIR Blog",
+      "sourceUrl": "https://bair.berkeley.edu/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://bair.berkeley.edu/static/blog/information-driven-imaging/info_estimation_overview.png",
+      "type": "blog"
+    },
+    {
+      "id": "33549f71f0dc",
+      "title": "Import AI 439: AI kernels; decentralized training; and universal representations ",
+      "description": "How might a hypothetical superintelligence represent a soul to itself?",
+      "link": "https://importai.substack.com/p/import-ai-439-ai-kernels-decentralized",
+      "pubDate": "2026-01-05T13:32:28.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    }
+  ]
+}
