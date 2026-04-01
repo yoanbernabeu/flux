@@ -75,6 +75,20 @@
       ],
       "image": null,
       "type": "blog"
+    },
+    {
+      "id": "7887eb17a28b",
+      "title": "In the Iran war, it looks like AI helped with operations, not strategy",
+      "description": "A hot take on how AI may have played out in the war so far",
+      "link": "https://garymarcus.substack.com/p/in-the-iran-war-it-looks-like-ai",
+      "pubDate": "2026-04-01T01:27:50.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Ka51!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8fb2e48c-be2a-4db7-b68c-90300f00fd1e_1668x1456.jpeg",
+      "type": "blog"
     }
   ]
 }
