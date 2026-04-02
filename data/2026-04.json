@@ -69,6 +69,22 @@
       "type": "blog"
     },
     {
+      "id": "591ce65f00df",
+      "title": "Quoi de neuf les devs? #172 - Veille tech et l'interview de Matthieu de Human Coders",
+      "description": "Un concentré d'infos pour les devs par un dev avec l'interview de Matthieu de Human Coders. On parlera aussi de ✅ CORS, ✅ git, ✅ retyc, ✅ leak claude code, ✅ supply chain, ...",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-172-veille",
+      "pubDate": "2026-04-01T11:42:37.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!bpe-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04dc06ce-8550-44c7-966b-c0a9c3f9f215_1920x1252.webp",
+      "type": "blog"
+    },
+    {
       "id": "49db894bedd3",
       "title": "GEO : à l’heure des agents IA, soignez votre page identité",
       "description": "Découvrez l'importance cruciale de la page d'accueil de votre entité pour le SEO et la perception de votre marque. Apprenez à optimiser cette page essentielle pour les moteurs de recherche, l'IA et les utilisateurs, en mettant l'accent sur la confiance et la corroboration. Comprenez l'évolution des priorités entre la recherche, l'assistance et l'activation pour un succès durable. L’article GEO : à l’heure des agents IA, soignez votre page identité est apparu en premier sur OlivierSauvage.com.",

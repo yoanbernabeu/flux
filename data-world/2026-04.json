@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "905785e53685",
+      "title": "March 2026 sponsors-only newsletter",
+      "description": "I just sent the March edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. In this month's newsletter: More agentic engineering patterns Streaming experts with MoE models on a Mac Model releases in March Vibe porting Supply chain attacks against PyPI and NPM Stuff I shipped What I'm using, March 2026 edition And a couple of museums Here's a copy of the February newsletter as a preview of what you'll get. Pay $10/month…",
+      "link": "https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything",
+      "pubDate": "2026-04-02T05:15:04.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0fb3c320e130",
       "title": "datasette-llm 0.1a6",
       "description": "Release: datasette-llm 0.1a6 The same model ID no longer needs to be repeated in both the default model and allowed models lists - setting it as a default model automatically adds it to the allowed models list. #6 Improved documentation for Python API usage. Tags: llm, datasette",
@@ -58,6 +73,34 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b604a14d2975",
+      "title": "On employment, don’t panic – yet.",
+      "description": "Things will get wild, but probably not immediately",
+      "link": "https://garymarcus.substack.com/p/on-employment-dont-panic-yet",
+      "pubDate": "2026-04-01T19:13:08.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!2tD7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ce8a502-d2c4-4379-b988-529da4d3a743_1699x1324.png",
+      "type": "blog"
+    },
+    {
+      "id": "ea526d431cdb",
+      "title": "Anthropic Responsible Scaling Policy v3: A Matter of Trust",
+      "description": "Anthropic has revised its Responsible Scaling Policy to v3.",
+      "link": "https://thezvi.substack.com/p/anthropic-responsible-scaling-policy",
+      "pubDate": "2026-04-01T18:09:32.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/cd85b717-d7bb-42f6-9071-6a26f758d2f1_2752x1536.jpeg",
       "type": "blog"
     },
     {
