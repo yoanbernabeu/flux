@@ -2,6 +2,23 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "45db784985b8",
+      "title": "KubeCon & CloudNativeCon 2026 (Partie 2)",
+      "description": "Introduction Cet article est la seconde partie de l'article sur la KubeCon & CloudNativeCon 2026 (Partie 1) Vous y retrouverez une synthèse des concepts et nouveautés qui ont été présentés au cours des conférences auxquelles j&",
+      "link": "https://blog.ippon.fr/2026/04/03/kubecon-cloudnativecon-2026-partie-2/",
+      "pubDate": "2026-04-03T07:00:27.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/Kubecon-Europe-2026.png",
+      "type": "blog"
+    },
+    {
       "id": "e5d4047d9843",
       "title": "#309.exe - IA inclusives: Une intelligence artificielle et une équité réelle par Julien Landuré",
       "description": "Pour l'épisode #309 je recevais Cristina Lunghi. On en débrief avec Julien. **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce podcast. Va tester sur mcp.ifttd.io et pour les 50 premiers, le code IFTTD3M offre 3 mois gratuits ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos…",
@@ -34,6 +51,22 @@
         "IA"
       ],
       "image": "https://yoandev.co/img/gemma4.webp",
+      "type": "blog"
+    },
+    {
+      "id": "67b92810e0c2",
+      "title": "Rules Claude Code : la feature que tout le monde a oubliée",
+      "description": "Tout le monde parle de skills et d’agents, mais les rules de Claude Code sont passées sous le radar",
+      "link": "https://codecodecoders.substack.com/p/rules-claude-code-la-feature-que",
+      "pubDate": "2026-04-02T15:28:54.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!uaXe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F835238b1-8b6e-438b-a074-9887b06b4a7e_1200x630.jpeg",
       "type": "blog"
     },
     {
@@ -145,6 +178,23 @@
         "DevOps"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c61980a42b66",
+      "title": "Les news du mois de mars 2026",
+      "description": "Anton Darius sur Unsplash Je n'ai pas été aussi productif que j'aurais voulu sur mon blog au mois de mars. Je commence à prendre mes marques dans mon nouveau poste au sein de Teralab : ce fut la dernière ligne droite pour le passage de connaissance avec la personne que je remplace ; elle est partie le 31 mars. Maintenant, j'aurais beaucoup de challenges à relever, et ça tombe bien, c'est ce que j'aime dans ce métier. Mais le mois de mars est aussi synonyme de renouveau, de nature qui reprend…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/03/news-mars/",
+      "pubDate": "2026-04-02T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/03/news-mars/banner.avif",
       "type": "blog"
     },
     {
