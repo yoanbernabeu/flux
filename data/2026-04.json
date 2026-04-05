@@ -2,6 +2,37 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "077573bc409e",
+      "title": "Les flexbox en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-flexbox-2325 Dans ce chapitre, on va découvrir le principe des **flexbox**. C'est un mode de mise en page extrêmement pratique pour aligner des éléments, les espacer, les centrer ou répartir automatiquement l'espace disponible. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=6I29C_6FPPA",
+      "pubDate": "2026-04-04T13:30:06.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/6I29C_6FPPA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "6I29C_6FPPA"
+    },
+    {
+      "id": "29baf0a5a430",
+      "title": "IA & Licenciements : Et si l'intelligence artificielle n'était qu'une excuse ?",
+      "description": "273 000 départs prévus dans la tech : l'IA nous remplace-t-elle déjà ou sert-elle de couverture à des plans de licenciements opportunistes ? Analyse d'un basculement de marché où la productivité n'est pas toujours là où on l'attend.",
+      "link": "https://eventuallycoding.com/p/ia-licenciements-et-si-l-intelligence-artificielle-n-etait-qu-une-excuse",
+      "pubDate": "2026-04-04T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1775295949930-ht8yq83.png?width=400",
+      "type": "blog"
+    },
+    {
       "id": "8f432fafbf60",
       "title": "Claude Code : Quelle conséquence après la fuite ?",
       "description": "Découvrez l'analyse complète de la fuite du code source de Claude Code survenue le 31 mars 2026 en raison d'une erreur de configuration NPM. Cette vidéo explore les conséquences de cet événement, notamment la naissance du projet CLAW (Claude Code Parity) mené par Sigrid Jin. Apprenez comment la communauté a réécrit cet outil en Rust et Python pour créer une alternative open-source performante et légale, tout en analysant l'émergence de nouveaux frameworks comme Open Multi-Agent. 📌 Retrouvez…",
@@ -116,6 +147,23 @@
       ],
       "image": null,
       "type": "blog"
+    },
+    {
+      "id": "666cedfe1f7a",
+      "title": "News avril 2026, Cursor et Copilot dans la tourmente, Axios compromis et Arrow JS",
+      "description": "Un épisode où l'on évoque le drama pour la sortie du nouveau modèle de Cursor, Copilot qui injecte des bugs dans les PR et qui va utiliser vos données pour s'entraîner, un nouveau framework JS — Next.js — qui s'adapte enfin aux autres providers, Axios qui se fait injecter du code malveillant, et quelques outils. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/news-avril26/",
+      "link": "https://double-slash.dev/podcasts/news-avril26/",
+      "pubDate": "2026-04-03T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/q_auto/f_auto/v1775232343/ART_130_jvz7f3.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_130_news-avril26.mp3",
+      "duration": "4180"
     },
     {
       "id": "67b92810e0c2",

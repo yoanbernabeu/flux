@@ -2,6 +2,81 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "2f8f4c620a4c",
+      "title": "scan-for-secrets 0.2",
+      "description": "Release: scan-for-secrets 0.2 CLI tool now streams results as they are found rather than waiting until the end, which is better for large directories. -d/--directory option can now be used multiple times to scan multiple directories. New -f/--file option for specifying one or more individual files to scan. New scan_directory_iter(), scan_file() and scan_file_iter() Python API functions. New -v/--verbose option which shows each directory that is being scanned.",
+      "link": "https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything",
+      "pubDate": "2026-04-05T04:07:13.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "92cacca2adf1",
+      "title": "scan-for-secrets 0.1.1",
+      "description": "Release: scan-for-secrets 0.1.1 Added documentation of the escaping schemes that are also scanned. Removed unnecessary repr escaping scheme, which was already covered by json.",
+      "link": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything",
+      "pubDate": "2026-04-05T03:39:33.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "57d1f910f4b5",
+      "title": "scan-for-secrets 0.1",
+      "description": "Release: scan-for-secrets 0.1 I like publishing transcripts of local Claude Code sessions using my claude-code-transcripts tool but I'm often paranoid that one of my API keys or similar secrets might inadvertently be revealed in the detailed log files. I built this new Python scanning tool to help reassure me. You can feed it secrets and have it scan for them in a specified directory: uvx scan-for-secrets $OPENAI_API_KEY -d logs-to-publish/ If you leave off the -d it defaults to the current…",
+      "link": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything",
+      "pubDate": "2026-04-05T03:27:13.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f1550a7b1bee",
+      "title": "research-llm-apis 2026-04-04",
+      "description": "Release: research-llm-apis 2026-04-04 I'm working on a major change to my LLM Python library and CLI tool. LLM provides an abstraction layer over hundreds of different LLMs from dozens of different vendors thanks to its plugin system, and some of those vendors have grown new features over the past year which LLM's abstraction layer can't handle, such as server-side tool execution. To help design that new abstraction layer I had Claude Code read through the Python client libraries for Anthropic,…",
+      "link": "https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything",
+      "pubDate": "2026-04-05T00:32:11.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0f82fd96cb0d",
+      "title": "SlideWire: Build Presentations with Livewire and Blade",
+      "description": "SlideWire is a Laravel package for building browser-based presentation decks using Livewire components and Blade templates. It comes with built-in navigation, transitions, syntax highlighting, and Mermaid diagrams. Read more",
+      "link": "https://freek.dev/3056-slidewire-build-presentations-with-livewire-and-blade",
+      "pubDate": "2026-04-04T10:30:31.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0a7085483044",
       "title": "Quoting Kyle Daigle",
       "description": "[GitHub] platform activity is surging. There were 1 billion commits in 2025. Now, it's 275 million per week, on pace for 14 billion this year if growth remains linear (spoiler: it won't.) GitHub Actions has grown from 500M minutes/week in 2023 to 1B minutes/week in 2025, and now 2.1B minutes so far this week. &mdash; Kyle Daigle, COO, GitHub Tags: github, github-actions",
