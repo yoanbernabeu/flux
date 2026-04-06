@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "ec4e372d3bb5",
+      "title": "Faire tourner un modèle IA chez soi avec Ollama",
+      "description": "Utiliser un LLM sans envoyer ses données ailleurs, c'est possible. Ollama et Open WebUI permettent de faire tourner un modèle IA chez soi.",
+      "link": "https://domopi.eu/faire-tourner-un-modele-ia-chez-soi-avec-ollama/",
+      "pubDate": "2026-04-06T05:45:34.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/03/ia_locale2.webp",
+      "type": "blog"
+    },
+    {
       "id": "03a7a605ed4a",
       "title": "Pratiquer le CSS : Créer une carte produit",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/css-tp-card-2326 Dans ce premier TP, on va pratiquer sur un exemple simple avant d'attaquer une maquette plus complète. L'objectif est d'intégrer une **carte produit** en HTML et CSS, avec une image, une catégorie, un titre, un prix, une description et un lien. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord :…",
@@ -129,6 +144,22 @@
       "videoId": "ceAqxop872w"
     },
     {
+      "id": "25d4d390b645",
+      "title": "Les 5 nouveautés tech de la semaine #14 à ne pas manquer",
+      "description": "Tabby, Dokploy, SVG Studio, GitAgent, Claude Buddy... Cinq découvertes et des offres full-remote pour démarrer le weekend avec une longueur d'avance.",
+      "link": "https://codecodecoders.substack.com/p/les-5-nouveautes-tech-de-la-semaine-5e7",
+      "pubDate": "2026-04-03T09:02:17.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Y9oi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1499a7fc-7228-44ee-ba45-f487d77eb1ac_2358x945.webp",
+      "type": "blog"
+    },
+    {
       "id": "45db784985b8",
       "title": "KubeCon & CloudNativeCon 2026 (Partie 2)",
       "description": "Introduction Cet article est la seconde partie de l'article sur la KubeCon & CloudNativeCon 2026 (Partie 1) Vous y retrouverez une synthèse des concepts et nouveautés qui ont été présentés au cours des conférences auxquelles j&",
@@ -212,6 +243,22 @@
       "type": "podcast",
       "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_130_news-avril26.mp3",
       "duration": "4180"
+    },
+    {
+      "id": "6f14135d0fc7",
+      "title": "Ceph sous pression : comment j'ai récupéré un cluster Ceph dans Proxmox sans sauvegarde de configuration",
+      "description": "Il y a des jours où tout semble contre vous. Ce jour-là, j’ai eu la preuve que Ceph est vraiment robuste. Je crée des clusters Proxmox VE avec ceph depuis plus de 6 ans et aujourd’hui, j’ai vécu une situation qui m’a fait vraiment apprécier la solidité de cette technologie. J’utilise Ceph pour y stocker aussi bien des données que des machines virtuelles. Les machines virtuelles peuvent être légères et simples comme des serveurs web, ou plus complexes comme des serveurs de base de données, mais…",
+      "link": "https://j.hommet.net/ceph-proxmox-recuperation-cluster/",
+      "pubDate": "2026-04-02T23:55:00.000Z",
+      "source": "J.Hommet",
+      "sourceUrl": "https://j.hommet.net/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "67b92810e0c2",

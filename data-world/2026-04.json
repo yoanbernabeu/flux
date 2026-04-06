@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "fb61e3effa86",
+      "title": "Google AI Edge Gallery",
+      "description": "Google AI Edge Gallery Terrible name, really great app: this is Google's official app for running their Gemma 4 models (the E2B and E4B sizes, plus some members of the Gemma 3 family) directly on your iPhone. It works really well. The E2B model is a 2.54GB download and is both fast and genuinely useful. The app also provides \"ask questions about images\" and audio transcription (up to 30s) with the two small Gemma 4 models, and has an interesting \"skills\" demo which demonstrates tool calling…",
+      "link": "https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything",
+      "pubDate": "2026-04-06T05:18:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "be6937f11e40",
       "title": "datasette-ports 0.2",
       "description": "Release: datasette-ports 0.2 No longer requires Datasette - running uvx datasette-ports now works as well. Installing it as a Datasette plugin continues to provide the datasette ports command. Tags: datasette",
@@ -118,6 +133,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1f5b7e7f087f",
+      "title": "The back story behind the first “$1.8 Billion” dollar “AI Company”",
+      "description": "AI isn’t the only thing behind Medvi",
+      "link": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18",
+      "pubDate": "2026-04-05T16:37:34.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!UE-L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a174e5a-5b8e-4d3d-b04f-0d8d689f0c57_2420x1470.jpeg",
       "type": "blog"
     },
     {
@@ -357,6 +386,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7c514d41ddff",
+      "title": "Anthropic Responsible Scaling Policy v3: Dive Into The Details",
+      "description": "Wednesday’s post talked about the implications of Anthropic changing from v2.2 to v3.0 of its RSP, including that this broke promises that many people relied upon when making important decisions.",
+      "link": "https://thezvi.substack.com/p/anthropic-responsible-scaling-policy-46a",
+      "pubDate": "2026-04-03T13:40:08.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/e1f1062c-9dd7-4afa-9b92-9991f30ee1cb_2752x1536.jpeg",
       "type": "blog"
     },
     {
