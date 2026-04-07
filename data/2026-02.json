@@ -1853,6 +1853,23 @@
       "image": "https://david.drugeon-hamon.bzh/blog/2026/02/env-dev-avec-mise-et-chezmoi/banner.avif"
     },
     {
+      "id": "549a1bc89a63",
+      "title": "AMAZON AURORA DSQL: Enfin du SQL serverless ?",
+      "description": "Aurora DSQL : base SQL serverless, distribuée, active-active, compatible PostgreSQL. Architecture, transactions ACID, horloges hybrides et pricing détaillés.",
+      "link": "https://blog.ippon.fr/2026/02/06/amazon-aurora-dsql-enfin-du-sql-serverless/",
+      "pubDate": "2026-02-06T18:36:17.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/image.png",
+      "type": "blog"
+    },
+    {
       "id": "212a39289a56",
       "title": "Les 7 nouveautés tech de la semaine à ne pas manquer",
       "description": "Claude se met à jour et se muscle, GitHub ouvre ses portes aux agents concurrents et Apple met à jour XCode avec l'IA !",

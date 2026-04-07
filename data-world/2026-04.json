@@ -2,6 +2,63 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "cc512866cd8a",
+      "title": "The Anatomy of an Agent Harness",
+      "description": "A deep dive into what Anthropic, OpenAI, Perplexity and LangChain are actually building.",
+      "link": "https://blog.dailydoseofds.com/p/the-anatomy-of-an-agent-harness",
+      "pubDate": "2026-04-06T21:09:35.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!FSSm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b2a255e-8439-4212-acea-ff62939cc62a_680x379.png",
+      "type": "blog"
+    },
+    {
+      "id": "42f3760933bf",
+      "title": "Promising Signals on AI Governance from China",
+      "description": "View the official memo here. China has consistently signaled a willingness to engage on global AI governance since at least 2017. This memo compiles key statements from the Chinese government and prominent figures demonstrating their desire to coordinate on the problem of AI. Chinese Vice Premier Ding Xuexiang, at the 2025 World Economic Forum, said: […] The post Promising Signals on AI Governance from China appeared first on Machine Intelligence Research Institute.",
+      "link": "https://intelligence.org/2026/04/06/promising-signals-on-ai-governance-from-china/",
+      "pubDate": "2026-04-06T20:44:49.000Z",
+      "source": "MIRI Blog",
+      "sourceUrl": "https://intelligence.org/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b703281494de",
+      "title": "My Take on Vibe Coding VS Agentic Engineering",
+      "description": "My thoughts on why Agentic Engineering is a better path than Vibe Coding, and the workflow I use to turn AI agents into a structured engineering process. Read more",
+      "link": "https://freek.dev/3059-my-take-on-vibe-coding-vs-agentic-engineering",
+      "pubDate": "2026-04-06T12:33:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "732358aca6ef",
+      "title": "Engineering Storefronts for Agentic Commerce",
+      "description": "For years, persuasion has been the most valuable skill in digital commerce. Brands spend millions on ad copy, testing button colours, and designing landing pages to encourage people to click “Buy Now.” All of this assumes the buyer is a person who can see. But an autonomous AI shopping agent does not have eyes. I […]",
+      "link": "https://www.oreilly.com/radar/engineering-storefronts-for-agentic-commerce/",
+      "pubDate": "2026-04-06T11:10:20.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/image-7.png",
+      "type": "blog"
+    },
+    {
       "id": "fb61e3effa86",
       "title": "Google AI Edge Gallery",
       "description": "Google AI Edge Gallery Terrible name, really great app: this is Google's official app for running their Gemma 4 models (the E2B and E4B sizes, plus some members of the Gemma 3 family) directly on your iPhone. It works really well. The E2B model is a 2.54GB download and is both fast and genuinely useful. The app also provides \"ask questions about images\" and audio transcription (up to 30s) with the two small Gemma 4 models, and has an interesting \"skills\" demo which demonstrates tool calling…",
@@ -576,6 +633,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!7UMt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa6fe273-b4e7-458d-a543-44cd1d8240d5_1200x800.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "62adbc73a602",
+      "title": "The Toolkit Pattern",
+      "description": "This is the third article in a series on agentic engineering and AI-driven development. Read part one here, part two here, and look for the next article on April 15 on O’Reilly Radar. The toolkit pattern is a way of documenting your project’s configuration so that any AI can generate working inputs from a plain-English description. […]",
+      "link": "https://www.oreilly.com/radar/the-toolkit-pattern/",
+      "pubDate": "2026-04-02T11:19:06.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/image-1.png",
       "type": "blog"
     },
     {
