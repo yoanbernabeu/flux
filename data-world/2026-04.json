@@ -30,6 +30,34 @@
       "type": "blog"
     },
     {
+      "id": "aea681e9fc5b",
+      "title": "Housing Roundup #13: More Dakka",
+      "description": "Build more housing where people want to live.",
+      "link": "https://thezvi.substack.com/p/housing-roundup-13-more-dakka",
+      "pubDate": "2026-04-06T18:09:36.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!fic6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F988b3aa9-4108-4bd2-a8ca-be9d3c7a231d_900x638.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "9666978acf51",
+      "title": "Sam Altman, unconstrained by the truth",
+      "description": "New reporting from the New Yorker vindicates concerns that were first raised here",
+      "link": "https://garymarcus.substack.com/p/sam-altman-unconstrained-by-the-truth",
+      "pubDate": "2026-04-06T16:06:31.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!7VCt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1660451d-f36a-4d2a-835c-c4bc87816833_2395x1237.png",
+      "type": "blog"
+    },
+    {
       "id": "b703281494de",
       "title": "My Take on Vibe Coding VS Agentic Engineering",
       "description": "My thoughts on why Agentic Engineering is a better path than Vibe Coding, and the workflow I use to turn AI agents into a structured engineering process. Read more",
@@ -42,6 +70,20 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0f6fe98a4773",
+      "title": "Import AI 452: Scaling laws for cyberwar; rising tides of AI automation; and a puzzle over gDP forecasting ",
+      "description": "How much could AI revolutionize the economy?",
+      "link": "https://importai.substack.com/p/import-ai-452-scaling-laws-for-cyberwar",
+      "pubDate": "2026-04-06T12:31:31.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {

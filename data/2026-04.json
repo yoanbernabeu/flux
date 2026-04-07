@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "15db9a15a119",
+      "title": "Stitch : conseils pour utiliser le dernier outil de design de Google",
+      "description": "Découvrez Stitch de Google Labs, un outil de design IA qui transforme la création d'interfaces. Apprenez à l'utiliser efficacement en définissant une direction créative claire, en personnalisant les systèmes de design, et en intégrant du contenu percutant. Optimisez votre workflow et créez des interfaces exceptionnelles avec Stitch. L’article Stitch : conseils pour utiliser le dernier outil de design de Google est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/07/stitch-conseils-pour-utiliser-le-dernier-outil-de-design-de-google/",
+      "pubDate": "2026-04-07T06:24:24.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2588b27df008",
+      "title": "Quoi de neuf les devs? #173 - Veille tech et l'interview d'Émilien de Retyc",
+      "description": "Votre dose d'infos tech infusé par un dev pour les devs avec l'interview d'Émilien de Retyc. On parlera aussi de ✅ Startups au Japon, ✅ IA Locale, ✅ Veille techno, ✅ Docker, ✅ Oracle, ✅ Scala...",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-173-veille",
+      "pubDate": "2026-04-07T01:07:05.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!O-al!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0758eec-421f-4897-a241-e44f3df26eea_1920x1251.webp",
+      "type": "blog"
+    },
+    {
       "id": "ec4e372d3bb5",
       "title": "Faire tourner un modèle IA chez soi avec Ollama",
       "description": "Utiliser un LLM sans envoyer ses données ailleurs, c'est possible. Ollama et Open WebUI permettent de faire tourner un modèle IA chez soi.",
