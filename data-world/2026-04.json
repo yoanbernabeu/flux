@@ -2,6 +2,154 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "da9a5f96f7f4",
+      "title": "The PHP Podcast 2026.04.09",
+      "description": "🎙️ The PHP Podcast April 9, 2026 | Guest Hosts: Joe Ferguson & Sara Golemon 🎙️ Guest Hosts Joe Ferguson Senior Developer at PHP Architect Running for PHP 8.6 Release Manager (hands-on position, third attempt). Working on PHP infrastructure with Derek using Ansible and Proxmox. Fixed emoji Unicode support on people.php.net. @joepferguson Sara Golemon […] The post The PHP Podcast 2026.04.09 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-04-09/",
+      "pubDate": "2026-04-10T02:50:58.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/04/The-PHP-Podcast-2026.04.09.png",
+      "type": "blog"
+    },
+    {
+      "id": "f3a5c081ed37",
+      "title": "Community Corner: I Said No With Dr Jen Fry",
+      "description": "In this episode, Scott talks with Dr Jen Fry about Sports Geography, Saying NO, and her keynote at https://phptek.io/ (tickets still available). Links: Our Discord – https://discord.gg/aMTxunVx Buy our shirts – https://store.phparch.com/products/community-corner-podcast-t-shirt Jen’s Links: LinkedIn – https://www.linkedin.com/in/jenfry13/ Website – https://jenfrytalks.com/ Scott’s Links: Website – https://scott.keck-warren.com/ Bluesky – https://bsky.app/profile/scottkeckwarren.bsky.social…",
+      "link": "https://www.phparch.com/podcast/community-corner-i-said-no-with-dr-jen-fry/",
+      "pubDate": "2026-04-10T02:14:48.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/04/I-Said-No-With-Dr-Jen-Fry.png",
+      "type": "blog"
+    },
+    {
+      "id": "2165b3e61d27",
+      "title": "Don't Kill the Goose That Lays the Golden Eggs",
+      "description": "March 2026 was a bad month. Back-to-back supply chain attacks with incident response teams running nonstop, real damage across ecosystems that millions of developers depend on, and legitimate questions about how we secure critical infrastructure. What it didn't have was an excuse to write an obituary for open source. In the wake of the attacks, familiar criticism has been making the rounds. It's a hot take dressed up as a reckoning. The argument goes something like this: open source is…",
+      "link": "https://socket.dev/blog/dont-kill-the-goose-that-lays-the-golden-eggs?utm_medium=feed",
+      "pubDate": "2026-04-10T01:27:33.672Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "13a7834c445b",
+      "title": "Build Agents That Don’t Fail in Production",
+      "description": "...a step-by-step guide (with code).",
+      "link": "https://blog.dailydoseofds.com/p/build-agents-that-dont-fail-in-production",
+      "pubDate": "2026-04-09T21:59:46.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!YNV-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa31d7236-8193-4c1c-a1b4-753c68b3c107_1200x1048.png",
+      "type": "blog"
+    },
+    {
+      "id": "927e37163b3c",
+      "title": "GitHub Repo Size",
+      "description": "Tool: GitHub Repo Size GitHub doesn't tell you the repo size in the UI, but it's available in the CORS-friendly API. Paste a repo into this tool to see the size, for example for simonw/datasette (8.1MB). Tags: cors, github",
+      "link": "https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything",
+      "pubDate": "2026-04-09T21:31:50.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9180126a362b",
+      "title": "SymfonyLive Berlin 2026: “Finding security vulnerabilities with static analysis.”",
+      "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. 🎤 New talk announced…",
+      "link": "https://symfony.com/blog/symfonylive-berlin-2026-finding-security-vulnerabilities-with-static-analysis?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-09T14:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
+      "type": "blog"
+    },
+    {
+      "id": "c62b64b6c4c7",
+      "title": "Architecture as Code to Teach Humans and Agents About Architecture",
+      "description": "A funny thing happened on the way to writing our book Architecture as Code—the entire industry shifted. Generally, we write books iteratively—starting with a seed of an idea, then developing it through workshops, conference presentations, online classes, and so on. That’s exactly what we did about a year ago with our Architecture as Code book. […]",
+      "link": "https://www.oreilly.com/radar/architecture-as-code-to-teach-humans-and-agents-about-architecture/",
+      "pubDate": "2026-04-09T11:17:33.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "792321a429a4",
+      "title": "SymfonyLive Berlin 2026: “How native lazy objects will change Doctrine and Symfony forever”",
+      "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. Before the conference,…",
+      "link": "https://symfony.com/blog/symfonylive-berlin-2026-how-native-lazy-objects-will-change-doctrine-and-symfony-forever?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-09T10:37:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
+      "type": "blog"
+    },
+    {
+      "id": "ef0f6631be55",
+      "title": "Prove that you're human",
+      "description": "A good reminder that trust matters more than ever when every week brings another AI-made product. The post argues that real faces, founder stories, and a visible reputation help both people and LLMs trust what you build. Read more",
+      "link": "https://freek.dev/3078-prove-that-youre-human",
+      "pubDate": "2026-04-09T10:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0f127ae4421f",
+      "title": "asgi-gzip 0.3",
+      "description": "Release: asgi-gzip 0.3 I ran into trouble deploying a new feature using SSE to a production Datasette instance, and it turned out that instance was using datasette-gzip which uses asgi-gzip which was incorrectly compressing event/text-stream responses. asgi-gzip was extracted from Starlette, and has a GitHub Actions scheduled workflow to check Starlette for updates that need to be ported to the library... but that action had stopped running and hence had missed Starlette's own fix for this…",
+      "link": "https://simonwillison.net/2026/Apr/9/asgi-gzip/#atom-everything",
+      "pubDate": "2026-04-09T03:54:40.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5e9b7b2c0bac",
       "title": "Meta's new model is Muse Spark, and meta.ai chat has some interesting tools",
       "description": "Meta announced Muse Spark today, their first model release since Llama 4 almost exactly a year ago. It's hosted, not open weights, and the API is currently \"a private API preview to select users\", but you can try it out today on meta.ai (Facebook or Instagram login required). Meta's self-reported benchmarks show it competitive with Opus 4.6, Gemini 3.1 Pro, and GPT 5.4 on selected benchmarks, though notably behind on Terminal-Bench 2.0. Meta themselves say they \"continue to invest in areas with…",
@@ -58,6 +206,20 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/600fca4508336fa9a5ddefed6f6841a9474e1d7d-1179x1957.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "4c1cfdeee23c",
+      "title": "AI-Infused Development Needs More Than Prompts",
+      "description": "The current conversation about AI in software development is still happening at the wrong layer. Most of the attention goes to code generation. Can the model write a method, scaffold an API, refactor a service, or generate tests? Those things matter, and they are often useful. But they are not the hard part of enterprise […]",
+      "link": "https://www.oreilly.com/radar/ai-infused-development-needs-more-than-prompts/",
+      "pubDate": "2026-04-08T16:02:50.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

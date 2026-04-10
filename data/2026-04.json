@@ -2,6 +2,102 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "8cb845092009",
+      "title": "#316.exe - IA de recommandation: L'épisode à recommander ! par Loic Tosser",
+      "description": "Pour l'épisode #316 je recevais Arielle Marouani. On en débrief avec Loic. **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce podcast. Va tester sur mcp.ifttd.io et pour les 50 premiers, le code IFTTD3M offre 3 mois gratuits ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-316-bfe40639a3d3",
+      "pubDate": "2026-04-10T03:00:24.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/b581d517-5a0a-4235-903e-bfe40639a3d3.mp3?_=1775736084",
+      "duration": "09:02"
+    },
+    {
+      "id": "854e801b60ed",
+      "title": "SymfonyLive Paris 2026 : TUI, Base de données et FrankenPHP",
+      "description": "La SymfonyLive Paris 2026 s’est tenu fin mars, comme chaque année. Pas de blabla conceptuel à l’horizon : on a eu droit à des évolutions pragmatiques et puissantes, avec un focus très net sur la CLI, l’infrastructure et l’intégration de l’IA. Tour d’horizon condensé des annonces principales de ce qu’il ne fallait pas rater durant […] L’article SymfonyLive Paris 2026 : TUI, Base de données et FrankenPHP est apparu en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/symfonylive-paris-2026-tui-base-de-donnees-et-frankenphp",
+      "pubDate": "2026-04-09T13:07:15.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/image-1024x768.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "0ca6d799598d",
+      "title": "Design responsive en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-responsive-2330 Dans ce chapitre, on va aborder une notion essentielle en CSS : le **responsive design**. L'objectif de cette pratique consiste à faire en sorte qu'un site s'adapte correctement à tous les types de périphérique (écran, tablette, mobile...). ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord :…",
+      "link": "https://www.youtube.com/watch?v=7OT57h_7-4A",
+      "pubDate": "2026-04-09T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/7OT57h_7-4A/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "7OT57h_7-4A"
+    },
+    {
+      "id": "b1cbc1fa38a4",
+      "title": "Duck Conf 2026 – CR – À l'épreuve de l'échelle - surmonter la dette technique et les défis d'une plateforme DevOps",
+      "description": "Lors de la Duck Conf 2026, Adrien Gooris, architecte IT chez Michelin, et Lucas Drago, tech lead sur l’équipe Factory, sont venus nous raconter comment ils ont fait grandir un GitLab self-hosted de quelques centaines à plusieurs milliers d’utilisateurs en accumulant, puis en soldant, une dette technique qui a failli les dépasser.",
+      "link": "https://blog.octo.com/duck-conf-2026-cr-a-l'epreuve-de-l'echelle-surmonter-la-dette-technique-et-les-defis-d'une-plateforme-devops",
+      "pubDate": "2026-04-09T12:58:59.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f366558b3715",
+      "title": "Pour améliorer votre notoriété d’entreprise, arrêtez de mesurer vos clics !",
+      "description": "Le parcours client évolue avec l'IA. Découvrez le nouveau modèle centré sur l'exposition, la mémorisation et le retour. Comprenez les limites des métriques traditionnelles et adaptez votre approche pour influencer les décisions des consommateurs à l'ère de l'intelligence artificielle. L’article Pour améliorer votre notoriété d’entreprise, arrêtez de mesurer vos clics ! est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/09/pour-ameliorer-votre-notoriete-dentreprise-arretez-de-mesurer-vos-clics/",
+      "pubDate": "2026-04-09T12:03:00.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b9866e552e64",
+      "title": "Nouveautés de Google Vids : génération IA, personnalisation, musique",
+      "description": "Google Vids révolutionne la création vidéo avec l'IA Lyria 3 et Veo 3.1. Génération de vidéos gratuite, musique personnalisée, avatars IA personnalisables : découvrez les nouvelles fonctionnalités qui rendent la création vidéo plus accessible et créative que jamais pour tous les utilisateurs de Google Workspace. L’article Nouveautés de Google Vids : génération IA, personnalisation, musique est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/09/nouveautes-de-google-vids-generation-ia-personnalisation-musique/",
+      "pubDate": "2026-04-09T05:53:18.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b43f90071a4d",
       "title": "Duck Conf 2026 – CR – Estimation des projets à l'échelle : Bienvenue à Mytholand ! ",
       "description": "Lors de la Duck Conf 2026, Thomas Luquet démontre par l'absurde l'inefficacité des estimations trop précises des projets à l'échelle, et nous donne des guidelines pour se rapprocher de la réalité.",
