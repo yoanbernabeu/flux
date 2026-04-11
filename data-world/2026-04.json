@@ -2,6 +2,94 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "5e4520d9d1c9",
+      "title": "Advisor Strategy in Agents",
+      "description": "Reduce token costs and improve performance...and how to use it with Claude!",
+      "link": "https://blog.dailydoseofds.com/p/advisor-strategy-in-agents",
+      "pubDate": "2026-04-10T19:31:48.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!cC8w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdad4823-d50d-43c2-a1de-bd9571960f01_1567x809.png",
+      "type": "blog"
+    },
+    {
+      "id": "81205f45cd9d",
+      "title": "Kākāpō parrots",
+      "description": "Lenny posted another snippet from our 1 hour 40 minute podcast recording and it's about kākāpō parrots! Tags: kakapo",
+      "link": "https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything",
+      "pubDate": "2026-04-10T19:07:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4a10802ac87c",
+      "title": "ChatGPT voice mode is a weaker model",
+      "description": "I think it's non-obvious to many people that the OpenAI voice mode runs on a much older, much weaker model - it feels like the AI that you can talk to should be the smartest AI but it really isn't. If you ask ChatGPT voice mode for its knowledge cutoff date it tells you April 2024 - it's a GPT-4o era model. This thought inspired by this Andrej Karpathy tweet about the growing gap in understanding of AI capability based on the access points and domains people are using the models with: [...] It…",
+      "link": "https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything",
+      "pubDate": "2026-04-10T15:56:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0ffe49556ccf",
+      "title": "Agents don’t know what good looks like. And that’s exactly the problem.",
+      "description": "Luca Mezzalira, author of Building Micro-Frontends, originally shared the following article on LinkedIn. It’s being republished here with his permission. Every few years, something arrives that promises to change how we build software. And every few years, the industry splits predictably: One half declares the old rules dead; the other half folds its arms and […]",
+      "link": "https://www.oreilly.com/radar/agents-dont-know-what-good-looks-like-and-thats-exactly-the-problem/",
+      "pubDate": "2026-04-10T13:31:27.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "53b43bc6bc07",
+      "title": "Overcoming AI anxiety",
+      "description": "Ryan Chandler shares his honest journey from unease to acceptance with AI coding tools. A thoughtful reflection on how your value as a software engineer is not in writing every line, but knowing which lines should exist at all. Read more",
+      "link": "https://freek.dev/3063-overcoming-ai-anxiety",
+      "pubDate": "2026-04-10T10:30:30.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a4ccb3712971",
+      "title": "SymfonyLive Berlin 2026:  “Symfony AI-Mate.”",
+      "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. Before the conference,…",
+      "link": "https://symfony.com/blog/symfonylive-berlin-2026-symfony-ai-mate?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-10T09:25:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
+      "type": "blog"
+    },
+    {
       "id": "da9a5f96f7f4",
       "title": "The PHP Podcast 2026.04.09",
       "description": "🎙️ The PHP Podcast April 9, 2026 | Guest Hosts: Joe Ferguson & Sara Golemon 🎙️ Guest Hosts Joe Ferguson Senior Developer at PHP Architect Running for PHP 8.6 Release Manager (hands-on position, third attempt). Working on PHP infrastructure with Derek using Ansible and Proxmox. Fixed emoji Unicode support on people.php.net. @joepferguson Sara Golemon […] The post The PHP Podcast 2026.04.09 appeared first on PHP Architect.",

@@ -2,6 +2,102 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "855a044a457c",
+      "title": "Artemis II : objectif nul",
+      "description": "Merci au journal La Croix de m’avoir invité à rédiger cette tribune « opinion » sur le retour vers la Lune, dans le cadre de la mission Artémis II. Quatre milliards de dollars et des poussières : voilà ce qu’aura Artemis II : objectif nul first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/artemis-ii-objectif-nul/",
+      "pubDate": "2026-04-10T17:43:17.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7fe65fa6de73",
+      "title": "Utiliser des polices personnalisées en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-font-face-2331 Dans ce chapitre, on va découvrir comment charger des **polices personnalisées** dans notre site. C'est souvent une étape obligatoire dans l'intégration d'une maquette car les designers utilisent souvent des polices bien précises pour donner une identité visuelle au projet. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr…",
+      "link": "https://www.youtube.com/watch?v=EYvisFMiqkc",
+      "pubDate": "2026-04-10T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/EYvisFMiqkc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "EYvisFMiqkc"
+    },
+    {
+      "id": "4caf69642898",
+      "title": "OpenClaw + Gemma 4 : ton IA locale 100% GRATUITE 😳",
+      "description": "Découvrez comment transformer votre ordinateur en un puissant agent IA totalement privé et gratuit grâce à la nouvelle génération de modèles open-source de Google : Gemma 4. Dans cette vidéo, je vous guide pas à pas pour installer et configurer votre propre intelligence artificielle locale. Plus besoin de dépendre du cloud ou de payer des abonnements ! Pourquoi passer à l'IA locale ? Pour une confidentialité totale de vos données, aucun coût d'utilisation et une personnalisation sans limites.…",
+      "link": "https://www.youtube.com/watch?v=SgeiEth-9WQ",
+      "pubDate": "2026-04-10T12:00:54.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/SgeiEth-9WQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "SgeiEth-9WQ"
+    },
+    {
+      "id": "ae7fc46bcd50",
+      "title": "ONNX : Le format universel pour déployer vos modèles ML",
+      "description": "ONNX : le format open source pour déployer vos modèles ML en production. Interopérabilité, performance, limites et cas d'usage.",
+      "link": "https://blog.ippon.fr/2026/04/10/onnx-le-format-universel-pour-deployer-vos-modeles-ml/",
+      "pubDate": "2026-04-10T09:33:33.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/Image1.png",
+      "type": "blog"
+    },
+    {
+      "id": "aadab71b95bc",
+      "title": "Lean Portfolio Management : quand l’entreprise arrête enfin de tout lancer en même temps",
+      "description": "Dans beaucoup d’organisations, l’agilité a progressé par le bas. Les équipes ont adopté Scrum, certains ont lancé des trains SAFe, les rituels à l’échelle se sont installés. Et pourtant, une sensation persiste : malgré tous ces efforts, les arbitrages restent douloureux, les priorités changent sans cesse",
+      "link": "https://blog.octo.com/lean-portfolio-management--quand-l'entreprise-arrete-enfin-de-tout-lancer-en-meme-temps",
+      "pubDate": "2026-04-10T08:23:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "77268bbf9e35",
+      "title": "[Test] GL.iNet Comet PoE (GL-RM1PE)\nLe KVM IP qui m'a sauvé d'une catastrophe",
+      "description": "Le GL.iNet Comet PoE, c'est l'accès BIOS, clavier et écran à distance sur n'importe quelle machine sans IPMI. Test et retour d'expérience après quelques semaines.",
+      "link": "https://domopi.eu/test-gl-inet-comet-poe-gl-rm1pe-le-kvm-ip-qui-ma-sauve-dune-catastrophe-guilla/",
+      "pubDate": "2026-04-10T05:45:24.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/03/photo_2026-03-16_21-37-16.jpg",
+      "type": "blog"
+    },
+    {
       "id": "8cb845092009",
       "title": "#316.exe - IA de recommandation: L'épisode à recommander ! par Loic Tosser",
       "description": "Pour l'épisode #316 je recevais Arielle Marouani. On en débrief avec Loic. **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce podcast. Va tester sur mcp.ifttd.io et pour les 50 premiers, le code IFTTD3M offre 3 mois gratuits ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos…",
