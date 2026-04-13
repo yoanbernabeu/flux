@@ -2,6 +2,24 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "89261d9b396f",
+      "title": "#199.diff - Formation No-Codeur Alegria: Une école de dev sans code avec Thomas Bonnenfant",
+      "description": "Il y a 3 ans, dans l'épisode #199 je recevais Thomas Bonnenfant. 3 ans plus tard, nous faisons une refacto de l'épisode ! **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce podcast. Va tester sur mcp.ifttd.io et pour les 50 premiers, le code IFTTD3M offre 3 mois gratuits ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-199-aec048373c7e",
+      "pubDate": "2026-04-13T03:00:37.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/3052ce1d-887f-4e64-be3e-aec048373c7e.mp3?_=1775995237",
+      "duration": "51:47"
+    },
+    {
       "id": "40a75aee99d9",
       "title": "La Duck Conf 2026 - CR - Comment utiliser la GenAI pour moderniser une application en deux fois moins de temps",
       "description": "Ce talk traite de la modernisation d’une application métier utilisée pour gérer les plannings de supervision d’un réseau électrique fonctionnant 24/7.",

@@ -2,6 +2,65 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "c9afe85f29f0",
+      "title": "Quoting Bryan Cantrill",
+      "description": "The problem is that LLMs inherently lack the virtue of laziness. Work costs nothing to an LLM. LLMs do not feel a need to optimize for their own (or anyone's) future time, and will happily dump more and more onto a layercake of garbage. Left unchecked, LLMs will make systems larger, not better &mdash; appealing to perverse vanity metrics, perhaps, but at the cost of everything that matters. As such, LLMs highlight how essential our human laziness is: our finite time forces us to develop crisp…",
+      "link": "https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything",
+      "pubDate": "2026-04-13T02:44:24.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c1790800b77b",
+      "title": "Gemma 4 audio with MLX",
+      "description": "Thanks to a tip from Rahim Nathwani, here's a uv run recipe for transcribing an audio file on macOS using the 10.28 GB Gemma 4 E2B model with MLX and mlx-vlm: uv run --python 3.13 --with mlx_vlm --with torchvision --with gradio \\ mlx_vlm.generate \\ --model google/gemma-4-e2b-it \\ --audio file.wav \\ --prompt \"Transcribe this audio\" \\ --max-tokens 500 \\ --temperature 1.0 Your browser does not support the audio element. I tried it on this 14 second .wav file and it output the following: This front…",
+      "link": "https://simonwillison.net/2026/Apr/12/mlx-audio/#atom-everything",
+      "pubDate": "2026-04-12T23:57:53.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "57f5bade75b1",
+      "title": "The Anatomy of Diffusion LLMs",
+      "description": "...explained from scratch!",
+      "link": "https://blog.dailydoseofds.com/p/the-anatomy-of-diffusion-llms",
+      "pubDate": "2026-04-12T21:09:34.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/39b9145f-83f4-4fe2-8ee5-1bef29956a35_2263x1504.png",
+      "type": "blog"
+    },
+    {
+      "id": "133fa6c11098",
+      "title": "A Week of Symfony #1006 (April 6–12, 2026)",
+      "description": "This week, the upcoming Symfony 8.1 version introduced ServicesBundle and ConsoleBundle as a first step in splitting FrameworkBundle into smaller, standalone bundles. In addition, we released Symfony Polyfill 1.34.0, which covers features from PHP 8.4, 8.5,…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1006-april-6-12-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-12T07:36:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5e042d5bf772",
       "title": "SQLite 3.53.0",
       "description": "SQLite 3.53.0 SQLite 3.52.0 was withdrawn so this is a pretty big release with a whole lot of accumulated user-facing and internal improvements. Some that stood out to me: ALTER TABLE can now add and remove NOT NULL and CHECK constraints - I've previously used my own sqlite-utils transform() method for this. New json_array_insert() function and its jsonb equivalent. Significant improvements to CLI mode, including result formatting. The result formatting improvements come from a new library, the…",
