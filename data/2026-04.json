@@ -2,6 +2,23 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "b4cf761859b0",
+      "title": "Ember 1.1: Le dashboard FrankenPHP devient encore meilleur",
+      "description": "Quand j’ai sorti Ember 1.0, la mission était claire : offrir aux utilisateurs de Caddy et FrankenPHP un monitoring temps réel, sans configuration, directement depuis le terminal. Les retours de la communauté ont été incroyables, et cela m’a poussé à aller plus loin. Aujourd’hui, nous sommes heureux d’annoncer Ember 1.1, une version riche en nouveautés […] L’article Ember 1.1: Le dashboard FrankenPHP devient encore meilleur est apparu en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/ember-1-1-le-dashboard-frankenphp-devient-encore-meilleur",
+      "pubDate": "2026-04-14T06:00:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/ember-1-1-1024x568.webp",
+      "type": "blog"
+    },
+    {
       "id": "4d9c68d06f2e",
       "title": "Comparez deux arborescences avec diff, confortablement avec riff",
       "description": "En migrant des projets d’une instance Gitlab à une autre pour un client, j’ai eu à adapter les pipelines Gitlab-CI qui étaient définis, les runners [...]",
@@ -375,6 +392,22 @@
       "type": "blog"
     },
     {
+      "id": "7805d29cc018",
+      "title": "Les nouveautés tech de la semaine #15 à ne pas manquer",
+      "description": "Un modèle Anthropic qui trouve des failles vieilles de 27 ans, des agents qui testent votre code dans un vrai navigateur et une pépite open source que vous allez vouloir garder sous le coude.",
+      "link": "https://codecodecoders.substack.com/p/les-nouveautes-tech-de-la-semaine",
+      "pubDate": "2026-04-10T08:09:31.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!jwVw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff86e5c9-0f70-47cc-9aa0-39a747a6a977_1024x608.png",
+      "type": "blog"
+    },
+    {
       "id": "77268bbf9e35",
       "title": "[Test] GL.iNet Comet PoE (GL-RM1PE)\nLe KVM IP qui m'a sauvé d'une catastrophe",
       "description": "Le GL.iNet Comet PoE, c'est l'accès BIOS, clavier et écran à distance sur n'importe quelle machine sans IPMI. Test et retour d'expérience après quelques semaines.",
@@ -469,6 +502,22 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "68ca49ba7f54",
+      "title": "Négocier son TJM sans se brader : le guide concret pour les devs frontend",
+      "description": "Chaque négociation où vous annoncez votre vrai plancher vous coûte des milliers d'euros. Découvrez les 7 techniques pour facturer jusqu'à 30% de plus.",
+      "link": "https://codecodecoders.substack.com/p/negocier-son-tjm-sans-se-brader-le",
+      "pubDate": "2026-04-09T08:02:35.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!-qyj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0777d36a-e67e-45aa-8dc0-bed253729f80_1024x608.png",
       "type": "blog"
     },
     {
@@ -723,6 +772,22 @@
       "image": "https://i.ytimg.com/vi/XoduFJc8x3Y/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "XoduFJc8x3Y"
+    },
+    {
+      "id": "1ea0fda390a5",
+      "title": "Claude Code /batch : la puissance du traitement en masse",
+      "description": "Combien de fois avez-vous traité vos fichiers un par un avec Claude Code alors que vous auriez pu tout faire en parallèle ? /batch existe pour ça.",
+      "link": "https://codecodecoders.substack.com/p/claude-code-batch-la-puissance-du",
+      "pubDate": "2026-04-07T08:00:27.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!c63K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ca0efc9-b6ac-4245-ac2d-fb5a04adb54f_1024x608.png",
+      "type": "blog"
     },
     {
       "id": "e44bc702ca2e",
