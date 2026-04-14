@@ -2,6 +2,168 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "369847ed38b4",
+      "title": "Summary: AI Governance to Avoid Extinction",
+      "description": "With AI capabilities rapidly increasing, humans appear close to developing AI systems that are better than human experts across all domains. This raises a series of questions about how the world will—and should—respond. In the research paper AI Governance to Avoid Extinction: The Strategic Landscape and Actionable Research Questions, originally published in May 2025, MIRI’s […] The post Summary: AI Governance to Avoid Extinction appeared first on Machine Intelligence Research Institute.",
+      "link": "https://intelligence.org/2026/04/13/summary-ai-governance-to-avoid-extinction/",
+      "pubDate": "2026-04-13T22:33:32.000Z",
+      "source": "MIRI Blog",
+      "sourceUrl": "https://intelligence.org/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://intelligence.org/wp-content/uploads/2026/04/aigovchart-1024x953.png",
+      "type": "blog"
+    },
+    {
+      "id": "1a9411a6670d",
+      "title": "Build Agents That Never Forget",
+      "description": "A first-principles walk through agent memory (open-source).",
+      "link": "https://blog.dailydoseofds.com/p/build-agents-that-never-forget-98a",
+      "pubDate": "2026-04-13T21:17:11.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!h4A2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36fe19f4-e1b1-4e27-9d2c-2ef98fbf1574_679x377.png",
+      "type": "blog"
+    },
+    {
+      "id": "3a6a4cad1279",
+      "title": "Steve Yegge",
+      "description": "Steve Yegge: I was chatting with my buddy at Google, who's been a tech director there for about 20 years, about their AI adoption. Craziest convo I've had all year. The TL;DR is that Google engineering appears to have the same AI adoption footprint as John Deere, the tractor company. Most of the industry has the same internal adoption curve: 20% agentic power users, 20% outright refusers, 60% still using Cursor or equivalent chat tool. It turns out Google has this curve too. [...] There has…",
+      "link": "https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything",
+      "pubDate": "2026-04-13T20:59:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "18ed3b25d5b2",
+      "title": "Symfony UX 3.0.0 Released",
+      "description": "Symfony UX 3.0 is a new major release. Following Symfony's release process, this version removes all features deprecated during the 2.x cycle and raises the minimum requirements to PHP 8.4 and Symfony 7.4. If your application runs without deprecation notices…",
+      "link": "https://symfony.com/blog/symfony-ux-3-0-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-13T19:44:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/smnandre.png",
+      "type": "blog"
+    },
+    {
+      "id": "0d9574748efe",
+      "title": "Symfony UX 2.35 Released",
+      "description": "Symfony UX 2.35 is out with smarter HTML attribute merging for Twig components, a new reset_on_focus option for Autocomplete, a brand new Flowbite 4.0 kit, and more. Smart HTML Attribute Merging in Twig Components…",
+      "link": "https://symfony.com/blog/symfony-ux-2-35-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-13T19:35:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/Kocal.png",
+      "type": "blog"
+    },
+    {
+      "id": "fc1dafaf4f11",
+      "title": "108 Chrome Extensions Linked to Data Exfiltration and Session Theft via Shared C2 Infrastructure",
+      "description": "Socket's Threat Research Team identified 108 malicious Chrome extensions operating as a coordinated campaign under a shared C2 infrastructure at cloudapi[.]stream. The extensions are published under five distinct publisher identities (Yana Project, GameGen, SideGames, Rodeo Games, and InterAlt) and collectively account for approximately 20k Chrome Web Store installs. All 108 route stolen credentials, user identities, and browsing data to servers controlled by the same operator. The extensions…",
+      "link": "https://socket.dev/blog/108-chrome-ext-linked-to-data-exfil-session-theft-shared-c2?utm_medium=feed",
+      "pubDate": "2026-04-13T18:46:27.466Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/703ba2400f1c99589492bd7af9c12ca47b66d6b0-1136x1584.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "97161a5e858a",
+      "title": "Exploring the new `servo` crate",
+      "description": "Research: Exploring the new `servo` crate In Servo is now available on crates.io the Servo team announced the initial release of the servo crate, which packages their browser engine as an embeddable library. I set Claude Code for web the task of figuring out what it can do, building a CLI tool for taking screenshots using it and working out if it could be compiled to WebAssembly. The servo-shot Rust tool it built works pretty well: git clone https://github.com/simonw/research cd…",
+      "link": "https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything",
+      "pubDate": "2026-04-13T15:04:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1a62df29348a",
+      "title": "Comprehension Debt: The Hidden Cost of AI-Generated Code",
+      "description": "The following article originally appeared on Addy Osmani’s blog site and is being reposted here with the author’s permission. Comprehension debt is the hidden cost to human intelligence and memory resulting from excessive reliance on AI and automation. For engineers, it applies most to agentic engineering. There’s a cost that doesn’t show up in your […]",
+      "link": "https://www.oreilly.com/radar/comprehension-debt-the-hidden-cost-of-ai-generated-code/",
+      "pubDate": "2026-04-13T11:11:45.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/image-9-1600x900.png",
+      "type": "blog"
+    },
+    {
+      "id": "67046667936b",
+      "title": "★ Instant view switches with Inertia v3 prefetching",
+      "description": "Over the past few months we've been building There There at Spatie, a support tool shaped by the two decades we've spent running our own customer support. The goal is simple: the helpdesk we always wished we had. We care about using AI in a particular way. It should help support agents write better replies, not substitute for them. The human stays in charge of the conversation, and the model does the unglamorous work of drafting, rephrasing, and suggesting links. There There is in private beta…",
+      "link": "https://freek.dev/3087-instant-view-switches-with-inertia-v3-prefetching",
+      "pubDate": "2026-04-13T09:57:13.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c0af257a5622",
+      "title": "SymfonyLive Berlin 2026: “Make your AI useful with MCP”",
+      "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. Before the conference,…",
+      "link": "https://symfony.com/blog/symfonylive-berlin-2026-make-your-ai-useful-with-mcp?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-13T09:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
+      "type": "blog"
+    },
+    {
+      "id": "11d0f569f981",
+      "title": "★ How we use Inertia v3 optimistic updates in There There",
+      "description": "A few months ago we started building There There, a helpdesk we're making at Spatie. The premise is simple. After two decades of running customer support for our open source work and our SaaS apps, we wanted the tool we always wished existed. One thing we care about in particular is using AI to help humans craft better responses, not to replace them. The agent stays in charge of the conversation. The model just helps them reply faster and a little sharper. There There is in private beta right…",
+      "link": "https://freek.dev/3085-how-we-use-inertia-v3-optimistic-updates-in-there-there",
+      "pubDate": "2026-04-13T09:24:11.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c9afe85f29f0",
       "title": "Quoting Bryan Cantrill",
       "description": "The problem is that LLMs inherently lack the virtue of laziness. Work costs nothing to an LLM. LLMs do not feel a need to optimize for their own (or anyone's) future time, and will happily dump more and more onto a layercake of garbage. Left unchecked, LLMs will make systems larger, not better &mdash; appealing to perverse vanity metrics, perhaps, but at the cost of everything that matters. As such, LLMs highlight how essential our human laziness is: our finite time forces us to develop crisp…",
@@ -214,6 +376,21 @@
       "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. Before the conference,…",
       "link": "https://symfony.com/blog/symfonylive-berlin-2026-symfony-ai-mate?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
       "pubDate": "2026-04-10T09:25:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
+      "type": "blog"
+    },
+    {
+      "id": "9a299a1d7e1f",
+      "title": "Symfony_Live Berlin 2026:  “Symfony AI in Action” !",
+      "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. 🎤 New talk at SymfonyLive…",
+      "link": "https://symfony.com/blog/xxxx?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-10T09:20:00.000Z",
       "source": "Symfony Blog",
       "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
       "categories": [

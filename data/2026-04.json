@@ -2,6 +2,137 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "4d9c68d06f2e",
+      "title": "Comparez deux arborescences avec diff, confortablement avec riff",
+      "description": "En migrant des projets d’une instance Gitlab à une autre pour un client, j’ai eu à adapter les pipelines Gitlab-CI qui étaient définis, les runners [...]",
+      "link": "https://blog.seboss666.info/2026/04/comparez-deux-arborescences-avec-diff-confortablement-avec-riff/",
+      "pubDate": "2026-04-13T17:22:37.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2026/03/diff_spiderman.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c114767ed1d8",
+      "title": "La duck conf 2026 - CR : Auditer l’accessibilité en 15 secondes grâce à l’IA ",
+      "description": "Depuis le 28 juin 2025, tous les sites et app web doivent être accessibles aux personnes en situation de handicap numérique. La seule façon de contrôler la conformité légale est l'audit RGAA qui est un processus lourd et reposant sur des centaines de tests manuels. L'IA peut-elle accélérer cela ?",
+      "link": "https://blog.octo.com/la-duck-conf-2026-cr--auditer-l'accessibilite-en-15-secondes-grace-a-l'ia",
+      "pubDate": "2026-04-13T14:45:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5a5c5952a625",
+      "title": "/veille et /digest : faire sa veille techno directement dans Claude Code",
+      "description": "La veille techno, c'est un truc que j'adore. J'en fais depuis des années, j'ai même automatisé sa diffusion sur les réseaux récemment. Côté outil, j'utilise Claude Code au",
+      "link": "https://www.camilleroux.com/veille-et-digest-faire-sa-veille-techno-directement-dans-claude-code/",
+      "pubDate": "2026-04-13T14:06:19.000Z",
+      "source": "Camille Roux",
+      "sourceUrl": "https://www.camilleroux.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.camilleroux.com/content/images/2026/04/Capture-d---e--cran-2026-04-13-a---16.02.43.png",
+      "type": "blog"
+    },
+    {
+      "id": "a0f688fddfbc",
+      "title": "Les variables CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-variables-2334 Dans ce chapitre, on va découvrir le principe des **variables CSS**. C'est une fonctionnalité très pratique qui permet d'éviter les répétitions et de centraliser certaines valeurs importantes comme les couleurs, les espacements ou les dimensions. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord :…",
+      "link": "https://www.youtube.com/watch?v=JJ63aDt48uE",
+      "pubDate": "2026-04-13T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/JJ63aDt48uE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "JJ63aDt48uE"
+    },
+    {
+      "id": "676fcfb14010",
+      "title": "Duck Conf 26 - 7 ans au pays de Kafka",
+      "description": "Valérie et Fabien, architectes chez Michelin, nous racontent sept ans d’aventures sur l’implémentation progressive de Kafka au sein du géant industriel : de grandes réussites, des difficultés inédites à chaque étape de croissance et de très nombreux apprentissages.",
+      "link": "https://blog.octo.com/duck-conf-26-7-ans-au-pays-de-kafka",
+      "pubDate": "2026-04-13T08:54:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "59097dea1747",
+      "title": "UX SweetAlert : Notifications ultra propres sans effort (SweetAlert2 sans JavaScript)",
+      "description": "Marre d'écrire du JavaScript pour afficher une simple modale ? Découvrez comment révolutionner votre interface Symfony avec le bundle UX SweetAlert. 🚀 Dans cette vidéo, je vous présente la refonte complète de UX SweetAlert, un bundle Symfony qui permet d'intégrer la puissance de SweetAlert2 directement dans votre code PHP. Plus besoin de \"glue code\" en JavaScript : pilotez vos alertes, vos toasts et vos formulaires de dialogue directement depuis vos contrôleurs ou vos Live Components. Si cette…",
+      "link": "https://www.youtube.com/watch?v=o-P0JvdoHdM",
+      "pubDate": "2026-04-13T08:23:58.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/o-P0JvdoHdM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "o-P0JvdoHdM"
+    },
+    {
+      "id": "e70f0bff9fed",
+      "title": "Entre pixels et réalité : choisir et utiliser le bon format d'image",
+      "description": "Cet article explore comment choisir le format d’image optimal en conciliant qualité visuelle, performance et écoresponsabilité. Il propose des explications claires, des tableaux comparatifs et une infographie finale pour guider efficacement les choix.",
+      "link": "https://blog.octo.com/entre-pixels-et-realite--choisir-et-utiliser-le-bon-format-d'image",
+      "pubDate": "2026-04-13T08:16:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "57e706853519",
+      "title": "Accessibilité numérique : évolution du RGAA",
+      "description": "Le RGAA version 5 arrive et initie un changement de paradigme pour les équipes Produit. Découvrez comment anticiper ses nouvelles exigences.",
+      "link": "https://blog.ippon.fr/2026/04/13/accessibilite-numerique-evolution-du-rgaa/",
+      "pubDate": "2026-04-13T07:00:31.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/accessibilite---nume--rique.png",
+      "type": "blog"
+    },
+    {
       "id": "89261d9b396f",
       "title": "#199.diff - Formation No-Codeur Alegria: Une école de dev sans code avec Thomas Bonnenfant",
       "description": "Il y a 3 ans, dans l'épisode #199 je recevais Thomas Bonnenfant. 3 ans plus tard, nous faisons une refacto de l'épisode ! **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce podcast. Va tester sur mcp.ifttd.io et pour les 50 premiers, le code IFTTD3M offre 3 mois gratuits ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque…",
@@ -18,6 +149,68 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/3052ce1d-887f-4e64-be3e-aec048373c7e.mp3?_=1775995237",
       "duration": "51:47"
+    },
+    {
+      "id": "8a24179a0b65",
+      "title": "Mon expérience pour devenir Kubestronaut",
+      "description": "Après plus d'un an à travailler sur mes certifications et l'obtention du titre de kubestronaut, je suis ravi de partager mon expérience avec vous.",
+      "link": "https://une-tasse-de.cafe/blog/kubestronaut/",
+      "pubDate": "2026-04-13T01:18:18.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "28a2e3a687f6",
+      "title": "Les temps ritualisés chez Elao : quand le dialogue devient une culture",
+      "description": "Entretiens de cycles, 1 to 1 RH, rétrospectives, baromètre interne… Découvrez les temps ritualisés qui rythment la vie chez Elao et font du dialogue une véritable culture d'entreprise.",
+      "link": "https://www.elao.com/blog/elao/temps-ritualises-dialogue-et-culture",
+      "pubDate": "2026-04-13T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2bb645eec6db",
+      "title": "Le renouveau de l'Analyste Programmeur ?",
+      "description": "En 2003, je suis sorti d’IUT avec mon DUT d’ingénierie logicielle en poche et avec le titre d’Analyste Programmeur. Et pendant les années suivantes, peut-être même pendant la moitié ou les deux tiers de ma carrière, j’ai fait beaucoup de programmation et assez peu d’analyse.",
+      "link": "https://blog.pascal-martin.fr/post/le-renouveau-de-analyste-programmeur/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/le-renouveau-de-analyste-programmeur/",
+      "pubDate": "2026-04-13T00:00:00.000Z",
+      "source": "Pascal Martin",
+      "sourceUrl": "https://blog.pascal-martin.fr/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "37e67d452a92",
+      "title": "Vieux motard que jamais",
+      "description": "Vieux motard que jamais {align=right} En 2002 j'enseignais l'allemand aux élèves malentendants du Lycée Joffre à Montpellier. J'aimais bien me servir de la salle info de l'école pour les travaux pratiques. La salle comptait environ une vingtaine de postes, dont la moitié étaient équipés d'un système d'exploitation Microsoft Windows. L'autre moitié des postes ne disposait pas d'OS suite à des restrictions budgétaires. L'école n'avait tout simplement pas les moyens de payer les licences pour tous…",
+      "link": "https://www.microlinux.fr/blog/dinum-linux/",
+      "pubDate": "2026-04-13T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/software.png",
+      "type": "blog"
     },
     {
       "id": "40a75aee99d9",
