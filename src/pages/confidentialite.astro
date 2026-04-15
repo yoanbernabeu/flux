@@ -1,0 +1,76 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Politique de confidentialité" description="Politique de confidentialité du site Flux et de l'extension FluxTab.">
+  <div class="fade-in-up max-w-2xl mx-auto">
+    <h1 class="text-2xl sm:text-3xl font-bold mb-8">Politique de confidentialité</h1>
+
+    <div class="flex flex-col gap-6 text-sm text-zinc-300 leading-relaxed">
+      <section class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-6 flex flex-col gap-3">
+        <h2 class="text-base font-semibold text-white">Responsable</h2>
+        <p>
+          Le site <a href="https://flux.yoandev.co" class="text-indigo-400 hover:text-indigo-300 underline transition-colors">flux.yoandev.co</a> et l'extension Chrome <strong>FluxTab</strong> sont édités par Yoan Bernabeu.
+        </p>
+      </section>
+
+      <section class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-6 flex flex-col gap-3">
+        <h2 class="text-base font-semibold text-white">Données collectées</h2>
+        <p>
+          <strong>Flux</strong> et <strong>FluxTab</strong> ne collectent aucune donnée personnelle. Aucun compte utilisateur, aucun formulaire d'inscription, aucun cookie de tracking.
+        </p>
+        <p>
+          L'extension FluxTab stocke localement sur votre navigateur :
+        </p>
+        <ul class="list-disc list-inside flex flex-col gap-1 text-zinc-400">
+          <li>Le cache des articles (pour un affichage instantané)</li>
+          <li>Vos favoris (bookmarks)</li>
+          <li>La liste des articles lus</li>
+        </ul>
+        <p>
+          Ces données restent exclusivement sur votre appareil et ne sont jamais transmises à un serveur.
+        </p>
+      </section>
+
+      <section class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-6 flex flex-col gap-3">
+        <h2 class="text-base font-semibold text-white">Requêtes réseau</h2>
+        <p>
+          L'extension FluxTab effectue des requêtes vers l'API publique <code class="text-indigo-400">flux.yoandev.co</code> pour récupérer la liste des articles. Aucune donnée personnelle n'est envoyée lors de ces requêtes.
+        </p>
+        <p>
+          Le site Flux charge la police <em>Inter</em> depuis Google Fonts. Consultez la <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" class="text-indigo-400 hover:text-indigo-300 underline transition-colors">politique de confidentialité de Google</a> pour plus d'informations.
+        </p>
+      </section>
+
+      <section class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-6 flex flex-col gap-3">
+        <h2 class="text-base font-semibold text-white">Analytique</h2>
+        <p>
+          Le site Flux utilise <a href="https://umami.is" target="_blank" rel="noopener noreferrer" class="text-indigo-400 hover:text-indigo-300 underline transition-colors">Umami</a>, une solution d'analytique respectueuse de la vie privée. Umami ne dépose aucun cookie, ne collecte aucune donnée personnelle et est conforme au RGPD.
+        </p>
+        <p>
+          L'extension FluxTab n'intègre aucun outil d'analytique.
+        </p>
+      </section>
+
+      <section class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-6 flex flex-col gap-3">
+        <h2 class="text-base font-semibold text-white">Permissions de l'extension</h2>
+        <ul class="list-disc list-inside flex flex-col gap-1 text-zinc-400">
+          <li><strong class="text-zinc-300">storage</strong> — stocker le cache des articles, vos favoris et articles lus localement</li>
+          <li><strong class="text-zinc-300">alarms</strong> — rafraîchir le cache des articles automatiquement toutes les heures</li>
+          <li><strong class="text-zinc-300">Accès à flux.yoandev.co</strong> — récupérer la liste des articles depuis l'API publique</li>
+        </ul>
+      </section>
+
+      <section class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-6 flex flex-col gap-3">
+        <h2 class="text-base font-semibold text-white">Contact</h2>
+        <p>
+          Pour toute question relative à cette politique, vous pouvez ouvrir une issue sur le <a href="https://github.com/yoanbernabeu/flux" target="_blank" rel="noopener noreferrer" class="text-indigo-400 hover:text-indigo-300 underline transition-colors">dépôt GitHub du projet</a>.
+        </p>
+      </section>
+
+      <p class="text-xs text-zinc-600 text-center">
+        Dernière mise à jour : avril 2026
+      </p>
+    </div>
+  </div>
+</Layout>
