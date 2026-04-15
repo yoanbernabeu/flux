@@ -2,6 +2,120 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "35f31b11ab66",
+      "title": "#352.src - Recrutement et IA: Pourquoi l'IA change-t-elle vraiment le recrutement (ou pas) ? avec Caroline Chavier",
+      "description": "\"Les algos sont nuls pour lire les signaux faibles et il est là le sujet.\" Le D.E.V. de la semaine est Caroline Chavier, CEO de The Allyance, cofondatrice du meet-up Paris Women in Machine Learning and Data Science et investisseuse spécialisée IA éthique. Elle décrypte l'impact inédit de l'IA sur le recrutement : parcours rationalisés, filtrages automatisés et montée de la pression pour candidats comme recruteurs. Pourtant, loin de la promesse d'équité, l'IA renforce souvent les biais et isole…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-352-43a135876465",
+      "pubDate": "2026-04-15T03:00:33.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/70bba4d1-6682-43f9-8df1-855b245916d6.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/95976f18-ad50-447d-a216-43a135876465.mp3?_=1776168093",
+      "duration": "53:54"
+    },
+    {
+      "id": "b1d52128f57b",
+      "title": "L'application d'enregistrements des cartes Korrigo pour les lycées publics bretons",
+      "description": "La Région Bretagne trans­forme sa carte KorriGo en une carte multi-services pour les lycéens et person­nels des 115 établis­se­ments publics bretons.",
+      "link": "https://makina-corpus.com/application-web-mobile/lapplication-denregistrements-des-cartes-korrigo-pour-les-lycees-publics",
+      "pubDate": "2026-04-14T13:25:58.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e31850c8b565",
+      "title": "Les pseudo éléments en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-pseudo-elements-2335 Dans ce chapitre, on va découvrir le principe des **pseudo-éléments**. Ils permettent de cibler une partie d'un élément ou de générer un contenu visuel sans avoir besoin d'ajouter un nouvel élément dans le HTML. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=ixxzOs9r-Ao",
+      "pubDate": "2026-04-14T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/ixxzOs9r-Ao/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "ixxzOs9r-Ao"
+    },
+    {
+      "id": "368c3b90c1f7",
+      "title": "🤖 Open Claw : pourquoi tout le monde en pince pour l’IA agentique",
+      "description": "C’est le projet le plus étoilé de l’histoire de GitHub, devant Linux, React et Docker. Mais derrière la hype monumentale d'Open Claw, que se cache-t-il réellement sous le capot ? Dans ce nouvel épisode de À la French, Jean-Baptiste Kempf, Steeve Morin et Mehdi Medjaoui décortiquent le passage de l'IA \"outil\" à l'IA \"agent\" 🦾. Ce n’est pas une révolution de code, c’est une révolution d’usage. Comme VLC en son temps, Open Claw simplifie la complexité pour l'utilisateur final. --- ### 🔍 Ce que…",
+      "link": "https://shows.acast.com/a-la-french/episodes/69de090994cbb214c3472a6d",
+      "pubDate": "2026-04-14T09:45:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1776158406672-1e4355fd-82cb-441d-885e-e8d2430cec88.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69de090994cbb214c3472a6d/media.mp3",
+      "duration": "1:04:05"
+    },
+    {
+      "id": "ed8ac76fbebf",
+      "title": "EROOM, Decathlon et la Duck Conf",
+      "description": "Il y a quelques jours, dans le cadre de la conférence Duck Conf’, organisée par mon employeur, OCTO, où Decathlon, par la voix de son global CTO, a annoncé déployé EROOM auprès de leur 2000 développeurs. Cela a donné plusieurs articles : CIO-Online : Développement : Decathlon dans la course au numérique responsable ; LeMagIT.fr : Green IT : Decathlon fait de l’optimisation logicielle un sport collectif Le Monde Informatique : Decathlon trace l’impact environnemental de ses développements Le…",
+      "link": "https://standblog.org/blog/post/2026/04/14/EROOM-Decathlon-et-la-Duck-Conf",
+      "pubDate": "2026-04-14T08:21:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/Romain_et_Tristan.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "601407eb6579",
+      "title": "Claude Code : Jusqu'à 75% moins cher avec Caveman",
+      "description": "Découvrez comment diviser par trois votre consommation de tokens sur Claude Code, Codex et Gemini CLI grâce à Caveman ! Dans cette vidéo, je vous présente cet outil révolutionnaire qui permet à vos agents IA de communiquer en \"langage homme des cavernes\" (lithique). En éliminant le superflu et en se concentrant sur les mots-clés essentiels, Caveman réduit drastiquement la latence et les coûts, tout en conservant une précision technique de 100%. Fini le gaspillage de tokens et les réponses trop…",
+      "link": "https://www.youtube.com/watch?v=U--q2AEFjGw",
+      "pubDate": "2026-04-14T08:00:27.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/U--q2AEFjGw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "U--q2AEFjGw"
+    },
+    {
+      "id": "a98c83fcc2b1",
+      "title": "La Duck Conf 2026 - Comment mener 2000 développeurs vers du numérique plus responsable ?",
+      "description": "Lors de la Duck Conf 2026, Romain Taillade et Tristan Nitot partagent leurs expériences sur la mise en action d'optimisations dans un but de numérique responsable.",
+      "link": "https://blog.octo.com/la-duck-conf-2026-comment-mener-2000-developpeurs-vers-du-numerique-plus-responsable",
+      "pubDate": "2026-04-14T07:17:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b4cf761859b0",
       "title": "Ember 1.1: Le dashboard FrankenPHP devient encore meilleur",
       "description": "Quand j’ai sorti Ember 1.0, la mission était claire : offrir aux utilisateurs de Caddy et FrankenPHP un monitoring temps réel, sans configuration, directement depuis le terminal. Les retours de la communauté ont été incroyables, et cela m’a poussé à aller plus loin. Aujourd’hui, nous sommes heureux d’annoncer Ember 1.1, une version riche en nouveautés […] L’article Ember 1.1: Le dashboard FrankenPHP devient encore meilleur est apparu en premier sur Les-Tilleuls.coop.",

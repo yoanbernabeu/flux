@@ -2,6 +2,154 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "8d2d32c4e5ed",
+      "title": "Zig 0.16.0 release notes: \"Juicy Main\"",
+      "description": "Zig 0.16.0 release notes: &quot;Juicy Main&quot; Zig has really good release notes - comprehensive, detailed, and with relevant usage examples for each of the new features. Of particular note in the newly released Zig 0.16.0 is what they are calling \"Juicy Main\" - a dependency injection feature for your program's main() function where accepting a process.Init parameter grants access to a struct of useful properties: const std = @import(\"std\"); pub fn main(init: std.process.Init) !void { ///…",
+      "link": "https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything",
+      "pubDate": "2026-04-15T01:59:21.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4f6461b92dd",
+      "title": "datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection",
+      "description": "datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection Datasette has long protected against CSRF attacks using CSRF tokens, implemented using my asgi-csrf Python library. These are something of a pain to work with - you need to scatter forms in templates with &lt;input type=\"hidden\" name=\"csrftoken\" value=\"{{ csrftoken() }}\"&gt; lines and then selectively disable CSRF protection for APIs that are intended to be called from outside the browser. I've been following…",
+      "link": "https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything",
+      "pubDate": "2026-04-14T23:58:53.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "432f3ded7cac",
+      "title": "10 Must-use Slash Commands in Claude Code",
+      "description": "...explained with exact prompts and usage!",
+      "link": "https://blog.dailydoseofds.com/p/10-must-use-slash-commands-in-claude",
+      "pubDate": "2026-04-14T21:43:37.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!OWxP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F331aa904-7b56-4390-bfe1-e7dd337225c2_1084x1186.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "9492782c6947",
+      "title": "Trusted access for the next era of cyber defense",
+      "description": "Trusted access for the next era of cyber defense OpenAI's answer to Claude Mythos appears to be a new model called GPT-5.4-Cyber: In preparation for increasingly more capable models from OpenAI over the next few months, we are fine-tuning our models specifically to enable defensive cybersecurity use cases, starting today with a variant of GPT‑5.4 trained to be cyber-permissive: GPT‑5.4‑Cyber. They're also extending a program they launched in February (which I had missed) called Trusted Access…",
+      "link": "https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything",
+      "pubDate": "2026-04-14T21:23:59.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b9a5407eb93a",
+      "title": "Putting APIs to the Test",
+      "description": "Welcome to the March edition of PHP Architect. We are excited to share ideas that will make you think and may even change some of your current practices. While we publish a magazine, we are developers first. We are experiencing the AI wave that many of you are also dealing with. There are new questions, […] The post Putting APIs to the Test appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/magazine/2026/03/2026-03-putting-apis-to-the-test/",
+      "pubDate": "2026-04-14T19:51:23.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/03/2026-03-cover_sm.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5945e6ebcc91",
+      "title": "Cybersecurity Looks Like Proof of Work Now",
+      "description": "Cybersecurity Looks Like Proof of Work Now The UK's AI Safety Institute recently published Our evaluation of Claude Mythos Preview’s cyber capabilities, their own independent analysis of Claude Mythos which backs up Anthropic's claims that it is exceptionally effective at identifying security vulnerabilities. Drew Breunig notes that AISI's report shows that the more tokens (and hence money) they spent the better the result they got, which leads to a strong economic incentive to spend as much as…",
+      "link": "https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything",
+      "pubDate": "2026-04-14T19:41:48.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4220098178e3",
+      "title": "Feross on the 10 Minutes or Less Podcast: Nobody Reads the Code",
+      "description": "In the past few weeks alone, we’ve seen a surge in supply chain attacks, increasingly sophisticated social engineering, and even nation-state actors targeting maintainers. What used to feel like a niche concern is now a daily reality for teams building with open source. In this conversation, Socket CEO Feross Aboukhadijeh joins 10 Minutes or Less, a podcast by Ali Rohde, General Partner at Outset Capital, to break down what’s happening right now, from how the Axios backdoor attack unfolded to…",
+      "link": "https://socket.dev/blog/feross-10-minutes-or-less-podcast-nobody-reads-the-code?utm_medium=feed",
+      "pubDate": "2026-04-14T19:26:57.232Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "13bd2f5216e9",
+      "title": "Symfony_Live Berlin: \"Build Applications that Welcome Change\"",
+      "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. 🎤 New talk announcement!…",
+      "link": "https://symfony.com/blog/symfony-live-berlin-build-applications-that-welcome-change?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-14T14:20:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
+      "type": "blog"
+    },
+    {
+      "id": "41b1775a2b52",
+      "title": "Grief and the Nonprofessional Programmer",
+      "description": "I can’t claim to be a professional software developer—not by a long shot. I occasionally write some Python code to analyze spreadsheets, and I occasionally hack something together on my own, usually related to prime numbers or numerical analysis. But I have to admit that I identify with both of the groups of programmers that […]",
+      "link": "https://www.oreilly.com/radar/grief-and-the-nonprofessional-programmer/",
+      "pubDate": "2026-04-14T11:16:00.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9373e3db65c0",
+      "title": "Why use static closures?",
+      "description": "A clear walkthrough of how PHP closures implicitly capture $this, even when they don't use it, and how that can prevent objects from being garbage collected. Also covers what PHP 8.6 will change with automatic static inference. Read more",
+      "link": "https://freek.dev/3066-why-use-static-closures",
+      "pubDate": "2026-04-14T10:30:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "369847ed38b4",
       "title": "Summary: AI Governance to Avoid Extinction",
       "description": "With AI capabilities rapidly increasing, humans appear close to developing AI systems that are better than human experts across all domains. This raises a series of questions about how the world will—and should—respond. In the research paper AI Governance to Avoid Extinction: The Strategic Landscape and Actionable Research Questions, originally published in May 2025, MIRI’s […] The post Summary: AI Governance to Avoid Extinction appeared first on Machine Intelligence Research Institute.",
@@ -144,6 +292,21 @@
         "IA"
       ],
       "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/image-9-1600x900.png",
+      "type": "blog"
+    },
+    {
+      "id": "9727efd0fda2",
+      "title": "SymfonyLive Berlin 2026: \"AI Culture in Open Source — The Sylius Way\"",
+      "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. 🎤 New talk at SymfonyLive…",
+      "link": "https://symfony.com/blog/s?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-13T10:15:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
       "type": "blog"
     },
     {
