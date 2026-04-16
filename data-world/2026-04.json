@@ -2,6 +2,170 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "e08576616f92",
+      "title": "datasette.io news preview",
+      "description": "Tool: datasette.io news preview The datasette.io website has a news section built from this news.yaml file in the underlying GitHub repository. The YAML format looks like this: - date: 2026-04-15 body: |- [Datasette 1.0a27](https://docs.datasette.io/en/latest/changelog.html#a27-2026-04-15) changes how CSRF protection works in a way that simplifies form and API integration, and introduces a new `RenameTableEvent` for when a table is renamed by a SQL query. - date: 2026-03-18 body: |- ... This…",
+      "link": "https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything",
+      "pubDate": "2026-04-16T00:18:03.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a1e8bdd13987",
+      "title": "datasette-export-database 0.3a1",
+      "description": "Release: datasette-export-database 0.3a1 This plugin was using the ds_csrftoken cookie as part of a custom signed URL, which needed upgrading now that Datasette 1.0a27 no longer sets that cookie. Tags: datasette",
+      "link": "https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything",
+      "pubDate": "2026-04-15T23:52:35.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "112c4f7bb7c9",
+      "title": "datasette 1.0a27",
+      "description": "Release: datasette 1.0a27 Two major changes in this new Datasette alpha. I covered the first of those in detail yesterday - Datasette no longer uses Django-style CSRF form tokens, instead using modern browser headers as described by Filippo Valsorda. The second big change is that Datasette now fires a new RenameTableEvent any time a table is renamed during a SQLite transaction. This is useful because some plugins (like datasette-comments) attach additional data to table records by name, so a…",
+      "link": "https://simonwillison.net/2026/Apr/15/datasette/#atom-everything",
+      "pubDate": "2026-04-15T23:16:34.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b69728a050dd",
+      "title": "Google solved an Old RNN Problem",
+      "description": "A better middle ground between RNNs and Transformers.",
+      "link": "https://blog.dailydoseofds.com/p/google-solved-an-old-rnn-problem",
+      "pubDate": "2026-04-15T21:45:10.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!mU2b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72855693-b2ed-4692-a5ca-0306c1b66d88_1108x574.png",
+      "type": "blog"
+    },
+    {
+      "id": "7c7721fb5b03",
+      "title": "Quoting John Gruber",
+      "description": "The real goldmine isn’t that Apple gets a cut of every App Store transaction. It’s that Apple’s platforms have the best apps, and users who are drawn to the best apps are thus drawn to the iPhone, Mac, and iPad. That edge is waning. Not because software on other platforms is getting better, but because third-party software on iPhone, Mac, and iPad is regressing to the mean, to some extent, because fewer developers feel motivated — artistically, financially, or both — to create well-crafted…",
+      "link": "https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything",
+      "pubDate": "2026-04-15T17:13:57.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4952d7c89a40",
+      "title": "Gemini 3.1 Flash TTS",
+      "description": "Gemini 3.1 Flash TTS Google released Gemini 3.1 Flash TTS today, a new text-to-speech model that can be directed using prompts. It's presented via the standard Gemini API using gemini-3.1-flash-tts-preview as the model ID, but can only output audio files. The prompting guide is surprising, to say the least. Here's their example prompt to generate just a few short sentences of audio: # AUDIO PROFILE: Jaz R. ## \"The Morning Hype\" ## THE SCENE: The London Studio It is 10:00 PM in a glass-walled…",
+      "link": "https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything",
+      "pubDate": "2026-04-15T17:13:14.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fdb85b438965",
+      "title": "Gemini 3.1 Flash TTS",
+      "description": "Tool: Gemini 3.1 Flash TTS See my notes on Google's new Gemini 3.1 Flash TTS text-to-speech model. Tags: gemini, google",
+      "link": "https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything",
+      "pubDate": "2026-04-15T16:41:46.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "93002af5eda5",
+      "title": "Quoting Kyle Kingsbury",
+      "description": "I think we will see some people employed (though perhaps not explicitly) as meat shields: people who are accountable for ML systems under their supervision. The accountability may be purely internal, as when Meta hires human beings to review the decisions of automated moderation systems. It may be external, as when lawyers are penalized for submitting LLM lies to the court. It may involve formalized responsibility, like a Data Protection Officer. It may be convenient for a company to have…",
+      "link": "https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything",
+      "pubDate": "2026-04-15T15:36:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d57c91546b05",
+      "title": "How 10x Developers Actually Use AI",
+      "description": "Read more",
+      "link": "https://freek.dev/3067-how-10x-developers-actually-use-ai",
+      "pubDate": "2026-04-15T12:03:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7fdc43a18edf",
+      "title": "The Great CSS Expansion",
+      "description": "A comprehensive look at how new CSS features are replacing JavaScript libraries. Anchor positioning, the Popover API, scroll-driven animations, view transitions, customizable selects, and more. The article estimates around 322 kB of JavaScript that can potentially be replaced by native CSS. Read more",
+      "link": "https://freek.dev/3068-the-great-css-expansion",
+      "pubDate": "2026-04-15T10:30:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4d72dc289367",
+      "title": "datasette-ports 0.3",
+      "description": "Release: datasette-ports 0.3 A small update for my tool for helping me figure out what all of the Datasette instances on my laptop are up to. Show working directory derived from each PID Show the full path to each database file Output now looks like this: http://127.0.0.1:8007/ - v1.0a26 Directory: /Users/simon/dev/blog Databases: simonwillisonblog: /Users/simon/dev/blog/simonwillisonblog.db Plugins: datasette-llm datasette-secrets http://127.0.0.1:8001/ - v1.0a26 Directory:…",
+      "link": "https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything",
+      "pubDate": "2026-04-15T02:50:57.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8d2d32c4e5ed",
       "title": "Zig 0.16.0 release notes: \"Juicy Main\"",
       "description": "Zig 0.16.0 release notes: &quot;Juicy Main&quot; Zig has really good release notes - comprehensive, detailed, and with relevant usage examples for each of the new features. Of particular note in the newly released Zig 0.16.0 is what they are calling \"Juicy Main\" - a dependency injection feature for your program's main() function where accepting a process.Init parameter grants access to a struct of useful properties: const std = @import(\"std\"); pub fn main(init: std.process.Init) !void { ///…",
@@ -111,6 +275,21 @@
       "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. 🎤 New talk announcement!…",
       "link": "https://symfony.com/blog/symfony-live-berlin-build-applications-that-welcome-change?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
       "pubDate": "2026-04-14T14:20:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
+      "type": "blog"
+    },
+    {
+      "id": "ea8bcee1f32f",
+      "title": "SymfonyLive Berlin 2026: \"Specing out teamwork”",
+      "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. 🎤 New talk at SymfonyLive…",
+      "link": "https://symfony.com/blog/symfonylive-berlin-2026-specing-out-teamwork?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-14T12:54:00.000Z",
       "source": "Symfony Blog",
       "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
       "categories": [

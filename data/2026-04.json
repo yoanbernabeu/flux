@@ -2,6 +2,107 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "979b5cc99e04",
+      "title": "Overflow en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-overflow-2336 Dans ce chapitre, on va découvrir la propriété **`overflow`**. Elle permet de gérer ce qu'il se passe lorsqu'un contenu dépasse de son conteneur, et notamment de contrôler l'apparition des zones de défilement. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=KLNiq89ubRE",
+      "pubDate": "2026-04-15T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/KLNiq89ubRE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "KLNiq89ubRE"
+    },
+    {
+      "id": "1ed4a7efdc70",
+      "title": "❇️ La billetterie pour La School of Product du 17 novembre 2026 est ouverte ! ",
+      "description": "Rendez-vous le 17 novembre 2026 pour cette 9e édition de la conférence School of Product ! Profitez d'un tarif préférentiel en vous inscrivant en avril !",
+      "link": "https://blog.octo.com/la-billetterie-pour-la-school-of-product-du-17-novembre-2026-est-ouverte-!",
+      "pubDate": "2026-04-15T12:14:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1a7f51a72c51",
+      "title": "Duck Conf 2026 – CR – Apprivoiser le legacy en startup",
+      "description": "Maria Mokbel, founding engineer et tech lead chez Billy, est venue à la Duck Conf 2026 raconter comment son équipe a géré un legacy technique accumulé en seulement 2 ans",
+      "link": "https://blog.octo.com/duck-conf-2026-cr-apprivoiser-le-legacy-en-startup-1",
+      "pubDate": "2026-04-15T11:51:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bfde26595c17",
+      "title": "Ce que le AWS Summit 2026 nous apprend sur le futur du DevOps",
+      "description": "Retour sur l’AWS Summit 2026 : IA agentique, Amazon EKS, DevOps, souveraineté et innovations cloud qui transforment les architectures modernes.",
+      "link": "https://blog.ippon.fr/2026/04/15/ce-que-le-aws-summit-2026-nous-apprend-sur-le-futur-du-devops/",
+      "pubDate": "2026-04-15T11:38:51.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/Capture-d---e--cran-2026-04-01-a---13.59.56.png",
+      "type": "blog"
+    },
+    {
+      "id": "b22ec97fc816",
+      "title": "L'IA : ange 😇 ou démon 😈 ?",
+      "description": "Laurence Devillers, professeure en intelligence artificielle et éthique à la Sorbonne et chercheuse au CNRS, démystifie pour le studio devoxx ce qu'on croit savoir sur les LLM, ChatGPT et les robots affectifs. Dans cette conversation, elle nous explique pourquoi faire confiance aveuglément à une IA, c'est \"système 1 sur système 1\" : ni vous, ni la machine n'avez vraiment réfléchi. Et les conséquences (dans l'éducation, le travail, la santé) sont bien plus profondes qu'on ne l'imagine. Au…",
+      "link": "https://www.youtube.com/watch?v=-RURogH7PCY",
+      "pubDate": "2026-04-15T06:34:58.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/-RURogH7PCY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "-RURogH7PCY"
+    },
+    {
+      "id": "43e402719b33",
+      "title": "Liens Tech - Avril 2026",
+      "description": "La sélection d'avril : notes Markdown, gestion Docker, Kanban, des sauvegardes Restic, LLM local et un éditeur visuel pour Home Assistant.",
+      "link": "https://domopi.eu/liens-tech-avril-2026/",
+      "pubDate": "2026-04-15T05:45:02.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "35f31b11ab66",
       "title": "#352.src - Recrutement et IA: Pourquoi l'IA change-t-elle vraiment le recrutement (ou pas) ? avec Caroline Chavier",
       "description": "\"Les algos sont nuls pour lire les signaux faibles et il est là le sujet.\" Le D.E.V. de la semaine est Caroline Chavier, CEO de The Allyance, cofondatrice du meet-up Paris Women in Machine Learning and Data Science et investisseuse spécialisée IA éthique. Elle décrypte l'impact inédit de l'IA sur le recrutement : parcours rationalisés, filtrages automatisés et montée de la pression pour candidats comme recruteurs. Pourtant, loin de la promesse d'équité, l'IA renforce souvent les biais et isole…",
@@ -18,6 +119,23 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/95976f18-ad50-447d-a216-43a135876465.mp3?_=1776168093",
       "duration": "53:54"
+    },
+    {
+      "id": "899557651d48",
+      "title": "9 devs, 3 équipes, 2 heures : on a fait un hackathon 100% Vibes Coding",
+      "description": "Pour clôturer deux jours de formation sur Claude Code en séminaire, on a organisé une soirée hackathon avec des thèmes absurdes, des contraintes tirées au sort et une seule consigne : Vibes Coding. 9 devs, des pizzas, et un Deliveroo pour écureuils. Retour d'expérience sur un format à reproduire dans vos équipes.",
+      "link": "https://yoandev.co/hackathon-vibes-coding",
+      "pubDate": "2026-04-15T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/20260319.BgUMilYe_8wdWs.webp",
+      "type": "blog"
     },
     {
       "id": "b1d52128f57b",
@@ -130,6 +248,21 @@
         "IA"
       ],
       "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/ember-1-1-1024x568.webp",
+      "type": "blog"
+    },
+    {
+      "id": "307cfa2442b8",
+      "title": "Pensée parasite",
+      "description": "Je marchais dans la rue, longeant des maisons, pour récupérer mon fils chez un ami. Un pas, puis l’autre, les maisons, alignées sur le côté, et soudain, un éclair dans ma tête : cette maison, là-bas, celle avec les volets bleus, elle n’est plus qu’un tas de pierres, qu’un nuage de poussière, qu’un sifflement. Je me relève, le souffle coupé, les poumons en feu, et je cours. Je cours vers les décombres, les mains nues, le coeur à vif. J’arrache, je soulève, je respire fort, évident de hurler pour…",
+      "link": "https://boris.schapira.dev/notes/2026-04-pensee-parasite/\n",
+      "pubDate": "2026-04-13T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -341,6 +474,21 @@
         "Cloud"
       ],
       "image": "https://www.microlinux.fr/img/software.png",
+      "type": "blog"
+    },
+    {
+      "id": "d6a645b8c338",
+      "title": "Craft",
+      "description": "– Maman, c’est cool en vrai que tu écoutes tout le temps de la musique quand tu couds… moi, plus tard, j’espère que mes enfants aimeront écouter de la musique aussi. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-04-craft/\n",
+      "pubDate": "2026-04-11T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
