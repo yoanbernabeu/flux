@@ -2,6 +2,39 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "597a8b889247",
+      "title": "React Paris 2026 – CR – Killing Micro Frontends",
+      "description": "PayFit a supprimé ses micro-frontends. Leur CI est passé de 45 à 7 minutes. Leurs déploiements de 2-5 jours à 20 minutes. Leur vélocité a été multipliée par 17. Voici un retour d'expérience concret sur une migration qui a pris 2 ans, avec 2,5 ingénieurs, sur une base de code utilisée par ~100 développeurs et 22 équipes.",
+      "link": "https://blog.octo.com/react-paris-2026-cr-killing-micro-frontends",
+      "pubDate": "2026-04-16T08:23:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "055eab2a34a3",
+      "title": "Créer son LLM Wiki pour développer des features plus intelligemment (2/2)",
+      "description": "Après le premier article sur la théorie concernant la méthode LLM Wiki, on attaque aujourd'hui la pratique avec un guide pas à pas sur un use case réel !",
+      "link": "https://codecodecoders.substack.com/p/creer-son-llm-wiki-pour-developper",
+      "pubDate": "2026-04-16T08:00:53.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!GO7f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bf1040a-3123-4a87-a455-1edd359b6c6b_1024x608.png",
+      "type": "blog"
+    },
+    {
       "id": "979b5cc99e04",
       "title": "Overflow en CSS",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/css-overflow-2336 Dans ce chapitre, on va découvrir la propriété **`overflow`**. Elle permet de gérer ce qu'il se passe lorsqu'un contenu dépasse de son conteneur, et notamment de contrôler l'apparition des zones de défilement. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
@@ -198,6 +231,22 @@
         "Web"
       ],
       "image": "https://standblog.org/dc-blog/public/2026/Romain_et_Tristan.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e4c9d06d5dce",
+      "title": "Créez votre LLM Wiki pour développer des features plus intelligemment (1/2)",
+      "description": "Votre CLAUDE.md documente le présent, mais les décisions passées, les bugs résolus, les arbitrages techniques, eux, disparaissent. Découvrons la nouvelle méthode LLM Wiki qui résout ce problème.",
+      "link": "https://codecodecoders.substack.com/p/creez-votre-llm-wiki-pour-developper",
+      "pubDate": "2026-04-14T08:00:48.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!MFNe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbf08200-2560-4235-8c60-67f84a55eb98_1024x608.png",
       "type": "blog"
     },
     {

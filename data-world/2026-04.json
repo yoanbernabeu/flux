@@ -61,6 +61,20 @@
       "type": "blog"
     },
     {
+      "id": "1ecc16878f3a",
+      "title": "Peak absurdity, Part II",
+      "description": "You can’t make this up",
+      "link": "https://garymarcus.substack.com/p/peak-absurdity-part-ii",
+      "pubDate": "2026-04-15T20:43:17.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!hv8b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24d91c74-95f6-4ecd-8995-cc7a2ddf1592_1504x1191.png",
+      "type": "blog"
+    },
+    {
       "id": "7c7721fb5b03",
       "title": "Quoting John Gruber",
       "description": "The real goldmine isn’t that Apple gets a cut of every App Store transaction. It’s that Apple’s platforms have the best apps, and users who are drawn to the best apps are thus drawn to the iPhone, Mac, and iPad. That edge is waning. Not because software on other platforms is getting better, but because third-party software on iPhone, Mac, and iPad is regressing to the mean, to some extent, because fewer developers feel motivated — artistically, financially, or both — to create well-crafted…",
@@ -118,6 +132,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cee598aa0576",
+      "title": "Claude Code, Codex and Agentic Coding #7: Auto Mode",
+      "description": "As we all try to figure out what Mythos means for us down the line, the world of practical agentic coding continues, with the latest array of upgrades.",
+      "link": "https://thezvi.substack.com/p/claude-code-codex-and-agentic-coding",
+      "pubDate": "2026-04-15T14:31:26.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!zzZ4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04482265-02da-41e3-b226-849ccc446495_1920x1920.webp",
       "type": "blog"
     },
     {
@@ -297,6 +325,20 @@
         "Web"
       ],
       "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
+      "type": "blog"
+    },
+    {
+      "id": "1b271ac240d6",
+      "title": "Claude Mythos #3: Capabilities and Additions",
+      "description": "To round out coverage of Mythos, today covers capabilities other than cyber, and anything else additional not covered by the first two posts, including new reactions and details.",
+      "link": "https://thezvi.substack.com/p/claude-mythos-3-capabilities-and",
+      "pubDate": "2026-04-14T12:52:54.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/b987875f-f7d5-4a24-9e14-1233760e290f_1536x1024.png",
       "type": "blog"
     },
     {
