@@ -76,6 +76,20 @@
       "type": "blog"
     },
     {
+      "id": "41321fd4a1b6",
+      "title": "On Dwarkesh Patel's Podcast With Nvidia CEO Jensen Huang",
+      "description": "Some podcasts are self-recommending on the ‘yep, I’m going to be breaking this one down’ level.",
+      "link": "https://thezvi.substack.com/p/on-dwarkesh-patels-podcast-with-nvidia",
+      "pubDate": "2026-04-16T17:19:52.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!mbEh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69fcfbba-631a-4ca4-bdc4-f27ff51711c5_1853x933.png",
+      "type": "blog"
+    },
+    {
       "id": "6b6d9ea3d206",
       "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
       "description": "For anyone who has been (inadvisably) taking my pelican riding a bicycle benchmark seriously as a robust way to test models, here are pelicans from this morning's two big model releases - Qwen3.6-35B-A3B from Alibaba and Claude Opus 4.7 from Anthropic. Here's the Qwen 3.6 pelican, generated using this 20.9GB Qwen3.6-35B-A3B-UD-Q4_K_S.gguf quantized model by Unsloth, running on my MacBook Pro M5 via LM Studio (and the llm-lmstudio plugin) - transcript here: And here's one I got from Anthropic's…",
