@@ -2,6 +2,139 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "a8d54db70e10",
+      "title": "datasette 1.0a28",
+      "description": "Release: datasette 1.0a28 I was upgrading Datasette Cloud to 1.0a27 and discovered a nasty collection of accidental breakages caused by changes in that alpha. This new alpha addresses those directly: Fixed a compatibility bug introduced in 1.0a27 where execute_write_fn() callbacks with a parameter name other than conn were seeing errors. (#2691) The database.close() method now also shuts down the write connection for that database. New datasette.close() method for closing down all databases and…",
+      "link": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
+      "pubDate": "2026-04-17T04:01:56.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f2cd90ee8218",
+      "title": "The PHP Podcast 2026.04.16 with Sara, Joe, and Sami",
+      "description": "The PHP Podcast streams live, typically every Thursday at 3 PM PT. Come join us and subscribe to our YouTube channel. Another fun episode of the PHP Podcast! Here’s what we covered: 🎙️ Sammy Powers Returns! – After 4 years away from the PHP community, Sammy joins us from Germany where he’s working on immigration […] The post The PHP Podcast 2026.04.16 with Sara, Joe, and Sami appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-04-16-with-sara-joe-and-sami/",
+      "pubDate": "2026-04-17T02:00:06.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/04/The-PHP-Podcast-2026.04.09-3.png",
+      "type": "blog"
+    },
+    {
+      "id": "e68bca815842",
+      "title": "llm-anthropic 0.25",
+      "description": "Release: llm-anthropic 0.25 New model: claude-opus-4.7, which supports thinking_effort: xhigh. #66 New thinking_display and thinking_adaptive boolean options. thinking_display summarized output is currently only available in JSON output or JSON logs. Increased default max_tokens to the maximum allowed for each model. No longer uses obsolete structured-outputs-2025-11-13 beta header for older models. Tags: llm, anthropic, claude",
+      "link": "https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything",
+      "pubDate": "2026-04-16T20:37:12.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f29b8fdf174c",
+      "title": "Socket Selected for OpenAI's Cybersecurity Grant Program",
+      "description": "OpenAI has named Socket as one of the initial recipients of its Cybersecurity Grant Program, a new initiative that commits $10 million in API credits to support organizations advancing cybersecurity defense. The grant comes alongside access to more cyber-permissive frontier models through Trusted Access for Cyber, OpenAI's new identity-based framework for defensive acceleration. Both programs select for trusted defenders with a proven track record in identifying and remediating vulnerabilities…",
+      "link": "https://socket.dev/blog/openai-cybersecurity-grant-program?utm_medium=feed",
+      "pubDate": "2026-04-16T19:37:29.823Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e3e0e4c17628",
+      "title": "Evolution of Agent Landscape From 2022-26",
+      "description": "From weights → context → harness engineering.",
+      "link": "https://blog.dailydoseofds.com/p/evolution-of-agent-landscape-from",
+      "pubDate": "2026-04-16T19:21:43.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!M3OS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c52e17f-e4ab-4c3e-bd05-0610b608c71e_1200x841.png",
+      "type": "blog"
+    },
+    {
+      "id": "6b6d9ea3d206",
+      "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+      "description": "For anyone who has been (inadvisably) taking my pelican riding a bicycle benchmark seriously as a robust way to test models, here are pelicans from this morning's two big model releases - Qwen3.6-35B-A3B from Alibaba and Claude Opus 4.7 from Anthropic. Here's the Qwen 3.6 pelican, generated using this 20.9GB Qwen3.6-35B-A3B-UD-Q4_K_S.gguf quantized model by Unsloth, running on my MacBook Pro M5 via LM Studio (and the llm-lmstudio plugin) - transcript here: And here's one I got from Anthropic's…",
+      "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
+      "pubDate": "2026-04-16T17:16:52.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eaf6b2b66b65",
+      "title": "SymfonyLive Berlin 2026: “Git, But Better: An Introduction to Jujutsu (jj)”",
+      "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. 🎤 New talk announcement!…",
+      "link": "https://symfony.com/blog/symfonylive-berlin-2026-git-but-better-an-introduction-to-jujutsu-jj?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-16T15:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
+      "type": "blog"
+    },
+    {
+      "id": "230735fa500f",
+      "title": "Validating Array Inputs in Laravel Without the N+1",
+      "description": "Validate nested array inputs in Laravel form requests without the N+1. Prefetch lookup data in prepareForValidation and check items in memory. Read more",
+      "link": "https://freek.dev/3070-validating-array-inputs-in-laravel-without-the-n1",
+      "pubDate": "2026-04-16T12:22:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "36e0fab65257",
+      "title": "Meet the Scope Creep Kraken",
+      "description": "The following article was originally published on Tim O’Brien’s Medium page and is being reposted here with the author’s permission. If you’ve spent any time around AI-assisted software work, you already know the moment when the Scope Creep Kraken first puts a tentacle on the boat. The project begins with a real goal and, usually, a sensible […]",
+      "link": "https://www.oreilly.com/radar/meet-the-scope-creep-kraken/",
+      "pubDate": "2026-04-16T10:31:31.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e08576616f92",
       "title": "datasette.io news preview",
       "description": "Tool: datasette.io news preview The datasette.io website has a news section built from this news.yaml file in the underlying GitHub repository. The YAML format looks like this: - date: 2026-04-15 body: |- [Datasette 1.0a27](https://docs.datasette.io/en/latest/changelog.html#a27-2026-04-15) changes how CSRF protection works in a way that simplifies form and API integration, and introduces a new `RenameTableEvent` for when a table is renamed by a SQL query. - date: 2026-03-18 body: |- ... This…",
@@ -14,6 +147,21 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7816ac63f16d",
+      "title": "Integrating Community Feedback into Foundation Strategy Part 1",
+      "description": "Integrating Community Input Into Foundation Strategy Part 1: Feedback from the Community Oh my friends, we have so much to talk about. I’ve been with The PHP Foundation for a few weeks, and many people have asked me about my vision, goals, and strategy for the upcoming year. In my opinion, The PHP Foundation’s stated mission of ensuring the long-term prosperity of the PHP language can be interpreted many different ways. So what exactly does this mean in terms of actionable efforts that will…",
+      "link": "https://thephp.foundation/blog/2026/04/16/integrating-community-feedback-into-foundation-strategy-part1/",
+      "pubDate": "2026-04-16T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://thephp.foundation/assets/post-images/2026/feedback-strategy-pt1/community-feedback-categories.jpg",
       "type": "blog"
     },
     {
@@ -149,6 +297,21 @@
       "type": "blog"
     },
     {
+      "id": "20aee5c84538",
+      "title": "SymfonyLive Berlin 2026: \"Simultaneous editing: Easy mode with Symfony UX\"",
+      "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. 🎤 New talk announcement!…",
+      "link": "https://symfony.com/blog/symfonylive-berlin-2026-simultaneous-editing-easy-mode-with-symfony-ux?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-15T12:46:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
+      "type": "blog"
+    },
+    {
       "id": "d57c91546b05",
       "title": "How 10x Developers Actually Use AI",
       "description": "Read more",
@@ -159,6 +322,20 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "904cd2db30be",
+      "title": "AI Is Writing Our Code Faster Than We Can Verify It",
+      "description": "This is the third article in a series on agentic engineering and AI-driven development. Read part one here, part two here, part three here, and look for the next article on April 23 on O’Reilly Radar. Here’s the dirty secret of the AI coding revolution: most experienced developers still don’t really trust the code the AI writes for […]",
+      "link": "https://www.oreilly.com/radar/ai-is-writing-our-code-faster-than-we-can-verify-it/",
+      "pubDate": "2026-04-15T11:19:15.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
       ],
       "image": null,
       "type": "blog"
