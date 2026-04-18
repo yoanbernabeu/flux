@@ -2,6 +2,125 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "1202813195ca",
+      "title": "Adding a new content type to my blog-to-newsletter tool",
+      "description": "Agentic Engineering Patterns &gt; Here's an example of a deceptively short prompt that got a lot of work done in a single shot. First, some background. I send out a free Substack newsletter around once a week containing content copied-and-pasted from my blog. I'm effectively using Substack as a lightweight way to allow people to subscribe to my blog via email. I generate the newsletter with my blog-to-newsletter tool - an HTML and JavaScript app that fetches my latest content from this…",
+      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything",
+      "pubDate": "2026-04-18T03:15:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6058b0ccb1b4",
+      "title": "Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year",
+      "description": "This year's PyCon US is coming up next month from May 13th to May 19th, with the core conference talks from Friday 15th to Sunday 17th and tutorial and sprint days either side. It's in Long Beach, California this year, the first time PyCon US has come to the West Coast since Portland, Oregon in 2017 and the first time in California since Santa Clara in 2013. If you're based in California this is a great opportunity to catch up with the Python community, meet a whole lot of interesting people…",
+      "link": "https://simonwillison.net/2026/Apr/17/pycon-us-2026/#atom-everything",
+      "pubDate": "2026-04-17T23:59:03.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fa8929839fc7",
+      "title": "Socket Named Top Sales Organization by RepVue",
+      "description": "Socket has been named a 2026 Reppy Award recipient by RepVue in two categories: Small Companies and Venture Capital Backed Companies. RepVue is the leading platform for B2B sales reps to rate their own employers, with more than 225,000 users, and Reppys recognize top-rated sales organizations based on employee ratings across categories like Culture & Leadership, Compensation, and Product-Market Fit. Socket earned a RepVue Score of 94.25, placing us in the top 5% of all companies on the…",
+      "link": "https://socket.dev/blog/socket-named-top-sales-organization-by-repvue?utm_medium=feed",
+      "pubDate": "2026-04-17T22:51:18.893Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/a78b71ceb2c74d81d96988ac151dc83c0dc09ce7-2853x2549.jpg?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "3501d38f1cd8",
+      "title": "72 Techniques to Optimize LLMs in Production",
+      "description": "...explained with usage.",
+      "link": "https://blog.dailydoseofds.com/p/72-techniques-to-optimize-llms-in",
+      "pubDate": "2026-04-17T20:20:02.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!mRT-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F945c4676-d214-41d9-ac1e-062caf345ae7_1190x1107.png",
+      "type": "blog"
+    },
+    {
+      "id": "1aad9d5e4f03",
+      "title": "PHP Alive And Kicking: Episode 22 Sara Golemon",
+      "description": "Sara Golemon returns to the show — her first appearance was way back in Episode 2 — for a deep dive into Git Worktrees, a powerful but underused Git feature that lets you work on multiple branches simultaneously without the overhead of stashing, context-switching, or rebuilding from scratch. The episode covers practical real-world use cases, […] The post PHP Alive And Kicking: Episode 22 Sara Golemon appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/php-alive-and-kicking-episode-22-sara-golemon/",
+      "pubDate": "2026-04-17T18:03:26.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2025/09/archived-version-phparch-logos-512-x-512-px-300x300.png",
+      "type": "blog"
+    },
+    {
+      "id": "7932ad825794",
+      "title": "SymfonyOnline June 2026: 2 days, 2 thematics tracks driven by Innovation and AI!",
+      "description": "Get ready for 4 days of deep learning and community connection at our international SymfonyOnline conference. This year, we are shaking things up with a brand-new format designed to keep you at the cutting edge of web development. 💻 June 09-10: Interactive…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-2-days-2-thematics-tracks-driven-by-innovation-and-ai?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-17T15:15:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "036bc6494438",
+      "title": "Spatie Guidelines as AI Skills",
+      "description": "We turned our internal coding guidelines into reusable AI skills, so coding assistants can follow the same conventions their team uses. The package works with Laravel Boost and the broader skills.sh ecosystem, and ships with skills for Laravel PHP, JavaScript, version control, and security. Read more",
+      "link": "https://freek.dev/3098-spatie-guidelines-as-ai-skills",
+      "pubDate": "2026-04-17T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5d6c8843e759",
+      "title": "NIST Officially Stops Enriching Most CVEs as Vulnerability Volume Skyrockets",
+      "description": "NIST is moving to a risk-based enrichment model for the National Vulnerability Database, formally abandoning its longstanding goal of analyzing every submitted CVE. Starting immediately, the NVD will only enrich vulnerabilities that appear in CISA's Known Exploited Vulnerabilities (KEV) catalog, software used by the federal government, or software designated as critical under Executive Order 14028. Everything else gets labeled \"Not Scheduled.\" The announcement came during VulnCon, where NVD…",
+      "link": "https://socket.dev/blog/nist-officially-stops-enriching-most-cves?utm_medium=feed",
+      "pubDate": "2026-04-17T05:44:06.105Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/01c9b5bd014ef581abd9355d85e524d56be5bfb9-524x391.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
       "id": "a8d54db70e10",
       "title": "datasette 1.0a28",
       "description": "Release: datasette 1.0a28 I was upgrading Datasette Cloud to 1.0a27 and discovered a nasty collection of accidental breakages caused by changes in that alpha. This new alpha addresses those directly: Fixed a compatibility bug introduced in 1.0a27 where execute_write_fn() callbacks with a parameter name other than conn were seeing errors. (#2691) The database.close() method now also shuts down the write connection for that database. New datasette.close() method for closing down all databases and…",
@@ -110,6 +229,21 @@
       "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. 🎤 New talk announcement!…",
       "link": "https://symfony.com/blog/symfonylive-berlin-2026-git-but-better-an-introduction-to-jujutsu-jj?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
       "pubDate": "2026-04-16T15:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
+      "type": "blog"
+    },
+    {
+      "id": "3e13a7611126",
+      "title": "SymfonyLive Berlin 2026: “Abstraction Attraction: How ORMs Shape and Limit Our Thinking”",
+      "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. 🎤 New talk announcement!…",
+      "link": "https://symfony.com/blog/symfonylive-berlin-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-16T13:32:00.000Z",
       "source": "Symfony Blog",
       "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
       "categories": [

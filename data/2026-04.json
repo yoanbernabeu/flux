@@ -2,6 +2,54 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "96221c815eaa",
+      "title": "OpenClaw : le guide complet pour bien débuter 💡",
+      "description": "Déploie ton agent IA maintenant : https://www.hostg.xyz/SHJBP Utilise le code PENTIMINAX pour bénéficier de -10% de réduction supplémentaire sur votre hébergement Hostinger ! Marre des chatbots passifs qui ne font que parler ? Passez à la vitesse supérieure avec OpenClaw, l'agent IA qui exécute réellement vos tâches ! Dans ce tutoriel complet, je vous montre comment installer et configurer OpenClaw pour automatiser votre quotidien : gestion de messages Telegram, exécution de scripts, tâches…",
+      "link": "https://www.youtube.com/watch?v=Ok8gzCdHDA0",
+      "pubDate": "2026-04-17T14:00:48.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Ok8gzCdHDA0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Ok8gzCdHDA0"
+    },
+    {
+      "id": "56ba15d8e4fa",
+      "title": "Les animations en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-animations-2338 Dans ce chapitre, on va découvrir les **transitions** et les **animations** en CSS. Ce sont deux mécanismes proches, mais ils ne répondent pas exactement au même besoin. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=eeTWce8phR0",
+      "pubDate": "2026-04-17T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/eeTWce8phR0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "eeTWce8phR0"
+    },
+    {
+      "id": "b33493d73f13",
+      "title": "Moins d'articles, plus de briques : mes nouveaux projets d'impression 3D",
+      "description": "Mais il est passé où, zwindler ? 🏴‍☠️ Vous avez peut-être remarqué que j’ai été (relativement aux mois derniers) un peu plus silencieux ces derniers temps sur le blog. Pas de panique, je ne suis pas (encore) parti ouvrir un foodtruck. Non, la raison est plus prosaïque : je suis retombé à fond dans la conception de modèles 3D. Si vous avez suivi mes aventures avec MicroStack, mon rack modulaire pour mini-PC, vous savez déjà que j’ai un faible pour la modélisation et l’impression 3D. Mais cette…",
+      "link": "https://blog.zwindler.fr/2026/04/17/impression-3d-briques-labyrinthes-et-baseplates/",
+      "pubDate": "2026-04-17T07:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/04/piratecove.webp",
+      "type": "blog"
+    },
+    {
       "id": "2676b1e4cf8c",
       "title": "#305.exe - Apprendre en codant: Être ou ne pas être D.E.V. par Antonio Goncalves",
       "description": "Pour l'épisode #305 je recevais Alex Delivet. On en débrief avec Antonio. **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce podcast. Va tester sur mcp.ifttd.io et pour les 50 premiers, le code IFTTD3M offre 3 mois gratuits ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos…",
@@ -18,6 +66,40 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/1200296f-42ba-409b-a145-0a9b77dec356.mp3?_=1776348325",
       "duration": "18:09"
+    },
+    {
+      "id": "d792c49bbee9",
+      "title": "Vivre libre ou mourir",
+      "description": "Cinq ans de YouTube, 368 vidéos, un modèle économique qui se fissure, un Patreon ouvert récemment : où j'en suis de mes questionnements sur la soutenabilité de la création de contenu indépendante, et ce que j'essaie pour continuer.",
+      "link": "https://yoandev.co/vivre-libre-ou-mourir",
+      "pubDate": "2026-04-17T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/vivre-libre-ou-mourir.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f0a9e034b8be",
+      "title": "AWS Summit 2026 : Comment AWS veut simplifier la vie du DevOps",
+      "description": "AWS DevOps Agent révolutionne l'incident response avec l'IA. CloudWatch, observabilité, on-call automation : comment réduire votre MTTR.",
+      "link": "https://blog.ippon.fr/2026/04/16/aws-summit-2026-comment-aws-veut-simplifier-la-vie-du-devops/",
+      "pubDate": "2026-04-16T13:55:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/devops-agent.jpg",
+      "type": "blog"
     },
     {
       "id": "625fb5c8b777",
