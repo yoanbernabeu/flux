@@ -2,6 +2,84 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "7cd24e8ad4e9",
+      "title": "Imbrication & import en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-nesting-2339 Dans ce chapitre, on va découvrir deux éléments de syntaxe supplémentaire ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=lNQYB-UH2QE",
+      "pubDate": "2026-04-18T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/lNQYB-UH2QE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "lNQYB-UH2QE"
+    },
+    {
+      "id": "190c9cbe18c6",
+      "title": "GenAI Rennes #11 - 🗣️ Patrick Leprince, CEO Veonum - Une IA fiable : du RAG aux agents intelligents",
+      "description": "Enregistrement du meetup #11 de Generative AI Rennes du 9 avril 2026 Les LLM ont révolutionné l’accès à l’information, et le RAG a permis de les connecter à des données réelles pour produire des réponses plus pertinentes. Mais cette approche a ses limites. hallucinations, confusion entre corrélation et causalité, difficulté à raisonner ou à produire des contenus longs et cohérents. De nouvelles approches émergent. systèmes agentiques, deep search, GraphRAG. avec un objectif clair. passer d’une…",
+      "link": "https://www.youtube.com/watch?v=hCi2FWJ8glA",
+      "pubDate": "2026-04-18T09:00:11.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/hCi2FWJ8glA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "hCi2FWJ8glA"
+    },
+    {
+      "id": "5db3c1873ba5",
+      "title": "GenAI Rennes #11 - 🗣️ Nicolas Bodin de Label4AI - L'IA trahit-elle toujours ?",
+      "description": "Enregistrement du meetup #11 de Generative AI Rennes du 9 avril 2026 Les outils d’IA générative produisent aujourd’hui des contenus d’une qualité impressionnante. images, voix, vidéos ou textes. Mais laissent-ils des traces ? Peut-on encore distinguer le réel du synthétique, et si oui, comment ? À travers des exemples concrets et les travaux de Label4AI, ce talk explore les enjeux de détection, de watermarking et d’analyse forensique des contenus générés par IA. Il interroge aussi ce que…",
+      "link": "https://www.youtube.com/watch?v=fgxp_uLgCvM",
+      "pubDate": "2026-04-18T08:54:16.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/fgxp_uLgCvM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "fgxp_uLgCvM"
+    },
+    {
+      "id": "8cc7157fe93d",
+      "title": "Symfony en prod sur un mono-VPS : FrankenPHP + K3s, staging + TLS en une demi-journée",
+      "description": "Guide pas-à-pas pour mettre une application Symfony en production sur un mono-VPS : deux environnements (staging + prod) containerisés avec FrankenPHP, orchestrés par K3s, déployés automatiquement via GitHub Actions vers GHCR, avec TLS Let's Encrypt. Tous les snippets sont fournis et prêts à copier.",
+      "link": "https://yoandev.co/symfony-frankenphp-k3s-production",
+      "pubDate": "2026-04-18T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/symfony-frankenphp-k3s-production.webp",
+      "type": "blog"
+    },
+    {
+      "id": "4e4522bd349c",
+      "title": "Postfix minimal sur un serveur local Debian 13",
+      "description": "Postfix minimal sur un serveur local Debian 13 {align=right} Dans un [précédent article][1], j'ai décrit la configuration de Postfix sur une machine publique pour la rendre capable d'envoyer par e-mail les notifications du système ainsi que les mails générés par les applications locales. Aujourd'hui, nous allons essayer d'obtenir un résultat semblable avec un serveur installé dans un réseau local, autrement dit une machine qui n'a pas d'ouverture frontale sur Internet. Pour ce faire, nous…",
+      "link": "https://www.microlinux.fr/blog/debian-13-postfix-local/",
+      "pubDate": "2026-04-18T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/postfix.png",
+      "type": "blog"
+    },
+    {
       "id": "96221c815eaa",
       "title": "OpenClaw : le guide complet pour bien débuter 💡",
       "description": "Déploie ton agent IA maintenant : https://www.hostg.xyz/SHJBP Utilise le code PENTIMINAX pour bénéficier de -10% de réduction supplémentaire sur votre hébergement Hostinger ! Marre des chatbots passifs qui ne font que parler ? Passez à la vitesse supérieure avec OpenClaw, l'agent IA qui exécute réellement vos tâches ! Dans ce tutoriel complet, je vous montre comment installer et configurer OpenClaw pour automatiser votre quotidien : gestion de messages Telegram, exécution de scripts, tâches…",

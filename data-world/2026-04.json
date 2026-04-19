@@ -2,6 +2,51 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "e72047652dc3",
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "description": "Anthropic are the only major AI lab to publish the system prompts for their user-facing chat systems. Their system prompt archive now dates all the way back to Claude 3 in July 2024 and it's always interesting to see how the system prompt evolves as they publish new models. Opus 4.7 shipped the other day (April 16, 2026) with a Claude.ai system prompt update since Opus 4.6 (February 5, 2026). I had Claude Code take the Markdown version of their system prompts, break that up into separate…",
+      "link": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything",
+      "pubDate": "2026-04-18T23:59:40.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f027849b2062",
+      "title": "Scotty vs Laravel Envoy: Spatie's New Deploy Tool Is Worth the Switch",
+      "description": "Hafiz compares Scotty with Laravel Envoy and explains why Spatie's new deploy tool is a nicer fit for SSH-based deployments. He walks through the plain bash format, improved terminal output, migration path, and zero-downtime deployment workflow. Read more",
+      "link": "https://freek.dev/3072-scotty-vs-laravel-envoy-spaties-new-deploy-tool-is-worth-the-switch",
+      "pubDate": "2026-04-18T12:30:30.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "67c4827c500f",
+      "title": "Claude system prompts as a git timeline",
+      "description": "Research: Claude system prompts as a git timeline Anthropic publish the system prompts for Claude chat and make that page available as Markdown. I had Claude Code turn that page into separate files for each model and model family with fake git commit dates to enable browsing the changes via the GitHub commit view. I used this to write my own detailed notes on the changes between Opus 4.6 and 4.7. Tags: system-prompts, anthropic, claude, generative-ai, ai, llms",
+      "link": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything",
+      "pubDate": "2026-04-18T12:25:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1202813195ca",
       "title": "Adding a new content type to my blog-to-newsletter tool",
       "description": "Agentic Engineering Patterns &gt; Here's an example of a deceptively short prompt that got a lot of work done in a single shot. First, some background. I send out a free Substack newsletter around once a week containing content copied-and-pasted from my blog. I'm effectively using Substack as a lightweight way to allow people to subscribe to my blog via email. I generate the newsletter with my blog-to-newsletter tool - an HTML and JavaScript app that fetches my latest content from this…",
