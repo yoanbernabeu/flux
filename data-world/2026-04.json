@@ -2,6 +2,95 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "7ef1bf382162",
+      "title": "SQL functions in Google Sheets to fetch data from Datasette",
+      "description": "TIL: SQL functions in Google Sheets to fetch data from Datasette I put together some notes on patterns for fetching data from a Datasette instance directly into Google Sheets - using the importdata() function, a \"named function\" that wraps it or a Google Apps Script if you need to send an API token in an HTTP header (not supported by importdata().) Here's an example sheet demonstrating all three methods. Tags: spreadsheets, datasette, google",
+      "link": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
+      "pubDate": "2026-04-20T02:33:58.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "29947831513c",
+      "title": "Claude Token Counter, now with model comparisons",
+      "description": "Claude Token Counter, now with model comparisons I upgraded my Claude Token Counter tool to add the ability to run the same count against different models in order to compare them. As far as I can tell Claude Opus 4.7 is the first model to change the tokenizer, so it's only worth running comparisons between 4.7 and 4.6. The Claude token counting API accepts any Claude model ID though so I've included options for all four of the notable current models (Opus 4.7 and 4.6, Sonnet 4.6, and Haiku…",
+      "link": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
+      "pubDate": "2026-04-20T00:50:45.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "22f818329721",
+      "title": "How to Fine-Tune LLMs in 2026",
+      "description": "Reward-free RL is here!",
+      "link": "https://blog.dailydoseofds.com/p/how-to-fine-tune-llms-in-2026",
+      "pubDate": "2026-04-19T22:29:34.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!j74D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e629a0f-4f1e-4668-8056-1fa7252d455f_680x371.png",
+      "type": "blog"
+    },
+    {
+      "id": "55e625e03c8e",
+      "title": "Headless everything for personal AI",
+      "description": "Headless everything for personal AI Matt Webb thinks headless services are about to become much more common: Why? Because using personal AIs is a better experience for users than using services directly (honestly); and headless services are quicker and more dependable for the personal AIs than having them click round a GUI with a bot-controlled mouse. Evidently Marc Benioff thinks so too: Welcome Salesforce Headless 360: No Browser Required! Our API is the UI. Entire Salesforce &amp; Agentforce…",
+      "link": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
+      "pubDate": "2026-04-19T21:46:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fb356500d7c5",
+      "title": "Talking about Laravel, Oh Dear, and AI",
+      "description": "In this interview, I talk about Laravel, application monitoring, and how AI is changing the way developers work.",
+      "link": "https://freek.dev/3073-talking-about-laravel-oh-dear-and-ai",
+      "pubDate": "2026-04-19T12:30:30.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16573e28dd35",
+      "title": "A Week of Symfony #1007 (April 13–19, 2026)",
+      "description": "This week, Symfony UX released the 2.35 maintenance version and the new 3.0 major version, which removes all deprecated features and updates the PHP and Symfony requirements. In addition, we published more information about the upcoming SymfonyLive Berlin…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1007-april-13-19-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-19T07:16:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e72047652dc3",
       "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
       "description": "Anthropic are the only major AI lab to publish the system prompts for their user-facing chat systems. Their system prompt archive now dates all the way back to Claude 3 in July 2024 and it's always interesting to see how the system prompt evolves as they publish new models. Opus 4.7 shipped the other day (April 16, 2026) with a Claude.ai system prompt update since Opus 4.6 (February 5, 2026). I had Claude Code take the Markdown version of their system prompts, break that up into separate…",

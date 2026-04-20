@@ -2,6 +2,70 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "b1732ba0bc66",
+      "title": "Claude Code m'a déployé une App Symfony sur Kubernetes tout seul 😱",
+      "description": "Mon Patreon : https://patreon.com/YoanDev Article de blog : https://yoandev.co/symfony-frankenphp-k3s-production Dans cette vidéo, on déploie une app Symfony (FrankenPHP) sur un mono-VPS avec K3s, la distro légère de Kubernetes, CI/CD via GitHub Actions vers GHCR, TLS Let's Encrypt automatique. Et c'est Claude Code qui fait le plus gros du boulot. ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle…",
+      "link": "https://www.youtube.com/watch?v=f7LKK9q7gIc",
+      "pubDate": "2026-04-19T16:00:57.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/f7LKK9q7gIc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "f7LKK9q7gIc"
+    },
+    {
+      "id": "822fa6dfca72",
+      "title": "Les joies du vibecoding : quand l’IA libère !",
+      "description": "L'IA est souvent perçue négativement, mais elle peut aussi apporter du plaisir au travail. L'auteur partage son expérience positive avec le \"vibe coding\", une méthode qui ravive sa créativité et l'enthousiasme pour le travail. Malgré les défis du marché, l'IA offre des possibilités excitantes pour les créateurs d'aujourd'hui. L’article Les joies du vibecoding : quand l’IA libère ! est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/19/les-joies-du-vibecoding-quand-lia-libere/",
+      "pubDate": "2026-04-19T14:53:05.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac460ea72110",
+      "title": "MVC en Laravel est dépassé ? Découvre ADR 😮",
+      "description": "Dans cette vidéo, je te montre comment dire adieu aux fat controllers en Laravel grâce au pattern ADR (Action Domain Responder). 👉 On part d’un exemple concret en MVC (avec toute la logique dans le controller…) 👉 Puis on refactor étape par étape vers une architecture propre, testable et maintenable Au programme : Pourquoi MVC montre ses limites Comprendre ADR simplement Implémentation complète dans Laravel Découpage Action / Domain / Responder Bonnes pratiques et avantages concrets 💡 Exemple…",
+      "link": "https://www.youtube.com/watch?v=Zf-etutWdXU",
+      "pubDate": "2026-04-19T13:51:18.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Zf-etutWdXU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Zf-etutWdXU"
+    },
+    {
+      "id": "d6a1aac82ef6",
+      "title": "Les calques en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-layers-2340 Dans ce chapitre, on va revenir sur une notion importante en CSS : la **spécificité**. On va aussi découvrir un nouvel outil très utile pour mieux organiser nos styles : les **calques** . ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=GK4D25EhNS4",
+      "pubDate": "2026-04-19T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/GK4D25EhNS4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "GK4D25EhNS4"
+    },
+    {
       "id": "7cd24e8ad4e9",
       "title": "Imbrication & import en CSS",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/css-nesting-2339 Dans ce chapitre, on va découvrir deux éléments de syntaxe supplémentaire ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
