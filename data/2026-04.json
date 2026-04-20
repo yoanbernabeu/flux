@@ -2,6 +2,54 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "ea6b501e3369",
+      "title": "Claude Design :  être designer sans savoir designer",
+      "description": "Anthropic lance Claude Design, un outil IA collaboratif pour créer des designs, prototypes et présentations. Il s'intègre à Canva, facilite l'exploration créative et accélère la production visuelle. Disponible pour les abonnés Claude Pro, Max, Team et Enterprise, il promet de révolutionner la façon dont les équipes conçoivent. L’article Claude Design : être designer sans savoir designer est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/20/claude-design-etre-designer-sans-savoir-designer/",
+      "pubDate": "2026-04-20T07:57:50.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca415099858b",
+      "title": "Vercel, Context.ai : l'incident qui préfigure la nouvelle génération d'attaques SaaS",
+      "description": "Le 19 avril 2026, Vercel publie un bulletin de sécurité confirmant un accès non autorisé à certains systèmes internes. Le 20 avril, le CEO Guillermo Rauch précise publiquement l'origine de la…",
+      "link": "https://yoandev.co/patreon/patreon-156061222-vercel-contextai-lincident-qui-prefigure-la-nouvelle-generat",
+      "pubDate": "2026-04-20T06:46:48.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff04bc2943ab",
+      "title": "[OCTO] Quand l’IA accélère, ralentir devient essentiel",
+      "description": "Préserver cet équilibre s’impose désormais comme une exigence cardinale. Dans un monde où tout semble conspirer à l’accélération, savoir composer avec le temps long et le temps court ne relève plus d’une simple qualité : c’est une condition indispensable pour penser avec justesse et agir avec discernement.",
+      "link": "https://blog.octo.com/octo-quand-l'ia-accelere-ralentir-devient-essentiel",
+      "pubDate": "2026-04-20T05:23:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b1732ba0bc66",
       "title": "Claude Code m'a déployé une App Symfony sur Kubernetes tout seul 😱",
       "description": "Mon Patreon : https://patreon.com/YoanDev Article de blog : https://yoandev.co/symfony-frankenphp-k3s-production Dans cette vidéo, on déploie une app Symfony (FrankenPHP) sur un mono-VPS avec K3s, la distro légère de Kubernetes, CI/CD via GitHub Actions vers GHCR, TLS Let's Encrypt automatique. Et c'est Claude Code qui fait le plus gros du boulot. ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle…",
@@ -144,6 +192,22 @@
       "type": "blog"
     },
     {
+      "id": "ae2fed7e11fa",
+      "title": "Linux Kernel 7.0 : une majeure qui affine l'expérience",
+      "description": "Après plusieurs années de développement, le noyau Linux en version 7.0 est officiellement disponible. Si le saut de version majeure pourrait suggérer une révolution, il s’agit plutôt d’une consolidation significative qui affine l’expérience utilisateur et développeur par rapport à la série 6.x. Voici ce qu’il faut retenir : Support rust stabilisé# Le changement le plus marquant est la promotion du support rust au statut stable. Après des expérimentations dans les versions précédentes, les…",
+      "link": "https://j.hommet.net/linux-7.0/",
+      "pubDate": "2026-04-17T22:00:00.000Z",
+      "source": "J.Hommet",
+      "sourceUrl": "https://j.hommet.net/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "96221c815eaa",
       "title": "OpenClaw : le guide complet pour bien débuter 💡",
       "description": "Déploie ton agent IA maintenant : https://www.hostg.xyz/SHJBP Utilise le code PENTIMINAX pour bénéficier de -10% de réduction supplémentaire sur votre hébergement Hostinger ! Marre des chatbots passifs qui ne font que parler ? Passez à la vitesse supérieure avec OpenClaw, l'agent IA qui exécute réellement vos tâches ! Dans ce tutoriel complet, je vous montre comment installer et configurer OpenClaw pour automatiser votre quotidien : gestion de messages Telegram, exécution de scripts, tâches…",
@@ -174,6 +238,39 @@
       "image": "https://i.ytimg.com/vi/eeTWce8phR0/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "eeTWce8phR0"
+    },
+    {
+      "id": "ef3cadb8684e",
+      "title": "Opus 4.7 à chaud : mes premières heures avec Claude Code",
+      "description": "Je teste Opus 4.7 depuis sa sortie hier soir, et entre ce que j'ai lu dans deux des derniers billets d'Anthropic et mes propres manipulations, voilà ce qui se dégage. À prendre comme des observations…",
+      "link": "https://yoandev.co/patreon/patreon-155840621-opus-47-a-chaud-mes-premieres-heures-avec-claude-code",
+      "pubDate": "2026-04-17T09:35:30.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "69351ae33a19",
+      "title": "Les 8 nouveautés tech de la semaine #16 à ne pas manquer",
+      "description": "Claude Code pousse des agents en production pendant que vous dormez, GitHub Copilot suspend ses essais, et un outil Rust réduit vos tokens de 80% en ligne de commande. Ça a bougé cette semaine !",
+      "link": "https://codecodecoders.substack.com/p/les-8-nouveautes-tech-de-la-semaine-ec8",
+      "pubDate": "2026-04-17T07:54:33.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!G5Rn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd325a64-5e12-453b-9712-ed5e32383e1a_1024x608.png",
+      "type": "blog"
     },
     {
       "id": "b33493d73f13",
@@ -224,6 +321,23 @@
         "IA"
       ],
       "image": "https://yoandev.co/img/vivre-libre-ou-mourir.webp",
+      "type": "blog"
+    },
+    {
+      "id": "03e2fcbaaa65",
+      "title": "Claude Opus 4.7 débarque : ce qui change vraiment par rapport à la 4.6",
+      "description": "Anthropic vient de lever le voile sur Claude Opus 4.7 , disponible dès aujourd'hui sur tous les produits Claude, l'API, Amazon Bedrock, Google Cloud Vertex AI et Microsoft Foundry. Si vous suivez la…",
+      "link": "https://yoandev.co/patreon/patreon-155774807-claude-opus-47-debarque-ce-qui-change-vraiment-par-rapport-a",
+      "pubDate": "2026-04-16T15:02:29.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1518,6 +1632,23 @@
       "videoId": "6I29C_6FPPA"
     },
     {
+      "id": "2f3527196b1c",
+      "title": "Anthropic change les règles pour les apps tierces : récupérez votre crédit gratuit",
+      "description": "Comme beaucoup d’entre vous, j’utilise Claude Code au quotidien, et cette annonce me concerne directement.",
+      "link": "https://yoandev.co/patreon/patreon-154749858-anthropic-change-les-regles-pour-les-apps-tierces-recuperez",
+      "pubDate": "2026-04-04T08:30:36.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "29baf0a5a430",
       "title": "IA & Licenciements : Et si l'intelligence artificielle n'était qu'une excuse ?",
       "description": "273 000 départs prévus dans la tech : l'IA nous remplace-t-elle déjà ou sert-elle de couverture à des plans de licenciements opportunistes ? Analyse d'un basculement de marché où la productivité n'est pas toujours là où on l'attend.",
@@ -1594,6 +1725,23 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!Y9oi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1499a7fc-7228-44ee-ba45-f487d77eb1ac_2358x945.webp",
+      "type": "blog"
+    },
+    {
+      "id": "67332e5138b6",
+      "title": "Les coulisses : comment un bug Ollama est devenu un article de benchmark",
+      "description": "Hey !",
+      "link": "https://yoandev.co/patreon/patreon-154664696-les-coulisses-comment-un-bug-ollama-est-devenu-un-article-de",
+      "pubDate": "2026-04-03T07:24:09.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1922,6 +2070,23 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!bpe-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04dc06ce-8550-44c7-966b-c0a9c3f9f215_1920x1252.webp",
+      "type": "blog"
+    },
+    {
+      "id": "cf2a3ed75722",
+      "title": "TurboQuant : l'algorithme de Google qui change l'économie de l'IA ",
+      "description": "Le 24 mars, Google Research a lâché une bombe discrète : TurboQuant , un algorithme de compression qui divise par 6 la mémoire nécessaire à l'inférence IA, sans perte de qualité. En quelques jours…",
+      "link": "https://yoandev.co/patreon/patreon-154484691-turboquant-lalgorithme-de-google-qui-change-leconomie-de-lia",
+      "pubDate": "2026-04-01T07:16:52.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

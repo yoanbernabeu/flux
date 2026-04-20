@@ -225,6 +225,20 @@
       "type": "blog"
     },
     {
+      "id": "499bb728e67c",
+      "title": "AI #164: Pre Opus",
+      "description": "This is a day late because, given the discourse around Dwarkesh Patel’s interview with Jensen Huang, I pushed the weekly to Friday.",
+      "link": "https://thezvi.substack.com/p/ai-164-pre-opus",
+      "pubDate": "2026-04-17T13:01:09.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!O2Cg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e89e2a4-34e2-4606-b455-c108973e1bc5_941x869.png",
+      "type": "blog"
+    },
+    {
       "id": "036bc6494438",
       "title": "Spatie Guidelines as AI Skills",
       "description": "We turned our internal coding guidelines into reusable AI skills, so coding assistants can follow the same conventions their team uses. The package works with Laravel Boost and the broader skills.sh ecosystem, and ships with skills for Laravel PHP, JavaScript, version control, and security. Read more",
