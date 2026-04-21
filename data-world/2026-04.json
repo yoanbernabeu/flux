@@ -2,6 +2,93 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "a03232c08c17",
+      "title": "Socket for Jira Is Now Available",
+      "description": "Security findings only matter if organizations can act on them. That usually means getting the right issues into the systems where engineering and security teams already work. Socket for Jira is now available, making it easy to turn Socket alerts into Jira issues and keep remediation work moving as alerts change over time. Teams can create tickets manually from individual alerts or set up automated ticketing rules to create, update, and resolve issues based on activity in Socket. The…",
+      "link": "https://socket.dev/blog/socket-for-jira-now-available?utm_medium=feed",
+      "pubDate": "2026-04-20T21:01:14.016Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/515ab100c9381353e9caa0d25bdca9d30e9cfa5e-1642x578.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "19caa1bf44d0",
+      "title": "How We Cut Our Claude Code Token Usage 2.8x!",
+      "description": "...using Karpathy's context engineering principles!",
+      "link": "https://blog.dailydoseofds.com/p/how-we-cut-our-claude-code-token",
+      "pubDate": "2026-04-20T20:40:09.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!yYN1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc43dc6d5-a696-45d5-8407-14c626bc0cc8_1346x692.png",
+      "type": "blog"
+    },
+    {
+      "id": "7f9e3978ba3a",
+      "title": "Introducing TypeScript Transformer 3",
+      "description": "Ruben explains the full rewrite behind TypeScript Transformer 3 and why the new architecture makes the package much more flexible. The post covers the new transformer pipeline, AST-based output, improved type parsing via PHPStan, and a watch mode for faster development. Read more",
+      "link": "https://freek.dev/3094-introducing-typescript-transformer-3",
+      "pubDate": "2026-04-20T12:30:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b2f41cc28e73",
+      "title": "Scenario Planning for AI and the “Jobless Future”",
+      "description": "We all read it in the daily news. The New York Times reports that economists who once dismissed the AI job threat are now taking it seriously. In February, Jack Dorsey cut 40% of Block’s workforce, telling shareholders that “intelligence tools have changed what it means to build and run a company.” Block’s stock rose […]",
+      "link": "https://www.oreilly.com/radar/scenario-planning-for-ai-and-the-jobless-future/",
+      "pubDate": "2026-04-20T10:41:09.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/image-11.png",
+      "type": "blog"
+    },
+    {
+      "id": "a1bd2e4a1287",
+      "title": "Gradient-based Planning for World Models at Longer Horizons",
+      "description": ".grasp-results-table table { font-size: 0.875rem; line-height: 1.35; width: 100%; } .grasp-results-table th, .grasp-results-table td { padding: 0.35rem 0.5rem; } /* Consistent whitespace between major sections (this post is long and hr-heavy) */ article.post-content h2 { margin-top: 2.75rem; margin-bottom: 0.75rem; } article.post-content h2:first-of-type { margin-top: 2.25rem; } article.post-content h3 { margin-top: 1.65rem; margin-bottom: 0.5rem; } article.post-content hr { margin-top: 2.5rem;…",
+      "link": "http://bair.berkeley.edu/blog/2026/04/20/grasp/",
+      "pubDate": "2026-04-20T09:00:00.000Z",
+      "source": "BAIR Blog",
+      "sourceUrl": "https://bair.berkeley.edu/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif",
+      "type": "blog"
+    },
+    {
+      "id": "356661d13aa3",
+      "title": "SymfonyDay Montreal 2026 - Schedule is Live!",
+      "description": "The moment you’ve all been waiting for has finally arrived. After weeks of reviewing great proposals, we are thrilled to announce that the official schedule for SymfonyDay Montreal 2026 taking place on June 4, 2026 is now available! 🙏 A Huge Merci…",
+      "link": "https://symfony.com/blog/symfonyday-montreal-2026-schedule-is-live?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-20T04:44:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/HEADER-1200x440px-at-3x-5.png",
+      "type": "blog"
+    },
+    {
       "id": "7ef1bf382162",
       "title": "SQL functions in Google Sheets to fetch data from Datasette",
       "description": "TIL: SQL functions in Google Sheets to fetch data from Datasette I put together some notes on patterns for fetching data from a Datasette instance directly into Google Sheets - using the importdata() function, a \"named function\" that wraps it or a Google Apps Script if you need to send an API token in an HTTP header (not supported by importdata().) Here's an example sheet demonstrating all three methods. Tags: spreadsheets, datasette, google",

@@ -2,6 +2,22 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "b28c4143a955",
+      "title": "Comment organiser son CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-organisation-2341 Dans ce chapitre, on va s'intéresser à un problème que l'on rencontre assez rapidement quand on commence à appliquer le CSS : comment s'organiser ? ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=Zbd0maF8toc",
+      "pubDate": "2026-04-20T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Zbd0maF8toc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Zbd0maF8toc"
+    },
+    {
       "id": "ea6b501e3369",
       "title": "Claude Design :  être designer sans savoir designer",
       "description": "Anthropic lance Claude Design, un outil IA collaboratif pour créer des designs, prototypes et présentations. Il s'intègre à Canva, facilite l'exploration créative et accélère la production visuelle. Disponible pour les abonnés Claude Pro, Max, Team et Enterprise, il promet de révolutionner la façon dont les équipes conçoivent. L’article Claude Design : être designer sans savoir designer est apparu en premier sur OlivierSauvage.com.",
@@ -45,6 +61,37 @@
         "Cloud",
         "IA",
         "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7386a2b47ac6",
+      "title": "La veille de Wittouck - Début avril 2026",
+      "description": "En ce début avril, toutes les têtes étaient tournées vers la lune, et la mission Artemis II, mais aussi vers la DINUM, qui a encore une fois capté l’attention avec l’annonce de son OS à base de Nix. Je profite de la découverte du compte Flickr de la NASA (oui Flickr existe encore ahah) pour utiliser une des jolies photos de la mission pour illustrer cet article.",
+      "link": "https://codeka.io/2026/04/20/la-veille-de-wittouck-d%C3%A9but-avril-2026/",
+      "pubDate": "2026-04-20T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/04/20/la-veille-de-wittouck-d%C3%A9but-avril-2026/cover_hu_1fb205b0cb6362bb.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f4acf5b65922",
+      "title": "La qualité est une responsabilité collective",
+      "description": "Dans la plupart des équipes où je suis passé, les responsabilités étaient souvent fortement découpées. Le product owner définit, le développeur code, la Q/A valide. Sur le papier, ça semble fonctionner, chacun à son rôle et ses responsabilités sont bien définies. Ce que l’on constate dans la pratique, c’est exactement l’inverse. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme…",
+      "link": "https://www.jdecool.fr/blog/2026/04/20/la-qualite-est-une-responsabilite-collective.html",
+      "pubDate": "2026-04-19T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
@@ -321,6 +368,23 @@
         "IA"
       ],
       "image": "https://yoandev.co/img/vivre-libre-ou-mourir.webp",
+      "type": "blog"
+    },
+    {
+      "id": "cec371f38266",
+      "title": "Et si j'hébergeais mon blog sur une infrastructure européenne",
+      "description": "Lorna Ladril sur Unsplash Quand j’ai décidé d’ouvrir ce blog, je ne voulais pas gérer une infrastructure complexe surtout pour un simple blog. En suivant ma philisophie KISS (Keep it simple and stupid), j’avais opté pour un CMS qui ne nécessite pas une base de données comme wordpress. Un générateur de site statique facilement customizable à l’aide de plugins développés par la communauté est amplement suffisant et permet d’avoir de meilleures performances. C’est pour cela que j’avais opté pour…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/04/migration-github-codeberg/",
+      "pubDate": "2026-04-17T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/04/migration-github-codeberg/banner.avif",
       "type": "blog"
     },
     {
