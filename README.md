@@ -84,13 +84,39 @@ YOUTUBE_API_KEY=votre_clé_ici
 
 **En CI :** ajouter le secret `YOUTUBE_API_KEY` dans Settings > Secrets and variables > Actions du repo GitHub.
 
+## Skill Claude Code : `yoandev-flux`
+
+Flux est également exposé sous forme de **skill Claude Code** qui permet à n'importe quel agent d'accéder à l'agrégat pour faire de la veille personnalisée, des briefs matinaux et des recherches ad-hoc en langage naturel.
+
+### Installation
+
+```bash
+npx skills add yoanbernabeu/Flux
+```
+
+Prérequis : `curl` et `jq` dans le `PATH` (installés par défaut sur macOS, `apt install jq` sur Debian/Ubuntu).
+
+### Exemples d'usage
+
+Une fois installée, la skill s'active automatiquement sur des prompts comme :
+
+- « Fais-moi ma newsletter du matin sur l'IA, Symfony et le DevOps »
+- « Qu'est-ce qui s'est passé cette semaine en tech francophone ? »
+- « Trouve-moi des articles récents sur Rust »
+- « Résume-moi cet article : <url> »
+
+Plus de détails dans [`skills/README.md`](./skills/README.md).
+
 ## Structure du projet
 
 ```
 ├── feeds.yaml              # Configuration des flux RSS
-├── data/                   # Articles (JSON mensuel, auto-généré)
+├── data/                   # Articles francophones (JSON mensuel, auto-généré)
+├── data-world/             # Articles internationaux (JSON mensuel, auto-généré)
 ├── scripts/
 │   └── fetch-feeds.ts      # Script de récupération RSS
+├── skills/
+│   └── yoandev-flux/       # Skill Claude Code distribuable
 ├── src/
 │   ├── components/         # Composants Astro (ArticleCard, SearchBar, CategoryFilter…)
 │   ├── layouts/            # Layout principal
