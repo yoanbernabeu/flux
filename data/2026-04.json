@@ -2,6 +2,71 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "261995fdee7c",
+      "title": "#353.src - IA et Java: Le nouvel âge d'or de Java avec Julien Dubois",
+      "description": "\"Aujourd'hui, on peut obtenir un résultat extraordinaire à partir du moment où l'on a bien compris quelque chose et que l'on sait l'exprimer clairement. Et ce sont deux choses assez différentes.\" Le D.E.V. de la semaine est Julien Dubois, Java Developer Relations Lead chez Microsoft/GitHub. Julien explore la renaissance de Java dans l'ère de l'IA, où Spring AI, LangChain4J et l'écosystème open source bouleversent l'intégration des LLM. Il partage comment GitHub Copilot et les nouveaux…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-353-f195d6c36f38",
+      "pubDate": "2026-04-22T03:00:35.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/4c8d8684-b712-44d9-86ee-fcd67bdd1b1f.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/8f818c9f-25fd-4777-b6bf-f195d6c36f38.mp3?_=1776772895",
+      "duration": "57:32"
+    },
+    {
+      "id": "b34e71dca51c",
+      "title": "Claude Design : Le guide complet pour bien débuter",
+      "description": "🎨 Claude Design : Le guide complet pour bien débuter. Tu veux créer des interfaces, des visuels et des composants directement depuis Claude ? Dans ce tutoriel complet, je t'explique tout ce que tu dois savoir sur Claude Design pour bien débuter en 2026. Liens utiles : Claude Design :https://claude.ai/design Kompozer : https://kompozer.io/fr 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les meilleures formations pour apprendre à…",
+      "link": "https://www.youtube.com/watch?v=iRAl-2t6x2k",
+      "pubDate": "2026-04-21T14:01:10.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/iRAl-2t6x2k/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "iRAl-2t6x2k"
+    },
+    {
+      "id": "c46fe9743ae2",
+      "title": "Les LLM sont t'ils intelligents ? Retour sur 8 ans de progrès",
+      "description": "On parle tout le temps de la puissance des puces, de la taille des fenêtres de contexte ou des milliards levés par les géants de la tech. Mais est-ce qu'on prend encore le temps de se demander ce qu'est vraiment l'intelligence ? Alors on a décidé de faire une pause dans la frénésie des annonces pour se poser les vraies questions de fond avec un regard philosophique en gardant notre exigence technique. Dans cet épisode, on reçoit un invité de marque : Thibaut Giraud alias @MonsieurPhi Docteur en…",
+      "link": "https://www.linkedin.com/company/a-la-french-podcast",
+      "pubDate": "2026-04-21T09:45:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1776752727645-33fa8380-057e-4d72-93cf-7f3b5275d61b.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69e719ebabe143da5b4fa38e/media.mp3",
+      "duration": "1:32:59"
+    },
+    {
+      "id": "350f80511566",
+      "title": "L’autre moyen d’attirer du trafic en B2B : les contenus interactifs",
+      "description": "L'article propose des dispositifs interactifs, tels que les quiz et infographies, comme moyens efficaces pour attirer et engager des prospects, tout en mémorisant la marque. Il insiste sur l'importance de l'originalité, de l'expérience utilisateur, et de l'utilité des contenus, qui doivent dépasser la simple collecte d'emails pour créer une relation durable. L’article L’autre moyen d’attirer du trafic en B2B : les contenus interactifs est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/21/lautre-moyen-dattirer-du-trafic-en-b2b-les-contenus-interactifs/",
+      "pubDate": "2026-04-21T08:20:17.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c34fc2acf5c2",
       "title": "Dockman, enfin un gestionnaire Docker Compose natif complet",
       "description": "Dockman : un gestionnaire Docker Compose qui laisse vos fichiers en place et couvre aussi les images, volumes et réseaux.",
@@ -14,6 +79,21 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2026/02/Designer--4-.png",
+      "type": "blog"
+    },
+    {
+      "id": "0a19f882f00a",
+      "title": "Pétille — pour les enfants, ce que je n'ai pas trouvé ailleurs",
+      "description": "Celui-ci n’est pas un outil pour DSI. C’est pour mes filles — et les vôtres, si ça vous parle. Le déclic J’ai deux filles, 6 et 8 ans. Comme beaucoup de parents, j’ai fini par remarquer deux choses. La première, c’est qu’elles connaissent environ cinq métiers : vétérinaire, maîtresse, docteur, policier, pompier. C’est normal — à cet âge, l’univers des métiers possibles se construit sur ce qu’on voit autour de soi. Ce n’est pas un problème à régler.",
+      "link": "https://kolapsis.com/blog/petille-carnet-appetences/",
+      "pubDate": "2026-04-21T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

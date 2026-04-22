@@ -2,6 +2,169 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "2c96923e2106",
+      "title": "Changes to GitHub Copilot Individual plans",
+      "description": "Changes to GitHub Copilot Individual plans On the same day as Claude Code's temporary will-they-won't-they $100/month kerfuffle (for the moment, they won't), here's the latest on GitHub Copilot pricing. Unlike Anthropic, GitHub put up an official announcement about their changes, which include tightening usage limits, pausing signups for individual plans (!), restricting Claude Opus 4.7 to the more expensive $39/month \"Pro+\" plan, and dropping the previous Opus models entirely. The key…",
+      "link": "https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything",
+      "pubDate": "2026-04-22T03:30:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1d8a38f4e513",
+      "title": "Is Claude Code going to cost $100/month? Probably not - it's all very confusing",
+      "description": "Anthropic today quietly (as in silently, no announcement anywhere at all) updated their claude.com/pricing page (but not their Choosing a Claude plan page, which shows up first for me on Google) to add this tiny but significant detail (arrow is mine, and it's already reverted): The Internet Archive copy from yesterday shows a checkbox there. Claude Code used to be a feature of the $20/month Pro plan, but according to the new pricing page it is now exclusive to the $100/month or $200/month Max…",
+      "link": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
+      "pubDate": "2026-04-22T02:07:34.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d25720637bc4",
+      "title": "Namastex.ai npm Packages Hit with TeamPCP-Style CanisterWorm Malware",
+      "description": "Last month, we responded to CanisterWorm, a worm-enabled npm supply chain campaign that compromised legitimate publisher space, replaced package contents with install-time malware, used stolen publishing access to republish malicious versions, and relied on an Internet Computer Protocol (ICP) canister as a dead-drop command and control (C2) channel. This campaign was attributed to a set of TeamPCP supply chain attacks. In this newly discovered npm incident, the malware uses the same core…",
+      "link": "https://socket.dev/blog/namastex-npm-packages-compromised-canisterworm?utm_medium=feed",
+      "pubDate": "2026-04-22T00:18:18.752Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/66b5dc8af923d6f92ead09f1383372305e2a539f-1302x621.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "93162eb45ecf",
+      "title": "The Anatomy of Diffusion LLMs",
+      "description": "...explained from scratch!",
+      "link": "https://blog.dailydoseofds.com/p/the-anatomy-of-diffusion-llms-a1c",
+      "pubDate": "2026-04-21T21:31:17.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!g9CL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09768bd8-8e5e-43da-802b-85ebdef29965_1257x633.png",
+      "type": "blog"
+    },
+    {
+      "id": "b2c9fcda761f",
+      "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+      "description": "OpenAI released ChatGPT Images 2.0 today, their latest image generation model. On the livestream Sam Altman said that the leap from gpt-image-1 to gpt-image-2 was equivalent to jumping from GPT-3 to GPT-5. Here's how I put it to the test. My prompt: Do a where's Waldo style image but it's where is the raccoon holding a ham radio gpt-image-1 First as a baseline here's what I got from the older gpt-image-1 using ChatGPT directly: I wasn't able to spot the raccoon - I quickly realized that testing…",
+      "link": "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
+      "pubDate": "2026-04-21T20:32:24.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0dbe547da66b",
+      "title": "Quoting Andreas Påhlsson-Notini",
+      "description": "AI agents are already too human. Not in the romantic sense, not because they love or fear or dream, but in the more banal and frustrating one. The current implementations keep showing their human origin again and again: lack of stringency, lack of patience, lack of focus. Faced with an awkward task, they drift towards the familiar. Faced with hard constraints, they start negotiating with reality. &mdash; Andreas Påhlsson-Notini, Less human AI agents, please. Tags: ai-agents, coding-agents, ai",
+      "link": "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything",
+      "pubDate": "2026-04-21T16:39:33.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "39f0779684d2",
+      "title": "Introducing Reports: An Extensible Reporting Framework for Socket Data",
+      "description": "Today, we’re introducing Reports, a new page in the Socket dashboard for chart-based views of vulnerabilities, dependencies, and usage. At launch, Reports includes five built-in charts across three categories, with support for organization-wide and repository-level views. It replaces the previous Analytics page with a more structured reporting experience in the dashboard. Built as an extensible reporting framework, the new page gives teams a more consistent way to work with and share Socket…",
+      "link": "https://socket.dev/blog/introducing-reports?utm_medium=feed",
+      "pubDate": "2026-04-21T16:22:02.722Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/3fc86b864e7bb81a56bbbd255862215cc262a1c4-1920x1080.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "7f2d1188d88d",
+      "title": "scosman/pelicans_riding_bicycles",
+      "description": "scosman/pelicans_riding_bicycles I firmly approve of Steve Cosman's efforts to pollute the training set of pelicans riding bicycles. (To be fair, most of the examples I've published count as poisoning too.) Via Hacker News comment Tags: ai, generative-ai, llms, training-data, pelican-riding-a-bicycle",
+      "link": "https://simonwillison.net/2026/Apr/21/scosman/#atom-everything",
+      "pubDate": "2026-04-21T15:54:43.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "31840b09cd4e",
+      "title": "What Paddle doesn't tell you about implementing metered billing",
+      "description": "How to implement calendar-month metered billing on Paddle using zero-value subscriptions, one-time charges, and a homemade invoice grace period. Read more",
+      "link": "https://freek.dev/3075-what-paddle-doesnt-tell-you-about-implementing-metered-billing",
+      "pubDate": "2026-04-21T12:11:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2b1f6bf745d3",
+      "title": "Ubuntu Firewall Setup in Less Than 5 Minutes (Plus One Step That Will Lock You Out)",
+      "description": "Setting up a Virtual Private Server (VPS) without a firewall is asking for trouble. Ideally, you’d have a dedicated security person to handle all of this, but that’s rarely the case. One thing I always do on a fresh Linux server is configure a firewall. It used to be a real headache, but […] The post Ubuntu Firewall Setup in Less Than 5 Minutes (Plus One Step That Will Lock You Out) appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/04/ubuntu-firewall-setup-in-less-than-5-minutes-plus-one-step-that-will-lock-you-out/",
+      "pubDate": "2026-04-21T11:35:54.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "315eaba2838c",
+      "title": "Dark Factories: Rise of the Trycycle",
+      "description": "The following article originally appeared on “Dan Shapiro’s blog” and is being reposted here with the author’s permission. Companies are now producing dark factories—engines that turn specs into shipping software. The implementations can be complex and sometimes involve Mad Max metaphors. But they don’t have to be like that. If you want a five-minute factory, […]",
+      "link": "https://www.oreilly.com/radar/dark-factories-rise-of-the-trycycle/",
+      "pubDate": "2026-04-21T11:24:26.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/image-13.png",
+      "type": "blog"
+    },
+    {
       "id": "a03232c08c17",
       "title": "Socket for Jira Is Now Available",
       "description": "Security findings only matter if organizations can act on them. That usually means getting the right issues into the systems where engineering and security teams already work. Socket for Jira is now available, making it easy to turn Socket alerts into Jira issues and keep remediation work moving as alerts change over time. Teams can create tickets manually from individual alerts or set up automated ticketing rules to create, update, and resolve issues based on activity in Socket. The…",
@@ -28,6 +191,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!yYN1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc43dc6d5-a696-45d5-8407-14c626bc0cc8_1346x692.png",
+      "type": "blog"
+    },
+    {
+      "id": "edc9d8575ea7",
+      "title": "llm-openrouter 0.6",
+      "description": "Release: llm-openrouter 0.6 llm openrouter refresh command for refreshing the list of available models without waiting for the cache to expire. I added this feature so I could try Kimi 2.6 on OpenRouter as soon as it became available there. Here's its pelican - this time as an HTML page because Kimi chose to include an HTML and JavaScript UI to control the animation. Transcript here. Tags: openrouter, llm, llm-release, pelican-riding-a-bicycle, kimi, ai-in-china, llms, ai, generative-ai",
+      "link": "https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything",
+      "pubDate": "2026-04-20T18:00:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -691,6 +869,21 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4bca04028f8e",
+      "title": "🎬 SymfonyLive Paris 2026 : les replays sont en ligne !",
+      "description": "🎉Bonne nouvelle ! Les replays de SymfonyLive Paris 2026 sont maintenant disponibles en ligne ! Vous avez manqué une conférence ? Vous souhaitez revoir votre talk préféré ? Vous pouvez désormais accéder à l’ensemble des sessions et replonger dans deux jours…",
+      "link": "https://symfony.com/blog/symfonylive-paris-2026-les-replays-sont-en-ligne?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-15T15:05:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/Banner-BLOG.png",
       "type": "blog"
     },
     {
