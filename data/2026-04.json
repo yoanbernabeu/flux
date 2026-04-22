@@ -2,6 +2,22 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "9b5e451abb23",
+      "title": "Les Routines Claude Code : un agent de plus qui travaille même quand vous dormez",
+      "description": "Désormais, Claude Code peut exécuter des tâches récurrentes sur le cloud d’Anthropic. Ainsi, votre ordinateur peut être éteint, l’agent tourne quand même. C'est parti pour la découverte !",
+      "link": "https://codecodecoders.substack.com/p/les-routines-claude-code-un-agent",
+      "pubDate": "2026-04-22T07:03:00.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!QMO6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc900e11e-aae1-4785-a749-025b231233f5_1200x630.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "261995fdee7c",
       "title": "#353.src - IA et Java: Le nouvel âge d'or de Java avec Julien Dubois",
       "description": "\"Aujourd'hui, on peut obtenir un résultat extraordinaire à partir du moment où l'on a bien compris quelque chose et que l'on sait l'exprimer clairement. Et ce sont deux choses assez différentes.\" Le D.E.V. de la semaine est Julien Dubois, Java Developer Relations Lead chez Microsoft/GitHub. Julien explore la renaissance de Java dans l'ère de l'IA, où Spring AI, LangChain4J et l'écosystème open source bouleversent l'intégration des LLM. Il partage comment GitHub Copilot et les nouveaux…",

@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "3dbe344b5984",
+      "title": "Quoting Bobby Holley",
+      "description": "As part of our continued collaboration with Anthropic, we had the opportunity to apply an early version of Claude Mythos Preview to Firefox. This week’s release of Firefox 150 includes fixes for 271 vulnerabilities identified during this initial evaluation. [...] Our experience is a hopeful one for teams who shake off the vertigo and get to work. You may need to reprioritize everything else to bring relentless and single-minded focus to the task, but there is light at the end of the tunnel. We…",
+      "link": "https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything",
+      "pubDate": "2026-04-22T05:40:56.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2c96923e2106",
       "title": "Changes to GitHub Copilot Individual plans",
       "description": "Changes to GitHub Copilot Individual plans On the same day as Claude Code's temporary will-they-won't-they $100/month kerfuffle (for the moment, they won't), here's the latest on GitHub Copilot pricing. Unlike Anthropic, GitHub put up an official announcement about their changes, which include tightening usage limits, pausing signups for individual plans (!), restricting Claude Opus 4.7 to the more expensive $39/month \"Pro+\" plan, and dropping the previous Opus models entirely. The key…",
@@ -58,6 +73,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!g9CL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09768bd8-8e5e-43da-802b-85ebdef29965_1257x633.png",
+      "type": "blog"
+    },
+    {
+      "id": "c21187770687",
+      "title": "Opus 4.7 Part 2: Capabilities and Reactions",
+      "description": "Claude Opus 4.7 raises a lot of key model welfare related concerns.",
+      "link": "https://thezvi.substack.com/p/opus-47-part-2-capabilities-and-reactions",
+      "pubDate": "2026-04-21T21:27:15.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!uzQL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f044834-7696-4620-8320-66d5ff25c5b1_958x964.png",
       "type": "blog"
     },
     {
@@ -118,6 +147,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae052abb463b",
+      "title": "Please don’t trust your chatbot for medical advice",
+      "description": "Four separate studies all point in the same direction",
+      "link": "https://garymarcus.substack.com/p/please-dont-trust-your-chatbot-for",
+      "pubDate": "2026-04-21T12:15:09.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!6QOj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a5a379c-b687-46fa-a180-95b24496aa5b_2420x1326.png",
       "type": "blog"
     },
     {
