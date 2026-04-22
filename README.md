@@ -84,9 +84,9 @@ YOUTUBE_API_KEY=votre_clé_ici
 
 **En CI :** ajouter le secret `YOUTUBE_API_KEY` dans Settings > Secrets and variables > Actions du repo GitHub.
 
-## Skill Claude Code : `yoandev-flux`
+## Skill pour agent de code : `yoandev-flux`
 
-Flux est également exposé sous forme de **skill Claude Code** qui permet à n'importe quel agent d'accéder à l'agrégat pour faire de la veille personnalisée, des briefs matinaux et des recherches ad-hoc en langage naturel.
+Flux est également exposé sous forme de **skill** qui permet à n'importe quel agent de code d'accéder à l'agrégat pour faire de la veille personnalisée, des briefs matinaux et des recherches ad-hoc en langage naturel.
 
 ### Installation
 
@@ -116,7 +116,7 @@ Plus de détails dans [`skills/README.md`](./skills/README.md).
 ├── scripts/
 │   └── fetch-feeds.ts      # Script de récupération RSS
 ├── skills/
-│   └── yoandev-flux/       # Skill Claude Code distribuable
+│   └── yoandev-flux/       # Skill distribuable pour agent de code
 ├── src/
 │   ├── components/         # Composants Astro (ArticleCard, SearchBar, CategoryFilter…)
 │   ├── layouts/            # Layout principal

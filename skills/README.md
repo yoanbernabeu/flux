@@ -1,6 +1,6 @@
 # Skills Flux
 
-Skills Claude Code distribuables depuis le projet [Flux](https://flux.yoandev.co).
+Skills distribuables pour agents de code, depuis le projet [Flux](https://flux.yoandev.co).
 
 ## yoandev-flux
 
@@ -17,7 +17,7 @@ Voir [skills.sh](https://skills.sh/) pour plus d'infos sur le CLI.
 ### Prérequis
 
 - `curl` et `jq` dans le `PATH` (installés par défaut sur macOS, `apt install jq` sur Debian/Ubuntu).
-- Un agent compatible Claude Code (ou équivalent) avec un outil de fetch de page web (`WebFetch`, `curl`, etc.).
+- Un agent de code avec un outil de récupération de page web (WebFetch, curl, équivalent).
 
 ### Usage
 

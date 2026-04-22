@@ -1,0 +1,108 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const installCmd = 'npx skills add yoanbernabeu/Flux';
+---
+
+<Layout title="Skill pour agent de code" description="Installer la skill yoandev-flux pour accéder à la veille de Flux directement depuis votre agent de code.">
+  <div class="fade-in-up max-w-2xl mx-auto">
+    <h1 class="text-2xl sm:text-3xl font-bold mb-3">Skill pour agent de code</h1>
+    <p class="text-sm text-zinc-400 mb-8">
+      Utilisez Flux comme source de veille directement dans votre agent de code, en langage naturel.
+    </p>
+
+    <div class="flex flex-col gap-6 text-sm text-zinc-300 leading-relaxed">
+      <section class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-6 flex flex-col gap-4">
+        <h2 class="text-base font-semibold text-white">Installation en une ligne</h2>
+        <p>
+          La skill <code class="px-1.5 py-0.5 rounded bg-zinc-800/80 text-xs text-indigo-300">yoandev-flux</code> se distribue via <a href="https://skills.sh/" target="_blank" rel="noopener noreferrer" class="text-indigo-400 hover:text-indigo-300 underline transition-colors">skills.sh</a>. Dans le répertoire de ton projet :
+        </p>
+        <div class="relative group">
+          <pre class="rounded-lg bg-zinc-950 border border-zinc-800 p-4 pr-14 overflow-x-auto text-xs text-zinc-100"><code id="install-cmd">{installCmd}</code></pre>
+          <button
+            id="copy-install"
+            type="button"
+            class="absolute top-2 right-2 px-2.5 py-1.5 rounded-md bg-zinc-800 hover:bg-zinc-700 text-xs text-zinc-300 hover:text-white transition-colors"
+            aria-label="Copier la commande"
+          >
+            Copier
+          </button>
+        </div>
+        <p class="text-xs text-zinc-500">
+          Prérequis : <code class="px-1 rounded bg-zinc-800/80 text-indigo-300">curl</code> et <code class="px-1 rounded bg-zinc-800/80 text-indigo-300">jq</code> dans le <code class="px-1 rounded bg-zinc-800/80 text-indigo-300">PATH</code> (déjà présents sur macOS, <code class="px-1 rounded bg-zinc-800/80 text-indigo-300">apt install jq</code> sur Debian/Ubuntu).
+        </p>
+      </section>
+
+      <section class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-6 flex flex-col gap-3">
+        <h2 class="text-base font-semibold text-white">À quoi ça sert ?</h2>
+        <p>
+          Une fois installée, la skill donne à ton agent l'accès à l'index de Flux. Tu peux lui demander en langage naturel de la veille, des recherches, des synthèses — il compose tout seul à partir des primitives fournies.
+        </p>
+        <p>
+          Aucun argument à mémoriser, aucune config à remplir. Tu parles, l'agent fait.
+        </p>
+      </section>
+
+      <section class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-6 flex flex-col gap-3">
+        <h2 class="text-base font-semibold text-white">Exemples de prompts</h2>
+        <ul class="flex flex-col gap-2.5 list-none">
+          <li class="rounded-lg bg-zinc-950/60 border border-zinc-800/60 px-4 py-3">
+            <span class="text-zinc-400">»</span> Fais-moi ma newsletter du matin sur l'IA, Symfony et le DevOps.
+          </li>
+          <li class="rounded-lg bg-zinc-950/60 border border-zinc-800/60 px-4 py-3">
+            <span class="text-zinc-400">»</span> Qu'est-ce qui s'est passé cette semaine en tech francophone ?
+          </li>
+          <li class="rounded-lg bg-zinc-950/60 border border-zinc-800/60 px-4 py-3">
+            <span class="text-zinc-400">»</span> Trouve-moi des articles récents sur Rust.
+          </li>
+          <li class="rounded-lg bg-zinc-950/60 border border-zinc-800/60 px-4 py-3">
+            <span class="text-zinc-400">»</span> Résume-moi cet article : &lt;url&gt;
+          </li>
+          <li class="rounded-lg bg-zinc-950/60 border border-zinc-800/60 px-4 py-3">
+            <span class="text-zinc-400">»</span> Quelles sont les sources françaises qui publient sur le DevOps ?
+          </li>
+        </ul>
+      </section>
+
+      <section class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-6 flex flex-col gap-3">
+        <h2 class="text-base font-semibold text-white">Comment ça marche sous le capot ?</h2>
+        <p>
+          La skill expose un petit script bash (<code class="px-1 rounded bg-zinc-800/80 text-xs text-indigo-300">flux-discover.sh</code>) qui interroge l'index public de Flux via <code class="px-1 rounded bg-zinc-800/80 text-xs text-indigo-300">curl</code> et <code class="px-1 rounded bg-zinc-800/80 text-xs text-indigo-300">jq</code>. Il couvre la découverte : lister les derniers articles, chercher par mot-clé, lister les sources.
+        </p>
+        <p>
+          Pour lire le contenu complet d'un article, l'agent va fetcher l'URL d'origine avec son propre outil de récupération de page web. Flux ne stocke pas le contenu, uniquement les métadonnées.
+        </p>
+        <p>
+          Le filtrage par thème et la synthèse sont faits par l'intelligence du modèle, pas par des arguments de ligne de commande. C'est volontaire : ça reste souple, naturel, et extensible.
+        </p>
+      </section>
+
+      <section class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-6 flex flex-col gap-3">
+        <h2 class="text-base font-semibold text-white">Le code</h2>
+        <p>
+          La skill est versionnée avec le reste du projet Flux, dans le dossier <code class="px-1 rounded bg-zinc-800/80 text-xs text-indigo-300">skills/yoandev-flux/</code>.
+        </p>
+        <p>
+          <a href="https://github.com/yoanbernabeu/Flux/tree/main/skills/yoandev-flux" target="_blank" rel="noopener noreferrer" class="text-indigo-400 hover:text-indigo-300 underline transition-colors">Voir le code sur GitHub →</a>
+        </p>
+      </section>
+    </div>
+  </div>
+</Layout>
+
+<script is:inline define:vars={{ installCmd }}>
+  document.addEventListener('astro:page-load', () => {
+    const btn = document.getElementById('copy-install');
+    if (!btn) return;
+    btn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(installCmd);
+        const original = btn.textContent;
+        btn.textContent = 'Copié !';
+        setTimeout(() => { btn.textContent = original; }, 1500);
+      } catch {
+        // ignore clipboard errors silently
+      }
+    });
+  });
+</script>
