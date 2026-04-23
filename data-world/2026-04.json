@@ -16,6 +16,20 @@
       "type": "blog"
     },
     {
+      "id": "4b8917b825c7",
+      "title": "Opus 4.7 Part 3: Model Welfare",
+      "description": "It is thanks to Anthropic that we get to have this discussion in the first place.",
+      "link": "https://thezvi.substack.com/p/opus-47-part-3-model-welfare",
+      "pubDate": "2026-04-22T21:39:05.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!wbx8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed6f2b04-b897-40ae-a9fa-3895a52bf381_1024x559.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "0049267e5d2d",
       "title": "Community Corner: The AI Refactor with Kumuda Sreenivasa",
       "description": "In this episode, Scott talks Kumuda Sreenivasa about her talk on using AI to help with refactoring/replacing legacy system that she’s be presenting at JStek 2026. Links: Our Discord – https://discord.gg/aMTxunVx Buy our shirts – https://store.phparch.com/products/community-corner-podcast-t-shirt Kumuda’s Links: LinkedIn – https://www.linkedin.com/in/kumudas/ Scott’s Links: Website – https://scott.keck-warren.com/ Bluesky – https://bsky.app/profile/scottkeckwarren.bsky.social LinkedIn –…",
@@ -46,6 +60,20 @@
       "type": "blog"
     },
     {
+      "id": "4383e7d94191",
+      "title": "ChatGPT doesn’t know its whisk from its elbow ",
+      "description": "Medical illustrators can rest easy",
+      "link": "https://garymarcus.substack.com/p/chatgpt-doesnt-know-its-whisk-from",
+      "pubDate": "2026-04-22T16:08:57.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!oonk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b2ff218-91fb-4b42-a216-00a9454311b2_1536x1024.png",
+      "type": "blog"
+    },
+    {
       "id": "307a9ea81792",
       "title": "Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions",
       "description": "Docker alerted Socket to malicious images pushed to the official checkmarx/kics Docker Hub repository after internal monitoring flagged suspicious new activity around KICS image tags. Our investigation found that attackers appear to have overwritten existing tags, including v2.1.20 and alpine, while also introducing a new v2.1.21 tag that does not correspond to a legitimate upstream release. Analysis of the poisoned image indicates that the bundled KICS binary was modified to include data…",
@@ -58,6 +86,20 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/eb4ffbc6d3a0a1af87022b7f3d13ed7dcbafe24c-600x497.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "a22b5ec1726e",
+      "title": "ChatGPT's “powerful new image engine”",
+      "description": "Regurgitating ≠ understanding",
+      "link": "https://garymarcus.substack.com/p/chatgpts-powerful-new-image-engine",
+      "pubDate": "2026-04-22T14:43:20.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!NG-h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc5437e6-0199-47a1-a659-44104156ce50_1536x1024.png",
       "type": "blog"
     },
     {
