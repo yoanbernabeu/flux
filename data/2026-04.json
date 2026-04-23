@@ -2,6 +2,38 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "3006c9ee0c41",
+      "title": "CSS & rythme vertical pour le texte, les images et les tableaux",
+      "description": "Le rythme vertical structure les lignes selon un espacement régulier de haut en bas. Il permet de guider l’œil de manière fluide et prévisible. Grâce à l’unité CSS rlh, ce rythme est simple à mettre en place pour le texte1. Mais les illustrations et les tableaux peuvent perturber la mise en page. Le typographe amateur en moi aspire à suivre la sagesse de Bringhurst : Les titres, intertitres, citations, notes de bas de page, illustrations, légendes et autres intrusions dans le texte créent des…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-css-rythme-vertical",
+      "pubDate": "2026-04-22T19:48:10.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/vertical-rhythm/text@1x.17b2e8512acd85.png",
+      "type": "blog"
+    },
+    {
+      "id": "c5b0631755b5",
+      "title": "DevoxxFR 2026 - Récap du mercredi (jour 1)",
+      "description": "Les résumés des 3 jours de DevoxxFR 2026 DevoxxFR - Récap du mercredi (jour 1) TODO DevoxxFR - Récap du jeudi (jour 2) TODO DevoxxFR - Récap du vendredi (jour 3) Premier jour de DevoxxFR 2026 C’est reparti pour DevoxxFR, avec un mercredi bien dense, orienté IA le matin, puis des formats plus diversifiés l’après-midi. Je pose ici mon récap “à chaud” du jour 1. L’IA au service du bien commun : agir avec raison dans l’incertain Laurence Devillers (Sorbonne Université / CNRS) a ouvert la matinée…",
+      "link": "https://blog.zwindler.fr/2026/04/22/devoxxfr-2026-recap-jour-1/",
+      "pubDate": "2026-04-22T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/04/devoxxfr-ouverture.webp",
+      "type": "blog"
+    },
+    {
       "id": "9b5e451abb23",
       "title": "Les Routines Claude Code : un agent de plus qui travaille même quand vous dormez",
       "description": "Désormais, Claude Code peut exécuter des tâches récurrentes sur le cloud d’Anthropic. Ainsi, votre ordinateur peut être éteint, l’agent tourne quand même. C'est parti pour la découverte !",
@@ -34,6 +66,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/8f818c9f-25fd-4777-b6bf-f195d6c36f38.mp3?_=1776772895",
       "duration": "57:32"
+    },
+    {
+      "id": "12321c78f00a",
+      "title": "L'IA accélère la valeur et les erreurs",
+      "description": "L’IA permet de livrer plus vite, même parfois beaucoup plus vite. Mais livrer vite, ce n’est pas sans conséquences. Car si l’IA permet d’aller plus vite, elle accentue aussi les erreurs et les problèmes qui vont avec. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Un mauvais choix d’architecture, une logique métier mal comprise, une dette technique ignorée: tout cela va…",
+      "link": "https://www.jdecool.fr/blog/2026/04/22/l-ia-accelere-la-valeur-et-les-erreurs.html",
+      "pubDate": "2026-04-21T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "b34e71dca51c",
