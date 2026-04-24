@@ -2,6 +2,214 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "c8852cc459c6",
+      "title": "It's a big one",
+      "description": "This week's edition of my email newsletter (aka content from this blog delivered to your inbox) features 4 pelicans riding bicycles, 1 possum on an e-scooter, up to 5 raccoons with ham radios hiding in crowds, 5 blog posts, 8 links, 3 quotes and a new chapter of my Agentic Engineering Patterns guide. Tags: newsletter",
+      "link": "https://simonwillison.net/2026/Apr/24/weekly/#atom-everything",
+      "pubDate": "2026-04-24T04:09:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a9010abe1031",
+      "title": "russellromney/honker",
+      "description": "russellromney/honker \"Postgres NOTIFY/LISTEN semantics\" for SQLite, implemented as a Rust SQLite extension and various language bindings to help make use of it. The design of this looks very solid. It lets you write Python code for queues that looks like this: import honker db = honker.open(\"app.db\") emails = db.queue(\"emails\") emails.enqueue({\"to\": \"alice@example.com\"}) # Consume (in a worker process) async for job in emails.claim(\"worker-1\"): send(job.payload) job.ack() And Kafka-style…",
+      "link": "https://simonwillison.net/2026/Apr/24/honker/#atom-everything",
+      "pubDate": "2026-04-24T01:50:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ca7b61b9b38",
+      "title": "An update on recent Claude Code quality reports",
+      "description": "An update on recent Claude Code quality reports It turns out the high volume of complaints that Claude Code was providing worse quality results over the past two months was grounded in real problems. The models themselves were not to blame, but three separate issues in the Claude Code harness caused complex but material problems which directly affected users. Anthropic's postmortem describes these in detail. This one in particular stood out to me: On March 26, we shipped a change to clear…",
+      "link": "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything",
+      "pubDate": "2026-04-24T01:31:25.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "48228f55388d",
+      "title": "The PHP Podcast 2026.04.23",
+      "description": "🎙️ PHP Podcast – April 23, 2026 Hosts: Eric Van Johnson & John Duration: ~1 hour 10 minutes 📋 Episode Summary Eric and John return to the podcast after a few weeks away, discussing everything from Disneyland trips and bowling tournaments to EAV database nightmares, editor wars (Vim vs. PHPStorm), AI coding tools, and the […] The post The PHP Podcast 2026.04.23 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-04-23/",
+      "pubDate": "2026-04-24T01:30:41.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/04/The-PHP-Podcast-2026.04.23.png",
+      "type": "blog"
+    },
+    {
+      "id": "83322eb5a026",
+      "title": "Serving the For You feed",
+      "description": "Serving the For You feed One of Bluesky's most interesting features is that anyone can run their own custom \"feed\" implementation and make it available to other users - effectively enabling custom algorithms that can use any mechanism they like to recommend posts. spacecowboy runs the For You Feed, used by around 72,000 people. This guest post on the AT Protocol blog explains how it works. The architecture is fascinating. The feed is served by a single Go process using SQLite on a \"gaming\" PC…",
+      "link": "https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything",
+      "pubDate": "2026-04-24T01:08:17.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bf7cce72b3a4",
+      "title": "Top AI Labs Share an Agent Memory Trick Most Miss",
+      "description": "...Microsoft, Google, Meta all do it.",
+      "link": "https://blog.dailydoseofds.com/p/top-ai-labs-share-an-agent-memory",
+      "pubDate": "2026-04-23T23:20:32.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Y4rT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8361785a-0793-49f9-b00b-f20761e64311_1200x1119.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "54fc3df44693",
+      "title": "Extract PDF text in your browser with LiteParse for the web",
+      "description": "LlamaIndex have a most excellent open source project called LiteParse, which provides a Node.js CLI tool for extracting text from PDFs. I got a version of LiteParse working entirely in the browser, using most of the same libraries that LiteParse uses to run in Node.js. Spatial text parsing Refreshingly, LiteParse doesn't use AI models to do what it does: it's good old-fashioned PDF parsing, falling back to Tesseract OCR (or other pluggable OCR engines) for PDFs that contain images of text…",
+      "link": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
+      "pubDate": "2026-04-23T21:54:24.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c8386b24fe39",
+      "title": "Introducing Data Exports",
+      "description": "Security teams often need alert data in their own infrastructure, alongside the rest of their security telemetry. We're excited to share that Socket alert data can now flow directly into your own cloud storage. Today we're launching Data Exports, a new integration that automatically writes alert changes from Socket to a bucket you own in AWS S3, Google Cloud Storage, or Azure Blob Storage. Data Exports lets you to choose the format that fits your downstream systems, and decide whether you want…",
+      "link": "https://socket.dev/blog/introducing-data-exports?utm_medium=feed",
+      "pubDate": "2026-04-23T20:58:21.388Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/32a4059fa7cd922cc431c52a6d53a96e38f9d469-1218x348.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "6db84ae4c270",
+      "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+      "description": "GPT-5.5 is out. It's available in OpenAI Codex and is rolling out to paid ChatGPT subscribers. I've had some preview access and found it to be a fast, effective and highly capable model. As is usually the case these days, it's hard to put into words what's good about it - I ask it to build things and it builds exactly what I ask for! There's one notable omission from today's release - the API: API deployments require different safeguards and we are working closely with partners and customers on…",
+      "link": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
+      "pubDate": "2026-04-23T19:59:47.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "96d8bcc29c05",
+      "title": "★ Generate Apple and Google Wallet passes from Laravel",
+      "description": "A mobile pass is that thing in your iPhone's Wallet app. A boarding pass, a concert ticket, a coffee loyalty card, a gym membership. Apple calls them passes. Google calls them objects. Both Wallet apps let you generate them, hand them out, and push live updates to the copy that's already on someone's device. We just released Laravel Mobile Pass, a package that lets you generate those Apple and Google passes from a Laravel app and send updates to already issues passes. Together with the package,…",
+      "link": "https://freek.dev/3108-generate-apple-and-google-wallet-passes-from-laravel",
+      "pubDate": "2026-04-23T14:00:19.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1336fec95b38",
+      "title": "Quoting Maggie Appleton",
+      "description": "[...] if you ever needed another reason to learn in public by digital gardening or podcasting or streaming or whathaveyou, add on that people will assume you’re more competent than you are. This will get you invites to very cool exclusive events filled with high-achieving, interesting people, even though you have no right to be there. A+ side benefit. &mdash; Maggie Appleton, Gathering Structures (via) Tags: blogging, maggie-appleton",
+      "link": "https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything",
+      "pubDate": "2026-04-23T13:35:37.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e28762d6e192",
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "description": "Socket researchers discovered that the Bitwarden CLI was compromised as part of the ongoing Checkmarx supply chain campaign. The open source password manager serves more than 10 million users and over 50,000 businesses, and ranks among among the top three password managers by enterprise adoption. The affected package version appears to be @bitwarden/cli2026.4.0, and the malicious code was published in bw1.js, a file included in the package contents. The attack appears to have leveraged a…",
+      "link": "https://socket.dev/blog/bitwarden-cli-compromised?utm_medium=feed",
+      "pubDate": "2026-04-23T13:07:13.192Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba1c083f39b0",
+      "title": "In Praise of --dry-run",
+      "description": "Henrik Warne makes a good case for adding a --dry-run mode to commands that change state. It gives you a fast, safe way to verify configuration, inspect behavior, and test workflows without side effects. Read more",
+      "link": "https://freek.dev/3077-in-praise-of-dry-run",
+      "pubDate": "2026-04-23T12:30:27.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "11aaf869d2bf",
+      "title": "Behavioral Credentials: Why Static Authorization Fails Autonomous Agents",
+      "description": "Enterprise AI governance still authorizes agents as if they were stable software artifacts.They are not. An enterprise deploys a LangChain-based research agent to analyze market trends and draft internal briefs. During preproduction review, the system behaves within acceptable bounds: It routes queries to approved data sources, expresses uncertainty appropriately in ambiguous cases, and maintains source […]",
+      "link": "https://www.oreilly.com/radar/behavioral-credentials-why-static-authorization-fails-autonomous-agents/",
+      "pubDate": "2026-04-23T11:14:51.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a31466a2b8db",
       "title": "Claude Opus 4.7 Isn't a Drop-in Replacement for 4.6",
       "description": "The new xhigh effort level and adaptive thinking",
