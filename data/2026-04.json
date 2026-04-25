@@ -2,6 +2,73 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "7fdc38ee3387",
+      "title": "L'économie cachée des LLM",
+      "description": "Combien coûte vraiment un million de tokens quand on ne paie plus l’API, mais l’infrastructure qui les produit ? En partant du prefill, du decode, du batching, du KV cache et des modèles MoE, on estime combien de tokens une infrastructure GPU peut générer.",
+      "link": "https://blog.octo.com/l'economie-cachee-des-llm",
+      "pubDate": "2026-04-24T14:06:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c0defadc5f04",
+      "title": "DevoxxFR 2026 - Récap du vendredi (jour 3)",
+      "description": "Les résumés des 3 jours de DevoxxFR 2026 DevoxxFR - Récap du mercredi (jour 1) DevoxxFR - Récap du jeudi (jour 2) DevoxxFR - Récap du vendredi (jour 3) Troisième jour de DevoxxFR 2026 Dernier jour, et surtout pour moi : c’était le créneau de notre talk. Entre le “petit” stress avant de monter sur scène, la tension des démos live, puis le relâchement après coup, cette journée a eu une saveur différente. Moins de talks que les deux jours précédents dans mon programme, et je suis un peu rincé dans…",
+      "link": "https://blog.zwindler.fr/2026/04/24/devoxxfr-2026-recap-jour-3/",
+      "pubDate": "2026-04-24T14:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/04/limits-requests.webp",
+      "type": "blog"
+    },
+    {
+      "id": "92523ea7ffc3",
+      "title": "L’IA, ce nouveau membre invisible de vos équipes : catalyseur ou perturbateur ?",
+      "description": "L’IA s’invite dans nos équipes : catalyseur ou perturbateur ? Entre gains de productivité, évolution des rôles et dépendance, cet article décrypte 13 interviews menées chez OCTO. Découvrez les impacts sur l'autonomie, les défis éthiques et la santé mentale pour bâtir une stratégie d'adoption durable et centrée sur l'humain.",
+      "link": "https://blog.octo.com/l'ia-ce-nouveau-membre-invisible-de-vos-equipes--catalyseur-ou-perturbateur",
+      "pubDate": "2026-04-24T09:03:32.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2a223d0f6aed",
+      "title": "Bitwarden CLI compromis : retour sur une attaque supply chain qui vise (encore) les développeurs",
+      "description": "Le 22 avril 2026, entre 17h57 et 19h30 (heure de l'Est) — soit une fenêtre d'un peu plus d'une heure et demie — une version piégée du paquet npm @bitwarden/cli@2026.4.0 a été distribuée sur le…",
+      "link": "https://yoandev.co/patreon/patreon-156413402-bitwarden-cli-compromis-retour-sur-une-attaque-supply-chain",
+      "pubDate": "2026-04-24T06:45:14.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "610e6c3b4f2a",
       "title": "Flipbook : vers un Web sans fin ni fond ?",
       "description": "Flipbook.page présente un site web sans contenu prédéfini, où des images sont générées en temps réel par une IA. Bien que l'expérience soit visuellement captivante, elle soulève des questions sur le futur du Web, mettant en avant un accès à l'information réinventé, sans structure ni contenus préalablement établis. L’article Flipbook : vers un Web sans fin ni fond ? est apparu en premier sur OlivierSauvage.com.",
@@ -127,6 +194,23 @@
         "Programmation"
       ],
       "image": "https://blog.zwindler.fr/2026/04/devoxxfr-ouverture.webp",
+      "type": "blog"
+    },
+    {
+      "id": "8a1c73ee4471",
+      "title": "La Duck Conf 2026 - Architect Paradox : Pourquoi personne ne veut parler aux architectes",
+      "description": "Duck Conf 2026 : Architect Paradox",
+      "link": "https://blog.octo.com/la-duck-conf-2026-architect-paradox--pourquoi-personne-ne-veut-parler-aux-architectes",
+      "pubDate": "2026-04-22T10:19:43.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

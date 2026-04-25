@@ -2,6 +2,139 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "76a5f876fdc3",
+      "title": "GPT-5.5 prompting guide",
+      "description": "GPT-5.5 prompting guide Now that GPT-5.5 is available in the API, OpenAI have released a wealth of useful tips on how best to prompt the new model. Here's a neat trick they recommend for applications that might spend considerable time thinking before returning a user-visible response: Before any tool calls for a multi-step task, send a short user-visible update that acknowledges the request and states the first step. Keep it to one or two sentences. I've already noticed their Codex app doing…",
+      "link": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
+      "pubDate": "2026-04-25T04:13:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8a9a689550fb",
+      "title": "73 Open VSX Sleeper Extensions Linked to GlassWorm Show New Malware Activations",
+      "description": "The GlassWorm campaign targeting Open VSX continues to escalate. Socket is now tracking a new cluster of 73 impersonation extensions connected to the same sleeper-extension activity reported in March 2026. Beginning in April 2026, and continuing as of this writing, additional cloned versions of popular code extensions have appeared on the Open VSX marketplace. These extensions did not initially contain malware, but they were published by newly created GitHub accounts with only one or two public…",
+      "link": "https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm?utm_medium=feed",
+      "pubDate": "2026-04-25T00:49:01.146Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/5b8d3d6c1d2817e53d228f3ea92cd2ec098a9d1d-2048x905.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "c19e047960b0",
+      "title": "llm 0.31",
+      "description": "Release: llm 0.31 New GPT-5.5 OpenAI model: llm -m gpt-5.5. #1418 New option to set the text verbosity level for GPT-5+ OpenAI models: -o verbosity low. Values are low, medium, high. New option for setting the image detail level used for image attachments to OpenAI models: -o image_detail low - values are low, high and auto, and GPT-5.4 and 5.5 also accept original. Models listed in extra-openai-models.yaml are now also registered as asynchronous. #1395 Tags: gpt, openai, llm",
+      "link": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
+      "pubDate": "2026-04-24T23:35:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dbab8fd935f6",
+      "title": "The people do not yearn for automation",
+      "description": "The people do not yearn for automation This written and video essay by Nilay Patel explores why AI is unpopular with the general public even as usage numbers for ChatGPT continue to skyrocket. It’s a superb piece of commentary, and something I expect I’ll be thinking about for a long time to come. Nilay’s core idea is that people afflicted with “software brain” - who see the world as something to be automated as much as possible, and attempt to model everything in terms of information flows and…",
+      "link": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+      "pubDate": "2026-04-24T22:38:49.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c25fe2fa9861",
+      "title": "8 Techniques to Generate Better LLM Outputs",
+      "description": "...explained visually with usage.",
+      "link": "https://blog.dailydoseofds.com/p/8-techniques-to-generate-better-llm",
+      "pubDate": "2026-04-24T18:30:29.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!0B5B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b6378dc-5ed8-4809-97e1-ef960d704367_1283x1065.png",
+      "type": "blog"
+    },
+    {
+      "id": "eb89a18f8e1e",
+      "title": "Introducing Reachability for PHP",
+      "description": "Security teams are already struggling to keep pace with the volume of vulnerability disclosures. Every week brings more CVEs, and the arrival of AI-assisted vulnerability research is only going to push that number higher. Teams that can't tell which disclosures actually matter for their application will fall behind quickly. PHP carries more of this weight than most ecosystems. Composer ranks third for CVE volume among package ecosystems, behind only Maven and npm, and PHP still runs a…",
+      "link": "https://socket.dev/blog/reachability-for-php?utm_medium=feed",
+      "pubDate": "2026-04-24T14:42:17.509Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/ce86b1043c156083e30f0e927d283babe452b515-1920x1280.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "46a75e3fa457",
+      "title": "Enhancing our API for better agentic consumption",
+      "description": "We've shipped several improvements to the Oh Dear API to make it work better with AI coding agents. The updates include historical check runs, dashboard links in every response, and markdown-friendly documentation. Read more",
+      "link": "https://freek.dev/3062-enhancing-our-api-for-better-agentic-consumption",
+      "pubDate": "2026-04-24T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fa228a76f4ec",
+      "title": "Emergency Pedagogical Design: How Programming Instructors Are Scrambling to Adapt to GenAI",
+      "description": "ChatGPT has been publicly available for over three years now, and generative AI is woven into the tools students use every day: web search, word processors, code editors. You might assume that by now, most programming instructors have figured out how to handle it. But when my collaborators and I went looking for computing instructors […]",
+      "link": "https://www.oreilly.com/radar/emergency-pedagogical-design-how-programming-instructors-are-scrambling-to-adapt-to-genai/",
+      "pubDate": "2026-04-24T11:23:42.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/image-12.png",
+      "type": "blog"
+    },
+    {
+      "id": "f6d35180f167",
+      "title": "New SymfonyCasts Course: Doctrine Inheritance - Class Hierarchy in the Database",
+      "description": "Modeling inheritance in your code is natural - but how does that translate to your database? We're excited to announce a new SymfonyCasts course: 👉 Doctrine Inheritance: Class Hierarchy in the Database In this course, we explore how Doctrine ORM handles…",
+      "link": "https://symfony.com/blog/new-symfonycasts-course-doctrine-inheritance-class-hierarchy-in-the-database?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-24T07:15:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "173507185225",
       "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
       "description": "Chinese AI lab DeepSeek's last model release was V3.2 (and V3.2 Speciale) last December. They just dropped the first of their hotly anticipated V4 series in the shape of two preview models, DeepSeek-V4-Pro and DeepSeek-V4-Flash. Both models are 1 million token context Mixture of Experts. Pro is 1.6T total parameters, 49B active. Flash is 284B total, 13B active. They're using the standard MIT license. I think this makes DeepSeek-V4-Pro the new largest open weights model. It's larger than Kimi…",
