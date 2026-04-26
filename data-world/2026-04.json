@@ -2,6 +2,65 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "90174b069fd9",
+      "title": "Reinforcement Learning Nanodegree",
+      "description": "...covered with implementation.",
+      "link": "https://blog.dailydoseofds.com/p/reinforcement-learning-nanodegree",
+      "pubDate": "2026-04-25T20:38:40.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!u3xe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feac10488-6a60-4f2f-a4b0-b5b0c28847da_844x588.png",
+      "type": "blog"
+    },
+    {
+      "id": "1fee9e330493",
+      "title": "WHY ARE YOU LIKE THIS",
+      "description": "@scottjla on Twitter in reply to my pelican riding a bicycle benchmark: I feel like we need to stack these tests now I checked to confirm that the model (ChatGPT Images 2.0) added the \"WHY ARE YOU LIKE THIS\" sign of its own accord and it did - the prompt Scott used was: Create an image of a horse riding an astronaut, where the astronaut is riding a pelican that is riding a bicycle. It looks very chaotic but they all just manage to balance on top of each other Tags: text-to-image,…",
+      "link": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
+      "pubDate": "2026-04-25T16:44:01.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "71c02c2103e4",
+      "title": "Understanding Traceroute",
+      "description": "A clear walkthrough of how traceroute works under the hood. It explains the TTL trick, the ICMP replies routers send back, and even rebuilds the core idea in Rust. Read more",
+      "link": "https://freek.dev/3079-understanding-traceroute",
+      "pubDate": "2026-04-25T12:30:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6bafb810acd4",
+      "title": "Quoting Romain Huet",
+      "description": "Since GPT-5.4, we’ve unified Codex and the main model into a single system, so there’s no separate coding line anymore. GPT-5.5 takes this further, with strong gains in agentic coding, computer use, and any task on a computer. &mdash; Romain Huet, confirming OpenAI won't release a GPT-5.5-Codex model Tags: generative-ai, gpt, openai, ai, llms",
+      "link": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
+      "pubDate": "2026-04-25T12:06:55.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "76a5f876fdc3",
       "title": "GPT-5.5 prompting guide",
       "description": "GPT-5.5 prompting guide Now that GPT-5.5 is available in the API, OpenAI have released a wealth of useful tips on how best to prompt the new model. Here's a neat trick they recommend for applications that might spend considerable time thinking before returning a user-visible response: Before any tool calls for a multi-step task, send a short user-visible update that acknowledges the request and states the first step. Keep it to one or two sentences. I've already noticed their Codex app doing…",

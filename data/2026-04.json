@@ -2,6 +2,38 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "b5678d7ca519",
+      "title": "Configurer votre éditeur Zed sur le bout des doigts",
+      "description": "Cela fait maintenant plus d’un an que j’utilise cet éditeur en remplacement de ce bon vieux Sublime Text qui fait décidément beaucoup trop de sur-place. [...]",
+      "link": "https://blog.seboss666.info/2026/04/configurer-votre-editeur-zed-sur-le-bout-des-doigts/",
+      "pubDate": "2026-04-25T16:25:38.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2026/04/z_for_zorro_sized.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "08d05cd2ccb1",
+      "title": "Devoxx France 2026 - Bilan",
+      "description": "Cette année encore (comme les deux années précédentes), j’étais présent à Devoxx France. Cette fois-ci, pas de talk pour moi, j’étais donc en “simple visite”, ce qui enlève un élément de stress (ce n’est pas plus mal non plus). J’ai donc bien profité des trois jours, entre les différents talks, les discussions animées, les rencontres inattendues. Je vous raconte tout ça.",
+      "link": "https://codeka.io/2026/04/25/devoxx-france-2026-bilan/",
+      "pubDate": "2026-04-25T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/04/25/devoxx-france-2026-bilan/cover_hu_97ac4ca26c325055.webp",
+      "type": "blog"
+    },
+    {
       "id": "7fdc38ee3387",
       "title": "L'économie cachée des LLM",
       "description": "Combien coûte vraiment un million de tokens quand on ne paie plus l’API, mais l’infrastructure qui les produit ? En partant du prefill, du decode, du batching, du KV cache et des modèles MoE, on estime combien de tokens une infrastructure GPU peut générer.",
