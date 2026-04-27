@@ -85,6 +85,22 @@
       "type": "blog"
     },
     {
+      "id": "4513036fdc99",
+      "title": "Les 7 nouveautés tech de la semaine #17 à ne pas manquer",
+      "description": "Anthropic sort un post-mortem sur Claude Code, Google normalise le design system pour l’IA, Zed passe aux agents parallèles et bien plus : ce qu’il ne fallait pas rater cette semaine.",
+      "link": "https://codecodecoders.substack.com/p/les-7-nouveautes-tech-de-la-semaine-0cc",
+      "pubDate": "2026-04-24T09:46:10.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!M9-X!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcaf0f1b1-5986-47db-bc9f-c066f5bc77a8_1024x608.png",
+      "type": "blog"
+    },
+    {
       "id": "92523ea7ffc3",
       "title": "L’IA, ce nouveau membre invisible de vos équipes : catalyseur ou perturbateur ?",
       "description": "L’IA s’invite dans nos équipes : catalyseur ou perturbateur ? Entre gains de productivité, évolution des rôles et dépendance, cet article décrypte 13 interviews menées chez OCTO. Découvrez les impacts sur l'autonomie, les défis éthiques et la santé mentale pour bâtir une stratégie d'adoption durable et centrée sur l'humain.",

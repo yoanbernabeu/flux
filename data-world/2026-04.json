@@ -180,6 +180,20 @@
       "type": "blog"
     },
     {
+      "id": "b07671b841c7",
+      "title": "Monthly Roundup #41: April 2025",
+      "description": "AI continue to accelerate and dominate the schedule, which is why this is a bit late, but we do occasionally need to pay our respects to the Goddess of Everything Else.",
+      "link": "https://thezvi.substack.com/p/monthly-roundup-41-april-2025",
+      "pubDate": "2026-04-24T13:15:46.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!KtPT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F271b43be-2755-4a61-b0ad-b964a23de847_900x584.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "46a75e3fa457",
       "title": "Enhancing our API for better agentic consumption",
       "description": "We've shipped several improvements to the Oh Dear API to make it work better with AI coding agents. The updates include historical check runs, dashboard links in every response, and markdown-friendly documentation. Read more",
