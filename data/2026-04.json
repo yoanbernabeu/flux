@@ -2,6 +2,24 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "83c97a2cf847",
+      "title": "Ember rend l'observabilité de FrankenPHP RIDICULEMENT simple",
+      "description": "❤️ Soutiens la chaîne sur Patreon : https://www.patreon.com/YoanDev 🔥 Et si un seul outil te donnait à la fois un dashboard temps réel ET une intégration Grafana pour ton FrankenPHP ? Dans cette vidéo, je te présente Ember et ses deux visages qui couvrent toute ton observabilité. D'un côté, un TUI superbe qui se branche sur l'admin API de Caddy et te montre EN DIRECT ce qui se passe dans ton FrankenPHP : workers PHP, requêtes, métriques, logs, TLS… Le tout dans ton terminal, sans config. De…",
+      "link": "https://www.youtube.com/watch?v=idUuIId2aZA",
+      "pubDate": "2026-04-26T16:00:59.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/idUuIId2aZA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "idUuIId2aZA"
+    },
+    {
       "id": "b5678d7ca519",
       "title": "Configurer votre éditeur Zed sur le bout des doigts",
       "description": "Cela fait maintenant plus d’un an que j’utilise cet éditeur en remplacement de ce bon vieux Sublime Text qui fait décidément beaucoup trop de sur-place. [...]",

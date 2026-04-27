@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "31fae699c3dc",
+      "title": "Porting Mac OS X to the Nintendo Wii",
+      "description": "An absurd and very fun technical deep dive into getting Mac OS X 10.0 running natively on a Nintendo Wii. It covers the hardware investigation, boot process, kernel patching, and driver work needed to pull it off. Read more",
+      "link": "https://freek.dev/3081-porting-mac-os-x-to-the-nintendo-wii",
+      "pubDate": "2026-04-26T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "deb48760c268",
+      "title": "A Week of Symfony #1008 (April 20–26, 2026)",
+      "description": "This week, SymfonyCasts announced a new course on Doctrine inheritance. In addition, we published the schedule for the SymfonyDay Montreal 2026 conference. Lastly, we continued polishing the new features of the upcoming Symfony 8.1 version, ahead of its release…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1008-april-20-26-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-26T07:17:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "90174b069fd9",
       "title": "Reinforcement Learning Nanodegree",
       "description": "...covered with implementation.",
