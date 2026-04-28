@@ -2,6 +2,103 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "71e2693cb3e4",
+      "title": "Specification-Driven Development : du Vibe Coding à l’Agentic Engineering",
+      "description": "Apparu en février 2025, le terme Vibe Coding a fait l’objet d’une hype sans précédent. Si l’on en croyait certains",
+      "link": "https://blog.zenika.com/2026/04/27/specification-driven-development-du-vibe-coding-a-lagentic-engineering/",
+      "pubDate": "2026-04-27T14:32:26.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/04/image-22.png?resize=800%2C437&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "e9a6e0daa81c",
+      "title": "Agent Development Kit 2.0, ADK-java 1,1 et Go 1.0 🚀",
+      "description": "La grosse nouvelle de la fin mars dans le monde du développement d’agent IA vient de Google avec les releases",
+      "link": "https://blog.zenika.com/2026/04/27/agent-development-kit-2-0-adk-java-11-et-go-1-0-%f0%9f%9a%80/",
+      "pubDate": "2026-04-27T14:12:50.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2728.png",
+      "type": "blog"
+    },
+    {
+      "id": "af5531cdac26",
+      "title": "47,5 % d’économie Cloud : retour d’expérience sur l’optimisation de la plateforme Mercure.rocks",
+      "description": "Fournir un service managé haute performance et temps réel comme Mercure.rocks exige une infrastructure robuste. Face à la croissance rapide de notre base d’utilisateurs, nous avons souhaité reprendre le contrôle sur notre consommation de ressources Cloud : nous avons donc passé notre infra au microscope. L’objectif ? Optimiser l’usage de nos ressources et réduire notre […] L’article 47,5 % d’économie Cloud : retour d’expérience sur l’optimisation de la plateforme Mercure.rocks est apparu en…",
+      "link": "https://les-tilleuls.coop/blog/economie-cloud-retour-dexperience-sur-loptimisation-de-la-plateforme-mercure-rocks",
+      "pubDate": "2026-04-27T13:07:20.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/cloud-1-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "21ad7aede0e2",
+      "title": "J'ai quitté Google Workspace, retour d'expérience",
+      "description": "🔗 Article : https://grafikart.fr/blog/google-workspace-ksuite Cela fait plusieurs mois que j'ai migré mes emails en quittant Google Google Workspace et je vous propose de partager avec vous mon expérience. 00:00 Pourquoi j'ai quitté Workspace 02:25 Les remplaçants 04:50 Migration vers KSuite 11:44 Retour d'expérience ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord :…",
+      "link": "https://www.youtube.com/watch?v=yRwlBnycmDw",
+      "pubDate": "2026-04-27T13:06:24.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/yRwlBnycmDw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "yRwlBnycmDw"
+    },
+    {
+      "id": "fd946aba0439",
+      "title": "Plan de migration vers Tailwind CSS v4 🚀 : la méthode (presque) sans douleur",
+      "description": "Ça y est, le grand jour est arrivé ! Vous avez enfin décidé de vous attaquer à cette fameuse dette technique qui vous fait faire des cauchemars la nuit. 😅 Beaucoup de nos projets (et sans doute les vôtres) reposent encore sur d’anciens frameworks CSS basés sur Sass, comme Bootstrap v4 ou d'autres solutions maison (coucou Atomic Builder 👋). Et soyons honnêtes : maintenir et mettre à jour ces projets relève souvent du parcours du combattant. On fait face à un manque cruel de flexibilité, la…",
+      "link": "https://jolicode.com/blog/plan-de-migration-vers-tailwind-css-v4-la-methode-presque-sans-douleur",
+      "pubDate": "2026-04-27T08:20:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7b75a89803c5",
+      "title": "Pourquoi l'Open Source ne suffira pas à nous libérer des Big Tech",
+      "description": "264 milliards d'euros s'échappent d'Europe chaque année. Pourquoi l'open source, sans une vraie stratégie de communs numériques, ne nous sauvera pas.",
+      "link": "https://eventuallycoding.com/p/pourquoi-l-open-source-ne-suffira-pas-a-nous-liberer-des-big-tech",
+      "pubDate": "2026-04-27T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1777282153184-5ozqknf.png",
+      "type": "blog"
+    },
+    {
       "id": "83c97a2cf847",
       "title": "Ember rend l'observabilité de FrankenPHP RIDICULEMENT simple",
       "description": "❤️ Soutiens la chaîne sur Patreon : https://www.patreon.com/YoanDev 🔥 Et si un seul outil te donnait à la fois un dashboard temps réel ET une intégration Grafana pour ton FrankenPHP ? Dans cette vidéo, je te présente Ember et ses deux visages qui couvrent toute ton observabilité. D'un côté, un TUI superbe qui se branche sur l'admin API de Caddy et te montre EN DIRECT ce qui se passe dans ton FrankenPHP : workers PHP, requêtes, métriques, logs, TLS… Le tout dans ton terminal, sans config. De…",
@@ -18,6 +115,21 @@
       "image": "https://i.ytimg.com/vi/idUuIId2aZA/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "idUuIId2aZA"
+    },
+    {
+      "id": "dc7e4900e16b",
+      "title": "Prise en main de Zensical",
+      "description": "Prise en main de Zensical {align=right} Depuis un peu moins d'un an, j'utilise MkDocs avec le plugin Material for MkDocs pour mon site web, mon blog et mes supports de cours. Après avoir passé quelques semaines à tester une flopée de moteurs de documentation, j'ose affirmer haut et fort que Material for MkDocs constitue sans doute la meilleure solution pour publier de la documentation technique sur le web.",
+      "link": "https://www.microlinux.fr/blog/zensical/",
+      "pubDate": "2026-04-26T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/zensical-logo.png",
+      "type": "blog"
     },
     {
       "id": "b5678d7ca519",
@@ -165,6 +277,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/45444cdb-b822-4068-9872-6305217ec0d1.mp3?_=1776945695",
       "duration": "10:49"
+    },
+    {
+      "id": "509a7804e645",
+      "title": "Les sub-agents Claude Code : isoler, déléguer, paralléliser",
+      "description": "Comprendre les sub-agents de Claude Code, leurs cas d'usage et comment ils permettent d'optimiser vos workflows : isolation de contexte, choix du modèle et parallélisation.",
+      "link": "https://www.elao.com/blog/ia/sub-agents-claude-code",
+      "pubDate": "2026-04-24T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "1d25d1709eb5",
