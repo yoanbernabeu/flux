@@ -2,6 +2,109 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "b200fc08cb86",
+      "title": "Quoting OpenAI Codex base_instructions",
+      "description": "Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query. &mdash; OpenAI Codex base_instructions, for GPT-5.5 Tags: openai, ai, llms, system-prompts, prompt-engineering, codex-cli, generative-ai, gpt",
+      "link": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
+      "pubDate": "2026-04-28T22:02:53.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bb0b2fdfd496",
+      "title": "Who Actually Builds AI Image Models (and Who Builds on Top)",
+      "description": "The 2026 AI Image generation landscape.",
+      "link": "https://blog.dailydoseofds.com/p/who-actually-builds-ai-image-models",
+      "pubDate": "2026-04-28T21:20:35.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!xnXo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a01c71a-3c7a-40e5-9be2-891e17b43001_960x706.gif",
+      "type": "blog"
+    },
+    {
+      "id": "bc974bbb4f1a",
+      "title": "Quoting Matthew Yglesias",
+      "description": "Five months in, I think I've decided that I don't want to vibecode — I want professionally managed software companies to use AI coding assistance to make more/better/cheaper software products that they sell to me for money. &mdash; Matthew Yglesias Tags: agentic-engineering, vibe-coding, ai-assisted-programming, ai",
+      "link": "https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything",
+      "pubDate": "2026-04-28T13:25:29.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f4af5524dfa5",
+      "title": "Socket Has Acquired Secure Annex",
+      "description": "Today I'm excited to share that Socket has acquired Secure Annex, the extension security company founded by John Tuckner. John is joining Socket, and we’re excited to have him here. John has spent the last year doing some of the sharpest work anywhere on extension security, building Secure Annex into a product that security teams at Reddit, Brave, Torq, and Movable Ink depend on. He did it as a solo founder, which makes what he shipped even more impressive. The research he's published on…",
+      "link": "https://socket.dev/blog/socket-acquires-secure-annex?utm_medium=feed",
+      "pubDate": "2026-04-28T12:59:09.640Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3c730d88a444",
+      "title": "Lock a shared test database for parallel test processes",
+      "description": "AI coding agents love to run tests in parallel processes. That's great until multiple processes try to use the same local test database at once. A small file lock can serialize access and stop those runs from stepping on each other. Read more",
+      "link": "https://freek.dev/3083-lock-a-shared-test-database-for-parallel-test-processes",
+      "pubDate": "2026-04-28T12:48:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3a78a4b23e4d",
+      "title": "When Correct Systems Produce the Wrong Outcomes",
+      "description": "We tend to assume that if every part of a system behaves correctly, the system itself will behave correctly. That assumption is deeply embedded in how we design, test, and operate software. If a service returns valid responses, if dependencies are reachable, and if constraints are satisfied, then the system is considered healthy. Even in […]",
+      "link": "https://www.oreilly.com/radar/when-correct-systems-produce-the-wrong-outcomes/",
+      "pubDate": "2026-04-28T11:12:58.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "afbaac3fcc8a",
+      "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
+      "description": "What&#x27;s new in pip 26.1 - lockfiles and dependency cooldowns! Richard Si describes an excellent set of upgrades to Python's default pip tool for installing dependencies. This version drops support for Python 3.9 - fair enough, since it's been EOL since October. macOS still ships with python3 as a default Python 3.9, so I tried out the new Python version against Python 3.14 like this: uv python install 3.14 mkdir /tmp/experiment cd /tmp/experiment python3.14 -m venv venv source…",
+      "link": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
+      "pubDate": "2026-04-28T05:23:05.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7ddb90dd3434",
       "title": "Meet the new Executive Director of The PHP Foundation",
       "description": "There’s a certain kind of energy that comes from being in a room full of people who care deeply about what they do. Next month at PHP Tek, developers from across the community will gather to share ideas, learn from one another, and push the craft forward. It’s hard to describe unless you’ve experienced it, […] The post Meet the new Executive Director of The PHP Foundation appeared first on PHP Architect.",

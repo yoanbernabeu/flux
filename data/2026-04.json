@@ -2,6 +2,150 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "bfd417e37179",
+      "title": "#354.src - Self Hosting: Tout refaire pour être indépendant avec Loic Tosser",
+      "description": "\"La souveraineté c'est être capable d'aller chercher sa data et de l'exploiter comme on veut, quand on veut\" Le D.E.V. de la semaine est Loïc Tosser, CTO et cofounder de Kalvad. Pionnier du self-hosting dans un environnement hyper-régulé, il raconte comment la nécessité de souveraineté des données a guidé ses choix techniques, et pourquoi il défend l'indépendance vis-à-vis des géants du cloud, même aujourd'hui. L'épisode explore l'évolution des enjeux de latence, de coût et de contrôle…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-354-147e055f4087",
+      "pubDate": "2026-04-29T03:00:03.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/4e605e24-4c4e-4a27-a7f5-fed1d9d79c66.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/96fa46c8-3640-4896-8f87-147e055f4087.mp3?_=1777377723",
+      "duration": "53:44"
+    },
+    {
+      "id": "6691e3f1fd9e",
+      "title": "La Duck Conf 2026 CR - L'impact des architectures front sur l'accessibilité",
+      "description": "Gauthier Fiorentino, lors de la Duck Conf 2026, nous propose une critique constructive des architectures SPA/PESPA pour leur impact sur l'accessibilité et l'écoconception. 56 % du temps d'affichage est gaspillé à exécuter du JS pour générer du HTML. La solution : appliquer la Rule of Least Power en privilégiant le rendu serveur et le modèle MPA.",
+      "link": "https://blog.octo.com/la-duck-conf-2026-cr-l'impact-des-architectures-front-sur-l'accessibilite",
+      "pubDate": "2026-04-28T21:29:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0752360b7fde",
+      "title": "Claude Code, Cursor, Symfony/AI, Vercel AI SDK : 3 formations pour garder la main",
+      "description": "Trois formations IA sont disponibles dès maintenant sur JoliCampus, avec des sessions ouvertes à l'inscription. Elles sont construites sur ce qu'on pratique chez JoliCode et Premier Octet : des projets clients qui tournent en production avec des agents de code IA, des outils qu'on utilise tous les jours, des patterns qu'on a éprouvés, testés et parfois jetés ! Voici ce qu'elles contiennent : Maîtriser les agents IA pour le développement La porte d'entrée ! Une journée pour sortir de…",
+      "link": "https://jolicode.com/blog/claude-code-cursor-symfony-ai-vercel-ai-sdk-3-formations-pour-garder-la-main",
+      "pubDate": "2026-04-28T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/formation-ia-article/1.png",
+      "type": "blog"
+    },
+    {
+      "id": "87bc8645531c",
+      "title": "Fibers PHP : anatomie d'une primitive mal aimée",
+      "description": "Fibers PHP: Découvrez cette primitive bas niveau essentielle aux bibliothèques asynchrones. Comprenez son mécanisme de stack switch coopératif et sa différence avec les generators.",
+      "link": "https://lecodeestdanslepre.fr/billets/fibers-php-anatomie-d-une-primitive-mal-aimee",
+      "pubDate": "2026-04-28T11:08:05.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "04a17c7fd761",
+      "title": "La France ne sera pas une colonie numérique, débat avec notre invité Tariq Krim",
+      "description": "Souveraineté, Géopolitique et théorie de la \"Forêt Noire\" : la fin de l'Internet tel qu'on le connaît ? 🌐🌲 Qu'est-ce que la véritable souveraineté numérique et comment refuser de n'être qu'une simple \"colonie numérique\" ? 🚀 Dans ce nouvel épisode de A La French, Steeve, JB et Mehdi reçoivent le pionnier de la tech française, créateur de Netvibes et Jolicloud, pour repenser les chemins de notre autonomie technologique. En 2026, le constat est brutal : la géopolitique a définitivement rattrapé…",
+      "link": "https://shows.acast.com/a-la-french/episodes/69f0762002fc814be0ac9505",
+      "pubDate": "2026-04-28T10:00:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1777367095559-8ed442f6-676f-452a-8f14-c6dfefeeef1d.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69f0762002fc814be0ac9505/media.mp3",
+      "duration": "1:22:11"
+    },
+    {
+      "id": "776c413be1c7",
+      "title": "UserNamespaces dans Kubernetes : la feature géniale qui sert (presque) à rien",
+      "description": "L’infographie qui m’a trigger Depuis quelques jours, les infographies se suivent (et se ressemblent) sur Linkedin. Kubernetes 1.36 est sorti et une des features qui fait le plus parler, c’est la sortie en GA des UserNamespaces. C’est un sujet que je suis depuis 2018 (talk The Route to rootless container à la kubecon EU de 2018) donc je peux dire que je suis content de voir l’aboutissement de ce long chemin. Cependant, je suis “profondément choqué” de voir la façon dont c’est présenté sur…",
+      "link": "https://blog.zwindler.fr/2026/04/28/kubernetes-usernamespaces/",
+      "pubDate": "2026-04-28T08:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/04/usernamespaces.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1261a8ef672a",
+      "title": "Shaker App : l’outil lillois qui veut enfin réconcilier design et business (et qui cartonne !)",
+      "description": "User Shaker est une entreprise lilloise innovante dans le domaine du Product Design, récemment récompensée lors de Techinnov 2026. Son outil, Shaker App, facilite la création de spécifications actionnables à partir des User Stories. Grâce à leur expertise en Discovery, Design System et Product Management, ils améliorent significativement l'expérience utilisateur et maximisent le ROI. L’article Shaker App : l’outil lillois qui veut enfin réconcilier design et business (et qui cartonne !) est…",
+      "link": "https://oliviersauvage.com/2026/04/28/shaker-app-loutil-lillois-qui-veut-enfin-reconcilier-design-et-business-et-qui-cartonne/",
+      "pubDate": "2026-04-28T06:22:40.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3bbc48bcd1ac",
+      "title": "Ember 1.2 / 1.3 : logs, plugins et une plateforme qui grandit avec vous",
+      "description": "Il y a quelques semaines, nous avons sorti Ember 1.1 et transformé un simple moniteur Caddy en quelque chose qui ressemblait davantage à un panneau de contrôle : un onglet Config, une vue Certificates, des graphiques waterfall, le support des sockets Unix. Les retours ont été excellents : issues, PRs, utilisateurs demandant « juste ce petit truc en plus ». Nous avons récemment dépassé les 150 téléchargements par jour, l’annonce […] L’article Ember 1.2 / 1.3 : logs, plugins et une plateforme qui…",
+      "link": "https://les-tilleuls.coop/blog/ember-1-2-1-3-highlight-des-nouvelles-features",
+      "pubDate": "2026-04-28T06:00:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/ember-release-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "0d276a4b6595",
+      "title": "Sauvegarder votre Raspberry Pi avec rpi-clone et rsync",
+      "description": "Une mise à jour qui se passe mal, une coupure de courant : la carte SD n'y survit pas toujours. rsync + rpi-clone pour ne plus tout reconfigurer depuis zéro.",
+      "link": "https://domopi.eu/sauvegarder-votre-raspberry-pi-avec-rpi-clone-et-rsync/",
+      "pubDate": "2026-04-28T05:45:21.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/01/Designer--1-.png",
+      "type": "blog"
+    },
+    {
       "id": "71e2693cb3e4",
       "title": "Specification-Driven Development : du Vibe Coding à l’Agentic Engineering",
       "description": "Apparu en février 2025, le terme Vibe Coding a fait l’objet d’une hype sans précédent. Si l’on en croyait certains",
@@ -950,6 +1094,21 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/04/devops-agent.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "81ed66e729b7",
+      "title": "Formations accessibilité numérique : 3 nouveaux parcours pour engager votre démarche d’accessibilité numérique",
+      "description": "Plus de 20 ans après la loi de 2005, les chiffres sont sans appel : 96 % des sites commu­naux et 94 % des démarches admi­nis­tra­tives déma­té­ria­li­sées restent inac­ces­sibles.",
+      "link": "https://makina-corpus.com/accessibilite/formations-accessibilite-numerique-3-nouveaux-parcours-pour-engager-votre-demarche",
+      "pubDate": "2026-04-16T13:18:02.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
