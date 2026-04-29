@@ -2,6 +2,118 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "3fcda7300837",
+      "title": "Lexia : l’IA vocale « Made in France » qui protège vos données les plus sensibles",
+      "description": "Lexia, une startup deeptech française, révolutionne la transcription vocale au sein des entreprises. Avec une précision de plus de 99% et une sécurité des données inégalée, elle transforme les flux de travail en convertissant la parole en information structurée tout en respectant la souveraineté numérique, offrant ainsi des solutions adaptées à divers secteurs. L’article Lexia : l’IA vocale « Made in France » qui protège vos données les plus sensibles est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/04/29/lexia-lia-vocale-made-in-france-qui-protege-vos-donnees-les-plus-sensibles/",
+      "pubDate": "2026-04-29T09:45:42.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cd0a3ca965d1",
+      "title": "Héritage Doctrine : la troisième porte que personne ne montre",
+      "description": "Découvrez la stratégie d'héritage Doctrine Mapped Superclass, souvent oubliée face à STI et CTI. Optimisez vos modèles PHP Symfony avec cette troisième approche pour une meilleure qualité de code.",
+      "link": "https://lecodeestdanslepre.fr/billets/heritage-doctrine-la-troisieme-porte-que-personne-ne-montre",
+      "pubDate": "2026-04-29T09:12:17.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f1cb704182a4",
+      "title": "BTP : Ne perdez plus de temps à chercher vos fiches techniques avec OneFiche",
+      "description": "OneFiche est une plateforme collaborative dédiée à la centralisation des fiches techniques dans le secteur du BTP. Elle améliore l'accès à des informations fiables et à jour, facilitant ainsi la collaboration entre les différents acteurs d'un projet. En intégrant des technologies avancées, OneFiche permet une gestion efficace des données techniques, contribuant à réduire les erreurs et à optimiser les décisions sur le terrain. L’article BTP : Ne perdez plus de temps à chercher vos fiches…",
+      "link": "https://oliviersauvage.com/2026/04/29/btp-ne-perdez-plus-de-temps-a-chercher-vos-fiches-techniques-avec-onefiche/",
+      "pubDate": "2026-04-29T08:40:22.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e2fde0ae8411",
+      "title": "Vidéo Devoxx 2026 4K",
+      "description": "👏 MERCI pour cette 14ème édition de Devoxx France 🙌 3 jours, 4 980 participant·e·s, des centaines de talks, 1 meet & greet inoubliable, 2 dinosaures 🦕 et une quantité astronomique de code, de café et de passion ! ☕💻 Un immense merci à : 🎤 Tous les speakers qui ont partagé leur expertise avec générosité 🙌 Nos sponsors et partenaires qui rendent tout ça possible 💪 L'équipe des polos rouges, le Palais des Congrès ❤️ Et bien sûr… chacun d'entre vous ! 📆 RDV du 7 au 9 avril 2027 pour la…",
+      "link": "https://www.youtube.com/watch?v=p_ASFOHhkbQ",
+      "pubDate": "2026-04-29T08:22:25.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/p_ASFOHhkbQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "p_ASFOHhkbQ"
+    },
+    {
+      "id": "9ef07c6f1725",
+      "title": "Micro trottoir : quelle est la meilleure chose à Devoxx France ?",
+      "description": "\"C'est quoi la meilleure chose à Devoxx France ?\" On vous a posé la question, voici vos réponses 👇 Sans spoiler : 🎤🤝👥🥛🍻🏎 hashtag#DevoxxFR hashtag#DevoxxFrance2026 hashtag#DevoxxFrance",
+      "link": "https://www.youtube.com/watch?v=P25JPcW-7qI",
+      "pubDate": "2026-04-29T08:17:46.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/P25JPcW-7qI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "P25JPcW-7qI"
+    },
+    {
+      "id": "7c7652b59f0c",
+      "title": "Du PDD au multi-agent : mon premier REX avec Liza",
+      "description": "Du Prompt-Driven Development au multi-agent orchestré : j'ai confié un projet entier à Liza, un système multi-agent open source. Ce que j'en retiens, ce que ça coûte, et pourquoi le craft fait toute la différence.",
+      "link": "https://blog.ippon.fr/2026/04/29/premier-rex-multi-agent-liza/",
+      "pubDate": "2026-04-29T07:00:12.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/liza-tui-coding-review-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "b4fbb0e53705",
+      "title": "Réussir ses webinaires en B2B : la meilleure recette",
+      "description": "Cet article met en avant les avantages des webinaires, soulignant leur coût accessible et leur impact en marketing. Il propose des conseils pratiques pour organiser des webinaires réussis, incluant la préparation, l'animation et l'interaction avec l'audience. Le webinaire est présenté comme un outil puissant et pertinent pour les entreprises. L’article Réussir ses webinaires en B2B : la meilleure recette est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/29/reussir-ses-webinaires-en-b2b-la-meilleure-recette/",
+      "pubDate": "2026-04-29T05:30:50.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bfd417e37179",
       "title": "#354.src - Self Hosting: Tout refaire pour être indépendant avec Loic Tosser",
       "description": "\"La souveraineté c'est être capable d'aller chercher sa data et de l'exploiter comme on veut, quand on veut\" Le D.E.V. de la semaine est Loïc Tosser, CTO et cofounder de Kalvad. Pionnier du self-hosting dans un environnement hyper-régulé, il raconte comment la nécessité de souveraineté des données a guidé ses choix techniques, et pourquoi il défend l'indépendance vis-à-vis des géants du cloud, même aujourd'hui. L'épisode explore l'évolution des enjeux de latence, de coût et de contrôle…",
@@ -114,6 +226,22 @@
       "type": "blog"
     },
     {
+      "id": "20072a40c839",
+      "title": "Équipes d'agents Claude Code : orchestrez une vraie équipe d'IA",
+      "description": "Plusieurs agents Claude qui se parlent, se contredisent, et travaillent en parallèle sur votre projet. Découvrez les équipes d’agents et boostez votre productivité !",
+      "link": "https://codecodecoders.substack.com/p/equipes-dagents-claude-code-orchestrez",
+      "pubDate": "2026-04-28T06:01:44.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3PXQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb68c65ef-cd02-4b5f-a68d-ff550943354b_1024x608.png",
+      "type": "blog"
+    },
+    {
       "id": "3bbc48bcd1ac",
       "title": "Ember 1.2 / 1.3 : logs, plugins et une plateforme qui grandit avec vous",
       "description": "Il y a quelques semaines, nous avons sorti Ember 1.1 et transformé un simple moniteur Caddy en quelque chose qui ressemblait davantage à un panneau de contrôle : un onglet Config, une vue Certificates, des graphiques waterfall, le support des sockets Unix. Les retours ont été excellents : issues, PRs, utilisateurs demandant « juste ce petit truc en plus ». Nous avons récemment dépassé les 150 téléchargements par jour, l’annonce […] L’article Ember 1.2 / 1.3 : logs, plugins et une plateforme qui…",
@@ -143,6 +271,22 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2026/01/Designer--1-.png",
+      "type": "blog"
+    },
+    {
+      "id": "2deb397c7c6f",
+      "title": "Quoi de neuf les devs? #174 - Veille tech et l'interview de François de Programmez.com",
+      "description": "Votre dose d'infos tech infusé par un dev pour les devs avec l'interview de François de Programmez.com. On parlera aussi de ✅ Git, ✅ Zed, ✅ Ember, ✅ IA, ✅ Github, ✅ …",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-174-veille",
+      "pubDate": "2026-04-27T16:00:44.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!lwWj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b2e37bb-3de9-452a-b91b-bfdfc263ab9f_1920x1252.webp",
       "type": "blog"
     },
     {

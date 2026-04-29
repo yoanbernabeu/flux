@@ -31,6 +31,20 @@
       "type": "blog"
     },
     {
+      "id": "3286b2865c88",
+      "title": "GPT-5.5: Capabilities and Reactions",
+      "description": "The system card for GPT-5.5 mostly told us what we expected.",
+      "link": "https://thezvi.substack.com/p/gpt-55-capabilities-and-reactions",
+      "pubDate": "2026-04-28T14:14:45.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!dOAu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2b56804-a86a-4d4b-90a8-22a311899d5d_1916x821.png",
+      "type": "blog"
+    },
+    {
       "id": "bc974bbb4f1a",
       "title": "Quoting Matthew Yglesias",
       "description": "Five months in, I think I've decided that I don't want to vibecode — I want professionally managed software companies to use AI coding assistance to make more/better/cheaper software products that they sell to me for money. &mdash; Matthew Yglesias Tags: agentic-engineering, vibe-coding, ai-assisted-programming, ai",
@@ -191,6 +205,34 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e6056607c5a5",
+      "title": "Dario Amodei, hype, AI safety, and the explosion of vibe-coded AI disasters",
+      "description": "What the AI cheerleaders don’t tell you",
+      "link": "https://garymarcus.substack.com/p/dario-amodei-hype-ai-safety-and-the",
+      "pubDate": "2026-04-27T16:16:00.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!uvwf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHG0DHiRa8AAebfp.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0c61307da78f",
+      "title": "GPT 5.5: The System Card",
+      "description": "Last week, OpenAI announced GPT-5.5, including GPT-5.5-Pro.",
+      "link": "https://thezvi.substack.com/p/gpt-55-the-system-card",
+      "pubDate": "2026-04-27T15:47:29.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!62l7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8dd40335-1f83-4f70-8f87-934e4c26d1de_1916x821.png",
       "type": "blog"
     },
     {
