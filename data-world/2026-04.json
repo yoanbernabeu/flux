@@ -2,6 +2,169 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "f4b86aa6117e",
+      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+      "description": "Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the bug tracker, including translation. English is encouraged, but not required. You are welcome to post in your native language and rely on others to have their own translation tools of choice to interpret your words. The most prominent project written in Zig may be the Bun JavaScript runtime, which was acquired by Anthropic in December…",
+      "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything",
+      "pubDate": "2026-04-30T01:24:23.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16b9b64d93d5",
+      "title": "llm 0.32a1",
+      "description": "Release: llm 0.32a1 Fixed a bug in 0.32a0 where tool-calling conversations were not correctly reinflated from SQLite. #1426 Tags: llm",
+      "link": "https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything",
+      "pubDate": "2026-04-29T23:52:50.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b27882b99848",
+      "title": "[Hands-on] Build OpenClaw’s Core In a Single Visual Workflow",
+      "description": "...using 100% open-source stack!",
+      "link": "https://blog.dailydoseofds.com/p/hands-on-build-openclaws-core-in",
+      "pubDate": "2026-04-29T21:38:20.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!XTyH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff12abefe-c5e0-4917-b785-07fc46207b64_1376x768.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "45e9a0c8a4aa",
+      "title": "Malicious npm Package Brand-Squats TanStack to Exfiltrate Environment Variables",
+      "description": "The Socket Research Team has detected an active supply-chain attack targeting the unscoped tanstack package on npm, a brand-squatted impersonation of the legitimate @tanstack/* organization. Beginning today, the package's maintainer (sh20raj) began pushing malicious versions that silently steal environment variable files, including .env, .env.local, and .env.production, from developers' machines at install time, exfiltrating them to an attacker-controlled endpoint. Versions 2.0.4 through 2.0.7…",
+      "link": "https://socket.dev/blog/tanstack-brandsquat-compromise?utm_medium=feed",
+      "pubDate": "2026-04-29T19:54:42.301Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/75aa8e93923e3d40d305b9359f498bf34130bfd4-690x267.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "9285d6a73cec",
+      "title": "LLM 0.32a0  is a major backwards-compatible refactor",
+      "description": "I just released LLM 0.32a0, an alpha release of my LLM Python library and CLI tool for accessing LLMs, with some consequential changes that I've been working towards for quite a while. Previous versions of LLM modeled the world in terms of prompts and responses. Send the model a text prompt, get back a text response. import llm model = llm.get_model(\"gpt-5.5\") response = model.prompt(\"Capital of France?\") print(response.text()) This made sense when I started working on the library back in April…",
+      "link": "https://simonwillison.net/2026/Apr/29/llm/#atom-everything",
+      "pubDate": "2026-04-29T19:01:47.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e1e105aa0ed9",
+      "title": "llm 0.32a0",
+      "description": "Release: llm 0.32a0 See the annotated release notes. Tags: llm",
+      "link": "https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything",
+      "pubDate": "2026-04-29T18:57:47.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6711831caac3",
+      "title": "Community Corner: Storyblok with Daniel Mendoza",
+      "description": "In this episode, Scott talks Storyblok with Daniel Mendoza and his talk on using AI to help developers learn new technology that he will be presenting at JStek 2026. Links: Our Discord – https://discord.gg/aMTxunVx Buy our shirts – https://store.phparch.com/products/community-corner-podcast-t-shirt Daniel’s Links: LinkedIn – https://www.linkedin.com/in/daniel-mendoza-503396152/ Personal Site – https://danieljmendoza.com/ Scott’s Links: Website – https://scott.keck-warren.com/ Bluesky […] The…",
+      "link": "https://www.phparch.com/podcast/community-corner-storyblok-with-daniel-mendoza/",
+      "pubDate": "2026-04-29T16:30:10.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/04/Storyblok-With-Daniel-Mendoza.png",
+      "type": "blog"
+    },
+    {
+      "id": "e34fc396d99b",
+      "title": "★ Announcing laravel-sluggable v4 with self-healing URLs",
+      "description": "The spatie/laravel-sluggable package has been around for close to a decade. A slug is the readable part of a URL that identifies a record, like announcing-laravel-sluggable-v4-with-self-healing-urls in this post's URL. The package generates one for any Eloquent model when you save it, derived from a title or another text field, and most of the time you don't have to think about it. We just released v4, which adds a few things worth talking about. Let me walk you through them. Generating slugs…",
+      "link": "https://freek.dev/3112-announcing-laravel-sluggable-v4-with-self-healing-urls",
+      "pubDate": "2026-04-29T14:36:36.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f7d44593015e",
+      "title": "TeamPCP-Linked Supply Chain Attack Hits SAP CAP and Cloud MTA npm Packages",
+      "description": "Socket is investigating a suspected supply chain attack affecting multiple npm packages associated with SAP’s JavaScript and cloud application development ecosystem. At the time of publication, Socket has identified the following affected package versions: mbt@1.2.48 @cap-js/db-service@2.10.1 @cap-js/postgres@2.2.2 @cap-js/sqlite@2.2.2 Socket’s analysis indicates that the affected versions introduced new installation-time behavior that was not previously part of these packages’ expected…",
+      "link": "https://socket.dev/blog/sap-cap-npm-packages-supply-chain-attack?utm_medium=feed",
+      "pubDate": "2026-04-29T13:03:27.002Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/21e82547fa830066a35699e54bca6bb6201ad6d8-833x213.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "a922626c8829",
+      "title": "How to monitor your Laravel app for critical vulnerabilities using Oh Dear",
+      "description": "This practical guide shows how to use spatie/laravel-health together with Oh Dear to detect vulnerable Composer dependencies in production and get alerted quickly. It also shows how adding composer audit in CI gives you an extra early warning layer. Read more",
+      "link": "https://freek.dev/3114-how-to-monitor-your-laravel-app-for-critical-vulnerabilities-using-oh-dear",
+      "pubDate": "2026-04-29T12:30:25.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f3415080c4a4",
+      "title": "Don’t Automate Your Moat: Matching AI Autonomy to Risk and Competitive Stakes",
+      "description": "I was talking to a senior engineer at a well-funded company not long ago. I asked him to walk me through a critical algorithm at the heart of their product, something that ran hundreds of times a second and directly affected customer outcomes. He paused and said, “Honestly, I’m not totally sure how it works. […]",
+      "link": "https://www.oreilly.com/radar/dont-automate-your-moat-matching-ai-autonomy-to-risk-and-competitive-stakes/",
+      "pubDate": "2026-04-29T11:42:28.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/Human-involvement-in-programming.png",
+      "type": "blog"
+    },
+    {
       "id": "b200fc08cb86",
       "title": "Quoting OpenAI Codex base_instructions",
       "description": "Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query. &mdash; OpenAI Codex base_instructions, for GPT-5.5 Tags: openai, ai, llms, system-prompts, prompt-engineering, codex-cli, generative-ai, gpt",

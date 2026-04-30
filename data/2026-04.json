@@ -132,6 +132,21 @@
       "duration": "53:44"
     },
     {
+      "id": "049ba199cc11",
+      "title": "Quand personne ne répare la CI, ce n'est pas un bug. C'est un choix.",
+      "description": "J’ai connu des équipes dans lesquels, quand on arrivait le matin, on pouvait constater que la branche principale était cassée depuis plusieurs jours. La CI (eg. l’intégration continue) échouait en continu, et personne dans l’équipe ne semblait s’en inquiéter. Quand on vit cette situation, ce n’est plus un problème technique, c’est un problème de culture. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre…",
+      "link": "https://www.jdecool.fr/blog/2026/04/29/quand-personne-ne-repare-la-ci-ce-n-est-pas-un-bug-c-est-un-choix.html",
+      "pubDate": "2026-04-28T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6691e3f1fd9e",
       "title": "La Duck Conf 2026 CR - L'impact des architectures front sur l'accessibilité",
       "description": "Gauthier Fiorentino, lors de la Duck Conf 2026, nous propose une critique constructive des architectures SPA/PESPA pour leur impact sur l'accessibilité et l'écoconception. 56 % du temps d'affichage est gaspillé à exécuter du JS pour générer du HTML. La solution : appliquer la Rule of Least Power en privilégiant le rendu serveur et le modèle MPA.",
@@ -449,6 +464,22 @@
         "Cloud"
       ],
       "image": "https://codeka.io/2026/04/25/devoxx-france-2026-bilan/cover_hu_97ac4ca26c325055.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c7a32d157976",
+      "title": "🎤 Talks donnés à Devoxx France 🎤",
+      "description": "Liste de talks donnés lors de la conférence Devoxx France",
+      "link": "https://philippart-s.github.io/blog/talks/devoxx-fr-2026/",
+      "pubDate": "2026-04-25T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
