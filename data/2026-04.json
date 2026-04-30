@@ -2,6 +2,22 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "3a62cfb91a37",
+      "title": "PBS 4.2 - Nouvelles fonctionnalités",
+      "description": "Proxmox Backup Server 4.2 est disponible.",
+      "link": "https://j.hommet.net/news-pbs-4-2/",
+      "pubDate": "2026-04-29T10:00:00.000Z",
+      "source": "J.Hommet",
+      "sourceUrl": "https://j.hommet.net/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3fcda7300837",
       "title": "Lexia : l’IA vocale « Made in France » qui protège vos données les plus sensibles",
       "description": "Lexia, une startup deeptech française, révolutionne la transcription vocale au sein des entreprises. Avec une précision de plus de 99% et une sécurité des données inégalée, elle transforme les flux de travail en convertissant la parole en information structurée tout en respectant la souveraineté numérique, offrant ainsi des solutions adaptées à divers secteurs. L’article Lexia : l’IA vocale « Made in France » qui protège vos données les plus sensibles est apparu en premier sur…",
