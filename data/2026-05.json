@@ -1,0 +1,23 @@
+{
+  "month": "2026-05",
+  "articles": [
+    {
+      "id": "ed6fd4050c59",
+      "title": "#336.exe - La cyber avant et après l’IA: Multiplier la détection, garder l'esprit critique par Houleymatou Baldé",
+      "description": "Pour l'épisode #336 je recevais Benoit Larroque. On en débrief avec Houleymatou. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-336-08e07f9ea763",
+      "pubDate": "2026-05-01T03:00:48.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/7b2af2c5-8b09-4eff-a333-08e07f9ea763.mp3?_=1777550508",
+      "duration": "11:43"
+    }
+  ]
+}

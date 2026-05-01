@@ -1,0 +1,35 @@
+{
+  "month": "2026-05",
+  "articles": [
+    {
+      "id": "d65870cf5f2a",
+      "title": "The PHP Podcast 2026.04.30",
+      "description": "🎙️ PHP Podcast – April 30, 2026 Hosts: Eric Van Johnson & John Congdon Another fun episode of the PHP Podcast! Here’s what we covered: 🚁 The Drone Slayer Strikes Eric and John wrapped up a Padres game at beautiful Petco Park in downtown San Diego — and things got weird on the way out. […] The post The PHP Podcast 2026.04.30 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-04-30/",
+      "pubDate": "2026-05-01T01:54:46.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/04/The-PHP-Podcast-2026.04.30.png",
+      "type": "blog"
+    },
+    {
+      "id": "a632885d498a",
+      "title": "Malicious Ruby Gems and Go Modules Impersonate Developer Tools to Steal Secrets and Poison CI",
+      "description": "We investigated the GitHub account BufferZoneCorp, which published a cluster of repositories linked to malicious Ruby gems and Go modules. The account is part of a software supply chain campaign targeting developers, CI runners, and build environments across two ecosystems. On the Ruby side, the analyzed gems automate secret theft. They harvest secret-bearing environment variables and read local credential material such as SSH keys, AWS credentials, .npmrc, .netrc, GitHub CLI configuration, and…",
+      "link": "https://socket.dev/blog/malicious-ruby-gems-and-go-modules-steal-secrets-poison-ci?utm_medium=feed",
+      "pubDate": "2026-05-01T01:02:14.894Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/9959cebbbbb4bb8ac8ceb34a08a23eb14fc561dd-1200x897.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    }
+  ]
+}

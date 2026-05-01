@@ -2,6 +2,183 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "3a5b18b2ae17",
+      "title": "Codex CLI 0.128.0 adds /goal",
+      "description": "Codex CLI 0.128.0 adds /goal The latest version of OpenAI's Codex CLI coding agent adds their own version of the Ralph loop: you can now set a /goal and Codex will keep on looping until it evaluates that the goal has been completed... or the configured token budget has been exhausted. It looks like the feature is mainly implemented though the goals/continuation.md and goals/budget_limit.md prompts, which are automatically injected at the end of a turn. Via @fcoury Tags: ai, openai,…",
+      "link": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
+      "pubDate": "2026-04-30T23:23:17.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2689fb473ab4",
+      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
+      "description": "Our evaluation of OpenAI&#x27;s GPT-5.5 cyber capabilities The UK's AI Security Institute previously evaluated Claude Mythos: now they've evaluated GPT-5.5 for finding security vulnerability and found it to be comparable to Mythos, but unlike Mythos it's generally available right now. Tags: ai, openai, generative-ai, llms, anthropic, claude, ai-security-research, gpt",
+      "link": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
+      "pubDate": "2026-04-30T23:03:24.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9df1f6297b5b",
+      "title": "Mini Shai-Hulud Spreads to Packagist: Malicious Intercom PHP Package Follows npm Compromise",
+      "description": "A malicious intercom/intercom-php package artifact uses Composer plugin execution to download Bun and run the same style of obfuscated credential-stealing payload observed in the ongoing Mini Shai-Hulud campaign. intercom/intercom-php is a widely used PHP package, with more than 20.7 million lifetime installs, roughly 285,000 installs in the last 30 days, and an estimated 12,700 daily installs across versions (~700 for version 5.0.2), meaning the compromised 5.0.2 artifact could have reached…",
+      "link": "https://socket.dev/blog/mini-shai-hulud-packagist-malicious-intercom-php-package-compromise?utm_medium=feed",
+      "pubDate": "2026-04-30T21:31:43.434Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/8b4b6c513a115c801adb11e7c226a5d15ccc73ca-620x650.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "0cd3b2d2d5c5",
+      "title": "Quoting Andrew Kelley",
+      "description": "It's a common misconception that we can't tell who is using LLM and who is not. I'm sure we didn't catch 100% of LLM-assisted PRs over the past few months, but the kind of mistakes humans make are fundamentally different than LLM hallucinations, making them easy to spot. Furthermore, people who come from the world of agentic coding have a certain digital smell that is not obvious to them but is obvious to those who abstain. It's like when a smoker walks into the room, everybody who doesn't…",
+      "link": "https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything",
+      "pubDate": "2026-04-30T21:24:55.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "39605ec13001",
+      "title": "Two Skills to Fix the Context Gap in Claude Code",
+      "description": "They cover what CLAUDE.md never will.",
+      "link": "https://blog.dailydoseofds.com/p/two-skills-to-fix-the-context-gap",
+      "pubDate": "2026-04-30T21:00:12.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!k649!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F290b4488-414f-4a29-b77c-ae7c5fefb698_1240x824.png",
+      "type": "blog"
+    },
+    {
+      "id": "3327b8f64af7",
+      "title": "We need RSS for sharing abundant vibe-coded apps",
+      "description": "We need RSS for sharing abundant vibe-coded apps Matt Webb: I would love an RSS web feed for all those various tools and apps pages, each item with an “Install” button. (But install to where?) The lesson here is that when vibe-coding accelerates app development, apps become more personal, more situated, and more frequent. Shipping a tool or a micro-app is less like launching a website and more like posting on a blog. This inspired me to have Claude add an Atom feed (and icon) to my…",
+      "link": "https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything",
+      "pubDate": "2026-04-30T18:38:48.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4e3e7ea00cb6",
+      "title": "PHP Alive And Kicking: Episode 29 Elizabeth Barron",
+      "description": "Elizabeth Barron returns to the show just four weeks after her debut appearance for a wide-ranging follow-up on her first months as Executive Director of the PHP Foundation. Elizabeth shares the key findings from her community listening tour, covers the upcoming PHP community survey in partnership with JetBrains, talks about the Foundation’s plans for […] The post PHP Alive And Kicking: Episode 29 Elizabeth Barron appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/php-alive-and-kicking-episode-29-elizabeth-barron/",
+      "pubDate": "2026-04-30T18:29:31.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "91a4d7840bb3",
+      "title": "Everyone’s an Engineer Now",
+      "description": "Cat Wu leads product for Claude Code and Cowork at Anthropic, so she’s well-versed in building reliable, interpretable, and steerable AI systems. And since 90% of Anthropic’s code is now written by Claude Code, she’s also deeply familiar with fitting them into routine day-to-day work. Last month, Cat joined Addy Osmani at AI Codecon for […]",
+      "link": "https://www.oreilly.com/radar/everyones-an-engineer-now/",
+      "pubDate": "2026-04-30T15:59:33.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0e22d7afd4e8",
+      "title": "Intercom’s npm Package Compromised in Ongoing Mini Shai-Hulud Worm Attack",
+      "description": "Socket AI scanner detected, and the Socket Threat Research team has confirmed that intercom-client@7.0.4 is malicious, identifying a fresh compromise of the npm package used for Intercom’s Node.js client. intercom-client is a widely used official SDK for Intercom’s API. While it is not among npm’s largest packages, npm package aggregators report roughly 360,000 weekly downloads, and npm lists more than 100 dependent projects. The real exposure may extend beyond direct dependents, since the…",
+      "link": "https://socket.dev/blog/intercom-s-npm-package-compromised-in-supply-chain-attack?utm_medium=feed",
+      "pubDate": "2026-04-30T15:42:44.701Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/d614d2067746b7dde5f74c359c42a37ef6f5df3e-951x537.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "5cafdb6097ab",
+      "title": "lightning PyPI Package Compromised in Supply Chain Attack",
+      "description": "The popular PyPI package lightning has been compromised in a supply chain attack affecting newly published versions of the package. Socket has classified lightning versions 2.6.2 and 2.6.3 as malicious. Version 2.6.1, published on January 30, 2026, is clean. Version 2.6.2, published on April 30, 2026, introduced malicious code into the legitimate library. Socket’s AI scanner flagged both versions 2.6.2 and 2.6.3as potentially malicious eighteen minutes after publication. The compromise affects…",
+      "link": "https://socket.dev/blog/lightning-pypi-package-compromised?utm_medium=feed",
+      "pubDate": "2026-04-30T13:36:16.318Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/e5298128a055c8124559194b114b8f85c87fa5df-805x575.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "c809f6eea779",
+      "title": "Laravel Route Binding Behind the Curtains",
+      "description": "A deep dive into how Laravel transforms raw route segments into models, scoped children, enums, and custom bound values before your controller runs. Read more",
+      "link": "https://freek.dev/3093-laravel-route-binding-behind-the-curtains",
+      "pubDate": "2026-04-30T12:40:31.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "219601991d82",
+      "title": "AI Code Review Only Catches Half of Your Bugs",
+      "description": "This is the fifth article in a series on agentic engineering and AI-driven development. Read part one here, part two here, part three here, and part four here. I recently had a taste of humility with my AI-generated code. I live in Park Slope, Brooklyn, and recently I needed to get to the other side of the neighborhood. […]",
+      "link": "https://www.oreilly.com/radar/ai-code-review-only-catches-half-of-your-bugs/",
+      "pubDate": "2026-04-30T11:14:49.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f4b86aa6117e",
       "title": "The Zig project's rationale for their firm anti-AI contribution policy",
       "description": "Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the bug tracker, including translation. English is encouraged, but not required. You are welcome to post in your native language and rely on others to have their own translation tools of choice to interpret your words. The most prominent project written in Zig may be the Bun JavaScript runtime, which was acquired by Anthropic in December…",

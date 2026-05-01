@@ -2,6 +2,65 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "01daa01c2d2e",
+      "title": "Le consultant : une lecture sociologique",
+      "description": "Je publie dans le dernier numéro de la Nouvelle revue du travail, consacré à « Ce que manager veut dire », une recension du roman de David Naïm, Le Consultant. J’y propose une lecture sociologique de ce récit acerbe sur Le consultant : une lecture sociologique first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/le-consultant-une-lecture-sociologique/",
+      "pubDate": "2026-04-30T11:17:14.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7c747f6f0c1d",
+      "title": "Distribution.ai : la machine à recycler les contenus marketing",
+      "description": "Distribution.ai est une plateforme d'automatisation marketing qui transforme des contenus uniques en multiples publications sur divers réseaux sociaux. En exploitant l'IA, elle optimise le recyclage des articles, vidéos et podcasts, tout en assurant cohérence et personnalisation. Cela permet d'améliorer le ROI et de maximiser la visibilité sans surcharge de travail. L’article Distribution.ai : la machine à recycler les contenus marketing est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/30/distribution-ai-la-machine-a-recycler-les-contenus-marketing/",
+      "pubDate": "2026-04-30T10:41:03.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c6155dc1a4b8",
+      "title": "En vrac d'avril 2026",
+      "description": "En Vrac Je découvre la fonctionnalité about:keyboard dans Firefox, qui affiche tous les raccourcis claviers et permet de les modifier. C’est encore expérimental mais c’est génial ! (Si vous n’utilisez pas les raccourcis claviers quand vous utilisez Firefox — ou tout autre application — sachez que c’est un incroyable gain de productivité, et garanti sans IA Voic Apfel, le p’tit truc qui permet d’utiliser le LLM local des Macs les plus récents. C’est limité (4096 tokens en comptant l’entrée et la…",
+      "link": "https://standblog.org/blog/post/2026/04/30/En-vrac-d-avril-2026",
+      "pubDate": "2026-04-30T07:48:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/blog/?pf=smile.svg",
+      "type": "blog"
+    },
+    {
+      "id": "ba84b93bc3ba",
+      "title": "C'est parti pour installer EasyAdmin",
+      "description": "Installez EasyAdmin sur Symfony en quelques minutes pour un back-office efficace. Découvrez pourquoi ce bundle est la solution idéale pour administrer vos entités Doctrine. Guide complet.",
+      "link": "https://lecodeestdanslepre.fr/billets/c-est-parti-pour-installer-easyadmin",
+      "pubDate": "2026-04-29T15:59:05.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "3a62cfb91a37",
       "title": "PBS 4.2 - Nouvelles fonctionnalités",
       "description": "Proxmox Backup Server 4.2 est disponible.",
