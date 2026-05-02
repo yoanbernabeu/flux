@@ -2,6 +2,38 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "eabf0060bede",
+      "title": "Warp Terminal : Le meilleur terminal pour travailler avec Claude Code ?",
+      "description": "Warp + Claude Code : Le combo ultime pour les développeurs. Marre des terminaux d'un autre âge ? Dans cette vidéo, on plonge dans l'univers de Warp Terminal, l'outil qui révolutionne la ligne de commande, et on voit pourquoi c'est le partenaire idéal pour utiliser Claude Code. Découvrez comment booster votre productivité, automatiser vos workflows de développement et tirer le meilleur parti de l'IA directement dans votre terminal. Liens utiles : ▶️ Warp Terminal : https://www.warp.dev/ 📌…",
+      "link": "https://www.youtube.com/watch?v=lNE5rd7OqN4",
+      "pubDate": "2026-05-01T14:17:51.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/lNE5rd7OqN4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "lNE5rd7OqN4"
+    },
+    {
+      "id": "a69f325ff088",
+      "title": "Tu veux vraiment level up en Laravel ? Regarde ça.",
+      "description": "🚀 Ma plateforme est en ligne ! Accès exclusif à des tutoriels Laravel premium Je vous présente enfin la plateforme que je viens de lancer : laraveljutsu.free.laravel.cloud 🎉 Pour seulement 9 €/mois, accédez à une bibliothèque complète de tutoriels vidéo exclusifs, bien plus qualitatifs et réguliers que ce que je publie sur YouTube. Au programme : 🛒 Une série complète pour développer un e-commerce avec Lunar PHP + InertiaJS 🤖 Une approche axée IA : bonnes pratiques avec Claude & Laravel 🔥…",
+      "link": "https://www.youtube.com/watch?v=_ic1gWacKkc",
+      "pubDate": "2026-05-01T10:54:46.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/_ic1gWacKkc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "_ic1gWacKkc"
+    },
+    {
       "id": "ed6fd4050c59",
       "title": "#336.exe - La cyber avant et après l’IA: Multiplier la détection, garder l'esprit critique par Houleymatou Baldé",
       "description": "Pour l'épisode #336 je recevais Benoit Larroque. On en débrief avec Houleymatou. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.",

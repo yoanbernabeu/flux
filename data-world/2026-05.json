@@ -2,6 +2,124 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "2398ec2feb04",
+      "title": "How to Beat GRPO Without Touching Model Weights",
+      "description": "Berkeley beat GRPO by 10 points with 35× fewer rollouts and no GPU training,",
+      "link": "https://blog.dailydoseofds.com/p/how-to-beat-grpo-without-touching",
+      "pubDate": "2026-05-01T22:01:18.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!NS4I!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff44c3776-25c7-4a10-987b-534e87996891_680x379.png",
+      "type": "blog"
+    },
+    {
+      "id": "a762cf5c582d",
+      "title": "PyPI Fixes High-Severity Access Control Issues Found in Security Audit",
+      "description": "PyPI has fixed two high-severity flaws found during its second external security audit, addressing access control issues that could have allowed organization members to invite new owners and stale team permissions to persist after project transfers. The audit was performed by Trail of Bits and funded by the Sovereign Tech Agency. It reviewed Warehouse, the open source Python application that powers PyPI and handles package uploads, metadata validation, storage, and downloads for pip and other…",
+      "link": "https://socket.dev/blog/pypi-fixes-high-severity-issues-found-in-security-audit?utm_medium=feed",
+      "pubDate": "2026-05-01T21:05:27.953Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "199911941bfe",
+      "title": "iNaturalist Sightings",
+      "description": "Tool: iNaturalist Sightings I wanted to see my iNaturalist observations - across two separate accounts - grouped by when they occurred. I'm camping this weekend so I built this entirely on my phone using Claude Code for web. I started by building an inaturalist-clumper Python CLI for fetching and \"clumping\" observations - by default clumps use observations within 2 hours and 5km of each other. Then I setup simonw/inaturalist-clumps as a Git scraping repository to run that tool and record the…",
+      "link": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
+      "pubDate": "2026-05-01T19:35:41.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "be72c37c6cd0",
+      "title": "Local AI",
+      "description": "The release of Gemma 4 has added energy to the discussion of local models and their importance. Models that you can download and run on hardware you own are becoming competitive with the “frontier models” hosted by large AI providers. These models have gotten good enough for production use, good enough for tasks that until […]",
+      "link": "https://www.oreilly.com/radar/local-ai/",
+      "pubDate": "2026-05-01T14:20:44.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7a75ea0362f",
+      "title": "RBAC in Laravel: A Practical Deep Dive",
+      "description": "A deep dive into Role-Based Access Control, from the theory behind roles and permissions to a practical, team-aware Laravel implementation without external packages. Read more",
+      "link": "https://freek.dev/3101-rbac-in-laravel-a-practical-deep-dive",
+      "pubDate": "2026-05-01T12:40:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7900882e7c12",
+      "title": "Symfony 8.0.9 released",
+      "description": "Symfony 8.0.9 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-0-9-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-01T08:14:53.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2fc493f54765",
+      "title": "Symfony 7.4.9 released",
+      "description": "Symfony 7.4.9 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-7-4-9-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-01T08:00:45.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "24c130a6b5af",
+      "title": "Symfony 6.4.37 released",
+      "description": "Symfony 6.4.37 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-6-4-37-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-01T07:47:57.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d65870cf5f2a",
       "title": "The PHP Podcast 2026.04.30",
       "description": "🎙️ PHP Podcast – April 30, 2026 Hosts: Eric Van Johnson & John Congdon Another fun episode of the PHP Podcast! Here’s what we covered: 🚁 The Drone Slayer Strikes Eric and John wrapped up a Padres game at beautiful Petco Park in downtown San Diego — and things got weird on the way out. […] The post The PHP Podcast 2026.04.30 appeared first on PHP Architect.",
