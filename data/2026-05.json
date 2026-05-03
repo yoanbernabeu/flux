@@ -2,6 +2,37 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "6af86d0ee557",
+      "title": "Kloak : injection de secrets en kernel-space via eBPF sur Kubernetes",
+      "description": "Comment Kloak intercepte le trafic TLS de vos pods au niveau kernel avec des uprobes eBPF pour injecter vos secrets de façon transparente, sans modifier vos applications ni déployer de sidecar.",
+      "link": "https://une-tasse-de.cafe/blog/kloak/",
+      "pubDate": "2026-05-02T06:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9570f7103132",
+      "title": "Se former à un nouveau langage à l'ère de l'IA",
+      "description": "C’est une habitude que j’ai depuis longtemps, je m’intéresse de manière plus ou moins assidue, chaque année à un langage de programmation autre que mon langage principal que j’utilise professionnellement. Ruby, Elixir, Rust, Go, Python ou encore Typescript. Cette année, ça sera C#. Mais à une période où l’intelligence artificielle écrit de plus en plus de code à notre place, est-ce qu’apprendre et explorer un nouveau langage a-t-il encore du sens ? 🇻🇬 This blog post is also available in…",
+      "link": "https://www.jdecool.fr/blog/2026/05/02/se-former-a-un-nouveau-langage-a-l-ere-de-l-ia.html",
+      "pubDate": "2026-05-01T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "eabf0060bede",
       "title": "Warp Terminal : Le meilleur terminal pour travailler avec Claude Code ?",
       "description": "Warp + Claude Code : Le combo ultime pour les développeurs. Marre des terminaux d'un autre âge ? Dans cette vidéo, on plonge dans l'univers de Warp Terminal, l'outil qui révolutionne la ligne de commande, et on voit pourquoi c'est le partenaire idéal pour utiliser Claude Code. Découvrez comment booster votre productivité, automatiser vos workflows de développement et tirer le meilleur parti de l'IA directement dans votre terminal. Liens utiles : ▶️ Warp Terminal : https://www.warp.dev/ 📌…",

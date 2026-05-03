@@ -2,6 +2,36 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "1aa1432e45e7",
+      "title": "Sightings",
+      "description": "/elsewhere/sightings/ I have a new camera (a Canon R6 Mark II) so I'm taking a lot more photos of birds. I share my best wildlife photos on iNaturalist, and based on yesterday's successful prototype I decided to add those to my blog. I built this feature on my phone using Claude Code for web, as an extension of my beats system for syndicating external content. Here's the PR and prompt. As with my other forms of incoming syndicated content sightings show up on the homepage, the date archive…",
+      "link": "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
+      "pubDate": "2026-05-02T17:26:40.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b8114894ad6d",
+      "title": "On pricing",
+      "description": "Seth Godin shares a compact set of pricing truths about value, story, and perception. It is especially good on why the right answer to &quot;that's too expensive&quot; is often a better story, not a lower price. Read more",
+      "link": "https://freek.dev/3095-on-pricing",
+      "pubDate": "2026-05-02T12:30:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2398ec2feb04",
       "title": "How to Beat GRPO Without Touching Model Weights",
       "description": "Berkeley beat GRPO by 10 points with 35× fewer rollouts and no GPU training,",

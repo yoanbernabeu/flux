@@ -166,6 +166,21 @@
       "type": "blog"
     },
     {
+      "id": "96b72f92b366",
+      "title": "Coding at the Speed of Thought: The New Era of Symfony Docker",
+      "description": "If we want to discuss Developer Experience (DX) in 2026, we have to talk about instantaneous feedback and coding agents. At SymfonyLive Paris 2026, I presented “Coding at the Speed of Thought: Symfony DX in 2026“, where I detailed the bleeding-edge features we have brought to the PHP and Symfony ecosystems. To make this vision... Coding at the Speed of Thought: The New Era of Symfony Docker first appeared on Kévin Dunglas.",
+      "link": "https://dunglas.dev/2026/03/coding-at-the-speed-of-thought-the-new-era-of-symfony-docker/",
+      "pubDate": "2026-03-31T13:18:19.000Z",
+      "source": "Kévin Dunglas",
+      "sourceUrl": "https://dunglas.dev/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "52b2fa93d316",
       "title": "Zen of AI Coding",
       "description": "A thoughtful collection of principles for working with coding agents, inspired by the Zen of Python. Covers how cheap code changes prioritization, why refactoring and repaying tech debt got easier, and why your role shifts from typing code to framing problems. Read more",
@@ -2347,6 +2362,21 @@
       "title": "Windows Support for FrankenPHP: It’s Finally Alive!",
       "description": "It’s happening! I am thrilled to announce the immediate availability of official Windows support for FrankenPHP. Since the project’s initial release, this has been by far the most requested feature. While many of you have been successfully running FrankenPHP on Windows via WSL (Windows Subsystem for Linux), native support was the “white whale” we’ve been... Windows Support for FrankenPHP: It’s Finally Alive! first appeared on Kévin Dunglas.",
       "link": "https://dunglas.dev/2026/03/windows-support-for-frankenphp-its-finally-alive/?utm_source=rss&utm_medium=rss&utm_campaign=windows-support-for-frankenphp-its-finally-alive",
+      "pubDate": "2026-03-06T17:45:33.000Z",
+      "source": "Kévin Dunglas",
+      "sourceUrl": "https://dunglas.dev/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+      "type": "blog"
+    },
+    {
+      "id": "07f8ca7ba3be",
+      "title": "Windows Support for FrankenPHP: It’s Finally Alive!",
+      "description": "It’s happening! I am thrilled to announce the immediate availability of official Windows support for FrankenPHP. Since the project’s initial release, this has been by far the most requested feature. While many of you have been successfully running FrankenPHP on Windows via WSL (Windows Subsystem for Linux), native support was the “white whale” we’ve been... Windows Support for FrankenPHP: It’s Finally Alive! first appeared on Kévin Dunglas.",
+      "link": "https://dunglas.dev/2026/03/windows-support-for-frankenphp-its-finally-alive/",
       "pubDate": "2026-03-06T17:45:33.000Z",
       "source": "Kévin Dunglas",
       "sourceUrl": "https://dunglas.dev/feed/",
