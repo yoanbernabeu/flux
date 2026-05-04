@@ -2,6 +2,50 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "cd9a71587ebf",
+      "title": "Markov Decision Processes and Value Functions in RL",
+      "description": "The full RL nanodegree, covered with implementation.",
+      "link": "https://blog.dailydoseofds.com/p/markov-decision-processes-and-value",
+      "pubDate": "2026-05-03T17:35:07.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!u3xe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feac10488-6a60-4f2f-a4b0-b5b0c28847da_844x588.png",
+      "type": "blog"
+    },
+    {
+      "id": "1b76c8c3ceb8",
+      "title": "Quoting Anthropic",
+      "description": "We used an automatic classifier which judged sycophancy by looking at whether Claude showed a willingness to push back, maintain positions when challenged, give praise proportional to the merit of ideas, and speak frankly regardless of what a person wants to hear. Most of the time in these situations, Claude expressed no sycophancy—only 9% of conversations included sycophantic behavior (Figure 2). But two domains were exceptions: we saw sycophantic behavior in 38% of conversations focused on…",
+      "link": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
+      "pubDate": "2026-05-03T15:13:23.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "46f7ed5ecc70",
+      "title": "A Week of Symfony #1009 (April 27 – May 3, 2026)",
+      "description": "This week, Symfony released the maintained versions 6.4.37, 7.4.9, and 8.0.9. Meanwhile, we continued merging new features for the upcoming Symfony 8.1 version, such as the new TUI component. Lastly, we published an update about the recent SymfonyInsight…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1009-april-27-may-3-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-03T07:20:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1aa1432e45e7",
       "title": "Sightings",
       "description": "/elsewhere/sightings/ I have a new camera (a Canon R6 Mark II) so I'm taking a lot more photos of birds. I share my best wildlife photos on iNaturalist, and based on yesterday's successful prototype I decided to add those to my blog. I built this feature on my phone using Claude Code for web, as an extension of my beats system for syndicating external content. Here's the PR and prompt. As with my other forms of incoming syndicated content sightings show up on the homepage, the date archive…",

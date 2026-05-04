@@ -2,6 +2,42 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "fde31b1a0ea7",
+      "title": "#204.diff - Dev bas niveau: Voyage au centre de l'application. avec Christophe Le Douarec",
+      "description": "Il y a 3 ans, dans l'épisode #204 je recevais Christophe Le Douarec. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-204-d0e3406e7010",
+      "pubDate": "2026-05-04T03:00:50.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/ae0811c7-af8b-49c7-8de3-d0e3406e7010.mp3?_=1777809650",
+      "duration": "57:09"
+    },
+    {
+      "id": "3443de56971b",
+      "title": "Tu hostes en self-hosted mais tu ne monitors rien : on doit parler 👀",
+      "description": "Tu héberges 10 services en self-hosted, tes conteneurs Docker tournent H24... et tu sauras que ça plante quand un pote te DM \"ton site est down\". On doit parler. Dans cette vidéo, je teste Maintenant, un outil de monitoring Docker auto-hébergé qui se configure entièrement avec des labels Docker. Pas de config YAML à part, pas d'agent à installer dans chaque conteneur : tu ajoutes 2 lignes dans ton docker-compose et c'est plié. 🎯 Ce qu'on couvre dans la vidéo : ✅ Auto-découverte des conteneurs…",
+      "link": "https://www.youtube.com/watch?v=_BUgyvxlgh0",
+      "pubDate": "2026-05-03T16:01:02.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/_BUgyvxlgh0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "_BUgyvxlgh0"
+    },
+    {
       "id": "6af86d0ee557",
       "title": "Kloak : injection de secrets en kernel-space via eBPF sur Kubernetes",
       "description": "Comment Kloak intercepte le trafic TLS de vos pods au niveau kernel avec des uprobes eBPF pour injecter vos secrets de façon transparente, sans modifier vos applications ni déployer de sidecar.",
