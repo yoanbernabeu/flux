@@ -76,6 +76,20 @@
       "type": "blog"
     },
     {
+      "id": "7afd9d829bf1",
+      "title": "The greatest capital misallocation in history?",
+      "description": "People are starting to worry",
+      "link": "https://garymarcus.substack.com/p/the-greatest-capital-misallocation",
+      "pubDate": "2026-04-30T20:37:42.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!i1UC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facc02c9f-f32b-4960-98b5-39e91c091221_1314x794.png",
+      "type": "blog"
+    },
+    {
       "id": "3327b8f64af7",
       "title": "We need RSS for sharing abundant vibe-coded apps",
       "description": "We need RSS for sharing abundant vibe-coded apps Matt Webb: I would love an RSS web feed for all those various tools and apps pages, each item with an “Install” button. (But install to where?) The lesson here is that when vibe-coding accelerates app development, apps become more personal, more situated, and more frequent. Shipping a tool or a micro-app is less like launching a website and more like posting on a blog. This inspired me to have Claude add an Atom feed (and icon) to my…",
@@ -132,6 +146,20 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/d614d2067746b7dde5f74c359c42a37ef6f5df3e-951x537.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "08e5fcf24640",
+      "title": "AI #166: Google Sells Out",
+      "description": "This was the week of GPT-5.5.",
+      "link": "https://thezvi.substack.com/p/ai-166-google-sells-out",
+      "pubDate": "2026-04-30T15:37:52.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!ShIC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6a6213e-66ab-45d0-ae23-cffaf226c105_720x900.jpeg",
       "type": "blog"
     },
     {

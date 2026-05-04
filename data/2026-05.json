@@ -2,6 +2,22 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "5eba5dcf9b56",
+      "title": "Claude Code + Graphify : ENFIN la solution qu'on attendait tous ?",
+      "description": "Marre de voir Claude Code saturer en tokens sur vos gros projets ? 🤯 Découvrez comment coupler Claude Code avec Graphify pour créer un Knowledge Graph local et coder sans limites. Dans cette vidéo, on s'attaque au plus gros problème des agents de code : la gestion du contexte sur les répertoires massifs. Claude Code est puissant, mais sans une structure claire, il finit par coûter cher ou perdre le fil. Liens utiles : ▶️ Graphify : https://github.com/safishamsi/graphify 📌 Retrouvez moi sur :…",
+      "link": "https://www.youtube.com/watch?v=3AsYvhK5ndI",
+      "pubDate": "2026-05-04T07:30:01.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/3AsYvhK5ndI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "3AsYvhK5ndI"
+    },
+    {
       "id": "fde31b1a0ea7",
       "title": "#204.diff - Dev bas niveau: Voyage au centre de l'application. avec Christophe Le Douarec",
       "description": "Il y a 3 ans, dans l'épisode #204 je recevais Christophe Le Douarec. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch…",
@@ -101,6 +117,38 @@
       "videoId": "_ic1gWacKkc"
     },
     {
+      "id": "5ab63c0e38ca",
+      "title": "Retour d'expérience avec Proxmox Datacenter Manager",
+      "description": "Quelques retours de mon utilisation de Proxmox Datacenter Manager pour migrer des VM d’un cluster vers un autre",
+      "link": "https://j.hommet.net/proxmox-retex-pdm/",
+      "pubDate": "2026-05-01T10:00:00.000Z",
+      "source": "J.Hommet",
+      "sourceUrl": "https://j.hommet.net/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "958a8e566e94",
+      "title": "Un bug Claude Code brûle vos crédits en silence (veille #18)",
+      "description": "Cette semaine, un message de commit peut vous coûter 200 €, Mistral veut tuer la code review humaine, Claude s’invite dans Blender et Adobe et plus encore !",
+      "link": "https://codecodecoders.substack.com/p/un-bug-claude-code-brule-vos-credits",
+      "pubDate": "2026-05-01T09:23:28.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Jm77!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44eb8dd3-1448-4678-924c-891f6d79a18b_1024x608.png",
+      "type": "blog"
+    },
+    {
       "id": "ed6fd4050c59",
       "title": "#336.exe - La cyber avant et après l’IA: Multiplier la détection, garder l'esprit critique par Houleymatou Baldé",
       "description": "Pour l'épisode #336 je recevais Benoit Larroque. On en débrief avec Houleymatou. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.",
@@ -117,6 +165,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/7b2af2c5-8b09-4eff-a333-08e07f9ea763.mp3?_=1777550508",
       "duration": "11:43"
+    },
+    {
+      "id": "c1b8657ecbf4",
+      "title": "Jour 181 : Ce que j'ai appris avec un skill Claude pour du SEO",
+      "description": "Comment utiliser Claude-SEO pour auditer son site ? Test complet sur Writizzy : du JSON-LD aux headers de sécurité. Analyse des conseils de l'IA pour booster le trafic et résoudre les problèmes d'indexation.",
+      "link": "https://eventuallycoding.com/p/jour-181-ce-que-j-ai-appris-avec-un-skill-claude-pour-du-seo",
+      "pubDate": "2026-05-01T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1777635362166-iw90sjp.png",
+      "type": "blog"
     }
   ]
 }

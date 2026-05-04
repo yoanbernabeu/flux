@@ -2,6 +2,35 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "4d04ec4cc3ed",
+      "title": "★ Searching multiple columns with one URL parameter in laravel-query-builder",
+      "description": "We just released v7.3.0 of laravel-query-builder, which adds a new way to group multiple filters under a single URL parameter. Before getting into the new feature, let me show you how the basics work, so the new bit makes sense in context. The basics Here's a typical setup in a controller: use Spatie\\QueryBuilder\\AllowedFilter; use Spatie\\QueryBuilder\\QueryBuilder; $users = QueryBuilder::for(User::class) -&gt;allowedFilters( AllowedFilter::partial('name'), AllowedFilter::exact('status'), )…",
+      "link": "https://freek.dev/3118-searching-multiple-columns-with-one-url-parameter-in-laravel-query-builder",
+      "pubDate": "2026-05-04T08:09:06.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9d6f480cdafa",
+      "title": "Have LLMs improved patient outcomes?",
+      "description": "A new review suggests otherwise",
+      "link": "https://garymarcus.substack.com/p/have-llms-improved-patient-outcomes",
+      "pubDate": "2026-05-03T20:00:14.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!eUgg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdcba01c-1594-4472-a23d-221981a1445c_1800x2003.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "cd9a71587ebf",
       "title": "Markov Decision Processes and Value Functions in RL",
       "description": "The full RL nanodegree, covered with implementation.",
@@ -61,6 +90,20 @@
       "type": "blog"
     },
     {
+      "id": "518d82724c63",
+      "title": "Richard Dawkins and The Claude Delusion",
+      "description": "The great skeptic gets taken in",
+      "link": "https://garymarcus.substack.com/p/richard-dawkins-and-the-claude-delusion",
+      "pubDate": "2026-05-02T16:19:23.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!qMHq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bd0c255-15fd-4d04-91e5-7b3b2a7a2998_1302x1034.png",
+      "type": "blog"
+    },
+    {
       "id": "b8114894ad6d",
       "title": "On pricing",
       "description": "Seth Godin shares a compact set of pricing truths about value, story, and perception. It is especially good on why the right answer to &quot;that's too expensive&quot; is often a better story, not a lower price. Read more",
@@ -105,6 +148,20 @@
       "type": "blog"
     },
     {
+      "id": "d2935f688880",
+      "title": "“A model that produces code which compiles and passes the tests it was given is not the same as a model that produces correct, secure, maintainable, well-architected software”",
+      "description": "A lot of code is being written by AI, but what does it mean?",
+      "link": "https://garymarcus.substack.com/p/a-model-that-produces-code-which",
+      "pubDate": "2026-05-01T20:04:02.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!L9Di!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9610e183-b1a7-4522-8838-ec798cec6525_1383x864.png",
+      "type": "blog"
+    },
+    {
       "id": "199911941bfe",
       "title": "iNaturalist Sightings",
       "description": "Tool: iNaturalist Sightings I wanted to see my iNaturalist observations - across two separate accounts - grouped by when they occurred. I'm camping this weekend so I built this entirely on my phone using Claude Code for web. I started by building an inaturalist-clumper Python CLI for fetching and \"clumping\" observations - by default clumps use observations within 2 hours and 5km of each other. Then I setup simonw/inaturalist-clumps as a Git scraping repository to run that tool and record the…",
@@ -117,6 +174,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "56df1ba30c32",
+      "title": "Housing Roundup #14: You Can't Build That",
+      "description": "Why can’t you build it?",
+      "link": "https://thezvi.substack.com/p/housing-roundup-14-you-cant-build",
+      "pubDate": "2026-05-01T16:46:17.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!_q08!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4944e40-9b28-4704-9c2a-25ad47bdd3f8_1008x583.png",
       "type": "blog"
     },
     {
