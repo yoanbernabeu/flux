@@ -2,6 +2,35 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "00ac297993ad",
+      "title": "Novabricks : la plateforme No-Code « à la française » pour réconcilier les métiers et la DSI",
+      "description": "Novabricks est une plateforme \"aPaaS\" qui facilite la création d'applications métiers sans codage grâce au No-Code et Low-Code. Elle répond aux besoins numériques croissants des entreprises, aidant à surmonter les limitations des solutions traditionnelles. Novabricks permet ainsi une rapidité, flexibilité et coût réduit, tout en favorisant la souveraineté numérique. L’article Novabricks : la plateforme No-Code « à la française » pour réconcilier les métiers et la DSI est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/05/04/novabricks-la-plateforme-no-code-a-la-francaise-pour-reconcilier-les-metiers-et-la-dsi/",
+      "pubDate": "2026-05-04T12:45:18.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0cc207dc2b08",
+      "title": "Symfony AI Mate : un troisième port d'entrée pour votre app Symfony",
+      "description": "Découvrez Symfony AI Mate, la solution innovante qui ouvre votre application Symfony aux agents via JSON-RPC sur stdio. Exposez vos services à des IDE ou chatbots en toute sécurité, sans port TCP ouvert. Simplifiez le développement avec cette approche unique.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-ai-mate-un-troisieme-port-d-entree-pour-votre-app-symfony",
+      "pubDate": "2026-05-04T11:22:16.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5eba5dcf9b56",
       "title": "Claude Code + Graphify : ENFIN la solution qu'on attendait tous ?",
       "description": "Marre de voir Claude Code saturer en tokens sur vos gros projets ? 🤯 Découvrez comment coupler Claude Code avec Graphify pour créer un Knowledge Graph local et coder sans limites. Dans cette vidéo, on s'attaque au plus gros problème des agents de code : la gestion du contexte sur les répertoires massifs. Claude Code est puissant, mais sans une structure claire, il finit par coûter cher ou perdre le fil. Liens utiles : ▶️ Graphify : https://github.com/safishamsi/graphify 📌 Retrouvez moi sur :…",
@@ -16,6 +45,22 @@
       "image": "https://i.ytimg.com/vi/3AsYvhK5ndI/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "3AsYvhK5ndI"
+    },
+    {
+      "id": "cba1db645544",
+      "title": "Admission Kubernetes en 2026 : Native policies (VAP, MAP), Kyverno ou Gatekeeper, comment choisir ?",
+      "description": "ContexteLe 22 avril 2026, Kubernetes 1.36 sortait avec MutatingAdmissionPolicy en GA. C’est un tournant. Jusqu’ici, beaucoup d’équipes restaient sur Kyverno ou OPA Gatekeeper pour la simple raison qu’il manquait la mutation native dans l’API server. Maintenant, validation et mutation tournent sans webhook, sans dépendance externe. En parallèle, en février 2026, Kyverno 1.17 bascule sur CEL comme moteur principal et déprécie ses anciennes CRDs JMESPath. Le même langage que les Admission Policies…",
+      "link": "https://blog.cockpitio.com/kubernetes/kubernetes-admission-solutions/",
+      "pubDate": "2026-05-04T07:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "fde31b1a0ea7",

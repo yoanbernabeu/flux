@@ -2,6 +2,154 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "e246958d7aa5",
+      "title": "Quoting John Gruber",
+      "description": "So it’s well known that Y Combinator owns some stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At OpenAI’s current $852 billion valuation, that’s worth over $5 billion. &mdash; John Gruber, Y Combinator’s Stake in OpenAI Tags: openai, y-combinator, ai, john-gruber",
+      "link": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
+      "pubDate": "2026-05-05T00:46:29.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9e2378534e2c",
+      "title": "Granite 4.1 3B SVG Pelican Gallery",
+      "description": "Granite 4.1 3B SVG Pelican Gallery IBM released their Granite 4.1 family of LLMs a few days ago. They're Apache 2.0 licensed and come in 3B, 8B and 30B sizes. Granite 4.1 LLMs: How They’re Built by Granite team member Yousaf Shah describes the training process in detail. Unsloth released the unsloth/granite-4.1-3b-GGUF collection of GGUF encoded quantized variants of the 3B model - 21 different model files ranging in size from 1.2GB to 6.34GB. All 21 of those Unsloth files add up to 51.3GB,…",
+      "link": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything",
+      "pubDate": "2026-05-04T23:49:24.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bf7b7e0f90f7",
+      "title": "Quoting Andy Masley",
+      "description": "[...] Between 2000 and 2024, farmers sold in total a Colorado-sized chunk of land all on their own, 77 times all land on data center property in 2028, and grew more food than ever on what was left. None of this caused any problems for US food access. And then, in the middle of all this, a farmer in Loudoun County sells a few acres of mediocre hay field to a hyperscaler for ten times its agricultural value, and the response is that we’re running out of farmland. &mdash; Andy Masley, pushing back…",
+      "link": "https://simonwillison.net/2026/May/4/andy-masley/#atom-everything",
+      "pubDate": "2026-05-04T22:51:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b28a49081af9",
+      "title": "April 2026 newsletter",
+      "description": "I just sent out the April edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. In this month's newsletter: Opus 4.7 and GPT-5.5, both with price increases Claude Mythos and LLM security research ChatGPT Images 2.0 More model releases Other highlights from my blog What I'm using, April 2026 edition Here's a copy of the March newsletter as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy!…",
+      "link": "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything",
+      "pubDate": "2026-05-04T22:38:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "675f7c5479bc",
+      "title": "5 Practical Defenses for Prompt Injection in LLMs",
+      "description": "...explained visually, with usage.",
+      "link": "https://blog.dailydoseofds.com/p/5-practical-defenses-for-prompt-injection",
+      "pubDate": "2026-05-04T22:19:27.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!du4y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ee69279-2779-4b66-86c8-97f4614c705e_960x640.gif",
+      "type": "blog"
+    },
+    {
+      "id": "6ee1b393fa40",
+      "title": "pnpm 11 Adds Supply Chain Protection Defaults for Minimum Release Age and Exotic Subdependencies",
+      "description": "pnpm 11 has been released with new supply chain protections in place, making safer install behavior the default while still allowing teams to override those settings. The release sets Minimum Release Age to 24 hours by default, blocks exotic subdependencies by default, and introduces a new Allow Builds model for controlling dependency build scripts. pnpm 11 arrived as the JavaScript, Python, and PHP ecosystems were responding to Mini Shai-Hulud, a fresh supply chain campaign that compromised…",
+      "link": "https://socket.dev/blog/pnpm-11-adds-new-supply-chain-protection-defaults?utm_medium=feed",
+      "pubDate": "2026-05-04T19:35:13.763Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/803e2c7beabcfe7fd9bade4769d5d6d3f6d4a507-1748x1014.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "398b9f083cf0",
+      "title": "TRE Python binding — ReDoS robustness demo",
+      "description": "Research: TRE Python binding — ReDoS robustness demo If it's good enough for antirez to add to Redis I figured Ville Laurikari's TRE regular expression engine was worth exploring in a little more detail. I had Claude Code build an experimental Python binding (it used ctypes) and try some malicious regular expression attacks against the library. TRE handles those much better than Python's standard library implementation, thanks mainly to the lack of support for backtracking. Tags: security,…",
+      "link": "https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything",
+      "pubDate": "2026-05-04T17:52:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac0eb875a27d",
+      "title": "Redis Array Playground",
+      "description": "Tool: Redis Array Playground Salvatore Sanfilippo submitted a PR adding a new data type - arrays - to Redis. The new commands are ARCOUNT, ARDEL, ARDELRANGE, ARGET, ARGETRANGE, ARGREP, ARINFO, ARINSERT, ARLASTITEMS, ARLEN, ARMGET, ARMSET, ARNEXT, AROP, ARRING, ARSCAN, ARSEEK, ARSET. The implementation is currently available in a branch, so I had Claude Code for web build this interactive playground for trying out the new commands in a WASM-compiled build of a subset of Redis running in the…",
+      "link": "https://simonwillison.net/2026/May/4/redis-array/#atom-everything",
+      "pubDate": "2026-05-04T15:53:57.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fc31307f43ba",
+      "title": "Splitting Laravel Boost guidelines across multiple files",
+      "description": "Laravel Boost only reads a single core.blade.php per package, so extra sibling files get silently dropped. Here is the minimal pattern for splitting your guidelines into organized partials using a Blade view namespace. Read more",
+      "link": "https://freek.dev/3103-splitting-laravel-boost-guidelines-across-multiple-files",
+      "pubDate": "2026-05-04T12:39:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a00b9c0b1390",
+      "title": "How AI Swarms Are Disrupting Democracy",
+      "description": "Every day, millions of pieces of fake content are produced. Videos, audio clips, posts, articles, generated by artificial intelligence, distributed at industrial scale, aimed at shifting public opinion across entire countries. The people producing them are often outside the country being targeted. The people receiving them almost never know they’re fake. And they have no […]",
+      "link": "https://www.oreilly.com/radar/how-ai-swarms-are-disrupting-democracy/",
+      "pubDate": "2026-05-04T11:43:58.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4d04ec4cc3ed",
       "title": "★ Searching multiple columns with one URL parameter in laravel-query-builder",
       "description": "We just released v7.3.0 of laravel-query-builder, which adds a new way to group multiple filters under a single URL parameter. Before getting into the new feature, let me show you how the basics work, so the new bit makes sense in context. The basics Here's a typical setup in a controller: use Spatie\\QueryBuilder\\AllowedFilter; use Spatie\\QueryBuilder\\QueryBuilder; $users = QueryBuilder::for(User::class) -&gt;allowedFilters( AllowedFilter::partial('name'), AllowedFilter::exact('status'), )…",
