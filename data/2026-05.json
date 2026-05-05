@@ -31,6 +31,22 @@
       "type": "blog"
     },
     {
+      "id": "0adde19e5947",
+      "title": "Quoi de neuf les devs? #175 - Veille tech et interview de Eric Larchevêque de Ledger / TBSO",
+      "description": "Votre dose d'infos tech infusé par un dev pour les devs avec l'interview d'Eric Larchevêque de Ledger / TBSO. On parlera aussi de ✅ Github, ✅ Friction Engineering, ✅ Cyber, ✅ YggTorrent, ✅ Solidity, …",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-175-veille",
+      "pubDate": "2026-05-04T10:20:49.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!RM_7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4281a7ac-c5d3-4f3e-942e-e8856614f464_1920x1251.webp",
+      "type": "blog"
+    },
+    {
       "id": "5eba5dcf9b56",
       "title": "Claude Code + Graphify : ENFIN la solution qu'on attendait tous ?",
       "description": "Marre de voir Claude Code saturer en tokens sur vos gros projets ? 🤯 Découvrez comment coupler Claude Code avec Graphify pour créer un Knowledge Graph local et coder sans limites. Dans cette vidéo, on s'attaque au plus gros problème des agents de code : la gestion du contexte sur les répertoires massifs. Claude Code est puissant, mais sans une structure claire, il finit par coûter cher ou perdre le fil. Liens utiles : ▶️ Graphify : https://github.com/safishamsi/graphify 📌 Retrouvez moi sur :…",
