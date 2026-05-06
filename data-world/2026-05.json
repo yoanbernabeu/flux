@@ -2,6 +2,125 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "da773fbd4b4a",
+      "title": "datasette-referrer-policy 0.1",
+      "description": "Release: datasette-referrer-policy 0.1 The OpenStreetMap tiles on the Datasette global-power-plants demo weren't displaying correctly. This turned out to be caused by two bugs. The first is that the CAPTCHA I added to that site a few weeks ago was triggering for the .json fetch requests used by the map plugin, and since those weren't HTML the user was not being asked to solve them. Here's the fix. The second was that OpenStreetMap quite reasonably block tile requests from sites that use a…",
+      "link": "https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything",
+      "pubDate": "2026-05-05T23:44:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e3667d49dc36",
+      "title": "Our AI started a cafe in Stockholm",
+      "description": "Our AI started a cafe in Stockholm Andon Labs previously started an AI-run retail store in San Francisco. Now they're running a similar experiment in Stockholm, Sweden, only this time it's a cafe. These experiments are interesting, and often throw out amusing anecdotes: During the first week of inventory, Mona ordered 120 eggs even though the café has no stove. When the staff told her they couldn’t cook them, she suggested using the high-speed oven, until they pointed out the eggs would likely…",
+      "link": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
+      "pubDate": "2026-05-05T22:14:21.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a62e3a488a77",
+      "title": "Train Classical ML Models on Large Datasets",
+      "description": "Extend the Bagging objective to any ML algorithm.",
+      "link": "https://blog.dailydoseofds.com/p/train-classical-ml-models-on-large-f9c",
+      "pubDate": "2026-05-05T21:56:26.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!tY2v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F366c02db-f5e4-4d23-97a7-0842b61b3fbb_2752x939.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "649554fd9703",
+      "title": "Mercure 0.23.5: Helm chart hardening",
+      "description": "Mercure v0.23.5 just landed, and the dominant theme is the Helm chart. If you run hubs on Kubernetes, especially in HA or multi-tenant mode, this release tightens defaults and adds the kind of policy templates that previously required forking the chart or templating policies outside it. The story behind the release: we audited a production... Mercure 0.23.5: Helm chart hardening first appeared on Kévin Dunglas.",
+      "link": "https://dunglas.dev/2026/05/mercure-0-23-5-helm-chart-hardening/",
+      "pubDate": "2026-05-05T14:07:18.000Z",
+      "source": "Kévin Dunglas",
+      "sourceUrl": "https://dunglas.dev/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5b25fd284499",
+      "title": "Event sourcing with a little help from AI",
+      "description": "A Claude Code skill that helps you design and generate event-sourced domain code for Laravel using spatie/laravel-event-sourcing Read more",
+      "link": "https://freek.dev/3104-event-sourcing-with-a-little-help-from-ai",
+      "pubDate": "2026-05-05T12:42:27.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "87fa8126b3d2",
+      "title": "New in Symfony 8.1: HTTP-Less Symfony Applications",
+      "description": "This is the first article in a series showcasing the most important new features introduced by Symfony 8.1, which will be released at the end of May 2026. Symfony applications are typically built around handling HTTP requests. They do so using the HttpKernel…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-http-less-symfony-applications?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-05T10:48:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "6786076f2f23",
+      "title": "datasette-llm 0.1a7",
+      "description": "Release: datasette-llm 0.1a7 Mechanism for configuring default options for specific models. Part of Datasette's evolving support mechanism for plugins that use LLMs. It's now possible to configure a model with default options, e.g. to say all enrichment operations should use a specific model with temperature set to 0.5. Tags: llm, datasette",
+      "link": "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
+      "pubDate": "2026-05-05T01:56:55.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cc242aee1b48",
+      "title": "llm-echo 0.5a0",
+      "description": "Release: llm-echo 0.5a0 New -o thinking 1 option to help test against LLM 0.32a0 and higher. This plugin provides a fake model called \"echo\" for LLM which doesn't run an LLM at all - it's useful for writing automated tests. You can now do this: uvx --with llm==0.32a1 --with llm-echo==0.5a0 llm -m echo hi -o thinking 1 This will fake a reasoning block to standard error before returning JSON echoing the prompt. Tags: llm",
+      "link": "https://simonwillison.net/2026/May/5/llm-echo/#atom-everything",
+      "pubDate": "2026-05-05T01:31:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e246958d7aa5",
       "title": "Quoting John Gruber",
       "description": "So it’s well known that Y Combinator owns some stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At OpenAI’s current $852 billion valuation, that’s worth over $5 billion. &mdash; John Gruber, Y Combinator’s Stake in OpenAI Tags: openai, y-combinator, ai, john-gruber",

@@ -2,6 +2,138 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "23aa6e2f08d4",
+      "title": "#355.src - SRE et DevOps: La prod relax : désacraliser la tension dans l'ère SRE avec Kevin Davin",
+      "description": "\"Pour moi, la prod, ça doit être un sujet qui est relaxant\" Le D.E.V. de la semaine est Kevin Davin, Google Developer Expert Cloud et Kotlin, SRE chez Gradle. Dans cet épisode, on clarifie la frontière (parfois floue) entre SRE et DevOps, et comment la philosophie DevOps s'oppose au métier concret de SRE. Kevin décortique la question des rôles et des responsabilités, l'importance de l'erreur budget, et l'impact réel des outils managés et de l'IA. On discute de la montée en puissance de…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-355-9f21f7fcd7ff",
+      "pubDate": "2026-05-06T03:00:38.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/583b328b-9353-4cf0-adf8-7bd0996391b0.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/40db127b-5ccd-4c82-97fd-9f21f7fcd7ff.mp3?_=1777982558",
+      "duration": "52:47"
+    },
+    {
+      "id": "93951d1fb522",
+      "title": "Interviews d'experts - épisode #3 : GreenOps  and  FinOps",
+      "description": "Lors cette série d’interviews, OCTO mobilise ses experts pour vous décrypter l’actualité. Aujourd’hui, Brice Le Roux, expert Ops, nous parle de GreenOps and amp; FinOps.",
+      "link": "https://blog.octo.com/interviews-d'experts-episode-3--greenops-and-finops",
+      "pubDate": "2026-05-05T15:05:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bf42f08ae9a2",
+      "title": "Yeah Pa ! : réinventer le lien social en entreprise par la « JOIE » en 2026",
+      "description": "Yeah Pa ! est une entreprise lilloise qui vise à recréer du lien humain en milieu professionnel à travers le jeu. Proposant des événements variés et des solutions ludiques, elle transforme l’expérience de travail en favorisant la cohésion d'équipe, brisant les hiérarchies et améliorant la qualité de vie au travail. L’article Yeah Pa ! : réinventer le lien social en entreprise par la « JOIE » en 2026 est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/05/yeah-pa-reinventer-le-lien-social-en-entreprise-par-la-joie-en-2026/",
+      "pubDate": "2026-05-05T14:22:28.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a93dcd6efbbc",
+      "title": " Software development : les DSI face au chaos du code généré par l’IA",
+      "description": "Grâce à l'IA, la production logicielle tend à se démocratiser au sein de l’entreprise, il devient essentiel de mettre en place dès maintenant un accompagnement structuré autour de l’IA. À défaut, la DSI pourrait de se transformer en « Wall-E du code », contrainte de trier et réparer les déchets d’une production logicielle devenue incontrôlée.",
+      "link": "https://blog.octo.com/software-development--les-dsi-face-au-chaos-du-code-genere-par-l'ia",
+      "pubDate": "2026-05-05T13:14:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "434c612a7aa5",
+      "title": "L'IA : Sauveur ou Fossoyeur de L’open source? (AI Slop, Fuzzing & Clean Room) 🤖⚔️",
+      "description": "L'IA : Sauveur ou Fossoyeur de L’open source? (AI Slop, Fuzzing & Clean Room) 🤖⚔️ L'intelligence artificielle est-elle une bénédiction pour le logiciel libre, ou la menace ultime qui va faire s'effondrer ses fondations ? 🚀 Dans ce nouvel épisode de A La French, on débat de l'impact sismique de l'IA sur l'écosystème Open Source. Le constat est paradoxal : si l'IA permet de briser le syndrome de la page blanche, d'accélérer les portages sur de nouvelles plateformes et de démultiplier la force…",
+      "link": "https://shows.acast.com/a-la-french/episodes/69f93de3d9139f13fbc56759",
+      "pubDate": "2026-05-05T10:06:34.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1777975547364-f7a49097-f91f-447b-b23a-4f0e1f716076.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69f93de3d9139f13fbc56759/media.mp3",
+      "duration": "1:18:45"
+    },
+    {
+      "id": "1a7415b2375c",
+      "title": "Mes choix pour le nouveau site",
+      "description": "🔗 Article : https://grafikart.fr/blog/new-site-laravel Dans cette vidéo je vous partage les choix technologique fait dans le cadre du développement de la nouvelle version du site. 00:00 Introduction 02:31 Pourquoi Laravel ? 11:48 Pourquoi Tailwind CSS 13:45 React & Custom Elements 16:39 Inertia 20:26 FrankenPHP 23:19 La migration ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬…",
+      "link": "https://www.youtube.com/watch?v=mWpvFGw2c7I",
+      "pubDate": "2026-05-05T09:54:13.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/mWpvFGw2c7I/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "mWpvFGw2c7I"
+    },
+    {
+      "id": "2fb8cd470e7d",
+      "title": "Le site fait peau neuve !",
+      "description": "Petite vidéo pour vous présenter la nouvelle version du site et les nouvelles fonctionnalités. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=w11uBPAJ1R4",
+      "pubDate": "2026-05-05T09:12:35.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/w11uBPAJ1R4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "w11uBPAJ1R4"
+    },
+    {
+      "id": "1fa0dc856639",
+      "title": "Design ops, Product ops, Research ops : comment passer de pompier à stratège en 3 mois",
+      "description": "Les fonctions opérationnelles des équipes Produit - Design Ops, Product Ops et Research Ops - sont soumises actuellement à une pression sans précédent, à l’heure de l’hyper-accélération provoquée par l’Intelligence Artificielle. Je vous partage ici une méthode en 3 temps pour construire une stratégie Ops qui tient la route !",
+      "link": "https://blog.octo.com/design-ops-product-ops-research-ops--comment-passer-de-pompier-a-stratege-en-3-mois",
+      "pubDate": "2026-05-05T08:10:00.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "00ac297993ad",
       "title": "Novabricks : la plateforme No-Code « à la française » pour réconcilier les métiers et la DSI",
       "description": "Novabricks est une plateforme \"aPaaS\" qui facilite la création d'applications métiers sans codage grâce au No-Code et Low-Code. Elle répond aux besoins numériques croissants des entreprises, aidant à surmonter les limitations des solutions traditionnelles. Novabricks permet ainsi une rapidité, flexibilité et coût réduit, tout en favorisant la souveraineté numérique. L’article Novabricks : la plateforme No-Code « à la française » pour réconcilier les métiers et la DSI est apparu en premier sur…",
