@@ -1,0 +1,34 @@
+{
+  "covered": [
+    {
+      "id": "7aa3c232743c",
+      "title": "Une boucle for contre 11,7 millions de Français : autopsie d'une faille IDOR",
+      "link": "https://lecodeestdanslepre.fr/billets/une-boucle-for-contre-11-7-millions-de-francais-autopsie-d-une-faille-idor",
+      "covered_in": "2026-05-07"
+    },
+    {
+      "id": "a6191f32cbf1",
+      "title": "Sortie de Mercure 0.23.5 : un Helm chart blindé pour vos clusters Kubernetes",
+      "link": "https://les-tilleuls.coop/blog/mercure-0-23-5-helm-chart-kubernetes",
+      "covered_in": "2026-05-07"
+    },
+    {
+      "id": "5c0ffed1c14e",
+      "title": "Docker Bake : une nouvelle manière de build nos images Docker",
+      "link": "https://blog.ippon.fr/2026/05/07/docker-bake-une-nouvelle-maniere-de-build-nos-images-docker/",
+      "covered_in": "2026-05-07"
+    },
+    {
+      "id": "e792c3b1ca5b",
+      "title": "News Mai 2026, TypeScript 7 en beta, faux package TanStack et agent Cursor destructeur",
+      "link": "https://double-slash.dev/podcasts/news-mai26/",
+      "covered_in": "2026-05-07"
+    },
+    {
+      "id": "23aa6e2f08d4",
+      "title": "#355.src - SRE et DevOps: La prod relax : désacraliser la tension dans l'ère SRE avec Kevin Davin",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-355-9f21f7fcd7ff",
+      "covered_in": "2026-05-07"
+    }
+  ]
+}

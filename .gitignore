@@ -22,3 +22,8 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# scripts de shorts (skill flux-daily-short, usage perso non versionné)
+# .history.json est versionné pour conserver la mémoire des articles déjà traités
+shorts/*
+!shorts/.history.json
