@@ -2,6 +2,65 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "b94a1578b5dc",
+      "title": "Idempotency: What, Why and How",
+      "description": "A deep dive into idempotency, from the theory behind safe retries to a practical Laravel implementation using the Laravel Idempotency package. Read more",
+      "link": "https://freek.dev/3113-idempotency-what-why-and-how",
+      "pubDate": "2026-05-07T12:33:25.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f972d23ea272",
+      "title": "The Best Risk Mitigation Strategy in Data? A Single Source of Truth",
+      "description": "Every data leader has a version of this story. A regulatory audit surfaces a metric that doesn’t match across systems. A board member catches conflicting revenue numbers in two reports presented back-to-back. An AI tool generates a recommendation based on data that hasn’t been governed since the analyst who built it left the company two […]",
+      "link": "https://www.oreilly.com/radar/the-best-risk-mitigation-strategy-in-data-a-single-source-of-truth/",
+      "pubDate": "2026-05-07T11:14:45.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6bc01360db25",
+      "title": "New in Symfony 8.1: Deep Cloner",
+      "description": "Contributed by Nicolas Grekas in #63612 ,…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-deep-cloner?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-07T07:38:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "d0b187519453",
+      "title": " PHP's biggest problem ",
+      "description": "Read the full post on https://stitcher.io/blog/php-biggest-problem",
+      "link": "https://stitcher.io/blog/php-biggest-problem",
+      "pubDate": "2026-05-07T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1cc1b83bc101",
       "title": "Build a Deep Researcher That Beats OpenAI, Gemini, and Perplexity",
       "description": "...using a 100% open-source, self-hostable stack.",
@@ -73,6 +132,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "94c10e2b6f8e",
+      "title": "What is Anthropic?",
+      "description": "What is Anthropic?",
+      "link": "https://thezvi.substack.com/p/what-is-anthropic",
+      "pubDate": "2026-05-06T13:20:31.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/cc399518-8893-4f97-aff0-8b473c85f2d1_1536x1024.png",
       "type": "blog"
     },
     {
@@ -220,6 +293,48 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!tY2v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F366c02db-f5e4-4d23-97a7-0842b61b3fbb_2752x939.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "7ecdf7621454",
+      "title": "What matters (or should matter), at the Musk-OpenAI trial",
+      "description": "Two perspectives on what’s transpired so far",
+      "link": "https://garymarcus.substack.com/p/what-matters-or-should-matter-at",
+      "pubDate": "2026-05-05T20:56:51.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!2vOK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHHMN5bCbEAAvHJ8.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0ae210e81b25",
+      "title": "The AI Ad-Hoc Prior Restraint Era Begins",
+      "description": "The White House has ordered Anthropic not to expand access to Mythos, and is at least seriously considering a complete about-face of American Frontier AI policy into a full prior restraint regime, where anyone wishing to release a highly capable new model will have to ask for permission",
+      "link": "https://thezvi.substack.com/p/the-ai-ad-hoc-prior-restraint-era",
+      "pubDate": "2026-05-05T19:27:56.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/f701bcf1-17c5-4e19-8f40-6543b2256e2c_293x172.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "3d01b135a97c",
+      "title": "Breaking: Autonomous Agents are a Shitshow",
+      "description": "Sorry to use a technical term in the title",
+      "link": "https://garymarcus.substack.com/p/breaking-autonomous-agents-are-a",
+      "pubDate": "2026-05-05T17:54:27.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!CK66!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F435e65bc-6b81-4882-a8fa-36aeb5a67472_1223x1447.png",
       "type": "blog"
     },
     {

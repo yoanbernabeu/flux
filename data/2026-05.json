@@ -2,6 +2,84 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "58333f89db3a",
+      "title": "Reddit : le nouvel eldorado du marketing digital ?",
+      "description": "Reddit émerge comme une plateforme incontournable pour le marketing digital et les entreprises, grâce à sa richesse en contenu humain, expert et actuel. Les LLM apprécient ce lac de données, redéfinissant ainsi le paysage du SEO. Pour réussir, il est crucial d’adopter une approche authentique tout en respectant les codes culturels français. L’article Reddit : le nouvel eldorado du marketing digital ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/07/reddit-le-nouvel-eldorado-du-marketing-digital/",
+      "pubDate": "2026-05-07T11:18:29.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a6191f32cbf1",
+      "title": "Sortie de Mercure 0.23.5 : un Helm chart blindé pour vos clusters Kubernetes",
+      "description": "Mercure v0.23.5 vient de sortir, et le sujet central de cette release est le Helm chart. Si vous faites tourner des hubs sur Kubernetes, cette version durcit les configurations par défaut et intègre des templates de politiques (policies) qui nécessitaient auparavant de patcher le chart ou de les gérer à l’extérieur. Le contexte derrière cette […] L’article Sortie de Mercure 0.23.5 : un Helm chart blindé pour vos clusters Kubernetes est apparu en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/mercure-0-23-5-helm-chart-kubernetes",
+      "pubDate": "2026-05-07T08:38:12.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/Mercure-hardened-Helm-chart-for-Kubernetes-2048x1143-1-1024x572.png",
+      "type": "blog"
+    },
+    {
+      "id": "c5c09497bd4a",
+      "title": "Pourquoi les études qui prévoient la fin de l’emploi « à cause » de l’IA se plantent-elles toujours ?",
+      "description": "Pourquoi les études qui prévoient la fin de tel ou tel emploi « à cause » de l’IA finissent-elles toujours par se planter ? Alors que les prédictions catastrophistes sur l’emploi circulent comme autant de rumeurs médiatiquement séduisantes, ce papier de Thomas Pourquoi les études qui prévoient la fin de l’emploi « à cause » de l’IA se plantent-elles toujours ? first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/pourquoi-les-etudes-qui-prevoient-la-de-lemploi-a-cause-de-lia-se-plantent-elles-toujours/",
+      "pubDate": "2026-05-07T07:53:32.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "053659d09e27",
+      "title": "Qu’est-ce qu’un ADR (Architecture Decision Record) ?",
+      "description": "Découvrez ce qu’est un ADR (Architecture Decision Record), pourquoi il est utile dans un projet logiciel et comment documenter vos décisions techniques simplement.",
+      "link": "https://code-garage.com/blog/qu-est-ce-qu-un-adr-architecture-decision-record",
+      "pubDate": "2026-05-07T07:37:03.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5c0ffed1c14e",
+      "title": "Docker Bake : une nouvelle manière de build nos images Docker",
+      "description": "Découvrez Docker Bake pour standardiser vos builds Docker. Cette surcouche déclarative de Buildx offre parallélisation intelligente, cache partagé et multi-plateforme.",
+      "link": "https://blog.ippon.fr/2026/05/07/docker-bake-une-nouvelle-maniere-de-build-nos-images-docker/",
+      "pubDate": "2026-05-07T06:01:45.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/docker-bake.png",
+      "type": "blog"
+    },
+    {
       "id": "6e5abd011ee9",
       "title": "L'IA débarque sur le banc de touche : comment la tech transforme le rugby",
       "description": "L'IA sur le banc de touche : les défis de l'intégration logicielle dans le rugby. Analyse des étapes cruciales pour déployer des solutions de Deep Learning : de la gestion de la qualité vidéo à l'adoption par les coachs, pour une technologie au service de l'humain.",
