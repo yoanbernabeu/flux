@@ -2,6 +2,66 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "6e5abd011ee9",
+      "title": "L'IA débarque sur le banc de touche : comment la tech transforme le rugby",
+      "description": "L'IA sur le banc de touche : les défis de l'intégration logicielle dans le rugby. Analyse des étapes cruciales pour déployer des solutions de Deep Learning : de la gestion de la qualité vidéo à l'adoption par les coachs, pour une technologie au service de l'humain.",
+      "link": "https://blog.ippon.fr/2026/05/06/lia-debarque-sur-le-banc-de-touche-comment-la-tech-transforme-le-rugby/",
+      "pubDate": "2026-05-06T13:19:47.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/Gemini_Generated_Image_ttfd8mttfd8mttfd.png",
+      "type": "blog"
+    },
+    {
+      "id": "983a53e350cd",
+      "title": "Konexio : quand le numérique devient un levier d’inclusion, pas une barrière",
+      "description": "Konexio est une association qui lutte contre l'illectronisme en rendant les compétences numériques accessibles à tous, notamment aux populations vulnérables comme les réfugiés et les jeunes en difficulté. Fondée en 2016, elle offre des formations variées pour favoriser l'inclusion numérique et faciliter l'insertion professionnelle, avec des taux de réussite élevés. L’article Konexio : quand le numérique devient un levier d’inclusion, pas une barrière est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/06/konexio-quand-le-numerique-devient-un-levier-dinclusion-pas-une-barriere/",
+      "pubDate": "2026-05-06T12:57:23.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7aa3c232743c",
+      "title": "Une boucle for contre 11,7 millions de Français : autopsie d'une faille IDOR",
+      "description": "Analysez la faille IDOR exploitée chez l'ANTS. Comprenez cette vulnérabilité critique et découvrez comment la prévenir efficacement avec Symfony et PHP pour sécuriser vos applications web.",
+      "link": "https://lecodeestdanslepre.fr/billets/une-boucle-for-contre-11-7-millions-de-francais-autopsie-d-une-faille-idor",
+      "pubDate": "2026-05-06T06:20:50.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "19b35f829a9b",
+      "title": "Comment réussir un quiz marketing B2B qui accroche et génère des leads ?",
+      "description": "Les quiz sont des outils puissants et sous-estimés en marketing pour engager les audiences, récolter des informations et renforcer la mémorisation de la marque. En combinant interactivité, simplicité et pédagogie, ils transforment l'expérience utilisateur. Des exemples de réussite, comme la campagne de Dropbox, démontrent leur efficacité en génération de leads. L’article Comment réussir un quiz marketing B2B qui accroche et génère des leads ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/06/comment-reussir-un-quiz-marketing-b2b-qui-accroche-et-genere-des-leads/",
+      "pubDate": "2026-05-06T05:32:59.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "23aa6e2f08d4",
       "title": "#355.src - SRE et DevOps: La prod relax : désacraliser la tension dans l'ère SRE avec Kevin Davin",
       "description": "\"Pour moi, la prod, ça doit être un sujet qui est relaxant\" Le D.E.V. de la semaine est Kevin Davin, Google Developer Expert Cloud et Kotlin, SRE chez Gradle. Dans cet épisode, on clarifie la frontière (parfois floue) entre SRE et DevOps, et comment la philosophie DevOps s'oppose au métier concret de SRE. Kevin décortique la question des rôles et des responsabilités, l'importance de l'erreur budget, et l'impact réel des outils managés et de l'IA. On discute de la montée en puissance de…",
@@ -18,6 +78,55 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/40db127b-5ccd-4c82-97fd-9f21f7fcd7ff.mp3?_=1777982558",
       "duration": "52:47"
+    },
+    {
+      "id": "946d82ad2229",
+      "title": "Les news du mois d'avril 2026",
+      "description": "Elin Mel sur Unsplash Avril est terminé, et il fut déjà le mois le plus chaud de l’année. Malgré la pluie et les inondations de cet hiver, nous sommes déjà en sécheresse sur une bonne partie du pays et notamment en Bretagne ! Malgré cette nouvelle démoralisante, je vous ai sélectionné des articles intéressants à tout point de vue. Les thèmes sont les mêmes depuis le début d’année, à savoir comment l’IA générative bouscule nos habitudes, la souveraineté de nos infrastructures et de nos données…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/04/news-avril/",
+      "pubDate": "2026-05-06T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/04/news-avril/banner.avif",
+      "type": "blog"
+    },
+    {
+      "id": "e792c3b1ca5b",
+      "title": "News Mai 2026, TypeScript 7 en beta, faux package TanStack et agent Cursor destructeur",
+      "description": "Nous évoquons TypeScript 7 qui débarque en beta, NPMX et son indicateur « You might not need this dependency », un agent Cursor qui détruit une base de prod en neuf secondes, le faux package TanStack qui volait les fichiers .env, Laravel qui glisse des publicités dans le contexte des agents IA, et quelques outils comme React Email 6, Starship ou Patterns.dev. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/news-mai26/",
+      "link": "https://double-slash.dev/podcasts/news-mai26/",
+      "pubDate": "2026-05-06T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1778059761/episode/ART_131_yyi6wl.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_131_news-mai26.mp3",
+      "duration": "4165"
+    },
+    {
+      "id": "f99fa5aa996f",
+      "title": "Être développeur, c'est résoudre des problèmes, pas écrire du code",
+      "description": "Je constate que de plus en plus de développeurs s’interrogent sur leur avenir face à l’IA. Je ne parle pas de simplement s’inquiéter de la perte de leur emploi, mais une remise en question qui va jusqu’à changer de métier. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Ce n’est pas mon cas. Ce qui m’a toujours attiré, c’est de résoudre des problèmes, de réfléchir à une…",
+      "link": "https://www.jdecool.fr/blog/2026/05/06/etre-developpeur-c-est-resoudre-des-problemes-pas-ecrire-du-code.html",
+      "pubDate": "2026-05-05T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "93951d1fb522",

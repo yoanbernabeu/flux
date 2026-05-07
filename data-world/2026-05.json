@@ -2,6 +2,183 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "1cc1b83bc101",
+      "title": "Build a Deep Researcher That Beats OpenAI, Gemini, and Perplexity",
+      "description": "...using a 100% open-source, self-hostable stack.",
+      "link": "https://blog.dailydoseofds.com/p/build-a-deep-researcher-that-beats",
+      "pubDate": "2026-05-06T21:15:40.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!ndas!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34fbc4d4-b55d-4ad2-ba3a-5f86f1255424_680x380.png",
+      "type": "blog"
+    },
+    {
+      "id": "07c45f311c53",
+      "title": "5 Malicious NuGet Packages Impersonate Chinese UI Libraries to Distribute Crypto Wallet and Credential Stealer",
+      "description": "Socket's Threat Research Team discovered five malicious NuGet packages published under the account bmrxntfj that typosquat widely used Chinese .NET UI and infrastructure libraries. Each package grafts a .NET Reactor protected infostealer payload onto a decompiled copy of a legitimate open source library. The stealer targets saved credentials across 12 browsers, 8 desktop cryptocurrency wallets, 5 browser wallet extensions and exfiltrates to a newly-registered C2 domain. Across all versions, the…",
+      "link": "https://socket.dev/blog/5-malicious-nuget-packages-impersonate-chinese-ui-libraries?utm_medium=feed",
+      "pubDate": "2026-05-06T21:00:10.706Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/938e3de66c4c5847bafb470ee1f25c77727e3bac-2048x1573.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "bbb4f250c21d",
+      "title": "Live blog: Code w/ Claude 2026",
+      "description": "I'm at Anthropic's Code w/ Claude event today. Here's my live blog of the morning keynote sessions. Tags: ai, generative-ai, llms, anthropic, claude, claude-code, live-blog",
+      "link": "https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything",
+      "pubDate": "2026-05-06T15:58:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a66437f7d4d",
+      "title": "Symfony 8.1.0-BETA1 released",
+      "description": "Symfony 8.1.0-BETA1 has just been released. This is a pre-release version of Symfony 8.1. If you want to test it in your own applications before its final release, run the following commands: 1 2 3 $ composer config minimum-stability…",
+      "link": "https://symfony.com/blog/symfony-8-1-0-beta1-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-06T14:29:32.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b4a37e868793",
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "description": "I recently talked with Joseph Ruscio about AI coding tools for Heavybit's High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison. Here are some of my highlights, including my disturbing realization that vibe coding and agentic engineering have started to converge in my own work. One thing I really enjoy about podcasts is that they sometimes push me to think out loud in a way that exposes an idea I've not previously been able to put into words. Vibe coding and agentic…",
+      "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
+      "pubDate": "2026-05-06T14:24:08.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1c93032dca64",
+      "title": "Symfony 6.4.38 released",
+      "description": "Symfony 6.4.38 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-6-4-38-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-06T13:07:13.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4de3f3f78b4a",
+      "title": "Eating My Own Dog Food: How I Used the Framework to Write the Post About the Framework",
+      "description": "In “Don’t Automate Your Moat,” I argue that engineering organizations should match AI autonomy to two independent dimensions: business risk and competitive differentiation. I used AI Gateway cost controls as a worked example throughout the piece because a single feature touches all four quadrants depending on which piece you’re building. A piece making that argument […]",
+      "link": "https://www.oreilly.com/radar/eating-my-own-dog-food-how-i-used-the-framework-to-write-the-post-about-the-framework/",
+      "pubDate": "2026-05-06T12:59:17.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/05/image.png",
+      "type": "blog"
+    },
+    {
+      "id": "6d63553f0b78",
+      "title": "Symfony 8.0.10 released",
+      "description": "Symfony 8.0.10 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-0-10-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-06T12:42:41.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "146d9592dd4c",
+      "title": "Symfony 7.4.10 released",
+      "description": "Symfony 7.4.10 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-7-4-10-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-06T12:17:14.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d846ec1df744",
+      "title": "Reusing your Laravel MCP tools in the Laravel AI SDK",
+      "description": "Learn how to reuse your Laravel MCP tools in the Laravel AI SDK using a simple proxy approach, helping you avoid code duplication and making it easier to build AI agents integrated into your Laravel applications. Read more",
+      "link": "https://freek.dev/3111-reusing-your-laravel-mcp-tools-in-the-laravel-ai-sdk",
+      "pubDate": "2026-05-06T12:16:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1ff3dd24c775",
+      "title": "The Organization Is the Bottleneck",
+      "description": "Everyone is adopting AI coding tools. Engineers are writing code faster than ever. But are organizations actually delivering value faster? That’s not obvious. I wrote Enabling Microservice Success with a big focus on engineering enablement, guardrails, automated testing, active ownership, and light touch governance. I didn’t know AI coding agents were coming, but it turns […]",
+      "link": "https://www.oreilly.com/radar/the-organization-is-the-bottleneck/",
+      "pubDate": "2026-05-06T10:09:05.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8083616273bb",
+      "title": "New in Symfony 8.1: Method-Based Commands",
+      "description": "Contributed by Yonel Ceruto in #62567…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-method-based-commands?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-06T06:47:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/yonelceruto.picture",
+      "type": "blog"
+    },
+    {
       "id": "da773fbd4b4a",
       "title": "datasette-referrer-policy 0.1",
       "description": "Release: datasette-referrer-policy 0.1 The OpenStreetMap tiles on the Datasette global-power-plants demo weren't displaying correctly. This turned out to be caused by two bugs. The first is that the CAPTCHA I added to that site a few weeks ago was triggering for the .json fetch requests used by the map plugin, and since those weren't HTML the user was not being asked to solve them. Here's the fix. The second was that OpenStreetMap quite reasonably block tile requests from sites that use a…",
@@ -130,6 +307,20 @@
       "sourceUrl": "https://simonwillison.net/atom/everything/",
       "categories": [
         "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "39a313f51c3c",
+      "title": "The apparatus, not the artifact",
+      "description": "A follow-up to \"Treat Agent Output Like Compiler Output\" — addressing the responses, why determinism isn't the point, and what static analysis actually buys you.",
+      "link": "https://skiplabs.io/blog/notes_from_the_comments",
+      "pubDate": "2026-05-05T00:00:00.000Z",
+      "source": "Skip Labs",
+      "sourceUrl": "https://skiplabs.io/blog/rss.xml",
+      "categories": [
         "Programmation"
       ],
       "image": null,
