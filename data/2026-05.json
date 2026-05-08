@@ -2,6 +2,24 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "1d0018336ffd",
+      "title": "#330.exe - Souveraineté numérique: Sortir de l'ombre des GAFAM par Guillaume Lours",
+      "description": "Pour l'épisode #330 je recevais Damien Lecan. On en débrief avec Guillaume. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-330-f4d95537c5b8",
+      "pubDate": "2026-05-08T03:00:33.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/e0a9ce25-0270-493a-a5e9-f4d95537c5b8.mp3?_=1778155353",
+      "duration": "12:45"
+    },
+    {
       "id": "58333f89db3a",
       "title": "Reddit : le nouvel eldorado du marketing digital ?",
       "description": "Reddit émerge comme une plateforme incontournable pour le marketing digital et les entreprises, grâce à sa richesse en contenu humain, expert et actuel. Les LLM apprécient ce lac de données, redéfinissant ainsi le paysage du SEO. Pour réussir, il est crucial d’adopter une approche authentique tout en respectant les codes culturels français. L’article Reddit : le nouvel eldorado du marketing digital ? est apparu en premier sur OlivierSauvage.com.",
@@ -77,6 +95,37 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/05/docker-bake.png",
+      "type": "blog"
+    },
+    {
+      "id": "2e719f9ba03e",
+      "title": "Solo, vingt features, AGPL : deux mois à coder Maintenant avec Claude",
+      "description": "Le résultat avant l’histoire Maintenant, c’est un binaire Go de quelques mégaoctets qui tourne à 17 Mo de RAM en idle. Tu le drop dans un container, il auto-discover tes containers Docker, Swarm et Kubernetes, surveille tes endpoints HTTP et TCP, tes jobs cron via heartbeats, tes certificats TLS, les ressources de chaque service, détecte les images qui ont une mise à jour disponible, repère les configurations réseau dangereuses — ports DB exposés, bindings 0.0.0.0, containers privilégiés —…",
+      "link": "https://kolapsis.com/blog/maintenant-solo-claude/",
+      "pubDate": "2026-05-07T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d995f51c0b9f",
+      "title": "🤖 Découverte d&#39;ADK Java de Google",
+      "description": "There is no spoon. ©The Oracle",
+      "link": "https://philippart-s.github.io/blog/2026-05-07-adk-java/",
+      "pubDate": "2026-05-07T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

@@ -2,6 +2,110 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "46ee0bb063e8",
+      "title": "The PHP Podcast 2026.05.07",
+      "description": "🎙️ PHP Podcast – May 7, 2026 Hosts: Eric Van Johnson & John Congdon Another fun episode of the PHP Podcast! Here’s what we covered: 🎪 PHP Tek Is 11 Days Away — And Everyone Is Stressed The conference countdown is real: 11 days, 10 hours, and a handful of seconds on the clock. John’s […] The post The PHP Podcast 2026.05.07 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-05-07/",
+      "pubDate": "2026-05-08T02:02:39.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/05/The-PHP-Podcast-2026.05.07.png",
+      "type": "blog"
+    },
+    {
+      "id": "a0773d2154b6",
+      "title": "Build Your Own 100% Local AI Second Brain",
+      "description": "How the best builders in tech are all converging on AI second brains",
+      "link": "https://blog.dailydoseofds.com/p/build-your-own-100-local-ai-second",
+      "pubDate": "2026-05-07T21:56:07.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!bYj0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b5a8a77-a753-47ab-b057-fb20f6905b01_679x579.png",
+      "type": "blog"
+    },
+    {
+      "id": "8179ec5fd21c",
+      "title": "llm-gemini 0.31",
+      "description": "Release: llm-gemini 0.31 gemini-3.1-flash-lite is no longer a preview. Here's my write-up of the Gemini 3.1 Flash-Lite Preview model back in March. I don't believe this new non-preview model has changed since then. Tags: llm-release, gemini, llm, google, generative-ai, ai, llms",
+      "link": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
+      "pubDate": "2026-05-07T19:57:06.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b04200899d48",
+      "title": "Big Words",
+      "description": "Tool: Big Words I'm using my vibe coded macOS presentations tool to put together a talk, and I wanted to add a slide with some text on it. The tool only accepts URLs, so I put together a quick page that accepts query string arguments and turns them into a simple slide. Here's an example: https://tools.simonwillison.net/big-words?text=simonwillison.net&amp;gradient=1&amp;size=9.5 Double click or double tap the page to access a form for modifying the different options. Tags: vibe-coding, tools",
+      "link": "https://simonwillison.net/2026/May/7/big-words/#atom-everything",
+      "pubDate": "2026-05-07T18:47:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "446f5a8605ef",
+      "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
+      "description": "Behind the Scenes Hardening Firefox with Claude Mythos Preview Fascinating, in-depth details on how Mozilla used their access to the Claude Mythos preview to locate and then fix hundreds of vulnerabilities in Firefox: Suddenly, the bugs are very good Just a few months ago, AI-generated security bug reports to open source projects were mostly known for being unwanted slop. Dealing with reports that look plausibly correct but are wrong imposes an asymmetric cost on project maintainers: it’s cheap…",
+      "link": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
+      "pubDate": "2026-05-07T17:56:25.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d4576f9d8fdb",
+      "title": "Notes on the xAI/Anthropic data center deal",
+      "description": "There weren't a lot of big new announcements from Anthropic at yesterday's Code w/ Claude event, but the biggest by far was the deal they've struck with SpaceX/xAI to use \"all of the capacity of their Colossus data center\". As I mentioned in my live blog of the keynote, that's the one with the particularly bad environmental record. The gas turbines installed to power the facility initially ran without Clean Air Act permits or pollution control devices, which they got away with by classifying…",
+      "link": "https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything",
+      "pubDate": "2026-05-07T17:09:28.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5bb605cfc4c6",
+      "title": "SymfonyDay Montreal 2026: Empower creativity with ExpressionLanguage",
+      "description": "SymfonyDay Montreal 2026 schedule is live! Join us on June 4, 2026, at L'Espace Quartier Latin (UQAM) for a day of pure PHP and Symfony expertise. 🎤 Speaker announcement! Florian Merle, Backend Developer, baksla.sh, will present \"Empower creativity…",
+      "link": "https://symfony.com/blog/symfonyday-montreal-2026-empower-creativity-with-expressionlanguage?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-07T13:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/HEADER-1200x440px-at-3x-5.png",
+      "type": "blog"
+    },
+    {
       "id": "b94a1578b5dc",
       "title": "Idempotency: What, Why and How",
       "description": "A deep dive into idempotency, from the theory behind safe retries to a practical Laravel implementation using the Laravel Idempotency package. Read more",
@@ -43,6 +147,21 @@
         "Web"
       ],
       "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "94895c326bda",
+      "title": "GitHub Repo Stats",
+      "description": "Tool: GitHub Repo Stats One of the things I always look for when evaluating a new GitHub repository is the number of commits it has... but that number isn't visible on GitHub's mobile site layout. I built this tool to fix that, using this prompt: Given a GitHub repo URL or foo/bar repo ID show information about that repo absorbed via wither REST or graphql CORS fetch() including the number of commits in the repo and other useful stats Example output for simonw/datasette and simonw/llm. Tags:…",
+      "link": "https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything",
+      "pubDate": "2026-05-07T07:25:14.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
