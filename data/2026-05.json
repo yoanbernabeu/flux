@@ -2,6 +2,24 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "009ec1096f03",
+      "title": "MACI #158 - Découvrez CKE, notre Kubernetes managé - Avec Antoine Blondeau et Gilles Biannic",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique dédié à Kubernetes, on va partir d’un retour d’expérience concret autour de Clever Kubernetes Engine (CKE) pour aborder les enjeux d’exploitation d’un cluster en production, les limites de certaines briques comme etcd à l’échelle, et les choix techniques derrière un Kubernetes réellement opéré. Et puis, comme à notre habitude, la discussion va vite s'étendre... des évolutions de l'écosystème aux annonces de KubeCon autour des GPU NVIDIA…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-158-decouvrez-cke-notre-kubernetes-manage-avec-antoine-blondeau-et-gilles-biannic",
+      "pubDate": "2026-05-08T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/XyMQJUbryqrLx46lS8afaAw7CdDDfLVlNagIGNax_1400x1400.jpeg?t=1778144542",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/bPRx7sNJaX4G.mp3?t=1778143605",
+      "duration": "55:20"
+    },
+    {
       "id": "1d0018336ffd",
       "title": "#330.exe - Souveraineté numérique: Sortir de l'ombre des GAFAM par Guillaume Lours",
       "description": "Pour l'épisode #330 je recevais Damien Lecan. On en débrief avec Guillaume. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
@@ -18,6 +36,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/e0a9ce25-0270-493a-a5e9-f4d95537c5b8.mp3?_=1778155353",
       "duration": "12:45"
+    },
+    {
+      "id": "4541c71264fe",
+      "title": "🎤 Talks donnés à Devoxx UK 🎤",
+      "description": "Talk donné lors de la conférence Devoxx UK",
+      "link": "https://philippart-s.github.io/blog/talks/devoxx-uk-2026/",
+      "pubDate": "2026-05-08T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "58333f89db3a",

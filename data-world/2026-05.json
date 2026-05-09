@@ -2,6 +2,123 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "55bf5e37506c",
+      "title": "Quoting Luke Curley",
+      "description": "WebRTC is designed to degrade and drop my prompt during poor network conditions. wtf my dude WebRTC aggressively drops audio packets to keep latency low. If you’ve ever heard distorted audio on a conference call, that’s WebRTC baybee. The idea is that conference calls depend on rapid back-and-forth, so pausing to wait for audio is unacceptable. …but as a user, I would much rather wait an extra 200ms for my slow/expensive prompt to be accurate. After all, I’m paying good money to boil the ocean,…",
+      "link": "https://simonwillison.net/2026/May/9/luke-curley/#atom-everything",
+      "pubDate": "2026-05-09T01:03:58.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0abd127d4083",
+      "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
+      "description": "Using Claude Code: The Unreasonable Effectiveness of HTML Thought-provoking piece by Thariq Shihipar (on the Claude Code team at Anthropic) advocating for HTML over Markdown as an output format to request from Claude. The article is crammed with interesting examples (collected on this site) and prompt suggestions like this one: Help me review this PR by creating an HTML artifact that describes it. I'm not very familiar with the streaming/backpressure logic so focus on that. Render the actual…",
+      "link": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
+      "pubDate": "2026-05-08T21:00:11.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "30c7e23e4e61",
+      "title": "A Smarter Claude Model Burns More Tokens, Not Fewer!",
+      "description": "...and how to fix it using Karpathy's context engineering principles.",
+      "link": "https://blog.dailydoseofds.com/p/a-smarter-claude-model-burns-more",
+      "pubDate": "2026-05-08T20:45:20.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!4bwD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F985b4d09-73b5-46e4-9235-bada039a877d_1500x1500.gif",
+      "type": "blog"
+    },
+    {
+      "id": "1aef73c4d51f",
+      "title": "SymfonyDay Montreal 2026: CQRS in Symfony: yes, but calm down",
+      "description": "Join us on June 4, 2026, in Montreal at L'Espace Quartier Latin (UQAM) for a unique SymfonyDay. Eight expert speakers are ready to share their knowledge with the community! 🎤 Speaker announcement! Discover \"CQRS in Symfony: yes, but calm down\" presented…",
+      "link": "https://symfony.com/blog/symfonyday-montreal-2026-cqrs-in-symfony-yes-but-calm-down?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-08T13:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/HEADER-1200x440px-at-3x-5.png",
+      "type": "blog"
+    },
+    {
+      "id": "fa33c1b1c0ea",
+      "title": "Fighting Tool Sprawl: The Case for AI Tool Registries",
+      "description": "As enterprise AI agent adoption scales, the absence of centralized, organization-level tool infrastructure is producing compounding costs. When adoption is built around optimizing for deployment speed, enterprises expose themselves to a combination of risks: duplicated engineering effort, security exposure, and operational opacity. Every enterprise needs its own shared tool registry, one that reflects its specific […]",
+      "link": "https://www.oreilly.com/radar/fighting-tool-sprawl-the-case-for-ai-tool-registries/",
+      "pubDate": "2026-05-08T11:20:31.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e59d5123a626",
+      "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
+      "description": ".apr-fig { text-align: center; margin: 1.35em 0; line-height: 1.4; } .apr-fig--wide img { display: inline-block; width: 100%; max-width: 100%; height: auto; vertical-align: middle; } .apr-fig--wide-0-8 { max-width: 80%; margin-left: auto; margin-right: auto; } .apr-fig--tall img { display: inline-block; max-height: 300px; width: auto; max-width: 100%; height: auto; object-fit: contain; vertical-align: middle; } .apr-fig--tall-1-2x img { display: inline-block; max-height: 360px; width: auto;…",
+      "link": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
+      "pubDate": "2026-05-08T09:00:00.000Z",
+      "source": "BAIR Blog",
+      "sourceUrl": "https://bair.berkeley.edu/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "0067978c029e",
+      "title": "New in Symfony 8.1: Console Argument Resolvers",
+      "description": "Contributed by Robin Chalas in #62917…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-console-argument-resolvers?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-08T07:19:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/chalas_r.picture",
+      "type": "blog"
+    },
+    {
+      "id": "078e1f6d2d7b",
+      "title": "Socket Releases Free Certified Patches for Critical vm2 Sandbox Escape",
+      "description": "Socket is releasing free Certified Patches for a critical sandbox escape vulnerability in vm2, a JavaScript sandboxing library used to run untrusted code inside Node.js applications. The vulnerability, tracked as GHSA-ffh4-j6h5-pg66 and CVE-2026-26956, allows attacker-controlled JavaScript executed through VM.run() to escape the sandbox, access the host Node.js process object, and execute arbitrary operating system commands. The current GitHub advisory identifies vm2 3.10.4 as affected and…",
+      "link": "https://socket.dev/blog/free-certified-patches-for-critical-vm2-sandbox-escape?utm_medium=feed",
+      "pubDate": "2026-05-08T05:40:13.981Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/153dea9c09eecacb7a184cd51274c67aa8a2b46f-1832x922.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
       "id": "46ee0bb063e8",
       "title": "The PHP Podcast 2026.05.07",
       "description": "🎙️ PHP Podcast – May 7, 2026 Hosts: Eric Van Johnson & John Congdon Another fun episode of the PHP Podcast! Here’s what we covered: 🎪 PHP Tek Is 11 Days Away — And Everyone Is Stressed The conference countdown is real: 11 days, 10 hours, and a handful of seconds on the clock. John’s […] The post The PHP Podcast 2026.05.07 appeared first on PHP Architect.",
