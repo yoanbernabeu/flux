@@ -2,6 +2,52 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "2e009a142515",
+      "title": "Varnish 9 et le TLS, cool, et avec Let’s Encrypt ?",
+      "description": "J’ai pu expérimenter le support HTTPS de Varnish 9 en live « à l’ancienne » sur une VM Debian 13. Comme la gestion de Let’s Encrypt (d’ACME [...]",
+      "link": "https://blog.seboss666.info/2026/05/varnish-9-et-le-tls-cool-et-avec-lets-encrypt/",
+      "pubDate": "2026-05-09T12:23:52.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2026/04/varnish-cache.png",
+      "type": "blog"
+    },
+    {
+      "id": "cafb85e64f9d",
+      "title": "Faire des requêtes CTE avec Doctrine ORM en PHP",
+      "description": "J’ai déjà évoqué sur ce blog que le développement “moderne” avec les ORM masque les fonctionnalités avancées des SGBD au point que dorénavant les développeurs ne maitrisent et ne connaissent guère plus que le classique SELECT ... FROM ... WHERE .... Dans les mécanismes méconnus et qui pourtant, pourrait permettre de soulager certains traitements applicatifs, on retrouve les CTE (Common Table Expressions). Voyons comment les utiliser avec Doctrine ORM en PHP. Commençons par expliquer ce qu’est…",
+      "link": "https://www.jdecool.fr/blog/2026/05/09/faire-des-requetes-cte-avec-doctrine-orm-en-php.html",
+      "pubDate": "2026-05-08T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7ea1c47583f",
+      "title": "EasyAdmin : construire un menu admin qui tient la route",
+      "description": "Créez un menu admin EasyAdmin robuste avec Symfony. ConfigureMenuItems(), linkTo: bonnes pratiques pour une navigation back-office efficace.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-construire-un-menu-admin-qui-tient-la-route",
+      "pubDate": "2026-05-08T10:32:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "009ec1096f03",
       "title": "MACI #158 - Découvrez CKE, notre Kubernetes managé - Avec Antoine Blondeau et Gilles Biannic",
       "description": "Dans ce nouvel épisode de Message à Caractère Informatique dédié à Kubernetes, on va partir d’un retour d’expérience concret autour de Clever Kubernetes Engine (CKE) pour aborder les enjeux d’exploitation d’un cluster en production, les limites de certaines briques comme etcd à l’échelle, et les choix techniques derrière un Kubernetes réellement opéré. Et puis, comme à notre habitude, la discussion va vite s'étendre... des évolutions de l'écosystème aux annonces de KubeCon autour des GPU NVIDIA…",
