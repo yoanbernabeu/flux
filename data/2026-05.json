@@ -2,6 +2,70 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "cd49e9773cec",
+      "title": "Erratum: erreur dans l'article \"Comment réduire ses tokens Claude Code : 5 habitudes gratuites\" ",
+      "description": "Une erreur s'est glissée dans mon dernier article. Je vous apporte la correction et l'article en lui-même est déjà à jour.",
+      "link": "https://codecodecoders.substack.com/p/erratum-erreur-dans-larticle-comment",
+      "pubDate": "2026-05-11T08:09:15.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!KDU-!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75dc0a3a-d55d-44eb-8dbd-89e89f22b111_1280x1280.png",
+      "type": "blog"
+    },
+    {
+      "id": "a7178f275540",
+      "title": "Llama.cpp, SGLang, vLLM : quel framework d'inférence LLM choisir pour votre assistant de code ?",
+      "description": "Étude d’une architecture auto-hébergée (LiteLLM + vLLM/SGLang/llama.cpp) sur GPUs H100/L40S avec le modèle Devstral-Small-2-24B. Tests jusqu’à 200 utilisateurs via llm-grill, notre outil d'évaluation open source.",
+      "link": "https://blog.octo.com/llama.cpp-sglang-vllm--quel-framework-d'inference-llm-choisir-pour-votre-assistant-de-code",
+      "pubDate": "2026-05-11T07:40:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "029e83e5aafe",
+      "title": "Étude LinkedIn : qu’est-ce qui marche encore en 2026 ?",
+      "description": "Une étude de Social Insider analyse 1,3 million de posts LinkedIn et révèle que l'engagement global augmente, surtout via les documents natifs. Pourtant, les vues de vidéos chutent de 36 %, et la croissance des abonnés ralentit, car les utilisateurs se tournent vers d'autres plateformes pour partager leur expertise. LinkedIn, malgré ses forces de ciblage, montre des signes de saturation. L’article Étude LinkedIn : qu’est-ce qui marche encore en 2026 ? est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/05/11/etude-linkedin-quest-ce-qui-marche-encore-en-2026/",
+      "pubDate": "2026-05-11T07:37:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4a43f4bfd86b",
+      "title": "Devoxx 2026",
+      "description": "L'édition 2026 du Devoxx décrypte les avancées majeures de l'IA sur l'ingénierie logicielle, des architectures multi-agents à l'informatique quantique et aux stratégies pour maintenir la qualité du code.",
+      "link": "https://blog.ippon.fr/2026/05/11/devoxx-2026/",
+      "pubDate": "2026-05-11T07:00:31.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/devoxx_2026.png",
+      "type": "blog"
+    },
+    {
       "id": "b2b51374975d",
       "title": "Un widget Tui custom : trois bugs et un chat dégoûté",
       "description": "Créez un widget personnalisé Tui pour afficher un GIF dans le terminal avec Symfony Terminal. Découvrez les étapes pour étendre AbstractWidget, implémenter render(RenderContext): array et utiliser onAttach(WidgetContext) pour animer une image.",
@@ -97,6 +161,22 @@
       "type": "blog"
     },
     {
+      "id": "03e9d96541e2",
+      "title": "Un faux package TanStack volait vos .env en silence (veille #19)",
+      "description": "Supply chain npm sur TanStack, SpaceX injecte 220 000 GPUs chez Anthropic, TanStack Form dépasse les 90M de téléchargements et une police de caractères qui génère des graphiques sans une ligne de JS.",
+      "link": "https://codecodecoders.substack.com/p/un-faux-package-tanstack-volait-vos",
+      "pubDate": "2026-05-08T15:21:55.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!A8FU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e385ecd-7e56-4e10-aecf-6ff8feea26cc_1024x608.png",
+      "type": "blog"
+    },
+    {
       "id": "e7ea1c47583f",
       "title": "EasyAdmin : construire un menu admin qui tient la route",
       "description": "Créez un menu admin EasyAdmin robuste avec Symfony. ConfigureMenuItems(), linkTo: bonnes pratiques pour une navigation back-office efficace.",
@@ -109,6 +189,22 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a06a1556b1ca",
+      "title": "Comment réduire ses tokens Claude Code : 5 habitudes gratuites",
+      "description": "Chaque requête à Claude Code consomme des tokens et tout le monde en brûle deux à trois fois plus qu'il ne le faudrait. Cette première partie (sur 3) se concentre sur 5 habitudes à changer.",
+      "link": "https://codecodecoders.substack.com/p/comment-reduire-ses-tokens-claude",
+      "pubDate": "2026-05-08T08:41:37.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!E2wz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd93c7296-a3e2-497d-bdb3-3572dda972f9_1024x608.png",
       "type": "blog"
     },
     {

@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "7cf9e9acca2f",
+      "title": "New in Symfony 8.1: Improved Cache Attribute",
+      "description": "The #[Cache] attribute lets you define HTTP cache headers directly on controllers, including dynamic values for the Last-Modified and ETag headers. Symfony 8.1 makes this attribute easier to use and more flexible. New request and args Variables in Expressions…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-improved-cache-attribute?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-11T06:55:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/hypemc.picture",
+      "type": "blog"
+    },
+    {
       "id": "05d042dc5905",
       "title": "Quoting New York Times Editors’ Note",
       "description": "This article was updated after The Times learned that a remark attributed to Pierre Poilievre, the Conservative leader, was in fact an A.I.-generated summary of his views about Canadian politics that A.I. rendered as a quotation. The reporter should have checked the accuracy of what the A.I. tool returned. The article now accurately quotes from a speech delivered by Mr. Poilievre in April. [...] He did not refer to politicians who changed allegiances as turncoats in that speech. &mdash; New…",
@@ -28,6 +43,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!u3xe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feac10488-6a60-4f2f-a4b0-b5b0c28847da_844x588.png",
+      "type": "blog"
+    },
+    {
+      "id": "86c22bdd5583",
+      "title": "Misplaced panic over AI progress",
+      "description": "Breaking down what METR’s latest “time horizon” graph does and does not show",
+      "link": "https://garymarcus.substack.com/p/misplaced-panic-over-ai-progress",
+      "pubDate": "2026-05-10T19:44:26.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!2QRJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHH1ZeYvbYAAg36u.jpg",
       "type": "blog"
     },
     {
@@ -135,6 +164,34 @@
       "type": "blog"
     },
     {
+      "id": "1144f592020d",
+      "title": "Claude Code, Codex and Agentic Coding #8",
+      "description": "When I started this series, everyone was going crazy for coding agents.",
+      "link": "https://thezvi.substack.com/p/claude-code-codex-and-agentic-coding-f54",
+      "pubDate": "2026-05-08T16:35:21.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!DOfn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8fae727-bb0e-4d99-b234-16c2b9498663_884x900.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "b105c1b4af30",
+      "title": "Agents and ROI",
+      "description": "Remember that MIT study that showed that the ROI for generative AI wasn’t really there for most businesses?",
+      "link": "https://garymarcus.substack.com/p/agents-and-roi",
+      "pubDate": "2026-05-08T14:58:32.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!CUVM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3e28708-53f2-4acf-aaa3-5ac0e6d0a533_1171x1218.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "1aef73c4d51f",
       "title": "SymfonyDay Montreal 2026: CQRS in Symfony: yes, but calm down",
       "description": "Join us on June 4, 2026, in Montreal at L'Espace Quartier Latin (UQAM) for a unique SymfonyDay. Eight expert speakers are ready to share their knowledge with the community! 🎤 Speaker announcement! Discover \"CQRS in Symfony: yes, but calm down\" presented…",
@@ -237,6 +294,20 @@
       "type": "blog"
     },
     {
+      "id": "e7635f8154b5",
+      "title": "Breaking news: “they hadn’t figured out how OpenAI would pay for it” ",
+      "description": "Sign of things to come?",
+      "link": "https://garymarcus.substack.com/p/breaking-news-they-hadnt-figured",
+      "pubDate": "2026-05-07T21:42:21.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!IOEe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F443e3591-aa62-4a15-acd6-c614e0a9b243_1025x1047.png",
+      "type": "blog"
+    },
+    {
       "id": "8179ec5fd21c",
       "title": "llm-gemini 0.31",
       "description": "Release: llm-gemini 0.31 gemini-3.1-flash-lite is no longer a preview. Here's my write-up of the Gemini 3.1 Flash-Lite Preview model back in March. I don't believe this new non-preview model has changed since then. Tags: llm-release, gemini, llm, google, generative-ai, ai, llms",
@@ -294,6 +365,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4d36203db054",
+      "title": "AI #167: The Prior Restraint Era Begins",
+      "description": "The era of training frontier models and then releasing them whenever you wanted?",
+      "link": "https://thezvi.substack.com/p/ai-167-the-prior-restraint-era-begins",
+      "pubDate": "2026-05-07T13:43:20.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!NwEj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67efa848-1fda-48a0-a6cf-199f3a8075f3_900x900.jpeg",
       "type": "blog"
     },
     {
