@@ -2,6 +2,70 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "b2b51374975d",
+      "title": "Un widget Tui custom : trois bugs et un chat dégoûté",
+      "description": "Créez un widget personnalisé Tui pour afficher un GIF dans le terminal avec Symfony Terminal. Découvrez les étapes pour étendre AbstractWidget, implémenter render(RenderContext): array et utiliser onAttach(WidgetContext) pour animer une image.",
+      "link": "https://lecodeestdanslepre.fr/billets/un-widget-tui-custom-trois-bugs-et-un-chat-degoute",
+      "pubDate": "2026-05-10T16:24:26.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f594687a1051",
+      "title": "Le Strategy Pattern expliqué avec Symfony",
+      "description": "Dans cette vidéo, on va découvrir le Strategy Pattern appliqué à Symfony. Le Strategy Pattern est un design pattern très utile pour éviter les gros blocs de if / else, rendre son code plus maintenable, plus testable et plus facile à faire évoluer. On va partir d’un exemple simple avec plusieurs comportements conditionnels, puis voir comment refactorer ce code avec une interface, plusieurs stratégies, l’injection de dépendances et le container de services Symfony. Tu verras aussi où Symfony…",
+      "link": "https://www.youtube.com/watch?v=cnVqkgbLN00",
+      "pubDate": "2026-05-10T08:00:41.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/cnVqkgbLN00/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "cnVqkgbLN00"
+    },
+    {
+      "id": "ea5e41198d90",
+      "title": "Le mirage de la productivité IA : et si on en faisait moins ?",
+      "description": "L'IA t'a fait gagner trois heures aujourd'hui. T'en as fait quoi ? Probablement codé trois heures de plus. Pourquoi le temps gagné par l'IA n'est jamais à nous, et comment le reprendre.",
+      "link": "https://yoandev.co/mirage-productivite-ia",
+      "pubDate": "2026-05-10T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/mirage-productivite-ia.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3cd1780a2e15",
+      "title": "Construire des Golden Images avec Packer sur Scaleway",
+      "description": "Pour mes expérimentations sur Tangled, je souhaitais tester l’auto-hébergement des knot et spindles dans des machines virtuelles (les explications arrivent dans un futur article). C’était donc l’occasion de rejouer un peu sur Scaleway, et avec Packer.",
+      "link": "https://codeka.io/2026/05/10/packer-scaleway/",
+      "pubDate": "2026-05-10T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/05/10/packer-scaleway/cover_hu_bfba8d5cff808896.webp",
+      "type": "blog"
+    },
+    {
       "id": "2e009a142515",
       "title": "Varnish 9 et le TLS, cool, et avec Let’s Encrypt ?",
       "description": "J’ai pu expérimenter le support HTTPS de Varnish 9 en live « à l’ancienne » sur une VM Debian 13. Comme la gestion de Let’s Encrypt (d’ACME [...]",

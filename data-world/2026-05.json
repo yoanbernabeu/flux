@@ -2,6 +2,80 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "05d042dc5905",
+      "title": "Quoting New York Times Editors’ Note",
+      "description": "This article was updated after The Times learned that a remark attributed to Pierre Poilievre, the Conservative leader, was in fact an A.I.-generated summary of his views about Canadian politics that A.I. rendered as a quotation. The reporter should have checked the accuracy of what the A.I. tool returned. The article now accurately quotes from a speech delivered by Mr. Poilievre in April. [...] He did not refer to politicians who changed allegiances as turncoats in that speech. &mdash; New…",
+      "link": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
+      "pubDate": "2026-05-10T23:58:49.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e1db53b3f57",
+      "title": "Bellman Equations and Dynamic Programming in RL",
+      "description": "The full RL nanodegree, covered with implementation.",
+      "link": "https://blog.dailydoseofds.com/p/bellman-equations-and-dynamic-programming",
+      "pubDate": "2026-05-10T21:41:19.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!u3xe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feac10488-6a60-4f2f-a4b0-b5b0c28847da_844x588.png",
+      "type": "blog"
+    },
+    {
+      "id": "5113484316ce",
+      "title": "Quoting Andrew Quinn",
+      "description": "One could say in the first quarter-century of my life, that while I was always fascinated by programming, I could never overcome the guilt of not really knowing whether the tool I am building right now isn’t already superceded by some much better implementation someone else has already written 30 or 40 years ago; I could write a TSV-aware search and replace, or I could find out about awk and solve that entire class of problems in one fell swoop, for example. My central conceit is that this is a…",
+      "link": "https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything",
+      "pubDate": "2026-05-10T14:59:17.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "328c71cb634c",
+      "title": "Flaky Test Retries in Pest v4.5.0",
+      "description": "Pest v4.5.0 adds first-class support for flaky tests with retries and a dedicated CLI filter. The release also brings a useful casing assertion for catching namespace and file path mismatches, plus a coverage option that hides uncovered files. Read more",
+      "link": "https://freek.dev/3096-flaky-test-retries-in-pest-v450",
+      "pubDate": "2026-05-10T12:30:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d4fabd79d52d",
+      "title": "A Week of Symfony #1010 (May 4–10, 2026)",
+      "description": "This week, Symfony 6.4.38, 7.4.10, and 8.0.10 maintenance versions were released. In addition, we published the first beta of Symfony 8.1 so you can test it before its final release in three weeks. Meanwhile, we shared more information about the SymfonyDay…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1010-may-4-10-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-10T07:06:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "55bf5e37506c",
       "title": "Quoting Luke Curley",
       "description": "WebRTC is designed to degrade and drop my prompt during poor network conditions. wtf my dude WebRTC aggressively drops audio packets to keep latency low. If you’ve ever heard distorted audio on a conference call, that’s WebRTC baybee. The idea is that conference calls depend on rapid back-and-forth, so pausing to wait for audio is unacceptable. …but as a user, I would much rather wait an extra 200ms for my slow/expensive prompt to be accurate. After all, I’m paying good money to boil the ocean,…",
@@ -14,6 +88,21 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c8d562271df3",
+      "title": "fsnotify Maintainer Dispute Sparks Supply Chain Concerns",
+      "description": "A dispute over maintainer access in fsnotify, a widely used Go library for cross-platform filesystem notifications, briefly raised takeover concerns this week after contributors were removed from the project’s GitHub organization and recent releases came under scrutiny. So far, there’s no evidence that any fsnotify release was compromised. The concern is messier and more familiar: when a popular project has unclear maintainer roles, release access, and review norms, downstream users can’t…",
+      "link": "https://socket.dev/blog/fsnotify-maintainer-dispute-sparks-supply-chain-concerns?utm_medium=feed",
+      "pubDate": "2026-05-08T23:50:07.548Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/b9b07e03604bf7647b7dd11977450879469897f7-1062x1028.png?w=1600&q=95&fit=max&auto=format",
       "type": "blog"
     },
     {
