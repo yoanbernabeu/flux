@@ -2,6 +2,66 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "032dd932355b",
+      "title": "L'outil n'est pas la compétence",
+      "description": "L’IA a changé (comme pour beaucoup, je pense) ma manière de travailler. Pas seulement dans ma façon d’écrire du code, mais aussi dans les outils que j’utilise au quotidien. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Je passe aujourd’hui beaucoup plus de temps dans mon terminal et dans des éditeurs comme Zed ou VS Code. Les outils, tels que Claude Code, Codex ou…",
+      "link": "https://www.jdecool.fr/blog/2026/05/12/l-outil-n-est-pas-la-competence.html",
+      "pubDate": "2026-05-11T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c22d0aa558b",
+      "title": "Faire tourner des LLM gratuitement avec Ollama",
+      "description": "Découvrez comment faire fonctionner un grand modèle de langage localement avec Ollama. Apprenez à installer, à tirer un modèle et à l'intégrer dans votre application Symfony grâce à ce guide complet.",
+      "link": "https://lecodeestdanslepre.fr/billets/faire-tourner-des-llm-gratuitement-avec-ollama",
+      "pubDate": "2026-05-11T19:22:30.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "83f09041e6f3",
+      "title": "Apprendre le CSS : Gérer le thème foncé / clair",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/light-dark-css-2343 Sur les systèmes d'exploitation modernes, les utilisateurs peuvent basculer entre un thème clair et un thème sombre selon leurs préférences. La bonne nouvelle, c'est qu'on peut détecter cette préférence directement en CSS pour adapter les couleurs de notre site automatiquement. Il y a 2 approches qui permettent de prendre en compte cette préférence : la media query `prefers-color-scheme` et la fonction `light-dark()`.…",
+      "link": "https://www.youtube.com/watch?v=aCKXGNtulQQ",
+      "pubDate": "2026-05-11T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/aCKXGNtulQQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "aCKXGNtulQQ"
+    },
+    {
+      "id": "783f297d89e6",
+      "title": "TeePee : la solution no-code qui digitalise les processus métier des entreprises",
+      "description": "TeePee est une solution SaaS no-code développée à Lille, permettant aux entreprises de digitaliser efficacement leurs processus métier sans complexité technique. En centralisant les données et automatisant les opérations, elle s'adresse aux organisations de toutes tailles, notamment dans l'industrie et le BTP, avec un modèle tarifaire accessible. L’article TeePee : la solution no-code qui digitalise les processus métier des entreprises est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/11/teepee-la-solution-no-code-qui-digitalise-les-processus-metier-des-entreprises/",
+      "pubDate": "2026-05-11T12:51:27.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cd49e9773cec",
       "title": "Erratum: erreur dans l'article \"Comment réduire ses tokens Claude Code : 5 habitudes gratuites\" ",
       "description": "Une erreur s'est glissée dans mon dernier article. Je vous apporte la correction et l'article en lui-même est déjà à jour.",
@@ -63,6 +123,21 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/05/devoxx_2026.png",
+      "type": "blog"
+    },
+    {
+      "id": "ef6c5175c730",
+      "title": "Les couleurs en CSS : 4 fonctionnalités pour des thèmes vivants et adaptatifs",
+      "description": "Découvrez comment CSS prend en charge nativement la gestion des couleurs et des thèmes, sans préprocesseur ni JavaScript.",
+      "link": "https://www.elao.com/blog/dev/nouveautes-css-2025-part3",
+      "pubDate": "2026-05-11T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -156,6 +231,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "58b046afebc9",
+      "title": "Le message",
+      "description": "Je suis en train de conduire donc c’est Rocky qui décroche. C’est sa mère : – Rocky, j’ai besoin que tu dises quelque chose à Papa. Entre-temps, j’avais eu le temps de me garer pour prendre l’appel, parce que je ne comprenais rien ! rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-05-le-message/\n",
+      "pubDate": "2026-05-08T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -364,6 +454,21 @@
         "Programmation",
         "DevOps",
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c6d362052711",
+      "title": "Pas le temps",
+      "description": "Non mais vas-y, c’est une dinguerie ! Maman m’a dit hier soir que je pouvais ne pas prendre ma douche hier soir et la prendre “plus tard”. Mais, wesh, gros, si tu décales mon réveil à 7h30 parce que je commence à 9h, tu me demandes pas de prendre ma douche le matin en fait ! Là il est 7h58, et j’ai même pas une demi-heur pour prendre mon petit-déjeuner, remonter, mettre des chaussettes, me brosser les dents, prendre mon sac et partir ! La crise d’adolescence se porte bien. rédigés en français.…",
+      "link": "https://boris.schapira.dev/notes/2026-05-pas-le-temps/\n",
+      "pubDate": "2026-05-06T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"

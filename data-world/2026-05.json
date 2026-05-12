@@ -2,6 +2,139 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "466f592dc335",
+      "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
+      "description": "GitLab Act 2 There's a lot going on in this announcement from GitLab about the \"workforce reduction\" and \"structural and strategic decisions\" they are making with respect to the agentic era. They're \"planning to reduce the number of countries by up to 30% where we have small teams\". One of the most interesting things about GitLab is that they have employees spread across a large number of countries - 18 are listed in their public employee handbook but this post says they are \"operating in…",
+      "link": "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
+      "pubDate": "2026-05-11T23:58:55.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b0f3b909e8e8",
+      "title": "Claude Code's Architecture, explained visually!",
+      "description": "6 layer harness, fully mapped out.",
+      "link": "https://blog.dailydoseofds.com/p/claude-codes-architecture-explained",
+      "pubDate": "2026-05-11T21:50:59.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!PHfA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8025cae-dc14-4c61-a04a-a7c9d3dab286_2030x1310.png",
+      "type": "blog"
+    },
+    {
+      "id": "54c13e8e3295",
+      "title": "TanStack npm Packages Compromised in Ongoing Mini Shai-Hulud Supply-Chain Attack",
+      "description": "The Socket Threat Research team detected a compromise across 84 npm package artifacts in the tanstack namespace. Affected packages were modified to add a suspected credential stealer targeting various CI systems, including Github Actions. All packages were flagged by Socket AI Scanner in six minutes or less after publication. Several of the newly turned malicious packages, like pkg:npm/@tanstack/react-router have over 12 million weekly downloads, and are widely consumed both directly and…",
+      "link": "https://socket.dev/blog/tanstack-npm-packages-compromised-mini-shai-hulud-supply-chain-attack?utm_medium=feed",
+      "pubDate": "2026-05-11T20:23:45.220Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1a4ad3d48a10",
+      "title": "Quoting James Shore",
+      "description": "Your AI coding agent, the one you use to write code, needs to reduce your maintenance costs. Not by a little bit, either. You write code twice as quick now? Better hope you’ve halved your maintenance costs. Three times as productive? One third the maintenance costs. Otherwise, you’re screwed. You’re trading a temporary speed boost for permanent indenture. [...] The math only works if the LLM decreases your maintenance costs, and by exactly the inverse of the rate it adds code. If you double…",
+      "link": "https://simonwillison.net/2026/May/11/james-shore/#atom-everything",
+      "pubDate": "2026-05-11T19:48:32.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "86964fb98bdd",
+      "title": "Your AI Use Is Breaking My Brain",
+      "description": "Your AI Use Is Breaking My Brain Excellent, angry piece by Jason Koebler on how AI writing online is becoming impossible to avoid, filtering it is mentally exhausting and it's even starting to distort regular human writing styles. I particularly liked his use of the term \"Zombie Internet\" to define a different, more insidious alternative to the \"Dead Internet\" (which is just bots talking to each other): I called it the Zombie Internet because the truth is that large parts of the internet are…",
+      "link": "https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything",
+      "pubDate": "2026-05-11T19:21:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ee4cc623426",
+      "title": "Using LLM in the shebang line of a script",
+      "description": "TIL: Using LLM in the shebang line of a script Kim_Bruning on Hacker News: But seriously, you can put a shebang on an english text file now (if you're sufficiently brave) [...] This inspired me to look at patterns for doing exactly that with LLM. Here's the simplest, which takes advantage of LLM fragments: #!/usr/bin/env -S llm -f Generate an SVG of a pelican riding a bicycle But you can also incorporate tool calls using the -T name_of_tool option: #!/usr/bin/env -S llm -T llm_time -f Write a…",
+      "link": "https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything",
+      "pubDate": "2026-05-11T18:48:57.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b6be045d33aa",
+      "title": "Learning on the Shop floor",
+      "description": "Learning on the Shop floor Tobias Lütke describes Shopify's internal coding agent tool, River, which operates entirely in public on their Slack: River does not respond to direct messages. She politely declines and suggests to create a public channel for you and her to start working in. I myself work with river in #tobi_river channel and many followed this pattern. Every conversation is therefore searchable. Anyone at Shopify can jump in. In my own channel, there are over 100 people who, react…",
+      "link": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything",
+      "pubDate": "2026-05-11T15:46:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e900ba804c90",
+      "title": "How I manage my todo list",
+      "description": "Peter Suhm shares a simple Todoist setup that separates tasks due on a specific day from tasks that just need to happen this week. The heart of the system is a single custom filter that combines today, overdue, and @this-week items into one view. Read more",
+      "link": "https://freek.dev/3071-how-i-manage-my-todo-list",
+      "pubDate": "2026-05-11T12:30:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f823c2964cb1",
+      "title": "From Capabilities to Responsibilities",
+      "description": "Human-in-the-Loop becomes an operational bottleneck In my previous article, ”The Missing Layer in Agentic AI,” I argued that AI agents need a deterministic execution kernel—a privileged “Kernel Space” that validates every proposed action before it touches the real world. That article focused on what happens at the execution boundary: idempotency, JIT state verification, and DFID-correlated […]",
+      "link": "https://www.oreilly.com/radar/from-capabilities-to-responsibilities/",
+      "pubDate": "2026-05-11T12:00:30.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/05/hitl-diagram-copy.png",
+      "type": "blog"
+    },
+    {
       "id": "7cf9e9acca2f",
       "title": "New in Symfony 8.1: Improved Cache Attribute",
       "description": "The #[Cache] attribute lets you define HTTP cache headers directly on controllers, including dynamic values for the Last-Modified and ETag headers. Symfony 8.1 makes this attribute easier to use and more flexible. New request and args Variables in Expressions…",
