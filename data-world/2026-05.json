@@ -2,6 +2,212 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "0b61ddc929ed",
+      "title": "CSP Allow-list Experiment",
+      "description": "Tool: CSP Allow-list Experiment An experiment that shows that you can load an app in a CSP-protected sandboxed iframe (see previous note) and have a custom fetch() that intercepts CSP errors and passes them up to the parent window... which can then prompt the user to add that domain to an allow-list and then refresh the page. I built this one with GPT-5.5 xhigh running in the Codex desktop app. Tags: content-security-policy, iframes, security",
+      "link": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
+      "pubDate": "2026-05-13T04:50:45.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "30a17fa44e47",
+      "title": "GemStuffer Campaign Abuses RubyGems as Exfiltration Channel Targeting UK Local Government",
+      "description": "Socket's threat research team is tracking a suspicious RubyGems campaign we’re calling GemStuffer, involving more than 100 gems that appear to use the RubyGems registry as a data transport mechanism rather than a conventional malware distribution channel. The packages do not appear designed for mass developer compromise. Many have little or no download activity, and the payloads are repetitive, noisy, and unusually self-contained. Instead, the scripts fetch pages from UK local government…",
+      "link": "https://socket.dev/blog/gemstuffer?utm_medium=feed",
+      "pubDate": "2026-05-13T01:54:45.917Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16379c9544b3",
+      "title": "datasette 1.0a29",
+      "description": "Release: datasette 1.0a29 New TokenRestrictions.abbreviated(datasette) utility method for creating \"_r\" dictionaries. #2695 Table headers and column options are now visible even if a table contains zero rows. #2701 Fixed bug with display of column actions dialog on Mobile Safari. #2708 Fixed bug where tests could crash with a segfault due to a race condition between Datasette.close() and Datasette.close(). #2709 That segfault bug was gnarly. I added a mechanism to Datasette recently that would…",
+      "link": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
+      "pubDate": "2026-05-12T23:41:06.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "78544cdba6f1",
+      "title": "Speculative Decoding in LLMs",
+      "description": "...explained with code and tradeoffs.",
+      "link": "https://blog.dailydoseofds.com/p/speculative-decoding-in-llms",
+      "pubDate": "2026-05-12T23:25:53.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!IBkn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce4e25ca-1b23-4118-a4c7-ecbf8087e961_1166x1166.gif",
+      "type": "blog"
+    },
+    {
+      "id": "c856942fae27",
+      "title": "Quoting Mo Bitar",
+      "description": "Now, if your CEO has never heard the phrase Ralph Loop, oh man, you are less than 30 days away from your next promotion. I'm not even exaggerating. Walk into his office, close the door, and say, hey chief, been experimenting with something. It's called Ralph Loops. And I think it could change literally everything. And he's gonna say, what's a Ralph loop? And you will say, give me $18,000 worth of API credits and I'll show you. Now you won't actually do anything, because you can't do anything.…",
+      "link": "https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything",
+      "pubDate": "2026-05-12T22:59:58.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "30b3124abdc6",
+      "title": "Quoting Mitchell Hashimoto",
+      "description": "The thing about 90% of TDMs [Technical Decision Makers] is that they're motivated primarily by NOT GETTING FIRED. These aren't people who browser Lobsters or push to GH on the weekend. These are people that work 9 to 5, get paid, go home, and NEVER THINK ABOUT WORK AGAIN. So to achieve all that, they follow secular trends supported by analysts and broad public sentiment. Oh, Gartner said that \"AI strategy\" is most important? McKinsey said \"context\" needs to be managed? Well, \"Context Engine for…",
+      "link": "https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything",
+      "pubDate": "2026-05-12T22:21:51.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "49b64062987d",
+      "title": "Summary: An International Agreement to Prevent the Premature Creation of Artificial Superintelligence",
+      "description": "If anyone, anywhere builds a superhuman artificial intelligence using present methods, the most likely outcome is catastrophe. There have accordingly been widespread calls for an international agreement prohibiting the development of superintelligence. In November 2025, MIRI’s Technical Governance Team published an example of one such agreement. This post is an informal and very abbreviated summary […] The post Summary: An International Agreement to Prevent the Premature Creation of Artificial…",
+      "link": "https://intelligence.org/2026/05/12/summary-an-international-agreement-to-prevent-the-premature-creation-of-artificial-superintelligence/",
+      "pubDate": "2026-05-12T22:00:44.000Z",
+      "source": "MIRI Blog",
+      "sourceUrl": "https://intelligence.org/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "78f0f1b4376d",
+      "title": "llm 0.32a2",
+      "description": "Release: llm 0.32a2 A bunch of useful stuff in this LLM alpha, but the most important detail is this one: Most reasoning-capable OpenAI models now use the /v1/responses endpoint instead of /v1/chat/completions. This enables interleaved reasoning across tool calls for GPT-5 class models. #1435 This means you can now see the summarized reasoning tokens when you run prompts against an OpenAI model, displayed in a different color to standard error. Use the -R or --hide-reasoning flags if you don't…",
+      "link": "https://simonwillison.net/2026/May/12/llm/#atom-everything",
+      "pubDate": "2026-05-12T17:45:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0a8a04f41bdc",
+      "title": "Burnout and Cognitive Debt",
+      "description": "Steve Yegge’s article about programmer burnout (“The AI Vampire”) along with Margaret Storey’s article about Cognitive Debt started an ongoing conversation about programmer fatigue and software quality—two topics that should be linked, but often aren’t. Steve argues that programming constantly with the help of agentic AI leds to burnout; it’s fast, it’s fun, but keeping […]",
+      "link": "https://www.oreilly.com/radar/burnout-and-cognitive-debt/",
+      "pubDate": "2026-05-12T15:58:10.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7b762571dd3c",
+      "title": "SymfonyDay Montreal 2026: Building TUIs in PHP: The Symfony Terminal Component",
+      "description": "We are excited to welcome the Symfony community to Montreal on June 4, 2026, at L'Espace Quartier Latin (UQAM). Join us for a day dedicated to expertise and innovation in the heart of the city! See more details about SymfonyDay Montreal 2026. 🎤 Speaker…",
+      "link": "https://symfony.com/blog/symfonyday-montreal-2026-building-tuis-in-php-the-symfony-terminal-component?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-12T15:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/HEADER-1200x440px-at-3x-5.png",
+      "type": "blog"
+    },
+    {
+      "id": "0ba07d678f26",
+      "title": "Socket Named to Rising in Cyber 2026 List of Top Cybersecurity Startups",
+      "description": "Socket has been named to the Rising in Cyber 2026 list, an annual recognition of the most promising private cybersecurity companies, as selected by nearly 150 practicing CISOs and cybersecurity executives. Launched by Notable Capital, Rising in Cyber recognizes 30 private cybersecurity startups shaping the future of enterprise security. This year’s honorees were selected by security leaders from organizations including Booking.com, Albertsons, Atlassian, and TIAA. The list was announced…",
+      "link": "https://socket.dev/blog/rising-in-cyber-2026?utm_medium=feed",
+      "pubDate": "2026-05-12T13:04:49.396Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "92e9a67ec605",
+      "title": "Using the ADR (Action/Domain/Responder) Pattern in Laravel",
+      "description": "Learn what the ADR (Action/Domain/Responder) pattern is and how to apply it in Laravel with a simple, practical example. Read more",
+      "link": "https://freek.dev/3074-using-the-adr-actiondomainresponder-pattern-in-laravel",
+      "pubDate": "2026-05-12T12:30:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0ae44d4cd89e",
+      "title": "Gyms for Them, Mirrors for Us",
+      "description": "Personal AI doesn’t have to run your life to change it. It just must see you clearly and feed your behavior back to you in a way you can’t dodge. Once you look at AI as feedback loops instead of little butlers, the whole “agent” conversation starts to feel upside down. We’ve overrotated on agents […]",
+      "link": "https://www.oreilly.com/radar/gyms-for-them-mirrors-for-us/",
+      "pubDate": "2026-05-12T11:01:56.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d23b72b499de",
+      "title": "New in Symfony 8.1: Serialize Attribute",
+      "description": "Contributed by Kostiantyn Miakshyn in #49518…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-serialize-attribute?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-12T07:12:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/koc.picture",
+      "type": "blog"
+    },
+    {
       "id": "466f592dc335",
       "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
       "description": "GitLab Act 2 There's a lot going on in this announcement from GitLab about the \"workforce reduction\" and \"structural and strategic decisions\" they are making with respect to the agentic era. They're \"planning to reduce the number of countries by up to 30% where we have small teams\". One of the most interesting things about GitLab is that they have employees spread across a large number of countries - 18 are listed in their public employee handbook but this post says they are \"operating in…",
@@ -645,6 +851,21 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7e4f1f7708c7",
+      "title": "Token-Oriented Object Notation (TOON) For PHP Developers",
+      "description": "See the video version at https://youtu.be/Nk9ayWxkJ1M It’s an unfortunate piece of our current developer reality that a lot of our day is spent worrying about how many tokens we’re spending. Every time you send structured data to an LLM API, you’re paying for tokens. And if you’re sending arrays of similar objects as JSON, you’re […] The post Token-Oriented Object Notation (TOON) For PHP Developers appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/05/token-oriented-object-notation-toon-for-php-developers/",
+      "pubDate": "2026-05-06T15:31:28.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/05/Token-Oriented-Object-Notation.png",
       "type": "blog"
     },
     {

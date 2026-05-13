@@ -2,6 +2,405 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "35041c9bc45b",
+      "title": "#356.src - La force de la conférence: Pourquoi les devs ont besoin de se retrouver IRL avec Julien Landuré",
+      "description": "\"Notre métier est profondément ancré dans une culture de transmission, de personne à personne.\" Le D.E.V. de la semaine est Julien Landuré, CTO chez TechTown. Organisateur engagé de conférences comme le DevFest Nantes, il nous explique pourquoi la culture tech adore se retrouver en chair et en os, même à l'heure du replay permanent. Julien partage son regard de bâtisseur d'agora moderne, parle modèle économique et inclusivité, et insiste sur l'importance du collectif. On découvre les coulisses…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-356-e93b537c95bb",
+      "pubDate": "2026-05-13T03:00:51.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/f4d9b2bd-548b-4d48-acc3-b352e1c39292.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/ea2e1295-c58f-4ca6-b83f-e93b537c95bb.mp3?_=1778587371",
+      "duration": "53:16"
+    },
+    {
+      "id": "b3f1d7332de3",
+      "title": "CrowdSec : la défense réseau communautaire expliquée",
+      "description": "Découvrez comment CrowdSec protège votre serveur en apprenant des attaques détectées par la communauté et en appliquant des bans instantanément.",
+      "link": "https://lecodeestdanslepre.fr/billets/crowdsec-la-defense-reseau-communautaire-expliquee",
+      "pubDate": "2026-05-12T20:12:34.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a3b8fff307fd",
+      "title": "La plateforme Laravel que personne n'avait faite en français (jusqu'à aujourd'hui)",
+      "description": "Il y a quelques mois, j'enseignais Laravel sur YouTube gratuitement. Aujourd'hui, je lance laraveljutsu.com — la première plateforme de formation Laravel premium en français. Voici ce que j'ai appris en construisant ça : → Un bon domaine, ça change tout psychologiquement → Cloudflare + Laravel Cloud + Resend = stack infra imbattable en 2025 → Stripe webhooks en prod, c'est pas la même que en local 😅 → La vraie difficulté, c'est pas le code. C'est de livrer. Ce que propose Laravel Jutsu : ⚔️…",
+      "link": "https://www.youtube.com/watch?v=Ty2Suwl5NPA",
+      "pubDate": "2026-05-12T15:41:32.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Ty2Suwl5NPA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Ty2Suwl5NPA"
+    },
+    {
+      "id": "4e2eb40572b4",
+      "title": "Comment intégrer l'IA dans son workflow UX/UI",
+      "description": "\"On a déjà deux agents IA qui tournent en interne.\" Ce n'est pas en réunion que j'ai entendu ça. C'est en mission chez un client, dans leurs bureaux. Ce genre de phrase, je l'entends de plus en plus souvent maintenant, entre deux écrans, dans les couloirs, pendant la pause déjeuner. L'IA fait désormais partie du quotidien. Quelques semaines plus tard, un autre client nous présente deux pages de maquettes générées par Claude, structure de page et premières intentions de contenu, pour expliquer…",
+      "link": "https://jolicode.com/blog/comment-integrer-l-ia-dans-son-workflow-ux-ui",
+      "pubDate": "2026-05-12T10:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/workflow-ia-ux-ui/article-ai-design-01.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "90b21435647f",
+      "title": "Test de CKE, le Kubernetes managé chez Clever Cloud (partie 1)",
+      "description": "La suite de ma saga avec Clever Cloud Ça fait maintenant quelques années que je teste les produits de Clever Cloud sur ce blog. En 2022, j’avais testé le Clever Kubernetes Operator, qui permet de provisionner des services managés (MySQL, Redis, Pulsar…) directement depuis un cluster Kubernetes via des CRDs. En 2025, j’ai réessayé leur offre d’hébergement de sites statiques, et j’ai même poussé le délire jusqu’à déployer un control plane Kubernetes sur leurs apps Linux, pour rigoler en attendant…",
+      "link": "https://blog.zwindler.fr/2026/05/12/test-cke-kubernetes-manage-clever-cloud-partie-1/",
+      "pubDate": "2026-05-12T10:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/05/logo-cke2026.webp",
+      "type": "blog"
+    },
+    {
+      "id": "9da943f69d43",
+      "title": "La tech est-elle vraiment neutre? ",
+      "description": "🌐🏛️ La tech est-elle vraiment neutre, ou masque-t-elle une idéologie politique conçue pour modeler le monde à son image ? 🚀 Dans ce nouvel épisode de A La French, on s'attaque aux mythes fondateurs de la Silicon Valley et on déconstruit la gouvernance d'Internet avec nos deux invités du Centre Internet et Société du CNRS : Francesca Musiani et Olivier Alexandre. Le constat est sans appel : loin des discours d'émancipation et des licornes idylliques , la technologie s'impose de plus en plus…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6a02e8c4b443364556418651",
+      "pubDate": "2026-05-12T10:00:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1778576024058-31960869-3330-4d40-a1fd-0d7958b72a1b.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6a02e8c4b443364556418651/media.mp3",
+      "duration": "1:31:33"
+    },
+    {
+      "id": "55ac6cb32771",
+      "title": "Comment concevoir et tester un site accessible ?",
+      "description": "Présentation par : Emmanuelle ABOAF (Shodo) 📕 Résumé : L’accessibilité numérique reste un enjeu majeur : selon l’Observatoire du respect des obligations d’accessibilité, moins de 5 % des sites internet sont réellement accessibles aux personnes handicapées. Dans cette conférence, je propose de découvrir : les six erreurs d’accessibilité les plus courantes sur les sites web ; comment les corriger facilement grâce à des bonnes pratiques simples en HTML, CSS et Javascript ; comment réaliser des…",
+      "link": "https://www.youtube.com/watch?v=UZZHcfBLJAo",
+      "pubDate": "2026-05-12T08:02:51.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/UZZHcfBLJAo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "UZZHcfBLJAo"
+    },
+    {
+      "id": "fe31e61a5542",
+      "title": "Maximiser votre productivité en rendant votre clavier 2.0 ergonomique",
+      "description": "Présentation par : Alexandre Navarro (BNP Paribas) 📕 Résumé : Pour en connaître plus sur l’histoire et l’ergonomie des claviers ou améliorer votre productivité en configurant ou en programmant votre clavier pour rendre plus accessibles des combinaisons de touches fréquemment utilisées quand vous développez, cette présentation est faite pour vous. Nous évoquerons d’abord rapidement l'histoire des dispositions clavier à travers les âges dont les plus récentes de type 1DFH utilisables en français…",
+      "link": "https://www.youtube.com/watch?v=YYObbHXRTEY",
+      "pubDate": "2026-05-12T08:02:51.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/YYObbHXRTEY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "YYObbHXRTEY"
+    },
+    {
+      "id": "4f4dce54a3d3",
+      "title": "CEL? Encore un autre langage d'expression?!",
+      "description": "Présentation par : Alex Snaps (Red Hat) 📕 Résumé : Le Common Expression Language (CEL) de Google est un langage d'expression rapide, portable et sûr, idéal pour les applications critiques en termes de performances. Il est conçu pour être intégré à une application. CEL est particulièrement adapté à l'extension des configurations déclaratives déjà utilisées par vos applications. Il permet d’y ajouter des extensions spécifiques. CEL peut-être utilisé pour des éléments tels que les filtres de…",
+      "link": "https://www.youtube.com/watch?v=ZzL2LRlKMwg",
+      "pubDate": "2026-05-12T08:02:51.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/ZzL2LRlKMwg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "ZzL2LRlKMwg"
+    },
+    {
+      "id": "fa5c1dcd255f",
+      "title": "Gouvernance partagée & équipe IT : ce qu’on a gardé, abandonné et appris",
+      "description": "Présentation par : Nicolas PEDEGERT (INOCO), Antoine Queinnec (INOCO) 📕 Résumé : Et si le prochain modèle d’entreprise restait à inventer ? Entreprise libérée, holacratie, sociocratie 3.0… les modèles « alternatifs » promettent autonomie, engagement et performance. Mais que deviennent- ils dans une ESN en croissance, avec des consultants en mission, des clients exigeants et des contraintes économiques ? Chez INOCO, nous avons beaucoup expérimenté : certaines pratiques ont changé durablement…",
+      "link": "https://www.youtube.com/watch?v=ekKx7vPgamU",
+      "pubDate": "2026-05-12T08:02:51.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/ekKx7vPgamU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "ekKx7vPgamU"
+    },
+    {
+      "id": "4e2452b52490",
+      "title": "Production Troubleshooting : boostez vos skills, une étude de cas",
+      "description": "Présentation par : William Montaz (Criteo) 📕 Résumé : Quand un incident critique survient, la pression monte immédiatement: données incohérentes, comportements imprévisibles, utilisateurs en alerte. Le réflexe naturel ? Chercher un coupable évident, pointer du doigt le dernier changement effectué, ou se laisser guider par l'intuition... sans progresser. Dans cette session, je vous propose une exploration guidée d'une enquête technique réelle. Spark apparaît dans l'histoire, mais il n'est qu'un…",
+      "link": "https://www.youtube.com/watch?v=hXcHyFNXkbs",
+      "pubDate": "2026-05-12T08:02:51.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/hXcHyFNXkbs/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "hXcHyFNXkbs"
+    },
+    {
+      "id": "b782de7d96f1",
+      "title": "Le Frontend mérite aussi du monitoring !",
+      "description": "Présentation par : Henry Lagarde (Mistral AI) 📕 Résumé : On se focalise souvent sur la performance du backend : monitoring de chaque requête, service et infrastructure. Cependant, le frontend reste souvent dans le noir le plus complet. On écrit, au mieux, des tests (parfois end-to-end 😎), on déploie et on espère que tout fonctionne parfaitement. Mais l’espoir n’est pas une stratégie… Durant cette présentation, nous allons voir comment monitorer le frontend peut nous donner des insights précis…",
+      "link": "https://www.youtube.com/watch?v=lhApauXefsM",
+      "pubDate": "2026-05-12T08:02:51.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/lhApauXefsM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "lhApauXefsM"
+    },
+    {
+      "id": "276bbe2f3acb",
+      "title": "The Sound of Your Secrets: Teaching Your Model to Spy So You Can Learn to Defend",
+      "description": "Présentation par : David vonThenen (NetApp) 📕 Abstract: Every keyboard has a sound signature. Every click and clack carries information. With deep learning and a decent microphone, that information can be weaponized. In this session, we'll explore how modern AI models can identify what you're typing just from the sound of your keyboard. Using a dataset of recorded keystrokes and an open source sound classification pipeline, we'll walk through building a model that can recover text with…",
+      "link": "https://www.youtube.com/watch?v=mNmNcuz10jA",
+      "pubDate": "2026-05-12T08:02:51.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/mNmNcuz10jA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "mNmNcuz10jA"
+    },
+    {
+      "id": "3509c1b664cd",
+      "title": "GitHub Actions : une bombe à retardement pour la supply chain security",
+      "description": "Présentation par : Thierry ABALEA (Shipfox) 📕 Résumé : GitHub Actions est devenu incontournable pour le CI/CD, mais reste insecure by default. En 2025, plusieurs supply chain attacks (tj-actions, s1ngularity, GhostAction, Shai-Hulud) ont exfiltré des secrets, prouvant que les attaquants ciblent massivement la CI. Les bonnes pratiques classiques (pin d’actions, limiter les secrets) sont loin d’être suffisantes. Ce talk montre comment ces attaques fonctionnent, pourquoi le modèle de sécurité…",
+      "link": "https://www.youtube.com/watch?v=so3pj8vGkm0",
+      "pubDate": "2026-05-12T08:02:51.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/so3pj8vGkm0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "so3pj8vGkm0"
+    },
+    {
+      "id": "fda5bad98846",
+      "title": "Conception d'une IA de jeu vidéo avec l'apprentissage par renforcement",
+      "description": "Présentation par : Vincent Ogloblinsky (Orange Innovation) 📕 Résumé : \"Programmez un objectif, pas des règles.\" C'est la promesse de l'apprentissage par renforcement. Vous définissez ce qui vaut des points, l'IA trouve toute seule comment en marquer. Pendant plusieurs mois, j'ai mis cette promesse à l'épreuve sur un jeu de palet fonte/laiton sur planche bois/plomb, en entraînant une IA à jouer contre un adversaire humain — sans lui coder une seule règle de stratégie. Dans ce talk, je vous…",
+      "link": "https://www.youtube.com/watch?v=eTqqFv045Ws",
+      "pubDate": "2026-05-12T08:02:50.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/eTqqFv045Ws/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "eTqqFv045Ws"
+    },
+    {
+      "id": "e7c60b25914d",
+      "title": "Mesurer l’immesurable : Comment évaluer les systèmes à base d’IA générative ?",
+      "description": "Présentation par : Erin Pacquetet (SCIAM) 📕 Résumé : Les IA génératives révolutionnent la création d’applications, ouvrant des usages variés : assistants, génération de contenu, recherche augmentée, et facilitant des tâches complexes. Mais un défi majeur subsiste : évaluer précisément des produits basés sur des modèles à la fois créatifs et imprévisibles. Cette session explore ce paradoxe : exploiter les LLM tout en maîtrisant l’évaluation de leurs résultats. Nous verrons comment ajuster…",
+      "link": "https://www.youtube.com/watch?v=KK_7eCa0GK8",
+      "pubDate": "2026-05-12T08:02:49.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/KK_7eCa0GK8/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "KK_7eCa0GK8"
+    },
+    {
+      "id": "232a9fa97219",
+      "title": "Handicap invisible : l’accessibilité commence dans les réunions (et l'IA aide)",
+      "description": "Présentation par : Anaïs Moulin (Ippon Technologies) 📕 Résumé : Réunions qui s’éternisent, infos perdues, fatigue mentale… et si quelques gestes simples pouvaient changer tout ça ? Dans ce talk, je partagerai des astuces concrètes et immédiatement actionnables pour rendre vos dailys, standups et conférences accessibles à tous, en combinant bonnes pratiques et outils d’IA (sous-titres, transcription, résumés intelligents…). Basé sur mon expérience de Product Owner malentendante, ce talk montre…",
+      "link": "https://www.youtube.com/watch?v=6fkszy3NG4g",
+      "pubDate": "2026-05-12T08:02:48.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/6fkszy3NG4g/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "6fkszy3NG4g"
+    },
+    {
+      "id": "6ba27051eea8",
+      "title": "A door with no locks? Let’s talk about threat modeling",
+      "description": "Présentation par : Barbara Teruggi (Spain) 📕 Abstract: Threat modeling isn’t exactly a new concept, but it has recently become a must-have in product design. With cybersecurity threats on the rise and the pressure to deliver faster, security often ends up on the back burner—usually discovered during QA or, worse, after the code is already out the door. At that point, it’s either a headless-chicken chase to fix things or a recipe for disaster. Developers are the ones who really know how…",
+      "link": "https://www.youtube.com/watch?v=9IX4f4ZbV50",
+      "pubDate": "2026-05-12T08:02:48.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/9IX4f4ZbV50/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "9IX4f4ZbV50"
+    },
+    {
+      "id": "bdbfe90e296e",
+      "title": "Tatouage numérique pour l'IA générative",
+      "description": "Présentation par : Pierre Fernandez (Meta), Tom Sander (Meta) 📕 Résumé : En bref : comment fonctionne le tatouage numérique (watermarking), comment il est utilisé chez Meta et quelles en sont les limites actuelles. --- Cette présentation introduira Meta Seal, un framework open source conçu pour intégrer des tatouages numériques invisibles et robustes dans tous les types de contenus (image, vidéo, audio et texte), notamment : PixelSeal : dédié à l’image et à la vidéo, le modèle le plus abouti,…",
+      "link": "https://www.youtube.com/watch?v=DYkGqamDfEo",
+      "pubDate": "2026-05-12T08:02:48.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/DYkGqamDfEo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "DYkGqamDfEo"
+    },
+    {
+      "id": "7c59f160e88d",
+      "title": "Dev agentique : Stitch et Jules dans l’Antigravité de la constellation Gemini",
+      "description": "Présentation par : Guillaume Laforge (Google) 📕 Résumé : Hein, quoi ? Et bien Google a lancé différents outils de dev IA. L’objectif de ce talk est de décrypter ces nouveaux outils \"agentiques\" pour savoir où et quand les utiliser. Nous explorerons Antigravity, un nouvel IDE dont la vue principale est un tableau de bord d'agents de codage. Vous planifiez et reviewez le travail des agents autonomes exécutant les tâches. Bien sûr, vous pouvez à tout moment repasser en mode IDE avec les…",
+      "link": "https://www.youtube.com/watch?v=E3t3-ZT3qJY",
+      "pubDate": "2026-05-12T08:02:48.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/E3t3-ZT3qJY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "E3t3-ZT3qJY"
+    },
+    {
+      "id": "53b40d783afa",
+      "title": "Kafka 4, fantastique ?",
+      "description": "Présentation par : Damien Lucas (Mirakl) 📕 Résumé : Vous l'attendiez, impatiemment, depuis quatre ans et ... ça y est ! Kafka 4 est là ! À chaque release majeure, son lot de nouveautés, et on se retrouve pour explorer les évolutions clés, leurs motivations et leurs impacts. Nous aborderons, entre autres : La suppression de ZooKeeper : le passage à KRaft pour simplifier la gestion et améliorer la scalabilité Le nouveau protocole de rééquilibrage : une optimisation des groupes de consommateurs…",
+      "link": "https://www.youtube.com/watch?v=Hn2hNeilp_M",
+      "pubDate": "2026-05-12T08:02:48.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/Hn2hNeilp_M/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Hn2hNeilp_M"
+    },
+    {
+      "id": "3ff391e24f5f",
+      "title": "Comment faire tourner une IA en local: outils, modèles et configuration matérielle",
+      "description": "Le prix des tokens ne cesse de monter et la protection des données devient de plus en plus importante. Alors, pourquoi ne pas faire tourner un modèle d'IA directement sur votre machine, en local ? Dans cet épisode, nous vous expliquons comment procéder, quel modèle choisir en fonction de la puissance de votre machine, et quels logiciels utiliser. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/ia-local/",
+      "link": "https://double-slash.dev/podcasts/ia-local/",
+      "pubDate": "2026-05-12T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1778599560/episode/ART_132_kg8gzh.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_132_ia-local.mp3",
+      "duration": "2129"
+    },
+    {
       "id": "032dd932355b",
       "title": "L'outil n'est pas la compétence",
       "description": "L’IA a changé (comme pour beaucoup, je pense) ma manière de travailler. Pas seulement dans ma façon d’écrire du code, mais aussi dans les outils que j’utilise au quotidien. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Je passe aujourd’hui beaucoup plus de temps dans mon terminal et dans des éditeurs comme Zed ou VS Code. Les outils, tels que Claude Code, Codex ou…",
@@ -12,6 +411,22 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32303d5fd426",
+      "title": "Mise + Krew : vos plugins kubectl en mode déclaratif",
+      "description": "Comment Mise arrive à résoudre les problèmes de Krew et du tooling interne des équipes SRE en général",
+      "link": "https://une-tasse-de.cafe/expresso/mise-krew/",
+      "pubDate": "2026-05-11T22:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
       ],
       "image": null,
       "type": "blog"
