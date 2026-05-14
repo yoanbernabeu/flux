@@ -2,6 +2,213 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "0f2fdba1f457",
+      "title": "TeamPCP and BreachForums Launch $1,000 Contest for Supply Chain Attacks",
+      "description": "After months of targeting security tools, CI/CD workflows, and open source packages, TeamPCP is now promoting Shai-Hulud as required tooling for a competition that rewards the biggest compromise with a tiny crypto payout. According to Dark Web Informer, the competition was announced on BreachForums by an account identified as the forum’s owner, in collaboration with TeamPCP. Participants are being offered $1,000 USD in Monero to compromise open source packages with Shai-Hulud, along with the…",
+      "link": "https://socket.dev/blog/teampcp-supply-chain-attack-contest?utm_medium=feed",
+      "pubDate": "2026-05-14T02:49:33.417Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/e147355b99931b7d1fb9e64507673709f2063927-1201x692.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "5af7a14f98c1",
+      "title": "Welcome to the Datasette blog",
+      "description": "Welcome to the Datasette blog We have a bunch of neat Datasette announcements in the pipeline so we decided it was time the project grew an official blog. I built this using OpenAI Codex desktop, which turns out to have the Markdown session transcript export feature I've always wanted. Here's the session that built the blog. See also issue 179. Tags: ai, datasette, generative-ai, llms, ai-assisted-programming, codex",
+      "link": "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything",
+      "pubDate": "2026-05-13T23:59:39.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a1b3e31fe5ac",
+      "title": "Hermes Agent Masterclass",
+      "description": "Everything you need to understand and customize Hermes Agent.",
+      "link": "https://blog.dailydoseofds.com/p/hermes-agent-masterclass",
+      "pubDate": "2026-05-13T21:01:15.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!SpeK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb526bcd4-4732-4c62-8372-826d45ed663a_722x511.png",
+      "type": "blog"
+    },
+    {
+      "id": "45bebd6881eb",
+      "title": "Symfony 8.1.0-BETA2 released",
+      "description": "Symfony 8.1.0-BETA2 has just been released. This is a pre-release version of Symfony 8.1. If you want to test it in your own applications before its final release, run the following commands: 1 2 3 $ composer config minimum-stability…",
+      "link": "https://symfony.com/blog/symfony-8-1-0-beta2-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-13T18:41:28.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "01f3f31f9b78",
+      "title": "Symfony 8.0.11 released",
+      "description": "Symfony 8.0.11 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-0-11-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-13T18:23:23.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "848016dd053e",
+      "title": "Symfony 7.4.11 released",
+      "description": "Symfony 7.4.11 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-7-4-11-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-13T18:05:48.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c770e5026163",
+      "title": "Symfony 6.4.39 released",
+      "description": "Symfony 6.4.39 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-6-4-39-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-13T17:54:06.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "42b2e530e165",
+      "title": "Ryan Carson Is a One-Person Code Factory",
+      "description": "Ryan Carson has built companies for 25 years, including Treehouse, which taught over a million people to code. He knows what it takes to grow a team. So when he told me he’d raised $2 million in seed funding for his latest company, Untangle, an AI-powered divorce assistant, and had no plans to hire anyone, […]",
+      "link": "https://www.oreilly.com/radar/ryan-carson-is-a-one-person-code-factory/",
+      "pubDate": "2026-05-13T16:23:10.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "581522dde77c",
+      "title": "Quoting Boris Mann",
+      "description": "“11 AI agents” is meaningless as a phrase. If I said “I have 11 spreadsheets” or “I have 11 browser tabs” to do my work, it means about the same thing. &mdash; Boris Mann Tags: ai-agents, ai, agent-definitions",
+      "link": "https://simonwillison.net/2026/May/13/boris-mann/#atom-everything",
+      "pubDate": "2026-05-13T16:15:50.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e1f413a89abc",
+      "title": "Packagist Urges Immediate Composer Update After GitHub Actions Token Leak",
+      "description": "Packagist is urgently warning PHP projects to update Composer after a GitHub token format change caused some GitHub Actions tokens to be exposed in CI logs. Composer 2.9.8, 2.2.28 LTS, and 1.10.28 fix a vulnerability where Composer could print the full contents of GitHub Actions-issued GITHUB_TOKEN values or GitHub App installation tokens to stderr when the token failed Composer’s validation check. The issue was triggered by GitHub’s rollout of a new token format that includes a hyphen, which…",
+      "link": "https://socket.dev/blog/packagist-urges-immediate-composer-update?utm_medium=feed",
+      "pubDate": "2026-05-13T14:08:18.701Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "546ddfd406c5",
+      "title": "Our hackathon project: Live at Spatie",
+      "description": "At our latest hackathon, we built Live at Spatie, a Laravel and React wrapper around Owntone that lets the whole team queue music, see what's playing, and control the office speakers. The nicest touch is the Slack bot: thanks to an MCP server powered by laravel/mcp and OpenClaw, you can ask it to queue music right from Slack. Read more",
+      "link": "https://freek.dev/3099-our-hackathon-project-live-at-spatie",
+      "pubDate": "2026-05-13T12:30:33.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "706db953f63c",
+      "title": "SymfonyOnline June 2026: The schedule is live!",
+      "description": "The wait is over! After reviewing many high-quality proposals, we are excited to announce the schedule for SymfonyOnline June 2026, taking place online from June 11 to 12, 2026! 🙏 A huge thank you to our community First and foremost, we want to…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-the-schedule-is-live?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-13T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "5b937b79b454",
+      "title": "Your AI Problem Is a Data Problem",
+      "description": "I just sat in a room full of data engineers the other week who were worrying about AI automating them out of work the same way auto manufacturing in Detroit was upended half a century ago. All AI. All the time. That’s what technology professionals are talking about. Data scientists, data engineers, and data architects […]",
+      "link": "https://www.oreilly.com/radar/your-ai-problem-is-a-data-problem/",
+      "pubDate": "2026-05-13T10:59:48.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "38773ef6a893",
+      "title": "New in Symfony 8.1: Dynamic Controller Attributes",
+      "description": "Controller attributes such as #[Cache], #[IsGranted], #[Template] and #[MapRequestPayload] are a core part of modern Symfony applications. Technically, they are static reflection metadata resolved from source code. Symfony 8.1 introduces several improvements…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-dynamic-controller-attributes?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-13T08:34:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
       "id": "0b61ddc929ed",
       "title": "CSP Allow-list Experiment",
       "description": "Tool: CSP Allow-list Experiment An experiment that shows that you can load an app in a CSP-protected sandboxed iframe (see previous note) and have a custom fetch() that intercepts CSP errors and passes them up to the parent window... which can then prompt the user to add that domain to an allow-list and then refresh the page. I built this one with GPT-5.5 xhigh running in the Codex desktop app. Tags: content-security-policy, iframes, security",

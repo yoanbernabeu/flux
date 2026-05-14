@@ -2,6 +2,54 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "c9927a1b690c",
+      "title": "De l'orchestrateur labyrinthe au facilitateur de projet : Retour sur le meetup Airflow 3.2",
+      "description": "Retour sur le meetup Apache Airflow 3.2 organisé par Astronomer et Ippon Technologies à Paris : Partition Keys pour propager le contexte entre DAGs, Async @task pour paralléliser les micro-tâches, et un REX concret sur l'industrialisation d'Airflow à grande échelle.",
+      "link": "https://blog.ippon.fr/2026/05/13/meetup-apache-airflow-3-2-nouveautes-rex/",
+      "pubDate": "2026-05-13T13:08:35.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/Airflow-image.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8a5434cb2a1e",
+      "title": "L'IA ou le syndrome de l'Imposteur Augmenté",
+      "description": "Les outils d’IA générative transforment en profondeur notre rapport à l’expertise. Leur capacité à simuler une intelligence, une créativité, voire une intentionnalité, pose une question vertigineuse : et si ces technologies, conçues pour nous assister, finissaient par nous convaincre que nous sommes nous-mêmes des imposteurs ?",
+      "link": "https://blog.octo.com/l'ia-ou-le-syndrome-de-l'imposteur-augmente",
+      "pubDate": "2026-05-13T12:54:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0916ab351bff",
+      "title": "Mise en forme SEO : comment structurer vos contenus pour maximiser la lecture",
+      "description": "Un article efficace combine contenu de qualité et mise en forme soignée pour captiver les lecteurs. Les pratiques de présentation, comme l'utilisation de titres clairs, de listes et d'espaces suffisants, améliorent la lisibilité et soutiennent le référencement. Ainsi, une bonne forme maximise l'engagement des visiteurs sur une page. L’article Mise en forme SEO : comment structurer vos contenus pour maximiser la lecture est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/13/mise-en-forme-seo-comment-structurer-vos-contenus-pour-maximiser-la-lecture/",
+      "pubDate": "2026-05-13T09:06:17.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "35041c9bc45b",
       "title": "#356.src - La force de la conférence: Pourquoi les devs ont besoin de se retrouver IRL avec Julien Landuré",
       "description": "\"Notre métier est profondément ancré dans une culture de transmission, de personne à personne.\" Le D.E.V. de la semaine est Julien Landuré, CTO chez TechTown. Organisateur engagé de conférences comme le DevFest Nantes, il nous explique pourquoi la culture tech adore se retrouver en chair et en os, même à l'heure du replay permanent. Julien partage son regard de bâtisseur d'agora moderne, parle modèle économique et inclusivité, et insiste sur l'importance du collectif. On découvre les coulisses…",
