@@ -2,6 +2,39 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "b2261206a8e5",
+      "title": "#340.exe - De l’idée à une entreprise avec Flutter: Quitter la stabilité pour l'impact par Guillaume Laforge",
+      "description": "Pour l'épisode #340 je recevais Nicolas Guillot. On en débrief avec Guillaume. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-340-a6eb0ca89ce1",
+      "pubDate": "2026-05-15T03:00:08.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/ce3ee159-9758-4960-af2e-a6eb0ca89ce1.mp3?_=1778760128",
+      "duration": "12:32"
+    },
+    {
+      "id": "f899158c787a",
+      "title": "Ma stack IA pour développer des produits sans me ruiner",
+      "description": "Est-ce qu'on peut bâtir une app avec l'IA pour 20€/mois ? Voici un retour terrain pour optimiser ces usages : optimisation de tokens, specs et workflow agentique.",
+      "link": "https://eventuallycoding.com/p/ma-stack-ia-pour-developper-des-produits-sans-me-ruiner",
+      "pubDate": "2026-05-14T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1778777417711-qfyj55a.jpg",
+      "type": "blog"
+    },
+    {
       "id": "c9927a1b690c",
       "title": "De l'orchestrateur labyrinthe au facilitateur de projet : Retour sur le meetup Airflow 3.2",
       "description": "Retour sur le meetup Apache Airflow 3.2 organisé par Astronomer et Ippon Technologies à Paris : Partition Keys pour propager le contexte entre DAGs, Async @task pour paralléliser les micro-tâches, et un REX concret sur l'industrialisation d'Airflow à grande échelle.",
@@ -73,6 +106,21 @@
       "description": "Découvrez comment CrowdSec protège votre serveur en apprenant des attaques détectées par la communauté et en appliquant des bans instantanément.",
       "link": "https://lecodeestdanslepre.fr/billets/crowdsec-la-defense-reseau-communautaire-expliquee",
       "pubDate": "2026-05-12T20:12:34.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a515f04fdd83",
+      "title": "PHP 8.6 : ce qui est acté, ce qui se joue encore",
+      "description": "Découvrez l'état d'avancement de PHP 8.6 à mi-parcours vers sa GA fin 2026. Sept RFCs implémentées, cinq acceptées, et des sujets clés comme les generics au centre des discussions.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-6-ce-qui-est-dans-le-pot-ce-qui-se-joue-encore",
+      "pubDate": "2026-05-12T19:05:12.000Z",
       "source": "Le Code est dans le Pré",
       "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
       "categories": [
