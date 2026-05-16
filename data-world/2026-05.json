@@ -2,6 +2,109 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "5ae711b26a90",
+      "title": "inaturalist-clumper 0.1",
+      "description": "Release: inaturalist-clumper 0.1 Part of the infrastructure I use for publishing my iNaturalist sightings on my blog. I've been running this in production for a few weeks now, inspiring some iterations on how it works, so I decided to ship a 0.1 release. You can see an example of the output in this JSON file. Tags: projects, inaturalist",
+      "link": "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
+      "pubDate": "2026-05-15T23:53:11.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f60f46eedbfa",
+      "title": "[Hands-on] ​Building Custom Tools for AI Agents​",
+      "description": "...explained with code.",
+      "link": "https://blog.dailydoseofds.com/p/hands-on-building-custom-tools-for",
+      "pubDate": "2026-05-15T22:24:34.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!4ztE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F738a9d0d-dc55-4b46-9146-0dabbbecfe9e_793x801.gif",
+      "type": "blog"
+    },
+    {
+      "id": "c8d9ed79e0b1",
+      "title": "Western Gull, Rock Pigeon",
+      "description": "Western Gull, Rock Pigeon, in Los Angeles Area (custom), CA, USI went for a bird walk in the morning before PyCon, and we spotted a local seagull enjoying a Starbucks.",
+      "link": "https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything",
+      "pubDate": "2026-05-15T14:42:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea5212cc87ed",
+      "title": "Flood Fill vs the Magic Circle",
+      "description": "Sebastian reflects on Robin Sloan's distinction between software's flood fill and the magic circle of the physical world. It's a sharp piece on where AI coding feels limitless, and where paper, printers, post offices, and other real-world constraints still break the illusion of full automation. Read more",
+      "link": "https://freek.dev/3102-flood-fill-vs-the-magic-circle",
+      "pubDate": "2026-05-15T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "973b2900e088",
+      "title": "SymfonyDay Montreal 2026: Symfony 8: The Hexagonal Track",
+      "description": "SymfonyDay Montreal 2026 is happening on June 4 at L'Espace Quartier Latin (UQAM). It's the perfect opportunity to sharpen your skills and meet the core team in Canada! 🎤 Speaker announcement! We are thrilled to host Robin Chalas, CEO & Co-Founder,…",
+      "link": "https://symfony.com/blog/symfonyday-montreal-2026-symfony-8-the-hexagonal-track?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-15T11:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/HEADER-1200x440px-at-3x-5.png",
+      "type": "blog"
+    },
+    {
+      "id": "c7635f369bea",
+      "title": "Agent Harness Engineering",
+      "description": "This article was originally published on Addy Osmani’s blog. It’s being reposted here with the author’s permission. Roughly: Anytime you find an agent makes a mistake, you take the time to engineer a solution such that the agent never makes that mistake again. We’ve spent the last two years arguing about models. Which one is […]",
+      "link": "https://www.oreilly.com/radar/agent-harness-engineering/",
+      "pubDate": "2026-05-15T11:02:24.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/05/image.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ba0d9b9d357f",
+      "title": "QR code generator",
+      "description": "Tool: QR code generator Claude helped me build this tool for creating QR codes, for both text/URLs and for connecting to WiFi networks. Tags: vibe-coding, tools, generative-ai, ai, llms",
+      "link": "https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything",
+      "pubDate": "2026-05-15T04:00:49.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d6043ec7bfc2",
       "title": "The PHP Podcast 2026.05.14",
       "description": "🎙️ PHP Podcast – May 14, 2026 Hosts: Eric Van Johnson & John Congdon Another fun episode of the PHP Podcast! Here’s what we covered: 🎙️ PHP Tek Is Four Days Away The countdown clock is basically ticking in real time — PHP Tek 2026 in Chicago is just four days and ten hours out […] The post The PHP Podcast 2026.05.14 appeared first on PHP Architect.",
@@ -14,6 +117,21 @@
         "Web"
       ],
       "image": "https://www.phparch.com/wp-content/uploads/2026/05/The-PHP-Podcast-2026.05.14.png",
+      "type": "blog"
+    },
+    {
+      "id": "dab5068a10f0",
+      "title": "datasette-llm-limits 0.1a0",
+      "description": "Release: datasette-llm-limits 0.1a0 This plugin works in conjunction with datasette-llm and datasette-llm-accountant to let you configure a per-user (or global) spending limit for LLM usage inside of Datasette. Configuration looks something like this: plugins: datasette-llm-limits: limits: per-user-daily: scope: actor window: rolling-24h amount_usd: 1.00 Tags: llm, datasette",
+      "link": "https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything",
+      "pubDate": "2026-05-15T00:42:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

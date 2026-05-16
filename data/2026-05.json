@@ -2,6 +2,39 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "43d3633ecb8e",
+      "title": "L'intelligence artificielle et le paradoxe de l'expérience",
+      "description": "Contrairement aux dynamiques économiques habituelles, l'intelligence artificielle semble progressivement inverser la logique traditionnelle de création de valeur : ce ne sont plus nécessairement les profils les plus juniors qui sont valorisés, mais les plus expérimentés.",
+      "link": "https://blog.octo.com/octo-article-de-blog-21",
+      "pubDate": "2026-05-15T20:09:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ee5dd880477f",
+      "title": "Symfony 8.1 : Découverte des nouveautés",
+      "description": "Découvrez les fonctionnalités incontournables de Symfony 8.1. Dans cette vidéo, nous explorons comment ces nouveautés de mai 2026 vont considérablement simplifier votre quotidien de développeur PHP et réduire le code répétitif (boilerplate). 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les meilleures formations pour apprendre à programmer ★ ▶️ Apprendre le C# : http://bit.ly/csharp-course-fr ▶️ Apprendre le PHP :…",
+      "link": "https://www.youtube.com/watch?v=BFzeAGvLvBw",
+      "pubDate": "2026-05-15T15:20:30.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/BFzeAGvLvBw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "BFzeAGvLvBw"
+    },
+    {
       "id": "b2261206a8e5",
       "title": "#340.exe - De l’idée à une entreprise avec Flutter: Quitter la stabilité pour l'impact par Guillaume Laforge",
       "description": "Pour l'épisode #340 je recevais Nicolas Guillot. On en débrief avec Guillaume. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
@@ -18,6 +51,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/ce3ee159-9758-4960-af2e-a6eb0ca89ce1.mp3?_=1778760128",
       "duration": "12:32"
+    },
+    {
+      "id": "f81f5010f4ac",
+      "title": "EasyAdmin : son premier CrudController",
+      "description": "Découvrez comment bien utiliser le CrudController d'EasyAdmin pour gérer vos entités Symfony de manière propre et efficace. Apprenez à générer un CrudController adapté à votre entité RedirectRule, tout en évitant les pièges liés au mélange de configuration et de logique métier.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-son-premier-crudcontroller",
+      "pubDate": "2026-05-14T18:41:22.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
     },
     {
       "id": "f899158c787a",
