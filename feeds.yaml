@@ -201,6 +201,10 @@ feeds:
     name: Camille Roux
     categories: [Programmation, Web]
 
+  - url: https://www.camilleroux.com/tag/veille/rss/
+    name: Camille Roux — Veille
+    categories: [Programmation, Web, IA, DevOps]
+
   - url: https://blog.cockpitio.com/index.xml
     name: Cockpit io
     categories: [DevOps, Cloud, Cybersécurité]
