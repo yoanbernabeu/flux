@@ -222,6 +222,11 @@ feeds:
     type: podcast
     categories: [IA]
 
+  - url: https://anchor.fm/s/f411ff04/podcast/rss
+    name: Human Coders Podcast
+    type: podcast
+    categories: [Programmation, Web, DevOps, IA]
+
   - url: UCRlsJWh1XwmNGxZPFgJ0Zlw
     name: YoanDev (YouTube)
     type: youtube
@@ -266,6 +271,16 @@ feeds:
     name: Generative AI France (YouTube)
     type: youtube
     categories: [IA]
+
+  - url: UCUCSysJ_Dq9_8DnKHsyKJFg
+    name: Human Talks Paris (YouTube)
+    type: youtube
+    categories: [Programmation, Web, DevOps, IA]
+
+  - url: UC6no2zEiNNC2iZONQ5Xyl3w
+    name: Human Talks (YouTube)
+    type: youtube
+    categories: [Programmation, Web, DevOps, IA]
 
 feeds_world:
   - url: https://dunglas.dev/feed/
