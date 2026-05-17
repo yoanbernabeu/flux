@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "0174d8e48e63",
+      "title": "Warelay -> OpenClaw",
+      "description": "In preparation for a lightning talk I'm giving at PyCon US this afternoon I decided to figure out how many names OpenClaw has actually had since that first commit back in November. Thanks to this first_line_history.py tool (code here) the answer, according to the Git history of the OpenClaw README, is: Warelay → CLAWDIS → CLAWDBOT → Clawdbot → Moltbot →🦞 OpenClaw Or in detail (the output from the tool): 2025-11-24T11:23:15+01:00 16dfc1a # Warelay — WhatsApp Relay CLI (Twilio)…",
+      "link": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
+      "pubDate": "2026-05-16T20:23:30.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9620fb3381ea",
+      "title": "Quoting Julia Evans",
+      "description": "[...] in the last 10 years I’ve learned to really love and respect CSS as a technology. So I decided years ago that I wanted to react to “CSS is hard” by getting better at CSS and taking it seriously as a technology, instead of devaluing it. Doing that changed everything for me: I learned that so many of my frustrations (“centering is impossible”) had been addressed in CSS a long time ago, and that also what “centering” means is not always straightforward and it makes sense that there are many…",
+      "link": "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
+      "pubDate": "2026-05-16T16:45:37.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "adff059a5e0c",
+      "title": "Integration testing our Laravel package with a real server and queue",
+      "description": "The Flare team explains how they built end-to-end integration tests for their Laravel package using a real Testbench workbench app, HTTP server, and queue worker. The post also shows how they swapped the sender to write payloads to disk, then built helpers to assert traces, errors, and async job behavior. Read more",
+      "link": "https://freek.dev/3105-integration-testing-our-laravel-package-with-a-real-server-and-queue",
+      "pubDate": "2026-05-16T12:30:32.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5ae711b26a90",
       "title": "inaturalist-clumper 0.1",
       "description": "Release: inaturalist-clumper 0.1 Part of the infrastructure I use for publishing my iNaturalist sightings on my blog. I've been running this in production for a few weeks now, inspiring some iterations on how it works, so I decided to ship a 0.1 release. You can see an example of the output in this JSON file. Tags: projects, inaturalist",
