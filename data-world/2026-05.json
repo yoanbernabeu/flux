@@ -2,6 +2,80 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "7d34cda2f150",
+      "title": "Model-Free Learning in RL",
+      "description": "The full RL nanodegree, covered with implementation.",
+      "link": "https://blog.dailydoseofds.com/p/model-free-learning-in-rl",
+      "pubDate": "2026-05-17T20:51:35.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!FGyJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f5bc309-47bf-40c7-95a1-1c3e54dbbf42_1000x494.png",
+      "type": "blog"
+    },
+    {
+      "id": "60bfff81ace8",
+      "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
+      "description": "GDS weighs in on the NHS&#x27;s decision to retreat from Open Source Terence Eden continues his coverage of the NHS' poorly considered decision to close down access to their open source repositories in response to vulnerabilities reported to them as part of Project Glasswing. Now the Government Digital Service have joined the conversation with AI, open code and vulnerability risk in the public sector, published May 14th. Their key recommendation: Keep open by default. Making everything private…",
+      "link": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
+      "pubDate": "2026-05-17T15:59:41.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6000c91a8ec7",
+      "title": "The latest and greatest in postcardware at Spatie",
+      "description": "Nick and Dries share how they built Kaartje, a digital postcard wall with a spinning 3D globe that places postcards near the sender's city. It's a fun behind-the-scenes look at the stack, the role AI played during the hackathon, and the performance work needed to render hundreds of postcards smoothly. Read more",
+      "link": "https://freek.dev/3106-the-latest-and-greatest-in-postcardware-at-spatie",
+      "pubDate": "2026-05-17T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f1cea1a7c1c8",
+      "title": "Twig 3.25.0 released",
+      "description": "Twig 3.25.0 released Twig 3.25.0 ships with a new needs_is_sandboxed option that lets filters, functions, and tests adapt their behavior when running inside a sandbox, makes the compiled output of templates using {% embed %} deterministic across runs, and…",
+      "link": "https://symfony.com/blog/twig-3-25-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-17T08:12:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/fabpot.png",
+      "type": "blog"
+    },
+    {
+      "id": "1e270729da20",
+      "title": "A Week of Symfony #1011 (May 11–17, 2026)",
+      "description": "This week, Symfony published maintenance versions 6.4.39, 7.4.11, and 8.0.11. In addition, we announced the second beta release of Symfony 8.1. Finally, we shared the schedule for the SymfonyOnline June 2026 conference and more details about SymfonyDay Montreal…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1011-may-11-17-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-17T07:14:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0174d8e48e63",
       "title": "Warelay -> OpenClaw",
       "description": "In preparation for a lightning talk I'm giving at PyCon US this afternoon I decided to figure out how many names OpenClaw has actually had since that first commit back in November. Thanks to this first_line_history.py tool (code here) the answer, according to the Git history of the OpenClaw README, is: Warelay → CLAWDIS → CLAWDBOT → Clawdbot → Moltbot →🦞 OpenClaw Or in detail (the output from the tool): 2025-11-24T11:23:15+01:00 16dfc1a # Warelay — WhatsApp Relay CLI (Twilio)…",

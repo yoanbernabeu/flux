@@ -2,6 +2,86 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "25b17a738962",
+      "title": "Qu'est-ce qu'un token JWT ?",
+      "description": "Est-ce que le contenu d'un JWT est chiffré ? Est-ce qu'il est public ? Comment est-il sécurisé ? On répond à toutes vos questions dans cet épisode ! Notes de l'épisode : SecretPDF : https://www.secretpdf.io/",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Quest-ce-quun-token-JWT-e3jg9gg",
+      "pubDate": "2026-05-18T05:00:00.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/120120272/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-17%2F40dc8338-7bd3-d3bc-7b88-8a2333cd4bc3.mp3",
+      "duration": "00:10:50"
+    },
+    {
+      "id": "b18b03322ba0",
+      "title": "Utiliser npm link pour tester un module localement",
+      "description": "Découvrez comment utiliser la commande npm link pour développer et tester un module NPM localement sans avoir à le publier à chaque modification.",
+      "link": "https://code-garage.com/blog/utiliser-npm-link-pour-tester-un-module-localement",
+      "pubDate": "2026-05-17T16:18:20.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5588a2b52b7e",
+      "title": "J'ai cloné Claude Code en PHP/Symfony : voici comment ça marche !",
+      "description": "J'ai recodé Claude Code en PHP/Symfony pour comprendre exactement comment un agent de code fonctionne sous le capot. Dans cette vidéo, on commence par les concepts fondamentaux des agents IA (la boucle, le tool calling, le system prompt, les permissions, le streaming, les skills) puis on regarde comment c'est réellement implémenté dans sfcode — un clone CLI de Claude Code écrit avec Symfony AI et Symfony TUI. On termine par une démo en live sur le projet Symfony Demo : ajout d'un endpoint…",
+      "link": "https://www.youtube.com/watch?v=1tX5_4BaPeg",
+      "pubDate": "2026-05-17T16:00:28.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/1tX5_4BaPeg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "1tX5_4BaPeg"
+    },
+    {
+      "id": "dd591ca783af",
+      "title": "Symfony 8.1 : vos Commands passent en mode Controller",
+      "description": "Découvrez comment Symfony 8.1 modernise les Commandes Console avec les value resolvers Doctrine côté console, comme #[MapEntity], pour plus de confort et de performances.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-8-1-vos-commands-passent-en-mode-controller",
+      "pubDate": "2026-05-17T13:22:09.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3421b21cc412",
+      "title": "Donner une conference tech : les coulisses ",
+      "description": "",
+      "link": "https://smaine-milianni.medium.com/donner-une-conference-tech-les-coulisses-03139ca832ae?source=rss-c730ddf97658------2",
+      "pubDate": "2026-05-17T10:54:28.000Z",
+      "source": "Smaïne Milianni",
+      "sourceUrl": "https://medium.com/feed/@smaine-milianni",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*YhHB7FViZrJK7btucTiuaw.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "cb32ea2bca21",
       "title": "Vibe hacking, la nouvelle économie qui peut ruiner votre boite - Gen AI Nantes #15",
       "description": "J’ai hacké* un SaaS en 20 minutes sans savoir coder. Bienvenue dans le vibe hacking : des ados français qui rançonnent les entreprises depuis Discord et Telegram, et ce qu’il faut faire pour ne pas être le prochain. Intervenant : Louis Ammonique Pour vous inscrire aux prochaines sessions du meetup Gen AI Nantes, c'est par ici : https://www.meetup.com/fr-FR/generative-ai-nantes/?eventOrigin=event_home_page",
@@ -30,6 +110,21 @@
       "image": "https://i.ytimg.com/vi/31oUdGe0l_k/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "31oUdGe0l_k"
+    },
+    {
+      "id": "8cbba0ec633d",
+      "title": "FrankenPHP en prod : un binaire, quatre sous-domaines, un seul worker",
+      "description": "Découvrez FrankenPHP, le binaire qui remplace Nginx et PHP-FPM tout en servant plusieurs sous-domaines depuis un seul process. Avec Caddy et Symfony en tant que reverse proxy et application respectively.",
+      "link": "https://lecodeestdanslepre.fr/billets/frankenphp-en-prod-un-binaire-quatre-sous-domaines-un-seul-worker",
+      "pubDate": "2026-05-16T13:14:47.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
     },
     {
       "id": "9d4f04b8e38b",
