@@ -2,6 +2,153 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "6706c3e0cd48",
+      "title": "Active Supply Chain Attack Compromises @antv Packages on npm",
+      "description": "Socket’s Threat Research team is investigating an active npm supply chain attack involving compromised packages in the @antv ecosystem. The attack affects packages tied to the npm maintainer account atool, including echarts-for-react, a widely used React wrapper for Apache ECharts with roughly 1.1 million weekly downloads. Socket quickly detected the malicious publish wave and classified the affected versions as known malware. Socket’s internal review identified hundreds of unique packages. The…",
+      "link": "https://socket.dev/blog/antv-packages-compromised?utm_medium=feed",
+      "pubDate": "2026-05-19T02:49:34.652Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/167eb3610681dfc0d26046cc933afa9dac0c7304-2048x1596.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "5ac9595927fa",
+      "title": "The last six months in LLMs in five minutes",
+      "description": "I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the latest iteration of my annotated presentation tool. # I presented this lightning talk at PyCon US 2026, attempting to summarize the last six months of developments in LLMs in five minutes. # Six months is a pretty convenient time period to cover, because it captures what I've been calling the November 2025 inflection point. November was a critical month in LLMs, especially for coding. # For one…",
+      "link": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
+      "pubDate": "2026-05-19T01:09:44.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a71c46f6bbff",
+      "title": "​Implement Knowledge Distillation from Scratch​",
+      "description": "(must-know to efficiently run ML models in production)",
+      "link": "https://blog.dailydoseofds.com/p/implement-knowledge-distillation",
+      "pubDate": "2026-05-18T21:59:54.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!pC7W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12a6484f-d669-4b33-b8e7-b29d67af1d9d_1456x899.png",
+      "type": "blog"
+    },
+    {
+      "id": "a7f49c269fbf",
+      "title": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
+      "description": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose, in Los Angeles River, CA, USI'm heading home from PyCon US today so I went on a last morning walk to try and spot a pelican. I saw one! Didn't get a great photo of that, but I did see some goslings down by the swan boat lake.",
+      "link": "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
+      "pubDate": "2026-05-18T14:51:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4b11e4f64f4f",
+      "title": "Utilizing Claude Skills in client projects",
+      "description": "In this post, Dries shows how they use Claude Skills to automate repetitive work in client projects, like generating Saloon requests, DTOs, and Livewire pages. It is a practical look at where these workflows save a lot of time, and where careful review still matters. Read more",
+      "link": "https://freek.dev/3107-utilizing-claude-skills-in-client-projects",
+      "pubDate": "2026-05-18T12:30:31.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "031109d2bf02",
+      "title": "SymfonyDay Montreal 2026: Reconfiguring Symfony in real time with sidekicks",
+      "description": "SymfonyDay Montreal 2026 is calling! Join us on June 4, 2026, at L'Espace Quartier Latin (UQAM) for an exceptional day of technical deep dives and community networking. 🎤 Speaker announcement! Don't miss Nicolas Grekas, Symfony Core team Member,…",
+      "link": "https://symfony.com/blog/symfonyday-montreal-2026-reconfiguring-symfony-in-real-time-with-sidekicks?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-18T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/HEADER-1200x440px-at-3x-5.png",
+      "type": "blog"
+    },
+    {
+      "id": "dbd8ccc90215",
+      "title": "Agent Skills Work but the Research Shows Most Teams Are Building Them Wrong",
+      "description": "This post was originally published on The Nuanced Perspective and is being reposted here with the authors’ permission. Agent skills are everywhere right now. Atlassian built them into Rovo so agents can automatically triage Jira tickets, draft Confluence pages, and route service requests without anyone typing a prompt. Canva and Figma use them so Claude […]",
+      "link": "https://www.oreilly.com/radar/agent-skills-work-but-the-research-shows-most-teams-are-building-them-wrong/",
+      "pubDate": "2026-05-18T10:59:14.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "70e1207332c0",
+      "title": "New in Symfony 8.1: Improved Request Payload Mapping",
+      "description": "Symfony controllers can map request data directly into typed PHP objects using attributes such as #[MapRequestPayload] and #[MapQueryString]. This removes most of the boilerplate involved in request parsing and validation. Symfony 8.1 further improves this…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-improved-request-payload-mapping?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-18T07:46:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/grafikart.picture",
+      "type": "blog"
+    },
+    {
+      "id": "ef78f74245c3",
+      "title": "Announcing the Ecosystem Security Team at The PHP Foundation",
+      "description": "The core mission of the PHP Foundation is to ensure the long-term prosperity of the PHP language. Today, your, or your company's, financial contributions primarily fund developers working on the PHP language. In addition to sponsorships, the PHP Foundation uses grants to enable projects like last year's PHP Core Security Audit funded by the Sovereign Tech Agency. In March, the Linux Foundation announced a grant with the goal of strengthening the security of the open source software ecosystem.…",
+      "link": "https://thephp.foundation/blog/2026/05/18/announcing-ecosystem-security-team/",
+      "pubDate": "2026-05-18T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://thephp.foundation/assets/post-images/2026/ecosystem-security/volker-dusch.png",
+      "type": "blog"
+    },
+    {
+      "id": "ea433e01db24",
+      "title": "What a Closed-Loop Coding Agent Actually Is",
+      "description": "Closed-loop control requires a feedback signal trustworthy enough to act on. Most AI coding agents close their loops on lossy sensors, tests, unsound types, model judgment, and inherit the instability that follows. Skipper is built on sound signals with SKJS, deterministic execution, and reactive computation.",
+      "link": "https://skiplabs.io/blog/closed_loop_coding_agent",
+      "pubDate": "2026-05-18T00:00:00.000Z",
+      "source": "Skip Labs",
+      "sourceUrl": "https://skiplabs.io/blog/rss.xml",
+      "categories": [
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7d34cda2f150",
       "title": "Model-Free Learning in RL",
       "description": "The full RL nanodegree, covered with implementation.",

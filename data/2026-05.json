@@ -2,6 +2,132 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "4a1f9c9cec30",
+      "title": "Building Reliable AI Agents - Gen AI Nantes #17",
+      "description": "Il est désormais facile de créer des agents IA rapides. En créer des fiables, sans « hallucinations », est bien plus difficile. Au cours de cet atelier, l'équipe de Crisp expliquera comment Hugo AI a été conçu pour fournir des réponses à faible latence tout en réduisant considérablement les « hallucinations », grâce à des contraintes de production réelles, des compromis architecturaux et des contributions open source qui ont changé la donne. Intervenant : Baptiste Jamin Pour vous inscrire aux…",
+      "link": "https://www.youtube.com/watch?v=peVK8o0nlq0",
+      "pubDate": "2026-05-18T19:14:54.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/peVK8o0nlq0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "peVK8o0nlq0"
+    },
+    {
+      "id": "8d62859ec507",
+      "title": "Technostress et IA générative : le remplacement n’est pas le cœur du problème",
+      "description": "« Je pense effectivement que le secteur va un peu changer. Mais ce n’est pas comme si vous pouviez être remplacé. » Sortis des ronces des études économiques qui prétendent que le travail sera automatisé, il suffit d’une quinzaine d’entretiens Technostress et IA générative : le remplacement n’est pas le cœur du problème first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/technostress-et-ia-generative-le-remplacement-nest-pas-le-coeur-du-probleme/",
+      "pubDate": "2026-05-18T15:45:02.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c9356c0febd4",
+      "title": "Devoxx France 2026: retour d'expérience",
+      "description": "Après trois jours à la Devoxx France 2026,, voici mon top 3 des conférences qui m’ont le plus marquée.",
+      "link": "https://blog.octo.com/devoxx-france-2026-retour-d'experience",
+      "pubDate": "2026-05-18T11:51:55.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "97d42c7edfef",
+      "title": "L'IA va-t-elle tuer nos métiers ? L'histoire dit non : Elle les transforme",
+      "description": "Arrêtons-nous une seconde sur le bruit ambiant. and quot;L'IA va remplacer les développeurs. and quot; and quot;Dans cinq ans, coder sera un métier obsolète. and quot; and quot;ChatGPT fait déjà le travail d'une équipe entière. and quot; Ces phrases, vous les avez lues, entendues, peut-être même prononcées. Elles circulent dans les conférences tech, les threads LinkedIn, les réunions de direction.",
+      "link": "https://blog.octo.com/l'ia-va-t-elle-tuer-nos-metiers-l'histoire-dit-non--elle-les-transforme",
+      "pubDate": "2026-05-18T10:15:37.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3396b938f745",
+      "title": "Computer Vision et Rugby : retour d’expérience sur la construction d’un pipeline d’analyse vidéo avec YOLO et DeepFace",
+      "description": "L’IA dans le sport, tout le monde en parle. Le player tracking en NBA, les analyses xG en football, les capteurs GPS dans les maillots… Mais, quand on creuse un peu, on se rend compte que certains sports restent les grands oubliés de cette r&",
+      "link": "https://blog.ippon.fr/2026/05/18/computer-vision-et-rugby-retour-dexperience-sur-la-construction-dun-pipeline-danalyse-video-avec-yolo-et-deepface/",
+      "pubDate": "2026-05-18T09:52:36.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/Gemini_Generated_Image_ei981uei981uei98.png",
+      "type": "blog"
+    },
+    {
+      "id": "18d5b0451523",
+      "title": "IA générative et retail : 5 conseils d’expert pour réussir l’intégration et garantir le ROI",
+      "description": "Yann Puslecki, consultant en e-commerce et data, discute de l'intégration de l'IA générative dans les entreprises de retail. Avec 25 ans d'expérience, il souligne l'importance d'aligner la stratégie IA sur la vision globale, de prioriser les initiatives, de redéfinir le rôle humain et de mesurer la rentabilité pour réussir cette transformation. L’article IA générative et retail : 5 conseils d’expert pour réussir l’intégration et garantir le ROI est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/18/ia-generative-et-retail-5-conseils-dexpert-pour-reussir-lintegration-et-garantir-le-roi/",
+      "pubDate": "2026-05-18T08:37:27.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "14fba1b2b758",
+      "title": "Hermes Agent : OpenClaw est déjà dépassé ?",
+      "description": "Déploie ton agent IA maintenant : https://www.hostg.xyz/SHJNM Utilise le code PENTIMINAX pour bénéficier de -10% de réduction supplémentaire sur votre hébergement Hostinger ! OpenClaw est-il déjà dépassé ? Découvrez Hermes Agent, la nouvelle référence des assistants IA autonomes pour la productivité et le développement ! Doté d'une mémoire persistante, d'une capacité d'apprentissage en continu et de nombreux connecteurs, cet assistant est capable d'exécuter vos tâches complexes 24h/24. Dans…",
+      "link": "https://www.youtube.com/watch?v=ZjnsjEpe_jc",
+      "pubDate": "2026-05-18T08:00:26.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/ZjnsjEpe_jc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "ZjnsjEpe_jc"
+    },
+    {
+      "id": "af4da8f23fac",
+      "title": "Liens Tech - Mai 2026",
+      "description": "Mai : gestion Docker, traces GPS, nettoyage macOS, notes IA en local, sauvegardes de bases de données et un audit HAProxy qui rassure.",
+      "link": "https://domopi.eu/liens-tech-mai-2026/",
+      "pubDate": "2026-05-18T05:45:34.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "25b17a738962",
       "title": "Qu'est-ce qu'un token JWT ?",
       "description": "Est-ce que le contenu d'un JWT est chiffré ? Est-ce qu'il est public ? Comment est-il sécurisé ? On répond à toutes vos questions dans cet épisode ! Notes de l'épisode : SecretPDF : https://www.secretpdf.io/",
@@ -17,6 +143,37 @@
       "type": "podcast",
       "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/120120272/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-17%2F40dc8338-7bd3-d3bc-7b88-8a2333cd4bc3.mp3",
       "duration": "00:10:50"
+    },
+    {
+      "id": "24db45e19fba",
+      "title": "Profiler son application Node.js : un profiler pensé pour les agents IA",
+      "description": "Les profilers Node.js mesurent, mais laissent l'analyse à un humain. Lanterna fait le choix inverse : un rapport déjà structuré, catégorisé et corrélé, qu'un agent IA peut exploiter directement. Pourquoi je l'ai construit, et comment il fonctionne.",
+      "link": "https://codeheroes.fr/blog/profiler-son-application-node-js-un-profiler-pour-les-agents-ia/",
+      "pubDate": "2026-05-18T00:00:00.000Z",
+      "source": "Code Heroes",
+      "sourceUrl": "https://codeheroes.fr/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dc92fc4324ad",
+      "title": "Utiliser PHP avec Airflow",
+      "description": "Je travaille actuellement sur un projet orienté BI pour lequel des scripts d’analyse et de visualisation de données sont écrits en Python et sont orchestrés par Apache Airflow. Airflow est un outil Python, initialement conçu et pensé pour l’écosystème Python. Mais travaillant essentiellement en PHP, je me suis demandé s’il était possible d’y faire tourner des scripts PHP. 🇻🇬 This blog post is also available in English. En parcourant la documentation d’Airflow, on peut se rendre compte que…",
+      "link": "https://www.jdecool.fr/blog/2026/05/18/utiliser-php-avec-airflow.html",
+      "pubDate": "2026-05-17T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "b18b03322ba0",
@@ -110,6 +267,21 @@
       "image": "https://i.ytimg.com/vi/31oUdGe0l_k/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "31oUdGe0l_k"
+    },
+    {
+      "id": "3aaea3375e37",
+      "title": "jakzal/phpqa : sortir la QA Symfony de son vendor/",
+      "description": "Découvrez jakzal/phpqa, une image Docker pour exécuter des outils de qualité de code en PHP sans les installer dans votre projet. Finis les conflits de dépendances et les paquets inutiles en production.",
+      "link": "https://lecodeestdanslepre.fr/billets/jakzal-phpqa-sortir-la-qa-symfony-de-son-vendor",
+      "pubDate": "2026-05-16T17:56:11.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
     },
     {
       "id": "8cbba0ec633d",
