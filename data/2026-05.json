@@ -2,6 +2,98 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "a9e46db2bda4",
+      "title": "#357.src - Azure et IA: Dans l'ouragan des modèles, où est la vraie valeur du dev ? avec Antonio Goncalves",
+      "description": "\"Peut-être que notre plus-value aujourd'hui, c'est d'être des devs. Et devs, c'est pas que taper du code\" Le D.E.V. de la semaine est Antonio Goncalves, Principal Software Engineer chez Microsoft et co-organisateur de Devoxx. Dans cet épisode, on plonge dans la complexification du métier avec l'essor de l'IA et des plateformes cloud comme Microsoft Foundry. Antonio raconte comment les développeurs doivent désormais arbitrer entre des milliers de modèles, tout en gérant les attentes métiers, la…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-357-1a5e1a045717",
+      "pubDate": "2026-05-20T03:00:07.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/c4cf6951-ebd6-4980-9990-395d538c3924.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/167ee484-efb2-4e34-8870-1a5e1a045717.mp3?_=1779192127",
+      "duration": "01:05:55"
+    },
+    {
+      "id": "75692345d0ec",
+      "title": "Solution de cybersécurité et conformité : comment ne plus y passer ses nuits (et ses dimanches) avec Dynatrust ?",
+      "description": "Dynatrust est une plateforme SaaS de gouvernance, risques et conformité (GRC) qui simplifie la gestion de la cybersécurité pour les entreprises. Elle propose des outils d'automatisation, une infrastructure sécurisée en France et un modèle de tarification clair. Dynatrust transforme ainsi les obligations réglementaires en opportunités stratégiques. L’article Solution de cybersécurité et conformité : comment ne plus y passer ses nuits (et ses dimanches) avec Dynatrust ? est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/05/19/solution-de-cybersecurite-et-conformite-comment-ne-plus-y-passer-ses-nuits-et-ses-dimanches-avec-dynatrust/",
+      "pubDate": "2026-05-19T12:03:25.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "26ec2b11dba4",
+      "title": "nodes/proxy GET : la permission Kubernetes de trop",
+      "description": "TL;DR Ca date un peu mais j’avais quand même envie de faire un petit REX sur ce sujet. En janvier un chercheur en cybersécurité a remonté une faille de Kubernetes qui a pas mal fait le buzz. Ca faisait un moment qu’on avait plus eu de faille sur Kube qui fasse autant parler, de mémoire de Denis (oui je parle de moi à la 3ème personne). En vrai, c’est assez chaud : la permission RBAC nodes/proxy GET permet à n’importe quel ServiceAccount d’exécuter du code dans n’importe quel Pod du cluster,…",
+      "link": "https://blog.zwindler.fr/2026/05/19/kubernetes-nodes-proxy-rce/",
+      "pubDate": "2026-05-19T10:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/05/node_proxy_RCE.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e300872f4ffe",
+      "title": "GEO vs SEO en 2026 : Google remet les points sur les i.",
+      "description": "Beaucoup d'entreprises se posent la question de savoir comment être visible dans les moteurs de recherche IA. Cet article est destiné à faire le point sur l'état des lieux dans ce domaine et est fait pour démystifier certaines recommandations qui courent sur le web. L’article GEO vs SEO en 2026 : Google remet les points sur les i. est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/19/geo-vs-seo-en-2026-google-remet-les-points-sur-les-i/",
+      "pubDate": "2026-05-19T06:53:38.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba547d043fde",
+      "title": "Inscriptions 2026-2027 au collège/lycée Scholae",
+      "description": "Inscriptions 2026-2027 au collège/lycée Scholae {align=right} Les inscriptions 2026-2027 sont ouvertes au [collège/lycée Scholae][1] ! !!! note \"\" Si vous vous demandez pourquoi j'en parle ici dans mon blog technique, c'est que ça fait seize ans que je travaille dans cet [établissement scolaire 100&nbsp;% sous Linux][2].",
+      "link": "https://www.microlinux.fr/blog/scholae-2026/",
+      "pubDate": "2026-05-19T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/linux-lycee.png",
+      "type": "blog"
+    },
+    {
+      "id": "4e4f293c8043",
+      "title": "Lectures complémentaires sur la fatigue liée à l'IA",
+      "description": "En février dernier, j’écrivais sur productivité et qualité : la délégation mal pensée, la charge cognitive des validateurs, l’érosion silencieuse des compétences collectives. Un texte construit depuis une perspective organisationnelle à partir de mes discussions avec mes confrères et consoeurs occupant des rôles finalement périphériques au code lui-même. Ce que j’avais manqué L’une d’entre elles m’a partagé un article de Siddhant Khare qui lui, a vécu la même réalité, de plus près. Il construit…",
+      "link": "https://boris.schapira.dev/notes/2026-05-lectures-fatigue-ia/\n",
+      "pubDate": "2026-05-18T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4a1f9c9cec30",
       "title": "Building Reliable AI Agents - Gen AI Nantes #17",
       "description": "Il est désormais facile de créer des agents IA rapides. En créer des fiables, sans « hallucinations », est bien plus difficile. Au cours de cet atelier, l'équipe de Crisp expliquera comment Hugo AI a été conçu pour fournir des réponses à faible latence tout en réduisant considérablement les « hallucinations », grâce à des contraintes de production réelles, des compromis architecturaux et des contributions open source qui ont changé la donne. Intervenant : Baptiste Jamin Pour vous inscrire aux…",

@@ -2,6 +2,183 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "710bfc310b2d",
+      "title": "llm-gemini 0.32",
+      "description": "Release: llm-gemini 0.32 New model gemini-3.5-flash for Gemini 3.5 Flash. See also my notes on Gemini 3.5 Flash, and the pelican I drew using this upgrade to the plugin. Tags: gemini, llm",
+      "link": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
+      "pubDate": "2026-05-19T23:46:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7bc402896a2a",
+      "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
+      "description": "Today at Google I/O, Google released Gemini 3.5 Flash. This one skipped the -preview modifier and went straight to general availability, and Google appear to be using it for a whole lot of their key products: 3.5 Flash is available today to billions of people globally: For everyone via the Gemini app and AI Mode in Google Search For developers in our agent-first development platform Google Antigravity and Gemini API in Google AI Studio and Android Studio For enterprises in Gemini Enterprise…",
+      "link": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+      "pubDate": "2026-05-19T22:40:25.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "313140e5e10e",
+      "title": "datasette-llm-accountant 0.1a4",
+      "description": "Release: datasette-llm-accountant 0.1a4 Fixed bug tracking chains of responses. Refs datasette-llm#7 Tags: llm, datasette",
+      "link": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
+      "pubDate": "2026-05-19T20:45:43.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f279d5c5aadd",
+      "title": "The top Hermes integrations",
+      "description": "... to give your agent superpowers",
+      "link": "https://blog.dailydoseofds.com/p/the-top-hermes-integrations",
+      "pubDate": "2026-05-19T20:38:22.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!ZpGF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25189d53-b14a-4e5a-b747-8251d71881f6_1126x1024.png",
+      "type": "blog"
+    },
+    {
+      "id": "95a0d7e89bbf",
+      "title": "llm-gemini 0.32a0",
+      "description": "Release: llm-gemini 0.32a0 Compatible with llm&gt;=0.32a0 alpha - adds the ability to stream reasoning tokens. Tags: gemini, llm",
+      "link": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
+      "pubDate": "2026-05-19T20:36:23.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "331d3de83494",
+      "title": "datasette-llm 0.1a8",
+      "description": "Release: datasette-llm 0.1a8 Fix for bug where llm_prompt_context() hook did not fully collect chains of responses. #7",
+      "link": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
+      "pubDate": "2026-05-19T20:28:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "66c8b22e9add",
+      "title": "Popular Go Decimal Library Targeted by Long-Running Typosquat with DNS Backdoor",
+      "description": "Socket's Threat Research Team identified a malicious Go module published as github.com/shopsprint/decimal, a typosquat of the widely used github.com/shopspring/decimal arbitrary precision arithmetic library. The typosquatted module has been present on the Go ecosystem since 2017-11-08 and was weaponized on 2023-08-19 when version v1.3.3 added a malicious init() function that opens a DNS TXT record command and control channel to a threat actor controlled subdomain on a free dynamic DNS provider.…",
+      "link": "https://socket.dev/blog/popular-go-decimal-library-typosquat-dns-backdoor?utm_medium=feed",
+      "pubDate": "2026-05-19T17:17:00.681Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/bb557b7944e88116b04a594690f631ff4495520c-1142x1428.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "1f52033b7bd0",
+      "title": "When an Agent Deletes the Production Database",
+      "description": "Another day, another example of an AI Agent “running rogue” and doing something the human operator didn’t want it to do. The tl;dr is that Jeremy (Jer) Crane, founder of PocketOS, was using Claude to perform some routine DB maintenance. Claude then proceeded to delete the production database and all backups hosted at their cloud […]",
+      "link": "https://www.oreilly.com/radar/when-an-agent-deletes-the-production-database/",
+      "pubDate": "2026-05-19T16:00:39.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "afe19e718107",
+      "title": "Details That Make Interfaces Feel Better",
+      "description": "Jakub shares a collection of small interface details that compound into a much better user experience, from text wrapping and concentric radius math to interruptible animations and optical alignment. It is packed with practical UI polish ideas that are easy to miss, but hard to unsee once you notice them. Read more",
+      "link": "https://freek.dev/3109-details-that-make-interfaces-feel-better",
+      "pubDate": "2026-05-19T12:30:32.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d21ed79474df",
+      "title": "SymfonyDay Montreal 2026: Migrating Legacy Symfony in Production",
+      "description": "SymfonyDay Montreal 2026 is just around the corner, taking place on June 4 at L'Espace Quartier Latin (UQAM). Get ready for a day of high-level technical exchange! 🎤 Speaker announcement! Arnaud Oltra, Tech lead developer, Alesco, will share his…",
+      "link": "https://symfony.com/blog/symfonyday-montreal-2026-migrating-legacy-symfony-in-production?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-19T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/HEADER-1200x440px-at-3x-5.png",
+      "type": "blog"
+    },
+    {
+      "id": "eca8ee38dd93",
+      "title": "AI Artifact Catalogs: Durable Standards Worth Institutional Investment",
+      "description": "Companies everywhere are trying to leverage AI to boost internal productivity metrics. Some, like Ramp and Intercom, are succeeding. Many are failing. To make matters more complicated, the narrative around what tooling enables these gains is constantly shifting. For software engineers, auto-complete via GitHub Copilot was the bleeding-edge tool of choice in 2024. Then it […]",
+      "link": "https://www.oreilly.com/radar/ai-artifact-catalogs-durable-standards-worth-institutional-investment/",
+      "pubDate": "2026-05-19T11:05:38.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/05/image-6.png",
+      "type": "blog"
+    },
+    {
+      "id": "7f8d24425316",
+      "title": "New in Symfony 8.1: Validator Improvements",
+      "description": "Symfony 8.1 improves the Validator component with new constraints, Clock support, and reentrant validators. New Xml Constraint Contributed by Mokhtar Tlili…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-validator-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-19T07:23:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/sf-djuba.picture",
+      "type": "blog"
+    },
+    {
       "id": "6706c3e0cd48",
       "title": "Active Supply Chain Attack Compromises @antv Packages on npm",
       "description": "Socket’s Threat Research team is investigating an active npm supply chain attack involving compromised packages in the @antv ecosystem. The attack affects packages tied to the npm maintainer account atool, including echarts-for-react, a widely used React wrapper for Apache ECharts with roughly 1.1 million weekly downloads. Socket quickly detected the malicious publish wave and classified the affected versions as known malware. Socket’s internal review identified hundreds of unique packages. The…",
