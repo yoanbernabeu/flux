@@ -2,6 +2,22 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "67047d3eb829",
+      "title": "🤖 Laravel rend les IA BEAUCOUP trop fortes avec PAO",
+      "description": "Laravel vient de sortir PAO (PHP Agent-Optimized Output), une nouveauté qui optimise les outputs PHP pour les agents IA. Tests, logs, erreurs CLI… Laravel commence maintenant à parler directement aux IA. Dans cette vidéo, je t’explique : ⚡ ce que fait Laravel PAO ⚡ pourquoi c’est important ⚡ pourquoi c’est probablement le futur des apps Laravel ⚡ et ce que ça change pour les développeurs PHP ⚔️ LaravelJutsu — Building AI-native Laravel apps http://laraveljutsu.com/ #Laravel #PHP #AI #OpenAI…",
+      "link": "https://www.youtube.com/watch?v=2IkHWwrPfSA",
+      "pubDate": "2026-05-20T15:50:14.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/2IkHWwrPfSA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "2IkHWwrPfSA"
+    },
+    {
       "id": "a9e46db2bda4",
       "title": "#357.src - Azure et IA: Dans l'ouragan des modèles, où est la vraie valeur du dev ? avec Antonio Goncalves",
       "description": "\"Peut-être que notre plus-value aujourd'hui, c'est d'être des devs. Et devs, c'est pas que taper du code\" Le D.E.V. de la semaine est Antonio Goncalves, Principal Software Engineer chez Microsoft et co-organisateur de Devoxx. Dans cet épisode, on plonge dans la complexification du métier avec l'essor de l'IA et des plateformes cloud comme Microsoft Foundry. Antonio raconte comment les développeurs doivent désormais arbitrer entre des milliers de modèles, tout en gérant les attentes métiers, la…",
@@ -83,6 +99,21 @@
       "title": "Lectures complémentaires sur la fatigue liée à l'IA",
       "description": "En février dernier, j’écrivais sur productivité et qualité : la délégation mal pensée, la charge cognitive des validateurs, l’érosion silencieuse des compétences collectives. Un texte construit depuis une perspective organisationnelle à partir de mes discussions avec mes confrères et consoeurs occupant des rôles finalement périphériques au code lui-même. Ce que j’avais manqué L’une d’entre elles m’a partagé un article de Siddhant Khare qui lui, a vécu la même réalité, de plus près. Il construit…",
       "link": "https://boris.schapira.dev/notes/2026-05-lectures-fatigue-ia/\n",
+      "pubDate": "2026-05-18T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b7b96e3bef72",
+      "title": "Lectures complémentaires sur la fatigue liée à l'IA",
+      "description": "En février dernier, j’écrivais sur productivité et qualité : la délégation mal pensée, la charge cognitive des validateurs, l’érosion silencieuse des compétences collectives. Un texte construit depuis une perspective organisationnelle à partir de mes discussions avec mes confrères et consoeurs occupant des rôles finalement périphériques au code lui-même. Ce que j’avais manqué L’une d’entre elles m’a partagé un article de Siddhant Khare qui lui, a vécu la même réalité, de plus près. Il construit…",
+      "link": "https://boris.schapira.dev/notes/2026-05-lectures-fatigue-ia/",
       "pubDate": "2026-05-18T22:00:00.000Z",
       "source": "Boris Schapira",
       "sourceUrl": "https://boris.schapira.dev/feed.xml",
@@ -663,6 +694,23 @@
       "duration": "1:31:33"
     },
     {
+      "id": "96d738a1c140",
+      "title": "API Platform Conference 2026 : les thématiques à ne pas manquer cette année",
+      "description": "Le programme de l’API Platform Conference est en ligne depuis ce matin, et cette sixième édition s’annonce ambitieuse. Entre l’explosion de l’IA, la maturité de FrankenPHP appliquée à des projets en production et les enjeux de résilience, le contenu est particulièrement dense. Que vous soyez là pour le code pur ou pour l’architecture de haut […] Cet article, API Platform Conference 2026 : les thématiques à ne pas manquer cette année, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/api-platform-conference-2026-les-thematiques-a-ne-pas-manquer-cette-annee",
+      "pubDate": "2026-05-12T09:45:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/announcement1-1024x569.png",
+      "type": "blog"
+    },
+    {
       "id": "55ac6cb32771",
       "title": "Comment concevoir et tester un site accessible ?",
       "description": "Présentation par : Emmanuelle ABOAF (Shodo) 📕 Résumé : L’accessibilité numérique reste un enjeu majeur : selon l’Observatoire du respect des obligations d’accessibilité, moins de 5 % des sites internet sont réellement accessibles aux personnes handicapées. Dans cette conférence, je propose de découvrir : les six erreurs d’accessibilité les plus courantes sur les sites web ; comment les corriger facilement grâce à des bonnes pratiques simples en HTML, CSS et Javascript ; comment réaliser des…",
@@ -1230,6 +1278,21 @@
       "type": "blog"
     },
     {
+      "id": "1912a4ddb009",
+      "title": "Le message",
+      "description": "Je suis en train de conduire donc c’est Rocky qui décroche. C’est sa mère : – Rocky, j’ai besoin que tu dises quelque chose à Papa. Entre-temps, j’avais eu le temps de me garer pour prendre l’appel, parce que je ne comprenais rien ! rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-05-le-message/",
+      "pubDate": "2026-05-08T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "03e9d96541e2",
       "title": "Un faux package TanStack volait vos .env en silence (veille #19)",
       "description": "Supply chain npm sur TanStack, SpaceX injecte 220 000 GPUs chez Anthropic, TanStack Form dépasse les 90M de téléchargements et une police de caractères qui génère des graphiques sans une ligne de JS.",
@@ -1442,6 +1505,21 @@
       "title": "Pas le temps",
       "description": "Non mais vas-y, c’est une dinguerie ! Maman m’a dit hier soir que je pouvais ne pas prendre ma douche hier soir et la prendre “plus tard”. Mais, wesh, gros, si tu décales mon réveil à 7h30 parce que je commence à 9h, tu me demandes pas de prendre ma douche le matin en fait ! Là il est 7h58, et j’ai même pas une demi-heur pour prendre mon petit-déjeuner, remonter, mettre des chaussettes, me brosser les dents, prendre mon sac et partir ! La crise d’adolescence se porte bien. rédigés en français.…",
       "link": "https://boris.schapira.dev/notes/2026-05-pas-le-temps/\n",
+      "pubDate": "2026-05-06T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "496af77a6ad3",
+      "title": "Pas le temps",
+      "description": "Non mais vas-y, c’est une dinguerie ! Maman m’a dit hier soir que je pouvais ne pas prendre ma douche hier soir et la prendre “plus tard”. Mais, wesh, gros, si tu décales mon réveil à 7h30 parce que je commence à 9h, tu me demandes pas de prendre ma douche le matin en fait ! Là il est 7h58, et j’ai même pas une demi-heur pour prendre mon petit-déjeuner, remonter, mettre des chaussettes, me brosser les dents, prendre mon sac et partir ! La crise d’adolescence se porte bien. rédigés en français.…",
+      "link": "https://boris.schapira.dev/notes/2026-05-pas-le-temps/",
       "pubDate": "2026-05-06T22:00:00.000Z",
       "source": "Boris Schapira",
       "sourceUrl": "https://boris.schapira.dev/feed.xml",

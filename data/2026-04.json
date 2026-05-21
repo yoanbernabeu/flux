@@ -1741,6 +1741,21 @@
       "type": "blog"
     },
     {
+      "id": "c1887f6a046e",
+      "title": "Pensée parasite",
+      "description": "Je marchais dans la rue, longeant des maisons, pour récupérer mon fils chez un ami. Un pas, puis l’autre, les maisons, alignées sur le côté, et soudain, un éclair dans ma tête : cette maison, là-bas, celle avec les volets bleus, elle n’est plus qu’un tas de pierres, qu’un nuage de poussière, qu’un sifflement. Je me relève, le souffle coupé, les poumons en feu, et je cours. Je cours vers les décombres, les mains nues, le coeur à vif. J’arrache, je soulève, je respire fort, évident de hurler pour…",
+      "link": "https://boris.schapira.dev/notes/2026-04-pensee-parasite/",
+      "pubDate": "2026-04-13T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4d9c68d06f2e",
       "title": "Comparez deux arborescences avec diff, confortablement avec riff",
       "description": "En migrant des projets d’une instance Gitlab à une autre pour un client, j’ai eu à adapter les pipelines Gitlab-CI qui étaient définis, les runners [...]",
@@ -1956,6 +1971,21 @@
       "title": "Craft",
       "description": "– Maman, c’est cool en vrai que tu écoutes tout le temps de la musique quand tu couds… moi, plus tard, j’espère que mes enfants aimeront écouter de la musique aussi. rédigés en français. ce flux.",
       "link": "https://boris.schapira.dev/notes/2026-04-craft/\n",
+      "pubDate": "2026-04-11T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a372d8c9ff2a",
+      "title": "Craft",
+      "description": "– Maman, c’est cool en vrai que tu écoutes tout le temps de la musique quand tu couds… moi, plus tard, j’espère que mes enfants aimeront écouter de la musique aussi. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-04-craft/",
       "pubDate": "2026-04-11T22:00:00.000Z",
       "source": "Boris Schapira",
       "sourceUrl": "https://boris.schapira.dev/feed.xml",

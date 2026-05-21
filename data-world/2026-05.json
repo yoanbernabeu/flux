@@ -2,6 +2,259 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "0b54c6078032",
+      "title": "The Agent Stack Bet",
+      "description": "The following article originally appeared on the Elevate newsletter and is being reposted here with the author’s permission. Peek under the hood of most “production agents” shipping today and you won’t find intelligence. You’ll find custom plumbing, fragile session logic, shared service accounts, and a security model held together by hope. This can be so […]",
+      "link": "https://www.oreilly.com/radar/?p=18746",
+      "pubDate": "2026-05-21T05:29:11.896Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bedb4be20cc8",
+      "title": "Quoting SpaceX S-1",
+      "description": "We have the ability to use compute resources to support our proprietary AI applications (such as Grok 5, which is currently being trained at COLOSSUS II), while also providing access to select compute capacity to third-party customers. For example, in May 2026, we entered into Cloud Services Agreements with Anthropic PBC (“Anthropic”), an AI research and development public benefit corporation, with respect to access to compute capacity across COLOSSUS and COLOSSUS II. Pursuant to these…",
+      "link": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
+      "pubDate": "2026-05-20T22:26:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "47d64b2b4d78",
+      "title": "Coruna Respawned: Compromised art-template npm Package Leads to iOS Browser Exploit Kit",
+      "description": "Early on May 20th, 2026, the Socket Threat Research team detected signals of a package compromise leading to a sophisticated payload targeting a broad range of iOS devices with a watering-hole attack similar in style to the delivery of the Coruna exploit kit. After careful analysis, a plethora of similarities to that campaign emerged, indicating that a threat actor intended to use a package supply-chain compromise to deliver iOS browser exploits. Repository Takeover Leads to Package Compromise…",
+      "link": "https://socket.dev/blog/coruna-respawned-compromised-art-template-npm-package?utm_medium=feed",
+      "pubDate": "2026-05-20T22:26:28.446Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "db29d5a72b2e",
+      "title": "The Anatomy of ~/.hermes Folder",
+      "description": "...and why each piece matters.",
+      "link": "https://blog.dailydoseofds.com/p/the-anatomy-of-hermes-folder",
+      "pubDate": "2026-05-20T22:03:36.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!oABk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e360a94-a5fd-486d-965f-d2ccec0c3d4c_1468x1340.png",
+      "type": "blog"
+    },
+    {
+      "id": "1a725cefd7d5",
+      "title": "How fast is 10 tokens per second really?",
+      "description": "How fast is 10 tokens per second really? Neat little HTML app by Mike Veerman (source code here) which simulates LLM token output speeds from 5/second to 800/second. Useful if you see a model advertised as \"30 tokens/second\" and want to get a feel for what that actually looks like. Via Hacker News Tags: ai, generative-ai, llms",
+      "link": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
+      "pubDate": "2026-05-20T17:57:45.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8f4070de4907",
+      "title": "Google I/O, Gemini Spark, Antigravity",
+      "description": "It's hard to find much to write about Google I/O this year because I have a policy of not writing about anything that I can't try out myself, and a lot of the big announcements are \"coming soon\". I actually prefer to write about things that are in general availability, because I've had instances in the past where the previews didn't match what was released to the general public later on. Aside from Gemini 3.5 Flash the most interesting announcement looks to be Google's upcoming OpenClaw…",
+      "link": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+      "pubDate": "2026-05-20T15:32:17.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "121e20194907",
+      "title": "Socket raises $60M Series C at $1B valuation led by Thrive Capital to secure AI-driven software development",
+      "description": "Today we're announcing Socket's $60 million Series C at a $1 billion valuation, led by Thrive Capital, with participation from Andreessen Horowitz, Abstract Ventures, and Capital One Ventures. The round brings our total funding to $125 million and sets up the next phase of what we're building to protect the software supply chain. This is the moment we've been working toward since we started Socket. AI has changed how every engineering team writes and ships code, increasing the volume of open…",
+      "link": "https://socket.dev/blog/series-c?utm_medium=feed",
+      "pubDate": "2026-05-20T15:25:11.368Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/dc17031fec328441458047626a2dc757d84eb579-1920x1280.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "bb86bfbcff22",
+      "title": "Socket Raises $60M Series C at a $1B Valuation to Help Enterprises Build Securely With AI",
+      "description": "Led by Thrive Capital, the round brings Socket to unicorn status as enterprises race to adopt AI coding tools and look for ways to secure the third-party dependencies entering production without slowing down SAN FRANCISCO, May 20, 2026 – Socket today announced it has raised $60 million in Series C funding at a $1 billion valuation. Led by Thrive CapitaI, with participation from a16z, Abstract Ventures, and Capital One Ventures, the round will support Socket’s next phase of growth as more…",
+      "link": "https://socket.dev/blog/socket-raises-60m-series-c-press-release?utm_medium=feed",
+      "pubDate": "2026-05-20T14:07:35.790Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e4e93c6b5c5d",
+      "title": "CVE-2026-45070: Email Header Injection via Non-Token Characters in Mime Parameter Names",
+      "description": "Affected versions Symfony versions =6, =7, =8, <8.0.12 of the Symfony MIME component are affected by this security issue. The issue has been fixed in Symfony 5.4.52, 6.4.40, 7.4.12, 8.0.12. Description…",
+      "link": "https://symfony.com/blog/cve-2026-45070-email-header-injection-via-non-token-characters-in-mime-parameter-names?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-20T13:37:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "88e4a99719c9",
+      "title": "Notes on software quality",
+      "description": "Anthony Hobday shares a thoughtful framework for thinking about software quality, from reliability and speed to clarity, efficiency, and beauty. I liked his argument that quality depends on both individual care and organisational appetite. Read more",
+      "link": "https://freek.dev/3110-notes-on-software-quality",
+      "pubDate": "2026-05-20T12:30:30.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b8479a3cb7ff",
+      "title": "SymfonyOnline June 2026: Symfony Mate: Real Runtime Context for AI Coding Assistants",
+      "description": "The wait is over! SymfonyOnline June 2026 is coming to you live online on June 11-12, 2026, featuring an incredible lineup of expert speakers. This year, we are shaking things up with a brand-new format: one full day dedicated to AI and another full…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-symfony-mate-real-runtime-context-for-ai-coding-assistants?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-20T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "b1463854a583",
+      "title": "CVE-2026-45755: Mailtrap Mailer Webhook Parser Never Verifies the X-Mt-Signature HMAC: Unauthenticated Webhook Event Injection",
+      "description": "Affected versions Symfony versions >=7.2, =8.0, <8.0.12 of the Symfony Mailtrap Mailer component are affected by this security issue. The issue has been fixed in Symfony 7.4.12, 8.0.12. Description The Mailtrap mailer bridge ships…",
+      "link": "https://symfony.com/blog/cve-2026-45755-mailtrap-mailer-webhook-parser-never-verifies-the-x-mt-signature-hmac-unauthenticated-webhook-event-injection?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-20T10:56:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "56ae7ae9d60c",
+      "title": "CVE-2026-45756: JsonPath Evaluates Attacker-Controlled Regular Expressions in match()/search() Without Limits: ReDoS",
+      "description": "Affected versions Symfony versions >=7.3, =8.0, <8.0.12 of the Symfony JSON Path component are affected by this security issue. The issue has been fixed in Symfony 7.4.12, 8.0.12. Description The JsonPath component's match() and search()…",
+      "link": "https://symfony.com/blog/cve-2026-45756-jsonpath-evaluates-attacker-controlled-regular-expressions-in-match-search-without-limits-redos?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-20T10:56:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c3481e6456fd",
+      "title": "CVE-2026-46626: SymfonyRuntime CVE-2024-50340 Patch Bypass via parse_str/SAPI Argv Mismatch",
+      "description": "Affected versions Symfony versions >=5.4.46, =6.4.14, =7.1.7, =8, <8.0.12 of the Symfony Runtime component are affected by this security issue. The issue has been fixed in Symfony 5.4.52, 6.4.40, 7.4.12,…",
+      "link": "https://symfony.com/blog/cve-2026-46626-symfonyruntime-cve-2024-50340-patch-bypass-via-parse-str-sapi-argv-mismatch?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-20T10:56:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5ceb619ee928",
+      "title": "CVE-2026-47212: Twilio Notifier Webhook Parser Never Verifies the X-Twilio-Signature HMAC: Unauthenticated Webhook Event Injection",
+      "description": "Affected versions Symfony versions >=6.4, =7.0, =8.0, <8.0.12 of the Symfony Twilio Notifier component are affected by this security issue. The issue has been fixed in Symfony 6.4.40, 7.4.12, 8.0.12. Description The…",
+      "link": "https://symfony.com/blog/cve-2026-47212-twilio-notifier-webhook-parser-never-verifies-the-x-twilio-signature-hmac-unauthenticated-webhook-event-injection?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-20T10:56:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f024a596613f",
+      "title": "CVE-2026-45754: Mailjet and LOX24 Webhook Parsers Never Verify the Configured Secret: Unauthenticated Event Injection",
+      "description": "Affected versions Symfony versions >=6.4, =7.0, =8.0, <8.0.12 of the Symfony Lox24 Notifier and Symfony Mailjet Mailer components are affected by this security issue. The issue has been fixed in Symfony 6.4.40, 7.4.12,…",
+      "link": "https://symfony.com/blog/cve-2026-45754-mailjet-and-lox24-webhook-parsers-never-verify-the-configured-secret-unauthenticated-event-injection?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-20T10:56:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "85628e94f127",
+      "title": " Talking to the new Ecosystem AI Security Engineer ",
+      "description": "Read the full post on https://stitcher.io/blog/php-ecosystem-security-team",
+      "link": "https://stitcher.io/blog/php-ecosystem-security-team",
+      "pubDate": "2026-05-20T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "710bfc310b2d",
       "title": "llm-gemini 0.32",
       "description": "Release: llm-gemini 0.32 New model gemini-3.5-flash for Gemini 3.5 Flash. See also my notes on Gemini 3.5 Flash, and the pelican I drew using this upgrade to the plugin. Tags: gemini, llm",
