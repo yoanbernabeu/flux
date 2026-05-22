@@ -2,6 +2,154 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "e3deeb668db4",
+      "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
+      "description": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service Back in 2024 Cox Media Group were caught trying to sell advertisers packages based on \"active listening\", with this deck which claimed: Smart devices capture real-time intent data by listening to our conversations Advertisers can pair this voice-data with behavioral data to target in-market consumers I wrote about this in…",
+      "link": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
+      "pubDate": "2026-05-22T04:48:32.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0bfd627a2895",
+      "title": "Karpathy’s Prediction About RL is Coming True Now!",
+      "description": "..and an open-source framework that's making it happen.",
+      "link": "https://blog.dailydoseofds.com/p/karpathys-prediction-about-rl-is",
+      "pubDate": "2026-05-21T22:15:43.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!EAkL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71642070-19e9-4108-acba-dca7477431c9_1080x1080.png",
+      "type": "blog"
+    },
+    {
+      "id": "a0d0ae54f576",
+      "title": "npm Invalidates Granular Access Tokens as Mini Shai-Hulud Sweeps the Registry",
+      "description": "npm has invalidated every granular access token with write access that bypasses two-factor authentication. The platform-wide credential reset rolled out on May 19, announced from npm's long-dormant X account. The registry posted the notice following an attack that used a hijacked maintainer account to publish hundreds of malicious package versions across the @antv ecosystem. \"To prevent supply chain attacks following the pattern of Mini Shai Hulud, we invalidated npm granular access tokens with…",
+      "link": "https://socket.dev/blog/npm-invalidates-tokens-mini-shai-hulud?utm_medium=feed",
+      "pubDate": "2026-05-21T21:28:52.628Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/a4778e33ec72c406b2075cc32108e85cd5ea8949-703x473.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "21dfab60592f",
+      "title": "Datasette Agent",
+      "description": "We just announced the first release of Datasette Agent, a new extensible AI assistant for Datasette. I've been working on my LLM Python library for just over three years now, and Datasette Agent represents the moment that LLM and Datasette finally come together. I'm really excited about it! Datasette Agent provides a conversational interface for asking questions of the data you have stored in Datasette. Add the datasette-agent-charts plugin and it can generate charts of your data as well. The…",
+      "link": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+      "pubDate": "2026-05-21T19:52:19.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7ea449e12be4",
+      "title": "datasette-agent-sprites 0.1a0",
+      "description": "Release: datasette-agent-sprites 0.1a0 A Datasette Agent plugin for running commands in a Fly Sprites sandbox. Tags: sandboxing, datasette, fly, datasette-agent",
+      "link": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
+      "pubDate": "2026-05-21T18:21:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16158c51b03e",
+      "title": "datasette-agent-charts 0.1a2",
+      "description": "Release: datasette-agent-charts 0.1a2 \"View SQL query\" buttons below rendered charts. Tags: datasette, datasette-agent",
+      "link": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
+      "pubDate": "2026-05-21T15:15:58.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e144fbeeeef3",
+      "title": "The Agentic P&L: Beyond the Empire of Headcount",
+      "description": "For over a century, both the prestige and budget of a corporate department have been measured by a single crude metric: headcount. If you manage 500 people, you’re a “distinguished leader.” If you manage five, you’re a footnote. This “empire of headcount” has governed everything from office square footage to C-suite influence. It’s the fundamental […]",
+      "link": "https://www.oreilly.com/radar/the-agentic-pl-beyond-the-empire-of-headcount/",
+      "pubDate": "2026-05-21T15:04:52.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/05/image-11.png",
+      "type": "blog"
+    },
+    {
+      "id": "efb2ba214b08",
+      "title": "datasette-agent 0.1a3",
+      "description": "Release: datasette-agent 0.1a3 \"View SQL query\" buttons for both visible tables and collapsed SQL result tool calls. Don't display empty reasoning chunks Improved handling of truncated responses - table still displays to the user even if the SQL results were truncated when showing the agent. See Datasette Agent, an extensible AI assistant for Datasette. Tags: datasette, datasette-agent",
+      "link": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
+      "pubDate": "2026-05-21T15:04:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "48c2cfcbe176",
+      "title": "Hard truths about building in the AI era",
+      "description": "Keith Rabois shares a sharp, opinionated take on how AI is reshaping startups, careers, and product teams. The episode is especially interesting for its thoughts on hiring, the future of product management, and building with more speed and intensity. Read more",
+      "link": "https://freek.dev/3084-hard-truths-about-building-in-the-ai-era",
+      "pubDate": "2026-05-21T12:30:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2f5af1d2584b",
+      "title": "Claude Mythos Audited Symfony and Found 19 Vulnerabilities",
+      "description": "Claude Mythos Preview is a new general-purpose AI language model by Anthropic. This model performs strongly across the board, but it is especially strong at computer security tasks. This model is not publicly available yet, but Anthropic is making it available…",
+      "link": "https://symfony.com/blog/claude-mythos-audited-symfony-and-found-19-vulnerabilities?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-21T07:25:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0b54c6078032",
       "title": "The Agent Stack Bet",
       "description": "The following article originally appeared on the Elevate newsletter and is being reposted here with the author’s permission. Peek under the hood of most “production agents” shipping today and you won’t find intelligence. You’ll find custom plumbing, fragile session logic, shared service accounts, and a security model held together by hope. This can be so […]",
@@ -105,6 +253,21 @@
       "type": "blog"
     },
     {
+      "id": "78abd86218cd",
+      "title": "datasette-agent-charts 0.1a1",
+      "description": "Release: datasette-agent-charts 0.1a1 More color! Bar and waffle charts without a color column are shaded by magnitude with a sequential color scheme; color columns holding text values use the observable10 categorical scheme. #2 Now checks execute-sql permission before running the query to find the column names. Charts now display interactive tooltips. Fixed a bug where waffleY charts were not described to the agent. Tags: datasette, datasette-agent",
+      "link": "https://simonwillison.net/2026/May/20/datasette-agent-charts/#atom-everything",
+      "pubDate": "2026-05-20T14:52:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bb86bfbcff22",
       "title": "Socket Raises $60M Series C at a $1B Valuation to Help Enterprises Build Securely With AI",
       "description": "Led by Thrive Capital, the round brings Socket to unicorn status as enterprises race to adopt AI coding tools and look for ways to secure the third-party dependencies entering production without slowing down SAN FRANCISCO, May 20, 2026 – Socket today announced it has raised $60 million in Series C funding at a $1 billion valuation. Led by Thrive CapitaI, with participation from a16z, Abstract Ventures, and Capital One Ventures, the round will support Socket’s next phase of growth as more…",
@@ -162,6 +325,20 @@
         "Web"
       ],
       "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "4c540a0e1b38",
+      "title": "The Agent Stack Bet",
+      "description": "The following article originally appeared on the Elevate newsletter and is being reposted here with the author’s permission. Peek under the hood of most “production agents” shipping today and you won’t find intelligence. You’ll find custom plumbing, fragile session logic, shared service accounts, and a security model held together by hope. This can be so […]",
+      "link": "https://www.oreilly.com/radar/the-agent-stack-bet/",
+      "pubDate": "2026-05-20T10:58:36.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -831,6 +1008,21 @@
       "type": "blog"
     },
     {
+      "id": "3d9ccbb7a159",
+      "title": "datasette-agent 0.1a2",
+      "description": "Release: datasette-agent 0.1a2 Tool availability can now be attached to a required_permission. The default background agent tools now require the new datasette-agent-background permission. #10 Tags: datasette, datasette-agent",
+      "link": "https://simonwillison.net/2026/May/15/datasette-agent/#atom-everything",
+      "pubDate": "2026-05-15T00:03:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c533eb9ba1b6",
       "title": "Not so locked in any more",
       "description": "This Mitchell Hashimoto quote about Bun migrating from Zig to Rust reminded me of a similar conversation I had at a conference last week. I was talking to someone who worked for a medium sized technology company with a pair of legacy/legendary iPhone and Android apps. They told me they had just completed a coding-agent driven rewrite of both apps to React Native. I asked why they chose that, given that coding agents presumably drive down the cost of maintaining separate iPhone and Android apps.…",
@@ -872,6 +1064,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!rK7b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F317d8da5-e47c-4f80-94c2-7d5d8cca8916_1376x768.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "fd636b34578d",
+      "title": "datasette-agent 0.1a1",
+      "description": "Release: datasette-agent 0.1a1 Now uses the execute-sql permission when deciding which tables to list to the user. #8 Tags: datasette, datasette-agent",
+      "link": "https://simonwillison.net/2026/May/14/datasette-agent/#atom-everything",
+      "pubDate": "2026-05-14T22:01:42.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

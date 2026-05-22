@@ -2,6 +2,132 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "ad985d1acb6b",
+      "title": "#343.exe - Sensome: La miniaturisation jusqu'à l'extrême par Yacine Hmito",
+      "description": "Pour l'épisode #343 je recevais Gor Lebedev. On en débrief avec Yacine. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-343-af95e900dbc0",
+      "pubDate": "2026-05-22T03:00:36.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/2635543b-67a0-4ef3-ae65-af95e900dbc0.mp3?_=1779364896",
+      "duration": "10:26"
+    },
+    {
+      "id": "2b7943304f72",
+      "title": "🎤 Talks donnés à DevOpsdays Genève 🎤",
+      "description": "Liste de talks donnés lors de la conférence DevOpsdays Genève",
+      "link": "https://philippart-s.github.io/blog/talks/devoxx-geneva-2026/",
+      "pubDate": "2026-05-22T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dae999ce27b8",
+      "title": "Google publie son guide d’optimisation pour l’IA : spoiler, arrêtez le bullshit SEO !",
+      "description": "Cet article présente les récentes recommandations de Google pour optimiser le contenu à l'ère de l'IA. Google insiste sur l'importance de l'expérience utilisateur, de contenu authentique et structuré, ainsi que de médias de qualité. Les pratiques à éviter incluent la suroptimisation et l'utilisation de fichiers inutiles. L'accent est mis sur la valeur ajoutée humaine. L’article Google publie son guide d’optimisation pour l’IA : spoiler, arrêtez le bullshit SEO ! est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/05/21/google-publie-son-guide-doptimisation-pour-lia-spoiler-arretez-le-bullshit-seo/",
+      "pubDate": "2026-05-21T11:05:00.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d7047260eae7",
+      "title": "Le guide provisoire du GEO pour le B2B en 2026",
+      "description": "Ce guide du GEO, destiné aux professionnels du B2B, présente les meilleures pratiques pour optimiser la visibilité dans les moteurs d'IA, face à la montée des LLM. Il souligne l'importance d'être cité par ces outils, tout en continuant à valoriser le SEO traditionnel. Le GEO complète le SEO sans le remplacer, marquant un changement significatif dans le comportement des acheteurs. L’article Le guide provisoire du GEO pour le B2B en 2026 est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/21/le-guide-provisoire-du-geo-pour-le-b2b-en-2026/",
+      "pubDate": "2026-05-21T10:25:51.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cb83caab2821",
+      "title": "Aller plus vite sans aller dans le mur : le cadrage design à l'ère de l'IA (partie 1/2)",
+      "description": "L'IA structure vite, synthétise proprement, et peut embarquer un projet entier dans la mauvaise direction. Retour d'expérience de 3 Product Designers Seniors sur un an de pratique IA en cadrage : ce qui accélère, ce qui dérive, et pourquoi le designer reste le seul filet qui compte.",
+      "link": "https://blog.octo.com/octo-article-de-blog-22",
+      "pubDate": "2026-05-21T08:55:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "012b8422495c",
+      "title": "Claude Code dévore tes tokens ? Claude HUD te montre tout",
+      "description": "Claude Code devient beaucoup plus lisible avec Claude HUD, un plugin qui affiche en temps réel ce qui se passe dans votre session : utilisation du contexte, consommation de tokens, outils actifs, agents en cours d’exécution et progression des tâches. Dans cette vidéo, je vous montre comment installer et configurer Claude HUD, pourquoi ce plugin peut changer votre manière d’utiliser Claude Code, et surtout comment mieux surveiller vos tokens avant d’exploser votre contexte. Claude HUD est un…",
+      "link": "https://www.youtube.com/watch?v=0sn0wurpoes",
+      "pubDate": "2026-05-21T08:45:06.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/0sn0wurpoes/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "0sn0wurpoes"
+    },
+    {
+      "id": "a462885791ef",
+      "title": "Refonte complète de mon infrastructure DNS avec Technitium et AdGuard Home en haute disponibilité",
+      "description": "Un setup DNS sans redondance ni zone locale, c'est un SPOF qui s'ignore. Découvrez comment refondre son infrastructure DNS en haute disponibilité avec Technitium, AdGuard Home et Proxmox HA.",
+      "link": "https://domopi.eu/refonte-complete-de-mon-infrastructure-dns-avec-technitium-et-adguard-home-en-haute-disponibilite/",
+      "pubDate": "2026-05-21T05:45:17.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/05/article_dns.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ad87566f2504",
+      "title": "🖥️ Construire une TUI en Java avec TamboUI",
+      "description": "Tout le monde peut cuisiner ! ©Gusteau",
+      "link": "https://philippart-s.github.io/blog/2026-05-21-tamboui-tui/",
+      "pubDate": "2026-05-21T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "67047d3eb829",
       "title": "🤖 Laravel rend les IA BEAUCOUP trop fortes avec PAO",
       "description": "Laravel vient de sortir PAO (PHP Agent-Optimized Output), une nouveauté qui optimise les outputs PHP pour les agents IA. Tests, logs, erreurs CLI… Laravel commence maintenant à parler directement aux IA. Dans cette vidéo, je t’explique : ⚡ ce que fait Laravel PAO ⚡ pourquoi c’est important ⚡ pourquoi c’est probablement le futur des apps Laravel ⚡ et ce que ça change pour les développeurs PHP ⚔️ LaravelJutsu — Building AI-native Laravel apps http://laraveljutsu.com/ #Laravel #PHP #AI #OpenAI…",
@@ -16,6 +142,21 @@
       "image": "https://i.ytimg.com/vi/2IkHWwrPfSA/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "2IkHWwrPfSA"
+    },
+    {
+      "id": "0f02b490657f",
+      "title": "FrankenPHP en dev : un worker chaud, trois --watch empilés, et un cert qui ne demande rien",
+      "description": "Découvrez FrankenPHP en développement : un worker chaud, trois mécanismes de hot reload empilés et un certificat automatique. Comprenez comment FrankenPHP fonctionne et ce que ses fonctionnalités offrent côté développement.",
+      "link": "https://lecodeestdanslepre.fr/billets/frankenphp-en-dev-un-worker-chaud-trois-watch-empiles-et-un-cert-qui-ne-demande-rien",
+      "pubDate": "2026-05-20T11:05:26.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
     },
     {
       "id": "a9e46db2bda4",
