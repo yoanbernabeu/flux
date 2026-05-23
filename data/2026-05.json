@@ -2,6 +2,124 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "bcacbc637d20",
+      "title": "Laravel 13 : Construis ton propre Shopify de A à Z - Episode 1",
+      "description": "🚀 Bienvenue dans le premier épisode de la série où on construit un e-commerce complet avec Laravel 13, Lunar PHP, InertiaJS et Vue 3. Dans cet épisode, on pose les fondations du projet : installation, configuration et découverte de l'écosystème Lunar. 🔥 La suite de la série est exclusivement disponible sur 👉 LaravelJutsu.com ────────────────────────────── 🎯 CE QU'ON COUVRE DANS CET ÉPISODE ────────────────────────────── ✅ Création d'un nouveau projet Laravel 13 ✅ Installation et…",
+      "link": "https://www.youtube.com/watch?v=I1B9HPablvs",
+      "pubDate": "2026-05-22T20:40:23.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/I1B9HPablvs/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "I1B9HPablvs"
+    },
+    {
+      "id": "ef7877ed4e8e",
+      "title": "Forum PHP 2026 - 8&9 octobre, Hotel New York - The Art of Marvel, Disneyland Paris",
+      "description": "Le rendez-vous de l'année pour la communauté PHP en France ! Ensemble, comprenons comment évolue notre secteur et dessinons l'avenir de nos métiers. Plus d'informations sur l'événement : https://event.afup.org/ Cette vidéo vous a plu ? Adhérez à l'AFUP pour soutenir son activité : https://afup.org/association/devenir-membre Nous cherchons des sponsors et des conférencier·e·s pour le prochain événement AFUP : https://event.afup.org/ Montage : Nicolas Detrez / https://ncls.tv/ Musique : Benjamin…",
+      "link": "https://www.youtube.com/watch?v=PqHUVCUBZJk",
+      "pubDate": "2026-05-22T20:29:59.000Z",
+      "source": "AFUP PHP (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCb-D560WkMEPE7dwNta_nqA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/PqHUVCUBZJk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "PqHUVCUBZJk"
+    },
+    {
+      "id": "7a6eb6fb9f18",
+      "title": "Laravel 13 a détruit notre système de cache",
+      "description": "On voulait juste mettre du cache dans notre application ecommerce Laravel… …et après upgrade Laravel 13 : 💥 Collections cassées 💥 Pagination explosée 💥 __PHP_Incomplete_Class partout Dans cette vidéo je montre : * le changement “serializable_classes” * pourquoi énormément d’apps Laravel vont casser * pourquoi cacher des modèles Eloquent complets devient dangereux * et surtout la nouvelle approche propre pour le cache Laravel Vidéo issue de notre vraie série ecommerce sur laraveljutsu.com 🚀…",
+      "link": "https://www.youtube.com/watch?v=pPGfHtf31_0",
+      "pubDate": "2026-05-22T14:12:34.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/pPGfHtf31_0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "pPGfHtf31_0"
+    },
+    {
+      "id": "06bca7f3eacc",
+      "title": "Refonte de l'UI de GroROTI",
+      "description": "Si vous lisez régulièrement ce blog et mes aventures sur les réseaux sociaux, vous savez que j’aime énormément l’infrastructure, un peu le code backend (surtout en Golang), mais que dès qu’il s’agit de concevoir une interface graphique moderne et agréable, il n’y a plus personne. C’est un fait établi, je n’ai aucune compétence en développement front. Dommage pour les offres FullSteak (jeu de mot pourri, mais plutôt approprié ici). C’est exactement ce qui pénalisait GroROTI, un petit outil web…",
+      "link": "https://blog.zwindler.fr/2026/05/22/refonte-ui-groroti/",
+      "pubDate": "2026-05-22T10:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/05/roti-avant-apr%C3%A8s.webp",
+      "type": "blog"
+    },
+    {
+      "id": "21227f70f400",
+      "title": "Redéfinir le \"bien travailler\" dans un monde saturé d’outils",
+      "description": "Efficacité, performance… L’intelligence artificielle et nos outils nous promettent tout. Pourtant, ils créent des paradoxes. Voici 5 pistes pour repenser le ‘bien travailler’ aujourd’hui.",
+      "link": "https://blog.octo.com/redefinir-le-bien-travailler-dans-un-monde-sature-d'outils",
+      "pubDate": "2026-05-22T09:48:13.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fbd90e972814",
+      "title": "Le moment Spoutnik de la tech européenne  ? Rencontre avec Hugo Lassiège",
+      "description": "Hugo Lassiège, ex-CTO et cofondateur de Malt, créateur de Writizzy, défend pour le studio Devoxx France, une idée qui dérange : la tech n'a jamais été neutre et encore moins aujourd'hui. Impossible de se cacher derrière un « moi, je fais juste de la technique ». Dans cette conversation, il raconte le moment Spoutnik européen, celui où, sous le mandat de Trump, les DSI européennes commencent enfin à interroger leur dépendance aux clouds américains. Au programme : - Pourquoi le développeur…",
+      "link": "https://www.youtube.com/watch?v=rNjVa7AmVnA",
+      "pubDate": "2026-05-22T07:49:22.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/rNjVa7AmVnA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "rNjVa7AmVnA"
+    },
+    {
+      "id": "08533b91ac1c",
+      "title": "MACI #159 - Claude Agent, PGbackrest, sécurité et NPM - Avec Antoine Blondeau et Gilles Biannic",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on démarre avec des outils open source créés pour piloter des applications Clever Cloud, avant de parler de Claude Agent View et de ce que ces interfaces changent dans la manière de suivre le travail des agents IA. Et puis, comme souvent dans MACI, la discussion part vite sur l’état de l’écosystème open source : MinIO qui change de modèle, pgBackRest qui reprend vie, SmolVM et l’isolation par défaut, mais aussi les sujets sécurité du…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-159-claude-agent-open-source-et-securite-npm-avec-antoine-blondeau",
+      "pubDate": "2026-05-22T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/4FThA3NDCgNvOA5FdzKIQlMgQ4NSgetkfLnWz1ET_1400x1400.jpeg?t=1779287547",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/b2GmKTYXGqAe.mp3?t=1779282611",
+      "duration": "55:38"
+    },
+    {
       "id": "ad985d1acb6b",
       "title": "#343.exe - Sensome: La miniaturisation jusqu'à l'extrême par Yacine Hmito",
       "description": "Pour l'épisode #343 je recevais Gor Lebedev. On en débrief avec Yacine. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
@@ -33,6 +151,37 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7506c296f54",
+      "title": "Tangled - une alternative à GitHub sur AT Protocol",
+      "description": "Avec la chute progressive de GitHub, on voit de plus en plus de messages d’entreprises ou de projets qui cherchent à en sortir. Au-delà de l’hébergement d’un simple service Git, GitHub, c’était aussi une plateforme de réseau social. Les développeurs partagent leur code, et on y découvre de nouveaux projets. C’est devenu au fur et à mesure des années le lieu où l’Open Source vit (bien que le code source de GitHub lui-même soit fermé, un comble !). Tangled se pose comme une alternative à GitHub :…",
+      "link": "https://codeka.io/2026/05/22/tangled/",
+      "pubDate": "2026-05-22T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/05/22/tangled/cover_hu_504506566c19fc08.webp",
+      "type": "blog"
+    },
+    {
+      "id": "096cd8c42300",
+      "title": "EasyAdmin : quand un seul trait configure quatre CRUDs",
+      "description": "Structurer les champs de quatre entités partagées avec EasyAdmin. Quatre CRUDs pour Post, Page, Category et Series. Mutualisation en trait PHP pour éviter le copier-coller. FormField, tabs et fieldsets au service de la maintenabilité.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-quand-un-seul-trait-configure-quatre-cruds",
+      "pubDate": "2026-05-21T17:38:32.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {

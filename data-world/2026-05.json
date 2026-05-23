@@ -2,6 +2,168 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "e18b822bcb2a",
+      "title": "Laravel Lang Compromised with RCE Backdoor Across 700+ Versions",
+      "description": "A compromise affecting the community-maintained Laravel Lang project has introduced remote code execution backdoors across multiple packages in the organization, including laravel-lang/lang, laravel-lang/http-statuses, laravel-lang/attributes , and laravel-lang/actions across roughly 700+ historical versions. The affected packages are not part of the official Laravel framework. They are third-party localization packages used by Laravel applications. However, applications that installed…",
+      "link": "https://socket.dev/blog/laravel-lang-compromise?utm_medium=feed",
+      "pubDate": "2026-05-23T03:08:09.523Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cc0169e12c23",
+      "title": "The memory shortage is causing a repricing of consumer electronics",
+      "description": "The memory shortage is causing a repricing of consumer electronics David Oks provides the clearest explanation I've seen yet of why consumer products that use memory are likely to get significantly more expensive over the next few years. The short version is that memory manufacturers - of which there are just three remaining large companies - have a fixed capacity in terms of how many wafers they can process at any one time. This fixed wafer capacity is then split between DDR - used in desktops…",
+      "link": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
+      "pubDate": "2026-05-22T22:01:31.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4fdf9d9bc5d8",
+      "title": "Malicious Postinstall Hook Found Across 700+ GitHub Repositories, Including Packagist and Node.js Projects",
+      "description": "Socket researchers identified a coordinated supply chain campaign affecting eight packages on Packagist whose upstream repositories were modified to include the same malicious postinstall script. The script attempted to download a Linux binary from a GitHub Releases URL, save it to /tmp/.sshd, make it executable, and run it in the background. Although the affected packages were all Composer packages, the malicious code was not added to composer.json. Instead, it was inserted into package.json,…",
+      "link": "https://socket.dev/blog/malicious-postinstall-hook-found-across-700-github-repos?utm_medium=feed",
+      "pubDate": "2026-05-22T21:03:29.112Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/32d8010b1a2aa3e4cfd7c20e4b6f4bce477f3e7a-1226x663.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "87a6e229a8d1",
+      "title": "Agent Memory Is Only as Good as Its Schema",
+      "description": "Some key lessons on building production-grade memory for Agents.",
+      "link": "https://blog.dailydoseofds.com/p/agent-memory-is-only-as-good-as-its",
+      "pubDate": "2026-05-22T20:33:11.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!jdHD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F986e63b0-0ae5-46a0-8674-5c55f6da69c2_1456x788.png",
+      "type": "blog"
+    },
+    {
+      "id": "4aa6b8683663",
+      "title": "The Erdős Proof and AI Capabilities",
+      "description": "View the official memo here. An internal model at OpenAI has autonomously disproved a central conjecture in discrete geometry, a mathematical field with applications in cryptography, wireless device communication, and medical imaging. The proof relates to a famous question posed by Paul Erdős in 1946. It has been verified by prominent mathematicians in a companion […] The post The Erdős Proof and AI Capabilities appeared first on Machine Intelligence Research Institute.",
+      "link": "https://intelligence.org/2026/05/22/the-erdos-proof-and-ai-capabilities/",
+      "pubDate": "2026-05-22T16:07:36.000Z",
+      "source": "MIRI Blog",
+      "sourceUrl": "https://intelligence.org/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ee520aa0bc4e",
+      "title": "This Week in AI: Rethinking the Agent Harness",
+      "description": "We kicked off our new weekly series This Week in AI on Monday, and we covered a lot of ground in 30 minutes, including an AI model that found security holes faster than decades of human auditing, a data center in Utah the size of two Manhattans, and a practical argument for why the harness […]",
+      "link": "https://www.oreilly.com/radar/this-week-in-ai-rethinking-the-agent-harness/",
+      "pubDate": "2026-05-22T15:01:29.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "079c96247574",
+      "title": "AI Has Taken Over Open Source",
+      "description": "I’ve spent a lot of time looking at what the data reveals about open source, from the speed at which open source alternatives emerge to how maintainer compensation compares with the broader software industry. I’m interested in what the data says, not in predictions based on anecdotes. At Socket, I've had the privilege of accessing our massive database across all major ecosystems, including npm, PyPI, Go, and Rust. We essentially replicate all open source packages, including the very fringe…",
+      "link": "https://socket.dev/blog/ai-has-taken-over-open-source?utm_medium=feed",
+      "pubDate": "2026-05-22T14:22:05.743Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/6d4e9aec2f2b0d099baf48710b590df57e4af99e-1900x1214.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "ab4f0675f158",
+      "title": "The elephant in the room",
+      "description": "Josh Comeau shares a thoughtful take on AI, arguing that deep technical skill becomes more valuable, not less, as these tools improve. His point is that strong developers can use AI to amplify their work, while less experienced builders still struggle without solid architectural judgment. Read more",
+      "link": "https://freek.dev/3116-the-elephant-in-the-room",
+      "pubDate": "2026-05-22T12:30:05.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fc07d959cd26",
+      "title": "SymfonyDay Montreal 2026: The Hidden Cost of return new Response()",
+      "description": "We look forward to seeing you on June 4, 2026, at L'Espace Quartier Latin (UQAM) for SymfonyDay Montreal 2026. A full day of learning and networking awaits! 🎤 Speaker announcement! Mathias Arlaud, Co-Founder - COO, baksla.sh, will present \"The Hidden…",
+      "link": "https://symfony.com/blog/symfonyday-montreal-2026-the-hidden-cost-of-return-new-response?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-22T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/HEADER-1200x440px-at-3x-5.png",
+      "type": "blog"
+    },
+    {
+      "id": "95347ca309aa",
+      "title": "Symfony UX 2.x Security Maintenance Update",
+      "description": "The Symfony UX ecosystem has evolved significantly since its introduction, bringing modern frontend capabilities such as Live Components, Turbo integration, charts, autocomplete, and more to Symfony applications. To help the ecosystem continue moving forward…",
+      "link": "https://symfony.com/blog/symfony-ux-2-x-security-maintenance-update?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-22T11:18:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2a9d164782d3",
+      "title": "New in Symfony 8.1: Messenger Improvements",
+      "description": "The Symfony Messenger component continues to evolve in Symfony 8.1 with improvements across worker execution, transport behavior, serialization, and failure handling. Batch Fetching Messages…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-messenger-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-22T06:39:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
       "id": "e3deeb668db4",
       "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
       "description": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service Back in 2024 Cox Media Group were caught trying to sell advertisers packages based on \"active listening\", with this deck which claimed: Smart devices capture real-time intent data by listening to our conversations Advertisers can pair this voice-data with behavioral data to target in-market consumers I wrote about this in…",
