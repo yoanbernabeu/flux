@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "4b4b1295d244",
+      "title": "On the <dl>",
+      "description": "On the &lt;dl&gt; I learned a few new-to-me things about the &lt;dl&gt; element from this article by Ben Meyer: A &lt;dt&gt; can be followed by multiple &lt;dd&gt; You can optionally group the &lt;dt&gt; and &lt;dd&gt; elements in a &lt;div&gt; for styling - but only a &lt;div&gt;. You can label them using ARIA. They've been called \"description lists\", not \"definition lists\", since an HTML5 draft in 2008. So this is valid: &lt;h2 id=\"credits\"&gt;Credits&lt;/h2&gt; &lt;dl…",
+      "link": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
+      "pubDate": "2026-05-23T20:24:48.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e18b822bcb2a",
       "title": "Laravel Lang Compromised with RCE Backdoor Across 700+ Versions",
       "description": "A compromise affecting the community-maintained Laravel Lang project has introduced remote code execution backdoors across multiple packages in the organization, including laravel-lang/lang, laravel-lang/http-statuses, laravel-lang/attributes , and laravel-lang/actions across roughly 700+ historical versions. The affected packages are not part of the official Laravel framework. They are third-party localization packages used by Laravel applications. However, applications that installed…",

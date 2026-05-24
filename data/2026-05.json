@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "e27359654531",
+      "title": "La meilleure technologie, c'est celle que l'équipe maîtrise",
+      "description": "Lorsque l’on doit résoudre un problème technique, il est tentant de chercher la solution la plus adaptée. Celle qui répond le mieux aux contraintes identifiées. Pourtant, il peut arriver que la meilleure technologie ne soit pas celle qui colle parfaitement au problème. Choisir une technologie, c’est prendre en compte plusieurs facteurs tels que: les compétences de l’équipe, le temps disponible et la tolérance au risque du projet. Quand les délais sont contraints, le choix doit l’être aussi. La…",
+      "link": "https://www.jdecool.fr/blog/2026/05/23/la-meilleure-technologie-c-est-celle-que-l-equipe-maitrise.html",
+      "pubDate": "2026-05-22T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bcacbc637d20",
       "title": "Laravel 13 : Construis ton propre Shopify de A à Z - Episode 1",
       "description": "🚀 Bienvenue dans le premier épisode de la série où on construit un e-commerce complet avec Laravel 13, Lunar PHP, InertiaJS et Vue 3. Dans cet épisode, on pose les fondations du projet : installation, configuration et découverte de l'écosystème Lunar. 🔥 La suite de la série est exclusivement disponible sur 👉 LaravelJutsu.com ────────────────────────────── 🎯 CE QU'ON COUVRE DANS CET ÉPISODE ────────────────────────────── ✅ Création d'un nouveau projet Laravel 13 ✅ Installation et…",
