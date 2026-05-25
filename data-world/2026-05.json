@@ -2,6 +2,125 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "271dece48922",
+      "title": "datasette 1.0a30",
+      "description": "Release: datasette 1.0a30 The big new feature in this alpha is a new customizable \"Jump to...\" menu, described in detail in The extensible \"Jump to\" menu in Datasette 1.0a30 on the Datasette blog. You can try it out by hitting / on latest.datasette.io - it looks like this: The new jump_items_sql() plugin hook allows plugins to add their own items to the set that's searched by the plugin. Tags: projects, datasette, annotated-release-notes",
+      "link": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
+      "pubDate": "2026-05-24T23:52:37.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7c40babf6b0",
+      "title": "datasette-agent 0.1a4",
+      "description": "Release: datasette-agent 0.1a4 Taking advantage of the new makeJumpSections() JavaScript plugin hook added in Datasette 1.0a30, datasette-agent now presents this \"Start a new agent chat\" interface as part of the Jump to menu, any time you hit /: You can try this out by signing into agent.datasette.io using your GitHub account. Tags: datasette, datasette-agent",
+      "link": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
+      "pubDate": "2026-05-24T23:19:34.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ef0577a45e3a",
+      "title": "datasette-fixtures 0.1a0",
+      "description": "Release: datasette-fixtures 0.1a0 One of the smaller features in Datasette 1.0a30 is this: New documented datasette.fixtures.populate_fixture_database(conn) helper for creating the fixture database tables used by Datasette's own tests, intended for plugin test suites. This new plugin takes advantage of that API. You can try it out using uvx without even installing Datasette like this: uvx --prerelease=allow \\ --with datasette-fixtures datasette \\ --get /fixtures/roadside_attractions.json Which…",
+      "link": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
+      "pubDate": "2026-05-24T21:38:32.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4316d877506f",
+      "title": "Function Approximation in RL",
+      "description": "The full RL nanodegree, covered with implementation.",
+      "link": "https://blog.dailydoseofds.com/p/function-approximation-in-rl",
+      "pubDate": "2026-05-24T20:47:39.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!qESQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a046dac-6af6-4aaf-bf25-89320fdd0691_1456x818.png",
+      "type": "blog"
+    },
+    {
+      "id": "bab7b4bab5cc",
+      "title": "Quoting Armin Ronacher",
+      "description": "The most frustrating failure mode right now is that people submit issues that are not in their own voice. They contain an observed problem somewhere, but it has been thrown into a clanker and the clanker reworded it and made a huge mess of it. Typically, it was prompted so badly that the conclusions produced are more often than not inaccurate but always full of confidence. The result is complete guesswork on root causes, fake-minimal repros, suggested implementation strategies, analogies to…",
+      "link": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
+      "pubDate": "2026-05-24T18:46:53.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7f9d6517ccf",
+      "title": "Mad House — Usborne Creepy Computer Games",
+      "description": "Tool: Mad House — Usborne Creepy Computer Games Via Hacker News I learned that UK publisher Usborne published free PDFs of their 1980s Computer Books, some of which I remember working through on my Commodore 64 as a child. These were so great! Beautifully illustrated books with fun projects made up of code you could type into your own machine. I remember playing \"Mad House\" typed in from the 1983 book \"Creepy Computer Games\", so I fed that PDF into Claude and had it build an interactive version…",
+      "link": "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
+      "pubDate": "2026-05-24T17:14:11.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "85ddbd101a85",
+      "title": "TrapDoor Crypto Stealer Supply Chain Attack Hits 34 Packages and Hundreds of Versions Across npm, PyPI, and Crates.io",
+      "description": "Socket researchers have identified an active crypto stealer supply chain attack spanning npm, PyPI, and Crates.io. The campaign, which Socket is tracking as TrapDoor, spans more than 34 malicious packages and 384+ related versions and artifacts across npm, PyPI, and Crates.io, with some already removed and others still live at the time of writing. The earliest package Socket observed was the PyPI package eth-security-auditor@0.1.0, uploaded on May 22, 2026 at 20:20:18 UTC, with the wheel…",
+      "link": "https://socket.dev/blog/trapdoor-crypto-stealer-npm-pypi-crates?utm_medium=feed",
+      "pubDate": "2026-05-24T13:32:20.276Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/e67e7d94192377ba14fd451c10c7025fa96a0244-913x731.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "2ab17475d79a",
+      "title": "A Week of Symfony #1012 (May 18–24, 2026)",
+      "description": "This week, Symfony released 36 security advisories and published security releases 5.4.52, 6.4.40, 7.4.12, 8.0.12, 8.1.0 BETA3 and Twig 3.26.0. We also published an article about how we used Claude Mythos to analyze the Symfony and Twig codebases and uncover…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1012-may-18-24-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-24T07:40:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4b4b1295d244",
       "title": "On the <dl>",
       "description": "On the &lt;dl&gt; I learned a few new-to-me things about the &lt;dl&gt; element from this article by Ben Meyer: A &lt;dt&gt; can be followed by multiple &lt;dd&gt; You can optionally group the &lt;dt&gt; and &lt;dd&gt; elements in a &lt;div&gt; for styling - but only a &lt;div&gt;. You can label them using ARIA. They've been called \"description lists\", not \"definition lists\", since an HTML5 draft in 2008. So this is valid: &lt;h2 id=\"credits\"&gt;Credits&lt;/h2&gt; &lt;dl…",
