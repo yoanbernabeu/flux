@@ -2,6 +2,65 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "f92fb59837af",
+      "title": "Quoting Corey Quinn",
+      "description": "I cannot believe I'm saying this, but getting the literal Pope to canonize your product's specific technical limitations as a spiritual treatise is the single greatest act of vendor lobbying I have ever seen. &mdash; Corey Quinn, on Anthropic co-founder Christopher Olah's influence on Magnifica Humanitas Tags: ai-ethics, corey-quinn, anthropic, ai",
+      "link": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
+      "pubDate": "2026-05-26T02:28:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a3fe36ddf953",
+      "title": "Notes on Pope Leo XIV's encyclical on AI",
+      "description": "Dropped this morning by the Vatican: Magnifica Humanitas of His Holiness Pope Leo XIV on Safeguarding the Human Person in the Time of Artificial Intelligence. This is a very interesting document. It's some of the clearest writing I've seen on the ethics of integrating AI into modern society. Pope Leo XIV chose the name Leo in honor of Pope Leo XIII, who is known for his 1891 Rerum novarum encyclical on \"Rights and Duties of Capital and Labor\". This story on Vatican News further clarifies the…",
+      "link": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
+      "pubDate": "2026-05-25T23:58:17.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1b44fcbed135",
+      "title": "The No. 1 Deep Researcher Beats Claude and ChatGPT Using a Counterintuitive Trick",
+      "description": "It's fully open-source with 30k stars.",
+      "link": "https://blog.dailydoseofds.com/p/the-no-1-deep-researcher-beats-claude",
+      "pubDate": "2026-05-25T20:09:33.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!pNNf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0965ce02-193a-4ec2-bb7c-ff2c2ab85b23_1210x1160.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "3f06332a23bf",
+      "title": "The robots are replacing the packages",
+      "description": "An interesting take on how AI changes the build-versus-buy decision for packages. Shared problems can often be generated, while hard, external, or opinionated problems still benefit from well-maintained packages. Read more",
+      "link": "https://freek.dev/3115-the-robots-are-replacing-the-packages",
+      "pubDate": "2026-05-25T12:41:04.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "271dece48922",
       "title": "datasette 1.0a30",
       "description": "Release: datasette 1.0a30 The big new feature in this alpha is a new customizable \"Jump to...\" menu, described in detail in The extensible \"Jump to\" menu in Datasette 1.0a30 on the Datasette blog. You can try it out by hitting / on latest.datasette.io - it looks like this: The new jump_items_sql() plugin hook allows plugins to add their own items to the set that's searched by the plugin. Tags: projects, datasette, annotated-release-notes",

@@ -2,6 +2,37 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "33d45a478ca9",
+      "title": "Produit  and  IA : nouvelles organisations, et un \"Pourquoi\" plus vital que jamais",
+      "description": "L’IA générative s’invite dans les pratiques Produit avec une promesse simple : aller plus vite. Mais derrière ce gain apparent, elle déplace surtout les points de friction de l’organisation. Ce n’est pas seulement notre manière de produire qui change ; c’est la répartition même de la valeur dans les équipes qui commence à bouger.",
+      "link": "https://blog.octo.com/le-produit-a-l'ere-de-l'ia--nouvelles-organisations-et-un-pourquoi-plus-vital-que-jamais",
+      "pubDate": "2026-05-25T21:52:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a32ff8fc0390",
+      "title": "Le point sur l’inbound marketing en B2B",
+      "description": "Les LLMs, malgré leur popularité croissante, n'apportent pas encore de trafic significatif en France, où Google demeure le principal moteur de recherche. Le marketing doit s'adapter à des comportements en évolution, privilégiant la création de contenu original et pertinent pour construire une relation de confiance avec le public, en particulier en B2B. L’article Le point sur l’inbound marketing en B2B est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/25/le-point-sur-linbound-marketing-en-b2b/",
+      "pubDate": "2026-05-25T08:23:07.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "23b31478a720",
       "title": "#290.exe - Dev interne: L'ombre de la tech par Alexandre Gerlic",
       "description": "Pour l'épisode #290 je recevais Jean-Baptiste Ronssin. On en débrief avec Alexandre. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
@@ -18,6 +49,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/786afae6-2d40-42e5-a042-8491fa5d8907.mp3?_=1779624039",
       "duration": "12:04"
+    },
+    {
+      "id": "20b5e62abad5",
+      "title": "Transcript de ma conférence « Des structures de données qui vont vous étonner »",
+      "description": "En 2024-2025, j’ai présenté plusieurs fois ma conférence « Des structures de données qui vont vous étonner », où je parle de quelques structures de données, pour attirer l’attention des développeurs et développeuses sur le fait qu’il en existe beaucoup, qu’il est intéressant de savoir les choisir – et qu’on n’a pas toujours besoin de ré-inventer la roue. Mon intervention a été enregistrée lors de mon passage à PyConFR 2025 : Comme tout le monde n’accroche pas avec le format vidéo et que…",
+      "link": "https://blog.pascal-martin.fr/post/transcript-conference-structures-de-donnees-qui-vont-vous-etonner/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/transcript-conference-structures-de-donnees-qui-vont-vous-etonner/",
+      "pubDate": "2026-05-25T00:00:00.000Z",
+      "source": "Pascal Martin",
+      "sourceUrl": "https://blog.pascal-martin.fr/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "1f88f59b0991",
