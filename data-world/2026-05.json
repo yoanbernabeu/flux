@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "5afefdf1a1ab",
+      "title": "Quoting Kyle Ferrana",
+      "description": "PICARD: Data, shields up DATA: Brilliant! Shields can reduce damage we sustain. Not immunity. Not hubris. Just prudence. It's not precaution—it's strategy. [camera shakes] WORF: HULL BREACHES ON NINE DECKS DATA: Here's what happened: you told me to raise shields, and I didn't &mdash; Kyle Ferrana, @KyleTrainEmoji Tags: ai-misuse, coding-agents, ai, llms",
+      "link": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything",
+      "pubDate": "2026-05-27T06:41:43.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8a2ba4262bfa",
       "title": "The pressure",
       "description": "The pressure Daniel Stenberg on the unprecedented level of pressure the curl team are facing right now thanks to the deluge of (credible) AI-assisted security issues being reported. The rate of incoming security reports is 4-5 times higher than it was in 2024 and double the speed of 2025 -- meaning that on average we now get more than one report per day. The quality is way higher than ever before. The reports are typically very detailed and long. [...] For the first time in my life, my wife…",
@@ -103,6 +118,48 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "204c85128490",
+      "title": "If enough other companies report the same, the bubble pops. 🫧",
+      "description": "Breaking: “Uber COO Andrew Macdonald said he’s not seeing proportional productivity gains from increasing AI costs.”",
+      "link": "https://garymarcus.substack.com/p/if-enough-other-companies-report",
+      "pubDate": "2026-05-26T13:35:55.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!H-n8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5abc9d00-3e83-47ba-8b30-71324452360b_1282x1032.png",
+      "type": "blog"
+    },
+    {
+      "id": "057015913fe5",
+      "title": "RTMH: Pope Leo's Magnifica Humanitas on AI",
+      "description": "His holiness has spoken, frequently about AI.",
+      "link": "https://thezvi.substack.com/p/rtmh-pope-leos-magnifica-humanitas",
+      "pubDate": "2026-05-26T13:14:25.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/f194199f-7722-4237-aba9-6ba35fd70e99_300x168.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "0e3ac2503ef6",
+      "title": "Import AI 458: Reckoning with the future; and a singularity story",
+      "description": "What AI-driven miracles will happen this year?",
+      "link": "https://importai.substack.com/p/import-ai-458-reckoning-with-the",
+      "pubDate": "2026-05-26T12:32:03.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {
@@ -432,6 +489,20 @@
       "type": "blog"
     },
     {
+      "id": "03ddff1f9759",
+      "title": "Gemini 3.5 Flash Looks Good For How Fast It Is",
+      "description": "Google once again has a model worth at least some consideration.",
+      "link": "https://thezvi.substack.com/p/gemini-35-flash-looks-good-for-how",
+      "pubDate": "2026-05-22T17:24:43.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!SKZO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5871b14d-35f1-4089-83a1-8c4a46727ade_900x674.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "4aa6b8683663",
       "title": "The Erdős Proof and AI Capabilities",
       "description": "View the official memo here. An internal model at OpenAI has autonomously disproved a central conjecture in discrete geometry, a mathematical field with applications in cryptography, wireless device communication, and medical imaging. The proof relates to a famous question posed by Paul Erdős in 1946. It has been verified by prominent mathematicians in a companion […] The post The Erdős Proof and AI Capabilities appeared first on Machine Intelligence Research Institute.",
@@ -472,6 +543,20 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/6d4e9aec2f2b0d099baf48710b590df57e4af99e-1900x1214.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "e15a7d4de1fa",
+      "title": "This one weird trick might cost your retirement fund billions",
+      "description": "You should scream to your congresspeople",
+      "link": "https://garymarcus.substack.com/p/this-one-weird-trick-might-cost-your",
+      "pubDate": "2026-05-22T13:41:19.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!R2VC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7930e35c-8e7f-4da4-ae92-5b5d451ed06f_1357x1141.png",
       "type": "blog"
     },
     {
@@ -609,6 +694,20 @@
       "type": "blog"
     },
     {
+      "id": "3d3c0d8e3f4a",
+      "title": "Checking the math behind OpenAI and Anthropic’s latest headlines",
+      "description": "Always read the fine print",
+      "link": "https://garymarcus.substack.com/p/checking-the-math-behind-openai-and",
+      "pubDate": "2026-05-21T17:32:11.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/ieohssuz6dfb3bxs3bbi",
+      "type": "blog"
+    },
+    {
       "id": "16158c51b03e",
       "title": "datasette-agent-charts 0.1a2",
       "description": "Release: datasette-agent-charts 0.1a2 \"View SQL query\" buttons below rendered charts. Tags: datasette, datasette-agent",
@@ -650,6 +749,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a37773bc8b46",
+      "title": "AI #169: New Knowledge",
+      "description": "Even in a relatively quiet period, AI is out there creating new knowledge.",
+      "link": "https://thezvi.substack.com/p/ai-169-new-knowledge",
+      "pubDate": "2026-05-21T13:17:41.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!CFP_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3d30768-9afc-4820-8646-740eee22a7c1_900x639.jpeg",
       "type": "blog"
     },
     {
@@ -768,6 +881,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0cd3a3695320",
+      "title": "Could generative AI turn out to be the tech industry’s Vietnam? And could public backlash lead AI to a better place?",
+      "description": "We live in interesting times",
+      "link": "https://garymarcus.substack.com/p/could-generative-ai-could-turn-out",
+      "pubDate": "2026-05-20T15:29:27.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/tNH43a1EI7s",
       "type": "blog"
     },
     {
@@ -995,6 +1122,20 @@
       "type": "blog"
     },
     {
+      "id": "d6113cc102dd",
+      "title": "Childhood And Education #19: Letting Kids Be Kids #2",
+      "description": "I cannot emphasize enough the need to let kids be kids.",
+      "link": "https://thezvi.substack.com/p/childhood-and-education-19-letting",
+      "pubDate": "2026-05-19T22:10:59.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!MOEA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ddee79e-e723-473f-b01b-b3665b33a946_941x450.png",
+      "type": "blog"
+    },
+    {
       "id": "313140e5e10e",
       "title": "datasette-llm-accountant 0.1a4",
       "description": "Release: datasette-llm-accountant 0.1a4 Fixed bug tracking chains of responses. Refs datasette-llm#7 Tags: llm, datasette",
@@ -1186,6 +1327,20 @@
       "type": "blog"
     },
     {
+      "id": "c7f6b8c7752b",
+      "title": "The AI trial of the century ends with a whimper",
+      "description": "and so there are some things we will never know",
+      "link": "https://garymarcus.substack.com/p/the-ai-trial-of-the-century-ends",
+      "pubDate": "2026-05-18T18:30:21.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!qJ3E!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff715ea7a-acc7-4185-b24e-8465e560fb4a_1206x409.png",
+      "type": "blog"
+    },
+    {
       "id": "a7f49c269fbf",
       "title": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
       "description": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose, in Los Angeles River, CA, USI'm heading home from PyCon US today so I went on a last morning walk to try and spot a pelican. I saw one! Didn't get a great photo of that, but I did see some goslings down by the swan boat lake.",
@@ -1198,6 +1353,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "42dbb220f448",
+      "title": "Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment ",
+      "description": "Welcome to Import AI, a newsletter about AI research.",
+      "link": "https://importai.substack.com/p/import-ai-457-ai-stuxnet-cursed-muon",
+      "pubDate": "2026-05-18T13:31:17.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {
@@ -1348,6 +1517,20 @@
       "type": "blog"
     },
     {
+      "id": "6591607f9851",
+      "title": "The illusion of Generative AI, the insanity of massive bets on hyperscaling, and the case for world models and neurosymbolic AI",
+      "description": "Three excellent new interviews",
+      "link": "https://garymarcus.substack.com/p/the-illusion-of-generative-ai-the",
+      "pubDate": "2026-05-17T08:02:49.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/iFYF_e1GSGI",
+      "type": "blog"
+    },
+    {
       "id": "1e270729da20",
       "title": "A Week of Symfony #1011 (May 11–17, 2026)",
       "description": "This week, Symfony published maintenance versions 6.4.39, 7.4.11, and 8.0.11. In addition, we announced the second beta release of Symfony 8.1. Finally, we shared the schedule for the SymfonyOnline June 2026 conference and more details about SymfonyDay Montreal…",
@@ -1437,6 +1620,20 @@
       "type": "blog"
     },
     {
+      "id": "368517eefde0",
+      "title": "Monthly Roundup #42: May 2026",
+      "description": "At least we probably won’t have another pandemic.",
+      "link": "https://thezvi.substack.com/p/monthly-roundup-42-may-2026",
+      "pubDate": "2026-05-15T16:45:34.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!CLft!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F115728b3-001d-44d0-89a6-e3bbf165dd2a_900x495.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "c8d9ed79e0b1",
       "title": "Western Gull, Rock Pigeon",
       "description": "Western Gull, Rock Pigeon, in Los Angeles Area (custom), CA, USI went for a bird walk in the morning before PyCon, and we spotted a local seagull enjoying a Starbucks.",
@@ -1449,6 +1646,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "37c0b9c0e725",
+      "title": "US AI policy is a clumsy mess. Here’s what to do about it.",
+      "description": "1200 bills, state and federal, and no framework",
+      "link": "https://garymarcus.substack.com/p/us-ai-policy-is-a-clumsy-mess-heres",
+      "pubDate": "2026-05-15T14:01:31.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!IcQc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59b5aba9-cceb-4232-a830-05f8520b6850_2420x1283.png",
       "type": "blog"
     },
     {
@@ -1630,6 +1841,20 @@
       "type": "blog"
     },
     {
+      "id": "e8e78cb1a018",
+      "title": "AI #168: Not Leading the Future",
+      "description": "This is what a lull looks like at this point.",
+      "link": "https://thezvi.substack.com/p/ai-168-not-leading-the-future",
+      "pubDate": "2026-05-14T14:02:24.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!yueO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b5a175a-ee6a-4efc-8b31-bd15fe1503c1_900x667.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "24d28a7bea9c",
       "title": "How I write feature specs",
       "description": "Sebastian shares a practical three-step workflow for writing feature specs, from gathering notes with tools like Granola to using a thinking model to surface contradictions and scope. He then switches back to hands-on editing to shape the final spec and uses Spiral for a final pass without letting AI take over the writing. Read more",
@@ -1745,6 +1970,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!SpeK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb526bcd4-4732-4c62-8372-826d45ed663a_722x511.png",
+      "type": "blog"
+    },
+    {
+      "id": "8ab591b95494",
+      "title": "Cyber Lack of Security and AI Governance",
+      "description": "The real recent story of AI has been the background work being done on Cybersecurity, as we process the Mythos Moment along with GPT-5.5, and figure out both how to patch the internet and what our new regulatory regime is going to look like.",
+      "link": "https://thezvi.substack.com/p/cyber-lack-of-security-and-ai-governance",
+      "pubDate": "2026-05-13T20:16:13.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!6hXf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcccf3c41-b8a8-4e78-a698-8d366b7c49db_900x498.jpeg",
       "type": "blog"
     },
     {
@@ -2014,6 +2253,20 @@
       "type": "blog"
     },
     {
+      "id": "e05c3d6d54b9",
+      "title": "Childhood and Education #18: Do The Math",
+      "description": "We did reading yesterday.",
+      "link": "https://thezvi.substack.com/p/childhood-and-education-18-do-the",
+      "pubDate": "2026-05-12T18:10:32.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!4-J5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F726809d5-1df6-4234-ae3c-9fbfa0872431_771x652.png",
+      "type": "blog"
+    },
+    {
       "id": "78f0f1b4376d",
       "title": "llm 0.32a2",
       "description": "Release: llm 0.32a2 A bunch of useful stuff in this LLM alpha, but the most important detail is this one: Most reasoning-capable OpenAI models now use the /v1/responses endpoint instead of /v1/chat/completions. This enables interleaved reasoning across tool calls for GPT-5 class models. #1435 This means you can now see the summarized reasoning tokens when you run prompts against an OpenAI model, displayed in a different color to standard error. Use the -R or --hide-reasoning flags if you don't…",
@@ -2191,6 +2444,20 @@
       "type": "blog"
     },
     {
+      "id": "3fd35c69f686",
+      "title": "Childhood And Education #17: Is Our Children Reading",
+      "description": "Reading is the most fundamental thing in education.",
+      "link": "https://thezvi.substack.com/p/childhood-and-education-17-is-our",
+      "pubDate": "2026-05-11T19:00:36.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!vvUO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff28afbfe-de73-49f8-a2d1-2bba687260a7_680x434.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "3ee4cc623426",
       "title": "Using LLM in the shebang line of a script",
       "description": "TIL: Using LLM in the shebang line of a script Kim_Bruning on Hacker News: But seriously, you can put a shebang on an english text file now (if you're sufficiently brave) [...] This inspired me to look at patterns for doing exactly that with LLM. Here's the simplest, which takes advantage of LLM fragments: #!/usr/bin/env -S llm -f Generate an SVG of a pelican riding a bicycle But you can also incorporate tool calls using the -T name_of_tool option: #!/usr/bin/env -S llm -T llm_time -f Write a…",
@@ -2218,6 +2485,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff6ee12bd47d",
+      "title": "Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer ",
+      "description": "What laws does superintelligence demand?",
+      "link": "https://importai.substack.com/p/import-ai-456-rsi-and-economic-growth",
+      "pubDate": "2026-05-11T12:46:12.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {
