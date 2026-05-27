@@ -2,6 +2,169 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "8a2ba4262bfa",
+      "title": "The pressure",
+      "description": "The pressure Daniel Stenberg on the unprecedented level of pressure the curl team are facing right now thanks to the deluge of (credible) AI-assisted security issues being reported. The rate of incoming security reports is 4-5 times higher than it was in 2024 and double the speed of 2025 -- meaning that on average we now get more than one report per day. The quality is way higher than ever before. The reports are typically very detailed and long. [...] For the first time in my life, my wife…",
+      "link": "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
+      "pubDate": "2026-05-26T23:48:45.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae7752c66a16",
+      "title": "​Claude Code used 3x fewer tokens with just one change!",
+      "description": "Explained with fully-open-source setup.",
+      "link": "https://blog.dailydoseofds.com/p/claude-code-used-3x-fewer-tokens",
+      "pubDate": "2026-05-26T22:08:23.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!1IGh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F809a86a5-2d17-4a59-a506-5582bd639185_1127x1023.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "6f30ae0a090a",
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "description": "Microsoft Copilot Cowork Exfiltrates Files The biggest challenge in designing agentic systems continues to be preventing them from enabling attackers to exfiltrate data. In this case Microsoft Copilot Cowork (yes, that's a real product name) was allowing agents to send emails to the user's own inbox without approval... but those messages were then displayed in a way that could leak data to an attacker via rendered images: Because these messages can contain external images that trigger network…",
+      "link": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+      "pubDate": "2026-05-26T15:36:48.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "283947f91f24",
+      "title": "SymfonyOnline June 2026: Symfony AI: Platform, Agent, and Store",
+      "description": "Get ready for SymfonyOnline June 2026 This event will bring the international PHP community together online from June 11 to 12, 2026. This year, we are shaking things up with a brand-new format: one full day dedicated to AI and another full day focus…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-symfony-ai-platform-agent-and-store?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-26T15:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "5fc9d2507711",
+      "title": "Quoting Paul Graham",
+      "description": "A lot of the emails I get from founders are now written in a hard-hitting journalistic style. I know they're written by AI, because no founder ever wrote this way before. And once you realize something is written by AI, it's hard not to ignore it. I have never knowingly finished reading an email signed by a human but written by AI. It feels like being lied to, and who would stand for that? [...] It makes me think less of the author. It means they can't write well unaided (or feel they can't),…",
+      "link": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
+      "pubDate": "2026-05-26T15:02:30.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4ec3db60e858",
+      "title": "CVE-2026-46644: insecure equivalence in symfony/polyfill-intl-idn for ASCII-only xn-- labels",
+      "description": "Affected versions Symfony versions >=1.17.1, <1.38.1 of the Symfony Polyfill and Symfony Polyfill Intl Idn components are affected by this security issue. The issue has been fixed in Symfony 1.38.1. Description symfony/polyfill-intl-idn provides…",
+      "link": "https://symfony.com/blog/cve-2026-46644-insecure-equivalence-in-symfony-polyfill-intl-idn-for-ascii-only-xn-labels?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-26T14:09:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "544b0a3ed704",
+      "title": "Polyfill 1.38.1 released",
+      "description": "Polyfill 1.38.1 is a security release that fixes a vulnerability in symfony/polyfill-intl-idn. All users of this polyfill (directly or through symfony/polyfill) should upgrade as soon as possible. The release also bundles a handful of correctness fixes for…",
+      "link": "https://symfony.com/blog/polyfill-1-38-1-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-26T13:59:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c6f0c4951c1d",
+      "title": "Reading code with AI, not generating it",
+      "description": "A good piece on using AI to understand a large existing codebase instead of generating more code. It shares practical onboarding tactics and prompts that help map domains, dependencies, and architecture faster. Read more",
+      "link": "https://freek.dev/3119-reading-code-with-ai-not-generating-it",
+      "pubDate": "2026-05-26T12:30:05.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "162bff1927a5",
+      "title": "SymfonyDay Montreal 2026: CLI-Driven Development: An Ode to Symfony Console",
+      "description": "Join the Symfony community in Montreal on June 4, 2026, at L'Espace Quartier Latin (UQAM). This edition features 9 expert talks in a single day! Register now. 🎤 Speaker announcement! We are happy to welcome Thomas Durand, Architect, Code Owner,…",
+      "link": "https://symfony.com/blog/symfonyday-montreal-2026-cli-driven-development-an-ode-to-symfony-console?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-26T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/HEADER-1200x440px-at-3x-5.png",
+      "type": "blog"
+    },
+    {
+      "id": "627d298e9584",
+      "title": "Who Authorized That? The Delegation Problem in Multi-Agent AI",
+      "description": "Your AI agent booked a meeting, summarized a financial report, and emailed the highlights to three stakeholders. To do this, it called a calendar agent, a document analysis agent, and an email agent. Each accessed internal systems, made decisions about what to include, and acted on your behalf. Here’s the question your security team can’t […]",
+      "link": "https://www.oreilly.com/radar/who-authorized-that-the-delegation-problem-in-multi-agent-ai/",
+      "pubDate": "2026-05-26T10:58:58.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "af011c4ccf1f",
+      "title": "New in Symfony 8.1: Improved Console Input",
+      "description": "Symfony 8.1 ships many features related to the Console component, such as HTTP-less Symfony applications, method-based commands, and console argument resolvers. In addition, it includes several improvements to console command input handling. Pasting Images…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-improved-console-input?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-26T07:36:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/chalas_r.picture",
+      "type": "blog"
+    },
+    {
       "id": "f92fb59837af",
       "title": "Quoting Corey Quinn",
       "description": "I cannot believe I'm saying this, but getting the literal Pope to canonize your product's specific technical limitations as a spiritual treatise is the single greatest act of vendor lobbying I have ever seen. &mdash; Corey Quinn, on Anthropic co-founder Christopher Olah's influence on Magnifica Humanitas Tags: ai-ethics, corey-quinn, anthropic, ai",
@@ -22,6 +185,21 @@
       "description": "Dropped this morning by the Vatican: Magnifica Humanitas of His Holiness Pope Leo XIV on Safeguarding the Human Person in the Time of Artificial Intelligence. This is a very interesting document. It's some of the clearest writing I've seen on the ethics of integrating AI into modern society. Pope Leo XIV chose the name Leo in honor of Pope Leo XIII, who is known for his 1891 Rerum novarum encyclical on \"Rights and Duties of Capital and Labor\". This story on Vatican News further clarifies the…",
       "link": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
       "pubDate": "2026-05-25T23:58:17.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1f5fe697ff2f",
+      "title": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal",
+      "description": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal, in San Mateo County, CA, USWe took our new folding kayak out in the harbor and saw sea lions and harbor seals chilling on the docks.",
+      "link": "https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything",
+      "pubDate": "2026-05-25T23:08:00.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
       "categories": [

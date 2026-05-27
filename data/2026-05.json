@@ -2,6 +2,138 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "dd7ac9019d5a",
+      "title": "#358.src - DevSecOps: Pourquoi l'automatisation ne sauvera pas (toute seule) la sécu avec Tugdual Grall",
+      "description": "\"La plupart des développeurs ne sont pas des experts en sécurité. On nous demande de développer de plus en plus de choses.\" Le D.E.V. de la semaine est Tugdual Grall, Copilot Specialist chez GitHub. Dans cet épisode, Tug revient sur la façon dont l'IA et l'automatisation bouleversent notre rapport à la sécurité applicative. Il évoque la nécessité de former tous les développeurs à des réflexes DevSecOps, l'importance de l'automatisation pour rester à jour face à la complexité croissante et la…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-358-15f4f5b20d70",
+      "pubDate": "2026-05-27T03:00:17.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/4a09f082-a3d9-4761-85a5-edfc507af6c1.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/a1f6ef9d-c10f-41c6-986d-15f4f5b20d70.mp3?_=1779796937",
+      "duration": "56:15"
+    },
+    {
+      "id": "0aa49dbd5dbc",
+      "title": "Où va Google ? Interview intégrale de Sundar Pichai, CEO de Google – Mai 2026",
+      "description": "Cet article présente une interview de Sundar Pichai, CEO de Google, qui aborde l'impact croissant de l'IA dans les entreprises et son évolution. Pichai souligne les préoccupations autour de l'acceptation de l'IA, la nécessité d'une réglementation, et l'accélération du codage assisté par IA. Les défis et les opportunités liés à cette transformation technologique sont discutés. L’article Où va Google ? Interview intégrale de Sundar Pichai, CEO de Google – Mai 2026 est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/05/26/ou-va-google-interview-integrale-de-sundar-pichai-ceo-de-google/",
+      "pubDate": "2026-05-26T15:54:33.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c5e94c75ffd3",
+      "title": "Découvrir VueUse : la boîte à outils indispensable pour Vue.js",
+      "description": "Découvrez VueUse, une collection de composables ultra pratiques pour Vue.js. Géolocalisation, presse-papiers, gamepads, état du réseau… gagnez du temps avec useClipboard, useGeolocation, useNetwork et useGamepad.",
+      "link": "https://code-garage.com/blog/decouvrir-vueuse-la-boite-a-outils-indispensable-pour-vuejs",
+      "pubDate": "2026-05-26T15:15:39.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3feb13ddf0ac",
+      "title": "AFUP Day 2026 Paris, retour sur une journée dans l'écosystème PHP",
+      "description": "Ce vendredi 22 mai 2026, l'équipe JoliCode était présente à l'AFUP Day 2026 Paris à l'ESGI Paris pour une journée de conférences. L'ambiance était conviviale et studieuse, avec un programme axé sur l'IA, l'architecture et la productivité. Nous avons eu l'honneur de présenter deux sujets, Loïck Piera sur Castor 🦫 et Grégoire Pineau sur Symfony IA. Les temps forts techniques Le programme a couvert des thématiques essentielles qui font évoluer nos pratiques au quotidien, et a aussi rappelé…",
+      "link": "https://jolicode.com/blog/afup-day-2026-paris-retour-sur-une-journee-dans-l-ecosysteme-php",
+      "pubDate": "2026-05-26T13:30:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/afup-day/salle-conference.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3f16b1d3a256",
+      "title": "Zoom sur OpenAI et CODEX avec notre invité surprise !",
+      "description": "Depuis ChatGPT, puis Claude et Codex, la manière même dont nous concevons les applications est en pleine mutation. Avec des modèles qui s'améliorent de façon spectaculaire toutes les 5 semaines, quelle est la véritable place du développeur humain face à la machine? Jusqu’où l’IA va-t-elle augmenter les développeurs? Que manque-t-il pour que les agents codent tout seul? Dans ce nouvel épisode de A La French, on s'attaque à l'impact de l'IA générative et des agents autonomes sur la création de…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6a156f8b6ee822cbfbe4fc45",
+      "pubDate": "2026-05-26T10:02:18.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1779788567297-9189e3c6-f46a-40c1-84e4-af656cac6cd3.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6a156f8b6ee822cbfbe4fc45/media.mp3",
+      "duration": "1:29:37"
+    },
+    {
+      "id": "f26163a03a9e",
+      "title": "Harnessing des agents : 9 pratiques venant du logiciel",
+      "description": "C’est dans les vieux pots que l’on fait les meilleures soupes, cet article est un plaidoyer pour ne pas oublier les bonnes pratiques du logiciel mais plutôt les utiliser et les adapter pour maximiser l’impact des agents de code.",
+      "link": "https://blog.octo.com/harnessing-des-agents--9-pratiques-venant-du-logiciel",
+      "pubDate": "2026-05-26T09:28:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c9f79bd65b0d",
+      "title": "Le CAP des Garbage Collectors : on ne peut pas avoir les trois (Jean Michel Doudoux)",
+      "description": "Jean-Michel Doudoux, directeur technique chez SCIAM, Java Champion et auteur depuis 25 ans du tutoriel \"Développons en Java\", interroge pour le studio Devoxx France, ce qui arrive à la JVM enfermée dans un conteneur Kubernetes. Dans cette conversation, il rappelle que choisir un GC, c'est comme le théorème CAP : throughput, latence, consommation, on ne peut pas avoir les trois. Et en dessous de 2 CPU et 2 Go de RAM, votre JVM passe au Serial GC. Au programme : -Comment la JVM, pensée pour \"une…",
+      "link": "https://www.youtube.com/watch?v=6jAJyMUQj-A",
+      "pubDate": "2026-05-26T08:30:11.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/6jAJyMUQj-A/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "6jAJyMUQj-A"
+    },
+    {
+      "id": "750a09d1b5e5",
+      "title": "L'Event-Driven Architecture chez Octo : épisode 1, le pourquoi",
+      "description": "Un legacy de 13 ans à bichonner, une vingtaine d'applis à faire causer entre elles, et des SaaS externes à intégrer toujours plus vite. Pour sortir de la spaghetti d'APIs, on a misé sur l'Event-Driven Architecture. Premier article d'une série : on pose les bases, et on raconte comment ça nous a changé la vie côté process de recrutement.",
+      "link": "https://blog.octo.com/l-event-driven-architecture-chez-octo--episode-1-le-pourquoi",
+      "pubDate": "2026-05-26T07:50:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "33d45a478ca9",
       "title": "Produit  and  IA : nouvelles organisations, et un \"Pourquoi\" plus vital que jamais",
       "description": "L’IA générative s’invite dans les pratiques Produit avec une promesse simple : aller plus vite. Mais derrière ce gain apparent, elle déplace surtout les points de friction de l’organisation. Ce n’est pas seulement notre manière de produire qui change ; c’est la répartition même de la valeur dans les équipes qui commence à bouger.",
