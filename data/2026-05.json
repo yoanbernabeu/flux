@@ -2,6 +2,72 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "571ef160ce45",
+      "title": "Event UX Reboot - L'IA redessine l'expérience. Êtes-vous prêts ?",
+      "description": "La question qui nous intéresse tous (et qui a ouvert l'event) : est-ce que l’IA a sonné le glas du design ? Spoiler : pas encore, mais les designers et product managers vont devoir revoir leurs positionnements.",
+      "link": "https://blog.octo.com/octo-article-de-blog-23",
+      "pubDate": "2026-05-27T14:25:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e9865376278e",
+      "title": "Code et métier : de l'abstraction à la modélisation",
+      "description": "Comment sait-on qu'on est au bon niveau d'abstraction ? La question de l'abstraction et du design de code est centrale, mais elle est rarement posée.Cet article explore comment le code exprime le métier à travers l'abstraction et l'encapsulation, et pourquoi trouver les bons concepts métier demande du temps et de la collaboration.",
+      "link": "https://blog.octo.com/code-et-metier--de-l'abstraction-a-la-modelisation",
+      "pubDate": "2026-05-27T14:04:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7979bc1d803f",
+      "title": "AFUP Day Lille 2026 : notre retour sur la conférence",
+      "description": "Cette année encore, nous étions présents à l’AFUP Day, l’événement printanier incontournable organisé par l’Association Française des Utilisateurs de PHP. Bien que nous ayons été présent·es dans trois villes sur quatre, voici le retour d’Alex sur l’édition lilloise, qui a accueilli près d’une centaine de participants au Théâtre de la Comédie de Lille. Le progrès […] Cet article, AFUP Day Lille 2026 : notre retour sur la conférence, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/afup-day-lille-2026-notre-retour-sur-la-conference",
+      "pubDate": "2026-05-27T13:22:31.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/AFUPDAYLILLE-05322-1024x683.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e57c1bbd9687",
+      "title": "Geotrek 2025–2026 : nouvelles fonctionnalités et grands chantiers à venir",
+      "description": "Les années 2025 et 2026 ont été parti­cu­liè­re­ment riches en évolu­tions pour l’éco­sys­tème Geotrek.",
+      "link": "https://makina-corpus.com/logiciel-libre/geotrek-2025-2026-nouvelles-fonctionnalites-et-grands-chantiers-venir",
+      "pubDate": "2026-05-27T07:42:59.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "dd7ac9019d5a",
       "title": "#358.src - DevSecOps: Pourquoi l'automatisation ne sauvera pas (toute seule) la sécu avec Tugdual Grall",
       "description": "\"La plupart des développeurs ne sont pas des experts en sécurité. On nous demande de développer de plus en plus de choses.\" Le D.E.V. de la semaine est Tugdual Grall, Copilot Specialist chez GitHub. Dans cet épisode, Tug revient sur la façon dont l'IA et l'automatisation bouleversent notre rapport à la sécurité applicative. Il évoque la nécessité de former tous les développeurs à des réflexes DevSecOps, l'importance de l'automatisation pour rester à jour face à la complexité croissante et la…",
@@ -18,6 +84,36 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/a1f6ef9d-c10f-41c6-986d-15f4f5b20d70.mp3?_=1779796937",
       "duration": "56:15"
+    },
+    {
+      "id": "5bd31f2359b5",
+      "title": "Je deviens un développeur Markdown",
+      "description": "Je code depuis 1983. Aujourd'hui, mon outil principal n'est plus un IDE — c'est un fichier Markdown. Ce n'est pas une capitulation, c'est une montée en abstraction. Et bizarrement, je n'ai jamais eu autant l'impression de faire mon vrai métier.",
+      "link": "https://f2r.github.io/fr/developpeur-markdown.html",
+      "pubDate": "2026-05-27T00:00:00.000Z",
+      "source": "F2R (Frédéric Bouchery)",
+      "sourceUrl": "https://f2r.github.io/feed/fr.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d902cf302505",
+      "title": "L'IA accélère l'écriture du code, pas sa criticité",
+      "description": "L’une des phrases que j’entends le plus ces derniers temps est: « code is cheap », à savoir que le code ne coûte plus grand-chose à produire et qu’il n’a plus de valeur. Je ne suis que partiellement d’accord avec ça. On fait également beaucoup l’analogie du prompt qui génère du code, tout comme le code est transformé en assembleur. Au final, c’est une nouvelle couche d’abstraction qui permet de se concentrer sur l’essentiel, ce que l’on souhaite « produire ». Là où je ne suis pas tout à fait…",
+      "link": "https://www.jdecool.fr/blog/2026/05/27/l-ia-accelere-l-ecriture-du-code-pas-sa-criticite.html",
+      "pubDate": "2026-05-26T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "0aa49dbd5dbc",
@@ -2559,6 +2655,21 @@
       "image": "https://i.ytimg.com/vi/_BUgyvxlgh0/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "_BUgyvxlgh0"
+    },
+    {
+      "id": "d6e12e1d32e3",
+      "title": "L'IA produit de la merde ?",
+      "description": "Un collègue me dit que l'IA produit de la merde. Il a raison — et il a tort. Le problème n'est pas l'outil, c'est qu'on lui a rien dit de valable. Retour sur le vrai coût cognitif du développement assisté par IA.",
+      "link": "https://f2r.github.io/fr/ia-produit-de-la-merde.html",
+      "pubDate": "2026-05-03T00:00:00.000Z",
+      "source": "F2R (Frédéric Bouchery)",
+      "sourceUrl": "https://f2r.github.io/feed/fr.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "6af86d0ee557",

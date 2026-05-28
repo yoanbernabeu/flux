@@ -2,6 +2,243 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "79b4bf459443",
+      "title": "sqlite AGENTS.md",
+      "description": "sqlite AGENTS.md SQLite gained an AGENTS.md file five days ago - but it's not intended for their own development, it's presumably aimed at people who are pointing agents at the SQLite codebase. It includes: SQLite does not accept pull requests without prior agreement and/or accompanying legal paperwork that places the pull request in the public domain. However, the human SQLite developers will review a concise and well-written pull request as a proof-of-concept prior to reimplementing the…",
+      "link": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+      "pubDate": "2026-05-27T23:44:37.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4ad84bfa1be",
+      "title": "Hermes Agent Masterclass",
+      "description": "Full video guide to go from zero to hero.",
+      "link": "https://blog.dailydoseofds.com/p/hermes-agent-masterclass-e2b",
+      "pubDate": "2026-05-27T20:22:02.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://api.substack.com/feed/podcast/199511750/ab4d3289f8a07775a6eb5305fe161fa8.mp3",
+      "type": "blog"
+    },
+    {
+      "id": "6d6823d4ce62",
+      "title": "Branching Workflows: Choosing the Right Git Strategy for Your Team",
+      "description": "Video version at: https://youtu.be/R_-NG_frTiw Last month, two developers on a team I was working with both merged their branches to main within minutes of each other. The first merge was fine but the the second introduced a conflict in a shared service class that nobody caught until the CI pipeline deployed a broken build to […] The post Branching Workflows: Choosing the Right Git Strategy for Your Team appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/05/branching-workflows-choosing-the-right-git-strategy-for-your-team/",
+      "pubDate": "2026-05-27T19:55:35.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/05/mermaid-diagram-2026-05-27-154712-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "0cdcb1d5fb9e",
+      "title": "An Update on Composer & Packagist Supply Chain Security",
+      "description": "Composer and Packagist share a solid overview of the supply chain security work already in place, what is shipping now, and what is coming next. Worth reading if you maintain PHP packages or care about how the ecosystem is hardening against package compromise. Read more",
+      "link": "https://freek.dev/3128-an-update-on-composer-packagist-supply-chain-security",
+      "pubDate": "2026-05-27T19:09:01.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "07a8050f6bdc",
+      "title": "Feross on TBPN: Socket's Series C and the State of Software Supply Chain Security",
+      "description": "Socket CEO Feross Aboukhadijeh joined John Coogan and Jordi Hays on TBPN to discuss Socket's $60 million Series C led by Thrive Capital, the company's 500%+ ARR growth over the past 12 months, and why software supply chain security has moved to the top of the priority list at nearly every company. The 10-minute conversation covers three forces converging right now: AI generating more third-party code than ever before, frontier models surfacing massive volumes of vulnerabilities across operating…",
+      "link": "https://socket.dev/blog/feross-on-tbpn-socket-series-c?utm_medium=feed",
+      "pubDate": "2026-05-27T17:45:32.932Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "edf94c9ea693",
+      "title": "Get a Good Return on Your AI Investments",
+      "description": "Last week, we had our first Infrastructure & Ops superstream of 2026, Platform Engineering in the Age of AI. Our speakers explored a range of topics focused on supporting new AI workloads, each with unique infrastructure needs, unpredictable costs, and novel security concerns. Google Cloud’s Abdel Sghiouar took the audience through what a good platform […]",
+      "link": "https://www.oreilly.com/radar/get-a-good-return-on-your-ai-investments/",
+      "pubDate": "2026-05-27T16:52:37.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9531c79f6646",
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "description": "Anthropic are strongly rumored to be about to have their first profitable quarter. Stories are circulating of companies surprised at how expensive their LLM bills are becoming from usage by their staff. I think this is because OpenAI and Anthropic have both found product-market fit. Enterprise customers are now paying API prices I think they've found product-market fit And they're ramping up The AI-failure stories around this are pretty thin We also know the labs are spending a lot API revenue…",
+      "link": "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
+      "pubDate": "2026-05-27T16:38:35.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9a4cfe5397e6",
+      "title": "SymfonyOnline June 2026: Custom PHPStan Rules: Guardrails for AI-Assisted Symfony Code",
+      "description": "SymfonyOnline June 2026 is officially scheduled for June 11 and 12, 2026! Join us online for two tracks of cutting-edge tech talks: one full day dedicated to AI and another full day focus on Symfony Deep Dive. 🎤 Speaker announcement! We are excited…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-custom-phpstan-rules-guardrails-for-ai-assisted-symfony-code?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-27T15:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "a0f5683b8bad",
+      "title": "New in Symfony 8.1: Improved JSON Streaming and Querying",
+      "description": "Symfony includes two components dedicated to working with JSON: JsonStreamer encodes PHP data into JSON and decodes JSON back into PHP objects by streaming the contents, which provides high performance and low memory usage even for large payloads; JsonPath…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-improved-json-streaming-and-querying?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-27T14:18:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/mtarld.picture",
+      "type": "blog"
+    },
+    {
+      "id": "1396f748bf0f",
+      "title": "CVE-2026-48807: Sandbox `__toString()` policy bypass via `Traversable` in `join`/`replace` and `in`/`not in` operators",
+      "description": "Affected versions Twig versions <=3.26.0 are affected by this security issue. The issue has been fixed in Twig 3.27.0. Description This is a residual bypass of CVE-2026-47732 / GHSA-pr2w-4gpj-cpq4 left after the initial fix for unguarded __toString()…",
+      "link": "https://symfony.com/blog/cve-2026-48807-sandbox-tostring-policy-bypass-via-traversable-in-join-replace-and-in-not-in-operators?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-27T13:21:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "54b5ba625c43",
+      "title": "CVE-2026-46636: Sandbox filter, tag and function allow-list bypass when sandbox state changes between renders",
+      "description": "Affected versions Twig versions <=3.26.0 are affected by this security issue. The issue has been fixed in Twig 3.27.0. Description The per-template filter, tag and function allow-list check is compiled into the checkSecurity() method of each Template…",
+      "link": "https://symfony.com/blog/cve-2026-46636-sandbox-filter-tag-and-function-allow-list-bypass-when-sandbox-state-changes-between-renders?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-27T13:21:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9bb4c209e050",
+      "title": "CVE-2026-48806: Sandbox `__toString()` policy bypass via dynamic mapping keys",
+      "description": "Affected versions Twig versions <=3.26.0 are affected by this security issue. The issue has been fixed in Twig 3.27.0. Description This is a residual bypass of CVE-2026-47732 / GHSA-pr2w-4gpj-cpq4 left after the initial fix for unguarded __toString()…",
+      "link": "https://symfony.com/blog/cve-2026-48806-sandbox-tostring-policy-bypass-via-dynamic-mapping-keys?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-27T13:21:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bdcb679e9965",
+      "title": "CVE-2026-48805: Sandbox state regression in deprecated internal wrappers in `src/Resources/core.php`",
+      "description": "Affected versions Twig versions <=3.26.0 are affected by this security issue. The issue has been fixed in Twig 3.27.0. Description The 3.26.0 source-policy hardening changed the signature of CoreExtension::checkArrow() to take a boolean $isSandboxed…",
+      "link": "https://symfony.com/blog/cve-2026-48805-sandbox-state-regression-in-deprecated-internal-wrappers-in-src-resources-core-php?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-27T13:21:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "372ed71e8f14",
+      "title": "CVE-2026-48808: Sandbox property allowlist bypass via the `column` filter under `SourcePolicyInterface`",
+      "description": "Affected versions Twig versions <=3.26.0 are affected by this security issue. The issue has been fixed in Twig 3.27.0. Description This is a residual bypass of CVE-2026-46635 / GHSA-vcc8-phrv-43wj that only affects sandboxing enabled through SourcePolicyInterface…",
+      "link": "https://symfony.com/blog/cve-2026-48808-sandbox-property-allowlist-bypass-via-the-column-filter-under-sourcepolicyinterface?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-27T13:21:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5edd0b87e4b6",
+      "title": "Locally great, globally drifting",
+      "description": "A thoughtful review of AI-generated frontend code in a real product: strong in isolated spots, but increasingly inconsistent at the system level. It also makes the case for using AI as a candidate generator and validator, not as the reviewer with the final opinion. Read more",
+      "link": "https://freek.dev/3120-locally-great-globally-drifting",
+      "pubDate": "2026-05-27T12:30:05.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3320873b6993",
+      "title": "Agent Skills",
+      "description": "The following article originally appeared on Addy Osmani’s blog and is being reposted here with the author’s permission. The default behavior of any AI coding agent is to take the shortest path to “done.” Ask for a feature and it writes the feature. It doesn’t ask whether you have a spec, write a test before […]",
+      "link": "https://www.oreilly.com/radar/agent-skills/",
+      "pubDate": "2026-05-27T10:59:18.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5afefdf1a1ab",
       "title": "Quoting Kyle Ferrana",
       "description": "PICARD: Data, shields up DATA: Brilliant! Shields can reduce damage we sustain. Not immunity. Not hubris. Just prudence. It's not precaution—it's strategy. [camera shakes] WORF: HULL BREACHES ON NINE DECKS DATA: Here's what happened: you told me to raise shields, and I didn't &mdash; Kyle Ferrana, @KyleTrainEmoji Tags: ai-misuse, coding-agents, ai, llms",
@@ -14,6 +251,36 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b0f9789acb6b",
+      "title": "OSV Withdraws 157 Malware Reports After Automated False Positives Hit npm and PyPI",
+      "description": "OSV, the OpenSSF-backed vulnerability database, withdrew 157 malicious-package reports on May 26 after automated detections incorrectly flagged npm and PyPI packages as malware, pushing bad records for trusted projects into OSV-consuming security tools and CI/CD systems. The rollback happened in OpenSSF’s malicious-packages repository, where OSV-format records for malicious packages are maintained. A PR titled “Withdraw FastAPI v0.136.3 and other FPs reports,” began with a false-positive…",
+      "link": "https://socket.dev/blog/osv-withdraws-157-malware-reports?utm_medium=feed",
+      "pubDate": "2026-05-27T06:02:38.578Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/94e9e331ed5cb8a3eb16da508c2dc5b3ac7ea459-823x451.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "86d5f5f787a4",
+      "title": "The PHP Foundation Impact and Transparency Report 2025",
+      "description": "Executive Summary PHP turned 30 in 2025. With The PHP Foundation's support, the PHP project marked the year by shipping PHP 8.5. The PHP Foundation also launched PIE 1.0, initiated a project to modernize PHP's stream layer, and authored roughly 42% of all commits to PHP's core. This work was supported by 536 sponsors and individual contributors, and it could not have happened without them. At the end of 2025, The PHP Foundation consisted of 8 volunteer board members, an Executive Director…",
+      "link": "https://thephp.foundation/blog/2026/05/27/impact-and-transparency-report-2025/",
+      "pubDate": "2026-05-27T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://thephp.foundation/assets/post-images/2026/impact-report-2025/php_foundation_stats_2025.png",
       "type": "blog"
     },
     {

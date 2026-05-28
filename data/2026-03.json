@@ -324,6 +324,21 @@
       "type": "blog"
     },
     {
+      "id": "7603dca510a5",
+      "title": "Depuis quand avez-vous honte de votre code ?",
+      "description": "Il y a une scène qui se répète dans les code reviews : un développeur qui s'excuse d'avoir utilisé l'IA. Cette honte est absurde. Je vais vous dire pourquoi — tout en vous donnant une vraie raison de rester vigilant.",
+      "link": "https://f2r.github.io/fr/honte-de-votre-code.html",
+      "pubDate": "2026-03-31T00:00:00.000Z",
+      "source": "F2R (Frédéric Bouchery)",
+      "sourceUrl": "https://f2r.github.io/feed/fr.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d70f8f791680",
       "title": "cmux, lazygit et yazi",
       "description": "Mon setup terminal pour coder avec des agents IA : cmux, Yazi et Lazygit.",
@@ -3360,6 +3375,21 @@
         "IA"
       ],
       "image": "https://michaelbensoussan.com/images/posts/ia-junior-vieux-con.png",
+      "type": "blog"
+    },
+    {
+      "id": "419270bf3a5b",
+      "title": "LLM : De la probabilité à l'orchestration",
+      "description": "Ce que vous croyez savoir sur l'IA, c'est la moitié du tableau. La vraie révolution n'est pas dans les modèles, c'est dans la façon dont on les orchestre. Du token au multi-agent, comment on est passé en deux ans de la prédiction de mots à l'architecture de systèmes distribués.",
+      "link": "https://f2r.github.io/fr/llm-probabilite-orchestration.html",
+      "pubDate": "2026-03-04T00:00:00.000Z",
+      "source": "F2R (Frédéric Bouchery)",
+      "sourceUrl": "https://f2r.github.io/feed/fr.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
