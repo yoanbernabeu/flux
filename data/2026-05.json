@@ -2,6 +2,150 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "36e333311ba7",
+      "title": "#337.exe - Gestion de la performance: Quand la perf devient l'affaire de toute l'équipe par Loïc Mathieu",
+      "description": "Pour l'épisode #337 je recevais Adrien Cacciaguerra. On en débrief avec Loïc. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-337-fbcb1b37a123",
+      "pubDate": "2026-05-29T03:00:31.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/4ba68f80-cf6d-4750-9953-fbcb1b37a123.mp3?_=1779973111",
+      "duration": "09:54"
+    },
+    {
+      "id": "e2e583e6e140",
+      "title": "Des datacenters dans l'espace ? Non, toujours pas",
+      "description": "Question lancinante (avec l’introduction en bourse dans quelques jours de SpaceX) s’il en est, avec un nouveau papier : Will We Really Put Data Centers in Space? (va-t-on mettre des datacenters dans l’espace ?). Ledit papier dit en gros oui, on pourrat mettre à court terme (2030) des datacenters dans l’espace. Mais le nombre de conditions assorties est tout simplement vertigineux. En voici quelques unes : Si SpaceX arrive à faire des lanceurs Starship qui fonctionnent comme promis. (Notons que…",
+      "link": "https://standblog.org/blog/post/2026/05/28/Des-datacenters-dans-l-espace-toujours-pas",
+      "pubDate": "2026-05-28T15:00:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "49a78ac23c57",
+      "title": "Par quel langage débuter ?",
+      "description": "🔗 Article : https://grafikart.fr/blog/langage-debuter La première étape quand on veut débuter dans le développement est de choisir son premier langage de programmation et ce n'est pas un choix facile.... ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=-NTOGTyznYw",
+      "pubDate": "2026-05-28T13:00:04.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/-NTOGTyznYw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "-NTOGTyznYw"
+    },
+    {
+      "id": "7cff8472d74d",
+      "title": "L’auto-configuration Spring Boot expliquée : La Magie Derrière @SpringBootApplication",
+      "description": "Tu ajoutes @SpringBootApplication, tu lances ton projet… et tout fonctionne. Connexion à la base de données ✔Serveur web ✔Injection de",
+      "link": "https://blog.zenika.com/2026/05/28/lauto-configuration-spring-boot-expliquee-la-magie-derriere-springbootapplication/",
+      "pubDate": "2026-05-28T11:24:36.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/cdn-images-1.medium.com/max/1200/1%2Agxd5_QFMG1tYsr4sYibCyA.png?w=800&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "015e6aaaeda7",
+      "title": "Le DDD à l'épreuve de l'expérience utilisateur",
+      "description": "Dans les modernisations les plus ambitieuses, le découpage en sous-domaines peut légitimement être interrogé au regard de l’intégrité des informations présentées à l’utilisateur.",
+      "link": "https://blog.octo.com/le-ddd-a-l'epreuve-de-l'experience-utilisateur",
+      "pubDate": "2026-05-28T11:07:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6c386002903d",
+      "title": "Comprendre les failles IDOR sans rien connaître au hacking",
+      "description": "L'ANTS (Agence National des Titres Sécurisés) a été victime d'une attaque au travers d'une faille IDOR, donnant accès à plusieurs millions d'informations personnelles des concitoyens. Et si cette faille était même accessible aux débutants ?",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Comprendre-les-failles-IDOR-sans-rien-connatre-au-hacking-e3k0ls2",
+      "pubDate": "2026-05-28T07:29:39.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/120657218/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-28%2Fa7ed0988-d0a8-04bc-2776-0e91ccd5b9fa.mp3",
+      "duration": "00:08:44"
+    },
+    {
+      "id": "ebacd74a6a02",
+      "title": "Où va le SEO en 2026 en France ? Entretien avec Aurélien Bardon, fondateur de ASEOX",
+      "description": "Aurélien Bardon, expert en SEO, partage ses réflexions sur l'évolution du GEO en France. Bien qu'il n'y ait pas d'expert reconnu dans ce domaine émergent, il souligne l'importance d'une approche honnête et proactive face aux technologies LLM. Bardon préconise de se concentrer sur la notoriété et les bonnes pratiques SEO tout en restant vigilant sur les évolutions futures. L’article Où va le SEO en 2026 en France ? Entretien avec Aurélien Bardon, fondateur de ASEOX est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/05/28/ou-va-le-seo-en-2026-en-france-entretien-avec-aurelien-bardon-fondateur-de-aseox/",
+      "pubDate": "2026-05-28T06:50:03.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "624eb8c6db4d",
+      "title": "C'est quoi une Hacker residency ?",
+      "description": "Entre hackerspaces et résidences d'artistes, découvrez le concept des \"Hackers in residence\".",
+      "link": "https://eventuallycoding.com/p/c-est-quoi-une-hacker-residency",
+      "pubDate": "2026-05-28T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1779954519848-eyyuv1q.png",
+      "type": "blog"
+    },
+    {
+      "id": "93b799586a1e",
+      "title": "Linux Mint sur un assemblage RAID 0",
+      "description": "Linux Mint sur un assemblage RAID 0 {align=right} Depuis quelque temps, j'ai adopté [Linux Mint Debian Edition][1] sur tous mes postes de travail. Dans l'ensemble, je suis très content de cette distribution, qui offre une base saine pour toutes mes configurations de postes clients.",
+      "link": "https://www.microlinux.fr/blog/lmde-raid/",
+      "pubDate": "2026-05-28T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/raid.png",
+      "type": "blog"
+    },
+    {
       "id": "571ef160ce45",
       "title": "Event UX Reboot - L'IA redessine l'expérience. Êtes-vous prêts ?",
       "description": "La question qui nous intéresse tous (et qui a ouvert l'event) : est-ce que l’IA a sonné le glas du design ? Spoiler : pas encore, mais les designers et product managers vont devoir revoir leurs positionnements.",

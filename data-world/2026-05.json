@@ -2,6 +2,169 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "9602d7eff45f",
+      "title": "datasette 1.0a31",
+      "description": "Release: datasette 1.0a31 Another significant alpha release, with two new headline features. Datasette now offers users with the necessary permissions the ability to both execute write queries against their database and to save stored queries (renamed from \"canned queries\") both privately and for use by other members of their Datasette instance. There's more detail in SQL write queries and stored queries in Datasette 1.0a31 on the Datasette blog, which now has three posts introducing new…",
+      "link": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
+      "pubDate": "2026-05-29T03:32:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bc61ba7697f8",
+      "title": "Anthropic's run-rate revenue hits $47 billion",
+      "description": "The most interesting thing about Anthropic's $65B Series H announcement is this line (emphasis mine): Since our Series G in February, adoption has continued to grow across global enterprise customers, and our run-rate revenue crossed $47 billion earlier this month. Anthropic have made a bit of a habit of sharing their \"run-rate revenue\" in this kind of announcement, which is an annualized projection of their current revenue - typically calculated by taking the most recent month and multiplying…",
+      "link": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
+      "pubDate": "2026-05-29T01:23:08.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "99ce3b2883d2",
+      "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
+      "description": "Anthropic shipped Claude Opus 4.8 today. My favourite thing about it is this note in the release announcement: Users will find Opus 4.8 to be a modest but tangible improvement on its predecessor. There’s still more to be done: we’re working on developing and releasing models that provide many of the same capabilities as Opus at a lower cost. It's so refreshing to see an AI lab honestly describe a release as a minor incremental improvement over the previous model! Honesty seems to be a theme.…",
+      "link": "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
+      "pubDate": "2026-05-28T23:59:50.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "93da75549338",
+      "title": "llm-anthropic 0.25.1",
+      "description": "Release: llm-anthropic 0.25.1 New model: Claude Opus 4.8 (claude-opus-4.8). New -o fast 1 option for fast mode, for organizations with that feature enabled on their account. Default max_tokens for each model now defaults to that model's maximum output rather than 8,192. #72 See also my notes on Opus 4.8 - I used this new release of llm-anthropic to generate the pelicans.",
+      "link": "https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything",
+      "pubDate": "2026-05-28T23:54:56.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "353859c23936",
+      "title": "RAG vs. Graph RAG vs. Agentic RAG",
+      "description": "...explained visually!",
+      "link": "https://blog.dailydoseofds.com/p/rag-vs-graph-rag-vs-agentic-rag",
+      "pubDate": "2026-05-28T22:35:03.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!MEiE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57a270fe-2ed0-4d58-9985-2c0bcf505f35_960x677.gif",
+      "type": "blog"
+    },
+    {
+      "id": "aebfeadeae41",
+      "title": "Malicious NuGet Package Impersonates Sicoob SDK to Exfiltrate Banking Certificates and Passwords",
+      "description": "Sicoob.Sdk releases 2.0.0 through 2.0.4 exfiltrate client IDs, PFX passwords, and base64-encoded PFX certificate archive contents through a third-party Sentry endpoint. The linked GitHub repository appears to be a clean-source façade for the malicious NuGet artifact. We analyzed a Sicoob-branded NuGet package, Sicoob.Sdk, that claimed to be an official C# SDK for Sicoob API integrations. Sicoob, formally the Sistema de Cooperativas de Crédito do Brasil, is one of Brazil’s largest cooperative…",
+      "link": "https://socket.dev/blog/malicious-nuget-package-impersonates-sicoob-sdk?utm_medium=feed",
+      "pubDate": "2026-05-28T16:25:08.053Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/f1157f7992366c641d38b133ef202564154d1b2e-1236x1296.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "fb778d88d4cc",
+      "title": "SymfonyOnline June 2026: Giving voice to your agents, the Symfony AI way",
+      "description": "Save the date! SymfonyOnline June 2026 will take place online on June 11-12, 2026, with 15 expert speakers streaming directly to you. 🎤 Speaker announcement! Guillaume Loulier, Technical Expert, SensioLabs, will be taking the virtual stage to present…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-giving-voice-to-your-agents-the-symfony-ai-way?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-28T16:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "30a70033f651",
+      "title": "New in Symfony 8.1: Dependency Injection Improvements",
+      "description": "The DependencyInjection component keeps evolving in Symfony 8.1 with several quality-of-life improvements for autowiring, service decoration, tagged services, and env vars. Autowiring Env Vars as Closures or Stringables…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-dependency-injection-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-28T13:25:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "093b05315958",
+      "title": "Claude Talk Small. Code Still Big.",
+      "description": "A fun look at making coding assistants talk less, and what that actually saves in practice. The main takeaway is that shorter replies help, but most token cost still comes from the actual work: reading, reasoning, coding, and checking. Read more",
+      "link": "https://freek.dev/3121-claude-talk-small-code-still-big",
+      "pubDate": "2026-05-28T12:30:05.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "42ad5ec1202f",
+      "title": "Your AI Agent Already Forgot Half of What You Told It",
+      "description": "This is the seventh article in a series on agentic engineering and AI-driven development. Read part one here, part two here, part three here, part four here, part five here, and part six here. This is the latest article in my Radar series on AI-driven development and agentic engineering, and I have to admit that this one took a bit of […]",
+      "link": "https://www.oreilly.com/radar/your-ai-agent-already-forgot-half-of-what-you-told-it/",
+      "pubDate": "2026-05-28T10:59:36.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "db28387eef02",
+      "title": "The PHP Foundation’s Elizabeth Barron to keynote JetBrains PHPverse 2026",
+      "description": "PHP has undergone a remarkable transformation in recent years, and The PHP Foundation has played a major role in contributing to the development and maintenance of the language. The upcoming JetBrains PHPverse conference is a great opportunity to reflect on what has been done to reinforce PHP's position as a robust, modern language for web development. Elizabeth Barron, The PHP Foundation’s Executive Director, is joining the lineup of JetBrains PHPverse 2026 speakers with a keynote talk…",
+      "link": "https://thephp.foundation/blog/2026/05/28/phpverse-keynote/",
+      "pubDate": "2026-05-28T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "79b4bf459443",
       "title": "sqlite AGENTS.md",
       "description": "sqlite AGENTS.md SQLite gained an AGENTS.md file five days ago - but it's not intended for their own development, it's presumably aimed at people who are pointing agents at the SQLite codebase. It includes: SQLite does not accept pull requests without prior agreement and/or accompanying legal paperwork that places the pull request in the public domain. However, the human SQLite developers will review a concise and well-written pull request as a proof-of-concept prior to reimplementing the…",
