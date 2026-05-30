@@ -2,6 +2,35 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "006fee57c6f8",
+      "title": "AI Now Summit 2026 : le Chat Mistral va-t-il devenir un tigre ?",
+      "description": "Le 29 mai 2026, Mistral a dévoilé lors de sa première présentation en France de nouvelles offres en intelligence artificielle, visant les grandes entreprises. Bien qu'encore petit face aux géants, Mistral propose des outils similaires à ceux de ses concurrents américains, tout en veillant à la protection des données européennes. L’article AI Now Summit 2026 : le Chat Mistral va-t-il devenir un tigre ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/29/ai-now-summit-2026-le-chat-mistral-va-t-il-devenir-un-tigre/",
+      "pubDate": "2026-05-29T09:00:57.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0af6f282156d",
+      "title": "Fabriquer de vraies slides canons avec l'IA générative (Midjourney) - Gen AI Nantes #18",
+      "description": "Dans cette conférence, Simon donne des bases de design et des techniques avancées sur Midjourney pour créer rapidement des slides uniques qui vous démarqueront à coup sûr ! Intervenant : Simon Timssale https://www.linkedin.com/in/simon-timssale-bourrioux-746a1aa5/ Pour vous inscrire aux prochaines sessions du meetup Gen AI Nantes, c'est par ici : https://www.meetup.com/fr-FR/generative-ai-nantes/?eventOrigin=event_home_page",
+      "link": "https://www.youtube.com/watch?v=78pa2ZaSgs4",
+      "pubDate": "2026-05-29T08:28:39.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/78pa2ZaSgs4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "78pa2ZaSgs4"
+    },
+    {
       "id": "36e333311ba7",
       "title": "#337.exe - Gestion de la performance: Quand la perf devient l'affaire de toute l'équipe par Loïc Mathieu",
       "description": "Pour l'épisode #337 je recevais Adrien Cacciaguerra. On en débrief avec Loïc. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
@@ -18,6 +47,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/4ba68f80-cf6d-4750-9953-fbcb1b37a123.mp3?_=1779973111",
       "duration": "09:54"
+    },
+    {
+      "id": "519690cd10d7",
+      "title": "La veille de Wittouck - Fin mai 2026",
+      "description": "Entre deux matchs de Roland Garros, et pour prendre un peu l’air, pourquoi ne pas en profiter pour lire quelques articles intéressants (enfin, que J’AI trouvés intéressants 😅). Ce mois-ci dans “La Veille de Wittouck”, plusieurs sujets autours de l’AT Protocol (je m’y intéresse depuis quelques semaines), mais aussi autour de mise, mon outil de dev préf du moment, et autour du drama en cours sur GitHub. Et en toile de fond, toujours aussi quelques articles autour de la souveraineté numérique.",
+      "link": "https://codeka.io/2026/05/29/la-veille-de-wittouck-fin-mai-2026/",
+      "pubDate": "2026-05-29T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/05/29/la-veille-de-wittouck-fin-mai-2026/cover_hu_70ad207e097a0706.webp",
+      "type": "blog"
     },
     {
       "id": "e2e583e6e140",
