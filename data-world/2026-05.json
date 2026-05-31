@@ -2,6 +2,156 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "4c20c3182979",
+      "title": "Quoting Karen Kwok for Reuters Breakingviews",
+      "description": "Anthropic defines “run-rate revenue” in two parts. Use the last 28 days of sales ⁠from customers charged on a consumption basis and multiply it by 13. Then, multiply the monthly subscription take by 12, ​and add the two together. &mdash; Karen Kwok for Reuters Breakingviews, citing \"a person familiar with the matter\" Tags: anthropic, ai",
+      "link": "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything",
+      "pubDate": "2026-05-31T01:48:12.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2c1945d7d669",
+      "title": "How we contain Claude across products",
+      "description": "How we contain Claude across products A complaint I often have about sandboxing products is that they are rarely thoroughly documented, and in the absence of detailed documentation it's hard to know how much I can trust them. Anthropic just published a fantastic overview of how their various sandbox techniques work across Claude.ai, Claude Code, and Cowork. We constrain where and how an agent can act with process sandboxes, VMs, filesystem boundaries, and egress controls. The goal is to set a…",
+      "link": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+      "pubDate": "2026-05-30T21:36:24.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f8e05ea7b867",
+      "title": "The PHP Podcast 2026.05.28",
+      "description": "🎙️ PHP Podcast – May 28, 2026 Hosts: Eric Van Johnson & John Congdon Links from the show: PHP barely avoided disaster – YouTube CVE-2026-45793: Anatomy of a 14-Hour PHP Supply-Chain Near-Miss · graycoreio/github-actions-magento2 · Discussion #261 · GitHub An Update on Composer & Packagist Supply Chain Security PHP Tek: A Homecoming by Ben Ramsey […] The post The PHP Podcast 2026.05.28 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-05-28/",
+      "pubDate": "2026-05-30T21:13:30.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/05/The-PHP-Podcast-2026.05.28.png",
+      "type": "blog"
+    },
+    {
+      "id": "f683add49e6a",
+      "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+      "description": "Research: Running Python ASGI apps in the browser via Pyodide + a service worker Datasette Lite is my version of Datasette that runs entirely in the browser using Pyodide in WebAssembly. When I first built it four years ago I used Web Workers and code that intercepts navigation operations and fetches the generated HTML by running the Python app. This worked, but had the disadvantage that any JavaScript in &lt;script&gt; tags would not be executed - breaking some Datasette functionality and a…",
+      "link": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
+      "pubDate": "2026-05-30T21:02:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ce6dcefb71a",
+      "title": "I Am Retiring from Tech to Live Offline",
+      "description": "I Am Retiring from Tech to Live Offline I've seen a lot of posts on forums from people threatening to quit their careers over AI. This is not one of those: Chad Whitacre is taking concrete steps, starting with this typewritten, scanned letter I'm retiring from tech. Well, \"retiring\" is euphemistic. I'm stepping away from tech, and that includes Open Source. [...] AI was the last straw. Have you heard of that island off India where the indigenous population kills any outsiders fool-hardy enough…",
+      "link": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
+      "pubDate": "2026-05-30T19:39:08.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "318ed2bf924a",
+      "title": "Quoting Daniel Jalkut",
+      "description": "My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it. &mdash; Daniel Jalkut, via John Gruber Tags: ai, john-gruber",
+      "link": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
+      "pubDate": "2026-05-30T17:29:55.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "71598c55771d",
+      "title": "Twig 3.27.1 released",
+      "description": "Twig 3.27.1 is a patch release that fixes two regressions introduced by the sandbox hardening shipped in 3.27.0. Both involve how the sandbox inspects values that can be coerced to a string, and both are transparent once you upgrade. Typed iterable arguments…",
+      "link": "https://symfony.com/blog/twig-3-27-1-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-30T17:13:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33c703949995",
+      "title": "SymfonyOnline June 2026: Building MCP Servers with the Official PHP SDK",
+      "description": "SymfonyOnline June 2026 is just around the corner on June 11-12, 2026. Get ready for high-quality pre-recorded talks followed by live Q&As! 🎤 Speaker announcement! JoWe are happy to host Tobias Nyholm, Eneba, presenting \"Building MCP Servers…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-building-mcp-servers-with-the-official-php-sdk?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-30T08:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "4f29aa967ba5",
+      "title": "Compound Engineering: How Every Codes With Agents",
+      "description": "Every shares how its team uses AI agents in a compounding loop of planning, working, assessing, and feeding lessons back into the system. The big idea: each feature should make the next one easier to build because the agents keep learning the codebase. Read more",
+      "link": "https://freek.dev/3123-compound-engineering-how-every-codes-with-agents",
+      "pubDate": "2026-05-30T08:15:04.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1333e8f71a68",
+      "title": "The stack behind There There",
+      "description": "An inside look at the stack powering There There: Laravel, Inertia, React, TypeScript, Horizon, Reverb, and a bunch of Spatie packages and services. A nice overview of the pragmatic tooling choices behind the product. Read more",
+      "link": "https://freek.dev/3133-the-stack-behind-there-there",
+      "pubDate": "2026-05-30T08:13:56.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a83aa36d4b46",
       "title": "Why Agent Crashes Are Nothing Like Database Crashes",
       "description": "...and a solution to actually handle them.",

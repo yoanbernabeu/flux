@@ -2,6 +2,22 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "bb4a6924d5b8",
+      "title": "zeropod v0.12.0 : un an après, le scale-to-zero tient-il ses promesses ?",
+      "description": "Qu’est-ce que zeropod ? Il y a un peu moins d’un an, j’avais publié un premier article sur un projet open source qui s’apelle zeropod. Zeropod is a Kubernetes runtime (more specifically a containerd shim) that automatically checkpoints containers to disk after a certain amount of time of the last TCP connection. While in scaled down state, it will listen on the same port the application inside the container was listening on and will restore the container on the first incoming connection. À…",
+      "link": "https://blog.zwindler.fr/2026/05/30/zeropod-v12-scale-to-zero-checkpointing-retour/",
+      "pubDate": "2026-05-30T10:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/05/zeropod.webp",
+      "type": "blog"
+    },
+    {
       "id": "006fee57c6f8",
       "title": "AI Now Summit 2026 : le Chat Mistral va-t-il devenir un tigre ?",
       "description": "Le 29 mai 2026, Mistral a dévoilé lors de sa première présentation en France de nouvelles offres en intelligence artificielle, visant les grandes entreprises. Bien qu'encore petit face aux géants, Mistral propose des outils similaires à ceux de ses concurrents américains, tout en veillant à la protection des données européennes. L’article AI Now Summit 2026 : le Chat Mistral va-t-il devenir un tigre ? est apparu en premier sur OlivierSauvage.com.",
@@ -62,6 +78,21 @@
         "Cloud"
       ],
       "image": "https://codeka.io/2026/05/29/la-veille-de-wittouck-fin-mai-2026/cover_hu_70ad207e097a0706.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2c576ab01bdb",
+      "title": "Charlequint",
+      "description": "Gale (en ce moment il est sur Hunger Games) perd un point à son devoir d’Histoire-Géo parce qu’il a oublié les majuscules. Ce n’est pas comme si c’était une surprise, on lui répète depuis des années. Mais sa mère, qui a révisé la leçon avec lui, découvre qu’il a aussi oublié… comment écrire Charles Quint ! Trois fois rien, juste la personne sur qui porte l’ensemble du devoir ! Il a écrit “charlequint”. Elle s’agace : – Non mais sérieusement, la leçon est sur lui. Normalement tu l’as vu assez de…",
+      "link": "https://boris.schapira.dev/notes/2026-05-charlequint/",
+      "pubDate": "2026-05-28T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -305,6 +336,21 @@
       "type": "blog"
     },
     {
+      "id": "44b9b0de74b7",
+      "title": "Le deuxième appel",
+      "description": "J’étais en réunion quand Rocky m’appelle. Je ne décroche pas. Normalement, les appels sont réservés aux urgences mais il a tendance à m’appeler pour dire qu’il fait beau. J’attends le second appel. Je poursuis ma réunion. Nouvel appel : ma Princess de femme. Panique. Il a dû arriver quelque chose à Rocky. Je n’ai pas le temps de décrocher, l’appel s’arrête. Je ne sais plus quoi penser, d’autant que je suis en conversation par ailleurs avec une cliente, sur un cas d’usage très pertinent de notre…",
+      "link": "https://boris.schapira.dev/notes/2026-05-le-deuxieme-appel/",
+      "pubDate": "2026-05-26T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0aa49dbd5dbc",
       "title": "Où va Google ? Interview intégrale de Sundar Pichai, CEO de Google – Mai 2026",
       "description": "Cet article présente une interview de Sundar Pichai, CEO de Google, qui aborde l'impact croissant de l'IA dans les entreprises et son évolution. Pichai souligne les préoccupations autour de l'acceptation de l'IA, la nécessité d'une réglementation, et l'accélération du codage assisté par IA. Les défis et les opportunités liés à cette transformation technologique sont discutés. L’article Où va Google ? Interview intégrale de Sundar Pichai, CEO de Google – Mai 2026 est apparu en premier sur…",
@@ -414,6 +460,21 @@
         "Cloud",
         "IA",
         "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "14e5b199a3ed",
+      "title": "La mémoire, par un autre chemin",
+      "description": "Aujourd’hui, c’était l’oral du brevet de Rocky. Le brevet, ou Diplôme National du Brevet, c’est un examen qui a lieu à la fin de la troisième. Il est composé d’épreuves écrites et d’une épreuve orale, elle-même en deux parties : 5 minutes de présentation et 10 minutes de questions. Le sujet ? Un projet interdisciplinaire que l’élève a mené au cours de l’année, s’inscrivant dans un parcours éducatif : citoyen, santé, artistique, etc. L’élève doit expliquer son travail, montrer ce qu’il a appris,…",
+      "link": "https://boris.schapira.dev/notes/2026-05-oral-du-brevet/",
+      "pubDate": "2026-05-25T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -2348,6 +2409,21 @@
         "Programmation",
         "DevOps",
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7cb0e35cfc99",
+      "title": "Bah",
+      "description": "– … parce que le 26 mai, j’ai mon oral. Bah, vas-y, vérifie. C’est pas comme si on s’y préparait depuis trois mois… rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-05-bah/",
+      "pubDate": "2026-05-07T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
