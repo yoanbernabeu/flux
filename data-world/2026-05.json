@@ -2,6 +2,110 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "8de886409e6d",
+      "title": "datasette 1.0a32",
+      "description": "Release: datasette 1.0a32 A minor bugfix release. Fixes a bug with INSERT ... RETURNING queries via the new /db/-/execute-write endpoint and a bunch of base_url issues which showed up when I was experimenting with Service Workers yesterday. Tags: datasette, annotated-release-notes",
+      "link": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
+      "pubDate": "2026-05-31T23:23:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d988166525cf",
+      "title": "Introduction to Deep RL and DQN",
+      "description": "The full RL nanodegree, covered with implementation.",
+      "link": "https://blog.dailydoseofds.com/p/introduction-to-deep-rl-and-dqn",
+      "pubDate": "2026-05-31T20:38:53.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!effw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8f199c9-f5d1-48be-a395-a114a24fceae_1456x816.png",
+      "type": "blog"
+    },
+    {
+      "id": "723eccd7ff87",
+      "title": "Famous Chollima Targets PHP Developers Through Compromised Packagist Package",
+      "description": "We identified malicious obfuscated JavaScript appended to tailwind.js in the Packagist development version dev-drewroberts/feature/test-case of the PHP package roberts/leads. The package itself is a legitimate Laravel package associated with a maintainer, Drew Roberts. The malicious code appears isolated to a specific development branch, drewroberts/feature/test-case, exposed through Packagist as an installable dev version. Socket AI Scanner flagged dev-drewroberts/feature/test-case as known…",
+      "link": "https://socket.dev/blog/famous-chollima-targets-php-developers-through-compromised-packagist-package?utm_medium=feed",
+      "pubDate": "2026-05-31T18:41:00.591Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/123c88ecae299e119909029164267cc49dc03888-1248x1166.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "60b11007e147",
+      "title": "The solution might be cancelling my AI subscription",
+      "description": "The solution might be cancelling my AI subscription I find this post by David Wilson very relatable. David lists 16+ projects he's spun up with AI tooling, and concludes: I didn't mean to build most of these things. Usually the Claude session started with something like \"write a quick script for X\", and one hour later the result is not a quick script for X, nor in the usual case is my problem solved, whatever the original itch happened to be. On that last point, this technology is horrific for…",
+      "link": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
+      "pubDate": "2026-05-31T16:31:32.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3b00f49db667",
+      "title": "Validating distinct data in requests",
+      "description": "Michael Dyrynda shows how Laravel's distinct validation rule can protect nested request payloads from duplicate reference values before they corrupt relationship mapping. He also highlights the strict and ignore_case options for cases where loose comparison is not enough. Read more",
+      "link": "https://freek.dev/3124-validating-distinct-data-in-requests",
+      "pubDate": "2026-05-31T12:30:37.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f1b8d784004d",
+      "title": "A Week of Symfony #1013 (May 25–31, 2026)",
+      "description": "This week, Symfony 8.1 was released. In addition, we published dozens of security advisories and released the security updates Symfony 5.4.53, 6.4.41, 7.4.13, 8.0.13, Twig 3.27, Symfony UX 2.36 and 3.1, and Polyfill 1.38.1. We also published more information…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1013-may-25-31-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-31T07:10:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ef107008683c",
+      "title": "Rust Moves to Restrict LLM Use in Contributions After Months of Internal Debate",
+      "description": "Rust has topped Stack Overflow's most-admired language survey for nine consecutive years. It's also become an increasingly attractive target for LLM-assisted development. The borrow checker and strict compiler that make Rust appealing for safety-critical systems also give LLMs an immediate feedback loop that other languages don't. The compiler catches errors the LLM introduces, which makes AI-assisted Rust development more reliable than in permissive languages where bad output can silently…",
+      "link": "https://socket.dev/blog/rust-moves-to-restrict-llm-use-in-contributions?utm_medium=feed",
+      "pubDate": "2026-05-31T02:05:02.884Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/7391bd1d368514fabfa7396acfd769389f3bb761-1768x1080.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
       "id": "4c20c3182979",
       "title": "Quoting Karen Kwok for Reuters Breakingviews",
       "description": "Anthropic defines “run-rate revenue” in two parts. Use the last 28 days of sales ⁠from customers charged on a consumption basis and multiply it by 13. Then, multiply the monthly subscription take by 12, ​and add the two together. &mdash; Karen Kwok for Reuters Breakingviews, citing \"a person familiar with the matter\" Tags: anthropic, ai",
@@ -1227,6 +1331,21 @@
       "sourceUrl": "https://socket.dev/api/blog/feed.atom",
       "categories": [
         "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6a18692bdd46",
+      "title": "pydantic-monty investigation",
+      "description": "Research: pydantic-monty investigation It's been a few months since I last poked at Monty, the sandboxed subset of Python implemented in Rust. I had Claude Code look at the most recent release. Importantly the max_duration_secs, max_memory, max_allocations, and max_recursion_depth settings all appear to work as advertised. Tags: python, sandboxing, pydantic",
+      "link": "https://simonwillison.net/2026/May/22/monty-investigation/#atom-everything",
+      "pubDate": "2026-05-22T22:41:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
         "Programmation"
       ],
       "image": null,

@@ -2,6 +2,39 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "ca6c4605c38c",
+      "title": "En vrac de Mai 2026",
+      "description": "En Vrac Je découvre avec plaisir la notion de Hopepunk, “un sous-genre des littératures de l’imaginaire, qui est conçu comme l’opposé des dystopies des sous-genres grimdarket cyberpunk. Les œuvres de ce sous-genre traitent de personnages qui luttent pour un changement positif, en coopérant avec une solidarité et une bienveillance radicales pour apporter des solutions communautaires aux problèmes.” Ma nouvelle Vélorutopia pourrait-elle être qualifiée de Hopepunk ? Pourquoi pas ! Les médias…",
+      "link": "https://standblog.org/blog/post/2026/05/31/En-vrac-de-Mai-2026",
+      "pubDate": "2026-05-31T18:22:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a3875a76eb8e",
+      "title": "Tu n'as plus besoin de PowerPoint ni de Premiere Pro",
+      "description": "Et si tu n'avais plus jamais besoin de PowerPoint ni de Premiere Pro ? 🚀 Dans cette vidéo, je crée une présentation avec Slidev ET un teaser vidéo avec HyperFrames — 100 % en Markdown / code, sur les nouveautés de Symfony 8.1. ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🎯 CE QUE TU VAS APPRENDRE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✅ Compiler des sources techniques dans un seul fichier Markdown propre ✅ Slidev : créer des slides de dev animées (code, transitions, thèmes) en Markdown ✅ HyperFrames : générer…",
+      "link": "https://www.youtube.com/watch?v=S9xkL1C9NEM",
+      "pubDate": "2026-05-31T16:00:22.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/S9xkL1C9NEM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "S9xkL1C9NEM"
+    },
+    {
       "id": "bb4a6924d5b8",
       "title": "zeropod v0.12.0 : un an après, le scale-to-zero tient-il ses promesses ?",
       "description": "Qu’est-ce que zeropod ? Il y a un peu moins d’un an, j’avais publié un premier article sur un projet open source qui s’apelle zeropod. Zeropod is a Kubernetes runtime (more specifically a containerd shim) that automatically checkpoints containers to disk after a certain amount of time of the last TCP connection. While in scaled down state, it will listen on the same port the application inside the container was listening on and will restore the container on the first incoming connection. À…",
