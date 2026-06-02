@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "def9876f7ff7",
+      "title": "Profilez vos tests PHPUnit avec OpenTelemetry",
+      "description": "Un projet de développement informatique qui grossit, c’est une base de code qui grossit par la même occasion et la batterie de tests qui évolue en conséquence. On ajoute des tests semaine après semaine, les temps d’exécution s’allongent. Et puis, à un moment, la CI s’arrête net: Allowed memory size exhausted. Le premier réflexe est alors d’augmenter la mémoire allouée à PHP. Et ce cycle peut continuer un certain temps, jusqu’au moment où l’on atteint des seuils critiques. Je l’ai rencontré dans…",
+      "link": "https://www.jdecool.fr/blog/2026/06/01/profilez-vos-tests-phpunit-avec-opentelemetry.html",
+      "pubDate": "2026-05-31T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/blog/20260601-profilez-vos-tests-phpunit-avec-opentelemetry/phpunit-otel-overview.png",
+      "type": "blog"
+    },
+    {
       "id": "ca6c4605c38c",
       "title": "En vrac de Mai 2026",
       "description": "En Vrac Je découvre avec plaisir la notion de Hopepunk, “un sous-genre des littératures de l’imaginaire, qui est conçu comme l’opposé des dystopies des sous-genres grimdarket cyberpunk. Les œuvres de ce sous-genre traitent de personnages qui luttent pour un changement positif, en coopérant avec une solidarité et une bienveillance radicales pour apporter des solutions communautaires aux problèmes.” Ma nouvelle Vélorutopia pourrait-elle être qualifiée de Hopepunk ? Pourquoi pas ! Les médias…",
@@ -80,6 +95,134 @@
       "videoId": "78pa2ZaSgs4"
     },
     {
+      "id": "9b0efa56afed",
+      "title": "Cloud-native",
+      "description": "Le terme cloud-native désigne une approche de conception et d’exploitation des applications pensée dès l’origine pour tirer pleinement parti des capacités du cloud : élasticité, résilience, automatisation et déploiement continu. Une application cloud-native n’est pas simplement une application hébergée dans le cloud ; elle est architecturée pour exploiter ses propriétés. Cette approche repose sur un socle de pratiques et de technologies désormais bien établies : la conteneurisation pour…",
+      "link": "https://blog.cockpitio.com/glossary/cloud-native/",
+      "pubDate": "2026-05-29T06:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "46ac6307e239",
+      "title": "FinOps",
+      "description": "Le FinOps (contraction de Finance et DevOps) est une discipline de gestion financière du cloud qui vise à aligner les dépenses d’infrastructure avec la valeur métier qu’elles génèrent. Plutôt que de subir la facture cloud en fin de mois, le FinOps installe une responsabilité partagée entre les équipes techniques, financières et métier sur l’usage et le coût des ressources. Concrètement, le FinOps repose sur un cycle continu : donner de la visibilité sur les coûts en temps réel, optimiser…",
+      "link": "https://blog.cockpitio.com/glossary/finops/",
+      "pubDate": "2026-05-29T06:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b83d2b434837",
+      "title": "Métriques DORA",
+      "description": "Les métriques DORA (DevOps Research and Assessment) sont les indicateurs de référence pour mesurer la performance de livraison logicielle d’une organisation. Issues d’années de recherche, elles permettent de comparer objectivement la capacité d’une équipe à livrer vite et de façon fiable. Quatre métriques historiques structurent le cadre. La fréquence de déploiement mesure à quelle cadence l’organisation met du code en production. Le lead time for changes mesure le délai entre un commit et sa…",
+      "link": "https://blog.cockpitio.com/glossary/metriques-dora/",
+      "pubDate": "2026-05-29T06:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2480a248d94f",
+      "title": "MLOps",
+      "description": "Le MLOps (Machine Learning Operations) désigne l’ensemble des pratiques qui appliquent les principes du DevOps au cycle de vie des modèles de machine learning. L’objectif est de fiabiliser et d’industrialiser le passage d’un modèle de l’expérimentation à la production, puis son maintien dans le temps. Là où le DevOps gère le cycle de vie du code, le MLOps ajoute deux dimensions propres au machine learning : les données et les modèles. Un pipeline MLOps couvre ainsi la préparation et le…",
+      "link": "https://blog.cockpitio.com/glossary/mlops/",
+      "pubDate": "2026-05-29T06:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7289f177c37c",
+      "title": "Observabilité",
+      "description": "L’observabilité désigne la capacité à comprendre l’état interne d’un système uniquement à partir des signaux qu’il émet, sans avoir à le modifier. Là où le monitoring traditionnel répond à des questions connues d’avance (« le CPU dépasse-t-il 80 % ? »), l’observabilité permet d’investiguer des problèmes imprévus en explorant librement les données du système. Elle repose classiquement sur trois piliers : les logs (journaux d’événements horodatés), les métriques (mesures numériques agrégées dans…",
+      "link": "https://blog.cockpitio.com/glossary/observabilite/",
+      "pubDate": "2026-05-29T06:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b7de8cae3efd",
+      "title": "Plateforme interne (Internal Developer Platform)",
+      "description": "Une plateforme interne (Internal Developer Platform, ou IDP) est un socle en libre-service qui outille les équipes de développement pour qu’elles puissent construire, déployer et exploiter leurs applications de façon autonome, sans dépendre à chaque étape d’une équipe d’opérations. Elle abstrait la complexité de l’infrastructure sous-jacente derrière des interfaces et des automatisations standardisées. Concrètement, une plateforme interne fournit des chemins balisés (golden paths) : pipelines…",
+      "link": "https://blog.cockpitio.com/glossary/plateforme-interne/",
+      "pubDate": "2026-05-29T06:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0e355a9675a0",
+      "title": "Three Ways (les trois voies du DevOps)",
+      "description": "Les Three Ways (les trois voies) sont les trois principes fondateurs du DevOps formulés par Gene Kim dans The DevOps Handbook. Plus qu’une méthode prescriptive, ils décrivent les invariants de toute transformation IT performante, indépendamment du langage, du cloud ou des outils du moment. La première voie, le flux, vise à optimiser la performance du système complet plutôt que celle de chaque silo. Elle suppose de rendre le travail en cours visible, de réduire la taille des lots livrés et de…",
+      "link": "https://blog.cockpitio.com/glossary/three-ways/",
+      "pubDate": "2026-05-29T06:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bdc5022339d7",
+      "title": "Value stream (chaîne de valeur)",
+      "description": "Une value stream (chaîne de valeur) désigne l’ensemble des activités nécessaires pour transformer une idée ou une demande client en un produit ou un service livré en production. Dans un contexte logiciel, elle couvre tout le parcours : de la formulation d’un besoin jusqu’à la mise à disposition de la fonctionnalité auprès de l’utilisateur, en passant par le développement, les tests, la revue, l’intégration et le déploiement. Raisonner par value stream, c’est arrêter de regarder la performance…",
+      "link": "https://blog.cockpitio.com/glossary/value-stream/",
+      "pubDate": "2026-05-29T06:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "36e333311ba7",
       "title": "#337.exe - Gestion de la performance: Quand la perf devient l'affaire de toute l'équipe par Loïc Mathieu",
       "description": "Pour l'épisode #337 je recevais Adrien Cacciaguerra. On en débrief avec Loïc. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
@@ -111,6 +254,22 @@
         "Cloud"
       ],
       "image": "https://codeka.io/2026/05/29/la-veille-de-wittouck-fin-mai-2026/cover_hu_70ad207e097a0706.webp",
+      "type": "blog"
+    },
+    {
+      "id": "d92c818ebf8f",
+      "title": "Stratégie IA : vos fondations DevOps et cloud-native décideront du résultat",
+      "description": "Pour la troisième fois en dix ans, les directions techniques sont invitées à adopter une rupture technologique majeure. Après le DevOps, après le cloud-native, l’intelligence artificielle générative constitue la troisième vague d’adoption depuis 2024. Et pour la troisième fois, nous constatons chez certaines organisations que le pattern d’adoption reproduit les mêmes erreurs : un outil déployé en amont des principes qui le rendent utile, des indicateurs de productivité présentés en l’absence…",
+      "link": "https://blog.cockpitio.com/devops/fondations-devops-cloud-native-strategie-ia/",
+      "pubDate": "2026-05-29T00:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

@@ -1,0 +1,72 @@
+{
+  "month": "2026-06",
+  "articles": [
+    {
+      "id": "6b4d616419e6",
+      "title": "Les 3 formations indispensables pour maîtriser Laravel & Vue.js en 2026",
+      "description": "🚀 Vous voulez maîtriser une stack moderne et professionnelle pour développer des applications web complètes ? Je vous recommande aujourd'hui trois formations complémentaires de Thibault Chazottes qui couvrent l'ensemble de l'écosystème Laravel + Vue.js : 🔥 Laravel (Backend) https://www.udemy.com/course/laravel-fr/?couponCode=LARAVELJUSTU26&referralCode=D368E83E8CAD843729B4 ⚡ Vue.js 3 (Frontend)…",
+      "link": "https://www.youtube.com/watch?v=TWjX70XJC3U",
+      "pubDate": "2026-06-01T14:24:40.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/TWjX70XJC3U/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "TWjX70XJC3U"
+    },
+    {
+      "id": "072f8eb5f192",
+      "title": "Platform Engineering : le prochain chantier stratégique des DSI à l’ère de l’IA",
+      "description": "Les DSI ont multiplié outils, automatisation et cloud pour accélérer le delivery. Mais le vrai frein n’est plus le code : ce sont les processus autour : validations, sécurité, architecture, production. Le Platform Engineering émerge pour répondre à cette tension, avec une approche produit, organisationnelle et stratégique.",
+      "link": "https://blog.octo.com/platform-engineering--le-prochain-chantier-strategique-des-dsi-a-l'ere-de-l'ia",
+      "pubDate": "2026-06-01T12:38:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bc46687bc6e2",
+      "title": "De l’expérimentation au passage à l’échelle : le grand défi de l’IA en  entreprise",
+      "description": "L’IA agit comme un multiplicateur de vitesse sur les systèmes existants. Elle n’améliore pas mécaniquement les organisations : elle accélère leurs dynamiques, qu’elles soient robustes ou désalignées. Cette accélération révèle les fragilités de l’ingénierie, du produit, du SI et de l’organisation. Le véritable enjeu n’est pas l’adoption de l’IA, mai",
+      "link": "https://blog.octo.com/de-l'experimentation-au-passage-a-l'echelle--le-grand-defi-de-l'ia-en-entreprise-1",
+      "pubDate": "2026-06-01T12:11:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cc300d8f743f",
+      "title": "La mémoire subversive de nos systèmes legacy",
+      "description": "On parle souvent de dette technique, de code illisible, de tests manquants. Ces diagnostics sont justes, mais partiels. Ce qui se dégrade en premier dans un système legacy, ce n'est pas le code. C'est la mémoire collective de ceux qui l'ont construit. Et sans elle, même un système propre reste difficile à faire évoluer.",
+      "link": "https://blog.octo.com/la-memoire-subversive-de-nos-systemes-legacy",
+      "pubDate": "2026-06-01T08:41:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}
