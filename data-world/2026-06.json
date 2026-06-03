@@ -2,11 +2,160 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "b276fa3c05b6",
+      "title": "Microsoft's new MAI models",
+      "description": "Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 1T parameters, 35B active, available to \"select early partners\") and MAI-Code-1-Flash (137B Parameters, 5B active, \"purpose-built for GitHub Copilot and VS Code to deliver high performance and lower cost [...] rolling out to GitHub Copilot individual users in Visual Studio Code\"). I've not been able to try either of them just yet. It's very interesting to see Microsoft releasing models with such low parameter…",
+      "link": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+      "pubDate": "2026-06-02T22:21:52.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a42da78c097a",
+      "title": "[Hands-on] Collapse CRM Pipelines into One Table",
+      "description": "...powered by open-source stack (28k+ stars).",
+      "link": "https://blog.dailydoseofds.com/p/hands-on-collapse-crm-pipelines-into",
+      "pubDate": "2026-06-02T21:24:37.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!4GPo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45a00af0-03e5-4446-bcfb-3eadee6b820a_1065x999.png",
+      "type": "blog"
+    },
+    {
+      "id": "1b60ad396cb5",
+      "title": "datasette-agent-micropython 0.1a0",
+      "description": "Release: datasette-agent-micropython 0.1a0 I want Datasette Agent to be able to generate and execute Python code safely. This alpha is looking promising so far. GPT-5.5 has so far failed to break out of the sandbox! Tags: python, sandboxing, datasette, webassembly, datasette-agent",
+      "link": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
+      "pubDate": "2026-06-02T19:28:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6fd60973a141",
+      "title": "micropython-wasm 0.1a1",
+      "description": "Release: micropython-wasm 0.1a1 Fixes for some limitations that emerged while I was trying to use this to build datasette-agent-micropython. Tags: python, sandboxing, webassembly",
+      "link": "https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything",
+      "pubDate": "2026-06-02T19:20:47.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "89f1c038daf8",
+      "title": "California Brown Pelican",
+      "description": "California Brown Pelican, in Fort Mason, CA, USI'm at the Microsoft Build conference today, held at Fort Mason in San Francisco. There are California Brown Pelicans diving into the water directly behind venue! Tags: microsoft, ai, generative-ai, llms, llm-release",
+      "link": "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything",
+      "pubDate": "2026-06-02T18:17:03.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3b99778c0420",
+      "title": "SymfonyOnline June 2026: Discover the Workshops!",
+      "description": "Before the main conference kicks off, SymfonyOnline June 2026 offers 2 full days of hands-on workshops to help you sharpen your skills and dive deeper into the Symfony ecosystem. 📅 June 09–10, 2026 🌐 From wherever you want Workshop details 💻 Symfony…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-discover-the-workshops?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-02T14:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "b85bf6d73a8f",
+      "title": "New in Symfony 8.1: RateLimiter Improvements",
+      "description": "Rate Limiting Controllers with the #[RateLimit] Attribute Contributed by Ayyoub AFW-ALLAH in…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-ratelimiter-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-02T13:08:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/ayyoub-afwallah.picture",
+      "type": "blog"
+    },
+    {
+      "id": "76d5698fdc61",
+      "title": "Forgot to Update Livewire. Got Hacked",
+      "description": "Daniel Petrica tells the story of how an unpatched Livewire vulnerability on a forgotten side project exposed Mailcoach API keys and led to 50,000 spam emails being sent. It is a useful reminder to keep dormant apps updated, and a good real-world example of how Docker can limit the blast radius when something goes wrong. Read more",
+      "link": "https://freek.dev/3126-forgot-to-update-livewire-got-hacked",
+      "pubDate": "2026-06-02T12:30:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7478e718965",
+      "title": "SymfonyOnline June 2026: Protect your data with Queryable Encryption",
+      "description": "Upgrade your skills from home! SymfonyOnline June 2026 brings 15 high-level technical sessions online on June 11-12, 2026. 🎤 Speaker announcement! Jérôme Tamarelle, MongoDB PHP ecosystem maintainer, MongoDB will share critical security insights in:…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-protect-your-data-with-queryable-encryption?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-02T09:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
       "id": "45855882c4c2",
       "title": "Pasted File Editor",
       "description": "Tool: Pasted File Editor I really like how you can paste a large volume of text into claude.ai (or the Claude desktop/mobile apps) and it will detect it as a large paste and turn it into a file attachment instead. I decided to have Codex desktop build me a version of that as a prototype. You can also open files directly - including images which will be shown as thumbnails - or drag files onto the texture. Tags: javascript, tools, ai-assisted-programming, claude, codex",
       "link": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
       "pubDate": "2026-06-02T04:13:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "668142b9072e",
+      "title": "micropython-wasm 0.1a0",
+      "description": "Release: micropython-wasm 0.1a0 My latest sandboxing experiment: This alpha package bundles a lightly customized WASM build of MicroPython with a wrapper to execute code in it via wasmtime. Tags: python, sandboxing, webassembly",
+      "link": "https://simonwillison.net/2026/Jun/2/micropython-wasm-2/#atom-everything",
+      "pubDate": "2026-06-02T03:43:45.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
       "categories": [

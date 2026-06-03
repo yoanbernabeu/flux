@@ -2,6 +2,121 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "90674bb16372",
+      "title": "#359.src - Devenir tech lead: Ne rien lâcher avec Houleymatou Baldé",
+      "description": "\"J'ai toujours su, quand je veux quelque chose, aller le chercher, mais surtout argumenter\" Le D.E.V. de la semaine est Houleymatou Baldé, ex-Tech Lead et fondatrice de Yeeso. Venue en France sans prérequis informatiques, Houleymatou raconte comment elle est devenue tech lead après un parcours semé d'obstacles, entre autodidaxie, doutes techniques, volonté de légitimer sa place, et surtout capacité à provoquer ses propres opportunités. Elle partage sans filtre ce que veut dire assumer sa…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-359-cb22f11ffcad",
+      "pubDate": "2026-06-03T03:00:09.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/e59c7556-bb9c-47ff-9b38-e8592e0567aa.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/657127aa-456a-4ded-9438-cb22f11ffcad.mp3?_=1780401669",
+      "duration": "01:14:51"
+    },
+    {
+      "id": "dc03190e6c05",
+      "title": "Stop aux arrays Laravel ! Utilise Laravel Expressive (DTO propres)",
+      "description": "Dans cette vidéo, on découvre Laravel Expressive, un package qui permet de transformer tes modèles Eloquent en objets typés propres et maintenables. On prend un exemple concret avec un modèle Book pour voir comment : créer des DTO propres convertir des modèles Eloquent gérer les relations proprement sérialiser les données facilement structurer une API Laravel plus clean 👉 Objectif : arrêter les arrays dispersés et écrire du code plus lisible et scalable.",
+      "link": "https://www.youtube.com/watch?v=0tJoGylfqrQ",
+      "pubDate": "2026-06-02T15:56:15.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/0tJoGylfqrQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "0tJoGylfqrQ"
+    },
+    {
+      "id": "29ec5fa9463e",
+      "title": "Event-Driven Architecture chez Octo : épisode 2, la théorie",
+      "description": "Deuxième volet de notre série EDA : l'article à la fois chiant et utile. On rentre dans la théorie — patterns (Pub/Sub, Event Sourcing, CQRS), garanties de livraison, gestion des ratés (replay, DLQ) et pièges classiques. Promis, on a essayé de rendre ça digeste.",
+      "link": "https://blog.octo.com/event-driven-architecture-chez-octo--episode-2-la-theorie",
+      "pubDate": "2026-06-02T12:06:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c3949bf5e025",
+      "title": "We Are Digital Producers : qu’est-ce qu’un collectif digital efficace et créatif ?",
+      "description": "À quoi correspond un collectif de digital producers, à quels besoins du marché répond-il, pour quels types de missions ? Cet article fait suite à un entretien avec l’équipe de We Are Digital Producers et fait le point sur ce qu’un collectif d’experts digitaux peut apporter et dans quel contexte. L’éternelle question : comment trouver […] L’article We Are Digital Producers : qu’est-ce qu’un collectif digital efficace et créatif ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/02/we-are-digital-producers-quest-ce-quun-collectif-digital-efficace-et-creatif/",
+      "pubDate": "2026-06-02T10:50:57.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "27aa84df80b8",
+      "title": "L’IA menace le Wikipedia qu'on connaît.",
+      "description": "🇫🇷 L'encyclopédie libre survivra-t-elle au tsunami de l'Intelligence Artificielle ? Depuis 25 ans, Wikipédia est le pilier absolu de la connaissance sur le Web. Mais avec l'essor fulgurant des LLM qui s'abreuvent de son corpus pour répondre directement aux internautes via des interfaces de chat, le trafic vacille et le modèle historique de l'open source et des contributions est remis en question. Mais Wikipédia à beaucoup de ressources pour gagner ! Dans ce nouvel épisode d’À la French, nous…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6a1eab60d610a774037013e5",
+      "pubDate": "2026-06-02T10:22:22.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1780395728423-c62dbfee-a7f3-4437-a290-39788776a04b.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6a1eab60d610a774037013e5/media.mp3",
+      "duration": "1:26:10"
+    },
+    {
+      "id": "6b09f7b4b37a",
+      "title": "100k€ et 6 mois ou 1k€ et 70h : où va le métier de dev selon Didier Girard ?",
+      "description": "Didier Girard, directeur général du groupe Sfeir, raconte pour le Studio Devoxx France comment l'IA fait passer un site web de 100k€ en 6 mois à 1k€ en 70 heures et ce que ça change au métier de développeur. Dans cette conversation, il pose : « le temps passé n'est plus une unité de mesure de création de valeur ». Le développeur devient product engineer, l'analyse revient, les équipes rétrécissent et la facturation bascule à l'engagement de résultat. Au programme : - Refaire un site web…",
+      "link": "https://www.youtube.com/watch?v=ag76AFt_UOA",
+      "pubDate": "2026-06-02T08:41:57.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/ag76AFt_UOA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "ag76AFt_UOA"
+    },
+    {
+      "id": "0807b5fef1c2",
+      "title": "Newsletter Mai 2026",
+      "description": "Je déteste le mois de mai. Pas à cause de la météo pourrie (sauf la dernière semaine), mais à cause de ces ponts et jours fériés qui donne l’impression que toute la France est en vacances et qu’il est impossible de faire avancer les projets. Que faire, pendant ce temps là ? Écrire et faire […] L’article Newsletter Mai 2026 est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/02/newsletter-mai-2026/",
+      "pubDate": "2026-06-02T07:12:29.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6b4d616419e6",
       "title": "Les 3 formations indispensables pour maîtriser Laravel & Vue.js en 2026",
       "description": "🚀 Vous voulez maîtriser une stack moderne et professionnelle pour développer des applications web complètes ? Je vous recommande aujourd'hui trois formations complémentaires de Thibault Chazottes qui couvrent l'ensemble de l'écosystème Laravel + Vue.js : 🔥 Laravel (Backend) https://www.udemy.com/course/laravel-fr/?couponCode=LARAVELJUSTU26&referralCode=D368E83E8CAD843729B4 ⚡ Vue.js 3 (Frontend)…",
