@@ -2,6 +2,139 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "01e522049fba",
+      "title": "pnpm 11.5 Adds Support for Recognizing npm Staged Publishes",
+      "description": "pnpm 11.5 now treats npm staged publishing approvals as strong trust evidence, fixing a false-positive downgrade warning that could appear when packages used npm’s newer 2FA-backed release flow. The change lands as npm continues tightening package publishing controls after a series of credential theft and token abuse incidents. In the Mini Shai-Hulud campaign, attackers used stolen npm tokens to publish malicious package versions, prompting npm to invalidate granular access tokens and…",
+      "link": "https://socket.dev/blog/pnpm-11-5-adds-support-for-recognizing-npm-staged-publishes?utm_medium=feed",
+      "pubDate": "2026-06-04T03:50:53.125Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/0ce765de42e6c7d5d1ac9c1ac96eb59086e67e41-1954x1054.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "401a23d20ebb",
+      "title": "The Evolution of Retrieval Layer",
+      "description": "Naive RAG → Retrieval layer → Agentic Layer",
+      "link": "https://blog.dailydoseofds.com/p/the-evolution-of-retrieval-layer",
+      "pubDate": "2026-06-03T21:25:56.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!G0O7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb910477-7646-4e90-b793-be43f2f34445_960x628.gif",
+      "type": "blog"
+    },
+    {
+      "id": "84519e23cd38",
+      "title": "New in Symfony 8.1: HttpClient Improvements",
+      "description": "Symfony 8.1 ships a batch of improvements for the HttpClient component that touch performance, interoperability, security and testing. Persistent cURL Connections Contributed…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-httpclient-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-03T15:32:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/koc.picture",
+      "type": "blog"
+    },
+    {
+      "id": "6ea71cf8cdc9",
+      "title": "SymfonyOnline June 2026: Building TUIs in PHP: The Symfony Terminal Component",
+      "description": "SymfonyOnline June 2026 is taking place online next week, from June 11 to 12, 2026! Prepare for two days of pure Symfony and PHP innovation from the comfort of your screen. 🎤 Speaker announcement! We are honored to feature Fabien Potencier with his…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-building-tuis-in-php-the-symfony-terminal-component?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-03T14:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "2032e817aa20",
+      "title": "The Reason I Love Tempest for APIs",
+      "description": "Steve King explains why Tempest feels so nice for API work: typed request objects, declarative validation, route discovery, and a low-ceremony action flow. It is a good look at how the framework removes boilerplate without giving up clarity. Read more",
+      "link": "https://freek.dev/3127-the-reason-i-love-tempest-for-apis",
+      "pubDate": "2026-06-03T12:30:27.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d52428acfe9",
+      "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
+      "description": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, before anyone could have predicted how popular token-burning coding agents were about to become. Natalie Lung for Bloomberg: The rideshare giant is limiting all employees to $1,500 in monthly token spending per AI coding tool, an Uber spokesperson said in response to a…",
+      "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+      "pubDate": "2026-06-03T12:01:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0a58d0d04c86",
+      "title": "SymfonyOnline June 2026: From Web to Mobile with Symfony & Hotwire Native",
+      "description": "The schedule for SymfonyOnline June 2026 is fully live! Tune in online on June 11 and 12, 2026, for two tracks of intense learning. 🎤 Speaker announcement! Don't miss Imad Zairig, Tech Lead, Tousfacteurs and his session \"From Web to Mobile with Symfony…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-from-web-to-mobile-with-symfony-and-hotwire-native?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-03T11:32:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "d393a6672fc3",
+      "title": "Context as Code",
+      "description": "As syntax becomes cheap and abundant, architectural control becomes the scarce resource. Effective governance starts upstream, where intent, constraints, and threat models shape the agent’s working context before generation begins. The goal isn’t better prompting but build-time boundaries that prevent structurally invalid code from entering the system. The Frankenstein factories The dark factories (as Dan […]",
+      "link": "https://www.oreilly.com/radar/context-as-code/",
+      "pubDate": "2026-06-03T11:00:14.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/06/image.png",
+      "type": "blog"
+    },
+    {
+      "id": "6a979b28d8ce",
+      "title": "Federal Audit Finds NIST Wasted Funds With No Plan to Clear NVD Backlog",
+      "description": "A newly released federal audit now documents NIST’s long-running NVD backlog, with findings that are hard to square with two years of public assurances that the database was being brought back under control. The U.S. Department of Commerce Office of Inspector General found that NIST had no strategic plan for the National Vulnerability Database, set a public deadline it did not have the capacity to meet, delayed use of CISA enrichment data, and spent taxpayer funds on duplicated vulnerability…",
+      "link": "https://socket.dev/blog/federal-audit-finds-nist-wasted-funds-with-no-plan-to-clear-nvd-backlog?utm_medium=feed",
+      "pubDate": "2026-06-03T02:17:50.317Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/06f52f5db01169d90dbb4a91ad3c4a0e00681644-708x505.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
       "id": "b276fa3c05b6",
       "title": "Microsoft's new MAI models",
       "description": "Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 1T parameters, 35B active, available to \"select early partners\") and MAI-Code-1-Flash (137B Parameters, 5B active, \"purpose-built for GitHub Copilot and VS Code to deliver high performance and lower cost [...] rolling out to GitHub Copilot individual users in Visual Studio Code\"). I've not been able to try either of them just yet. It's very interesting to see Microsoft releasing models with such low parameter…",

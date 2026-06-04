@@ -50,6 +50,23 @@
       "videoId": "S9xkL1C9NEM"
     },
     {
+      "id": "633eb0993e4e",
+      "title": "Les news du mois de mai 2026",
+      "description": "Photo prise à Athènes en mai 2026, vue sur l'Acropole. Le mois de mai est passé à une vitesse affolante, il faut dire qu’avec les différents ponts que nous avons, eu les semaines étaient courtes. Et j’ai eu l’occasion d’aller assister à la conférence Tech-X organisée par l’association Gaia-X à Athènes. Ce fut pour moi l’opportunité de me remettre à niveau deux ans après avoir quitté le projet. Les talks étaient intéressants autour des échanges de données entre entreprises de manière…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/05/news-mai/",
+      "pubDate": "2026-05-31T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/05/news-mai/banner.avif",
+      "type": "blog"
+    },
+    {
       "id": "bb4a6924d5b8",
       "title": "zeropod v0.12.0 : un an après, le scale-to-zero tient-il ses promesses ?",
       "description": "Qu’est-ce que zeropod ? Il y a un peu moins d’un an, j’avais publié un premier article sur un projet open source qui s’apelle zeropod. Zeropod is a Kubernetes runtime (more specifically a containerd shim) that automatically checkpoints containers to disk after a certain amount of time of the last TCP connection. While in scaled down state, it will listen on the same port the application inside the container was listening on and will restore the container on the first incoming connection. À…",

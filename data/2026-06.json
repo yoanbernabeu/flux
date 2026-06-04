@@ -2,6 +2,88 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "7d83df4d6af2",
+      "title": "PHPStan : Faut-il configurer le niveau max sur ses projets ? 💻",
+      "description": "Extrait exclusif du prochain épisode de Café Tech ! On parle aujourd'hui de PHPStan et plus particulièrement de la configuration du niveau maximum pour la détection de bugs. Jules, ancien membre de la Core Team Symfony, nous donne son avis d'expert : quels sont les avantages, les pièges à éviter et est-ce vraiment viable sur des projets existants (legacy) ? 💡 Un indispensable pour tous les développeurs PHP qui veulent élever le niveau de leur code. 🔔 Abonne-toi pour ne pas manquer l'interview…",
+      "link": "https://www.youtube.com/watch?v=RHXNKT9D4-k",
+      "pubDate": "2026-06-03T10:05:04.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/RHXNKT9D4-k/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "RHXNKT9D4-k"
+    },
+    {
+      "id": "088c6b448b4c",
+      "title": "La vaste blague du macronisme crypto-spatial",
+      "description": "Deux semaines en orbite pour deux astronautes français, Thomas Pesquet et Arnaud Prost. Voilà ce qu’a négocié le Mozart de la finance : un plan annoncé en grande pompe au sommet Choose France, ce 1er juin, sur fond de souveraineté industrielle et La vaste blague du macronisme crypto-spatial first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/la-vaste-blague-du-macronisme-crypto-spatial/",
+      "pubDate": "2026-06-03T08:21:22.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7e8fe3ed7fb",
+      "title": "Le monde merveilleux des ADR !",
+      "description": "Les \"Architecture Decision Record\" font partie de la documentation de votre projet, et peuvent vous sauver la vie ! Notes de l'épisode : Le bus factor : https://code-garage.com/podcast/classic/episode-53",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Le-monde-merveilleux-des-ADR-e3k96p4",
+      "pubDate": "2026-06-03T07:48:10.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/120936676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-3%2Ff7120720-2788-d500-1b9c-f92f6e16de0a.mp3",
+      "duration": "00:05:23"
+    },
+    {
+      "id": "ff6fb0eae21e",
+      "title": "Tout sur Symfony 8.1",
+      "description": "Symfony 8.1 vient de sortir, et fidèle à sa promesse, le framework garantit une rétrocompatibilité totale, permettant une mise à jour transparente. Cette release apporte également des changements de paradigme majeurs : elle pousse encore plus loin l’utilisation des Attributs PHP, simplifie drastiquement le développement d’applications non-HTTP, et prépare l’écosystème aux architectures modernes et haute […] Cet article, Tout sur Symfony 8.1, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/tout-sur-symfony-8-1",
+      "pubDate": "2026-06-03T07:30:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/06/symfony-8.1-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "bde389d891df",
+      "title": "Brève histoire du Prompt Engineering au Harness engineering",
+      "description": "Après une consolidation de notre veille sur le sujet, nous vous proposons de survoler l'histoire de quelques termes de ces dernières années, pour ensuite les articuler entre eux.",
+      "link": "https://blog.octo.com/breve-histoire-du-prompt-engineering-au-harness-engineering",
+      "pubDate": "2026-06-03T07:21:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "90674bb16372",
       "title": "#359.src - Devenir tech lead: Ne rien lâcher avec Houleymatou Baldé",
       "description": "\"J'ai toujours su, quand je veux quelque chose, aller le chercher, mais surtout argumenter\" Le D.E.V. de la semaine est Houleymatou Baldé, ex-Tech Lead et fondatrice de Yeeso. Venue en France sans prérequis informatiques, Houleymatou raconte comment elle est devenue tech lead après un parcours semé d'obstacles, entre autodidaxie, doutes techniques, volonté de légitimer sa place, et surtout capacité à provoquer ses propres opportunités. Elle partage sans filtre ce que veut dire assumer sa…",
@@ -18,6 +100,23 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/657127aa-456a-4ded-9438-cb22f11ffcad.mp3?_=1780401669",
       "duration": "01:14:51"
+    },
+    {
+      "id": "479449969bfc",
+      "title": "News Juin 2026, Bun passe à Rust, npm verrouille les scripts et SEO pour l'IA",
+      "description": "Nous évoquons le portage de Bun de Zig vers Rust par des agents IA, npm qui bloque par défaut les scripts postinstall non approuvés, Composer 2.10 qui filtre nativement les paquets malveillants, Windsurf absorbé par Devin Desktop, le guide SEO de Google optimisé pour les IA, MCP Chrome DevTools, Kimi WebBridge et quelques outils comme Perry, Osaurus ou Liquid Dom. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/news-jun26/",
+      "link": "https://double-slash.dev/podcasts/news-jun26/",
+      "pubDate": "2026-06-03T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1780480242/episode/ART_133_tt4h5f.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_133_news-juin26.mp3",
+      "duration": "3603"
     },
     {
       "id": "dc03190e6c05",
