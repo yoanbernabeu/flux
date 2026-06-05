@@ -2,6 +2,56 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "161b9ceb75f5",
+      "title": "#344.exe - Cloud du coeur: Pas de cloud sans casserole, bricoler pour 35 000 utilisateurs par Tugdual Grall",
+      "description": "Pour l'épisode #344 je recevais Julien Briault. On en débrief avec Tugdual. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-344-e015963107fd",
+      "pubDate": "2026-06-05T03:00:04.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/e51413b8-e044-4cda-ae64-e015963107fd.mp3?_=1780574464",
+      "duration": "10:03"
+    },
+    {
+      "id": "3ac3688c026f",
+      "title": "Cursor a TUÉ Claude Code avec Composer 2.5",
+      "description": "Cursor vient de frapper un grand coup avec Composer 2.5, son nouveau modèle IA spécialisé dans le développement logiciel. Dans cette vidéo, je teste Composer 2.5 en conditions réelles. Est-ce que Cursor a enfin trouvé le modèle capable de détrôner Claude Code ? 🤯 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les meilleures formations pour apprendre à programmer ★ ▶️ Apprendre le C# : http://bit.ly/csharp-course-fr ▶️ Apprendre le PHP :…",
+      "link": "https://www.youtube.com/watch?v=c9aA7Z34B4w",
+      "pubDate": "2026-06-04T16:51:54.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/c9aA7Z34B4w/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "c9aA7Z34B4w"
+    },
+    {
+      "id": "bc4ff9b247d1",
+      "title": "FrankenPHP une alternative à PHP FPM & Nginx",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/frankenphp-2344 Aujourd'hui, lorsque l'on veut héberger une application PHP, on a recours à 2 briques : un serveur web comme Nginx ou Apache, puis PHP-FPM pour interpréter les fichiers PHP. Si on utilise Docker, cela implique deux conteneurs qui doivent communiquer ensemble. FrankenPHP propose un serveur web tout-en-un capable de servir les fichiers statiques et d'exécuter le code PHP. - 00:00 Introduction - 01:24 Installation & utilisation - 05:19…",
+      "link": "https://www.youtube.com/watch?v=8zKyFWcdk0I",
+      "pubDate": "2026-06-04T13:00:26.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/8zKyFWcdk0I/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "8zKyFWcdk0I"
+    },
+    {
       "id": "7d83df4d6af2",
       "title": "PHPStan : Faut-il configurer le niveau max sur ses projets ? 💻",
       "description": "Extrait exclusif du prochain épisode de Café Tech ! On parle aujourd'hui de PHPStan et plus particulièrement de la configuration du niveau maximum pour la détection de bugs. Jules, ancien membre de la Core Team Symfony, nous donne son avis d'expert : quels sont les avantages, les pièges à éviter et est-ce vraiment viable sur des projets existants (legacy) ? 💡 Un indispensable pour tous les développeurs PHP qui veulent élever le niveau de leur code. 🔔 Abonne-toi pour ne pas manquer l'interview…",

@@ -2,6 +2,138 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "2898633eaa02",
+      "title": "The PHP Podcast 2026.06.04",
+      "description": "🎙️ PHP Podcast – June 4, 2026 Hosts: Eric Van Johnson & John Congdon Another fun episode of the PHP Podcast! Here’s what we covered: 🎪 PHP Tek 2027 — New Dates, Bold New Format Mark your calendars: PHP Tek 2027 is happening April 27–29 in Chicago, and Eric and John are shaking things up. […] The post The PHP Podcast 2026.06.04 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-06-04/",
+      "pubDate": "2026-06-05T00:10:06.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/06/The-PHP-Podcast-2026.06.04.png",
+      "type": "blog"
+    },
+    {
+      "id": "cb24507f4228",
+      "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
+      "description": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy Charity Majors neatly captures the dynamic between AI enthusiasts and AI skeptics, both of whom are trying to build great software, often in the same teams: The enthusiasts are not wrong. We are starting to see real, non-imaginary, discontinuous leaps in capabilities from teams that lean in hard to working with AI. And this does not feel like a normal technology cycle where you can wait for the dust to settle;…",
+      "link": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
+      "pubDate": "2026-06-04T23:55:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b83b545f8ef7",
+      "title": "Researchers Found a Way to Make LLMs 8.5x Faster!",
+      "description": "(without compromising accuracy)",
+      "link": "https://blog.dailydoseofds.com/p/researchers-found-a-way-to-make-llms",
+      "pubDate": "2026-06-04T21:46:42.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!4AYb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d2a0831-02a0-41c6-8bfb-07fe93113db2_1150x1080.png",
+      "type": "blog"
+    },
+    {
+      "id": "a9f9b4eaa547",
+      "title": "Quoting Emanuel Maiberg, 404 Media",
+      "description": "After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement. The new statement no longer stated that \"it's critical that we maintain humans in the loop.\" &mdash; Emanuel Maiberg, 404 Media, Google Employees Internally Share Memes About How Its AI Sucks Tags: ai-ethics, journalism, ai, google",
+      "link": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
+      "pubDate": "2026-06-04T16:38:29.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8dffaefaf30e",
+      "title": "The Tidy House",
+      "description": "DJ Patil has spent the past several months on a listening tour. Wherever he travels, he finds a local university, pings faculty and students and anyone else who wants to show up, and runs an AMA. He’s heard from grad students who can’t get callbacks, hospital administrators dealing with federal policy changes that land like […]",
+      "link": "https://www.oreilly.com/radar/the-tidy-house/",
+      "pubDate": "2026-06-04T16:25:11.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c1c5b9eb7947",
+      "title": "New in Symfony 8.1: ObjectMapper Improvements",
+      "description": "The ObjectMapper component was introduced in Symfony 7.3 to eliminate the repetitive boilerplate involved in copying data between objects, such as DTOs and entities. Symfony 8.1 builds on that foundation with several improvements that make mappings more expressive…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-objectmapper-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-04T12:52:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/orkin.picture",
+      "type": "blog"
+    },
+    {
+      "id": "c86cc5788a5c",
+      "title": "New Webpack and Next.js plugins for Flare",
+      "description": "We shipped dedicated webpack and Next.js plugins for Flare that upload sourcemaps after each production build. Nice update, especially the Next.js wrapper that handles source map generation and cleanup for you. Read more",
+      "link": "https://freek.dev/3129-new-webpack-and-nextjs-plugins-for-flare",
+      "pubDate": "2026-06-04T12:30:04.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4365b88cac6",
+      "title": "Predict, Don’t Enumerate",
+      "description": "A third of the way into a security-operations guide that Anthropic published in April 2026, wedged between a recommendation to patch CISA’s Known Exploited Vulnerabilities list and a suggestion to automate your deployment pipeline is a small recommendation: “Use EPSS to prioritize the rest.” For anyone who has worked on a vulnerability backlog in the […]",
+      "link": "https://www.oreilly.com/radar/predict-dont-enumerate/",
+      "pubDate": "2026-06-04T10:57:44.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "00d39cb29f64",
+      "title": "SymfonyOnline June 2026:  Symfony 8: The Hexagonal Track",
+      "description": "Upgrade your skills from home! SymfonyOnline June 2026 brings 13 high-level technical sessions online on June 11-12, 2026. 🎤 Speaker announcement! SymfonyOnline June 2026: We are super happy to have Core Team member Robin Chalas with his talk \"Symfony…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-symfony-8-the-hexagonal-track?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-04T08:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
       "id": "01e522049fba",
       "title": "pnpm 11.5 Adds Support for Recognizing npm Staged Publishes",
       "description": "pnpm 11.5 now treats npm staged publishing approvals as strong trust evidence, fixing a false-positive downgrade warning that could appear when packages used npm’s newer 2FA-backed release flow. The change lands as npm continues tightening package publishing controls after a series of credential theft and token abuse incidents. In the Mini Shai-Hulud campaign, attackers used stolen npm tokens to publish malicious package versions, prompting npm to invalidate granular access tokens and…",
