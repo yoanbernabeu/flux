@@ -2,6 +2,38 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "7c395bcb0623",
+      "title": "Épisode 10 - Laravel 13 E-commerce Vue.js - Page produit et slider d'images",
+      "description": "Dans ce dixième épisode, on implémente la page produit individuelle : route par slug, typage Wayfinder, résolution du produit via la table polymorphique de Lunar, et slider d'images en Vue 3 sans dépendance externe. **Ce qu'on couvre** - Déclaration de la route `/{slug}` et du `ProductController` - Génération du typage TypeScript avec `php artisan wayfinder:generate` - Lien \"Voir le produit\" fortement typé dans `ProductCard` via Inertia Link - Résolution du produit depuis la table polymorphique…",
+      "link": "https://www.youtube.com/watch?v=o8K5dBeVues",
+      "pubDate": "2026-06-05T16:37:22.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/o8K5dBeVues/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "o8K5dBeVues"
+    },
+    {
+      "id": "793d9753897c",
+      "title": "Gemma 4 12B : Une IA surpuissante et gratuite sur ton PC",
+      "description": "Gemma 4 12B est arrivé ! Dans cette vidéo, découvrez comment installer l'IA open source de Google directement sur votre PC et profiter d'un modèle puissant, gratuit et capable de fonctionner en local sans dépendre du cloud. Gemma 4 est l'une des IA open source les plus prometteuses du moment. Avec ses capacités avancées en raisonnement, génération de texte et assistance au développement, elle représente une excellente alternative aux modèles propriétaires. Liens utiles : ▶️ Gemma 4 12B :…",
+      "link": "https://www.youtube.com/watch?v=YAtul7qlVAs",
+      "pubDate": "2026-06-05T15:30:08.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/YAtul7qlVAs/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "YAtul7qlVAs"
+    },
+    {
       "id": "161b9ceb75f5",
       "title": "#344.exe - Cloud du coeur: Pas de cloud sans casserole, bricoler pour 35 000 utilisateurs par Tugdual Grall",
       "description": "Pour l'épisode #344 je recevais Julien Briault. On en débrief avec Tugdual. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",

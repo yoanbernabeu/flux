@@ -2,6 +2,153 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "35c8681f55ef",
+      "title": "micropython-wasm 0.1a2",
+      "description": "Release: micropython-wasm 0.1a2 I added a CLI to micropython-wasm (issue #7), inspired by the first draft of the blog entry when I realized it would be a great way to illustrate the Try it yourself section. Tags: python, sandboxing, webassembly, micropython",
+      "link": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
+      "pubDate": "2026-06-06T04:26:06.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c83ad479a266",
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "description": "I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for. I've released it as an alpha package called micropython-wasm, and I'm using it for a code execution sandbox plugin for Datasette Agent called datasette-agent-micropython. Why do I want a sandbox? What I want from a sandbox WebAssembly looks really promising here MicroPython in WebAssembly…",
+      "link": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+      "pubDate": "2026-06-06T03:53:34.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0ee7688502ca",
+      "title": "OpenAI Help: Lockdown Mode",
+      "description": "OpenAI Help: Lockdown Mode OpenAI first teased this in February, but now it's live and \"rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts\": Lockdown Mode is designed to help prevent the final stage of data exfiltration from a prompt injection attack by limiting outbound network requests that could transfer sensitive data to an attacker. Lockdown Mode does not prevent prompt injections from appearing in the content ChatGPT…",
+      "link": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
+      "pubDate": "2026-06-05T23:56:40.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7b36f945154",
+      "title": "Finally, Hermes Agent's Desktop App is Here!",
+      "description": "Full hands-on video walkthrough.",
+      "link": "https://blog.dailydoseofds.com/p/finally-hermes-agents-desktop-app",
+      "pubDate": "2026-06-05T19:42:25.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://api.substack.com/feed/podcast/200795434/cf7e3820a62f31d8961218bdf68b624a.mp3",
+      "type": "blog"
+    },
+    {
+      "id": "bed341c6fbe9",
+      "title": "This Week in AI: Production Viability",
+      "description": "On this week’s episode, host and the founder of AI advisory firm Intelligence Briefing Andreas Welsch brought together Maya Mikhailov, cofounder and CEO of Savvi AI, and Doug Shannon, generative AI and intelligent automation leader, to cover a handful of interconnected topics that practitioners are navigating right now: OpenAI’s push into personal finance, the role […]",
+      "link": "https://www.oreilly.com/radar/this-week-in-ai-production-viability/",
+      "pubDate": "2026-06-05T15:55:20.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73feef723797",
+      "title": "Svelte support for Flare is here!",
+      "description": "We shipped a Svelte 5 integration for Flare with an error boundary, component hierarchy reporting, and lifecycle-aware context. Looks especially useful for seeing which component broke, and where the error came from. Read more",
+      "link": "https://freek.dev/3130-svelte-support-for-flare-is-here",
+      "pubDate": "2026-06-05T12:30:05.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d1d6715e5232",
+      "title": "Quoting Andreas Kling",
+      "description": "We will no longer accept public pull requests. [...] A substantial patch used to imply substantial effort, and that effort was a reasonable proxy for good faith. That assumption no longer holds. [...] Whether code was typed by hand is beside the point. What matters is who is responsible for it once it enters the browser. Ladybird is becoming a browser for real users. The people introducing changes to it must be the people who decide those changes belong in the project, and who will answer for…",
+      "link": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
+      "pubDate": "2026-06-05T11:10:05.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9b6ce6cc89be",
+      "title": "New in Symfony 8.1: Console Progress and Testing Improvements",
+      "description": "The Console component has been a major focus of Symfony 8.1, and we've already covered a lot of new features in previous articles: improved console input, console argument resolvers, method-based commands, and HTTP-less Symfony applications. This article…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-console-progress-and-testing-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-05T10:50:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/canvural.png",
+      "type": "blog"
+    },
+    {
+      "id": "180864b32124",
+      "title": "I Let an AI Agent Run 40 Experiments While I Slept",
+      "description": "I set up an AI agent on a rented GPU, pointed it at a training script, and went to bed. By morning it had run 40 experiments, improved validation loss by 5.9%, and cut memory usage from 44 GB to 17 GB. It also spent four hours chasing a bug that a linter introduced behind […]",
+      "link": "https://www.oreilly.com/radar/i-let-an-ai-agent-run-40-experiments-while-i-slept/",
+      "pubDate": "2026-06-05T10:27:18.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f75ac54105f4",
+      "title": "RubyGems Adds Cooldown Feature to Bundler for Newly Published Gems",
+      "description": "RubyGems and Bundler 4.0.13 introduced an opt-in cooldown feature that can delay installation of newly published gem versions, bringing a time-based supply chain defense to Ruby’s package management workflow. The feature allows developers to configure Bundler so it will not resolve to a gem version until it has been public for a set number of days. In the example published by RubyGems maintainer Hiroshi SHIBATA, a project can add a cooldown directly to its Gemfile: source…",
+      "link": "https://socket.dev/blog/rubygems-adds-bundler-cooldown?utm_medium=feed",
+      "pubDate": "2026-06-05T05:46:34.726Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2898633eaa02",
       "title": "The PHP Podcast 2026.06.04",
       "description": "🎙️ PHP Podcast – June 4, 2026 Hosts: Eric Van Johnson & John Congdon Another fun episode of the PHP Podcast! Here’s what we covered: 🎪 PHP Tek 2027 — New Dates, Bold New Format Mark your calendars: PHP Tek 2027 is happening April 27–29 in Chicago, and Eric and John are shaking things up. […] The post The PHP Podcast 2026.06.04 appeared first on PHP Architect.",
