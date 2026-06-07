@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "9aa5152c1ce2",
+      "title": "Flare ❤️ Livewire",
+      "description": "We built deep Livewire support into Flare, making component hierarchies, lifecycle phases, method calls, and related queries visible inside traces. It looks like a solid step forward for understanding where Livewire apps spend time and where things go wrong. Read more",
+      "link": "https://freek.dev/3122-flare-livewire",
+      "pubDate": "2026-06-06T12:30:04.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "35c8681f55ef",
       "title": "micropython-wasm 0.1a2",
       "description": "Release: micropython-wasm 0.1a2 I added a CLI to micropython-wasm (issue #7), inspired by the first draft of the blog entry when I realized it would be a great way to illustrate the Try it yourself section. Tags: python, sandboxing, webassembly, micropython",
