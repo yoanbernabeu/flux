@@ -2,6 +2,65 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "5ae9cda0a6ea",
+      "title": "datasette-agent-edit 0.1a0",
+      "description": "Release: datasette-agent-edit 0.1a0 I'm planning several plugins for Datasette Agent which can make edits to existing pieces of text - things like collaborative Markdown editing, updating large SQL queries, and editing SVG files. Agentic editing of text is a little tricky to get right. My favorite published design for this is for the Claude text editor, which implements the following tools: view - view sections of a file, with line numbers added to every line. str_replace - find an exact…",
+      "link": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
+      "pubDate": "2026-06-07T23:56:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eb0b40f6b793",
+      "title": "REINFORCE and Actor-critic Methods in RL",
+      "description": "The full RL nanodegree, covered with implementation.",
+      "link": "https://blog.dailydoseofds.com/p/reinforce-and-actor-critic-methods",
+      "pubDate": "2026-06-07T20:21:37.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!K5qS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bc82c96-5051-4d73-97cb-248f1aa70cc5_1456x719.png",
+      "type": "blog"
+    },
+    {
+      "id": "8c97e4cb145f",
+      "title": "A Week of Symfony #1014 (June 1–7, 2026)",
+      "description": "This week, Symfony focused on bug fixes for the recent Symfony 8.1 release. Meanwhile, we published more details about the upcoming SymfonyOnline June 2026 conference. Symfony development highlights This week, 39 pull requests were merged (33 in code and…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1014-june-1-7-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-07T07:11:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "18a79357b55b",
+      "title": "Shai-Hulud Descends to Hades: Miasma Worm Campaign Spreads with New PyPI Wave",
+      "description": "Socket detected a coordinated PyPI compromise involving 37 malicious wheel artifacts across 19 packages. The compromised releases shipped a *-setup.pth file that attempts to execute automatically during Python startup, download the Bun JavaScript runtime, and run an obfuscated JavaScript payload named _index.js. Socket’s AI malware detection system identified the malicious package cluster minutes after publication. The attack is cross-runtime, and the tradecraft is unmistakably Shai-Hulud /…",
+      "link": "https://socket.dev/blog/shai-hulud-descends-to-hades-miasma-pypi-wave?utm_medium=feed",
+      "pubDate": "2026-06-07T05:30:32.599Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9aa5152c1ce2",
       "title": "Flare ❤️ Livewire",
       "description": "We built deep Livewire support into Flare, making component hierarchies, lifecycle phases, method calls, and related queries visible inside traces. It looks like a solid step forward for understanding where Livewire apps spend time and where things go wrong. Read more",

@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "c47348be8504",
+      "title": "Utiliser le système de secours GRML Live Linux",
+      "description": "Utiliser le système de secours GRML Live Linux {align=right} La plupart des supports d'installation des distributions Linux courantes intègrent un système de secours qu'il peut être utile de savoir manipuler pour un certain nombre d'opérations :",
+      "link": "https://www.microlinux.fr/blog/grml/",
+      "pubDate": "2026-06-07T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/rescue-console.png",
+      "type": "blog"
+    },
+    {
       "id": "503a446838ae",
       "title": "Qu'est-ce qu'un « bon code » à l'ère de l'IA ?",
       "description": "La semaine dernière, je faisais référence au mantra “code is cheap”. Depuis, j’ai trouvé le projet “Agentic Engineering Patterns” de Simon Willison qui documente les patterns pratiques pour travailler et obtenir les meilleurs résultats possibles avec l’IA. On y retrouve une section “Writing code is cheap now” avec toute fois une nuance que je partage: “Good code still has a cost”. Ce qu’il y explique a pour moi toujours était vrai même avant l’IA. Écrire du code est facile, mais écrire du bon…",
@@ -12,6 +27,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e5ddde255d59",
+      "title": "Staff42: où en sont sept entreprises tech françaises avec l'IA générative ?",
+      "description": "Imaginez : 7 slides et dix minutes pour raconter l'adoption des agents de développement comme Claude Code dans votre entreprise. Comment cela se passe-t-il ? Quels sont vos succès ? Qu'est-ce qui marche moins bien ? Back Market a réuni plusieurs entreprises à Paris, pour partager leur retour d'expérience : BlaBlaCar Brevo Padoa Doctolib Qonto Ledger … et Back Market L'idée de ce moment « off the...",
+      "link": "https://www.touilleur-express.fr/2026/06/05/sept-entreprises-tech-francaises-et-l-ia-generative",
+      "pubDate": "2026-06-05T20:28:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
       ],
       "image": null,
       "type": "blog"
