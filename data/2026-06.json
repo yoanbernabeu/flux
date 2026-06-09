@@ -2,6 +2,115 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "1f921a168e46",
+      "title": "Mistral AI NOW Summit : Entre ambitions technologiques et réalités d'adoption en entreprise",
+      "description": "Au AI Now Summit 2026, Mistral a présenté une vision ambitieuse de l’IA industrielle : maîtrise de l’infrastructure, modèles spécialisés, agents outillés et souveraineté des données. Derrière la vitrine, une conférence utile pour lire les vrais enjeux d’adoption de l’IA en entreprise.",
+      "link": "https://blog.octo.com/mistral-ai-now-summit--entre-ambitions-technologiques-et-realites-d'adoption-en-entreprise",
+      "pubDate": "2026-06-08T14:44:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a31b7001c006",
+      "title": "Refonte de site en B2B : pourquoi se faire accompagner par un expert du numérique ?",
+      "description": "Engager un consultant pour la refonte de site web assure sécurité et expertise. Grâce à sa connaissance technique et son expérience, il guide efficacement la rédaction des cahiers des charges et facilite les échanges entre prestataires. Cette collaboration réduit les coûts et les risques, garantissant la réussite du projet de refonte. L’article Refonte de site en B2B : pourquoi se faire accompagner par un expert du numérique ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/08/refonte-de-site-en-b2b-pourquoi-se-faire-accompagner-par-un-expert-du-numerique/",
+      "pubDate": "2026-06-08T14:03:05.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "faea68ebcd48",
+      "title": "🎙️ Café Tech avec Imen  ☕ #14 : De livreur à la Core Team Symfony : Le parcours fou de Jules Pietri!",
+      "description": "Aujourd'hui, j'ai le immense plaisir de recevoir Jules, membre de la Core Team Symfony. Son parcours est tout sauf linéaire : il est passé de livreur de burgers à l'un des rôles les plus respectés de l'écosystème PHP / Symfony. Jules est un pur autodidacte. Son histoire est la preuve vivante que le travail acharné, la curiosité et la persévérance finissent toujours par payer. Dans cette interview exclusive, on a parlé sans filtre : 📈 De ses débuts et de sa reconversion atypique 🏆 De ses plus…",
+      "link": "https://www.youtube.com/watch?v=7MdQTucbtfQ",
+      "pubDate": "2026-06-08T12:00:08.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/7MdQTucbtfQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "7MdQTucbtfQ"
+    },
+    {
+      "id": "417a176d05b7",
+      "title": "Protéger votre système des agents avec Greywall",
+      "description": "🔗 Article : https://grafikart.fr/blog/greywall-decouverte Les actualités récentes nous ont montré qu'en tant que développeur, on doit être attentif lorsqu'on exécute des commandes, que ce soit avec les agents IA ou avec les outils que l'on utilise au quotidien. Les dépendances que l'on importe dans nos projets peuvent aussi devenir de bons vecteurs d'attaque. Greywall apporte une couche de protection en offrant la possibilité d'exécuter les commandes dans un bac à sable afin de contrôler ce à…",
+      "link": "https://www.youtube.com/watch?v=Fil4lufhnKQ",
+      "pubDate": "2026-06-08T08:57:02.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Fil4lufhnKQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Fil4lufhnKQ"
+    },
+    {
+      "id": "29fc35fc4e9c",
+      "title": "J'ai trouvé ce qu'il manque à Cursor et Claude Code (GitNexus)",
+      "description": "Les agents IA comme Cursor, Claude Code ou Windsurf sont impressionnants… mais ils ont encore une faiblesse majeure : ils ne comprennent pas réellement l'architecture de votre application. Dans cette vidéo, nous découvrons GitNexus, un projet open source qui transforme votre codebase en Knowledge Graph afin de fournir aux agents IA une vision globale des dépendances, des services, des API et de l'impact des modifications. Liens utiles : ▶️GitNexus : https://github.com/abhigyanpatwari/GitNexus…",
+      "link": "https://www.youtube.com/watch?v=S0vd1MnrJjk",
+      "pubDate": "2026-06-08T08:00:20.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/S0vd1MnrJjk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "S0vd1MnrJjk"
+    },
+    {
+      "id": "f4963e17ecbf",
+      "title": "Réinitialiser les disques d'une machine",
+      "description": "Réinitialiser les disques d'une machine {align=right} Dans mon quotidien professionnel, j'installe assez régulièrement des postes de travail et des serveurs Linux sur du matériel existant ou reconditionné. Si les disques ne sont pas trop anciens, je [vérifie leur santé matérielle][1] et je prends soin de les réinitialiser pour partir sur des bases saines. J'en profite au passage pour vous montrer comment on fait.",
+      "link": "https://www.microlinux.fr/blog/reinitialiser-disques/",
+      "pubDate": "2026-06-08T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/clean-disk.png",
+      "type": "blog"
+    },
+    {
+      "id": "40b0500bad30",
+      "title": "Vérifier la santé matérielle d'un disque dur",
+      "description": "Vérifier la santé matérielle d'un disque dur {align=right} Je travaille assez régulièrement avec du matériel reconditionné, le plus souvent en provenance du fournisseur [Olinn Distribution][1]. Sur les serveurs, je remplace les disques durs par du matériel acheté neuf, mais il arrive qu'un client souhaite garder les disques déjà présents sur la machine. Dans ce cas, je prends soin de vérifier leur santé matérielle avant d'installer un OS dessus. Pour ce faire, j'utilise l'outil en ligne de…",
+      "link": "https://www.microlinux.fr/blog/smartctl/",
+      "pubDate": "2026-06-08T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/smartctl.png",
+      "type": "blog"
+    },
+    {
       "id": "c47348be8504",
       "title": "Utiliser le système de secours GRML Live Linux",
       "description": "Utiliser le système de secours GRML Live Linux {align=right} La plupart des supports d'installation des distributions Linux courantes intègrent un système de secours qu'il peut être utile de savoir manipuler pour un certain nombre d'opérations :",

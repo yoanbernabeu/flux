@@ -2,6 +2,137 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "3372d8953b31",
+      "title": "Siri AI at WWDC 2026",
+      "description": "Given how badly burned anyone who took Apple's 2024 WWDC Apple Intelligence announcements at face value was, I'm holding to a strict \"I'll believe it when I see it\" policy for everything they announced today. The new Siri AI features do at least look feasible with today's technology, especially since Apple are licensing a custom Gemini-derived model that they can run on their own Private Cloud Compute. It sounds like they'll be taking advantage of vision LLMs to extract information from the…",
+      "link": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
+      "pubDate": "2026-06-08T23:58:04.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dbdfa902cda8",
+      "title": "Your Agent Harness Should Repair Itself",
+      "description": "...covered with an open-source solution.",
+      "link": "https://blog.dailydoseofds.com/p/your-agent-harness-should-repair",
+      "pubDate": "2026-06-08T21:14:29.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!VivW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29fc3196-99db-4bfb-880d-823717350be6_680x603.png",
+      "type": "blog"
+    },
+    {
+      "id": "5ccff6964288",
+      "title": "Mini Shai-Hulud, Miasma, and Hades Worms Target Bioinformatics and MCP Developers via Malicious PyPI Wheels",
+      "description": "Socket Threat Research team identified a newer PyPI wave connected to the broader Mini Shai-Hulud, Miasma, and Hades supply chain attacks. This wave expands beyond the 37 malicious PyPI wheels covered in our weekend report and shows that the threat actors are iterating quickly across delivery mechanisms, package themes, and runtime triggers. The campaign has since added 23 newly identified PyPI package-version artifacts, expanding beyond the 37 malicious PyPI wheels covered in our weekend…",
+      "link": "https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious?utm_medium=feed",
+      "pubDate": "2026-06-08T17:36:43.222Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/cfeba14bdc7ec279a2ba181bc5eac1615079eae3-2048x855.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "31db22e3e592",
+      "title": "Announcing major new donations, and recapping the 2025 fundraiser",
+      "description": "This past December, we ran our first fundraiser in six years, setting an ambitious goal of $6M. We ended up receiving a total of $1.8M from small donors and $1.6M in matching from the Survival and Flourishing Fund (SFF) for a total of $3.4M. We’re incredibly grateful for all this support! In the rest of […] The post Announcing major new donations, and recapping the 2025 fundraiser appeared first on Machine Intelligence Research Institute.",
+      "link": "https://intelligence.org/2026/06/08/announcing-major-new-donations-and-recapping-the-2025-fundraiser/",
+      "pubDate": "2026-06-08T16:51:06.000Z",
+      "source": "MIRI Blog",
+      "sourceUrl": "https://intelligence.org/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f605.png",
+      "type": "blog"
+    },
+    {
+      "id": "0d58d3ccda90",
+      "title": "Long-Running Agents",
+      "description": "The following article originally appeared on Addy Osmani’s blog and is being reposted here with the author’s permission. A long-running AI agent can keep making progress over hours, days, or weeks. It can do this across many context windows and sandboxes, recover from failure, leave structured artifacts behind, and resume where it left off. For […]",
+      "link": "https://www.oreilly.com/radar/long-running-agents/",
+      "pubDate": "2026-06-08T15:59:06.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/06/image.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "381910464a4d",
+      "title": "SymfonyOnline June 2026: Coding at the speed of thought: Symfony DX in 2026",
+      "description": "The wait is over! SymfonyOnline June 2026 is coming to you live online on June 11-12, 2026, featuring an incredible lineup of expert speakers. 🎤 Speaker announcement! We are thrilled to welcome Kévin Dunglas with his talk \"Coding at the speed of…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-coding-at-the-speed-of-thought-symfony-dx-in-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-08T12:52:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "fd2369c5fbd4",
+      "title": "Evals in Laravel: How to Prove Your AI Output Is Actually Good",
+      "description": "Your Agent::fake() tests prove your Laravel AI feature runs — not that its output is any good. This evals a real ticket classifier with the AI SDK: a golden dataset for the fields you can check, an LLM-as-judge for the free text you can't, and a regression gate that catches a bad prompt before your customers do. Read more",
+      "link": "https://freek.dev/3132-evals-in-laravel-how-to-prove-your-ai-output-is-actually-good",
+      "pubDate": "2026-06-08T12:26:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "20a949bdf3c6",
+      "title": "The AI Agents Stack (2026 Edition)",
+      "description": "The following article originally appeared on Paolo Perrone’s The AI Engineer Substack and is being reposted here with the author’s permission. Your team picks LangGraph for a customer support chatbot. Three weeks in, you’ve got 14 nodes in a state graph, a custom checkpointer writing to Redis, and retry logic for tool calls that fail […]",
+      "link": "https://www.oreilly.com/radar/the-ai-agents-stack-2026-edition/",
+      "pubDate": "2026-06-08T10:56:59.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/06/image-3.png",
+      "type": "blog"
+    },
+    {
+      "id": "77c214f3e440",
+      "title": "SymfonyOnline June 2026: Dealing with audit logs",
+      "description": "Join web developers from all over the world this week for SymfonyOnline June 2026, broadcasting live on June 11-12, 2026. 🎤 Speaker announcement! We are thrilled to welcome Hubert Lenoir with his talk \"Dealing with audit logs\": \"Audit logs are essential…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-dealing-with-audit-logs?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-08T08:46:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
       "id": "5ae9cda0a6ea",
       "title": "datasette-agent-edit 0.1a0",
       "description": "Release: datasette-agent-edit 0.1a0 I'm planning several plugins for Datasette Agent which can make edits to existing pieces of text - things like collaborative Markdown editing, updating large SQL queries, and editing SVG files. Agentic editing of text is a little tricky to get right. My favorite published design for this is for the Claude text editor, which implements the following tools: view - view sections of a file, with line numbers added to every line. str_replace - find an exact…",
@@ -485,6 +616,20 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/06f52f5db01169d90dbb4a91ad3c4a0e00681644-708x505.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "a97fceaf3e89",
+      "title": "Verify the description, not the effect",
+      "description": "How does a closed-loop coding agent verify a side effect it can't cheaply or totally observe? By checking the effect's description against a fixed contract, not the effect itself.",
+      "link": "https://skiplabs.io/blog/side_effects",
+      "pubDate": "2026-06-03T00:00:00.000Z",
+      "source": "Skip Labs",
+      "sourceUrl": "https://skiplabs.io/blog/rss.xml",
+      "categories": [
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
