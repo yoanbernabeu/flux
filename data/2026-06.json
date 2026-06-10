@@ -2,6 +2,136 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "68e5b320bb69",
+      "title": "#360.src - Docker Sandbox: Sécuriser les agents IA sans ralentir les devs avec Guillaume Lours",
+      "description": "\"C'est important que je comprenne le code qui a été généré.\" Le D.E.V. de la semaine est Guillaume Lours, Software Engineer chez Docker. Avec lui, on plonge dans les coulisses de Docker Sandbox, cette solution pensée pour sécuriser l'automatisation et l'exécution de code par IA. Guillaume nous explique comment limiter les risques sans sacrifier l'efficacité, et détaille l'architecture technique : micro VM légère, man-in-the-middle pour la gestion des credentials, profils de sécurité…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-360-1ee20cd72937",
+      "pubDate": "2026-06-10T03:00:28.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/8cb2bc4e-d44a-4aa3-b153-9decbc558bb1.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/110eddef-3813-4e0b-bcb0-1ee20cd72937.mp3?_=1781006488",
+      "duration": "01:02:32"
+    },
+    {
+      "id": "723abfd0e7fb",
+      "title": "Claude Mythos 5 et Fable 5 : Anthropic frappe TRÈS fort 🤯",
+      "description": "Claude vient d’annoncer Claude Fable 5 et Claude Mythos 5, deux nouveaux modèles qui pourraient changer la manière dont on utilise l’IA pour coder, raisonner et automatiser des tâches complexes. Dans cette vidéo, on regarde ce que ces modèles apportent vraiment, pourquoi Mythos 5 semble particulièrement impressionnant sur les benchmarks, et ce que ça peut changer pour les développeurs, les agents IA, Claude Code et les workflows de productivité. 📌 Retrouvez moi sur : ▶️ Mon site :…",
+      "link": "https://www.youtube.com/watch?v=D7vINmPa7Sc",
+      "pubDate": "2026-06-09T20:46:55.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/D7vINmPa7Sc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "D7vINmPa7Sc"
+    },
+    {
+      "id": "46d3f422d9dd",
+      "title": "Tenir un blog avec l'assistance d'une IA",
+      "description": "L’ inonde le web de contenus insipides. Les articles sur avec une image générée par , remplis d’émojis, publiés par des soi-disant experts sur un sujet auquel ils ne portent pas assez d’intérêt pour écrire eux-mêmes, sont les pires spécimens. Bien que je sois très contrarié de cette situation, je m’appuie sur des pour la , les et la . Je ne trouve pas cela incohérent.IAIALLMsLinkedIngrammairerévisions linguistiquestraduction Ma langue maternelle est le français mais j’écris la plupart des…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-blog-ia",
+      "pubDate": "2026-06-09T20:15:13.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/ai-usage@1x.c55381c0eb5251.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fd6cdf5689ae",
+      "title": "Du marécage à l'autonomie : redresser un projet data en tant que Tech Lead",
+      "description": "REX Tech Lead : reprendre un data lake AWS en perdition. Dette technique de 5 ans, pas de tests, pas de monitoring, équipe de 2 juniors sans PO. 4 leviers : assainir (monorepo, Terraform, CI/CD, Python), coaching, pair programming, collective ownership. Résultat : 5 000 tests, datamart Snowflake/dbt, 100 000 $ d'économies FinOps, équipe autonome.",
+      "link": "https://blog.octo.com/du-marecage-a-l'autonomie--redresser-un-projet-data-en-tant-que-tech-lead",
+      "pubDate": "2026-06-09T18:35:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6f2c2e628f10",
+      "title": "Les tokens, le nouveau pétrole que vous brûlez sans le savoir",
+      "description": "Et si vous brûliez tout votre quota IA en 5 jours ? Vous faites quoi le reste du mois ? Les tokens ne sont ni gratuits, ni renouvelables, ni illimités, même quand votre abonnement se recharge. Il est temps de comprendre ce que vous consommez vraiment.",
+      "link": "https://blog.octo.com/les-tokens-le-nouveau-petrole-que-vous-brulez-sans-le-savoir",
+      "pubDate": "2026-06-09T14:50:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "39332e5e2eea",
+      "title": "Améliorer la maintenance de vos workflows GitHub",
+      "description": "Les failles de sécurité liées à la supply chain sont de plus en plus courantes. En tant que mainteneur d'un projet open source populaire, l'enjeu est de taille. Votre code est déployé sur de nombreux serveurs de production et postes de développeurs. Il est donc crucial de garder vos pipelines CI à jour et sécurisés. Le projet open source qui nous importe aujourd'hui est Castor 🦫, que nous vous invitons à découvrir. Pour nous aider dans cette tâche, nous avons choisi zizmor. C'est un outil…",
+      "link": "https://jolicode.com/blog/ameliorer-la-maintenance-de-vos-workflows-github",
+      "pubDate": "2026-06-09T09:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5c2002a25ac5",
+      "title": "Etat du ecommerce B2B en 2026",
+      "description": "Le rapport de Commerce B2B et Novatize sur le e-commerce B2B révèle que 71% des entreprises génèrent une part significative de leur chiffre d’affaires en ligne, mais 78% critiquent leur technologie actuelle. Les défis incluent la personnalisation, l'intégration des systèmes et le manque de compétences. L'investissement en IA augmente avec un besoin d'approche stratégique. L’article Etat du ecommerce B2B en 2026 est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/09/etat-du-ecommerce-b2b-en-2026/",
+      "pubDate": "2026-06-09T06:14:16.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7d288d56574f",
+      "title": "FinOps: comment économiser 100 000 $/an en ouvrant simplement AWS Cost Explorer",
+      "description": "REX FinOps : en ouvrant AWS Cost Explorer sur un data lake à 6 500 $/mois, trois anomalies apparaissent. AWS KMS à 4 000 $/mois, des licences fantômes pour des développeurs partis, 10 pipelines CI/CD redondantes. Optimisation des coûts cloud : 100 000 $ d'économies annuelles. Sans outil, sans migration. Juste de la curiosité. Checklist incluse.",
+      "link": "https://blog.octo.com/finops-comment-economiser-100-000-dollaran-en-ouvrant-simplement-aws-cost-explorer",
+      "pubDate": "2026-06-09T05:52:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1f921a168e46",
       "title": "Mistral AI NOW Summit : Entre ambitions technologiques et réalités d'adoption en entreprise",
       "description": "Au AI Now Summit 2026, Mistral a présenté une vision ambitieuse de l’IA industrielle : maîtrise de l’infrastructure, modèles spécialisés, agents outillés et souveraineté des données. Derrière la vitrine, une conférence utile pour lire les vrais enjeux d’adoption de l’IA en entreprise.",

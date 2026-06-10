@@ -2,6 +2,155 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "2c75c8c6918e",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "description": "If Claude Fable stops helping you, you&#x27;ll never know Jonathon Ready highlights one of the more eyebrow-raising details from the 319 page system card for Fable 5 and Mythos 5. Here's a longer excerpt, highlights mine: In light of the ability of recent models to accelerate their own development, we’ve implemented new interventions that limit Claude’s effectiveness for requests targeting frontier LLM development (for example, on building pretraining pipelines, distributed training…",
+      "link": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
+      "pubDate": "2026-06-10T00:37:25.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d55ae15e9c8b",
+      "title": "Initial impressions of Claude Fable 5",
+      "description": "I didn't have early access to today's Claude Fable 5 release, but I've spent the past ~5.5 hours putting it through its paces. My initial impressions are that this is something of a beast. It's slow, expensive and has been quite happily churning through everything I've thrown at it so far. As is frequently the case with current frontier models the challenge is finding tasks that it can't do. First, let's review the key characteristics. Anthropic claim that Claude Fable 5 offers the same…",
+      "link": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
+      "pubDate": "2026-06-09T23:59:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b858d4c26026",
+      "title": "Loop Engineering: Design the System That Prompts Agents",
+      "description": "...explained visually.",
+      "link": "https://blog.dailydoseofds.com/p/loop-engineering-design-the-system",
+      "pubDate": "2026-06-09T23:00:30.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!I3rp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd33db013-4351-41b3-84aa-a7ab624d54b6_1500x1000.png",
+      "type": "blog"
+    },
+    {
+      "id": "52e0bd5fb8e8",
+      "title": "llm 0.32a3",
+      "description": "Release: llm 0.32a3 Almost entirely written by the new Claude Fable 5, see my write-up for more details. Tags: projects, ai, generative-ai, llms, llm, claude-mythos",
+      "link": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
+      "pubDate": "2026-06-09T22:27:03.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "59e59710aa0c",
+      "title": "Setting a custom price for a model in AgentsView",
+      "description": "TIL: Setting a custom price for a model in AgentsView I've been really enjoying AgentsView by Wes McKinney as a tool for exploring my token usage across different coding agents running on my laptop. Claude Fable 5 came out today and wasn't yet included in the pricing database AgentsView uses. I used Fable to reverse-engineer AgentsView and figured out this recipe for setting custom prices. Here's my Claude Fable 5 usage for today so far, plotted by AgentsView as a treemap across my different…",
+      "link": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
+      "pubDate": "2026-06-09T21:35:31.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0ade92ad303b",
+      "title": "npm Tooling Bug Incorrectly Marks One-Character Packages as Security Holders",
+      "description": "npm incorrectly applied security-holder metadata to multiple one-character packages, including letters, numbers, and the - package. Socket reviewed public npm registry metadata and found several affected packages had been assigned 0.0.1-security or 0.0.1-security.0 versions, with the latest dist-tag moved to the security placeholder. Older package versions remained available. npm confirmed the markings were not intentional and that they are working on rolling it back. “This happened due to a…",
+      "link": "https://socket.dev/blog/npm-tooling-single-character-bug?utm_medium=feed",
+      "pubDate": "2026-06-09T21:06:24.032Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f8a2baf589fa",
+      "title": "Quoting Andrej Karpathy",
+      "description": "I feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything - explainers, visualizers, dashboards, bespoke single-use apps (e.g. a full wandb that is hyper-specific just for your project), you can 10X your test suite, auto-optimize code, run giant research projects with custom HTML for the results, anything! \"Free your mind\" (Matrix ref). &mdash; Andrej…",
+      "link": "https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything",
+      "pubDate": "2026-06-09T19:03:10.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "34465a7fd70b",
+      "title": "SymfonyOnline June 2026: Reconfiguring Symfony​ in real time​ with sidekicks",
+      "description": "To wrap up an amazing lineup, SymfonyOnline June 2026 will stream its final expert sessions live online on June 12, 2026. 🎤 Speaker announcement! Don't miss Nicolas Grekas for the talk \"Reconfiguring Symfony in real time with sidekicks\": \"PHP was…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-reconfiguring-symfony-in-real-time-with-sidekicks?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-09T13:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "967f6ba544ba",
+      "title": "Logging is here!",
+      "description": "Flare now supports log collection for Laravel and PHP apps, with real-time filtering and search in the same polished interface. A nice overview of what logging adds and how to get started with the new SDK release. Read more",
+      "link": "https://freek.dev/3147-logging-is-here",
+      "pubDate": "2026-06-09T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "14a365e49944",
+      "title": "Help Shape the Future of PHP: Take the State of PHP Survey",
+      "description": "PHP is powered by a global community of developers, maintainers, contributors, companies, and users. To better understand that community and the ecosystem around it, The PHP Foundation and PhpStorm, a JetBrains IDE, are launching the first annual State of PHP survey. This survey is an effort to build a clearer picture of how PHP is used today: who is using it, which tools and frameworks developers rely on, what challenges they face, how they feel about the language, and where they see PHP going…",
+      "link": "https://thephp.foundation/blog/2026/06/09/help-shape-the-future-of-php/",
+      "pubDate": "2026-06-09T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://thephp.foundation/assets/post-images/2026/state-of-php-survey/banner.png",
+      "type": "blog"
+    },
+    {
       "id": "3372d8953b31",
       "title": "Siri AI at WWDC 2026",
       "description": "Given how badly burned anyone who took Apple's 2024 WWDC Apple Intelligence announcements at face value was, I'm holding to a strict \"I'll believe it when I see it\" policy for everything they announced today. The new Siri AI features do at least look feasible with today's technology, especially since Apple are licensing a custom Gemini-derived model that they can run on their own Private Cloud Compute. It sounds like they'll be taking advantage of vision LLMs to extract information from the…",
