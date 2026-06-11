@@ -2,6 +2,154 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "2c271f070310",
+      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+      "description": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude Big scoop for Maxwell Zeff at Wired: “We’re changing Fable 5’s safeguards for frontier LLM development to make them visible.” Anthropic said in a statement to WIRED. “We made the wrong tradeoff and we apologize for not getting the balance right.” There's been a huge outcry about Anthropic's policy, tucked away in their system card, that Claude Fable/Mythos would identify \"requests targeting frontier LLM…",
+      "link": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+      "pubDate": "2026-06-11T03:45:49.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "189701182923",
+      "title": "datasette-agent 0.2a0",
+      "description": "Release: datasette-agent 0.2a0 Highlights from the release notes: Tools can now ask the user questions mid-execution. Tools that declare a context parameter receive a ToolContext object, and await context.ask_user(...) can ask a yes/no, multiple-choice (options=[...]) or free-text (free_text=True) question. While a question is unanswered the agent turn suspends: the question renders as a form in the chat UI and persists to the internal database, so suspended conversations survive a server…",
+      "link": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+      "pubDate": "2026-06-10T23:57:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "913f30f7bf97",
+      "title": "Training an LLM to Generate Reliable Structured Output",
+      "description": "Full RL pipeline, explained with hands-on code.",
+      "link": "https://blog.dailydoseofds.com/p/training-an-llm-to-generate-reliable",
+      "pubDate": "2026-06-10T20:42:39.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!xUmH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc169b938-94ce-4965-9e9c-e8470c0a2e61_680x648.png",
+      "type": "blog"
+    },
+    {
+      "id": "3d4a7307aba1",
+      "title": "DiffusionGemma",
+      "description": "DiffusionGemma Last May Google briefly released an experimental Gemini Diffusion model. I tried the preview at the time and recorded it running at 857 tokens/second. It was an exciting model, but Google made no further announcements about it. That research has returned in the best possible way: as a new open weight (Apache 2 licensed) Gemma model, google/diffusiongemma-26B-A4B-it. NVIDIA are currently hosting the model for free on their NIM cloud API. I used that API to generate this pelican,…",
+      "link": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
+      "pubDate": "2026-06-10T20:00:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "506123b550f1",
+      "title": "Socket Partners with Replit to Block Malicious Packages in AI-Powered Development",
+      "description": "The way software gets built is changing fast. Developers are no longer the only ones choosing dependencies. AI agents can now recommend, install, and wire open source packages into applications as part of the build process. Replit is at the center of that shift, giving millions of builders a faster path from idea to working software. As more of that work happens inside AI-powered workflows, dependency security has to move closer to the moment packages are selected and installed. Socket Firewall…",
+      "link": "https://socket.dev/blog/socket-partners-with-replit-to-block-malicious-packages?utm_medium=feed",
+      "pubDate": "2026-06-10T17:18:53.637Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/5735d6bafaae11a88a617e4ce4b0d3670946460c-1328x566.jpg?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "09a27dac6ab9",
+      "title": "Quoting Jeremy Howard",
+      "description": "Easy solution to slow down recursive AI self improvement: The lab with the top-ranked model must agree THEY must not use it for working on frontier AI But everyone else should have access to it. By definition, this means the frontier doesn't advance. It also has the critical benefit of avoiding a dangerous power imbalance. Anthropic has chosen the opposite of the safe path: they are allowing themselves, the current top lab, to use their top model for frontier AI research. They've said they'll…",
+      "link": "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything",
+      "pubDate": "2026-06-10T15:23:34.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6756a9f386be",
+      "title": "More time to think",
+      "description": "Matthias writes that AI has shifted more of software development from typing to thinking, reviewing, and iterating. Nice reflection on how agentic coding, parallel worktrees, and voice dictation can slow individual features down while still increasing overall output. Read more",
+      "link": "https://freek.dev/3135-more-time-to-think",
+      "pubDate": "2026-06-10T12:30:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0549e53b369d",
+      "title": "The PM’s Playbook for Shipping AI Features That Actually Work in Production",
+      "description": "The demo to production Death Valley If you’ve worked on an AI feature, you know the feeling. You start building something that you are excited about, set launch timelines. The model spits out a perfect response, the prototype works magically, and everybody in the room is mentally calculating how big this product will be when […]",
+      "link": "https://www.oreilly.com/radar/the-pms-playbook-for-shipping-ai-features-that-actually-work-in-production/",
+      "pubDate": "2026-06-10T10:55:56.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9452b61f1227",
+      "title": "Case Study: TreeHouse - Servicing the rental real estate market with Symfony",
+      "description": ".cls-1{fill:currentColor;}.cls-2{fill:#63af5e;}.cls-3{fill:#2e854a;} TreeHouse powers two of the largest real estate marketplaces in the Netherlands: huurwoningen.nl and pararius.nl. Both sites host over 2 million unique monthly visitors. Treehouse is…",
+      "link": "https://symfony.com/blog/case-study-treehouse-servicing-the-rental-real-estate-market-with-symfony?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-10T09:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0b6586621719",
+      "title": "New in Symfony 8.1: DX Improvements (Part 1)",
+      "description": "Every Symfony release ships dozens of small developer experience (DX) improvements that make day-to-day work more pleasant. This article highlights some of those improvements in Symfony 8.1. Copy Requests as cURL Commands…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-dx-improvements-part-1?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-10T06:35:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/darkweak.picture",
+      "type": "blog"
+    },
+    {
       "id": "2c75c8c6918e",
       "title": "If Claude Fable stops helping you, you'll never know",
       "description": "If Claude Fable stops helping you, you&#x27;ll never know Jonathon Ready highlights one of the more eyebrow-raising details from the 319 page system card for Fable 5 and Mythos 5. Here's a longer excerpt, highlights mine: In light of the ability of recent models to accelerate their own development, we’ve implemented new interventions that limit Claude’s effectiveness for requests targeting frontier LLM development (for example, on building pretraining pipelines, distributed training…",
@@ -131,6 +279,20 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "677c3ce706f7",
+      "title": "The Subsidy Ended: What Tool-Using Agents Actually Cost",
+      "description": "On June 1, GitHub Copilot’s usage-based billing became active for all Copilot plans, and developers reacted quickly and loudly. A Pro plan still costs $10, but it now comes with a monthly pool of AI credits. Those credits are priced at a penny each, and they’re consumed according to the model used and the tokens […]",
+      "link": "https://www.oreilly.com/radar/the-subsidy-ended-what-tool-using-agents-actually-cost/",
+      "pubDate": "2026-06-09T11:09:17.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
       ],
       "image": null,
       "type": "blog"

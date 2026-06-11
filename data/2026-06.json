@@ -2,6 +2,68 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "a091a74c43c3",
+      "title": "Let’s Encrypt c’est cool, mais il est seul au monde",
+      "description": "Ça fait plusieurs fois que je vois passer voire que je participe à des discussions sur les alternatives au service ultra-populaire maintenu par l’Internet Security [...]",
+      "link": "https://blog.seboss666.info/2026/06/lets-encrypt-cest-cool-mais-il-est-seul-au-monde/",
+      "pubDate": "2026-06-10T16:09:45.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2015/12/letsencrypt-logo-horizontal.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9383550fcdc9",
+      "title": "Vente complexe en B2B : quel content marketing pour alimenter le commercial ?",
+      "description": "Cet article souligne l'importance d'une collaboration étroite entre le content marketing et les équipes commerciales. Souvent désalignés, ces deux domaines devraient travailler ensemble pour optimiser les outils de vente et répondre aux besoins des clients. Les contenus courts, vidéos et webinaires sont privilégiés pour susciter l'engagement et soutenir les commerciaux dans leur processus de vente. L’article Vente complexe en B2B : quel content marketing pour alimenter le commercial ? est…",
+      "link": "https://oliviersauvage.com/2026/06/10/vente-complexe-en-b2b-quel-content-marketing-pour-alimenter-le-commercial/",
+      "pubDate": "2026-06-10T13:07:05.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b61b5db27e9e",
+      "title": "Comment utiliser les attributs PHP sur un contrôleur Symfony ?",
+      "description": "PHP 8.0 a introduit les attributs, et c'est une excellente fonctionnalité ! Le code devient plus lisible, plus simple à écrire, et bénéficie pleinement de la coloration syntaxique et du linting de notre IDE. Symfony a très vite adopté cette nouveauté. On les utilise aujourd'hui partout : pour configurer les routes, ajouter des contraintes de validation ou déclarer des listeners. Dans cet article, nous allons voir comment créer et ajouter un attribut PHP personnalisé sur un contrôleur pour lui…",
+      "link": "https://jolicode.com/blog/comment-utiliser-les-attributs-php-sur-un-controleur-symfony",
+      "pubDate": "2026-06-10T12:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6197946fdbc1",
+      "title": "Bulle IA ou Révolution industrielle",
+      "description": "L'année 2026 s'impose déjà comme un jalon historique. Elle marque le moment où l'intelligence artificielle a définitivement quitté le statut de simple innovation technologique pour devenir l'un des principaux moteurs de transformation de nos sociétés, de nos économies et de nos organisations.",
+      "link": "https://blog.octo.com/octo-article-de-blog-24",
+      "pubDate": "2026-06-10T11:43:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "68e5b320bb69",
       "title": "#360.src - Docker Sandbox: Sécuriser les agents IA sans ralentir les devs avec Guillaume Lours",
       "description": "\"C'est important que je comprenne le code qui a été généré.\" Le D.E.V. de la semaine est Guillaume Lours, Software Engineer chez Docker. Avec lui, on plonge dans les coulisses de Docker Sandbox, cette solution pensée pour sécuriser l'automatisation et l'exécution de code par IA. Guillaume nous explique comment limiter les risques sans sacrifier l'efficacité, et détaille l'architecture technique : micro VM légère, man-in-the-middle pour la gestion des credentials, profils de sécurité…",
@@ -18,6 +80,23 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/110eddef-3813-4e0b-bcb0-1ee20cd72937.mp3?_=1781006488",
       "duration": "01:02:32"
+    },
+    {
+      "id": "7c7467dc06c5",
+      "title": "L'IA pollue. L'IA optimise. Et si la vraie question était ailleurs ?",
+      "description": "En une seule matinée, une IA nous a aidés à économiser l'équivalent du tour de la Terre en trajets de camions. On répète partout que l'IA pollue. C'est vrai. Mais alors, comment on tient les deux bouts ?",
+      "link": "https://yoandev.co/ia-pollue-ia-optimise",
+      "pubDate": "2026-06-10T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/algo-camion-ia.webp",
+      "type": "blog"
     },
     {
       "id": "723abfd0e7fb",
