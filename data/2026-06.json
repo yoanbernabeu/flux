@@ -2,6 +2,151 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "0cfc04bf5d19",
+      "title": "#311.exe - IA Agentique: IAutonomie numérique par Thomas Pierrain",
+      "description": "Pour l'épisode #311 je recevais Samy Lastmann. On en débrief avec Thomas. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-311-d17e66dbd229",
+      "pubDate": "2026-06-12T03:00:24.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/311ca887-218b-47c9-a68b-d17e66dbd229.mp3?_=1781179284",
+      "duration": "13:21"
+    },
+    {
+      "id": "fdf9201b7223",
+      "title": "Notre journée au FLUPA UX Days 2026 : le métier de designer a encore de l'avenir !",
+      "description": "Nous étions aux Flupa UX Days 2026, la conférence à ne pas manquer pour les designers français ! Cette année, le fil conducteur de l'édition parisienne était : « Concevoir, c'est choisir en conscience ». Une question à la hauteur des enjeux que rencontre notre profession actuellement, bousculée par l’irruption de l’IA générative.",
+      "link": "https://blog.octo.com/notre-journee-au-flupa-ux-days-2026--le-metier-de-designer-a-encore-de-l'avenir-!",
+      "pubDate": "2026-06-11T16:32:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3e16917b8c95",
+      "title": "Créer ton premier agent IA avec LangChain : Cours complet pour débutants",
+      "description": "Dans ce cours complet pour débutant, tu vas apprendre à créer ton premier agent IA avec LangChain en Python, étape par étape. On va partir des bases : comprendre ce qu’est un agent IA, comment LangChain fonctionne, comment connecter un modèle de langage, ajouter des tools, exécuter un agent et récupérer sa réponse proprement dans ton code. L'objectif est simple : te montrer concrètement comment construire un agent IA capable d’utiliser des fonctions, de raisonner sur une demande utilisateur et…",
+      "link": "https://www.youtube.com/watch?v=p9uBCprzYUU",
+      "pubDate": "2026-06-11T15:00:33.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/p9uBCprzYUU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "p9uBCprzYUU"
+    },
+    {
+      "id": "b6b1d9cd1b54",
+      "title": "DAT4 : une machine à voyager dans le temps pour l'ingénieur data",
+      "description": "Présentation d'un framework de data engineering d'un client d'Octo démontrant des principes intéressants ( and quot;Window-aware pipeline and quot;) pour faciliter leur gestion et leur monitoring",
+      "link": "https://blog.octo.com/octo-dat4--une-machine-a-voyager-dans-le-temps-pour-l'ingenieur-data",
+      "pubDate": "2026-06-11T14:31:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "62d71145fd6e",
+      "title": "N'aie pas peur de douter par Jules Pietri",
+      "description": "Avoir des doutes, traverser des périodes difficiles, ce n'est pas une faiblesse. C'est souvent dans ces moments-là qu'on apprend le plus sur nous-mêmes. Chaque épreuve est une expérience qui nous fait grandir. L'important est de rester fidèle à soi-même, de continuer à avancer et de ne jamais perdre son authenticité.",
+      "link": "https://www.youtube.com/watch?v=0MOMe_Twugk",
+      "pubDate": "2026-06-11T09:07:41.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/0MOMe_Twugk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "0MOMe_Twugk"
+    },
+    {
+      "id": "25c713f67cbd",
+      "title": "GenAIRennes HackMyLife 2026",
+      "description": "HackMyLife Rennes 5 et 6 Juin 2026 https://hack-my-life.fr/ 1er Hackathon rennais avec la team Generative AI Rennes",
+      "link": "https://www.youtube.com/watch?v=xKLi2cYZ-Fw",
+      "pubDate": "2026-06-11T08:11:09.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/xKLi2cYZ-Fw/hqdefault.jpg",
+      "type": "youtube",
+      "videoId": "xKLi2cYZ-Fw"
+    },
+    {
+      "id": "1fc5f14e46f5",
+      "title": "Entretien avec Yann Gourvennec : comment l’ABM concilie commerce et marketing pour les PME en B2B",
+      "description": "Le marketing B2B est confronté à un besoin urgent de réévaluation. Yann Gourvennec souligne que l'ancien modèle de l'entonnoir de vente est obsolète et que l'Account-Based Marketing (ABM) est indispensable. L'accent doit être mis sur la qualité des leads et le développement de relations significatives plutôt que sur la quantité. L’article Entretien avec Yann Gourvennec : comment l’ABM concilie commerce et marketing pour les PME en B2B est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/11/entretien-avec-yann-gourvennec-comment-labm-concilie-commerce-et-marketing-pour-les-pme-en-b2b/",
+      "pubDate": "2026-06-11T07:56:24.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a5451db01738",
+      "title": "Software development  and  IA : qu'est ce que l'IA générative peut apporter à un PO au sein d’une équipe agile ?",
+      "description": "L'AI pour un PO accéléré : l’IA joue un rôle d’assistant (optimisation) et facilite son travail qu’il a l’habitude de faire Le PO augmenté : le PO profite de nouvelles possibilités auparavant impossibles car trop complexes ou trop lourdes à mettre en oeuvre.",
+      "link": "https://blog.octo.com/software-development-and-ia--qu'est-ce-que-l'ia-generative-peut-apporter-a-un-po-au-sein-d'une-equipe-agile",
+      "pubDate": "2026-06-11T07:22:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "67bf41b715eb",
+      "title": "RAID 1 avec deux disques sous Debian 13",
+      "description": "RAID 1 avec deux disques sous Debian 13 {align=right} Le RAID 1 ou mirroring fait partie des solutions qui augmentent considérablement la sécurité des données. Avec une telle configuration, tous les fichiers sont automatiquement dupliqués sur plusieurs disques durs. Cette opération se fait de manière complètement transparente sous le capot. Si jamais l'un des disques lâche, le système reste fonctionnel avec le disque restant.",
+      "link": "https://www.microlinux.fr/blog/debian-13-raid1/",
+      "pubDate": "2026-06-11T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/raid.png",
+      "type": "blog"
+    },
+    {
       "id": "a091a74c43c3",
       "title": "Let’s Encrypt c’est cool, mais il est seul au monde",
       "description": "Ça fait plusieurs fois que je vois passer voire que je participe à des discussions sur les alternatives au service ultra-populaire maintenu par l’Internet Security [...]",

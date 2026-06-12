@@ -2,6 +2,154 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "9c5282c4cb58",
+      "title": "The PHP Podcast 2026.06.11",
+      "description": "🎙️ PHP Podcast – June 11, 2026 Guest Hosts: Sara Golemon, Elizabeth Barron & Holly Schilling Eric and John are out this week — Sara, Elizabeth, and Holly take over. Here’s what they covered: 🎬 PHPVerse Recap PHPVerse just wrapped up, and Elizabeth was there in Amsterdam. The format is unusual — all speakers are […] The post The PHP Podcast 2026.06.11 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-06-11/",
+      "pubDate": "2026-06-11T23:55:34.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/06/PHP-Podcast-Team-Joe-and-Sara-1920x1005-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "c9ab8f8aa14f",
+      "title": "Claude Fable is relentlessly proactive",
+      "description": "After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive. It knows a whole lot of tricks and it will deploy pretty much any of them to get to its goal. I'll illustrate this with an example. I was hacking on Datasette Agent today when I noticed a glitch: a horizontal scrollbar that shouldn't be there in the jump menu chat prompt. I snapped this screenshot: Then I started a fresh claude session in my datasette-agent checkout, dragged in the…",
+      "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+      "pubDate": "2026-06-11T23:35:17.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9fc6a4cf40bd",
+      "title": "The 8 Layer Engineering Behind a Production AI Systems",
+      "description": "The full map of what the role now spans, and where to go deep on each layer.",
+      "link": "https://blog.dailydoseofds.com/p/the-8-layer-engineering-behind-a",
+      "pubDate": "2026-06-11T21:04:41.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!PFlr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d7650b7-a210-4dd8-950d-301b7b5ba7aa_1450x1450.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "44e157345bf3",
+      "title": "Andrew Becherer Joins Socket as Chief Information Security Officer",
+      "description": "AI now writes as much as 90% of code at top engineering organizations, and the developers downstream of that code pull in open source they've never reviewed. Package hijackings and maintainer compromises that were once a handful of incidents a year now happen weekly. Modern engineering organizations depend on open source to ship faster, and they need security partners who can keep pace with that shift. Today, we're welcoming Andrew Becherer as Socket's first Chief Information Security Officer.…",
+      "link": "https://socket.dev/blog/andrew-becherer-socket-ciso?utm_medium=feed",
+      "pubDate": "2026-06-11T16:36:10.264Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a881d742ed8",
+      "title": "datasette 1.0a33",
+      "description": "Release: datasette 1.0a33 This alpha is a significant step on the road to a stable 1.0, finally extending the ?_extra= pattern I introduced in Datasette 1.0a3 to cover queries and rows in addition to tables. That pattern is also now documented! I wrote a whole lot more about the new release on the Datasette project blog: Datasette 1.0a33 with JSON extras in the API. Because API explorer tools are almost free to build now I had Claude Fable 5 in Claude Code (for the plan) and GPT-5.5 xhigh in…",
+      "link": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+      "pubDate": "2026-06-11T15:26:49.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac4f6d9cf76a",
+      "title": "Prompt-Injection Guardrails in Laravel: Defend the Tools, Not the Prompt",
+      "description": "You can't out-prompt an attacker — to the model, your system instructions and a malicious support ticket are the same text. So stop defending the prompt and lock down the boundaries you actually control: tools scoped to the authenticated user server-side, middleware that screens and logs, output handled as untrusted input, a human in front of anything irreversible, and a fake-free test that fails CI the moment someone drops the auth scope. Read more",
+      "link": "https://freek.dev/3136-prompt-injection-guardrails-in-laravel-defend-the-tools-not-the-prompt",
+      "pubDate": "2026-06-11T12:10:30.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6b597a112099",
+      "title": "New in Twig 4.0: A New for Loop for Twig 4.0",
+      "description": "Contributed by Fabien Potencier in #4131 ,…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-a-new-for-loop-for-twig-4-0?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-11T11:05:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/fabpot.png",
+      "type": "blog"
+    },
+    {
+      "id": "ba5683a794ff",
+      "title": "When Context Collapses: Teaching Agents to Detect and Recover from Lost Memory",
+      "description": "This is the eighth article in a series on agentic engineering and AI-driven development. Read part one here, part two here, part three here, part four here, part five here, part six here, and part seven here. “640K ought to be enough for anybody.”—Bill Gates (allegedly) If you’re building AI agents that do complex, multistep work, you’re going to run into context […]",
+      "link": "https://www.oreilly.com/radar/when-context-collapses-teaching-agents-to-detect-and-recover-from-lost-memory/",
+      "pubDate": "2026-06-11T10:59:13.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/06/image-12-1600x1225.png",
+      "type": "blog"
+    },
+    {
+      "id": "252bd5e52db1",
+      "title": "New in Symfony 8.1: DX Improvements (Part 2)",
+      "description": "Symfony 8.1 includes many small features and improvements across different components. This is the second article in the series that highlights some of the most useful DX (developer experience) improvements. Map Request Headers to Controller Arguments…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-dx-improvements-part-2?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-11T07:15:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/steven_renaux.picture",
+      "type": "blog"
+    },
+    {
+      "id": "536f0422115f",
+      "title": "asyncinject 0.7",
+      "description": "Release: asyncinject 0.7 I built this utility library to support an asyncio dependency injection pattern a few years ago. I was using it with Datasette and Claude Fable 5 spotted some bugs in the dependency which it then fixed for me. It's a very proactive model! Tags: async, projects, python, claude-mythos",
+      "link": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
+      "pubDate": "2026-06-11T06:28:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2c271f070310",
       "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
       "description": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude Big scoop for Maxwell Zeff at Wired: “We’re changing Fable 5’s safeguards for frontier LLM development to make them visible.” Anthropic said in a statement to WIRED. “We made the wrong tradeoff and we apologize for not getting the balance right.” There's been a huge outcry about Anthropic's policy, tucked away in their system card, that Claude Fable/Mythos would identify \"requests targeting frontier LLM…",
@@ -12,6 +160,21 @@
       "categories": [
         "IA",
         "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d983bdc161b",
+      "title": "Integrating Community Feedback into Foundation Strategy Part 2",
+      "description": "In April 2026, during the first weeks of my tenure as Executive Director, I conducted a listening tour with around 60 people from 18 countries spanning every part of the PHP ecosystem (see Integrating Community Feedback into Foundation Strategy: Part 1). Since then, I have continued to listen and connect with those of you in the community who have something to share. The themes that have surfaced are clear, consistent, and actionable. This document outlines how the PHP Foundation will respond…",
+      "link": "https://thephp.foundation/blog/2026/06/11/integrating-community-feedback-into-foundation-strategy-part2/",
+      "pubDate": "2026-06-11T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
