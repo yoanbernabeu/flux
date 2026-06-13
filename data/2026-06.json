@@ -2,6 +2,124 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e2f745a16878",
+      "title": "Tech Ready 2026 : l’IA en production, vue de l’intérieur",
+      "description": "Tech Ready 2026 _ l'IA en production, vue de l'intérieur",
+      "link": "https://blog.zenika.com/2026/06/12/tech-ready-2026-lia-en-production-vue-de-linterieur/",
+      "pubDate": "2026-06-12T15:27:40.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/06/1-survey.jpg?resize=800%2C600&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "14befaba115d",
+      "title": "Retour sur le Google Cloud Summit 2026 ⛅",
+      "description": "Le jeudi 4 juin, l’Accor Arena de Bercy recevait le Google Cloud Summit Paris. Près de 4 000 personnes, des",
+      "link": "https://blog.zenika.com/2026/06/12/retour-sur-le-google-cloud-summit-2026-%e2%9b%85/",
+      "pubDate": "2026-06-12T14:18:38.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/jeanphi-baconnais.gitlab.io/img/26-cloud-summit/2-stand-zenika.png?w=800&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "ef10c1b1b126",
+      "title": "Chrome veut désorganiser l'HTML !",
+      "description": "🔗 Article : https://grafikart.fr/blog/html-partial-update Le streaming HTML permet déjà au navigateur d'afficher une page progressivement au fil du chargement du document. Le problème, c'est que ce flux reste linéaire : si un bloc au milieu de la page met du temps à être généré, tout ce qui arrive après est bloqué. Chrome expérimente une nouvelle approche avec le Declarative partial update, qui permet d'injecter des morceaux d'HTML à des emplacements précis et ainsi de charger la page dans le…",
+      "link": "https://www.youtube.com/watch?v=-HEaHhWmGG8",
+      "pubDate": "2026-06-12T12:58:55.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/-HEaHhWmGG8/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "-HEaHhWmGG8"
+    },
+    {
+      "id": "00ef61babc41",
+      "title": "Pourquoi moins de trafic renvoyé par Google n’est pas une mauvaise nouvelle",
+      "description": "Depuis dix ans, Google réduit le trafic vers les sites web pour garder les utilisateurs sur ses services. Cette tendance, accentuée par l'IA, modifie les stratégies de communication et de SEO. Les entreprises doivent offrir des services en ligne et produire un contenu unique pour attirer un trafic plus qualifié, basé sur l'intention. L’article Pourquoi moins de trafic renvoyé par Google n’est pas une mauvaise nouvelle est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/12/pourquoi-moins-de-trafic-renvoye-par-google-nest-pas-une-mauvaise-nouvelle/",
+      "pubDate": "2026-06-12T08:01:03.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "de35801a8a2b",
+      "title": "Coder avec un LLM sans coder à sa place — Rémi Forax sur LazyLR",
+      "description": "Rémi Forax, maître de conférences à l'Université Gustave Eiffel et membre d'OpenJDK, raconte pour le Studio Devoxx France comment il a codé LazyLR, sa lib de parsing de grammaire, avec un LLM, sans renoncer au design. Dans cette conversation, il défend une approche bottom-up : \"le LLM doit faire toute l'équipe autour du chirurgien\". Pas de vibe coding, du TDD, des blueprints en code, un contexte taillé court pour empêcher le modèle de dériver. Et un retour cash sur ce que les LLM cassent dans…",
+      "link": "https://www.youtube.com/watch?v=cBXFOK6Cwy0",
+      "pubDate": "2026-06-12T07:52:49.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/cBXFOK6Cwy0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "cBXFOK6Cwy0"
+    },
+    {
+      "id": "95a0904623cf",
+      "title": "Souveraineté numérique : ce qu’en disent les experts OCTO.",
+      "description": "La souveraineté numérique n’est plus un concept abstrait. Elle s’impose désormais comme une préoccupation stratégique pour les organisations, dans un contexte où les tensions géopolitiques, les dépendances technologiques et les risques systémiques se multiplient.Pour comprendre comment ce sujet est vécu sur le terrain, j’ai posé quatre questions.",
+      "link": "https://blog.octo.com/octo-souverainete-numerique--ce-qu'en-disent-les-experts-octo.",
+      "pubDate": "2026-06-12T07:40:39.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "97d6c493ce32",
+      "title": "MACI #160 - Asynconf, Nostr et open source - Avec Graven",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on accueille Lorenzo Cacciato, alias Graven, pour parler d’Asynconf, de création de contenu tech, de transmission et de ce que signifie organiser une conférence pour développeurs aujourd’hui. L’occasion de revenir sur son parcours, sur la place des communautés dans l’écosystème logiciel, et sur les formats qui permettent de rendre la tech plus accessible. Et puis, comme à notre habitude, la discussion va vite s’étendre… de Nostr aux…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-160-asynconf-nostr-et-open-source-avec-graven",
+      "pubDate": "2026-06-12T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/7JyRStZqLR7tTQ9MFodxvTpWyTN0BtysmdCOLQAq_1400x1400.jpeg?t=1780930047",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/blL81uqxE6qb.mp3?t=1780929321",
+      "duration": "1:05:55"
+    },
+    {
       "id": "0cfc04bf5d19",
       "title": "#311.exe - IA Agentique: IAutonomie numérique par Thomas Pierrain",
       "description": "Pour l'épisode #311 je recevais Samy Lastmann. On en débrief avec Thomas. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
@@ -18,6 +136,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/311ca887-218b-47c9-a68b-d17e66dbd229.mp3?_=1781179284",
       "duration": "13:21"
+    },
+    {
+      "id": "62aaa3fd0cea",
+      "title": "L'IA génère, mais les fondamentaux restent",
+      "description": "Nous sommes à l’ère de la génération de code. L’IA génère dorénavant du code à une vitesse impressionnante. Avec elle, apparaissent des revues de code parfois massives, à plusieurs centaines, voire plusieurs milliers de changements. Puisque générer du code est dorénavant rapide, nombreux sont ceux qui produisent des fonctionnalités entières d’un seul coup. Pour suivre la cadence, les revues commencent à être effectuées et validées par d’autres IA. Il est effectivement humainement difficile,…",
+      "link": "https://www.jdecool.fr/blog/2026/06/12/l-ia-genere-mais-les-fondamentaux-restent.html",
+      "pubDate": "2026-06-11T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "fdf9201b7223",

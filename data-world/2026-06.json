@@ -2,6 +2,124 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e464b7a63a6a",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "description": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5 Well this is nuts: The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to…",
+      "link": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
+      "pubDate": "2026-06-13T01:01:50.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b761bf6cddfb",
+      "title": "OpenAI WebRTC Audio Session, now with document context",
+      "description": "OpenAI WebRTC Audio Session, now with document context I built the first version of this tool in December 2024 to try out the then-new OpenAI WebRTC API for interacting with their realtime audio models. Last month OpenAI introduced a brand new model to that API called GPT‑Realtime‑2, which they promoted as \"our first voice model with GPT‑5‑class reasoning\" - with a Sep 30, 2024 knowledge cut-off. I've been waiting for that model to show up in the ChatGPT iPhone app but it still hasn't, so I…",
+      "link": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
+      "pubDate": "2026-06-12T23:53:04.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3f4b930510c9",
+      "title": "152 Chrome Live Wallpaper Extensions Hid Ad Tracking and Faked Google Search Traffic",
+      "description": "Socket's Threat Research Team identified a family of 152 Chrome Web Store new-tab \"live wallpaper\" extensions, built from one shared codebase but distributed across 38 separate Chrome Web Store publisher accounts and three brand backends, carrying a combined total of approximately 105,000 reported installs. Every listing declares on the Chrome Web Store that it will not collect or use user data, while the linked privacy policy admits the opposite: that the extensions log IP addresses, ISP,…",
+      "link": "https://socket.dev/blog/152-chrome-live-wallpaper-extensions-hid-ad-tracking?utm_medium=feed",
+      "pubDate": "2026-06-12T22:48:59.354Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/715a5b9ada3831d90270a9bc98d979865e33e992-1500x1120.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "db164f2007d1",
+      "title": "Schema Guided Agent Memory for Production Agents",
+      "description": "Some key lessons on building production-grade memory for Agents.",
+      "link": "https://blog.dailydoseofds.com/p/schema-guided-agent-memory-for-production",
+      "pubDate": "2026-06-12T22:02:39.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!MtIq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea4b3b6c-7988-4c27-9dff-ef3cd3046d9a_916x924.gif",
+      "type": "blog"
+    },
+    {
+      "id": "9fe430793b38",
+      "title": "Quoting Andrew Singleton",
+      "description": "Jenny owns a crematorium. John’s propane company gives her a $20 billion investment in return for 5 percent of her operation. Jenny throws $10 billion into the incinerator, then pays John $10 billion to buy propane to burn that money to ashes. John reports that his AI investments have generated $10 billion in revenue this quarter and that he owns 5 percent of a $100 billion business. A reporter from Forbes is assigned to profile John and Jenny, and over the course of his research, he becomes…",
+      "link": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
+      "pubDate": "2026-06-12T18:09:21.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3e3dbfaa203b",
+      "title": "This Week in AI: The Next-Gen Recommendation Experience",
+      "description": "This week Miguel Fierro, a former Microsoft principal researcher who recently founded his own company, RecoMind, joined data and AI evangelist Christina Stathopoulos to talk about the state of recommendation systems. Christina also ran through the latest AI news she’s been watching, from Anthropic’s continued rise to responsible AI, announcements from Google’s I/O 2026 conference, […]",
+      "link": "https://www.oreilly.com/radar/this-week-in-ai-the-next-gen-recommendation-experience/",
+      "pubDate": "2026-06-12T14:18:19.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aa28838cad5c",
+      "title": "#[RouteParameter] Does Not Bind Your Model",
+      "description": "Michael Dyrynda explains a subtle Laravel gotcha: #[RouteParameter] only reads the current route parameter value, it does not perform implicit model binding. Good reminder that the controller signature still matters when you expect a bound model inside a form request. Read more",
+      "link": "https://freek.dev/3137-routeparameter-does-not-bind-your-model",
+      "pubDate": "2026-06-12T12:30:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0c40e12d7e4b",
+      "title": "New in Symfony 8.1: Misc Improvements (Part 1)",
+      "description": "In addition to the main features announced in previous posts of this series, Symfony 8.1 includes many smaller improvements that make day-to-day work easier. This post highlights the first batch. Convert Between UUIDv7 and UUIDv4…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-misc-improvements-part-1?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-12T09:31:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
       "id": "9c5282c4cb58",
       "title": "The PHP Podcast 2026.06.11",
       "description": "🎙️ PHP Podcast – June 11, 2026 Guest Hosts: Sara Golemon, Elizabeth Barron & Holly Schilling Eric and John are out this week — Sara, Elizabeth, and Holly take over. Here’s what they covered: 🎬 PHPVerse Recap PHPVerse just wrapped up, and Elizabeth was there in Amsterdam. The format is unusual — all speakers are […] The post The PHP Podcast 2026.06.11 appeared first on PHP Architect.",
