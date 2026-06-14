@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "2d0e2a071f47",
+      "title": "Comment je fais du design en tant que dev backend ?",
+      "description": "De Bootstrap en 2011 à Claude Design en 2026, retour sur 15 ans d’évolution du design web et des design systems, vus à travers les yeux d'un dev backend.",
+      "link": "https://eventuallycoding.com/p/comment-je-fais-du-design-en-tant-que-dev-backend",
+      "pubDate": "2026-06-13T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1781337106330-t7giy22.png",
+      "type": "blog"
+    },
+    {
       "id": "e2f745a16878",
       "title": "Tech Ready 2026 : l’IA en production, vue de l’intérieur",
       "description": "Tech Ready 2026 _ l'IA en production, vue de l'intérieur",
