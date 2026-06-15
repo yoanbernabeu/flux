@@ -2,6 +2,80 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "1b38ea10674e",
+      "title": "Quoting Julia Evans",
+      "description": "[...] Instead, I picture a specific person and I just write for them. Often this person is \"me, but 3 years ago\" or a good friend. &mdash; Julia Evans, write for 1 person Tags: writing, julia-evans",
+      "link": "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything",
+      "pubDate": "2026-06-15T02:05:19.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "385d55b855ae",
+      "title": "Why AI hasn’t replaced software engineers, and won’t",
+      "description": "Why AI hasn’t replaced software engineers, and won’t Arvind Narayanan and Sayash Kappor take on the question of AI job losses through the lens of a profession that is uniquely suited to AI disruption - software engineering. In this essay, we argue that there is enough evidence to reject the narrative that once AI capabilities reach a certain threshold, it will cause mass layoffs. Given that this is true even in a sector with very few regulatory barriers, most other professions are likely to be…",
+      "link": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+      "pubDate": "2026-06-14T23:54:11.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7ebc479b5420",
+      "title": "Proximal Policy Optimization in RL",
+      "description": "The full RL nanodegree, covered with implementation.",
+      "link": "https://blog.dailydoseofds.com/p/proximal-policy-optimization-in-rl",
+      "pubDate": "2026-06-14T21:01:23.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!zgqX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d3df8df-a431-4346-b758-ef668c61fbd4_1200x670.png",
+      "type": "blog"
+    },
+    {
+      "id": "60647053ced9",
+      "title": "The ghost domain problem in DNS, and what we're doing about it",
+      "description": "A good write-up on the ghost domain problem in DNS: domains removed from a registry can still appear healthy to uptime checkers because recursive resolvers keep stale delegations warm. The Oh Dear team explains the edge case and how they're tightening their resolver setup to reduce that blind spot. Read more",
+      "link": "https://freek.dev/3139-the-ghost-domain-problem-in-dns-and-what-were-doing-about-it",
+      "pubDate": "2026-06-14T12:30:34.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e5b72c4c2c30",
+      "title": "A Week of Symfony #1015 (June 8–14, 2026)",
+      "description": "This week, we celebrated the SymfonyOnline June 2026 conference. In addition, we published a new case study showcasing how Symfony helps power the rental real estate market. Lastly, we continued publishing articles about new features in Symfony and Twig.…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1015-june-8-14-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-14T07:48:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cce4f131d23b",
       "title": "Publishing WASM wheels to PyPI for use with Pyodide",
       "description": "The Pyodide 314.0 release announcement (via Hacker News) includes news I've been looking forward to for a long time: You can now publish Python packages built for Pyodide (or any Python runtime compatible with the PyEmscripten platform defined in PEP 783) directly to PyPI and install them at runtime. Previously, the Pyodide maintainers had to maintain, build, and host over 300 packages ourselves. This created a significant burden on our maintainers and became a major bottleneck for the…",

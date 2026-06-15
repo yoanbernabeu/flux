@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "08f82545b289",
+      "title": "Liens Tech - Juin 2026",
+      "description": "La sélection du mois : 2FA auto-hébergé, WAF open source, gestion de photos, bibliothèque d'ISO, monitoring de ports et une plateforme de challenges cybersécurité de l'ANSSI.",
+      "link": "https://domopi.eu/liens-tech-juin-2026/",
+      "pubDate": "2026-06-15T05:45:08.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "5d39f251abbc",
+      "title": "Une IA a trouvé les failles que ma QA ne voyait plus",
+      "description": "Une IA a trouvé sur mon site les failles que ma QA ne voyait plus : des garde-fous bien présents, mais qui ne s'exécutaient jamais.",
+      "link": "https://lecodeestdanslepre.fr/billets/une-ia-a-trouve-les-failles-que-ma-qa-ne-voyait-plus",
+      "pubDate": "2026-06-14T13:23:36.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "2d0e2a071f47",
       "title": "Comment je fais du design en tant que dev backend ?",
       "description": "De Bootstrap en 2011 à Claude Design en 2026, retour sur 15 ans d’évolution du design web et des design systems, vus à travers les yeux d'un dev backend.",
