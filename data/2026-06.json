@@ -2,6 +2,82 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "9bd887a4bbe7",
+      "title": "Sensefuel : la solution d’IA qui personnalise la recherche et la découverte produits pour l’e-commerce",
+      "description": "Sensefuel est une plateforme d'intelligence artificielle qui aide les e-commerçants à offrir une expérience d'achat personnalisée et efficace. Elle améliore la recherche, la conversation et les recommandations de produits, augmentant ainsi les taux de conversion. Adaptée à toutes les tailles d'entreprises, elle permet un déploiement rapide et sans code, tout en étant compatible avec les principales solutions e-commerce. L’article Sensefuel : la solution d’IA qui personnalise la recherche et la…",
+      "link": "https://oliviersauvage.com/2026/06/15/sensefuel-la-solution-dia-qui-personnalise-la-recherche-et-la-decouverte-produits-pour-le-commerce/",
+      "pubDate": "2026-06-15T12:02:58.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3535e094ee89",
+      "title": "Comprendre (enfin) les TTY et PTY avec le composant Process de Symfony",
+      "description": "Vous est-il déjà arrivé de lancer une commande (composer, rsync ou une commande Symfony) directement dans votre terminal pour y admirer de jolies barres de progression colorées, mais de constater que cette même commande, une fois exécutée via un script PHP, perdait soudainement tout son formatage ? C’est un grand classique lorsque l'on utilise le composant Process de Symfony. Pour comprendre l'origine de ce comportement (et surtout comment y remédier), il faut plonger un instant dans la façon…",
+      "link": "https://jolicode.com/blog/comprendre-enfin-les-tty-et-pty-avec-le-composant-process-de-symfony",
+      "pubDate": "2026-06-15T08:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/tty/tty-pty-none.png",
+      "type": "blog"
+    },
+    {
+      "id": "0f60a27b3f23",
+      "title": "Interagir avec une boîte mail en Node.js avec ImapFlow et MailParser",
+      "description": "Découvrez comment lire et traiter les emails d’une boîte mail en Node.js avec ImapFlow et MailParser, en utilisant IMAP pour récupérer les messages.",
+      "link": "https://code-garage.com/blog/interagir-avec-une boite-mail-en-nodejs-avec-imapflow-et-mailparser",
+      "pubDate": "2026-06-15T07:46:04.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "92503fa01845",
+      "title": "TechReady 2026 : l'IA rebat les cartes du software engineering",
+      "description": "Retour d'expérience collectif Ippon sur TechReady 2026 (Nantes) : l'AI-Driven Development face à la réalité du delivery. Cinq enseignements sur les agents de code, le context engineering, le coût des tokens et la responsabilité humaine.",
+      "link": "https://blog.ippon.fr/2026/06/15/techready-2026-ia-software-engineering/",
+      "pubDate": "2026-06-15T07:12:45.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/20260605_164002.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a725d79cee0e",
+      "title": "Les news IA par Nikolay Martynov - Meetup Generative AI Paris chez Comet du 9 juin 2025",
+      "description": "Retrouvez un condensé des news IA par Nikolay Martinov.",
+      "link": "https://www.youtube.com/watch?v=J7gb6CpTlsA",
+      "pubDate": "2026-06-15T06:15:32.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/J7gb6CpTlsA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "J7gb6CpTlsA"
+    },
+    {
       "id": "08f82545b289",
       "title": "Liens Tech - Juin 2026",
       "description": "La sélection du mois : 2FA auto-hébergé, WAF open source, gestion de photos, bibliothèque d'ISO, monitoring de ports et une plateforme de challenges cybersécurité de l'ANSSI.",

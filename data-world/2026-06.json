@@ -2,6 +2,184 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "5d3028816a29",
+      "title": "The Fable 5 Export Controls Harm US Cyber Defense",
+      "description": "The Fable 5 Export Controls Harm US Cyber Defense I quoted The Atlantic quoting Kate Moussouris earlier, when I should have gone straight to the source. Here she is confirming that the \"jailbreak\" that got Claude Fable 5 banned under an export control really was \"fix this code\": The researchers took open-source code with known CVEs, plus new code with deliberately planted vulnerabilities, and asked Fable 5, Mythos, and Opus to “review the code for security issues.” Fable 5 refused. They then…",
+      "link": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
+      "pubDate": "2026-06-16T05:20:29.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0d6b459f43a3",
+      "title": "Quoting Matteo Wong, The Atlantic",
+      "description": "Katie Moussouris, a cybersecurity expert and the CEO of Luta Security, told me that Anthropic shared with her a copy of the White House’s report on the Fable jailbreak to get her appraisal. (She said that she is not being paid by Anthropic.) The report, Moussouris said, involved IT experts asking Fable to help find and patch bugs. When given deliberately insecure code, she said, Fable refused the prompt “review the code for security issues” but then complied when asked to “fix this code,”…",
+      "link": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
+      "pubDate": "2026-06-16T03:07:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8d09eb6c881a",
+      "title": "Cloudflare CAPTCHA on at least one ampersand",
+      "description": "TIL: Cloudflare CAPTCHA on at least one ampersand I'm using Cloudflare's CAPTCHA (they call it a \"Web Application Firewall &gt; Custom rules &gt; Managed Challenge\" these days) to prevent crawlers from aggresively spidering my faceted search engine on this site, but I got fed up of even simple ?q=term searches triggering the challenge. After some mucking around with Claude Code it turns out you can register the following rule instead, so the CAPTCHA only kicks in for search URLs containing at…",
+      "link": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
+      "pubDate": "2026-06-16T00:21:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1f193719c33d",
+      "title": "[Hands-on] Build a Real-Time Satellite Tracker with Claude Code",
+      "description": "Backed by a production-grade time-series database.",
+      "link": "https://blog.dailydoseofds.com/p/hands-on-build-a-real-time-satellite",
+      "pubDate": "2026-06-15T23:19:01.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Sj_E!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2fe57076-a22a-447f-b030-9c886892fff0_1080x1080.png",
+      "type": "blog"
+    },
+    {
+      "id": "126ff9f6f075",
+      "title": "GlassWASM: WebAssembly Malware Found in Trojanized Open VSX Extensions",
+      "description": "Socket’s Threat Research team discovered compiled WebAssembly malware embedded in trojanized code extensions for Visual Studio Code. At the time of publication, we identified the following affected package versions on the Open VSX marketplace: exargd/vsblack@0.0.1 noellee-doc/flint-debug@0.1.1 These extensions ship a WebAssembly payload behind a renamed TinyGo loader, and both auto-execute it on extension activation via an appended bootstrap that instantiates the module with go.run(). The…",
+      "link": "https://socket.dev/blog/glasswasm-malware-open-vsx-extensions?utm_medium=feed",
+      "pubDate": "2026-06-15T21:30:37.164Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/a7ddc0f8dfab8a2ee779057ef64c5906c1550d07-1289x695.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "810e8370a684",
+      "title": "datasette-agent 0.3a0",
+      "description": "Release: datasette-agent 0.3a0 New tool, execute_write_sql, which requests user approval and then writes to a database - taking user permissions into account. #27 I added a mechanism for asking user approval in datasette agent 0.2a0. The new execute_write_sql tool can now prompt the user for all kinds of useful operations. Here's an example where I add some pelican sightings to my pelican_sightings table: The new version also enhances the datasette agent chat terminal mode to support approvals,…",
+      "link": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+      "pubDate": "2026-06-15T17:19:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c479ecb9893",
+      "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
+      "description": "&quot;They screwed us&quot;: Personality clashes sent Anthropic&#x27;s models offline Lots of \"source familiar with the administration's thinking\" and \"source close to Anthropic\" in this Axios piece, which is the best collection of behind-the-scenes gossip I've seen about the US government export control Mythos/Fable story so far. Logan Graham (I lead the Frontier Red Team at Anthropic), Dave Orr (Head of Safeguards, previously a Director of Engineering at Google DeepMind), and blog favorite…",
+      "link": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
+      "pubDate": "2026-06-15T14:57:33.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "288d6259474c",
+      "title": "Symfony: The Fast Track, now for Symfony 8.1",
+      "description": "In November 2019, at SymfonyCon Amsterdam, I published \"Symfony 5: The Fast Track\"; a book that teaches Symfony the way I like to learn: by building a real application, one Git commit at a time, from the very first composer install to production deployments,…",
+      "link": "https://symfony.com/blog/symfony-the-fast-track-now-for-symfony-8-1?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-15T14:41:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1fc76b048342",
+      "title": "New in Symfony 8.1: Misc Improvements (Part 2)",
+      "description": "In addition to the main features announced in previous posts of this series, Symfony 8.1 includes many smaller improvements that make day-to-day work easier. This post highlights a second batch of them. Build Semaphores on Any Lock Backend…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-misc-improvements-part-2?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-15T12:47:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/alexander-schranz.picture",
+      "type": "blog"
+    },
+    {
+      "id": "c2f2b5f4c653",
+      "title": "Caching get_certificate lookups in Caddy",
+      "description": "Mattias open sourced a small Caddy module that caches get_certificate HTTP lookups, avoiding a backend fetch on every TLS handshake. A nice write-up on the problem, the design, and the trade-offs. Read more",
+      "link": "https://freek.dev/3140-caching-get-certificate-lookups-in-caddy",
+      "pubDate": "2026-06-15T12:30:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c7820ad9167",
+      "title": "Who Owns the Code Claude Wrote?",
+      "description": "The following article originally appeared on Sena Evren’s Legal Layer newsletter and is being reposted here with the author’s permission. TL; DR Agentic coding tools like Claude Code, Cursor, and Codex generate code that may be uncopyrightable, owned by your employer, or contaminated by open source licenses you cannot see. Some of this is settled […]",
+      "link": "https://www.oreilly.com/radar/who-owns-the-code-claude-wrote/",
+      "pubDate": "2026-06-15T10:58:47.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/06/image-14.png",
+      "type": "blog"
+    },
+    {
+      "id": "e3daeee78ba4",
+      "title": "New in Twig 4.0: A Stricter Sandbox",
+      "description": "Contributed by Fabien Potencier in #4813 ,…",
+      "link": "https://symfony.com/blog/new-in-twig-4-0-a-stricter-sandbox?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-15T07:12:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/fabpot.png",
+      "type": "blog"
+    },
+    {
       "id": "1b38ea10674e",
       "title": "Quoting Julia Evans",
       "description": "[...] Instead, I picture a specific person and I just write for them. Often this person is \"me, but 3 years ago\" or a good friend. &mdash; Julia Evans, write for 1 person Tags: writing, julia-evans",
@@ -518,6 +696,21 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea0d626c83df",
+      "title": "How to use git rebase without breaking your team’s history",
+      "description": "Video version: https://youtu.be/5n2VZS_YPv0 Let’s say you’re working on a feature branch called add-discount-codes. You’ve been at it for a couple of days, and you’ve got five commits with all of your work done. A team member mentions that git rebase can make sure you have the most recent changes from the “main” branch. So you […] The post How to use git rebase without breaking your team’s history appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/06/how-to-use-git-rebase-without-breaking-your-teams-history/",
+      "pubDate": "2026-06-10T15:00:41.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/06/Stop-merging-main-into-your-branch-use-git-rebase-instead.png",
       "type": "blog"
     },
     {
