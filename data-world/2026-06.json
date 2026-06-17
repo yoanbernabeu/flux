@@ -2,6 +2,154 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "42888cf86bd6",
+      "title": "NetNewsWire Status",
+      "description": "NetNewsWire Status I find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software really, really good - free from any commercial pressure. The software is NetNewsWire, first released in 2002 and made open source in 2018. I've been using it on Mac and iPhone for several years now and I'm finding it indispensable. Via Lobste.rs Tags: brent-simmons, netnewswire, open-source",
+      "link": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
+      "pubDate": "2026-06-17T03:36:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b93772d1389a",
+      "title": "npm Package Uses Prompt Injection and Token Flooding to Disrupt AI Malware Scanners",
+      "description": "Last week, Socket Threat Research reported that newer Mini Shai-Hulud, Miasma, and Hades packages were embedding fake prompt-injection headers before obfuscated JavaScript payloads. Those comments did not affect runtime execution, but they appeared designed to interfere with AI-assisted malware review. Now we are seeing that same idea tested more directly in a package that appears designed to probe how AI-based scanners handle prompt injection, safety-triggering content, and context flooding.…",
+      "link": "https://socket.dev/blog/npm-package-uses-prompt-injection-and-token-flooding-to-disrupt-ai-malware-scanners?utm_medium=feed",
+      "pubDate": "2026-06-16T23:16:20.029Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/1e700b1497117bd5b674eef510abf0fe6d6013d2-593x284.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "b5410ee9c6c7",
+      "title": "Hermes Kanban: Mission Control for your Agents",
+      "description": "Demo on building a 4-agent software team.",
+      "link": "https://blog.dailydoseofds.com/p/hermes-kanban-mission-control-for",
+      "pubDate": "2026-06-16T21:36:57.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3xGR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb0043eb-3a1a-4958-807a-b0c241ee721c_679x334.png",
+      "type": "blog"
+    },
+    {
+      "id": "7f39b5b357a5",
+      "title": "datasette-tailscale 0.1a0",
+      "description": "Release: datasette-tailscale 0.1a0 A very experimental alpha plugin which lets you do this: datasette tailscale mydata.db \\ --ts-authkey tskey-auth-xxxx --ts-hostname datasette-preview This starts a localhost Datasette server with a Tailscale sidecar that connects it to your Tailnet, such that http://datasette-preview/ serves Datasette. It's using the Python bindings for the experimental tailscale-rs library. I filed an issue asking if there's a cleaner way of setting up the proxy mechanism.…",
+      "link": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
+      "pubDate": "2026-06-16T16:18:20.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "99a1d4516e1b",
+      "title": "Quoting Georgi Gerganov",
+      "description": "I can 100% attest to the fact that Qwen3.6-27B is a very capable local model for coding tasks. Over the last month and a half I've been using it almost daily, either on my M2 Ultra or on my RTX 5090 box. I use it for small mundane tasks at ggml-org - nothing really impressive, but definitely a helpful tool for a maintainer. I think I would be using it much more, if I didn't have to spend a lot of my time on reviewing PRs. Currently, I have a very lightweight harness - the pi agent with…",
+      "link": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
+      "pubDate": "2026-06-16T16:04:59.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "17162eada693",
+      "title": "Introducing Manifest Alerts",
+      "description": "Socket now detects missing lockfiles with Manifest Alerts, a new kind of alert for supply chain risks found in project manifests. The feature was built in response to a real problem customers faced during the Axios npm compromise. Due to the complexities of modern dependency resolution, the blast radius of this incident was much wider than it initially appeared. Exposure was not limited to projects that directly depended on the compromised Axios version. For teams with committed lockfiles and…",
+      "link": "https://socket.dev/blog/introducing-manifest-alerts?utm_medium=feed",
+      "pubDate": "2026-06-16T14:56:13.135Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/08b7538d3953a19081d652d80a40c0d3a1d0eaff-2560x1440.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "937f9f5ed5f8",
+      "title": "Rust Tutorial For PHP and JavaScript Developers",
+      "description": "Read more",
+      "link": "https://freek.dev/3141-rust-tutorial-for-php-and-javascript-developers",
+      "pubDate": "2026-06-16T12:55:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8eeb4cfe5b27",
+      "title": "Linear Thinking, Nonlinear Costs",
+      "description": "Many AI agent systems become economically unsustainable long before they become technically impressive. Teams usually focus on model choice, prompt design, tool calling, and orchestration. Those things matter, but they are only part of the system setup. The deeper issue is that coding agents, such as Claude Code, Codex, and Jules, make agent workflows easier […]",
+      "link": "https://www.oreilly.com/radar/linear-thinking-nonlinear-costs/",
+      "pubDate": "2026-06-16T11:02:01.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "422980a721a0",
+      "title": "Symfony: The Fast Track, now in nine languages",
+      "description": "Earlier this week, I announced the Symfony 8.1 edition of The Fast Track. If you made it to the end of that post, you read that the book was available in five languages. That line is already out of date, and I could not be happier about it. The Symfony 8.1…",
+      "link": "https://symfony.com/blog/symfony-the-fast-track-now-in-nine-languages?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-16T08:49:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d0fc6d53b366",
+      "title": "New in Symfony 8.1: Tui Component",
+      "description": "Contributed by Fabien Potencier in #63778…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-1-tui-component?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-16T06:32:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/fabpot.picture",
+      "type": "blog"
+    },
+    {
       "id": "5d3028816a29",
       "title": "The Fable 5 Export Controls Harm US Cyber Defense",
       "description": "The Fable 5 Export Controls Harm US Cyber Defense I quoted The Atlantic quoting Kate Moussouris earlier, when I should have gone straight to the source. Here she is confirming that the \"jailbreak\" that got Claude Fable 5 banned under an export control really was \"fix this code\": The researchers took open-source code with known CVEs, plus new code with deliberately planted vulnerabilities, and asked Fable 5, Mythos, and Opus to “review the code for security issues.” Fable 5 refused. They then…",
@@ -42,6 +190,21 @@
       "categories": [
         "IA",
         "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "11d3caf52d84",
+      "title": "PHP Through a Screen Reader: Small Syntax Choices That Matter",
+      "description": "I'm a backend developer, and PHP is my main language; it is also my favorite one. I've been developing in PHP since 2008, and today, when I start a web project, I choose PHP proudly, because I know what works well for me. There is one particularity in my developer experience: I'm totally blind from birth. So I use a screen reader, a tool that sends information to speech and/or a Braille display. Of course, blind programmers are not a single organism with a shared configuration file. We use…",
+      "link": "https://thephp.foundation/blog/2026/06/16/php-through-a-screen-reader-small-syntax-choices-that-matter/",
+      "pubDate": "2026-06-16T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
