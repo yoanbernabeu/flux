@@ -2,6 +2,169 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "58f043e161a4",
+      "title": "The PHP Podcast 2026.06.17",
+      "description": "🎙️ PHP Podcast – June 17, 2026 Hosts: Sara Golemon & Holly Schilling | Guests: Paul Reinheimer & Sean Coates Eric and John are still locked in the basement. Sara is literally on a boat in Spain. Normal show, totally normal. 🚢 Sara Broadcasts from a Harbor in A Coruña Sara is joining this week’s […] The post The PHP Podcast 2026.06.17 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-06-17/",
+      "pubDate": "2026-06-18T00:10:52.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/06/PHP-Podcast-Team-Joe-and-Sara-1920x1005-1-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "f789678befe6",
+      "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+      "description": "Chinese AI lab Z.ai released GLM-5.2 to their coding plan subscribers on June 13th, and then yesterday (June 16th) released the full open weights under an MIT license. Similar in size to their previous GLM-5 and GLM-5.1 releases, this is 753B parameter, 1.51TB monster - with 40 active parameters (Mixture of Experts). GLM-5.2 is a text input only model - Z.ai have a separate vision family most recently represented by GLM-5V-Turbo, but that one isn't open weights. GLM-5.2 has a 1 million token…",
+      "link": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
+      "pubDate": "2026-06-17T23:58:39.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "00a5b1d16a39",
+      "title": "Socket Firewall Now Blocks Malicious VS Code and Open VSX Extensions",
+      "description": "In May 2026, GitHub disclosed that attackers compromised an employee device through a poisoned third-party VS Code extension, allowing them to exfiltrate roughly 3,800 GitHub-internal repositories. The extension was Nx Console 18.95.0, a malicious release that reached both the Visual Studio Marketplace and Open VSX before removal. That incident should change how security teams think about editor extensions. Socket researchers have also documented repeated GlassWorm attacks across Open VSX,…",
+      "link": "https://socket.dev/blog/socket-firewall-blocks-malicious-code-extensions?utm_medium=feed",
+      "pubDate": "2026-06-17T20:18:19.007Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/f6f6e0f71d094eb016f4759b2e17cbc019e8b360-960x540.gif?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "551ccd361eb7",
+      "title": "The Production Harness for AI-Built Apps",
+      "description": "...explained with usage.",
+      "link": "https://blog.dailydoseofds.com/p/the-production-harness-for-ai-built",
+      "pubDate": "2026-06-17T20:01:11.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!lXCv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff06176b7-7c04-467b-a1b1-4e5a9621681d_2752x1536.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "25776de53c58",
+      "title": "Quoting Charity Majors",
+      "description": "What happened in 2025 was this: the economics of code production were turned upside down. Instead of being very hard, time-consuming, and expensive to generate code, it became effectively free and instant. Lines of code went from being treasured, reused, cared for and carefully curated, to being disposable and regenerable, practically overnight. &mdash; Charity Majors, AI demands more engineering discipline. Not less Tags: charity-majors, ai-assisted-programming, generative-ai, ai, llms",
+      "link": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+      "pubDate": "2026-06-17T17:12:41.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0ebaabd4632e",
+      "title": "Why skipping Eloquent doesn’t mean skipping SQL injection protection",
+      "description": "Video version at: https://youtu.be/gAVfQhPw8Do A few weeks ago, I posted something on LinkedIn that ruffled some feathers. Here’s what I said: “Defaulting to the ORM for everything isn’t a best practice. It’s just the path of least resistance.” The replies came in fast, and a good chunk of them said the same thing: “That’s unsafe! […] The post Why skipping Eloquent doesn’t mean skipping SQL injection protection appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/06/why-skipping-eloquent-doesnt-mean-skipping-sql-injection-protection/",
+      "pubDate": "2026-06-17T15:00:31.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/06/Why-skipping-Eloquent-doesnt-mean-skipping-SQL-injection-protection.png",
+      "type": "blog"
+    },
+    {
+      "id": "e46358aaa510",
+      "title": "The Case Against Building Your Own Agent Platform",
+      "description": "You know the meeting. The board wants an AI agent strategy by end of quarter. Someone on the leadership team has read a McKinsey report. You’ve been voluntold to build the platform. The slide deck says “AI-native.” The acceptance criteria are vague. Somebody mentions LangGraph, and somebody else says, “We’ll just wrap it ourselves.” You […]",
+      "link": "https://www.oreilly.com/radar/the-case-against-building-your-own-agent-platform/",
+      "pubDate": "2026-06-17T13:53:16.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1e11c617736d",
+      "title": "New in Twig 4.0: Expression Parsers",
+      "description": "Contributed by Fabien Potencier in #4543 ,…",
+      "link": "https://symfony.com/blog/new-in-twig-4-0-expression-parsers?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-17T11:47:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/fabpot.png",
+      "type": "blog"
+    },
+    {
+      "id": "ed0c025464ff",
+      "title": "How PHP Attributes Changed the Way I Write Livewire",
+      "description": "Bert De Swaef shows how PHP attributes made his Livewire components easier to read by attaching validation, URL sync, and event listeners directly to the properties and methods they belong to. Nice piece on how attributes reduce mental overhead, improve IDE support, and make components feel more self-documenting. Read more",
+      "link": "https://freek.dev/3142-how-php-attributes-changed-the-way-i-write-livewire",
+      "pubDate": "2026-06-17T10:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "839372c95999",
+      "title": "140+ Mastra npm Packages Compromised in Coordinated Supply Chain Attack",
+      "description": "Socket has detected a malicious npm supply chain campaign involving compromised @mastra/* packages published under the Mastra namespace. A single npm account (ehindero) mass-published more than 140 malicious packages across the Mastra scope within a short window on 2026-06-17. The compromised package versions themselves contain unmodified code; the attack is delivered through an injected dependency, a typosquatted package named easy-day-js added to each package's dependency list. easy-day-js…",
+      "link": "https://socket.dev/blog/mastra-npm-packages-compromised?utm_medium=feed",
+      "pubDate": "2026-06-17T06:03:40.218Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1b3b1ace6e4f",
+      "title": "<click-to-play> — a still that plays",
+      "description": "Tool: &lt;click-to-play&gt; — a still that plays A progressive enchantment Web Component that turns this markup: &lt;click-to-play&gt; &lt;a href=\"URL to GIF\"&gt; &lt;img src=\"URL to first frame\" alt=\"...\"&gt; &lt;/a&gt; &lt;/click-to-play&gt; Into a still frame with a click to play button which loads the GIF on demand. For when you don't want big GIFs to be loaded unless people want to play them. Here's an example that demonstrates the new row editing tools in Datasette - in fact I built this…",
+      "link": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
+      "pubDate": "2026-06-17T03:56:10.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "42888cf86bd6",
       "title": "NetNewsWire Status",
       "description": "NetNewsWire Status I find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software really, really good - free from any commercial pressure. The software is NetNewsWire, first released in 2002 and made open source in 2018. I've been using it on Mac and iPhone for several years now and I'm finding it indispensable. Via Lobste.rs Tags: brent-simmons, netnewswire, open-source",
@@ -43,6 +206,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!3xGR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb0043eb-3a1a-4958-807a-b0c241ee721c_679x334.png",
+      "type": "blog"
+    },
+    {
+      "id": "c36939a2dda4",
+      "title": "datasette 1.0a34",
+      "description": "Release: datasette 1.0a34 Quoting the release notes: The big feature in this alpha is tools to insert, edit and delete rows within the Datasette interface. These features are available on table pages, and edit and delete are also available as action items on the row page. The inspiration for this feature - which is long overdue - was Datasette Agent. I added SQL write support to that the other day which highlighted how absurd it was that you could insert and edit ties via the chat interface but…",
+      "link": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
+      "pubDate": "2026-06-16T21:31:24.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
