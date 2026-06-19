@@ -1612,6 +1612,21 @@
       "type": "blog"
     },
     {
+      "id": "7c44d01ce73c",
+      "title": "L'application d'enregistrements des cartes Korrigo pour les lycées publics bretons",
+      "description": "La Région Bretagne trans­forme sa carte KorriGo en une carte multi-services pour les lycéens et person­nels des 115 établis­se­ments publics bretons.",
+      "link": "https://makina-corpus.com/nr/lapplication-denregistrements-des-cartes-korrigo-pour-les-lycees-publics-bretons",
+      "pubDate": "2026-04-14T13:25:58.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e31850c8b565",
       "title": "Les pseudo éléments en CSS",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/css-pseudo-elements-2335 Dans ce chapitre, on va découvrir le principe des **pseudo-éléments**. Ils permettent de cibler une partie d'un élément ou de générer un contenu visuel sans avoir besoin d'ajouter un nouvel élément dans le HTML. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",

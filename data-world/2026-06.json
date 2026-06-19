@@ -2,6 +2,109 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "f58f76bdac67",
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "description": "Today we launched a new plugin for Datasette, datasette-apps, with this launch announcement post on the Datasette project blog. That post has the what, but I'm going to expand on that a little bit here to provide the why. The TL;DR Datasette Apps are self-contained HTML+JavaScript applications that run in a tightly constrained &lt;iframe&gt; sandbox hosted on your Datasette application. They can use JavaScript to run read-only SQL queries against data in Datasette, and can run write queries too…",
+      "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+      "pubDate": "2026-06-18T23:58:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d605848718c9",
+      "title": "Turn Any Website Into a Custom API in Claude Code",
+      "description": "...explained as a step-by-step guide.",
+      "link": "https://blog.dailydoseofds.com/p/turn-any-website-into-a-custom-api",
+      "pubDate": "2026-06-18T22:03:31.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!SMl_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78eaef8c-51df-4e0e-b447-4843335e0b36_1198x639.png",
+      "type": "blog"
+    },
+    {
+      "id": "fea29020af17",
+      "title": "Socket MCP Adds Org Alerts, Threat Feed Review, and Package Inspection",
+      "description": "AppSec and security engineering teams are under pressure to triage supply chain issues faster, with more context and less manual investigation. A single alert can require checking package metadata, reviewing published files, searching for suspicious code, cross-referencing threat intelligence, and determining whether the package appears anywhere in the organization. Socket MCP is now bringing that workflow into MCP-aware AI assistants. With authenticated access to Socket APIs, teams can…",
+      "link": "https://socket.dev/blog/socket-mcp-supply-chain-investigation?utm_medium=feed",
+      "pubDate": "2026-06-18T21:02:45.778Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/d26c718c7cacc36d91c55bef64f49824f6b341dc-960x540.gif?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "68a519e26dde",
+      "title": "datasette-acl 0.6a0",
+      "description": "Release: datasette-acl 0.6a0 This release expands datasette-acl from table-only permissions toward a general resource-sharing system. Alex Garcia did most of the work for this release - we're fleshing out the plugin that will allow multi-user Datasette instances finely grained control over who can access which resources within Datasette. Tags: datasette, alex-garcia",
+      "link": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+      "pubDate": "2026-06-18T19:03:13.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a52f3850b355",
+      "title": "Kubernetes in the Age of AI",
+      "description": "When Kubernetes first came onto the scene, it was a major turning point, a revision of the infrastructure and operations space that transformed the way developers and ops personnel build, deploy, and maintain applications in the cloud. It has since become the clear standard for how modern applications are built and operated. As the CNCF […]",
+      "link": "https://www.oreilly.com/radar/kubernetes-in-the-age-of-ai/",
+      "pubDate": "2026-06-18T14:21:16.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dc58063c4355",
+      "title": "SymfonyDay Montreal 2026: A memorable day, un grand merci à tous ! 🍁",
+      "description": "SymfonyDay Montreal 2026 is officially a wrap, and what an incredible edition it was on June 4th! A full day packed with inspiring conferences, deep-dive tech insights, and above all, the immense joy of bringing the local Symfony community together.…",
+      "link": "https://symfony.com/blog/symfonyday-montreal-2026-a-memorable-day-un-grand-merci-a-tous?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-18T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/HEADER-1200x440px-at-3x-5.png",
+      "type": "blog"
+    },
+    {
+      "id": "30b2cf224cc6",
+      "title": "Feature Flags in Laravel with Pennant",
+      "description": "How we use class-based Laravel Pennant features, with a kill switch on every flag and a config-driven path to general availability. Read more",
+      "link": "https://freek.dev/3143-feature-flags-in-laravel-with-pennant",
+      "pubDate": "2026-06-18T12:04:25.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "58f043e161a4",
       "title": "The PHP Podcast 2026.06.17",
       "description": "🎙️ PHP Podcast – June 17, 2026 Hosts: Sara Golemon & Holly Schilling | Guests: Paul Reinheimer & Sean Coates Eric and John are still locked in the basement. Sara is literally on a boat in Spain. Normal show, totally normal. 🚢 Sara Broadcasts from a Harbor in A Coruña Sara is joining this week’s […] The post The PHP Podcast 2026.06.17 appeared first on PHP Architect.",
@@ -417,6 +520,36 @@
       "type": "blog"
     },
     {
+      "id": "eb9f83dc6274",
+      "title": "datasette-apps 0.1a3",
+      "description": "Release: datasette-apps 0.1a3 Fixed a bug where users without the create-app permission could still create apps. #27 Fixed a bug where it was impossible to grant permission to edit an app to users who were not the app's owner. The rules for edit/delete are now the same as view: if the app is private only the owner can modify it, otherwise permission is controlled by Datasette's regular permission system. #29 Tags: datasette",
+      "link": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything",
+      "pubDate": "2026-06-15T20:25:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "46bd0b3eaeeb",
+      "title": "datasette-apps 0.1a2",
+      "description": "Release: datasette-apps 0.1a2 Custom network/CSP origins for apps are now guarded by a new apps-set-csp permission, with an optional allowed_csp_origins plugin allow-list for non-privileged users. The Datasette Agent app creation tool enforces the same rules. #24 Stored query picker now supports keyboard navigation and shows the three most recent accessible stored queries when focused. #fragment links inside apps are no longer intercepted by the external-link confirmation modal. #23 Fixed link…",
+      "link": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything",
+      "pubDate": "2026-06-15T17:26:11.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "810e8370a684",
       "title": "datasette-agent 0.3a0",
       "description": "Release: datasette-agent 0.3a0 New tool, execute_write_sql, which requests user approval and then writes to a database - taking user permissions into account. #27 I added a mechanism for asking user approval in datasette agent 0.2a0. The new execute_write_sql tool can now prompt the user for all kinds of useful operations. Here's an example where I add some pelican sightings to my pelican_sightings table: The new version also enhances the datasette agent chat terminal mode to support approvals,…",
@@ -459,6 +592,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "677525fd9a91",
+      "title": "Socket for Linear Is Now Available",
+      "description": "When Socket flags a malicious package or a vulnerable dependency, some fixes are quick: bump a version, drop a package, patch and move on. Plenty of others need to be tracked, assigned to the right person, and prioritized against everything else a team is working on. That kind of work lives in an issue tracker. Linear has earned a loyal following among engineering teams, prized for its speed and the clarity of its workflow. So today we're excited to announce Socket for Linear, which plugs…",
+      "link": "https://socket.dev/blog/socket-for-linear?utm_medium=feed",
+      "pubDate": "2026-06-15T13:43:00.000Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/63667cb5d424cd0fec9a0d3e0f4fdaa05981b2c9-1502x1376.png?w=1600&q=95&fit=max&auto=format",
       "type": "blog"
     },
     {

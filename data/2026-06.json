@@ -2,6 +2,122 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "18c55d2ab27d",
+      "title": "#346.exe - IA & DevX: Code assisté, valeur humaine préservée par Julien Lepine",
+      "description": "Pour l'épisode #346 je recevais Jocelyn N'takpe. On en débrief avec Julien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-346-c0a1a3b44aff",
+      "pubDate": "2026-06-19T03:00:22.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/5ff8b9d8-26cc-43e1-9488-c0a1a3b44aff.mp3?_=1781794162",
+      "duration": "17:04"
+    },
+    {
+      "id": "632f7f2868e8",
+      "title": "Entreprises B2B : comment apparaître dans les moteurs de recherche IA ?",
+      "description": "L'utilisation croissante des IA pour informer les acheteurs B2B souligne l'importance de la gestion de l'image de marque en ligne. Les entreprises doivent optimiser leur contenu pour être visibles et crédibles auprès des IA, en tenant compte des informations provenant de leurs sites, réseaux sociaux et activités offline. Une stratégie bien pensée est essentielle. L’article Entreprises B2B : comment apparaître dans les moteurs de recherche IA ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/18/entreprises-b2b-comment-apparaitre-dans-les-moteurs-de-recherche-ia/",
+      "pubDate": "2026-06-18T10:41:36.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b9fdf144b20b",
+      "title": "100 ans de métier face à l’IA",
+      "description": "Peut-on transformer un groupe centenaire du retail traditionnel de plusieurs dizaines de milliards de chiffre d'affaires en une véritable entreprise technologique à l'ère de l'IA? Face à la déferlante des agents autonomes et des géants de la tech, l’avènement du commerce agentique, la réponse n'est plus une option, c'est une question existentielle. Dans ce nouvel épisode d'À la French, exceptionnellement enregistré en live et en public au DevSummit, nous recevons le taulier d’un grand groupe…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6a33bf71b5bd2ede10c9bef5",
+      "pubDate": "2026-06-18T10:00:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1781776221255-b18933fe-825a-4808-9f82-ba5f19b9f182.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6a33bf71b5bd2ede10c9bef5/media.mp3",
+      "duration": "52:29"
+    },
+    {
+      "id": "8c1a83ebf3ec",
+      "title": "🔥 The Power of Passion and Rigor in Development | Smaïne's Advice",
+      "description": "💡 What does it really take to succeed as a developer? In this short, Smaïne explains why passion and rigor are the two essential ingredients for long-term success in software development. Passion keeps you motivated to learn and improve, while rigor helps you build strong habits, write better code, and overcome challenges. 🚀 Stay curious. Stay disciplined. Keep building. 💬 What do you think is more important for a developer: passion or discipline? #SoftwareDevelopment #Programming #Coding…",
+      "link": "https://www.youtube.com/watch?v=5JwIotlXsU0",
+      "pubDate": "2026-06-18T09:06:18.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/5JwIotlXsU0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "5JwIotlXsU0"
+    },
+    {
+      "id": "d483004dde30",
+      "title": "🚀 Smaïne's Journey: From Zero to Developer in 2014 | It All Started with \"C\"",
+      "description": "💻 How do you go from knowing nothing about programming to becoming a developer? In this short, Smaïne shares how his coding journey began in 2014. Starting from scratch, he discovered programming through online learning and took his first steps with the C programming language. A simple beginning that opened the door to a career in software development. 🔥 A story of learning, persistence, and growth. 👉 Have you started learning to code? What was your first programming language? #Programming…",
+      "link": "https://www.youtube.com/watch?v=mTjAPM9FAmI",
+      "pubDate": "2026-06-18T09:00:44.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/mTjAPM9FAmI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "mTjAPM9FAmI"
+    },
+    {
+      "id": "490916eb64ee",
+      "title": "GemPlus, où quand la CIA infiltre une entreprise française",
+      "description": "Découvrez l'histoire de GemPlus, ancien leader mondial de la carte à puce, et la polémique qui a éclaté lorsque son PDG fut accusé d'entretenir des liens avec la CIA.",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/GemPlus--o-quand-la-CIA-infiltre-une-entreprise-franaise-e3kuvqm",
+      "pubDate": "2026-06-18T07:43:08.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/121650454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2F68ed9a61-c69a-0bb1-ad57-4d7c80b958d3.mp3",
+      "duration": "00:10:16"
+    },
+    {
+      "id": "cafcdf733f54",
+      "title": "MACI #161 - Open source, IA et business model - Avec Graven",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on retrouve Lorenzo Cacciato, alias Graven, pour prolonger la discussion ouverte dans le MACI #161 autour de l’open source, de ses usages concrets et de ses modèles économiques. L’occasion de poser une question très actuelle : comment ouvrir son code, construire de la confiance, et réussir malgré tout à financer un produit, une communauté ou une activité dans la durée ? Et puis, comme à notre habitude, la discussion va vite s’étendre……",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-161-open-source-ia-et-business-model-avec-graven",
+      "pubDate": "2026-06-18T05:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/DJ9mfcrgEMxXWrBx5UblYBjvjZe1uQavrFiB1zMt_1400x1400.jpeg?t=1781764224",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/b33V8sleMMZd.mp3?t=1781686065",
+      "duration": "1:03:20"
+    },
+    {
       "id": "e8b7e976e714",
       "title": "Software development  and  IA: De l'artisan du code au superviseur de l'IA - une histoire déjà vécue dans l’aviation civile",
       "description": "Faire un parallèle entre la transformation du métier de pilote de ligne sous l'effet de l'automatisation et celle que connaissent aujourd'hui les informaticiens avec l'essor de l'IA. Comparaison n'est pas raison. Mais regarder dans le rétroviseur de l'histoire permet souvent de mieux comprendre les dynamiques du moment et prendre de la hauteur",
