@@ -2,6 +2,140 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "9370d60ff069",
+      "title": "Quoting Sean Lynch",
+      "description": "The real valuable capability MCP offers over skills/CLI is isolating the auth flow outside of the agent’s context window, and potentially out of the harness completely. [...] Maybe the idealized form of MCP is just an auth gateway for the API and nothing else. That’d still be a win. &mdash; Sean Lynch, comment on Hacker News Tags: model-context-protocol, llms, ai, generative-ai, skills",
+      "link": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+      "pubDate": "2026-06-19T22:45:49.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4b823ef92f5a",
+      "title": "[Hands-on] Build Your Own AI Avatar With Human-like Memory",
+      "description": "(100% open-source, works in real-time)",
+      "link": "https://blog.dailydoseofds.com/p/hands-on-build-your-own-ai-avatar-825",
+      "pubDate": "2026-06-19T20:32:52.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://api.substack.com/feed/podcast/202767368/2c864da01d8eb63797d74f537071dee9.mp3",
+      "type": "blog"
+    },
+    {
+      "id": "2fd32786378b",
+      "title": "Introducing Repository Access Permissions and Custom Roles",
+      "description": "Socket now supports more granular access control for organizations with Custom Roles and Repository Access Permissions, giving teams a more precise way to manage who can do what, and where they can do it. Modern engineering organizations rarely map cleanly to a single security team or a single set of repositories. A user might need to review alerts for one team's repositories, manage scans for another, or support a temporary project without gaining access to the entire organization. Access…",
+      "link": "https://socket.dev/blog/introducing-repository-access-permissions-custom-roles?utm_medium=feed",
+      "pubDate": "2026-06-19T17:46:08.102Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/7975d3d1b09a123a55134c20164a4ae97ff147b7-2696x1538.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "b9e2e0b55626",
+      "title": "Building RAG in Laravel: Four Ingestion Bugs That Silently Wreck Retrieval",
+      "description": "Every Laravel RAG tutorial builds the same ingestion pipeline (chunk, embed, store) and stops the moment the agent answers on screen. None of them check whether retrieval is any good. But retrieval quality is decided at ingestion, before the model runs once, and four decisions there fail with no error, no exception, no failed test: Chunking that severs the answer mid-sentence, so answer@1 falls while source hit@1 still looks healthy. An HNSW index built with vector_l2_ops while you query with…",
+      "link": "https://freek.dev/3144-building-rag-in-laravel-four-ingestion-bugs-that-silently-wreck-retrieval",
+      "pubDate": "2026-06-19T12:32:25.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b73f79c4d656",
+      "title": "Symfony UX 3.2.0 and 2.36.1 released",
+      "description": "Symfony UX 3.2.0 and 2.36.1 are now available. Both releases fix two security issues, one in UX Icons and one in UX Toolkit, so every application using these packages should upgrade as soon as possible. On top of the security fixes, version 3.2.0 ships several…",
+      "link": "https://symfony.com/blog/symfony-ux-3-2-0-and-2-36-1-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-19T07:33:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/guillaume-sainthillier.png",
+      "type": "blog"
+    },
+    {
+      "id": "1c48b14894ab",
+      "title": "Symfony AI Spotlight: One API to Rule Them All",
+      "description": "Symfony AI is approaching its 1.0 release — so let’s take a tour. In this first post of this series, we introduce the Platform component — the foundation layer that connects your PHP application to the world of AI. The AI landscape is fragmented. Every provider…",
+      "link": "https://symfony.com/blog/symfony-ai-spotlight-one-api-to-rule-them-all?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-19T07:27:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "75382f6b87c7",
+      "title": "CVE-2026-55877: XSS in symfony/ux-icons via unsanitized SVG content in local files and Iconify on-demand responses",
+      "description": "Affected versions Symfony UX Icons versions >=2.17.0=3.0.0<3.2.0 are affected by this security issue. The issue has been fixed in Symfony UX Icons 2.36.1, 3.2.0. Description The ux_icon() Twig function is marked is_safe=['html'],…",
+      "link": "https://symfony.com/blog/cve-2026-55877-xss-in-symfony-ux-icons-via-unsanitized-svg-content-in-local-files-and-iconify-on-demand-responses?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-19T07:25:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "34db5d168ca0",
+      "title": "CVE-2026-55878: Path Traversal in symfony/ux-toolkit Allows Arbitrary File Write and Read via Crafted Recipe Manifest",
+      "description": "Affected versions Symfony UX Toolkit versions >=2.32.0=3.0.0<3.2.0 are affected by this security issue. The issue has been fixed in Symfony UX Toolkit 2.36.1, 3.2.0. Description The ux:install console command installs files from a…",
+      "link": "https://symfony.com/blog/cve-2026-55878-path-traversal-in-symfony-ux-toolkit-allows-arbitrary-file-write-and-read-via-crafted-recipe-manifest?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-19T07:25:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea1b9ecfeb9d",
+      "title": "The PHP Ambassador Program is Open",
+      "description": "We are excited to announce that we have scheduled the first meeting for the PHP Ambassador Program! This is the second Special Interest Group launched by The PHP Foundation, and we are inviting you to be a part of it. As mentioned in our 2026 Strategy document, this group will be focused on improving the perception of PHP outside the PHP bubble. It will center on external advocacy and empowering the community to help tell the story of modern PHP in whatever capacity makes sense for them.…",
+      "link": "https://thephp.foundation/blog/2026/06/19/the-php-ambassador-program-is-open/",
+      "pubDate": "2026-06-19T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f58f76bdac67",
       "title": "Datasette Apps: Host custom HTML applications inside Datasette",
       "description": "Today we launched a new plugin for Datasette, datasette-apps, with this launch announcement post on the Datasette project blog. That post has the what, but I'm going to expand on that a little bit here to provide the why. The TL;DR Datasette Apps are self-contained HTML+JavaScript applications that run in a tightly constrained &lt;iframe&gt; sandbox hosted on your Datasette application. They can use JavaScript to run read-only SQL queries against data in Datasette, and can run write queries too…",

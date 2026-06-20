@@ -2,6 +2,42 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "f0efe8813328",
+      "title": "12 ans pour une feature ! Rémi Forax sur les Value Class en Java 28",
+      "description": "Rémi Forax, enseignant-chercheur à l'Université Gustave Eiffel et membre d'OpenJDK, raconte au Studio Devoxx France douze ans de Project Valhalla et l'arrivée des value class en Java 28. Modifier la JVM coûte \"affreusement cher\", le problème des nuls a fait dérailler des prototypes entiers, et la compatibilité ascendante reste la règle du jeu, pas une frustration. Au programme : • Ce qu'est une value class : pas d'identité, manipulée par valeur • Pourquoi Valhalla a mis douze ans : prototypes,…",
+      "link": "https://www.youtube.com/watch?v=Tao8dKWLb2Y",
+      "pubDate": "2026-06-19T07:55:53.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/Tao8dKWLb2Y/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Tao8dKWLb2Y"
+    },
+    {
+      "id": "86411a213f60",
+      "title": "Skills IA : le guide complet pour comprendre leur cycle de vie",
+      "description": "Skills IA mal testées, mises à jour silencieuses, régressions invisibles : ce guide couvre le cycle de vie complet d'un SKILL.md — du design à l'archivage — avec des evals reproductibles en 3 couches.",
+      "link": "https://blog.ippon.fr/2026/06/19/cycle-de-vie-skill-ia-guide-complet/",
+      "pubDate": "2026-06-19T07:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/HEADER.png",
+      "type": "blog"
+    },
+    {
       "id": "18c55d2ab27d",
       "title": "#346.exe - IA & DevX: Code assisté, valeur humaine préservée par Julien Lepine",
       "description": "Pour l'épisode #346 je recevais Jocelyn N'takpe. On en débrief avec Julien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
@@ -18,6 +54,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/5ff8b9d8-26cc-43e1-9488-c0a1a3b44aff.mp3?_=1781794162",
       "duration": "17:04"
+    },
+    {
+      "id": "81a703761386",
+      "title": "Ce que j’ai appris en dépensant 100€ pour de la pub en ligne",
+      "description": "Comment j'ai dépensé mes 100 premiers euros sur Reddit Ads pour mon SaaS Writizzy. Mes erreurs, l'impact sur le trafic, mes métriques et le bilan.",
+      "link": "https://eventuallycoding.com/p/ce-que-j-ai-appris-en-depensant-100-pour-de-la-pub-en-ligne",
+      "pubDate": "2026-06-19T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1781875355471-8d6xn3b.png?width=800",
+      "type": "blog"
     },
     {
       "id": "632f7f2868e8",
