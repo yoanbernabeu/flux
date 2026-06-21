@@ -2,6 +2,23 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "8c5217c9c8c4",
+      "title": "AGO 2026 : une croissance historique et une expertise IA confirmée",
+      "description": "Hier s’est tenue notre Assemblée Générale Ordinaire 2026, un temps fort de notre coopérative où nous avons fait l’état des lieux de notre activité, validé nos résultats, l’entrée au sociétariat de nos nouveaux associés ou encore renouvelé les membres de notre conseil de surveillance. Nous clôturons une année 2025 marquée par une performance robuste, qui […] Cet article, AGO 2026 : une croissance historique et une expertise IA confirmée, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/ago-2026-une-croissance-historique-et-une-expertise-ia-confirmee",
+      "pubDate": "2026-06-20T11:34:05.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/06/TILLEULS15-NCLSPROD-06936-1024x683.jpg",
+      "type": "blog"
+    },
+    {
       "id": "f0efe8813328",
       "title": "12 ans pour une feature ! Rémi Forax sur les Value Class en Java 28",
       "description": "Rémi Forax, enseignant-chercheur à l'Université Gustave Eiffel et membre d'OpenJDK, raconte au Studio Devoxx France douze ans de Project Valhalla et l'arrivée des value class en Java 28. Modifier la JVM coûte \"affreusement cher\", le problème des nuls a fait dérailler des prototypes entiers, et la compatibilité ascendante reste la règle du jeu, pas une frustration. Au programme : • Ce qu'est une value class : pas d'identité, manipulée par valeur • Pourquoi Valhalla a mis douze ans : prototypes,…",

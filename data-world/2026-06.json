@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e1546601404b",
+      "title": "Help Us Improve \"Symfony: The Fast Track\"",
+      "description": "A few days ago I announced the Symfony 8.1 edition of \"The Fast Track\", and then that it was available in nine languages. The book has always been free to read online at symfony.com/book. What changes today is not what you can read, but what you can do: the…",
+      "link": "https://symfony.com/blog/help-us-improve-symfony-the-fast-track?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-20T16:53:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1586b303ba10",
+      "title": "Architecture Decision Record",
+      "description": "A concise explanation of ADRs: short documents that capture an important decision, the context behind it, and its consequences. Good practical advice on keeping them lightweight, readable, and useful over time. Read more",
+      "link": "https://freek.dev/3145-architecture-decision-record",
+      "pubDate": "2026-06-20T12:30:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9370d60ff069",
       "title": "Quoting Sean Lynch",
       "description": "The real valuable capability MCP offers over skills/CLI is isolating the auth flow outside of the agent’s context window, and potentially out of the harness completely. [...] Maybe the idealized form of MCP is just an auth gateway for the API and nothing else. That’d still be a win. &mdash; Sean Lynch, comment on Hacker News Tags: model-context-protocol, llms, ai, generative-ai, skills",
