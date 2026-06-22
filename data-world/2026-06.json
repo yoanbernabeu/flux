@@ -2,6 +2,66 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "173dbad21da8",
+      "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+      "description": "sqlite-utils is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default sqlite3 package, including support for complex table transformations, automatic table creation from JSON data and a whole lot more. I released sqlite-utils 4.0rc1, the first release candidate for sqlite-utils v4. The major version bump indicates some (minor) backwards incompatible changes, so I'm interested in having people…",
+      "link": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+      "pubDate": "2026-06-21T23:35:47.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b9c4b11c211a",
+      "title": "sqlite-utils 4.0rc1",
+      "description": "Release: sqlite-utils 4.0rc1 See sqlite-utils 4.0rc1 adds migrations and nested transactions. Tags: sqlite-utils",
+      "link": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
+      "pubDate": "2026-06-21T23:30:04.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ed140b4e4c38",
+      "title": "Temporary Cloudflare Accounts for AI agents",
+      "description": "Temporary Cloudflare Accounts for AI agents The announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as well. Short version: you can now create a Cloudflare Workers project and run this, without even creating a Cloudflare account: npx wrangler deploy --temporary Cloudflare will deploy the application to a new, ephemeral project which will stay live for 60 minutes. I had GPT-5.5 xhigh…",
+      "link": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+      "pubDate": "2026-06-21T22:01:04.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5e5785062442",
+      "title": "A Week of Symfony #1016 (June 15–21, 2026)",
+      "description": "This week, the Symfony book published its update for Symfony 8.1 in multiple languages. Meanwhile, we completed the New in Symfony 8.1 series, continued the New in Twig 4.0 series with articles about the sandbox and expression parsers, and launched a new…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1016-june-15-21-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-21T07:26:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e1546601404b",
       "title": "Help Us Improve \"Symfony: The Fast Track\"",
       "description": "A few days ago I announced the Symfony 8.1 edition of \"The Fast Track\", and then that it was available in nine languages. The book has always been free to read online at symfony.com/book. What changes today is not what you can read, but what you can do: the…",
@@ -27,6 +87,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff5e2e481ba3",
+      "title": "GitHub Actions Checkout Now Blocks Risky pull_request_target Checkouts",
+      "description": "GitHub has released actions/checkout v7 with a new default protection aimed at one of the most persistent GitHub Actions supply chain risks: privileged workflows that check out and execute code from untrusted pull requests. The change makes actions/checkout refuse common “pwn request” patterns when workflows run under pull_request_target or certain workflow_run events. These workflows execute in the context of the base repository, giving them access to the base repo’s GITHUB_TOKEN, secrets,…",
+      "link": "https://socket.dev/blog/github-actions-checkout-blocks-pull-request-target-checkouts?utm_medium=feed",
+      "pubDate": "2026-06-20T04:31:03.776Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
