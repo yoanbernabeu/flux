@@ -2,6 +2,94 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "f26c96cfcb19",
+      "title": "Prompt Injection as Role Confusion",
+      "description": "Prompt Injection as Role Confusion First, I absolutely love this: This is a blog-style writeup of the paper. I wish every paper would come with one of these. Academic writing is pretty dry - the impact of a paper can be so much higher if you publish a readable version to accompany the formal one. Charles Ye, Jasmine Cui, and Dylan Hadfield-Menell present some fascinating research into the challenge of having models distinguish their own privileged text (here wrapped in role tags like…",
+      "link": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+      "pubDate": "2026-06-22T23:59:53.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d0f14fad967a",
+      "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+      "description": "This morning on Hacker News I saw Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance, describing a small but effective inpainting model - a model where you can mark regions of an image to remove and the model imagines what should fill the space. The released model required PyTorch and NVIDIA CUDA, but since it described itself as 0.2B I decided to try and get it running using WebGPU in a browser. TL;DR: I got it working, and you can try the demo at…",
+      "link": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+      "pubDate": "2026-06-22T23:43:51.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "31be3b8250b1",
+      "title": "RLHF: Aligning Language Models with Human Feedback",
+      "description": "The full RL nanodegree, covered with implementation.",
+      "link": "https://blog.dailydoseofds.com/p/rlhf-aligning-language-models-with",
+      "pubDate": "2026-06-22T22:55:23.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!P8L4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17613d9a-1a71-4fbd-a599-1ea575792c86_1456x688.png",
+      "type": "blog"
+    },
+    {
+      "id": "34d0c115291d",
+      "title": "PHP 8.5 Pipe Operator",
+      "description": "PHP 8.5 shipped with a feature that functional programming enthusiasts have been requesting for years: the pipe operator (|>). If you’ve used pipes in Unix shells, Elixir, F#, or even JavaScript proposals, the concept will feel immediately familiar. If you haven’t, you’re about to discover one of the cleanest ways to express data transformations in […] The post PHP 8.5 Pipe Operator appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/06/php-8-5-pipe-operator/",
+      "pubDate": "2026-06-22T22:25:59.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/06/2026-04-11-pipe-operator.png",
+      "type": "blog"
+    },
+    {
+      "id": "4c01c044bfb7",
+      "title": "Eloquent Query Classes Pattern",
+      "description": "Learn how to use Eloquent Query Classes to organize important database logic in Laravel without adding a full repository layer. Read more",
+      "link": "https://freek.dev/3146-eloquent-query-classes-pattern",
+      "pubDate": "2026-06-22T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e663a5ed0eab",
+      "title": "Loop Engineering",
+      "description": "The following article originally appeared on Addy Osmani’s blog and is being reposted here with the author’s permission. Loop engineering is replacing yourself as the person who prompts the agent. You design the system that does it instead. A loop here can be thought of as a recursive goal where you define a purpose and […]",
+      "link": "https://www.oreilly.com/radar/loop-engineering/",
+      "pubDate": "2026-06-22T11:04:36.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "173dbad21da8",
       "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
       "description": "sqlite-utils is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default sqlite3 package, including support for complex table transformations, automatic table creation from JSON data and a whole lot more. I released sqlite-utils 4.0rc1, the first release candidate for sqlite-utils v4. The major version bump indicates some (minor) backwards incompatible changes, so I'm interested in having people…",
@@ -282,6 +370,20 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/d26c718c7cacc36d91c55bef64f49824f6b341dc-960x540.gif?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "aa26153197c3",
+      "title": "This Week in AI: Fable 5, the Clone Wave, and Uber’s AI Reality Check",
+      "description": "This week, egghead.io cofounder John Lindquist joined host YK Sugi, founder of CS Dojo and developer experience manager at Eventual, to cover the latest AI news. First on the agenda was the contested release of Claude Fable 5. They also examined the financial shifts reshaping the technology industry, including the rising costs associated with agentic […]",
+      "link": "https://www.oreilly.com/radar/this-week-in-ai-fable-5-the-clone-wave-and-ubers-ai-reality-check/",
+      "pubDate": "2026-06-18T19:33:23.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

@@ -2,6 +2,86 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "ed6c3b322d4e",
+      "title": "Comment sur-optimiser Claude Code pour shipper les yeux fermés - Gen AI Nantes #19",
+      "description": "Entre le \"wow\" de la démo et un déploiement qui tient en prod, il y a un gouffre. Cédric montre comment le franchir avec Claude Code : d'abord en poussant l'outil dans ses retranchements (plugins, skills, commandes, hooks taillés sur mesure), puis en l'industrialisant avec une vraie architecture - multi-agents, workflows internes et externes, quality gates et process d'ingénierie. Moins de magie, plus de méthode. À la fin, vous saurez comment passer de l'effet démo à un outil fiable, et ce que…",
+      "link": "https://www.youtube.com/watch?v=Z6QbO_NDUGg",
+      "pubDate": "2026-06-22T19:18:06.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/Z6QbO_NDUGg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Z6QbO_NDUGg"
+    },
+    {
+      "id": "f8a5bcbb7b6c",
+      "title": "Comment compter des millions de vues ? HyperLogLog",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/hyperloglog-2345 Imaginez-vous travailler chez YouTube : on vous demande de compter le nombre de vues d'une vidéo, comment feriez-vous ? Intuitivement, on penserait à enregistrer tous les utilisateurs qui consultent la vidéo puis à compter la taille de la liste. Mais, pour une vidéo avec plusieurs millions de vues, stocker chaque identifiant utilisateur peut rapidement coûter cher en mémoire. C'est là…",
+      "link": "https://www.youtube.com/watch?v=OWBT86qoEqk",
+      "pubDate": "2026-06-22T13:00:04.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/OWBT86qoEqk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "OWBT86qoEqk"
+    },
+    {
+      "id": "919c7cfddcd7",
+      "title": "Déclaré mort, toujours vivant : ce que le vinyle apprend à nos équipes tech",
+      "description": "On a déclaré le vinyle mort. Le COBOL aussi. Les tests de mutation dormaient dans les bonnes pratiques oubliées. Ils sont tous revenus ou n'ont jamais vraiment disparu. Parce que nouveau ne veut pas dire meilleur. Et que certains outils font quelque chose que rien d'autre ne fait aussi bien.",
+      "link": "https://blog.octo.com/declare-mort-toujours-vivant--ce-que-le-vinyle-apprend-a-nos-equipes-tech",
+      "pubDate": "2026-06-22T12:36:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7784c705e56",
+      "title": "Tu débutes dans la tech ? Fais ça avant de chercher le job parfait",
+      "description": "On veut tous trouver LE bon projet, celui où on se sent bien, où on maîtrise son sujet. Mais Clément Bertillon m’a rappelé une vérité que beaucoup oublient : “Au début, ce n’est pas de confort dont tu as besoin, mais de variété.” 💡 En ESN, tu touches à plein de projets, d’équipes, de technos, de problèmes différents. Et c’est ce qui te fait grandir 10 fois plus vite qu’en restant 10 ans sur le même code. 🎧 L’épisode complet ici 👉 https://youtu.be/2LdKdU-lq4E",
+      "link": "https://www.youtube.com/watch?v=TEGHhEg6oBc",
+      "pubDate": "2026-06-22T11:30:05.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/TEGHhEg6oBc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "TEGHhEg6oBc"
+    },
+    {
+      "id": "c12973449790",
+      "title": "Pourquoi les logiciels simples gagnent toujours",
+      "description": "« N'introduis la complexité que lorsqu'elle est vraiment nécessaire. Le but d'un logiciel, c'est d'être utile. » Extrait de Café Tech avec Imen. #shorts #tech #software #developpement #programmation #innovation",
+      "link": "https://www.youtube.com/watch?v=Y85Tpzp8jEY",
+      "pubDate": "2026-06-22T08:05:32.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/Y85Tpzp8jEY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Y85Tpzp8jEY"
+    },
+    {
       "id": "8c5217c9c8c4",
       "title": "AGO 2026 : une croissance historique et une expertise IA confirmée",
       "description": "Hier s’est tenue notre Assemblée Générale Ordinaire 2026, un temps fort de notre coopérative où nous avons fait l’état des lieux de notre activité, validé nos résultats, l’entrée au sociétariat de nos nouveaux associés ou encore renouvelé les membres de notre conseil de surveillance. Nous clôturons une année 2025 marquée par une performance robuste, qui […] Cet article, AGO 2026 : une croissance historique et une expertise IA confirmée, est paru en premier sur Les-Tilleuls.coop.",
@@ -16,6 +96,21 @@
         "IA"
       ],
       "image": "https://les-tilleuls.coop/wp-content/uploads/2026/06/TILLEULS15-NCLSPROD-06936-1024x683.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1fe7d95390b4",
+      "title": "Dog at Work : comment on a transformé une belle idée en démarche sérieuse",
+      "description": "À l'occasion de la Journée Dog at Work, retour sur 4 ans de cohabitation chez Elao : une mise à jour du DUERP, une enquête d'équipe et une charte dog friendly co-construite qui changent tout.",
+      "link": "https://www.elao.com/blog/elao/dog-at-work",
+      "pubDate": "2026-06-20T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
