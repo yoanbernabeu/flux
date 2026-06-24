@@ -2,6 +2,39 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "5f3747d5ea9e",
+      "title": "#362.src - Le LEAN à l'ère de l'IA: Réapprendre à produire du code (vraiment) Lean avec l'IA avec Yacine Hmito",
+      "description": "\"Les meilleures personnes pour résoudre un problème sont celles qui le voient, qui le palpent, voire qui le causent.\" Le D.E.V. de la semaine est Yacine Hmito, VP of Technology chez Fabriq. Ensemble, on explore comment le Lean, conçu à l'origine pour les usines automobiles, nous offre les clés pour mieux utiliser nos agents IA de codage. Yacine partage sa vision : le Lean n'est pas une simple méthode mais un état d'esprit qui place l'apprentissage et la satisfaction client au c&oeligur de toute…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-362-9c6fd0a77b77",
+      "pubDate": "2026-06-24T03:00:23.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/38cf2ebd-96b7-498d-9097-9b72351cabd6.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/61e55340-6c5b-451d-b8d4-9c6fd0a77b77.mp3?_=1782216083",
+      "duration": "58:02"
+    },
+    {
+      "id": "c01f04b2c2b0",
+      "title": "Générer un App Password pour utiliser Gmail en IMAP/SMTP ",
+      "description": "Découvrez comment utiliser une adresse Gmail avec IMAP et SMTP grâce aux App Passwords de Google. Une solution simple pour connecter Gmail à vos applications, serveurs et outils d'envoi d'emails.",
+      "link": "https://code-garage.com/blog/generer-un-app-password-pour-utiliser-gmail-en-imap-smtp",
+      "pubDate": "2026-06-23T08:29:07.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ed6c3b322d4e",
       "title": "Comment sur-optimiser Claude Code pour shipper les yeux fermés - Gen AI Nantes #19",
       "description": "Entre le \"wow\" de la démo et un déploiement qui tient en prod, il y a un gouffre. Cédric montre comment le franchir avec Claude Code : d'abord en poussant l'outil dans ses retranchements (plugins, skills, commandes, hooks taillés sur mesure), puis en l'industrialisant avec une vraie architecture - multi-agents, workflows internes et externes, quality gates et process d'ingénierie. Moins de magie, plus de méthode. À la fin, vous saurez comment passer de l'effet démo à un outil fiable, et ce que…",

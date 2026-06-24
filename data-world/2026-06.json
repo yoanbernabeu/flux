@@ -2,6 +2,124 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "41e238083687",
+      "title": "Loop Engineering, Clearly Explained!",
+      "description": "(must-know to efficiently run ML models in production)",
+      "link": "https://blog.dailydoseofds.com/p/loop-engineering-clearly-explained",
+      "pubDate": "2026-06-24T00:59:11.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!f3sp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18e5ea0c-2a3b-4f0d-9705-7cf90edf3256_1200x1105.png",
+      "type": "blog"
+    },
+    {
+      "id": "d51209cb5acd",
+      "title": "datasette 1.0a35",
+      "description": "Release: datasette 1.0a35 I'll write more about this one tomorrow, but it's a big release. Three highlights from the release notes: New \"Create table\" interface in the database actions menu, backed by the /&lt;database&gt;/-/create JSON API. It can define columns, primary keys, custom column types, NOT NULL constraints, literal defaults, expression defaults and single-column foreign keys. (#2787) New \"Alter table\" table action and /&lt;database&gt;/&lt;table&gt;/-/alter JSON API for changing…",
+      "link": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
+      "pubDate": "2026-06-23T21:34:37.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "26d4c32c1f6a",
+      "title": "OPFS + Pyodide test harness",
+      "description": "Tool: OPFS + Pyodide test harness I've been pondering if Datasette Lite - the Python Datasette application run entirely in the browser using Pyodide and WebAssembly - might be able to edit persistent SQLite files stored on the user's computer. That's what OFPS (Origin Private File System) is for, so I had Claude Code for web build me this playground UI to try it out in different browsers. Tags: browsers, pyodide, datasette-lite",
+      "link": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+      "pubDate": "2026-06-23T18:58:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6d9ab0a3205c",
+      "title": "Neovim PHP Development Setup",
+      "description": "If you’ve ever watched a colleague fly through code in NeoVim and thought “that looks fast but I’d never figure out the config,” the barrier to entry has dropped significantly. LazyVim — a NeoVim distribution that ships with sensible defaults and a plugin manager — gives you a fully functional IDE experience within minutes, with […] The post Neovim PHP Development Setup appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/06/neovim-php-development-setup/",
+      "pubDate": "2026-06-23T17:29:18.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/06/2026-04-12-neovim-php-setup.png",
+      "type": "blog"
+    },
+    {
+      "id": "3f5a12e31210",
+      "title": "The Code You Didn't Write Is Still Yours to Defend",
+      "description": "Recently I asked an AI assistant to tidy a messy spreadsheet and chart the result. Nothing exotic. To do the work, it spun up a sandbox, pulled a handful of open source packages into that environment, and ran them. I didn't write any code. I didn't ask for any code. Packages I had never seen were fetched and executed on my behalf, and it was over in seconds. That was a software supply chain event. It happened in a workflow that no scanner, no registry proxy, and no review process was watching.…",
+      "link": "https://socket.dev/blog/the-code-you-didnt-write-is-still-yours-to-defend?utm_medium=feed",
+      "pubDate": "2026-06-23T15:41:07.662Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6f33be259d44",
+      "title": "Improving Laravel Architecture With Expressive",
+      "description": "Learn how Expressive can improve a Laravel application by keeping Eloquent as the database layer while moving business logic to fully typed objects. Read more",
+      "link": "https://freek.dev/3134-improving-laravel-architecture-with-expressive",
+      "pubDate": "2026-06-23T12:30:27.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a3e153489d2b",
+      "title": "Principal Drift",
+      "description": "Over the past year I’ve reviewed enterprise agent architectures at roughly two dozen organizations, including banks, retailers, healthcare systems, and a couple of regulators. The architecture diagrams have been reliably impressive. There are boxes for the MCP gateway, the tool registry, the vector store, the orchestrator, the policy engine, and the observability stack. There are […]",
+      "link": "https://www.oreilly.com/radar/principal-drift/",
+      "pubDate": "2026-06-23T10:21:13.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "31a6e2317084",
+      "title": "One Month of Ecosystem Security Engineering",
+      "description": "Last month I shared with you that the PHP Foundation secured a grant by Alpha-Omega through the Linux Foundation to help improve the security of the PHP open source ecosystem, and that it is forming a new Ecosystem Security Team. Today I want to update you on the progress so far. After a brief set-up period, I jumped into three main activities: assessing PHP community members' most pressing needs assembling a team of volunteers to help applying the resources granted to scan PHP ecosystem…",
+      "link": "https://thephp.foundation/blog/2026/06/23/one-month-of-ecosystem-security-engineering/",
+      "pubDate": "2026-06-23T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f26c96cfcb19",
       "title": "Prompt Injection as Role Confusion",
       "description": "Prompt Injection as Role Confusion First, I absolutely love this: This is a blog-style writeup of the paper. I wish every paper would come with one of these. Academic writing is pretty dry - the impact of a paper can be so much higher if you publish a readable version to accompany the formal one. Charles Ye, Jasmine Cui, and Dylan Hadfield-Menell present some fascinating research into the challenge of having models distinguish their own privileged text (here wrapped in role tags like…",
