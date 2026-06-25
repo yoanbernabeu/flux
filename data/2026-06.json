@@ -2,6 +2,70 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "f2abcef457a2",
+      "title": "Claviers ASUS ROG et Linux : fuyez ! (ou bricolez dur)",
+      "description": "Il y a plusieurs années maintenant, j’ai craqué pour un gros clavier gamer avec triple connexion : USB-C, Bluetooth, Dongle 2.4GHz. L’objectif : pouvoir basculer [...]",
+      "link": "https://blog.seboss666.info/2026/06/claviers-asus-rog-et-linux-fuyez-ou-bricolez-dur/",
+      "pubDate": "2026-06-24T17:28:40.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2018/05/computer-madness.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e860e469a5c2",
+      "title": "The Dark Side of AI : Épisode 1",
+      "description": "Derrière l'euphorie de l'IA générative : des travailleurs invisibles à 1€ de l'heure, des chatbots qui nous flattent plutôt que de nous informer, et une bulle que ses propres artisans n'osent plus nier.",
+      "link": "https://blog.ippon.fr/2026/06/24/the-dark-side-of-ai-episode-1/",
+      "pubDate": "2026-06-24T14:21:27.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/illustration.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "851f6928b299",
+      "title": "Les coulisses de l’évolution tech : de 1983 à l’ère de l’IA, avec une approche simple et pragmatique",
+      "description": "Dans cet épisode, on plonge dans le parcours d’un passionné de technologie qui a commencé dès 1983 avec les micro-ordinateurs, avant de traverser les grandes évolutions du développement logiciel jusqu’à l’ère de l’IA. Au fil de la conversation, on parle de PHP, de simplicité, d’architecture logicielle, de pragmatisme et des erreurs fréquentes qui rendent les projets plus complexes qu’ils ne devraient l’être. L’échange montre pourquoi l’expérience, la réflexion et le bon sens restent essentiels…",
+      "link": "https://www.youtube.com/watch?v=wEyaWbmOUpI",
+      "pubDate": "2026-06-24T11:45:19.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/wEyaWbmOUpI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "wEyaWbmOUpI"
+    },
+    {
+      "id": "1a07cce4a124",
+      "title": "UX Days 2026 : Design, IA et conscience, ce que cette journée nous a appris sur notre métier",
+      "description": "L'intelligence artificielle redessine nos métiers. C'est le constat que partagent aujourd'hui designers, développeurs et product managers. Les UX Days 2026 n'ont pas échappé à cette réalité. Parmi les nombreuses conférences de la journée, six nous ont particulièrement marqués et partageaient un fil rouge : comment concevoir avec conscience à l'ère de l'IA ? Keynote d'ouverture avec Pablo Ruiz-Múzquiz : L'avenir du design UX est-il l’open source ? La matinée s'est ouverte avec Pablo…",
+      "link": "https://jolicode.com/blog/ux-days-2026-design-ia-et-conscience-ce-que-cette-journee-nous-a-appris-sur-notre-metier",
+      "pubDate": "2026-06-24T09:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/ux-days-2026/uxdays01.png",
+      "type": "blog"
+    },
+    {
       "id": "5f3747d5ea9e",
       "title": "#362.src - Le LEAN à l'ère de l'IA: Réapprendre à produire du code (vraiment) Lean avec l'IA avec Yacine Hmito",
       "description": "\"Les meilleures personnes pour résoudre un problème sont celles qui le voient, qui le palpent, voire qui le causent.\" Le D.E.V. de la semaine est Yacine Hmito, VP of Technology chez Fabriq. Ensemble, on explore comment le Lean, conçu à l'origine pour les usines automobiles, nous offre les clés pour mieux utiliser nos agents IA de codage. Yacine partage sa vision : le Lean n'est pas une simple méthode mais un état d'esprit qui place l'apprentissage et la satisfaction client au c&oeligur de toute…",

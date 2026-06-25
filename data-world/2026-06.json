@@ -2,6 +2,124 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "802363aee510",
+      "title": "simonw/browser-compat-db",
+      "description": "simonw/browser-compat-db Inspired by Mozilla's new MDN MCP service - source code here - I decided to try converting their comprehensive mdn/browser-compat-data repository full of browser compatibility data into a SQLite database. This new GitHub repo includes a Claude Code for web (Opus 4.8) generated script for doing that using sqlite-utils. I wanted the resulting ~66MB SQLite database to be available via the GitHub CDN with open CORS headers. GitHub releases don't have those, but any file…",
+      "link": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+      "pubDate": "2026-06-24T23:59:03.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ef2c70f8b290",
+      "title": "Speculation Is All You Need!",
+      "description": "New technique delivers 4x faster LLM inference in production.",
+      "link": "https://blog.dailydoseofds.com/p/speculation-is-all-you-need",
+      "pubDate": "2026-06-24T22:06:25.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!pRI0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b4df7e8-5637-49f2-aa95-df2c979fb2ff_1166x1166.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "691896561257",
+      "title": "Quoting Tom MacWright",
+      "description": "In the last few months, I've started to see [job applications] that were clearly cowritten by an LLM, link to an LLM-generated portfolio site, which then links to LLM-generated GitHub projects, with purely LLM-generated commit messages. [...] My other reaction is that I don't know anything about these people. They haven't put themselves out there. They haven't said anything true. [...] The perfected, generated, prompted resume is generic and impersonal. It tells me nothing about this person,…",
+      "link": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+      "pubDate": "2026-06-24T18:13:51.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fd287dbf20ca",
+      "title": "Asterisk 22.10 Breaks Record App",
+      "description": "I have been using Asterisk for many, many years. Today I release some new code, and upon code release we automatically update Asterisk to the latest version. All of a sudden, I started getting reports from customer service letting me know that recording voice mails was no longer working. I started looking into it and […] The post Asterisk 22.10 Breaks Record App appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/06/asterisk-22-10-breaks-record-app/",
+      "pubDate": "2026-06-24T18:03:31.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "caedfbcc5e90",
+      "title": "Community Corner: Spec-Driven Development with Holly Schilling",
+      "description": "In this episode, Scott talks Holly Schilling about her work on the php tek 2026 mobile app and spec-driven development. Links: Our Discord – https://discord.gg/aMTxunVx Buy our shirts – https://store.phparch.com/products/community-corner-podcast-t-shirt Holly’s Links: Discord: TheCodeLorax Mastodon: https://tech.lgbt/@TheCodeLorax Blog: https://EventuallyWrong.com Scott’s Links: Website – https://scott.keck-warren.com/ Bluesky – https://bsky.app/profile/scottkeckwarren.bsky.social LinkedIn –…",
+      "link": "https://www.phparch.com/podcast/community-corner-spec-driven-development-with-holly-schilling/",
+      "pubDate": "2026-06-24T14:55:55.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7da5d10896d6",
+      "title": "Context-aware headings in HTML",
+      "description": "A look at the new experimental headingoffset attribute, which lets heading levels adapt to their context instead of hardcoding h2s and h3s. A thoughtful explanation of where this could be genuinely useful, especially in component-based UIs. Read more",
+      "link": "https://freek.dev/3148-context-aware-headings-in-html",
+      "pubDate": "2026-06-24T12:30:34.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5ac94a283b43",
+      "title": "Stop Getting Good at Protocols. Get Good at Agent Experience.",
+      "description": "In 2025, if you weren’t building with MCP, you weren’t serious about agents. The Model Context Protocol dominated the agent conversation for the better part of the year. Conference talks, roadmaps, hiring plans, all of it revolved around MCP. Then late 2025 into 2026, AI Skills arrived and the backlash was immediate. Engineers declared MCP […]",
+      "link": "https://www.oreilly.com/radar/stop-getting-good-at-protocols-get-good-at-agent-experience/",
+      "pubDate": "2026-06-24T11:04:07.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "095ec6c23d3f",
+      "title": "Frontier AI Is Now Critical Infrastructure",
+      "description": "Following its abrupt order on June 12th suspending global access to Claude Fable 5 and Mythos 5, the U.S. government's national security clampdown on Anthropic has escalated. The models, initially taken offline due to safety guardrail \"jailbreaks,\" are now at the center of a total federal blackout that has completely re-defined the landscape of cloud-based AI vendor dependencies. The situation hit a boiling point when a front-page report from ⁠The New York Times revealed that even the National…",
+      "link": "https://socket.dev/blog/frontier-ai-is-now-critical-infrastructure?utm_medium=feed",
+      "pubDate": "2026-06-24T04:25:35.035Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/45a19e243c0aaa32fce1318a5f73d02c0ad68b84-869x546.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
       "id": "41e238083687",
       "title": "Loop Engineering, Clearly Explained!",
       "description": "(must-know to efficiently run ML models in production)",
