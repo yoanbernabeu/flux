@@ -2,6 +2,43 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "96aa53a971fc",
+      "title": "#317.exe - SQL: Turing complete et toujours incompris par Léa Buendé",
+      "description": "Pour l'épisode #317 je recevais Cédric Miachon. On en débrief avec Léa. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-317-a2f165b9b8ab",
+      "pubDate": "2026-06-26T03:00:17.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/248e3b11-3514-45c3-a17f-a2f165b9b8ab.mp3?_=1782388877",
+      "duration": "11:08"
+    },
+    {
+      "id": "e0ab0ac2fd9f",
+      "title": "Faut-il vraiment découper son IA en agents spécialisés ?",
+      "description": "Tiffany Souterre, Olivier Leplus et Arnaud Jean, developer advocates chez AWS, démontent pour le Studio Devoxx France l'architecture derrière leur workshop : un Maître du Jeu de Donjons & Dragons qui orchestre plusieurs agents IA, avec MCP, A2A et RAG. Ils racontent comment un orchestrateur distribue le travail à des agents spécialisés, et pourquoi le vrai enjeu n'est pas l'agent qui impressionne en démo mais le système qu'on déploie en prod notamment via l'observabilité. Au programme : •…",
+      "link": "https://www.youtube.com/watch?v=vzcqUrwNh4Q",
+      "pubDate": "2026-06-25T08:01:48.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/vzcqUrwNh4Q/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "vzcqUrwNh4Q"
+    },
+    {
       "id": "f2abcef457a2",
       "title": "Claviers ASUS ROG et Linux : fuyez ! (ou bricolez dur)",
       "description": "Il y a plusieurs années maintenant, j’ai craqué pour un gros clavier gamer avec triple connexion : USB-C, Bluetooth, Dongle 2.4GHz. L’objectif : pouvoir basculer [...]",

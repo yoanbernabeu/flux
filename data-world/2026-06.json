@@ -2,6 +2,124 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "74d890086d49",
+      "title": "The PHP Podcast 2026.06.25",
+      "description": "🎙️ PHP Podcast – June 25, 2026 Hosts: Eric Van Johnson & John Congdon Eric and John are back. Sara and Holly did a better job. Eric’s computer still hates him. 🔌 Eric’s Connectivity Saga: A Possible Resolution For weeks, Eric has been dealing with a maddening streaming issue — he could see and hear […] The post The PHP Podcast 2026.06.25 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-06-25/",
+      "pubDate": "2026-06-26T02:05:32.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/06/The-PHP-Podcast-2026.06.04-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5937842bfc7b",
+      "title": "AI and Liability",
+      "description": "AI and Liability Bruce Schneier on the recent German ruling that Google be held liable for errors introduced in their AI overviews: AI agents are agents of the person or organization that deploys them—and should be treated by the law as such. If a company hired human writers to write its summaries, that company would be liable for inaccuracies in those summaries. [...] To allow businesses to hide behind the excuse of faulty AI in those same circumstances would be a massive handout to companies,…",
+      "link": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
+      "pubDate": "2026-06-25T22:28:46.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c2916fb71b18",
+      "title": "The AI Engineering Master Stack for 2026!",
+      "description": "...covered with full hands-on resources.",
+      "link": "https://blog.dailydoseofds.com/p/the-ai-engineering-master-stack-for",
+      "pubDate": "2026-06-25T21:49:38.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!h8h3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F029fa969-ee3a-45a6-972f-6d7edbe6129b_1930x1852.png",
+      "type": "blog"
+    },
+    {
+      "id": "d89331e1cc70",
+      "title": "Miasma Mini Shai-Hulud Hits LeoPlatform npm Packages and GitHub Actions, Expands to the Go Ecosystem",
+      "description": "Latest wave affects LeoPlatform/RStreams npm packages, three llxlr-published npm packages, the Verana Blockchain Go module, and GitHub Actions/developer-tool workflows. Socket Threat Research is tracking a new supply chain attack wave tied to the Mini Shai-Hulud, Miasma, and Hades malware family. The latest activity includes malicious npm releases affecting LeoPlatform and RStreams packages, GitHub Actions workflow abuse, and a related Go module compromise involving the Verana Blockchain…",
+      "link": "https://socket.dev/blog/miasma-mini-shai-hulud-hits-leoplatform-npm-packages-go-ecosystem?utm_medium=feed",
+      "pubDate": "2026-06-25T17:44:04.777Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/57012bf227474a29b9922afbaafc6c8390ddf177-2048x687.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "cf0ca466c859",
+      "title": "datasette-export-database 0.3a2",
+      "description": "Release: datasette-export-database 0.3a2 An embarrassingly tiny release. The pyproject.toml had pinned to datasette==1.0a27, inadvertently making this plugin incompatible with all other Datasette versions. It's now datasette&gt;=1.0a27 instead. Tags: datasette",
+      "link": "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything",
+      "pubDate": "2026-06-25T17:21:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5a1b21613122",
+      "title": "Claude Code for PHP Developers",
+      "description": "If you’ve been hearing about Claude Code but assumed it’s mostly for the JavaScript and Python crowd, it’s time to take another look. Claude Code is a command-line AI coding tool that works directly in your terminal, and it’s remarkably effective for PHP development. Whether you’re building with Laravel, Symfony, or vanilla PHP, there are […] The post Claude Code for PHP Developers appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/06/claude-code-for-php-developers/",
+      "pubDate": "2026-06-25T16:00:58.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/06/2026-04-11-claude-code-php.png",
+      "type": "blog"
+    },
+    {
+      "id": "2d6e77fe175f",
+      "title": "Life is too short for a slow terminal",
+      "description": "Mijndert Stuij shares a bunch of practical ways to make your terminal feel instant, from skipping shell frameworks and caching completions to lazy-loading slow tools. A good reminder that tiny bits of latency add up fast when you live in your terminal all day. Read more",
+      "link": "https://freek.dev/3149-life-is-too-short-for-a-slow-terminal",
+      "pubDate": "2026-06-25T12:30:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7dfc892478fb",
+      "title": "So Long and Thanks for All the Context",
+      "description": "I got a really interesting question last week from Mike Loukides, my editor at Radar, after he read the third part of this trilogy on context management. “Another issue I’ve read about,” Mike asked, “is the tendency for a model to ignore the middle of the context. I’ve seen that particularly for the models with […]",
+      "link": "https://www.oreilly.com/radar/so-long-and-thanks-for-all-the-context/",
+      "pubDate": "2026-06-25T10:30:34.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "802363aee510",
       "title": "simonw/browser-compat-db",
       "description": "simonw/browser-compat-db Inspired by Mozilla's new MDN MCP service - source code here - I decided to try converting their comprehensive mdn/browser-compat-data repository full of browser compatibility data into a SQLite database. This new GitHub repo includes a Claude Code for web (Opus 4.8) generated script for doing that using sqlite-utils. I wanted the resulting ~66MB SQLite database to be available via the GitHub CDN with open CORS headers. GitHub releases don't have those, but any file…",
