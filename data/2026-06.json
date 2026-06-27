@@ -2,6 +2,70 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e36b5d9cdbd3",
+      "title": "Une semaine pour appréhender l'IA générative dans les métiers du produit",
+      "description": "Pendant cinq jours, une communauté de Product Managers, Product Owners, designers et coachs d'OCTO a mis l'IA générative au centre de son travail : de la théorie le matin à des prototypes fonctionnels en deux jours. Récit d'un format, de ses enseignements, et mode d'emploi pour le rejouer dans votre équipe.",
+      "link": "https://blog.octo.com/une-semaine-pour-apprehender-l'ia-generative-dans-les-metiers-du-produit",
+      "pubDate": "2026-06-26T16:37:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "09fe067607ce",
+      "title": "À l'ère de l'IA, comment valoriser les actifs digitaux d'une entreprise ?  Quand la Due Diligence technique change ses red flags ! ",
+      "description": "À l’ère de l’IA, la valeur d’un actif digital ne dépend plus de son coût de construction, mais de sa facilité de reproduction et de la capacité de l’entreprise à garder une avance durable. La due diligence technique devient stratégique : elle évalue la défendabilité du logiciel, la qualité des équipes encore plus et l’excellence opérationnelle.",
+      "link": "https://blog.octo.com/a-l'ere-de-l'ia-comment-valoriser-les-actifs-digitaux-d'une-entreprise-une-due-diligence-technique-classique-ne-suffit-plus.",
+      "pubDate": "2026-06-26T14:32:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8b92b44c264e",
+      "title": "Rebuilding My Own Claude Code – Meetup Generative AI Paris chez Comet du 9 juin 2025",
+      "description": "Vidéo YouTube publiée par Generative AI France (YouTube) — Rebuilding My Own Claude Code – Meetup Generative AI Paris chez Comet du 9 juin 2025",
+      "link": "https://www.youtube.com/watch?v=kJh4L0s9wHE",
+      "pubDate": "2026-06-26T14:22:11.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/kJh4L0s9wHE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "kJh4L0s9wHE"
+    },
+    {
+      "id": "ae43da0e350c",
+      "title": "La sobriété, c'est un métier du « ne pas »",
+      "description": "Empreinte carbone du numérique : 3 actions concrètes pour réduire l'impact écologique du code. Découvrez les leviers du développeur.",
+      "link": "https://lecodeestdanslepre.fr/billets/sobriete-numerique-developpeur",
+      "pubDate": "2026-06-26T06:07:32.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "96aa53a971fc",
       "title": "#317.exe - SQL: Turing complete et toujours incompris par Léa Buendé",
       "description": "Pour l'épisode #317 je recevais Cédric Miachon. On en débrief avec Léa. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",

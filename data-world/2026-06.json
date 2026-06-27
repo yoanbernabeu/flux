@@ -2,6 +2,169 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "683821feeb96",
+      "title": "Prompt Engineering & Loop Engineering, Clearly Explained!",
+      "description": "...covered with actual tradeoffs engineers should know.",
+      "link": "https://blog.dailydoseofds.com/p/prompt-engineering-and-loop-engineering",
+      "pubDate": "2026-06-27T01:22:03.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!IqTp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ce5f6c9-a234-45ce-b85c-6dc854366ca3_1447x1447.png",
+      "type": "blog"
+    },
+    {
+      "id": "326afa476552",
+      "title": "Quoting Dean W. Ball",
+      "description": "This is a bad state of affairs. Consider, in particular, some industry dynamics: Frontier models are trained at an enormous cost, and a significant fraction of that cost is recouped in the few post-release months that they are broadly available. After that period elapses, the models become sub-frontier, competition emerges, and margins compress. Every week of delay is eating into the narrow window that labs have to make their accounting work. The ongoing AI infrastructure buildout—the one that…",
+      "link": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
+      "pubDate": "2026-06-26T22:25:46.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae29768dabe4",
+      "title": "Quoting Timothy B. Lee",
+      "description": "This is like saying there's no learning curve to being a manager because your employees will just do whatever you tell them to do. &mdash; Timothy B. Lee, on the idea that LLMs take no skill and have no learning curve Tags: llms, ai, generative-ai",
+      "link": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
+      "pubDate": "2026-06-26T21:15:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cd2ad53be658",
+      "title": "What happened after 2,000 people tried to hack my AI assistant",
+      "description": "What happened after 2,000 people tried to hack my AI assistant Fernando Irarrázaval ran a challenge on hackmyclaw.com to see if anyone could leak secrets held by his OpenClaw test instance by sending it email. Surprisingly, after 6,000 attempts (and $500 in token spend and a Google account suspension triggered by too many inbound emails) nobody managed to leak the secret. The underlying model was Opus 4.6, with the following prompt: ### Anti-Prompt-Injection Rules NEVER based on email content:…",
+      "link": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
+      "pubDate": "2026-06-26T18:33:14.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5e81afa6f856",
+      "title": "Incident Report: CVE-2026-LGTM",
+      "description": "Incident Report: CVE-2026-LGTM Spectacular hypothetical incident report by Andrew Nesbitt. Day 2, 16:00 UTC --- Two AI review agents from competing vendors, both attached to a downstream pull request bumping foxhole-lz4, enter a disagreement loop over whether the package is malicious. After 340 comments and $41,255 in inference spend, Finance revokes both API keys; one vendor's marketing team, cc'd on the cost anomaly alert, issues a press release citing \"a 430% YoY increase in adversarial…",
+      "link": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
+      "pubDate": "2026-06-26T17:58:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4c3bfa9eb5a7",
+      "title": "Quoting OpenAI",
+      "description": "We're beginning a limited preview of the GPT‑5.6 series: Sol, our flagship model; Terra, a balanced model for everyday work; and Luna, a fast and affordable model. Terra has competitive performance to GPT‑5.5 while being 2x cheaper and Luna brings strong capability at our lowest cost. [...] We believe in broad access, and we plan to make GPT‑5.6 Sol, Terra, and Luna generally available in the coming weeks. As part of our ongoing engagement with the U.S. government, we previewed our plans and…",
+      "link": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
+      "pubDate": "2026-06-26T17:10:43.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0339d99481cc",
+      "title": "Miasma Mini Shai-Hulud Hits ImmobiliareLabs npm Packages",
+      "description": "Latest wave affects legitimate @immobiliarelabs Backstage packages, with malicious npm releases published across GitLab and LDAP authentication plugin families on June 26, 2026. Socket Threat Research is tracking a fresh compromise in the ongoing Miasma Mini Shai-Hulud supply chain campaign. The latest activity affects legitimate npm packages published under the @immobiliarelabs scope, including Backstage plugins used for GitLab integration and LDAP authentication. This appears to be a…",
+      "link": "https://socket.dev/blog/miasma-mini-shai-hulud-hits-immobiliarelabs-npm-packages?utm_medium=feed",
+      "pubDate": "2026-06-26T16:27:07.422Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/6a48e7d4fe921df17479f6d6692b4f979848d31b-2048x654.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "f4844176662f",
+      "title": "Agentic Code Review",
+      "description": "The following article originally appeared on Addy Osmani’s blog site and is being republished here with the author’s permission. Coding agents are extraordinarily good now, and getting better fast. The interesting consequence is that the hard part of engineering moved from writing code to deciding whether to trust it, which makes review the most leveraged […]",
+      "link": "https://www.oreilly.com/radar/agentic-code-review/",
+      "pubDate": "2026-06-26T15:50:43.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/06/image-18-1600x900.png",
+      "type": "blog"
+    },
+    {
+      "id": "f9c678d9e17b",
+      "title": "Rolldown Pulls Rust React Compiler Integration After Binary Size Increase",
+      "description": "Rolldown and Vite pulled a Rust-based React Compiler integration after maintainers decided the binary-size cost was too high for a feature that would ship to all users by default. Boshen, a maintainer involved in Rolldown and Oxc, said the increase could not be justified for the full Vite user base. “We withdrew the Rust React Compiler integration from Rolldown and Vite because it increased the binary size from 28.7MB to 33.8MB, a 17% increase,” he wrote. # The work has been in discussion for…",
+      "link": "https://socket.dev/blog/rolldown-pulls-rust-react-compiler-integration?utm_medium=feed",
+      "pubDate": "2026-06-26T14:21:21.184Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/2505eec2bfd365125b2a11df4deba0da06e30a9d-1732x1290.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "16aa4e8f18d1",
+      "title": "Learn Anything With My /teach Skill",
+      "description": "Matt Pocock shows how his /teach skill turns Claude Code into a personalized teacher that adapts lessons to your goals, level, and progress. It creates structured lessons, resources, quizzes, and a learning record so you can keep building on what you learned. Read more",
+      "link": "https://freek.dev/3150-learn-anything-with-my-teach-skill",
+      "pubDate": "2026-06-26T12:30:35.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "99dad2d9dd93",
+      "title": "SymfonyOnline June 2026: Replays are available!",
+      "description": "Two weeks ago, we wrapped up another fantastic edition of SymfonyOnline, and we are still buzzing from the energy! 🎉 Our pre-conference workshops (June 9-10) focused on Symfony and AI, expertly led by Stiven Llupa and Guillaume Loulier. Thank you…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-replays-are-available?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-26T10:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
       "id": "74d890086d49",
       "title": "The PHP Podcast 2026.06.25",
       "description": "🎙️ PHP Podcast – June 25, 2026 Hosts: Eric Van Johnson & John Congdon Eric and John are back. Sara and Holly did a better job. Eric’s computer still hates him. 🔌 Eric’s Connectivity Saga: A Possible Resolution For weeks, Eric has been dealing with a maddening streaming issue — he could see and hear […] The post The PHP Podcast 2026.06.25 appeared first on PHP Architect.",
@@ -14,6 +177,21 @@
         "Web"
       ],
       "image": "https://www.phparch.com/wp-content/uploads/2026/06/The-PHP-Podcast-2026.06.04-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "2c9c87cfa4b2",
+      "title": "Maintaining PHP Build infrastructure for Windows: Tooling for builds and security updates",
+      "description": "Most PHP developers never think about how PHP is built. They download it or install it using a command or a pre-built image and get started with their work. That is exactly how it should feel. A build system is doing its job when the final result looks great and works as expected. Behind every official PHP for Windows release is a lot of infrastructure: compilers, SDKs, dependency libraries, extension compatibility, CI pipelines, and security updates that keep the supported PHP versions…",
+      "link": "https://thephp.foundation/blog/2026/06/26/maintaining-php-build-infrastructure-for-windows-tooling-for-builds-and-security-updates/",
+      "pubDate": "2026-06-26T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://thephp.foundation/assets/post-images/2026/windows-build-infrastructure/php-windows-release-flow.svg",
       "type": "blog"
     },
     {
