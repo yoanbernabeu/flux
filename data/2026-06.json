@@ -2,6 +2,51 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "312cf7796e2d",
+      "title": "Vibe coding : le crash dont vous êtes le héros",
+      "description": "Un vendredi, un assistant un peu trop serviable, et deux jauges qui ne disent pas la même chose. Une partie de vibe coding dont vous êtes le héros.",
+      "link": "https://lecodeestdanslepre.fr/billets/vibe-coding-erreur-ia",
+      "pubDate": "2026-06-27T17:18:37.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cc64262e0a49",
+      "title": "L'IA générative joue-t-elle au magicien d'Oz ?",
+      "description": "Entre prouesse réelle, AlphaFold ou météo, et fausses IA qui cachent des humains : le tri de ce que l'IA générative tient vraiment en 2026.",
+      "link": "https://lecodeestdanslepre.fr/billets/ia-generative-magicien-oz",
+      "pubDate": "2026-06-27T10:48:29.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b7b27235ec98",
+      "title": "Domain Driven Design: l'essentiel est avant le code",
+      "description": "Pour beaucoup de développeurs, voir un dossier “Domain” dans le code source d’un projet, visant à isoler la partie métier, et avoir des objets riches avec un nommage cohérent, c’est faire du DDD (Domain Driven Design). C’est certes un bon début, mais réduire le Domain Driven Design à une structure de dossier, c’est passer à côté de l’essentiel. Le DDD, ce n’est pas qu’une affaire de découpage et d’organisation technique. C’est avant tout une approche stratégique. Identifier les différents…",
+      "link": "https://www.jdecool.fr/blog/2026/06/27/domain-driven-design-l-essentiel-est-avant-le-code.html",
+      "pubDate": "2026-06-26T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e36b5d9cdbd3",
       "title": "Une semaine pour appréhender l'IA générative dans les métiers du produit",
       "description": "Pendant cinq jours, une communauté de Product Managers, Product Owners, designers et coachs d'OCTO a mis l'IA générative au centre de son travail : de la théorie le matin à des prototypes fonctionnels en deux jours. Récit d'un format, de ses enseignements, et mode d'emploi pour le rejouer dans votre équipe.",

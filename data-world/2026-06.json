@@ -2,6 +2,96 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "865a678e494c",
+      "title": "MySQL JSON Columns",
+      "description": "MySQL’s JSON column type has been around since version 5.7, but it’s one of those features where the gap between “I know it exists” and “I know when and how to use it well” is surprisingly wide. Used correctly, JSON columns give you schema flexibility exactly where you need it. Used poorly, they become a […] The post MySQL JSON Columns appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/06/mysql-json-columns/",
+      "pubDate": "2026-06-27T17:54:32.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/06/2026-04-12-mysql-json-columns.png",
+      "type": "blog"
+    },
+    {
+      "id": "31d29fc2ae63",
+      "title": "Storied Colors",
+      "description": "A lovely growing index of colors, each with its own provenance, chemistry, and often grim history. Beautifully made, and exactly the kind of rabbit hole I enjoy falling into. Read more",
+      "link": "https://freek.dev/3151-storied-colors",
+      "pubDate": "2026-06-27T12:30:32.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7620de1c44e",
+      "title": "Symfony 8.1.1 released",
+      "description": "Symfony 8.1.1 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-1-1-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-27T09:31:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "48ee336f57f0",
+      "title": "Symfony 8.0.14 released",
+      "description": "Symfony 8.0.14 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-0-14-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-27T09:28:05.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cf35c391947d",
+      "title": "Symfony 7.4.14 released",
+      "description": "Symfony 7.4.14 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-7-4-14-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-27T09:17:06.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32fc7c69be22",
+      "title": "Symfony 6.4.42 released",
+      "description": "Symfony 6.4.42 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-6-4-42-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-27T09:14:23.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "683821feeb96",
       "title": "Prompt Engineering & Loop Engineering, Clearly Explained!",
       "description": "...covered with actual tradeoffs engineers should know.",
