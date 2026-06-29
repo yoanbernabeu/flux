@@ -2,6 +2,38 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e08e1d9eae11",
+      "title": "Le marché du dev en 2026 : catastrophe ou illusion ?",
+      "description": "On entend partout que le marché de l'emploi pour les devs est en train de mourir. Pourtant les offres d'emplois sont en hausse de 15%. Alors quoi croire ? Notes de l'épisode : WorkMachine : https://www.workmachine.io/fr",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Le-march-du-dev-en-2026--catastrophe-ou-illusion-e3lcr5f",
+      "pubDate": "2026-06-29T05:00:00.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/122104431/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F2b3c924d-99cc-6908-4474-3cdc22fa70e0.mp3",
+      "duration": "00:07:45"
+    },
+    {
+      "id": "3e16cf6e7aff",
+      "title": "Symfony 8.1 HTTP-less : pour un projet neuf, pas pour un worker existant",
+      "description": "Le kernel HTTP-less de Symfony 8.1 sert un projet neuf, pas à alléger un worker existant. ServicesBundle, ConsoleBundle, RequiredBundle : pour quel cas.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-8-1-http-less-pour-un-projet-neuf-pas-pour-un-worker-existant",
+      "pubDate": "2026-06-28T10:02:57.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "312cf7796e2d",
       "title": "Vibe coding : le crash dont vous êtes le héros",
       "description": "Un vendredi, un assistant un peu trop serviable, et deux jauges qui ne disent pas la même chose. Une partie de vibe coding dont vous êtes le héros.",
@@ -29,6 +61,38 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6931c1a29c70",
+      "title": "Igor PHP : voir ce que PHPStan ne voit pas en worker mode",
+      "description": "Igor PHP repère les fuites d'état que PHPStan ne voit pas en FrankenPHP worker mode. Premier scan de ce blog : 269 findings bruts, 3 vrais bugs.",
+      "link": "https://lecodeestdanslepre.fr/billets/igor-php-worker-mode",
+      "pubDate": "2026-06-27T07:35:56.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1dd2c53abcb1",
+      "title": "Retours sur le Breizhcamp 2026",
+      "description": "Logo officiel du Breizhcamp — La conférence à l'Ouest Retours sur le Breizhcamp 2026 Depuis plusieurs années, le Breizhcamp est une conférence incontournable pour la communauté technologique rennaise. Cette année, j’ai pu y présenter un talk qui me tient à cœur à savoir « Comment je fais ma veille technologique » issu de mon article de blog. Bien que je n’aie pas pu assister aux trois jours complets de l’évènement, j’ai eu le plaisir de participer à plusieurs conférences le mercredi après-midi…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/06/breizhcamp-2026/",
+      "pubDate": "2026-06-27T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/06/breizhcamp-2026/banner.avif",
       "type": "blog"
     },
     {

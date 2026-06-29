@@ -2,6 +2,65 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "a860af0ee6d9",
+      "title": "Karpathy's Agentic Engineering Finally Has Proper Tooling",
+      "description": "Build by Google, explained as step-by-step guide.",
+      "link": "https://blog.dailydoseofds.com/p/karpathys-agentic-engineering-finally",
+      "pubDate": "2026-06-28T23:46:08.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!DoKq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc602df15-278f-48d1-8cda-9d3c82ea596b_1190x740.png",
+      "type": "blog"
+    },
+    {
+      "id": "968fc5e2f5c0",
+      "title": "Quoting Jon Udell",
+      "description": "Human Agent in the loop I dislike the phrase “human in the loop” because it cedes authority to the machines. Let’s flip the narrative. It’s our loop, we work the same way we always have, now we recruit agents to join the team. An agent-assisted process need not be a black box that takes in prompts and emits features. [...] Let’s do agentic software development like that. Not as a loop we’ve been excluded from, instead as one we invite agents into. &mdash; Jon Udell, “Doctor, it hurts when…",
+      "link": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
+      "pubDate": "2026-06-28T21:57:41.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f76ff5a4c681",
+      "title": "Hack Your Summer",
+      "description": "Hack Your Summer I learned about this initiative from DJ Patil this morning: It’s a 4-week, high-velocity production sprint for undergraduate students, graduate students, and recent graduates who want to build something real this summer. You’ll learn how to identify a project, make steady progress, get support from mentors and peers, and create tangible, public-facing work you can actually show future employers. Hack Your Summer is partly a reaction to the internship crisis facing US college…",
+      "link": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything",
+      "pubDate": "2026-06-28T19:26:11.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "844c2d7dde34",
+      "title": "A Week of Symfony #1017 (June 22–28, 2026)",
+      "description": "This week, maintenance versions 6.4.42, 7.4.14, 8.0.14, and 8.1.1 were released. In addition, development activity for the upcoming Symfony 8.2 version was intense, adding new features such as a Cron constraint for validating cron expressions, single-use…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1017-june-22-28-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-28T07:40:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "865a678e494c",
       "title": "MySQL JSON Columns",
       "description": "MySQL’s JSON column type has been around since version 5.7, but it’s one of those features where the gap between “I know it exists” and “I know when and how to use it well” is surprisingly wide. Used correctly, JSON columns give you schema flexibility exactly where you need it. Used poorly, they become a […] The post MySQL JSON Columns appeared first on PHP Architect.",
