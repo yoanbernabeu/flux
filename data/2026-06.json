@@ -2,6 +2,98 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "1527308d92f1",
+      "title": "Arthur Mensch fait le point sur Mistral",
+      "description": "Mistral, l'IA française, se positionne comme une alternative aux solutions américaines et chinoises, offrant respect des réglementations et sécurité des données. Son PDG, Arthur Mensch, souligne ses services adaptés aux PME et sa volonté de démocratiser l'IA. Mistral vise à devenir un acteur majeur en Europe, en investissant dans la recherche et les infrastructures. L’article Arthur Mensch fait le point sur Mistral est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/29/arthur-mensch-fait-le-point-sur-mistral/",
+      "pubDate": "2026-06-29T15:14:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a03d793a3bfd",
+      "title": "REX - Tout ce que vous avez voulu savoir sur la migration d'une exploitation sans jamais oser le demander",
+      "description": "La migration d’un ensemble d’applications et à fortiori d’un SI complet n’est jamais un long fleuve tranquille. Chaque cas présente des particularités mais au travers de ce REX, nous souhaitons avec mon collègue Yannig Perré vous présentez ce que nous avons vécu au sein d'une banque.",
+      "link": "https://blog.octo.com/rex-tout-ce-que-vous-avez-voulu-savoir-sur-la-migration-d'une-exploitation-sans-jamais-oser-le-demander",
+      "pubDate": "2026-06-29T13:45:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1c2acf00a48d",
+      "title": "Jamstack : du static-first au web composable.",
+      "description": "Entre 2017 et 2019, la Jamstack était partout. La communauté bouillonnait sous l’impulsion de Netlify et de Mathias Biilmann, son",
+      "link": "https://blog.zenika.com/2026/06/29/jamstack-du-static-first-au-web-composable/",
+      "pubDate": "2026-06-29T13:02:46.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/06/image-6.png?resize=800%2C450&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "5ea34c7f6296",
+      "title": "Un budget de poids de page : la sobriété qui ne tient plus à la chance",
+      "description": "Poser un budget de poids sur un blog Symfony : pourquoi, comment calibrer le seuil sans se tromper de chiffre, et où l'imposer sans saturer la CI.",
+      "link": "https://lecodeestdanslepre.fr/billets/budget-poids-page",
+      "pubDate": "2026-06-29T12:46:07.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2569a8605292",
+      "title": "B2B Companies: How to Appear in AI Search Engines?",
+      "description": "The increasing use of AI to inform B2B buyers highlights the importance of online brand image management. Companies must optimize their content to be visible and credible to AIs, taking into account information from their websites, social networks, and offline activities. A well-thought-out strategy is essential. L’article B2B Companies: How to Appear in AI Search Engines? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/29/b2b-companies-how-to-appear-in-ai-search-engines/",
+      "pubDate": "2026-06-29T11:51:36.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7c7a596fc3fe",
+      "title": "En vrac de juin 2026",
+      "description": "Des nouvelles de l’IA L’excellent James Martin a publié un Tableau de choix de l’IA frugale qui permet de voir que les petits modèles consomment jusqu’à 100 fois moins d’énergie que le gros modèle Claude Opus en étant à peine moins bon. Et en plus, ils sont considérablement moins chers, voire gratuits ! Je cite HalluWorld : “Un récent rapport de l’ONU estime que d’ici 2030, les data centers utiliseront autant d’énergie que 1,9 milliards de personnes, et consommeront autant d’eau que 1,3…",
+      "link": "https://standblog.org/blog/post/2026/06/29/En-vrac-de-juin-2026",
+      "pubDate": "2026-06-29T09:24:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/blog/?pf=wink.svg",
+      "type": "blog"
+    },
+    {
       "id": "e08e1d9eae11",
       "title": "Le marché du dev en 2026 : catastrophe ou illusion ?",
       "description": "On entend partout que le marché de l'emploi pour les devs est en train de mourir. Pourtant les offres d'emplois sont en hausse de 15%. Alors quoi croire ? Notes de l'épisode : WorkMachine : https://www.workmachine.io/fr",
@@ -19,11 +111,42 @@
       "duration": "00:07:45"
     },
     {
+      "id": "b60439c6506c",
+      "title": "🎤 Talks donnés à BreizhCamp 🎤",
+      "description": "Liste de talks donnés lors de la conférence BreizhCamp",
+      "link": "https://philippart-s.github.io/blog/talks/breizhcamp-2026/",
+      "pubDate": "2026-06-29T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3e16cf6e7aff",
       "title": "Symfony 8.1 HTTP-less : pour un projet neuf, pas pour un worker existant",
       "description": "Le kernel HTTP-less de Symfony 8.1 sert un projet neuf, pas à alléger un worker existant. ServicesBundle, ConsoleBundle, RequiredBundle : pour quel cas.",
       "link": "https://lecodeestdanslepre.fr/billets/symfony-8-1-http-less-pour-un-projet-neuf-pas-pour-un-worker-existant",
       "pubDate": "2026-06-28T10:02:57.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7bd4d0bc6e34",
+      "title": "Créer un serveur MCP avec Symfony",
+      "description": "Monter un serveur MCP sur un projet Symfony (mcp-bundle) : déclarer un outil #[McpTool], l'exposer en HTTP, et quelques pièges à déjouer.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-mcp",
+      "pubDate": "2026-06-28T09:56:13.000Z",
       "source": "Le Code est dans le Pré",
       "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
       "categories": [
@@ -115,6 +238,23 @@
       "title": "Une semaine pour appréhender l'IA générative dans les métiers du produit",
       "description": "Pendant cinq jours, une communauté de Product Managers, Product Owners, designers et coachs d'OCTO a mis l'IA générative au centre de son travail : de la théorie le matin à des prototypes fonctionnels en deux jours. Récit d'un format, de ses enseignements, et mode d'emploi pour le rejouer dans votre équipe.",
       "link": "https://blog.octo.com/une-semaine-pour-apprehender-l'ia-generative-dans-les-metiers-du-produit",
+      "pubDate": "2026-06-26T16:37:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7c5fb7a80eb6",
+      "title": "Une semaine pour appréhender l'IA générative dans les métiers du produit",
+      "description": "Pendant cinq jours, une communauté de Product Managers, Product Owners, Designers et Coachs d'OCTO a mis l'IA générative au centre de son travail : de la théorie le matin à des prototypes fonctionnels en deux jours. Récit d'un format, de ses enseignements, et mode d'emploi pour le rejouer dans votre équipe.",
+      "link": "https://blog.octo.com/une-semaine-pour-apprehender-l'ia-generative-dans-les-metiers-du-produit-1",
       "pubDate": "2026-06-26T16:37:10.000Z",
       "source": "OCTO Talks",
       "sourceUrl": "https://blog.octo.com/feed",

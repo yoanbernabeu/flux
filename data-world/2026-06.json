@@ -2,6 +2,124 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "b2e55b95a4ee",
+      "title": "Laravel Prompts TUI Guide",
+      "description": "Terminal UIs have had a quiet renaissance in the developer tools world. From Lazygit to btop, the era of the ugly text-only CLI is giving way to rich, interactive interfaces built entirely in the terminal. PHP developers have historically been left out of this movement — our CLI tooling was functional but rarely beautiful. That […] The post Laravel Prompts TUI Guide appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/06/laravel-prompts-tui-guide/",
+      "pubDate": "2026-06-30T00:02:57.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/06/2026-04-17-laravel-prompts-tui.png",
+      "type": "blog"
+    },
+    {
+      "id": "07f2b988a81c",
+      "title": "Verifiable Rewards and GRPO in RL",
+      "description": "The full RL nanodegree, covered with implementation.",
+      "link": "https://blog.dailydoseofds.com/p/verifiable-rewards-and-grpo-in-rl",
+      "pubDate": "2026-06-29T23:40:51.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!zxZK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fc214f8-85cd-4b2b-ba58-3d41ebf2fd59_1376x351.png",
+      "type": "blog"
+    },
+    {
+      "id": "cf20d7464c41",
+      "title": "HTML table extractor",
+      "description": "Tool: HTML table extractor Yet another in my growing collection of paste-conversion tools. This one accepts pasted rich text from browsers (with embedded HTML tables) and converts every detected table into HTML, Markdown, CSV, TSV, or JSON. Try it out by selecting everything on the Wikipedia List of cities and towns in the San Francisco Bay Area page and pasting it directly into the tool: On a similar note, I recently rebuilt my Rich text to markdown tool to add support for tables and generally…",
+      "link": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
+      "pubDate": "2026-06-29T23:38:21.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6615c2082462",
+      "title": "Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates",
+      "description": "Malicious Chrome and Firefox extensions posing as free VPNs added a clipboard stealer through staged updates, exfiltrating copied data to hardcoded threat actor-controlled infrastructure. Socket’s Threat Research Team analyzed two browser extensions operating under the VPN Go: Free VPN branding, one listed on the Chrome Web Store and another listed on Mozilla’s Firefox Add-ons marketplace. At the time of writing, the Chrome extension listed 146 users, while the Firefox extension showed 3,499…",
+      "link": "https://socket.dev/blog/chrome-and-firefox-extensions-free-vpns-add-clipboard-stealers?utm_medium=feed",
+      "pubDate": "2026-06-29T21:18:05.512Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/706e72c9062288125064113068d408e6df7d759f-2048x1538.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "4aa6b813bdb8",
+      "title": "Count the number of Safari tabs",
+      "description": "Tiniest TIL, using AppleScript to count the number of open browser tabs in Safari: osascript -e 'tell application \"Safari\" to count tabs of every window' Tags: safari, til, applescript",
+      "link": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
+      "pubDate": "2026-06-29T18:36:18.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8edc68a0b3d0",
+      "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+      "description": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding This is an interesting new open weights (MIT licensed) model, the first model release from DeepReinforce. [...] with variants including 9B Dense, 31B Dense, 35B MoE, and 397B MoE. Built on top of pretrained Gemma 4 and Qwen 3.5, it achieves state-of-the-art performance among open-source models of comparable size on coding benchmarks. As far as I can tell the licenses of those underlying models is compatible with being used in this way - Gemma…",
+      "link": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+      "pubDate": "2026-06-29T16:17:59.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "de3d3d71c6c3",
+      "title": "Everything About the Context Facade",
+      "description": "A deep dive into Laravel Context, from request metadata and automatic log enrichment to hidden context, scoped values, queues, scheduled commands, and internals. Read more",
+      "link": "https://freek.dev/3152-everything-about-the-context-facade",
+      "pubDate": "2026-06-29T12:13:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "468cf1942c65",
+      "title": "Agent Memory",
+      "description": "The following article originally appeared on Angie Jones’s LinkedIn page and is being republished here with the author’s permission. I’m fascinated by the concept of agent memory. LLMs are stateless by design, meaning they have no memory or awareness of past interactions. Each prompt you send to an LLM is treated as a completely isolated […]",
+      "link": "https://www.oreilly.com/radar/agent-memory/",
+      "pubDate": "2026-06-29T10:53:10.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/06/image-19.png",
+      "type": "blog"
+    },
+    {
       "id": "a860af0ee6d9",
       "title": "Karpathy's Agentic Engineering Finally Has Proper Tooling",
       "description": "Build by Google, explained as step-by-step guide.",
