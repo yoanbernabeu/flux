@@ -1,0 +1,23 @@
+{
+  "month": "2026-07",
+  "articles": [
+    {
+      "id": "fd1394b6fe25",
+      "title": "#363.src - Kestra: Comment orchestrer sans usiner à gaz ? avec Loïc Mathieu",
+      "description": "\"On va essayer d'être présent un peu partout, tu vois, comme on est universel.\" Le D.E.V. de la semaine est Loïc Mathieu, Lead Software Engineer chez Kestra Technologies qui vient de lever $25M dans une série A menée par RTP Global. Avec plus de vingt ans de dev derrière lui, Loïc raconte comment Kestra vise à devenir l'orchestrateur universel, capable de piloter aussi bien de la donnée en giga qu'en tera, de l'infra ou du business. On parle migration de workflows sans big bang, adaptation aux…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-363-9972a29a43ff",
+      "pubDate": "2026-07-01T03:00:49.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/cd40b1aa-7269-42a5-a787-85ca8b4b3442.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/515f3062-15e6-4cd0-b9c4-9972a29a43ff.mp3?_=1782820909",
+      "duration": "50:36"
+    }
+  ]
+}

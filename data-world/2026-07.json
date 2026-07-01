@@ -1,0 +1,19 @@
+{
+  "month": "2026-07",
+  "articles": [
+    {
+      "id": "37161f4c9ddd",
+      "title": "A Better Way To Build LLM-as-a-Judge Pipelines",
+      "description": "...explained step-by-step with code.",
+      "link": "https://blog.dailydoseofds.com/p/a-better-way-to-build-llm-as-a-judge",
+      "pubDate": "2026-07-01T00:28:05.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://api.substack.com/feed/podcast/204358125/01cac5b3c89722c4ce24072ac1fd27cc.mp3",
+      "type": "blog"
+    }
+  ]
+}

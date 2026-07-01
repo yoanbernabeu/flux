@@ -2,6 +2,197 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "2acafbd6a645",
+      "title": "Quoting Anthropic",
+      "description": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. &mdash; Anthropic, on Twitter Tags: anthropic, claude, generative-ai, claude-mythos, ai, llms",
+      "link": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+      "pubDate": "2026-06-30T23:58:15.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9e61dd70a472",
+      "title": "Nano Banana 2 Lite",
+      "description": "Nano Banana 2 Lite Also known as Gemini 3.1 Flash Lite Image (gemini-3.1-flash-lite-image in their API), this is the \"fastest and cheapest Gemini image model, engineered for velocity and scale\". I used AI studio to run this prompt: Do a where's Waldo style image but it's where is the raccoon holding a ham radio I like that one better than the results I got from the other Nano Banana models when I tried this back in April. It spelled Forest Festival wrong in two different ways though. Via Hacker…",
+      "link": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
+      "pubDate": "2026-06-30T22:15:35.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "308efd6f0bad",
+      "title": "Risky Biz Podcast: AI Agents Are Raising the Stakes for Software Supply Chain Security",
+      "description": "The last six months have been one of the most intense stretches of software supply chain attacks the open source ecosystem has seen. Attackers are compromising widely used packages, abusing trusted developer workflows, stealing credentials, and using package registries, IDE extensions, and source repositories to distribute malicious code. At the same time, AI coding agents are changing how software gets built, pulling in dependencies at machine speed and making unreviewed trust decisions…",
+      "link": "https://socket.dev/blog/risky-biz-podcast-ai-agents-raising-the-stakes?utm_medium=feed",
+      "pubDate": "2026-06-30T21:47:23.554Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "36f5f67c86fa",
+      "title": "What's new in Claude Sonnet 5",
+      "description": "What&#x27;s new in Claude Sonnet 5 Claude Sonnet 5 came out this morning. I always head straight for the \"what's new\" developer docs because they tend to have more actionable information than the official announcement post. Anthropic say of Sonnet 5 that \"its performance is close to that of Opus 4.8, but at lower prices\". The system card helps explain how they were able to release the model without being blocked by the US government: Sonnet 5 is significantly less capable at cyber tasks than…",
+      "link": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+      "pubDate": "2026-06-30T21:23:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eae196775ec4",
+      "title": "MIRI Newsletter #126",
+      "description": "Announcing: AI StopWatch In our last update, we mentioned we had something new in the works: a dedicated channel for news and analysis about AI. Subscribe to AI StopWatch An experiment from the writers and analysts at MIRI, AI StopWatch posts news and commentary seven days a week. You can read our commentary as it’s […] The post MIRI Newsletter #126 appeared first on Machine Intelligence Research Institute.",
+      "link": "https://intelligence.org/2026/06/30/miri-newsletter-126/",
+      "pubDate": "2026-06-30T20:32:11.000Z",
+      "source": "MIRI Blog",
+      "sourceUrl": "https://intelligence.org/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://intelligence.org/wp-content/uploads/chinacooperationAI-MIRI.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "8629cca2232d",
+      "title": "The AI Compass",
+      "description": "The AI Compass This political compass style quiz by bambamramfan is pretty neat - answer 29 questions about AI and AI ethics to see which of the 30 archetypes you best fit. I'm impressed that my answers on my first time through the quiz categorized me as \"The Garage Tinkerer\", patron saint myself! It's implemented as a single page React app using the &lt;script type=\"text/babel\"&gt; trick to avoid the necessary build step. Here's the code. Via @erisianrite.com Tags: ai, generative-ai, llms,…",
+      "link": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything",
+      "pubDate": "2026-06-30T17:39:23.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e6d9181f4de8",
+      "title": "Have your agent record video demos of its work with shot-scraper video",
+      "description": "shot-scraper video is a new command introduced in today's shot-scraper 1.10 release which accepts a storyboard.yml file defining a routine to run against a web application and uses Playwright to record a video of that routine. I've written before about the importance of having coding agents produce demos of their work; this is my latest attempt at enabling them to do that. Here's an example video created using shot-scraper video, exercising a still in development feature adding the ability to…",
+      "link": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+      "pubDate": "2026-06-30T16:54:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5c689d914969",
+      "title": "The End of Tokenmaxxing",
+      "description": "The practice of tokenmaxxing appears to be dying out, even before I had a chance to write about it. Good riddance. Burning tokens to create the appearance of productivity was fated to last only until the accountants learned about it, and the strictest of all accountants is one’s personal checkbook. What got many developers thinking […]",
+      "link": "https://www.oreilly.com/radar/the-end-of-tokenmaxxing/",
+      "pubDate": "2026-06-30T16:06:02.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/21a9.png",
+      "type": "blog"
+    },
+    {
+      "id": "8576f47d8bf0",
+      "title": "How AI is changing (the way I do) UX",
+      "description": "Nick Houtman shares how AI is reshaping UX work: clients arrive with better prototypes, common patterns get safer and more generic, and real research still matters most. Read more",
+      "link": "https://freek.dev/3154-how-ai-is-changing-the-way-i-do-ux",
+      "pubDate": "2026-06-30T15:35:57.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "691f61037574",
+      "title": "Your Laravel routes can carry metadata now, and Flare shows it",
+      "description": "Laravel now supports attaching arbitrary metadata to routes, and the latest laravel-flare client shows that context in error reports and performance traces. Read more",
+      "link": "https://freek.dev/3153-your-laravel-routes-can-carry-metadata-now-and-flare-shows-it",
+      "pubDate": "2026-06-30T15:33:00.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a54c3d83b752",
+      "title": "shot-scraper 1.10",
+      "description": "Release: shot-scraper 1.10 The big new feature is shot-scraper video storyboard.yml, described in detail in Have your agent record video demos of its work with shot-scraper video. Tags: shot-scraper",
+      "link": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
+      "pubDate": "2026-06-30T15:10:14.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c335215c8cfd",
+      "title": "Summary: TGT’s 2026 ICML Papers",
+      "description": "The International Conference on Machine Learning (ICML), held annually for over forty years, is among the most influential conferences in modern AI research. This year in Seoul, ICML is hosting its second workshop on Technical AI Governance Research (TAIGR), and several members of MIRI’s Technical Governance Team (TGT) will attend in July. This post summarizes […] The post Summary: TGT’s 2026 ICML Papers appeared first on Machine Intelligence Research Institute.",
+      "link": "https://intelligence.org/2026/06/30/summary-tgts-2026-icml-papers/",
+      "pubDate": "2026-06-30T14:23:06.000Z",
+      "source": "MIRI Blog",
+      "sourceUrl": "https://intelligence.org/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://keep.google.com/u/0/media/v2/1-DrjttfhbTbDU163Y-uE00pKW70LGj9ehl5LQhAoJoreWw79cSRzQF9YXV91jQ/1kDIxYzZlTrM1Cvyg2ULgH-NXing4eTiWEEj1yw-PTacdoa1N4nA2_EN4JOPK2w?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Caudio%2Faac&amp;sz=809",
+      "type": "blog"
+    },
+    {
+      "id": "1743ff00f86b",
+      "title": "Beyond Prompt Injection",
+      "description": "In late 2025, the security community stopped treating indirect prompt injection as a theoretical risk. It had spent two years as a tidy lab demonstration; then production systems started getting hit. The OWASP Top 10 for LLM applications now ranks prompt injection as the number-one risk, NIST has called indirect injection generative AI’s greatest security […]",
+      "link": "https://www.oreilly.com/radar/beyond-prompt-injection/",
+      "pubDate": "2026-06-30T10:55:08.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b2e55b95a4ee",
       "title": "Laravel Prompts TUI Guide",
       "description": "Terminal UIs have had a quiet renaissance in the developer tools world. From Lazygit to btop, the era of the ugly text-only CLI is giving way to rich, interactive interfaces built entirely in the terminal. PHP developers have historically been left out of this movement — our CLI tooling was functional but rarely beautiful. That […] The post Laravel Prompts TUI Guide appeared first on PHP Architect.",
@@ -86,6 +277,20 @@
       "categories": [
         "IA",
         "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3878361a0498",
+      "title": "What You Bring to AI Determines the Result",
+      "description": "Harper Carroll came to AI education through a CS background at Stanford, machine learning engineering at Meta, and a brief stint at a small GPU compute startup in late 2023, where she noticed that almost no one understood how to fine-tune open source models. She started writing and teaching to help drive signups for the […]",
+      "link": "https://www.oreilly.com/radar/what-you-bring-to-ai-determines-the-result/",
+      "pubDate": "2026-06-29T16:15:12.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
       ],
       "image": null,
       "type": "blog"

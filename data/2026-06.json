@@ -2,6 +2,82 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "485187a386b8",
+      "title": "Le marché du travail en IA en juin 2026",
+      "description": "Laurent Potel, CEO & Chairman @Comet nous partage les chiffres sur le marché du travail en IA pour 2026",
+      "link": "https://www.youtube.com/watch?v=o1qcBgmYoHU",
+      "pubDate": "2026-06-30T15:44:13.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/o1qcBgmYoHU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "o1qcBgmYoHU"
+    },
+    {
+      "id": "d3cd3179272c",
+      "title": "Application du RGAA à l'Observatoire de la Biodiversité Métropolitaine de Nantes",
+      "description": "Conju­guer GeoNa­ture-Atlas avec l’ac­ces­si­bi­lité numé­rique Après la mise en ligne du portail GeoNa­ture-Atlas de l’Ob­ser­va­toire de la Biodi­ver­sité de",
+      "link": "https://makina-corpus.com/accessibilite/application-du-rgaa-lobservatoire-de-la-biodiversite-metropolitaine-de-nantes",
+      "pubDate": "2026-06-30T15:22:02.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4f47a7fcb90c",
+      "title": "Ni binaire, ni opposé à l'analogique : qu'est-ce que le numérique ?",
+      "description": "Qu'est-ce que le numérique ? Le numérique, c'est le binaire, le calcul basé sur deux grandeurs discrètes. Ou bien c'est le logiciel, par opposition au matériel. Ou encore c'est le contraire de l'analogique. Trois réponses usuelles qui ont un point commun : à la réflexion, elles ne tiennent pas. C'est la thèse d'Elie Chevignard. L'article y répond.",
+      "link": "https://blog.octo.com/octo-article-de-blog--ni-binaire-ni-oppose-a-l'analogique--qu'est-ce-que-le-numerique",
+      "pubDate": "2026-06-30T14:40:49.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "81693a74bed1",
+      "title": "HydroPortail v3.5 : refonte du module de gestion des listes",
+      "description": "Dans le cadre du cycle d’évo­lu­tions tech­niques et fonc­tion­nelles initié début 2024, Makina Corpus a contri­bué au déploie­ment de la version 3.5 de l’Hy­dro­Por­tail. L’ou­til de réfé­rence des données hydro­mé­triques en France néces­si­tait une évolu­tion majeure de son module de gestion des listes de",
+      "link": "https://makina-corpus.com/application-web-mobile/hydroportail-v35-refonte-du-module-de-gestion-des-listes",
+      "pubDate": "2026-06-30T14:27:36.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "74e7e937e09d",
+      "title": "IA : pourquoi et comment se former ? Interview exclusive de Manuel Davy",
+      "description": "L'interview de Manuel Davy explore la nécessité de former les entreprises et les individus à l'intelligence artificielle (IA). Davy souligne les enjeux sociétaux liés à cette technologie, la diversité des applications de l'IA et le risque d'obsolescence. Il insiste sur l'importance d'une compréhension approfondie des principes plutôt que d'une simple utilisation des outils. L’article IA : pourquoi et comment se former ? Interview exclusive de Manuel Davy est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/06/30/ia-pourquoi-et-comment-se-former-interview-exclusive-de-manuel-davy/",
+      "pubDate": "2026-06-30T08:20:32.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1527308d92f1",
       "title": "Arthur Mensch fait le point sur Mistral",
       "description": "Mistral, l'IA française, se positionne comme une alternative aux solutions américaines et chinoises, offrant respect des réglementations et sécurité des données. Son PDG, Arthur Mensch, souligne ses services adaptés aux PME et sa volonté de démocratiser l'IA. Mistral vise à devenir un acteur majeur en Europe, en investissant dans la recherche et les infrastructures. L’article Arthur Mensch fait le point sur Mistral est apparu en premier sur OlivierSauvage.com.",
