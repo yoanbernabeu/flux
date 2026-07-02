@@ -2,6 +2,37 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "94545e2f7a0a",
+      "title": "Améliorer l’accessibilité d’un site existant : retour d’expérience chez JoliCode",
+      "description": "Malgré des avancées réglementaires importantes, l’accessibilité numérique reste largement sous-estimée dans de nombreux projets web. Depuis le 28 juin 2025, l’European Accessibility Act (EAA) étend les obligations d’accessibilité à de nombreux services numériques privés. Pourtant, la réalité est encore loin des objectifs fixés : selon l’Observatoire du respect des obligations d’accessibilité numérique, seuls 44 sites sur 7 560 contrôlés déclarent être totalement conformes au référentiel général…",
+      "link": "https://jolicode.com/blog/ameliorer-l-accessibilite-d-un-site-existant-retour-d-experience-chez-jolicode",
+      "pubDate": "2026-07-01T07:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/a11y-jolisite/before-after-secondary.png",
+      "type": "blog"
+    },
+    {
+      "id": "5b6e98202ce6",
+      "title": "Backstage : le portail développeur qui accélère vos équipes",
+      "description": "Dans une organisation où coexistent des dizaines, voire des centaines de développeuses et de développeurs, les questions du quotidien deviennent vite des frictions structurelles : où trouver le code d’un service ? qui le maintient ? quelle est sa documentation ? comment créer un nouveau projet conforme aux standards internes ? À mesure que le patrimoine logiciel grandit, la fragmentation des outils et la dispersion de la connaissance pèsent directement sur la productivité.",
+      "link": "https://blog.cockpitio.com/devops/backstage-portail-developpeur/",
+      "pubDate": "2026-07-01T06:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "fd1394b6fe25",
       "title": "#363.src - Kestra: Comment orchestrer sans usiner à gaz ? avec Loïc Mathieu",
       "description": "\"On va essayer d'être présent un peu partout, tu vois, comme on est universel.\" Le D.E.V. de la semaine est Loïc Mathieu, Lead Software Engineer chez Kestra Technologies qui vient de lever $25M dans une série A menée par RTP Global. Avec plus de vingt ans de dev derrière lui, Loïc raconte comment Kestra vise à devenir l'orchestrateur universel, capable de piloter aussi bien de la donnée en giga qu'en tera, de l'infra ou du business. On parle migration de workflows sans big bang, adaptation aux…",
@@ -18,6 +49,23 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/515f3062-15e6-4cd0-b9c4-9972a29a43ff.mp3?_=1782820909",
       "duration": "50:36"
+    },
+    {
+      "id": "e6b495db5460",
+      "title": "News Juillet 2026, TypeScript 7 RC, Astro 7 et des pièges pour agents IA",
+      "description": "Nous évoquons TypeScript 7.0 RC jusqu'à 10 fois plus rapide, Astro 7.0 avec Sätteri et Rolldown, l'astuce de Mitchell Hashimoto pour piéger les PR sans review de code, Cursor sur iOS, Docker sur Vercel, Deno Desktop, Babel 8, le framework d'agents Eve, les modèles IA Fugu et Ornith, le nouveau Mistral OCR 4, Firecrawl Keyless, LightOn, Linkup et Proxae. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/news-jul26/",
+      "link": "https://double-slash.dev/podcasts/news-jul26/",
+      "pubDate": "2026-07-01T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1782901023/ART_135_m3vbav.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_135_news-jul26.mp3",
+      "duration": "3169"
     }
   ]
 }

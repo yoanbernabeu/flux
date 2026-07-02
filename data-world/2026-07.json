@@ -2,6 +2,78 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "fc74936f6c19",
+      "title": "PolinRider: North Korea-Linked Supply Chain Campaign Expands Across Open Source Ecosystems",
+      "description": "Socket Threat Research Team identified 162 malicious release artifacts across 108 packages and extensions in npm, Packagist, Go modules, and Chrome extensions, linking the activity to the broader North Korean Contagious Interview / Famous Chollima developer-targeting campaign. PolinRider is a supply chain campaign linked to North Korean threat actors associated with the broader Contagious Interview / Famous Chollima activity cluster. Our latest findings show that the campaign has expanded…",
+      "link": "https://socket.dev/blog/polinrider-north-korea-linked-supply-chain-campaign-expands?utm_medium=feed",
+      "pubDate": "2026-07-01T17:53:56.469Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/c0cde79599b72ce39cc87f57847a2e73a2229b34-2048x821.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "f133d068731b",
+      "title": "[Hands-on] How to Build Your Own AI Company",
+      "description": "100% local setup with open-source stack.",
+      "link": "https://blog.dailydoseofds.com/p/hands-on-how-to-build-your-own-ai",
+      "pubDate": "2026-07-01T17:33:41.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!gW4X!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ac8dbbb-b5a8-4d2e-b87d-b7648d9afe47_1582x1126.png",
+      "type": "blog"
+    },
+    {
+      "id": "dedaf16cfc70",
+      "title": "MySQL Recursive CTEs for PHP Developers: Querying Hierarchical Data Without the Pain",
+      "description": "Recursive CTEs in MySQL let you query trees, org charts, and nested categories in a single query. Here’s how to use them effectively with PHP. Every PHP developer eventually hits the “tree problem.” You have categories with subcategories, employees with managers, comments with replies, or menu items with children — and you need to query […] The post MySQL Recursive CTEs for PHP Developers: Querying Hierarchical Data Without the Pain appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/07/mysql-recursive-ctes-for-php-developers-querying-hierarchical-data-without-the-pain/",
+      "pubDate": "2026-07-01T15:43:39.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/07/2026-04-18-mysql-recursive-ctes.png",
+      "type": "blog"
+    },
+    {
+      "id": "b0b58a98fa13",
+      "title": "Guidelines for Respectful Use of AI",
+      "description": "The following article originally appeared on Medium and is being republished here with the author’s permission. As companies adopt AI tools, a lot of time is spent on thinking about AI policies from a security, compliance, or even cost-focused angle. But many leaders are neglecting to address how their teams should work with AI in […]",
+      "link": "https://www.oreilly.com/radar/guidelines-for-respectful-use-of-ai/",
+      "pubDate": "2026-07-01T10:59:11.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5469d96a2734",
+      "title": "2026 BAIR Graduate Showcase",
+      "description": "Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose curiosity, creativity, and perseverance have pushed the frontiers of artificial intelligence and machine learning. Their work spans the breadth of modern AI — robotics and embodied intelligence, large language models and reasoning, computer vision, generative modeling, AI safety, human-AI interaction, AI for science and…",
+      "link": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
+      "pubDate": "2026-07-01T09:00:00.000Z",
+      "source": "BAIR Blog",
+      "sourceUrl": "https://bair.berkeley.edu/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://bair.berkeley.edu/static/blog/grads2026/baifeng-shi.jpg",
+      "type": "blog"
+    },
+    {
       "id": "37161f4c9ddd",
       "title": "A Better Way To Build LLM-as-a-Judge Pipelines",
       "description": "...explained step-by-step with code.",
@@ -13,6 +85,21 @@
         "IA"
       ],
       "image": "https://api.substack.com/feed/podcast/204358125/01cac5b3c89722c4ce24072ac1fd27cc.mp3",
+      "type": "blog"
+    },
+    {
+      "id": "decdbff38bea",
+      "title": "Meet TYPO3: Supporting the Open-Source Foundation of Its Ecosystem",
+      "description": "TYPO3 has joined the PHP Foundation as a Silver Sponsor, extending its commitment to the open-source technologies and communities on which its own ecosystem is built. TYPO3 is an open-source enterprise content management system built with open web standards. It provides a robust feature set for scalable, multisite, multilingual, and highly connected digital platforms. TYPO3 is also a verified Digital Public Good and part of the Open Website Alliance through the TYPO3 Association. PHP: the…",
+      "link": "https://thephp.foundation/blog/2026/07/01/meet-typo3/",
+      "pubDate": "2026-07-01T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     }
   ]
