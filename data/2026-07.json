@@ -2,6 +2,83 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "f6bb9674889a",
+      "title": "#342.exe - Agilité destructrice: Pourquoi l'agilité ne vous rendra pas plus rapide par Patrick Szymkowiak",
+      "description": "Pour l'épisode #342 je recevais Denis Migot. On en débrief avec Patrick. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-342-5961604616c3",
+      "pubDate": "2026-07-03T03:00:36.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/127d9e41-309c-48be-bef6-5961604616c3.mp3?_=1782993696",
+      "duration": "09:05"
+    },
+    {
+      "id": "7b08ec16e73b",
+      "title": "Profiler un consumer avec Blackfire",
+      "description": "Quand on parle de profiling PHP avec Blackfire, on pense généralement à une requête HTTP : un clic sur l'extension navigateur, et hop, le profil apparaît. Mais que faire quand le code à profiler tourne dans un consumer ou un worker ; une commande Symfony qui boucle indéfiniment, consommant une queue ou traitant des tâches en background ? La bonne nouvelle : Blackfire peut fonctionner dans ce contexte. La moins bonne : on ne peut pas déclencher le profiling au moment où ça nous arrange... sauf…",
+      "link": "https://jolicode.com/blog/profiler-un-consumer-avec-blackfire",
+      "pubDate": "2026-07-02T09:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "df06ab78dc5c",
+      "title": "2026 : les blogs sont morts, vivent les blogs !",
+      "description": "Une étude menée par Daniel Stanica montre qu'au sein des 100 blogs américains influents, plus de 60 ont perdu jusqu'à 85% de leur trafic en quatre ans. Cette baisse est due à des algorithmes de Google et à une conception erronée du contenu. Seuls 21 blogs réussissent à croître, en proposant des contenus uniques et authentiques. L’article 2026 : les blogs sont morts, vivent les blogs ! est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/07/02/2026-les-blogs-sont-morts-vivent-les-blogs/",
+      "pubDate": "2026-07-02T08:41:34.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac44b025ef63",
+      "title": "Core Web Vitals : mécanique de mesure et pièges à éviter",
+      "description": "D'où viennent les chiffres des Core Web Vitals : ce que CrUX voit (et rate), pourquoi Lighthouse ne prédit rien, et les pièges LCP, INP, CLS à éviter.",
+      "link": "https://lecodeestdanslepre.fr/billets/core-web-vitals-mecanique-pieges",
+      "pubDate": "2026-07-02T06:42:15.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f19429bab881",
+      "title": "AI Overviews arrive en France : faut-il vraiment optimiser ?",
+      "description": "Google AI Overviews arrive en France. Faut-il optimiser votre stratégie SEO pour être cité ? Décryptage des enjeux et des réglages techniques.",
+      "link": "https://lecodeestdanslepre.fr/billets/optimiser-pour-les-ia-qui-repondent",
+      "pubDate": "2026-07-01T15:32:15.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "94545e2f7a0a",
       "title": "Améliorer l’accessibilité d’un site existant : retour d’expérience chez JoliCode",
       "description": "Malgré des avancées réglementaires importantes, l’accessibilité numérique reste largement sous-estimée dans de nombreux projets web. Depuis le 28 juin 2025, l’European Accessibility Act (EAA) étend les obligations d’accessibilité à de nombreux services numériques privés. Pourtant, la réalité est encore loin des objectifs fixés : selon l’Observatoire du respect des obligations d’accessibilité numérique, seuls 44 sites sur 7 560 contrôlés déclarent être totalement conformes au référentiel général…",

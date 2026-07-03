@@ -2,6 +2,139 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "9220005cac32",
+      "title": "The PHP Podcast 2026.07.02",
+      "description": "🎙️ PHP Podcast – July 2, 2026 Hosts: Eric Van Johnson & John Congdon Eric’s new laptop won’t share its screen. John lost a fight with a leaf blower. PHP 8.6 alpha dropped. 100+ people showed up to make PHP seem cool again. Normal show. 🖥️ Eric’s Fresh Install and the Screen That Wouldn’t Share […] The post The PHP Podcast 2026.07.02 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-07-02/",
+      "pubDate": "2026-07-03T01:59:39.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/07/The-PHP-Podcast-2026.06.25.png",
+      "type": "blog"
+    },
+    {
+      "id": "cc6c9e152240",
+      "title": "PHP Checkup – Keeping Your Applications Healthy in 2026",
+      "description": "June has a way of focusing the mind. The conference season has wound down, the hallway conversations and late-night discussions at WurstCon have settled into plans, and now it’s time to build — carefully, thoughtfully, and with an eye toward what happens when real users and real data show up. This month’s issue is built […] The post PHP Checkup – Keeping Your Applications Healthy in 2026 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/magazine/2026/06/2026-06-php-checkup-keeping-your-applications-healthy-in-2026/",
+      "pubDate": "2026-07-02T22:14:41.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/06/2026-06-cover_sm.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "aa700a0b090c",
+      "title": "llm-coding-agent 0.1a0",
+      "description": "Release: llm-coding-agent 0.1a0 Another Fable 5 experiment. Now that my LLM library has evolved into more of an agent framework it's time to see what a simple coding agent would look like built on it. I started a new Python library using my python-lib-template-repository GitHub template repository, then ran these two prompts (here's the Claude Code for web transcript): Write a spec.md for this project - it will depend on the latest “llm” alpha from PyPI and implement a Claude code style coding…",
+      "link": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
+      "pubDate": "2026-07-02T19:33:12.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "421f183aaee1",
+      "title": "How to Achieve 2.8x Faster Automatic Speech Recognition",
+      "description": "...based on how production voice systems are built.",
+      "link": "https://blog.dailydoseofds.com/p/how-to-achieve-28x-faster-automatic",
+      "pubDate": "2026-07-02T19:22:05.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!4XWU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bb629f3-8053-48d1-a21a-e51bf8200dd8_1570x926.png",
+      "type": "blog"
+    },
+    {
+      "id": "a5c875c2d122",
+      "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
+      "description": "Research: Using DSPy to evaluate and improve Datasette Agent&#x27;s SQL system prompts One of this morning's AIE keynotes covered dspy, which reminded me I've been meaning to see if it could help me improve the system prompt used by Datasette Agent - so I fired off an asynchronous research task in Claude Code for web using Claude Fable 5: Pip install the latest Datasette alpha and datasette-agent and dspy - then figure out how to use dspy to evaluate and improve the main system prompts used by…",
+      "link": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
+      "pubDate": "2026-07-02T18:25:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6c43649d4228",
+      "title": "Understand to participate",
+      "description": "I saw Geoffrey Litt speak at AIE yesterday, and one framing he used particularly resonated with me: Understand to participate Geoffrey was talking about the challenge of collaborating with coding agents as they construct increasingly large and sophisticated changes, and the need to avoid taking on cognitive debt as your understanding drifts from how the code actually works. His argument is that you need to understand the code to a depth that enables you to participate further with the model:…",
+      "link": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
+      "pubDate": "2026-07-02T17:07:14.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d3b89027a6df",
+      "title": "How to run multiple AI agents in parallel with git worktrees",
+      "description": "Video version: https://youtu.be/uVKXmqYVjpQ One of the more powerful features of AI-assisted development is that you can put multiple AI coding agents to work simultaneously with little effort. For example, you might have one building a new feature, one cleaning up an old API endpoint, and a third drafting a blog post. If the agents share […] The post How to run multiple AI agents in parallel with git worktrees appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/07/how-to-run-multiple-ai-agents-in-parallel-with-git-worktrees/",
+      "pubDate": "2026-07-02T15:00:53.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/07/Git-WorkTree-AI.png",
+      "type": "blog"
+    },
+    {
+      "id": "356d7216db51",
+      "title": "This Week in AI: Multivendor Strategy",
+      "description": "This episode of This Week in AI arrived at a moment when the AI infrastructure most teams take for granted suddenly looked a lot less stable. Andreas Welsch, founder and chief human AI officer at Intelligence Briefing, was joined by Matt Palmer, head of developer experience at Conductor and developer educator on LinkedIn Learning, to […]",
+      "link": "https://www.oreilly.com/radar/this-week-in-ai-multivendor-strategy/",
+      "pubDate": "2026-07-02T13:00:36.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3036e8e797a5",
+      "title": "Case Study: Driving Green Innovation: How Symfony Empowered Veolia’s Digital Shift in Industrial Waste Management",
+      "description": "When dealing with over 10 million tons of hazardous waste every year, IT operational efficiency is a prerquisite and a critical environmental and public health responsibility As the European leader in treating hazardous industrial waste and restoring…",
+      "link": "https://symfony.com/blog/case-study-driving-green-innovation-how-symfony-empowered-veolia-s-digital-shift-in-industrial-waste-management?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-07-02T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/logo.svg",
+      "type": "blog"
+    },
+    {
       "id": "fc74936f6c19",
       "title": "PolinRider: North Korea-Linked Supply Chain Campaign Expands Across Open Source Ecosystems",
       "description": "Socket Threat Research Team identified 162 malicious release artifacts across 108 packages and extensions in npm, Packagist, Go modules, and Chrome extensions, linking the activity to the broader North Korean Contagious Interview / Famous Chollima developer-targeting campaign. PolinRider is a supply chain campaign linked to North Korean threat actors associated with the broader Contagious Interview / Famous Chollima activity cluster. Our latest findings show that the campaign has expanded…",
