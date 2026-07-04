@@ -2,6 +2,95 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "beea18396340",
+      "title": "Open Source AI Gap Map",
+      "description": "Open Source AI Gap Map Current AI is \"a global partnership building a public option for AI\", founded as a non-profit at the AI Action Summit in Paris in February 2025 and backed by serious capital ($400m already committed). They launched their Gap Map a couple of days ago - an attempt at indexing the current state of open source AI: The Gap Map v0.1 details 421 products in depth: 266 software tools and libraries, 85 models, 50 datasets, and 20 hardware projects, produced by 228 organizations.…",
+      "link": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+      "pubDate": "2026-07-03T22:04:31.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "203c84d0cdbb",
+      "title": "Prompt, Context, Harness & Loop Engineering",
+      "description": "...explained visually.",
+      "link": "https://blog.dailydoseofds.com/p/prompt-context-harness-and-loop-engineering",
+      "pubDate": "2026-07-03T21:50:55.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!bdCF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a5a6d38-30f6-4b7f-bb1f-88e15d536f06_1294x1294.png",
+      "type": "blog"
+    },
+    {
+      "id": "dd9f2c7429b0",
+      "title": "Quoting Josh W. Comeau",
+      "description": "I just launched my third course, Whimsical Animations, and so far, it’s on track to sell roughly ⅓ as many copies as a typical course launch. It’s a similar story with my two existing courses. Sales are down significantly from last year. There are likely a lot of reasons for this, but I think the biggest is AI. There’s sort of a double whammy with AI: Many people are wondering whether developer jobs will even exist in a few months, so they’re reluctant to spend time/money learning new dev…",
+      "link": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
+      "pubDate": "2026-07-03T21:25:52.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d70524ba3cbc",
+      "title": "Twig 3.28.0 released",
+      "description": "Twig 3.28.0 is out. This release sharpens error reporting with column numbers, brings back dynamic macro calls through the dot operator, and continues to polish the sandbox with less runtime overhead and finer-grained allow-listing. As usual, it also ships…",
+      "link": "https://symfony.com/blog/twig-3-28-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-07-03T20:52:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/fabpot.png",
+      "type": "blog"
+    },
+    {
+      "id": "eefcaed436a9",
+      "title": "Fable's judgement",
+      "description": "One of the most interesting tips I got from the Fireside Chat I hosted with Cat Wu and Thariq Shihipar from the Claude Code team at AIE on Wednesday was to let Fable (and to a certain extent Opus) use their own judgement rather than dictating how they should work. The example they gave was testing. You can tell Fable \"only use automated testing for larger features, don't update and run tests for small copy or design changes\" - but it's better to just tell Fable to use its own judgement when…",
+      "link": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
+      "pubDate": "2026-07-03T18:51:06.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "631dfdc403b9",
+      "title": "June 2026 newsletter",
+      "description": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here. This month: Claude Fable 5, GPT-5.6, and US export restrictions GLM-5.2 is the new best open weights model Tokenmaxxing is so over Datasette Apps sqlite-utils and shot-scraper and Datasette Miscellaneous WASM projects Other model releases What I'm using Here's a copy of the May newsletter as a preview of what you'll get. Pay $10/month to stay a month…",
+      "link": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
+      "pubDate": "2026-07-03T14:50:50.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9220005cac32",
       "title": "The PHP Podcast 2026.07.02",
       "description": "🎙️ PHP Podcast – July 2, 2026 Hosts: Eric Van Johnson & John Congdon Eric’s new laptop won’t share its screen. John lost a fight with a leaf blower. PHP 8.6 alpha dropped. 100+ people showed up to make PHP seem cool again. Normal show. 🖥️ Eric’s Fresh Install and the Screen That Wouldn’t Share […] The post The PHP Podcast 2026.07.02 appeared first on PHP Architect.",

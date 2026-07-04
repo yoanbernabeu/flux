@@ -2,6 +2,85 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "d2d8aec55b8d",
+      "title": "WebMCP : exposer un site aux agents",
+      "description": "Découvrez comment exposer votre site aux agents grâce à WebMCP et Symfony. Intégrez des actions typées pour une interaction machine-humain simplifiée.",
+      "link": "https://lecodeestdanslepre.fr/billets/webmcp-symfony-stimulus",
+      "pubDate": "2026-07-03T15:40:20.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6ed58051f585",
+      "title": "Compte rendu Comptoir OCTO - Souveraineté numérique : Comment assurer votre résilience numérique ?",
+      "description": "La présentation traite de la souveraineté numérique sous l'angle de la résilience des organisations. Le message central est que les entreprises ne peuvent plus considérer leur environnement numérique comme stable. Elles doivent désormais gérer leurs dépendances technologiques afin de préserver leur capacité d'action.",
+      "link": "https://blog.octo.com/compte-rendu-comptoir-octo-souverainete-numerique--comment-assurer-votre-resilience-numerique",
+      "pubDate": "2026-07-03T15:32:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a52ad325727c",
+      "title": "Créer des agents IA avec Mistral AI Studio (Sans Coder)",
+      "description": "Dans cette vidéo, je te montre comment créer rapidement et facilement ton premier agent IA avec Mistral AI Studio. On va voir comment configurer un agent depuis l’interface de Mistral AI, choisir le bon modèle, écrire les instructions, régler la température, le max tokens, le top_p, activer les outils intégrés, comprendre l’effort de raisonnement, utiliser les fonctions personnalisées et choisir le bon format de réponse. L’objectif est simple : comprendre comment passer d’un simple prompt à un…",
+      "link": "https://www.youtube.com/watch?v=0esChgVuxSc",
+      "pubDate": "2026-07-03T14:00:28.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/0esChgVuxSc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "0esChgVuxSc"
+    },
+    {
+      "id": "19f0df9ebe33",
+      "title": "En 2026, les articles écrit avec IA se positionnent-ils mieux que les textes sans IA sur Google ?",
+      "description": "Je suis certain qu’il y a une question que vous vous posez : les textes écrits avec une IA sont-ils de meilleure qualité que ceux écrits par un humain ? Pour en avoir discuté avec pas mal de gens, le débat reste ouvert. Certains sont convaincus que les humains sont battus à plate-couture, tandis que […] L’article En 2026, les articles écrit avec IA se positionnent-ils mieux que les textes sans IA sur Google ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/07/03/en-2026-les-articles-ecrit-avec-ia-se-positionnent-ils-mieux-que-les-textes-sans-ia-sur-google/",
+      "pubDate": "2026-07-03T08:16:41.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2e799876b04c",
+      "title": "Piloter un projet data sans être un expert - Le guide pour les gestionnaires de produits et de projets non-techniques",
+      "description": "Vous débutez sur un projet data sans profil technique ? Voici un guide pratique pour comprendre les notions clés, poser les bonnes questions et collaborer efficacement avec votre équipe data.",
+      "link": "https://blog.ippon.fr/2026/07/03/piloter-un-projet-data-sans-etre-un-expert-le-guide-pour-les-gestionnaires-de-produits-et-de-projets-non-techniques/",
+      "pubDate": "2026-07-03T08:12:18.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/Data-Product-Owner.png",
+      "type": "blog"
+    },
+    {
       "id": "f6bb9674889a",
       "title": "#342.exe - Agilité destructrice: Pourquoi l'agilité ne vous rendra pas plus rapide par Patrick Szymkowiak",
       "description": "Pour l'épisode #342 je recevais Denis Migot. On en débrief avec Patrick. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
@@ -18,6 +97,83 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/127d9e41-309c-48be-bef6-5961604616c3.mp3?_=1782993696",
       "duration": "09:05"
+    },
+    {
+      "id": "c8cce01c6743",
+      "title": "La veille de Wittouck - juin 2026",
+      "description": "Ce mois de juin, j’étais en marathon de conférences. DevLille, Tech’Work, Breizhcamp, et je termine la saison avec Riviera Dev. J’ai donc eu peu de temps pour rédiger cette veille (j’étais tout le temps sur Factorio, parce que The Factory Must Grow 🏭⚙️, vous savez bien), Je reprends donc le rythme tout doucement, au début de l’été. Bonne lecture !",
+      "link": "https://codeka.io/2026/07/03/la-veille-de-wittouck-juin-2026/",
+      "pubDate": "2026-07-03T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/07/03/la-veille-de-wittouck-juin-2026/cover_hu_d3b33f5fe758ec26.webp",
+      "type": "blog"
+    },
+    {
+      "id": "56d5f3958e57",
+      "title": "🎤 Talks donnés à SunnyTech 🎤",
+      "description": "Liste de talks donnés lors de la conférence SunnyTech",
+      "link": "https://philippart-s.github.io/blog/talks/sunytech-2026/",
+      "pubDate": "2026-07-03T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3d4a68c5302c",
+      "title": "La Clean Architecture ne se résume pas à une arborescence de dossiers",
+      "description": "Pour beaucoup, la Clean Architecture se résume à un découpage du code en 3 couches: Domain, Application et Infrastructure (avec éventuellement une couche de présentation). Pourtant, si l’on regarde le livre de référence sur le sujet, “Clean Architecture” de Robert C. Martin, ce découpage ne représente qu’une dizaine de pages sur les 400 que compte le livre. L’organisation du projet est certainement la partie la plus visible de la Clean Architecture. C’est d’ailleurs ce qui en a fait son succès:…",
+      "link": "https://www.jdecool.fr/blog/2026/07/03/la-clean-architecture-ne-se-resume-pas-a-une-arborescence-de-dossiers.html",
+      "pubDate": "2026-07-02T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "98b2302e3512",
+      "title": "Doctrine sous EXPLAIN : profiler ce blog jusqu'à l'index",
+      "description": "Profiler un blog Symfony réel : requêtes comptées au profiler Doctrine, plans lus sous EXPLAIN ANALYZE, index vérifiés dans pg_stat_user_indexes en prod.",
+      "link": "https://lecodeestdanslepre.fr/billets/doctrine-postgresql-explain-n-plus-1",
+      "pubDate": "2026-07-02T16:19:14.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d1a900dd1081",
+      "title": "Mesurer le trafic IA dans ses logs",
+      "description": "13,5 jours de logs Caddy analysés : qui crawle un blog PHP, ce que pèsent GPTBot et ClaudeBot, et ce que vaut un robots.txt écrit sans mesure.",
+      "link": "https://lecodeestdanslepre.fr/billets/mesurer-trafic-ia-logs-crawlers",
+      "pubDate": "2026-07-02T16:16:20.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
     },
     {
       "id": "7b08ec16e73b",
@@ -46,6 +202,21 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a4a8e45ab384",
+      "title": "La release qui ne comptait plus",
+      "description": "Conventional Commits en entrée, tag et GitHub Release en sortie : un pipeline complet en trois jobs, et les trois squash qui l'ont rendu aveugle.",
+      "link": "https://lecodeestdanslepre.fr/billets/release-automatisee-git-cliff-github-actions",
+      "pubDate": "2026-07-02T07:38:22.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
