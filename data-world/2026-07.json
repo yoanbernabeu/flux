@@ -2,6 +2,66 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "ef10e0f5c9ba",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "description": "I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable release that I felt truly comfortable about, since I try to keep to SemVer and like my incompatible major versions to be as rare as possible. I started with this prompt, in Claude Code for web on my iPhone: Final review before shipping a stable 4.0 release - very important to spot any last…",
+      "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+      "pubDate": "2026-07-05T01:00:48.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1888c3f9b8d8",
+      "title": "sqlite-utils 4.0rc2",
+      "description": "Release: sqlite-utils 4.0rc2 See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25).",
+      "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
+      "pubDate": "2026-07-05T00:47:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ec4a208082d2",
+      "title": "Building a World Map with only 500 bytes",
+      "description": "Building a World Map with only 500 bytes Iwo Kadziela (assisted by Codex) figured out a way to generate a credible ASCII world map using 445 bytes of data: The key trick is to use deflate compression, which is then wired together using this neat snippet of JavaScript. I didn't know you could use fetch() with data: URIs like this: fetch('data:;base64,1ZpLsgIxCEXnrM...==').then( r =&gt; r.body.pipeThrough(new DecompressionStream('deflate-raw')) ).then( s =&gt; new Response(s).text() ).then( t…",
+      "link": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
+      "pubDate": "2026-07-04T23:09:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8ee24b1ad01c",
+      "title": "Better Models: Worse Tools",
+      "description": "Better Models: Worse Tools Armin reports on a weird problem he ran into while hacking on Pi: The short version is that newer Claude models sometimes call Pi’s edit tool with extra, invented fields in the nested edits[] array. And not Haiku or some small model: Opus 4.8. The edit itself is usually correct but the arguments do not match the schema as the model invents made-up keys and Pi thus rejects the tool call and asks to try again. That alone is not too surprising as models emit malformed…",
+      "link": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+      "pubDate": "2026-07-04T22:53:52.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "beea18396340",
       "title": "Open Source AI Gap Map",
       "description": "Open Source AI Gap Map Current AI is \"a global partnership building a public option for AI\", founded as a non-profit at the AI Action Summit in Paris in February 2025 and backed by serious capital ($400m already committed). They launched their Gap Map a couple of days ago - an attempt at indexing the current state of open source AI: The Gap Map v0.1 details 421 products in depth: 266 software tools and libraries, 85 models, 50 datasets, and 20 hardware projects, produced by 228 organizations.…",
