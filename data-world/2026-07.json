@@ -2,6 +2,65 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "1eb6e47c95e4",
+      "title": "sqlite-utils 4.0rc3",
+      "description": "Release: sqlite-utils 4.0rc3 I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the changelog since rc2 kept getting bigger. The biggest new feature is support for introspecting and creating compound foreign keys - a feature that involves a subtle breaking change to table.foreign_keys and hence needed to land for the 4.0 stable release. sqlite-utils also now follows SQLite's convention…",
+      "link": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
+      "pubDate": "2026-07-06T05:40:08.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "38451c0852c2",
+      "title": "Node.js Considers Public Workflow for Security Reports Amid AI-Driven Surge",
+      "description": "A controversial proposal inside the Node.js Technical Steering Committee would move lower-severity security reports into a public workflow, reserving private embargo handling for higher-severity vulnerabilities. The proposal, opened in February by Node.js security maintainer Rafael Gonzaga, is now on the agenda for the July 9, 2026 Security Working Group meeting, alongside a follow-up discussion on AI-assisted HackerOne triage. It builds on a year of changes to Node.js security intake,…",
+      "link": "https://socket.dev/blog/nodejs-considers-public-workflow-for-security-reports?utm_medium=feed",
+      "pubDate": "2026-07-06T04:12:26.495Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/b9a54a77f298582826c8691cf8968f5dc0d86990-2110x1166.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "93e49bfb5148",
+      "title": "How to Reduce LLM Costs by 50-60% Using Model Routing",
+      "description": "...explained with code.",
+      "link": "https://blog.dailydoseofds.com/p/how-to-reduce-llm-costs-by-50-60",
+      "pubDate": "2026-07-05T23:16:57.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!HaeX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa19891d2-4717-4ccd-9d18-7759e7e9fa80_1508x886.png",
+      "type": "blog"
+    },
+    {
+      "id": "7a1e11cb928d",
+      "title": "A Week of Symfony #1018 (June 29 – July 5, 2026)",
+      "description": "This week, Symfony released Twig 3.28.0, with improvements to macros and the sandbox. In addition, we published a case study on using Symfony in the industrial sector. Lastly, we proposed a redesign of the exception page for Symfony applications. Symfony…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1018-june-29-july-5-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-07-05T07:18:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ef10e0f5c9ba",
       "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
       "description": "I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable release that I felt truly comfortable about, since I try to keep to SemVer and like my incompatible major versions to be as rare as possible. I started with this prompt, in Claude Code for web on my iPhone: Final review before shipping a stable 4.0 release - very important to spot any last…",
