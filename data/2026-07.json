@@ -2,6 +2,54 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "47f71ccaf392",
+      "title": "Zéro nouveau matériel : une boussole EROOM pour une solution numérique adaptée au besoin",
+      "description": "Et si la solution matérielle à votre besoin numérique existait déjà? Pour informatiser un suivi médical, au lieu d’un nouveau service cloud, nous avons détourné l’existant : Mac, Android et enceintes connectées. EROOM, c’est ça : avant de construire, inventoriez. Résultat : une solution frugale, utile, et surtout zéro nouveau matériel acheté.",
+      "link": "https://blog.octo.com/zero-nouveau-materiel--une-boussole-eroom-pour-une-solution-numerique-adaptee-au-besoin",
+      "pubDate": "2026-07-06T15:42:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3cee4f5e2c57",
+      "title": "L’IA ne remplace pas les développeurs. Elle les augmente.",
+      "description": "On entend souvent que l’IA va remplacer les métiers techniques. Pourtant, dans la pratique, le vrai sujet est ailleurs : comment ces outils peuvent nous aider à aller plus vite, produire davantage et mieux nous concentrer sur la partie la plus humaine de notre travail. C’est exactement la vision que partage Guillaume Loulier dans ce passage : l’IA n’efface pas le rôle du développeur, elle lui donne plus de puissance. Et si la bonne question n’était pas “est-ce que l’IA va nous remplacer ?”,…",
+      "link": "https://www.youtube.com/watch?v=jl0sLkW5KoQ",
+      "pubDate": "2026-07-06T15:35:25.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/jl0sLkW5KoQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "jl0sLkW5KoQ"
+    },
+    {
+      "id": "eb635cfc00ce",
+      "title": "Le backup de Schrödinger : rejouer son pg_dump avant d'en avoir besoin",
+      "description": "Testez vos sauvegardes PostgreSQL ! Apprenez à rejouer vos pg_dump quotidiens et mesurez votre RTO avant le sinistre.",
+      "link": "https://lecodeestdanslepre.fr/billets/backup-schrodinger-restaurer-pg-dump",
+      "pubDate": "2026-07-06T10:33:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/backup-schrodinger-restaurer-pg-dump.png?v=78994141a907d6a6",
+      "type": "blog"
+    },
+    {
       "id": "42e4e3d1812d",
       "title": "EasyAdmin : sécuriser un admin sans toucher à setPermission()",
       "description": "Sécurisez votre back-office EasyAdmin sans setPermission(). Combinez access_control, #[IsGranted] et gardes custom pour une sécurité robuste et efficace.",

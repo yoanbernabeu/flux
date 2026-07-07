@@ -2,6 +2,50 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "7d7bc23d2ad3",
+      "title": "tencent/Hy3",
+      "description": "tencent/Hy3 New Apache 2.0 licensed model from Tencent in China: Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed by the Tencent Hy Team. Following the Hy3 Preview launch in late April, we gathered feedback from 50+ products and scaled up post-training with higher quality data. Today, we introduce Hy3, which outperforms similar-size models and rivals flagship open-source models with 2-5x parameters. It also shows…",
+      "link": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
+      "pubDate": "2026-07-06T23:57:35.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6804fa9502ad",
+      "title": "The Reward Signal Problem for Agents",
+      "description": "The full RL nanodegree, covered with implementation.",
+      "link": "https://blog.dailydoseofds.com/p/the-reward-signal-problem-for-agents",
+      "pubDate": "2026-07-06T14:38:04.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!1I5o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdca55658-92ff-4f40-b50f-a4027d6b1ded_1376x707.png",
+      "type": "blog"
+    },
+    {
+      "id": "9b25044a5d5c",
+      "title": "UUIDs, ULIDs and Sqids: A Practical Deep Dive",
+      "description": "A practical deep dive into UUIDs, ULIDs, and Sqids, from generation models and sorting behavior to database storage, public IDs, and security trade-offs. Read more",
+      "link": "https://freek.dev/3155-uuids-ulids-and-sqids-a-practical-deep-dive",
+      "pubDate": "2026-07-06T12:46:27.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1eb6e47c95e4",
       "title": "sqlite-utils 4.0rc3",
       "description": "Release: sqlite-utils 4.0rc3 I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the changelog since rc2 kept getting bigger. The biggest new feature is support for introspecting and creating compound foreign keys - a feature that involves a subtle breaking change to table.foreign_keys and hence needed to land for the 4.0 stable release. sqlite-utils also now follows SQLite's convention…",
