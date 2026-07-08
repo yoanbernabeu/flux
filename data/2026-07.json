@@ -2,6 +2,87 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "9b98dcfeebb2",
+      "title": "#364.src - Strapi: Du JavaScript partout au content agent, la mutation continue avec Pierre Burgy",
+      "description": "\"Strapi est sûrement le CMS le plus personnalisable\" Le D.E.V. de la semaine est Pierre Burgy, CEO chez Strapi. Pierre revient sur l'évolution de Strapi, né à l'époque où les devs rêvaient de tout faire en JavaScript, jusqu'à son passage à l'échelle dans l'ère de l'AI et des coding agents. Il partage comment la vision open source et la personnalisation extrême sont devenues des atouts stratégiques, sans négliger la stabilité technique. On explore l'impact des LLM sur la notion même de CMS et…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-364-b0831d7d02ea",
+      "pubDate": "2026-07-08T03:00:50.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/56b2bc8b-71f2-49b2-a7ff-a6b32cff17ef.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/7706ffa5-4576-4764-9db5-b0831d7d02ea.mp3?_=1783425710",
+      "duration": "57:21"
+    },
+    {
+      "id": "0e20c323bcc5",
+      "title": "Newsletter juillet 2026 : Comment devenir une entreprise incontournable ?",
+      "description": "Les entreprises incontournables seront celles qui maîtriseront les moteurs de recherche IA Être une entreprise incontournable, c’est quoi ? C’est être celle à laquelle tout le monde pense quand on a un besoin en tête. Dans le B2C, ce sont les marques connues. Dans le B2B, c’est un peu différent. Être incontournable, c’est être l’entreprise […] L’article Newsletter juillet 2026 : Comment devenir une entreprise incontournable ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/07/07/newsletter-juillet-2026-comment-devenir-une-entreprise-incontournable/",
+      "pubDate": "2026-07-07T14:45:12.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c995dc06668f",
+      "title": "Rendez vos composants appelable avec react-call",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/react-call-2346 Lorsque l'on veut afficher une boîte de confirmation dans React, on se retrouve souvent à ajouter un état `open`, à câbler les callbacks, puis à conditionner la suite de l'action en fonction du choix de l'utilisateur. Pour une simple suppression, cela fait beaucoup de code autour du composant qui déclenche l'action. [React Call](https://github.com/desko27/react-call) propose une autre approche : transformer un composant React en…",
+      "link": "https://www.youtube.com/watch?v=vNH6P6rMxQg",
+      "pubDate": "2026-07-07T13:30:11.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/vNH6P6rMxQg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "vNH6P6rMxQg"
+    },
+    {
+      "id": "d4620b6b9c30",
+      "title": "Les modèles du monde: l’IA post LLM",
+      "description": "L'avenir de l'IA selon Yann LeCun : World Models, LLM, Open Source et Souveraineté L’IA générative (LLM) a-t-elle déjà atteint ses limites ? Pourquoi ChatGPT ne comprendra jamais vraiment la physique du monde réel ? 🚨 Pour ce dernier épisode de la saison 1 d'À la French, Jean-Baptiste Kempf, Steeve Morin et Mehdi Medjaoui reçoivent le \"taulier\" absolu de l'Intelligence Artificielle : Yann LeCun, Prix Turing 2018,déclaré l’un 3 des Pères de l’IA, ex-Chief AI Scientist chez Meta et inventeur des…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6a4ccb132c7bd0af20d47e7e",
+      "pubDate": "2026-07-07T10:00:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1783417331180-d6d379ad-2c52-4a6c-ad1e-ca0ef47bfa37.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6a4ccb132c7bd0af20d47e7e/media.mp3",
+      "duration": "1:32:02"
+    },
+    {
+      "id": "fc5f773586f2",
+      "title": "🎤 Talks donnés à Riviera Dev 🎤",
+      "description": "Liste de talks donnés lors de la conférence Riviera Dev",
+      "link": "https://philippart-s.github.io/blog/talks/riviera-2026/",
+      "pubDate": "2026-07-07T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "47f71ccaf392",
       "title": "Zéro nouveau matériel : une boussole EROOM pour une solution numérique adaptée au besoin",
       "description": "Et si la solution matérielle à votre besoin numérique existait déjà? Pour informatiser un suivi médical, au lieu d’un nouveau service cloud, nous avons détourné l’existant : Mac, Android et enceintes connectées. EROOM, c’est ça : avant de construire, inventoriez. Résultat : une solution frugale, utile, et surtout zéro nouveau matériel acheté.",

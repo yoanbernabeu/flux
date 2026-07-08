@@ -2,6 +2,183 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "baab745c8278",
+      "title": "sqlite-utils 4.0, now with database schema migrations",
+      "description": "This morning I released sqlite-utils 4.0, the 124th release of that project and the first major version bump since 3.0 in November 2020. In addition to some small but significant breaking changes (described in this upgrade guide), this version introduces three major features: database migrations, nested transactions (via a new db.atomic() method), and support for compound foreign keys. Database schema migrations using sqlite-utils Schema migrations define a sequence of changes to be made to a…",
+      "link": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
+      "pubDate": "2026-07-07T19:32:57.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4210da31cb76",
+      "title": "Coordinated npm and PyPI Campaign Typosquats Popular Secure Payment Apps",
+      "description": "Socket’s AI scanner detected a cluster of npm and PyPI malware published on July 7, 2026. The 17 packages, published nearly simultaneously, target SDK developers and users of the popular PaySafe, Skrill and Neteller payment applications. Ultimately, the packages perform credential and token theft, exfiltrating stolen data to AWS infrastructure. Affected Packages # At the time of publication, the following packages were affected. Each npm package published four malicious versions (1.0.0 through…",
+      "link": "https://socket.dev/blog/npm-pypi-campaign-typosquats-popular-secure-payment-apps?utm_medium=feed",
+      "pubDate": "2026-07-07T18:09:26.294Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d37452806417",
+      "title": "Rethinking KV Caching For Production Inference",
+      "description": "A practitioner's guide to KV cache management in production.",
+      "link": "https://blog.dailydoseofds.com/p/rethinking-kv-caching-for-production",
+      "pubDate": "2026-07-07T16:52:17.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!fFcv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3469bd3a-08a1-4389-89fb-59434b6cb71c_960x671.gif",
+      "type": "blog"
+    },
+    {
+      "id": "bc0c94d89463",
+      "title": "sqlite-migrate 0.2",
+      "description": "Release: sqlite-migrate 0.2 The version that retires the library, instead implementing a compatibility shim against the new sqlite-utils 4.0 dependency. Tags: sqlite-utils",
+      "link": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
+      "pubDate": "2026-07-07T16:33:55.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "43bff7e579fb",
+      "title": "github-code Web Component",
+      "description": "Tool: github-code Web Component An experimental Web Component built using GPT-5.5 and the following prompt: let's build a Web Component for embedding code from GitHub &lt;github-code href=\"https://github.com/simonw/sqlite-ast/blob/437c759129154f05296324a7f82aa1246340dd14/sqlite_ast/parser.py#L9-L18\"&gt;&lt;/github-code&gt; It takes URLs like that, converts them to https://raw.githubusercontent.com/simonw/sqlite-ast/437c759129154f05296324a7f82aa1246340dd14/sqlite_ast/parser.py, then uses fetch()…",
+      "link": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything",
+      "pubDate": "2026-07-07T16:18:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6f16a33ecae8",
+      "title": "sqlite-utils 4.0",
+      "description": "Release: sqlite-utils 4.0 See sqlite-utils 4.0, now with database schema migrations for details. Tags: sqlite-utils",
+      "link": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything",
+      "pubDate": "2026-07-07T15:42:43.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e4cc4e64cb29",
+      "title": "Livewire 4’s Islands Architecture: Build Faster UIs Without the JavaScript Overhead",
+      "description": "Caleb Porzio shipped Livewire v4 in January 2026, and it’s not a minor bump. The release introduces islands architecture, single-file components as the default format, scoped styles, built-in drag-and-drop sorting, and a suite of optimistic UI directives that make your interfaces feel instant. If you’ve been building with Livewire v3, the upgrade path is smooth […] The post Livewire 4’s Islands Architecture: Build Faster UIs Without the JavaScript Overhead appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/07/livewire-4s-islands-architecture-build-faster-uis-without-the-javascript-overhead/",
+      "pubDate": "2026-07-07T15:11:14.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/07/2026-04-12-livewire-4-islands.png",
+      "type": "blog"
+    },
+    {
+      "id": "9d74f9ea7b11",
+      "title": "Leave a failing test before you go on vacation",
+      "description": "Every year I dread coming back from vacation not because of the work, but because I have no idea where I left off. A failing test, a well-written TODO, and a slow first day back are all you need to ease back in. Read more",
+      "link": "https://freek.dev/3156-leave-a-failing-test-before-you-go-on-vacation",
+      "pubDate": "2026-07-07T12:17:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f0dcf866a7e8",
+      "title": "Ordinary Engineers, Not Heroic Inventors",
+      "description": "In the 1980s, Japan led the world in semiconductors, consumer electronics, and computer hardware, the industries everyone assumed would decide the next phase of economic power. Japan won them and still did not overtake the United States in the information revolution that followed. Jeff Ding, a political scientist at George Washington University, opens his book […]",
+      "link": "https://www.oreilly.com/radar/ordinary-engineers-not-heroic-inventors/",
+      "pubDate": "2026-07-07T11:38:55.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/07/image-1123x1600.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "95808a680e9a",
+      "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
+      "description": "... government of the people, by the people, for the people ... The cost of AI is dropping rapidly. GPT-4-class capabilities cost roughly $30 per million tokens in early 2023; today the same runs under $1, and some providers are pushing costs below $0.10. Across benchmarks, inference prices have fallen between 9x and 900x per year, with a median decline near 50x. Even frontier models are getting dramatically cheaper each generation, with open-source models following closely behind. And…",
+      "link": "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/",
+      "pubDate": "2026-07-07T09:00:00.000Z",
+      "source": "BAIR Blog",
+      "sourceUrl": "https://bair.berkeley.edu/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
+      "type": "blog"
+    },
+    {
+      "id": "7fd48dfe7dd4",
+      "title": "sqlite-utils 4.0rc4",
+      "description": "Release: sqlite-utils 4.0rc4 The last RC before the 4.0 stable release. Mainly implements feedback from a detailed review by Claude Fable 5. Tags: sqlite-utils, claude-mythos-fable",
+      "link": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything",
+      "pubDate": "2026-07-07T05:36:15.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16fe3368bc89",
+      "title": " Getting started with PHP ",
+      "description": "Read the full post on https://stitcher.io/blog/getting-started-with-php",
+      "link": "https://stitcher.io/blog/getting-started-with-php",
+      "pubDate": "2026-07-07T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7d7bc23d2ad3",
       "title": "tencent/Hy3",
       "description": "tencent/Hy3 New Apache 2.0 licensed model from Tencent in China: Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed by the Tencent Hy Team. Following the Hy3 Preview launch in late April, we gathered feedback from 50+ products and scaled up post-training with higher quality data. Today, we introduce Hy3, which outperforms similar-size models and rivals flagship open-source models with 2-5x parameters. It also shows…",
