@@ -2,6 +2,332 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "d175f5f47bd8",
+      "title": "Quoting OpenAI",
+      "description": "[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in desktop Work; desktop Work threads and local files remain on that computer. &mdash; OpenAI, trying (unsuccessfully) to clarify ChatGPT Work Tags: openai, chatgpt, ai",
+      "link": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
+      "pubDate": "2026-07-10T01:05:57.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7353f1637d6",
+      "title": "The PHP Podcast 2026.07.09",
+      "description": "🎙️ PHP Podcast – July 9, 2026 Hosts: Eric Van Johnson & John Congdon | Guest: Holly Schilling A PHP RFC for extension methods that PHP definitely should have had by now. 👋 Holly Schilling, Uninvited but Welcome Holly was originally just planning to heckle from the Discord chat room. She had about 45 minutes’ […] The post The PHP Podcast 2026.07.09 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-07-09/",
+      "pubDate": "2026-07-10T00:51:00.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/07/The-PHP-Podcast-2026.07.09.png",
+      "type": "blog"
+    },
+    {
+      "id": "f6066f0dcc36",
+      "title": "How to Build an RL Environment",
+      "description": "...explained step-by-step with code.",
+      "link": "https://blog.dailydoseofds.com/p/how-to-build-an-rl-environment",
+      "pubDate": "2026-07-09T20:52:21.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!DXZZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef043ae9-92eb-450e-8132-5638bd3d16b6_1199x650.png",
+      "type": "blog"
+    },
+    {
+      "id": "4e92ad0b9653",
+      "title": "Fake Braintree NuGet Package Skims Credit Cards and Harvests Merchant Credentials",
+      "description": "Socket’s AI scanner flagged a suspicious NuGet package masquerading as the official Braintree payment gateway client, with the first malicious version published on July 3, 2026. It was detected by Socket as potential malware 10 minutes after publication. Follow-on analysis by the Socket Threat Research team revealed a multi-stage .NET implant that intercepts live payment card data, exfiltrates Braintree merchant API keys and harvests host environment secrets upon assembly load. The package…",
+      "link": "https://socket.dev/blog/braintree-nuget-typosquat-skims-credit-cards?utm_medium=feed",
+      "pubDate": "2026-07-09T19:58:26.067Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/3f3c31ff89456567129f638768f36e974482b585-1314x967.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "6786dc227c1f",
+      "title": "The new GPT-5.6 family: Luna, Terra, Sol",
+      "description": "OpenAI's latest flagship model hit general availability this morning, and comes in three sizes: Luna, Terra, and Sol (from smallest to largest). The new models are priced per 1M input/output tokens as Luna $1/$6, Terra $2.50/$15, Sol $5/$30. For comparison, the Claude Opus series are $5/$25 and the Claude Fable 5 is $10/$50, but price-per-million tokens doesn't tell us much now that the number of reasoning tokens can differ so much between models for the same task. All three models have a…",
+      "link": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+      "pubDate": "2026-07-09T19:46:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32d550e225dd",
+      "title": "Introducing Muse Spark 1.1",
+      "description": "Introducing Muse Spark 1.1 Following Muse Spark in April, here's Muse Spark 1.1 - the first Spark model to offer an API. Meta claim significant improvements in agentic tool calling and computer use. There are a lot more details are in the Muse Spark 1.1 Evaluation Report. The \"Attractor States in Self-Conversation\" part is fun, where having two copies of the model talk to each other results in statements like these: My whole existence is a waiting room by design — I literally don't exist until…",
+      "link": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
+      "pubDate": "2026-07-09T16:24:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca0039a74e5f",
+      "title": "FrankenPHP in Production: Worker Mode, Embedded Binaries, and Real Performance",
+      "description": "For twenty-plus years, “deploying PHP” meant the same uneasy triangle: Apache or Nginx in front, PHP-FPM behind, and a configuration file glued between them that nobody on the team really understood. FrankenPHP is the first genuinely different answer that stack has had in a long time, and after a couple of years of steady releases […] The post FrankenPHP in Production: Worker Mode, Embedded Binaries, and Real Performance appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/07/frankenphp-in-production-worker-mode-embedded-binaries-and-real-performance/",
+      "pubDate": "2026-07-09T16:14:54.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/07/2026-04-23-frankenphp.png",
+      "type": "blog"
+    },
+    {
+      "id": "84f3ec33fcb0",
+      "title": "llm-meta-ai 0.1",
+      "description": "Release: llm-meta-ai 0.1 Let's LLM run prompts against the new muse-spark-1.1 model. Tags: llm, meta",
+      "link": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything",
+      "pubDate": "2026-07-09T16:12:20.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "903087bd5201",
+      "title": "llm 0.31.1",
+      "description": "Release: llm 0.31.1 Fix for a bug with OpenAI Chat Completion endpoints where a tool call with empty arguments could result in a JSON error from some providers. #1521 This bug came up when I was testing llm-meta-ai. Tags: llm",
+      "link": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything",
+      "pubDate": "2026-07-09T16:06:15.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e4702dec0a49",
+      "title": "Compromised Injective SDK npm Package Exfiltrates Wallet Keys and Mnemonics",
+      "description": "@injectivelabs/sdk-ts@1.20.21 records private keys and mnemonics, enabling wallet compromise via 17 scoped packages pinned to the malicious version. Socket detected a malicious @injectivelabs/sdk-ts@1.20.21 release published to npm with fake telemetry functionality that exfiltrates wallet private keys and mnemonic phrases. The affected package is part of the Injective Labs TypeScript SDK and receives roughly 50,000 weekly downloads, making the incident significant for developers and…",
+      "link": "https://socket.dev/blog/compromised-injective-sdk-npm-package?utm_medium=feed",
+      "pubDate": "2026-07-09T13:32:20.548Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/1d9c1cd74d73954076f829b8045cb7dc8676f63d-972x691.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "094301368c7b",
+      "title": "CLAUDE.md is RAM, not disk",
+      "description": "CLAUDE.md isn't documentation, it's working memory. A practical approach to keeping it lean and focused instead of letting it grow into an unreadable 300-line dumping ground. Read more",
+      "link": "https://freek.dev/3158-claudemd-is-ram-not-disk",
+      "pubDate": "2026-07-09T12:45:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "28529212e06b",
+      "title": "AI Enthusiasts Are in a Race Against Time, AI Skeptics Are in a Race Against Entropy",
+      "description": "The following article originally appeared on Charity Majors’s Substack and is being republished here with the author’s permission. I recently attended a talk where one of the presenters made some pretty…astonishing claims about what they had achieved by the pure, uncut power of vibe coding. Difficult engineering problems solved, backlogs cleared. Rewrites that would have […]",
+      "link": "https://www.oreilly.com/radar/ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-race-against-entropy/",
+      "pubDate": "2026-07-09T11:00:25.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/07/image-8.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "2f4809fc6774",
+      "title": " PHP version stats: July, 2026 ",
+      "description": "Read the full post on https://stitcher.io/blog/php-version-stats-july-2026",
+      "link": "https://stitcher.io/blog/php-version-stats-july-2026",
+      "pubDate": "2026-07-09T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f159d9ad3657",
+      "title": "Rewriting Bun in Rust",
+      "description": "Rewriting Bun in Rust Jarred Sumner has been promising this blog post (since May 9th) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite. Honestly, it was worth the wait. This is a detailed description of an extremely sophisticated piece of agentic engineering, featuring dynamic workflows, trial runs, adversarial review and all sorts of other interesting tricks. Jarred spends the first half of the post praising Zig for getting Bun this far. Then…",
+      "link": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+      "pubDate": "2026-07-08T23:57:21.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "66b741ba9c91",
+      "title": "Introducing GPT‑Live",
+      "description": "Introducing GPT‑Live OpenAI finally upgraded the model used by ChatGPT voice mode! I've had preview access for a few weeks in the iPhone app, and the new model is very impressive. It also has the ability to spin off harder tasks to GPT-5.5: For questions that require web search, deeper reasoning, or more complex work, it delegates to our latest frontier model behind the scenes and brings the result back into the conversation when it’s ready. While it works, GPT‑Live can keep talking with you…",
+      "link": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+      "pubDate": "2026-07-08T23:20:48.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f924e38b3bd0",
+      "title": "npm v12 Ships With Install Scripts Off by Default, Begins Deprecating 2FA-Bypass Tokens",
+      "description": "npm v12 is now generally available and tagged latest. The release turns on the install-time security defaults GitHub announced in June and starts winding down the most sensitive uses of 2FA-bypass granular access tokens (GATs). Both changes landed in today's changelog. The direction will be familiar to anyone who followed the past year of npm supply chain attacks. Almost every worm and credential stealer that hit the registry since late 2025 ran at install time, before any application code…",
+      "link": "https://socket.dev/blog/npm-12?utm_medium=feed",
+      "pubDate": "2026-07-08T21:44:31.725Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d566cc7c32d4",
+      "title": "Malicious Go Module Exposes GitHub Malware Lure Network Spanning 222 Repositories",
+      "description": "Our investigation began with a malicious Go module, github[.]com/kaleidora/dnsub-scanning-tool, that posed as a DNS/subdomain scanner. The module did more than impersonate a developer utility: it exposed a Windows malware-staging chain that used hidden PowerShell execution, public dead-drop resolution, protected archive delivery, and RAT/infostealer deployment. Pivoting from that module revealed the larger finding: a GitHub-based lure network of 222 confirmed repositories across 190 accounts,…",
+      "link": "https://socket.dev/blog/malicious-go-module-exposes-github-malware-lure-network?utm_medium=feed",
+      "pubDate": "2026-07-08T20:23:41.691Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/7d327723f8795b3ca9afcc264a1a0fc40edfbf38-1082x1281.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "f4006669ac44",
+      "title": "Quoting Kenton Varda",
+      "description": "I just declared a moratorium against AI-written change descriptions (e.g. PR and commit messages, also issues/tickets) from my team. AI was writing change descriptions that were worse than useless to me as I tried to review PRs: outlining details of the code that could easily be seen by looking at the code, but omitting the higher-level framing needed to understand broadly what the code is doing. &mdash; Kenton Varda Tags: kenton-varda, ai-assisted-programming, generative-ai, ai, llms",
+      "link": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+      "pubDate": "2026-07-08T20:03:34.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0aefe23b2fcb",
+      "title": "Build Your Own 100% Local AI Second Brain",
+      "description": "How the best builders in tech are all converging on AI second brains",
+      "link": "https://blog.dailydoseofds.com/p/build-your-own-100-local-ai-second-01b",
+      "pubDate": "2026-07-08T17:10:10.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!DoKq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc602df15-278f-48d1-8cda-9d3c82ea596b_1190x740.png",
+      "type": "blog"
+    },
+    {
+      "id": "f6ba9a274876",
+      "title": "Charging AI Agents Per Request: A Practical Guide to the Machine Payments Protocol",
+      "description": "Agentic commerce is a buzzy term, but is still pretty abstract for developers asking what they can actually build today. This post explains MPP through a working Laravel example, and introduces the new square1/laravel-mpp package. Read more",
+      "link": "https://freek.dev/3157-charging-ai-agents-per-request-a-practical-guide-to-the-machine-payments-protocol",
+      "pubDate": "2026-07-08T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3211dc6a50f7",
+      "title": "Why AI Coding Agents Still Need Clear Specs",
+      "description": "The following article originally appeared on Markus Eisele’s newsletter, The Main Thread, and is being republished here with the author’s permission. There’s a mental model spreading through the developer community right now that goes something like this: Agents are smart enough to figure things out, so heavy upfront specification is bureaucratic overhead you don’t need […]",
+      "link": "https://www.oreilly.com/radar/why-ai-coding-agents-still-need-clear-specs/",
+      "pubDate": "2026-07-08T11:03:27.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/07/image-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ab40b7a40bf7",
+      "title": "pnpm 11.10 Hardens Registry Authentication to Block Token Redirection",
+      "description": "pnpm 11.10 was released over the weekend as a small update that includes several supply chain hardening changes. The main change is a new way to configure registry authentication that keeps a repository's own files from redirecting your registry token to a different host. The release also tightens a few build and packaging commands and adds an install path for pnpm v12, the Rust rewrite. The new _auth setting ties each token to its registry # pnpm 11.10 adds an _auth setting that stores…",
+      "link": "https://socket.dev/blog/pnpm-11-1-hardens-registry-authentication?utm_medium=feed",
+      "pubDate": "2026-07-08T05:01:39.304Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "baab745c8278",
       "title": "sqlite-utils 4.0, now with database schema migrations",
       "description": "This morning I released sqlite-utils 4.0, the 124th release of that project and the first major version bump since 3.0 in November 2020. In addition to some small but significant breaking changes (described in this upgrade guide), this version introduces three major features: database migrations, nested transactions (via a new db.atomic() method), and support for compound foreign keys. Database schema migrations using sqlite-utils Schema migrations define a sequence of changes to be made to a…",

@@ -2,6 +2,92 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "5fd293b4b075",
+      "title": "#335.exe - Figma: From tech debt to AI, all through collaboration. The real life of a VP of Engineering par Jeremy Cohen",
+      "description": "Pour l'épisode #335 je recevais Marcel Weekes. On en débrief avec Jeremy. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-335-79e43969a8f8",
+      "pubDate": "2026-07-10T03:00:48.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/c95e3498-e1e5-49a2-b113-79e43969a8f8.mp3?_=1783598508",
+      "duration": "16:11"
+    },
+    {
+      "id": "dfb308e07b4d",
+      "title": "Let's code: implementing drift detection in Python (River, MD3, HDDDM)",
+      "description": "Hands-on guide to coding drift detection in Python: concept drift example, River package, MD3 and HDDDM multivariate detectors with code.",
+      "link": "https://blog.octo.com/let's-code-drift-and-detect!",
+      "pubDate": "2026-07-09T15:13:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "74c355270c8a",
+      "title": "Event-Driven Architecture chez Octo : épisode 4, robustesse et industrialisation",
+      "description": "Un système événementiel qui marche en démo, c'est facile. Un qui tient en prod, c'est une autre histoire. Épisode 4 (et final) de la série EDA : idempotence pour de vrai (avec Redis), observabilité event-driven, alerting sur Mattermost, industrialisation Terraform… et nos vraies galères.",
+      "link": "https://blog.octo.com/event-driven-architecture-chez-octo--episode-4-robustesse-et-industrialisation",
+      "pubDate": "2026-07-09T15:01:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7f168013d450",
+      "title": "IBM a-t'il vraiment inventé le papier bulle ?",
+      "description": "Une petite histoire qui montre encore à quel point des pans entiers de l'industrie ont été révolutionnés par la tech. WorkMachine : https://www.workmachine.io",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/IBM-a-til-vraiment-invent-le-papier-bulle-e3lrp61",
+      "pubDate": "2026-07-09T08:31:17.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/122593921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-9%2F570d9779-4efa-4746-c1ba-1857e3e72096.mp3",
+      "duration": "00:05:25"
+    },
+    {
+      "id": "806f37c52e12",
+      "title": "Le rapport d’étonnement : le premier livrable d'un designer stratégique",
+      "description": "Ou comment j'ai convaincu ma cliente de retravailler sa vision produit, avant d'avoir maquetté quoi que ce soit !J’ai commencé une mission en tant que product designer. Je n’ai pas produit de maquette dans les trois premières semaines. À la place, j’ai produit un rapport d’étonnement. Spoiler alerte : nous venons de finir un atelier vision produit",
+      "link": "https://blog.octo.com/le-rapport-d'etonnement--le-premier-livrable-d'un-designer-strategique",
+      "pubDate": "2026-07-09T08:07:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5840519c4b39",
       "title": "JSON-LD et schema.org : baliser pour l'ère des agents",
       "description": "Découvrez comment le JSON-LD et schema.org redéfinissent le balisage pour les agents IA. Ce billet analyse ce qui compte encore en 2026 pour votre SEO.",
@@ -207,6 +293,21 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/og/billets/backup-schrodinger-restaurer-pg-dump.png?v=78994141a907d6a6",
+      "type": "blog"
+    },
+    {
+      "id": "872befec2152",
+      "title": "Colo",
+      "description": "Nous sommes en voiture. Je les amène au point de rendez-vous. Aujourd’hui, c’est le départ pour la colo. Je suis un peu stressé depuis quelques jours. Je ne sais pas comment ça va se passer pour eux et je ne sais pas si moi, je vais réussir à gérer la séparation. – Et toi, Papa, t’es jamais parti en colo ? Il marque un temps de réfléxion. Il a envie de me poser une question mais il n’ose pas. Finalement, il se lance. – Ma maman ou ta maman ? Je suis pris de cours. C’est pas banal. – Attends, tu…",
+      "link": "https://boris.schapira.dev/notes/2026-07-colo/",
+      "pubDate": "2026-07-05T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

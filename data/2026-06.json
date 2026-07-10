@@ -804,6 +804,22 @@
       "duration": "1:03:20"
     },
     {
+      "id": "eb858f3baff3",
+      "title": "Talk - Pimp My Shell",
+      "description": "Travailler dans un shell n’a pas besoin d’être ennuyeux, ni moche. Ce qui constitue une stack shell moderne : un émulateur de terminal, une nerd-font pleine d’icônes, un joli prompt starship et un outillage fou : mise pour gérer vos outils, tâches et alias, fnox pour les secrets et chezmoi pour une gestion propre de vos dotfiles. Je vous partage ma stack et mes astuces et trucs rigolos pour mettre des paillettes dans mon bash, et être efficace en ligne de commande.",
+      "link": "https://codeka.io/talks/talk-pimp-my-shell/",
+      "pubDate": "2026-06-18T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e8b7e976e714",
       "title": "Software development  and  IA: De l'artisan du code au superviseur de l'IA - une histoire déjà vécue dans l’aviation civile",
       "description": "Faire un parallèle entre la transformation du métier de pilote de ligne sous l'effet de l'automatisation et celle que connaissent aujourd'hui les informaticiens avec l'essor de l'IA. Comparaison n'est pas raison. Mais regarder dans le rétroviseur de l'histoire permet souvent de mieux comprendre les dynamiques du moment et prendre de la hauteur",
