@@ -2,6 +2,108 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "da4345802e38",
+      "title": "RAG & Fine-tuning in LLMs",
+      "description": "...explained visually.",
+      "link": "https://blog.dailydoseofds.com/p/rag-and-fine-tuning-in-llms-102",
+      "pubDate": "2026-07-10T22:05:58.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!1a3L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa087ec4e-141a-477e-87fb-58cd5f07dfd0_960x995.gif",
+      "type": "blog"
+    },
+    {
+      "id": "a1a78491d4be",
+      "title": "Quoting Nilay Patel",
+      "description": "The reality is to make augmented reality glasses, you need to put a camera next to your eyes that is continuously recording everything you see and processing that to put information over it. There is not another way around it. And there's certainly not a chip that can fit in the stem of a glasses that is both powerful enough and power miserly enough to do that in real time. You have to send that data to a cloud. You gotta do it. [...] Or you can build something the size of a Vision Pro with a…",
+      "link": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
+      "pubDate": "2026-07-10T17:05:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "66f5d11237f8",
+      "title": "This Week in AI: Chips, Checks, and Changing Jobs",
+      "description": "This week data and AI evangelist Christina Stathopoulos returned for a solo news briefing. Instead of exploring one or two topics in depth, Christina sorted the week’s headlines into a handful of threads: advances in physical hardware to keep up with AI demand, the widening reach of government oversight into frontier model companies, and a […]",
+      "link": "https://www.oreilly.com/radar/this-week-in-ai-chips-checks-and-changing-jobs/",
+      "pubDate": "2026-07-10T16:04:48.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2b3e65f953fc",
+      "title": "A tour of my dotfiles",
+      "description": "Over the years, I've built up a collection of aliases, shell functions, and CLI tools that make my terminal feel like home. All of it lives in a single repository: my dotfiles. It's a backup of every terminal tool and configuration I rely on, and it means I can set up a brand new Mac from scratch in about five minutes. Colleagues at Spatie use it as a starting point for their own setups too. Let me walk you through what's in there. I'll cover the tools and tricks first, with installation and…",
+      "link": "https://freek.dev/3054-a-tour-of-my-dotfiles",
+      "pubDate": "2026-07-10T13:29:06.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4b82edc0009c",
+      "title": "Rewriting Bun in Rust",
+      "description": "Jarred Sumner explains why the Bun team is moving from Zig to Rust, after years of fighting memory safety issues in a codebase that mixes GC and manual memory management. He also shares how Claude helped make a mechanical, test-suite-driven rewrite realistic without pausing feature work for a year. Read more",
+      "link": "https://freek.dev/3159-rewriting-bun-in-rust",
+      "pubDate": "2026-07-10T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca36456235e7",
+      "title": "Prompt Injection to Data Exfil in 3 Hops",
+      "description": "The incident that should worry you makes no destructive call. Nothing is deleted, nothing crashes, no alert fires. An employee asks an agent to summarise a customer ticket; the agent does exactly that, the user gets a useful answer, and somewhere, in the same second, a customer record leaves the cluster over an ordinary HTTPS […]",
+      "link": "https://www.oreilly.com/radar/prompt-injection-to-data-exfil-in-3-hops/",
+      "pubDate": "2026-07-10T10:45:11.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/07/image-1600x800.png",
+      "type": "blog"
+    },
+    {
+      "id": "66ca6c6028fc",
+      "title": "HTTP QUERY method: the missing verb for complex search APIs",
+      "description": "Video version at https://youtu.be/REjWp_2Dt30 Hypertext Transfer Protocol (HTTP) provides us with a set of basic methods to describe what our request is doing. Generally, we’re working with GET or POST requests, but these have limitations on them that you won’t be aware of until you’ve run headlong into one of them. The best example is […] The post HTTP QUERY method: the missing verb for complex search APIs appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/07/http-query-method-the-missing-verb-for-complex-search-apis/",
+      "pubDate": "2026-07-10T10:00:52.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/07/What-is-the-HTTP-QUERY-method-and-when-should-you-use-it.png",
+      "type": "blog"
+    },
+    {
       "id": "d175f5f47bd8",
       "title": "Quoting OpenAI",
       "description": "[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in desktop Work; desktop Work threads and local files remain on that computer. &mdash; OpenAI, trying (unsuccessfully) to clarify ChatGPT Work Tags: openai, chatgpt, ai",

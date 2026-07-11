@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "b578e1a53063",
+      "title": "Créer des exécutables avec Node 25+",
+      "description": "Découvrez la nouvelle fonctionnalité de Node.js qui permet de créer des exécutables directement, sans utiliser de modules externes comme pkg ou nexe.",
+      "link": "https://code-garage.com/blog/creer-des-executables-avec-nodejs",
+      "pubDate": "2026-07-10T12:15:42.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ce0ce48df1eb",
+      "title": "L'affiche avant le film : des images OG dessinées en PHP, sans Chromium",
+      "description": "Découvrez comment générer des images Open Graph personnalisées en PHP, en utilisant GD et Imagick, pour des aperçus de liens uniques sans Chromium.",
+      "link": "https://lecodeestdanslepre.fr/billets/images-og-dessinees-en-php",
+      "pubDate": "2026-07-10T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/images-og-dessinees-en-php.png?v=5a752ddc786ebcdc",
+      "type": "blog"
+    },
+    {
       "id": "5fd293b4b075",
       "title": "#335.exe - Figma: From tech debt to AI, all through collaboration. The real life of a VP of Engineering par Jeremy Cohen",
       "description": "Pour l'épisode #335 je recevais Marcel Weekes. On en débrief avec Jeremy. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
@@ -18,6 +48,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/c95e3498-e1e5-49a2-b113-79e43969a8f8.mp3?_=1783598508",
       "duration": "16:11"
+    },
+    {
+      "id": "4d6fc668e802",
+      "title": "IA et écologie, fantasme ou bouc émissaire pratique ?",
+      "description": "Dur de parler d’IA en ce moment. J’ai rarement, voire jamais, vu un sujet aussi polarisé dans la tech.",
+      "link": "https://eventuallycoding.com/p/ia-et-ecologie-fantasme-ou-bouc-emissaire-pratique",
+      "pubDate": "2026-07-10T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "dfb308e07b4d",
