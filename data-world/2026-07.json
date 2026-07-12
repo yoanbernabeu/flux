@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "97e8fb8081fe",
+      "title": "sqlite-utils 4.1",
+      "description": "Release: sqlite-utils 4.1 The first dot-release since 4.0 a few days ago, introducing a number of minor new features. sqlite-utils insert and sqlite-utils upsert now accept a --code option for providing a block of Python code (or a path to a .py file) that defines a rows() function or rows iterable of rows to insert, as an alternative to importing from a file. (#684) sqlite-utils already had features that allow you to pass blocks of Python code as CLI arguments, for example this one for the…",
+      "link": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
+      "pubDate": "2026-07-11T23:50:20.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "680fb78fd4fd",
+      "title": "jscrambler npm Package Compromised in Supply Chain Attack",
+      "description": "A compromised release of the popular jscrambler npm package introduced hidden native binaries that execute automatically during npm install, exposing users to a supply chain attack before any application code runs. The malicious 8.14.0 release, published on July 11, adds an undocumented preinstall hook that invokes dist/setup.js. It also introduces new files, including dist/setup.js and dist/intro.js, along with platform-specific binaries for Linux, macOS, and Windows embedded in an obfuscated…",
+      "link": "https://socket.dev/blog/jscrambler-supply-chain-attack?utm_medium=feed",
+      "pubDate": "2026-07-11T15:36:39.053Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "da4345802e38",
       "title": "RAG & Fine-tuning in LLMs",
       "description": "...explained visually.",
