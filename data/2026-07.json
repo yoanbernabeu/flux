@@ -2,6 +2,38 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "3eab4aceba25",
+      "title": "Le Laravel Way : 9 erreurs que je vois partout",
+      "description": "Passer au niveau supérieur sur laraveljutsu.com ! Devenez un pro d'Eloquent : 9 astuces pour écrire du code Laravel plus propre 🏌️ Dans cette vidéo, on part d'une appli de réservation de golf pour comparer, tip par tip, la \"bonne\" façon Laravel d'utiliser Eloquent face à la manière \"legacy\" qu'on voit encore trop souvent : création via les relations, gestion des pivots, whereBelongsTo, whereKey, is() + touch(), associate(), Gate::allowIf... Simple, concret, applicable immédiatement sur vos…",
+      "link": "https://www.youtube.com/watch?v=M8KARmqr3_4",
+      "pubDate": "2026-07-12T15:24:40.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/M8KARmqr3_4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "M8KARmqr3_4"
+    },
+    {
+      "id": "12acdc466b3b",
+      "title": "Karpenter + Cluster API",
+      "description": "Mon cheminement pour autoscaler un cluster OVH déployé via la Cluster API, en utilisant Karpenter et son provider cluster-api, avec MKS comme cluster de management.",
+      "link": "https://une-tasse-de.cafe/blog/karpenter-capi-ovh/",
+      "pubDate": "2026-07-12T01:18:18.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b578e1a53063",
       "title": "Créer des exécutables avec Node 25+",
       "description": "Découvrez la nouvelle fonctionnalité de Node.js qui permet de créer des exécutables directement, sans utiliser de modules externes comme pkg ou nexe.",
