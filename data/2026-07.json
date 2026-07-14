@@ -2,6 +2,67 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "8da7163d6886",
+      "title": "claude-seo : la skill pour faire des audits SEO directement dans Claude Code",
+      "description": "J'utilise beaucoup le plugin claude-seo pour Claude Code car elle me permet d'enchaîner rapidement audit SEO, corrections et vérification. Je lance un audit, je récupère des problèmes priorisés, je demande des",
+      "link": "https://www.camilleroux.com/claude-seo-skill/",
+      "pubDate": "2026-07-13T13:37:52.000Z",
+      "source": "Camille Roux",
+      "sourceUrl": "https://www.camilleroux.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.camilleroux.com/content/images/2026/07/Capture-d---e--cran-2026-07-13-a---14.35.25.png",
+      "type": "blog"
+    },
+    {
+      "id": "2c312929e988",
+      "title": "Les protocol buffers (protobuf)",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/protobuf-2347 Quand on échange des données entre deux applications, on utilise souvent du JSON par défaut. Le format est lisible, simple à manipuler et largement supporté, mais il montre vite certaines limites dès que l'on cherche à optimiser les échanges : ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord :…",
+      "link": "https://www.youtube.com/watch?v=QBIOCGa2Nvw",
+      "pubDate": "2026-07-13T13:00:43.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/QBIOCGa2Nvw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "QBIOCGa2Nvw"
+    },
+    {
+      "id": "a31ef7b3aedf",
+      "title": "Un RAG sur son propre blog : pour me relire, pas pour écrire",
+      "description": "Optimisez votre blog : découvrez le RAG pour retrouver vos infos sans jargon. Bénéfices pour les auteurs.",
+      "link": "https://lecodeestdanslepre.fr/billets/rag-editorial-relire-corpus",
+      "pubDate": "2026-07-13T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33927d9db05a",
+      "title": "Cyber Resilience Act : mainteneur, steward ou simple passant ?",
+      "description": "Le 11 septembre 2026, les obligations de signalement du CRA s'activent. Fabricant, steward ou hors champ : ce qui tombe (ou pas) sur un dev PHP.",
+      "link": "https://lecodeestdanslepre.fr/billets/cyber-resilience-act-mainteneur-steward-dev-php",
+      "pubDate": "2026-07-13T07:41:21.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3eab4aceba25",
       "title": "Le Laravel Way : 9 erreurs que je vois partout",
       "description": "Passer au niveau supérieur sur laraveljutsu.com ! Devenez un pro d'Eloquent : 9 astuces pour écrire du code Laravel plus propre 🏌️ Dans cette vidéo, on part d'une appli de réservation de golf pour comparer, tip par tip, la \"bonne\" façon Laravel d'utiliser Eloquent face à la manière \"legacy\" qu'on voit encore trop souvent : création via les relations, gestion des pivots, whereBelongsTo, whereKey, is() + touch(), associate(), Gate::allowIf... Simple, concret, applicable immédiatement sur vos…",

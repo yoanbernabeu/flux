@@ -2,6 +2,94 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "86da57583a02",
+      "title": "Using uvx in GitHub Actions in a cache-friendly way",
+      "description": "TIL: Using uvx in GitHub Actions in a cache-friendly way I finally found a cache-friendly recipe for using uvx tool-name in GitHub Actions workflows that I like. The trick is setting a UV_EXCLUDE_NEWER: \"2026-07-12\" environment variable at the start of the workflow and then using that as part of the GitHub Actions cache key. This means any uvx tool-name commands will resolve to the most recent version as-of that date, and you can bust the cache and upgrade the tools by bumping the date in the…",
+      "link": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything",
+      "pubDate": "2026-07-14T00:56:20.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "083d0cae653d",
+      "title": "DOOMQL",
+      "description": "DOOMQL Peter Gostev built this using GPT-5.6 Sol. This is a lot of fun: DOOMQL started with a deliberately unreasonable question: what if SQLite were the game engine, not merely the place where a game stores data? The result is a small, original Doom-like game in which SQL owns movement, collision, enemies, combat, progression and every RGB pixel on screen. It's implemented as a Python terminal script - I tried it out like this: cd /tmp git clone https://github.com/petergpt/doomql cd doomql uv…",
+      "link": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything",
+      "pubDate": "2026-07-13T22:34:41.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d20bc9f9cdd1",
+      "title": "datasette code-frequency chart on GitHub",
+      "description": "datasette code-frequency chart on GitHub Out of curiosity I decided to see if I could find a useful illustration of the impact of coding agents and Opus 4.5 class models on my own output. The best I've found so far is this GitHub chart of frequency of code changes to my Datasette open source project: The big spike in activity at the end aligns with Opus 4.8, GPT-5.5, Fable 5 and GPT-5.6 Sol. Tags: github, ai, datasette, generative-ai, llms, ai-assisted-programming, coding-agents",
+      "link": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
+      "pubDate": "2026-07-13T21:45:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "865b8968e1d9",
+      "title": "Agentic RL: Environments, Trajectories, and the Training Loop",
+      "description": "The full RL nanodegree, covered with implementation.",
+      "link": "https://blog.dailydoseofds.com/p/agentic-rl-environments-trajectories",
+      "pubDate": "2026-07-13T20:21:06.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!OjxA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9034036-52b3-4212-8656-7a1746c778e0_1376x582.png",
+      "type": "blog"
+    },
+    {
+      "id": "5fc82a8361d1",
+      "title": "Modernizing My Dotfiles",
+      "description": "Stefan Zweifel shares how he reorganized his dotfiles into a minimal setup, split private config into a separate repo, and streamlined setup and Brewfile syncing with a few small scripts. Read more",
+      "link": "https://freek.dev/3160-modernizing-my-dotfiles",
+      "pubDate": "2026-07-13T12:30:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aff530553cb7",
+      "title": "The Frontend Verification Gap in AI-Assisted Development",
+      "description": "AI-assisted development has made frontend work feel much faster. A developer can ask for a form, a dashboard card, a table, a modal, or a responsive layout and get a decent first version almost immediately. The code may compile. The page may render. At first glance, the UI may look done. But frontend developers know […]",
+      "link": "https://www.oreilly.com/radar/the-frontend-verification-gap-in-ai-assisted-development/",
+      "pubDate": "2026-07-13T10:58:12.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2546e8c5277b",
       "title": "Directly Responsible Individuals (DRI)",
       "description": "Directly Responsible Individuals (DRI) I went looking for a definition of \"Directly Responsible Individuals\" and the best I found was in the GitLab handbook. Apparently the term originated at Apple, where it's used to describe the person who is \"ultimately accountable for the success or failure of a specific project, initiative, or activity\". I've been thinking about this term recently in the context of LLM-powered agents and how they fit into human organizations. I don't think an agent should…",
