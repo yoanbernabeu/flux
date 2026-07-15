@@ -2,6 +2,169 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "c9bbf8c8b069",
+      "title": "Quoting GitHub Changelog",
+      "description": "Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the default and requires no configuration. &mdash; GitHub Changelog, embracing dependency cooldowns Tags: dependency-cooldowns, packaging, security, github",
+      "link": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
+      "pubDate": "2026-07-14T22:43:35.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "60255d1736e2",
+      "title": "simonw/pedalican",
+      "description": "simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then learned you can create your own. So I did, and now I have a cute little pelican on a bicycle bouncing around my desktop giving me updates on my Codex tasks. Your browser does not support HTML5 video. The most interesting thing about this process was watching how the custom pet was…",
+      "link": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+      "pubDate": "2026-07-14T22:29:45.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "baf43a5cfdc4",
+      "title": "11 Malicious NuGet Tools Pose as Game Cheats to Drop a Windows Host-Surveillance Payload",
+      "description": "Socket’s Threat Research Team analyzed 11 malicious NuGet packages published as .NET command-line tools (DotnetTool package type) that present themselves as game utilities, bots, and “panels”. Every package is a first-stage downloader that fetches and executes a second-stage Windows payload named pepesoft.exe from GitHub Releases and Hugging Face paths under the username pepegit666, with dormant BitTorrent fallback code built in. The campaign splits cleanly into two stages: A .NET downloader…",
+      "link": "https://socket.dev/blog/11-malicious-nuget-tools-pose-as-game-cheats?utm_medium=feed",
+      "pubDate": "2026-07-14T19:55:47.043Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/63e1e25e666fa2e5fe34219ab735cd0cf0b3a3a6-2048x1117.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "62fc607a04bf",
+      "title": "lobste.rs is now running on SQLite",
+      "description": "lobste.rs is now running on SQLite Community site Lobsters has been planning a migration away from MariaDB since August 2018 - originally targeting PostgreSQL, but last year they decided to investigate SQLite instead. This weekend they completed the migration, and now consider it stable enough that it looks like this is the permanent architecture for the site going forward: SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at…",
+      "link": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
+      "pubDate": "2026-07-14T19:44:11.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3a7c85312127",
+      "title": "Quoting Armin Ronacher",
+      "description": "The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and why the system has the shape it does. This language is rarely written down in one place. It lives partly in documentation and code, but also in code review, conversations, arguments, and the experience of having to explain a change to somebody else. Before agents, some of this shared understanding…",
+      "link": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
+      "pubDate": "2026-07-14T18:04:23.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "857e094f21c4",
+      "title": "Symfony UX 3.0: A Component-First Frontend for PHP Developers",
+      "description": "When the Symfony team shipped UX 3.0 on April 13, 2026, they did something that major version bumps rarely do cleanly: they used the opportunity to remove things. Not just deprecated APIs, but entire packages that had quietly become dead weight over the 2.x cycle. The result is a leaner, more opinionated frontend toolkit that […] The post Symfony UX 3.0: A Component-First Frontend for PHP Developers appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/07/symfony-ux-3-0-a-component-first-frontend-for-php-developers/",
+      "pubDate": "2026-07-14T17:00:03.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/07/2026-05-09-symfony-ux-3-components.png",
+      "type": "blog"
+    },
+    {
+      "id": "3b7b0f5c6148",
+      "title": "datasette 1.0a37",
+      "description": "Release: datasette 1.0a37 A minor release. Performance and documentation improvements to the permissions system, plus I reverted a cosmetic API change which caused almost every existing plugin test suite to break. Tags: datasette",
+      "link": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
+      "pubDate": "2026-07-14T16:31:41.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "96132740e462",
+      "title": "The Four Types of Agent Loops",
+      "description": "...explained visually.",
+      "link": "https://blog.dailydoseofds.com/p/the-four-types-of-agent-loops",
+      "pubDate": "2026-07-14T16:26:46.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!pSId!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6296b4b4-3f8c-4d3e-b193-24b456d14b03_960x922.gif",
+      "type": "blog"
+    },
+    {
+      "id": "07e1620c07e6",
+      "title": "The Laravel Scheduler Under the Hood",
+      "description": "A deep dive into the Laravel Scheduler, from event registration and cron evaluation to mutexes, background processes, sub-minute tasks, and production-safe scheduling. Read more",
+      "link": "https://freek.dev/3161-the-laravel-scheduler-under-the-hood",
+      "pubDate": "2026-07-14T12:02:25.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e8d35a16cb86",
+      "title": "The Open Source Agent Toolkit in 2026",
+      "description": "The following article originally appeared on Paolo Perrone’s Substack, The AI Engineer, and is being republished here with the author’s permission. You spent three weeks shipping an agent. It worked in the demo. Then production hit, and you realized the framework you picked has no checkpointing, the memory layer is a flat vector dump with […]",
+      "link": "https://www.oreilly.com/radar/the-open-source-agent-toolkit-in-2026/",
+      "pubDate": "2026-07-14T10:57:46.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/07/image-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "103495394d44",
+      "title": "Compromised npm Packages in the AsyncAPI Namespace Deliver Miasma Botnet Loader",
+      "description": "Socket's Threat Research Team identified four compromised npm packages in the @asyncapi namespace distributing a multi-stage botnet loader. The affected packages are @asyncapi/generator-helpers@1.1.1, @asyncapi/generator-components@0.7.1, @asyncapi/generator@3.3.1 , @asyncapi/specs(v6.11.2, v6.11.2-alpha.1) Based on current analysis, the compromised packages deploy an obfuscated first-stage payload that downloads an encrypted second-stage payload, identified as Miasma, from IPFS. Users should…",
+      "link": "https://socket.dev/blog/asyncapi-supply-chain-attack?utm_medium=feed",
+      "pubDate": "2026-07-14T08:20:00.000Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/313c4170cc9d012f4f8dd428e90c9d2fa405a5ec-600x400.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
       "id": "86da57583a02",
       "title": "Using uvx in GitHub Actions in a cache-friendly way",
       "description": "TIL: Using uvx in GitHub Actions in a cache-friendly way I finally found a cache-friendly recipe for using uvx tool-name in GitHub Actions workflows that I like. The trick is setting a UV_EXCLUDE_NEWER: \"2026-07-12\" environment variable at the start of the workflow and then using that as part of the GitHub Actions cache key. This means any uvx tool-name commands will resolve to the most recent version as-of that date, and you can bust the cache and upgrade the tools by bumping the date in the…",
@@ -14,6 +177,21 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b69ff3a1562e",
+      "title": "Welcoming Alexandre Daubois to The PHP Foundation",
+      "description": "As you know, the main objective of The PHP Foundation’s mission is the sustainability of the PHP language, and a large part of that mission is focused on PHP core maintenance tasks. Included in this maintenance body of work are tasks such as issue triage, code reviews, and bug fixes. We take this responsibility very seriously, especially when it comes to security. In recent months, there has been a marked increase in the number of security reports to php-src, due to the increased availability…",
+      "link": "https://thephp.foundation/blog/2026/07/14/welcoming-alexandre-daubois/",
+      "pubDate": "2026-07-14T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://thephp.foundation/assets/post-images/2026/alexandre-daubois/alexandre-daubois.jpg",
       "type": "blog"
     },
     {
@@ -58,6 +236,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!OjxA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9034036-52b3-4212-8656-7a1746c778e0_1376x582.png",
+      "type": "blog"
+    },
+    {
+      "id": "bbef911ed474",
+      "title": "New SymfonyCasts Course: Upgrading to Symfony 8",
+      "description": "One of Symfony's greatest strengths is its upgrade process. Thanks to the backward compatibility promise and deprecation system, major upgrades are smooth, predictable, and, dare I say it, enjoyable! Our newest tutorial is now available - and completely…",
+      "link": "https://symfony.com/blog/new-symfonycasts-course-upgrading-to-symfony-8?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-07-13T19:40:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

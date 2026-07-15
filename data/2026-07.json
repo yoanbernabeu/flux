@@ -2,6 +2,70 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "6f03c8e8991e",
+      "title": "Liens Tech - Juillet 2026",
+      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "link": "https://domopi.eu/liens-tech-juin-2026-2/",
+      "pubDate": "2026-07-15T05:45:13.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f36450808b6e",
+      "title": "#365.bin - Intelligence(s): Le QI: Le facteur g, la note de votre intelligence avec Nicolas Gauvrit",
+      "description": "\"L'intelligence humaine, ce n'est pas aussi compliqué et profond que ce qu'on imagine\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre ce qu'est vraiment l'intelligence. Le D.E.V.…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-365-b020aa6b6e15",
+      "pubDate": "2026-07-15T03:00:03.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/e0979d83-e26f-484d-a05b-9a78a447e469.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/2c9ab172-e6ab-4e07-8be0-b020aa6b6e15.mp3?_=1784030523",
+      "duration": "01:02:49"
+    },
+    {
+      "id": "e0797e9617c2",
+      "title": "Créer une API typée avec ConnectRPC (Go / TypeScript)",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/connectrpc-go-2348 Quand on développe une API autrement qu'en TypeScript, on se retrouve souvent avec un problème de synchronisation : les types existent côté serveur, mais il faut les recopier ou les maintenir à la main côté client. Dès que l'API évolue, un oubli peut rapidement créer un décalage entre les deux parties. [ConnectRPC](https://connectrpc.com/) apporte une solution en permettant de construire une API gRPC compatible avec les navigateurs…",
+      "link": "https://www.youtube.com/watch?v=cDAy-kaTY1g",
+      "pubDate": "2026-07-14T13:00:23.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/cDAy-kaTY1g/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "cDAy-kaTY1g"
+    },
+    {
+      "id": "f3ecd37da202",
+      "title": "Pousser une fois, publier partout: le remote Git multi-cibles",
+      "description": "Bien que cela commence à changer, Github reste aujourd’hui la forge de référence pour l’hébergement de projet autour de Git. Néanmoins, dans une démarche d’autonomie numérique, je ne souhaite pas dépendre uniquement de cette plateforme. Pour réduire cette dépendance, j’ai décidé de dupliquer et “mirrorer” l’ensemble de mes dépôts (publics et privés) sur Codeberg, une forge européenne et associative. On a l’habitude de voir un remote Git comme étant une simple association avec une URL (un remote…",
+      "link": "https://www.jdecool.fr/blog/2026/07/14/pousser-une-fois-publier-partout-le-remote-git-multi-cibles.html",
+      "pubDate": "2026-07-13T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8da7163d6886",
       "title": "claude-seo : la skill pour faire des audits SEO directement dans Claude Code",
       "description": "J'utilise beaucoup le plugin claude-seo pour Claude Code car elle me permet d'enchaîner rapidement audit SEO, corrections et vérification. Je lance un audit, je récupère des problèmes priorisés, je demande des",
