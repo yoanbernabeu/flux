@@ -203,6 +203,22 @@
       "type": "blog"
     },
     {
+      "id": "1203c196334f",
+      "title": "Ma skill gratuite pour ne plus jamais rater de code review après 63 jours d’oubli (veille #25)",
+      "description": "Astro passe la 7ème, le Japon prive les Européens de son nouveau joyau, Anthropic ajoute les tags à Claude et NVIDIA joue les garde du corps !",
+      "link": "https://codecodecoders.substack.com/p/ma-skill-gratuite-pour-ne-plus-jamais",
+      "pubDate": "2026-06-28T16:52:12.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!lJBV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b1a5ca7-60f6-4ebb-b671-664b33fe538d_2400x1260.webp",
+      "type": "blog"
+    },
+    {
       "id": "3e16cf6e7aff",
       "title": "Symfony 8.1 HTTP-less : pour un projet neuf, pas pour un worker existant",
       "description": "Le kernel HTTP-less de Symfony 8.1 sert un projet neuf, pas à alléger un worker existant. ServicesBundle, ConsoleBundle, RequiredBundle : pour quel cas.",
@@ -245,6 +261,22 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1afb82b1e270",
+      "title": "BTRFS + Timeshift : rollback après une mise à jour cassée",
+      "description": "Le rolling release d’Arch Linux peut casser. Avec BTRFS et Timeshift, vous pouvez revenir en arrière en quelques minutes.",
+      "link": "https://j.hommet.net/btrfs-timeshift-rollback-archlinux/",
+      "pubDate": "2026-06-27T16:00:00.000Z",
+      "source": "J.Hommet",
+      "sourceUrl": "https://j.hommet.net/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -525,6 +557,22 @@
       "type": "blog"
     },
     {
+      "id": "e458f706ab61",
+      "title": "Quoi de neuf les devs? FailleFox, boycott de l’IA et obscurantisme : ces dingueries qui ont failli me mettre en burnout",
+      "description": "Votre dose d'infos tech infusée par un dev pour les devs avec l'interview de de Mazlum. On parlera aussi de ✅ FailleFox, ✅ Hermes, ✅ Emacs, ✅ MCP, ✅ GemPlus, etc",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-faillefox-boycott",
+      "pubDate": "2026-06-22T22:58:01.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!BYNx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F771d4271-ee5c-4615-97dc-2be7a111a6c1_1280x833.webp",
+      "type": "blog"
+    },
+    {
       "id": "ed6c3b322d4e",
       "title": "Comment sur-optimiser Claude Code pour shipper les yeux fermés - Gen AI Nantes #19",
       "description": "Entre le \"wow\" de la démo et un déploiement qui tient en prod, il y a un gouffre. Cédric montre comment le franchir avec Claude Code : d'abord en poussant l'outil dans ses retranchements (plugins, skills, commandes, hooks taillés sur mesure), puis en l'industrialisant avec une vraie architecture - multi-agents, workflows internes et externes, quality gates et process d'ingénierie. Moins de magie, plus de méthode. À la fin, vous saurez comment passer de l'effet démo à un outil fiable, et ce que…",
@@ -603,6 +651,22 @@
       "image": "https://i.ytimg.com/vi/Y85Tpzp8jEY/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "Y85Tpzp8jEY"
+    },
+    {
+      "id": "6073296bed9e",
+      "title": "SpaceX rachète Cursor mais il y a un problème (veille #24)",
+      "description": "Elon Musk dans votre éditeur de code, j’ai comme un mauvais pressentiment. HyperFrames fait de vous un pro de la vidéo, Claude Design s'améliore et plus encore !",
+      "link": "https://codecodecoders.substack.com/p/spacex-rachete-cursor-mais-il-y-a",
+      "pubDate": "2026-06-21T20:05:48.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!EwZ0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5b414b1-5f6c-40ed-8ce8-b8922894ea1e_639x397.png",
+      "type": "blog"
     },
     {
       "id": "8c5217c9c8c4",
@@ -951,6 +1015,22 @@
       "type": "blog"
     },
     {
+      "id": "593c99f0a719",
+      "title": "Quoi de neuf les devs? #180 - Avec Alex, on y parle Vue, Cut IA, Let’s Encrypt, Sécurité, Angular, etc",
+      "description": "Votre dose d'infos tech infusée par un dev pour les devs avec l'interview de d'Alex. On parlera aussi de ✅ Vue, ✅ Cut IA, ✅ Let’s Encrypt, ✅ Sécurité, ✅ Angular, etc",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-180-avec-alex",
+      "pubDate": "2026-06-16T16:30:53.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!DKUu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc35caefc-2945-4be1-ac43-4cc71f44355f_1280x833.webp",
+      "type": "blog"
+    },
+    {
       "id": "7c6c75add919",
       "title": "TimeTonic : la plateforme no-code pour numériser, automatiser et simplifier le travail des entreprises",
       "description": "TimeTonic est une solution no-code qui aide les entreprises à numériser et automatiser leurs processus sans compétences techniques. Elle centralise les données, facilite la collaboration et permet une personnalisation illimitée. Compatible avec de nombreuses applications, elle offre une interface intuitive et des fonctionnalités complètes adaptées à divers secteurs. L’article TimeTonic : la plateforme no-code pour numériser, automatiser et simplifier le travail des entreprises est apparu en…",
@@ -1132,6 +1212,22 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7df9fc1e6119",
+      "title": "Claude Fable 5, tu l'vois ? Tu l'vois plus ! (veille #23)",
+      "description": "Cette semaine chez Anthropic, ça a été les montagnes russes ! On peut en dire autant des utilisateurs iOS/iPadOS 27 avec Siri AI. Mais heureusement, Google nous sauve tous avec son repo \"Skills\" !",
+      "link": "https://codecodecoders.substack.com/p/claude-fable-5-tu-lvois-tu-lvois",
+      "pubDate": "2026-06-14T06:30:31.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/Y9Wz2PV404E",
       "type": "blog"
     },
     {
@@ -1461,6 +1557,22 @@
       "type": "blog"
     },
     {
+      "id": "05e6b76b9033",
+      "title": "Quoi de neuf les devs? #179 - Avec Lucas, on y parle Rust, Tchap, Fabrice Bellard, Apple Container, OWASP ZAP, etc",
+      "description": "Votre dose d'infos tech infusée par un dev pour les devs avec l'interview de Lucas. On parlera aussi de ✅ Rust, ✅ Tchap, ✅ Fabrice Bellard, ✅ Apple Container, ✅ OWASP ZAP, etc",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-179-avec-lucas",
+      "pubDate": "2026-06-10T16:03:26.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!hnzN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d632edb-038e-4ea5-a663-573fa68aac98_1280x833.webp",
+      "type": "blog"
+    },
+    {
       "id": "9383550fcdc9",
       "title": "Vente complexe en B2B : quel content marketing pour alimenter le commercial ?",
       "description": "Cet article souligne l'importance d'une collaboration étroite entre le content marketing et les équipes commerciales. Souvent désalignés, ces deux domaines devraient travailler ensemble pour optimiser les outils de vente et répondre aux besoins des clients. Les contenus courts, vidéos et webinaires sont privilégiés pour susciter l'engagement et soutenir les commerciaux dans leur processus de vente. L’article Vente complexe en B2B : quel content marketing pour alimenter le commercial ? est…",
@@ -1620,6 +1732,22 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1b4a2ed196fc",
+      "title": "J’ai testé OMP : l'agent IA qui surpasse Claude Code",
+      "description": "Si comme moi vous n'avez utilisé que Claude Code et Cursor pour Opus et Sonnet, je vous propose de découvrir OMP, un agent qui surpasse l'outil d'Anthropic de par ses fonctionnalités.",
+      "link": "https://codecodecoders.substack.com/p/jai-teste-omp-lagent-ia-qui-surpasse",
+      "pubDate": "2026-06-09T07:14:09.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!-nt6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38083274-1499-45f0-928e-543349630623_1376x768.png",
       "type": "blog"
     },
     {
@@ -1905,6 +2033,22 @@
       "videoId": "8zKyFWcdk0I"
     },
     {
+      "id": "de4b588f82ab",
+      "title": "ProxPatch : mise à jour rolling automatisée de Proxmox",
+      "description": "ProxPatch : patcher un cluster Proxmox en rolling",
+      "link": "https://j.hommet.net/proxpatch-rolling-update-proxmox/",
+      "pubDate": "2026-06-04T10:00:00.000Z",
+      "source": "J.Hommet",
+      "sourceUrl": "https://j.hommet.net/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7d83df4d6af2",
       "title": "PHPStan : Faut-il configurer le niveau max sur ses projets ? 💻",
       "description": "Extrait exclusif du prochain épisode de Café Tech ! On parle aujourd'hui de PHPStan et plus particulièrement de la configuration du niveau maximum pour la détection de bugs. Jules, ancien membre de la Core Team Symfony, nous donne son avis d'expert : quels sont les avantages, les pièges à éviter et est-ce vraiment viable sur des projets existants (legacy) ? 💡 Un indispensable pour tous les développeurs PHP qui veulent élever le niveau de leur code. 🔔 Abonne-toi pour ne pas manquer l'interview…",
@@ -2086,6 +2230,22 @@
       "duration": "1:26:10"
     },
     {
+      "id": "207a5c7ab0cd",
+      "title": "Sélecteur d’effort Claude Code : choisissez le bon niveau",
+      "description": "low, medium, high, xhigh, max... et maintenant ultracode ! Découvrez les niveaux d'effort de Claude Code et choisissez le bon pour vos tâches, des plus simples aux plus complexes !",
+      "link": "https://codecodecoders.substack.com/p/selecteur-deffort-claude-code-choisissez",
+      "pubDate": "2026-06-02T08:46:18.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!D63_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fb62c60-3d78-4596-9805-50342ffa9ea4_1376x768.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "6b09f7b4b37a",
       "title": "100k€ et 6 mois ou 1k€ et 70h : où va le métier de dev selon Didier Girard ?",
       "description": "Didier Girard, directeur général du groupe Sfeir, raconte pour le Studio Devoxx France comment l'IA fait passer un site web de 100k€ en 6 mois à 1k€ en 70 heures et ce que ça change au métier de développeur. Dans cette conversation, il pose : « le temps passé n'est plus une unité de mesure de création de valeur ». Le développeur devient product engineer, l'analyse revient, les équipes rétrécissent et la facturation bascule à l'engagement de résultat. Au programme : - Refaire un site web…",
@@ -2114,6 +2274,38 @@
       "sourceUrl": "https://oliviersauvage.com/feed/",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3b6e2a8ea894",
+      "title": "Quoi de neuf les devs? #178 - Avec Bastien de SYRN, on y parle Bash, Mythos, IDOR, LiDAR, Commodore 64, Mistral Workflows, etc",
+      "description": "Votre dose d'infos tech infusée par un dev pour les devs avec l'interview de Bastien. On parlera aussi de ✅ Bash, ✅ Mythos, ✅ IDOR, ✅ LiDAR, ✅ Commodore 64, ✅ Mistral Workflows, etc",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-178-veille",
+      "pubDate": "2026-06-01T19:50:00.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Wnnv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4e2f779-26c7-4a29-b0ab-b0e68c63f0e0_1920x1249.webp",
+      "type": "blog"
+    },
+    {
+      "id": "9f7ed7734a50",
+      "title": "HelmDownloader : des scripts bash au binaire unique",
+      "description": "Un script bash par chart pour les installs air-gap, ça a vite dégénéré. Cette pile est devenue HelmDownloader — un binaire Go en TUI qui découvre les images et produit un bundle vérifiable.",
+      "link": "https://j.hommet.net/des-scripts-bash-a-helmdownloader/",
+      "pubDate": "2026-06-01T18:00:00.000Z",
+      "source": "J.Hommet",
+      "sourceUrl": "https://j.hommet.net/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
       ],
       "image": null,
       "type": "blog"

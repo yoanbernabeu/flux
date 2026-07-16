@@ -83,6 +83,22 @@
       "type": "blog"
     },
     {
+      "id": "9726be469e02",
+      "title": "La semaine de Mistral (veille #22)",
+      "description": "Cette semaine a eu un seul protagoniste : Mistral. Un summit, un rebranding, un nouveau modèle... on n'arrête plus les français !",
+      "link": "https://codecodecoders.substack.com/p/la-semaine-de-mistral-veille-22",
+      "pubDate": "2026-05-29T13:54:11.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/y4TuBNXxRq0",
+      "type": "blog"
+    },
+    {
       "id": "006fee57c6f8",
       "title": "AI Now Summit 2026 : le Chat Mistral va-t-il devenir un tigre ?",
       "description": "Le 29 mai 2026, Mistral a dévoilé lors de sa première présentation en France de nouvelles offres en intelligence artificielle, visant les grandes entreprises. Bien qu'encore petit face aux géants, Mistral propose des outils similaires à ceux de ses concurrents américains, tout en veillant à la protection des données européennes. L’article AI Now Summit 2026 : le Chat Mistral va-t-il devenir un tigre ? est apparu en premier sur OlivierSauvage.com.",
@@ -479,6 +495,22 @@
         "IA"
       ],
       "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/AFUPDAYLILLE-05322-1024x683.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c4693c5fa702",
+      "title": "Intent layer : donnez de l'autonomie à votre agent",
+      "description": "Votre agent a des connaissances, mais ne sait pas prendre les bonnes décisions. Apprenez en plus sur l'intent layer et créez le vôtre avec mon prompt offert !",
+      "link": "https://codecodecoders.substack.com/p/intent-layer-donnez-de-lautonomie",
+      "pubDate": "2026-05-27T12:54:22.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!AZY5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff16c0e28-332c-466c-91db-63d6a6035aba_1376x768.png",
       "type": "blog"
     },
     {

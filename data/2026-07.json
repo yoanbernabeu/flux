@@ -2,6 +2,50 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "cbf7c592e114",
+      "title": "July 2026 Newsletter: How to become an indispensable company?",
+      "description": "Indispensable companies will be those that master AI search engines What does it mean to be an indispensable company? It means being the one everyone thinks of when they have a need in mind. In B2C, these are well-known brands. In B2B, it’s a bit different. Being indispensable means being the company you’ve heard about […] L’article July 2026 Newsletter: How to become an indispensable company? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/07/16/july-2026-newsletter-how-to-become-an-indispensable-company/",
+      "pubDate": "2026-07-16T07:48:41.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a899d6a853d5",
+      "title": "Customizing Sylius Grids - Improved DX with Grid Mutators",
+      "description": "In Sylius, grids handle back-office list rendering: data fetching, column definitions, filters, actions, and more. Sylius E-commerce ships with a large number of ready-to-use grids that can be customized to fit your project's needs. Until now, customization mainly relied on YAML configuration overrides or Grid events. These approaches still work, but they quickly hit their limits when you need to introduce business logic or benefit from a more modern, pleasant API. With the upcoming release of…",
+      "link": "https://jolicode.com/blog/customizing-sylius-grids-improved-dx-with-grid-mutators",
+      "pubDate": "2026-07-16T07:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/customiser-les-grilles-sylius/remove-images.png",
+      "type": "blog"
+    },
+    {
+      "id": "ab89f961af41",
+      "title": "Customiser les grilles Sylius - DX améliorée avec les Grid mutators",
+      "description": "Dans Sylius, les grilles sont responsables de l'affichage des listes du back-office : récupération des données, définition des colonnes, filtres, actions... Sylius E-commerce fournit un grand nombre de grilles prêtes à l'emploi, qu'il est possible de personnaliser pour répondre aux besoins de votre projet. Jusqu'à présent, cette personnalisation reposait principalement sur des surcharges de configuration YAML ou sur les Grid events. Ces approches fonctionnent toujours, mais elles atteignent…",
+      "link": "https://jolicode.com/blog/customiser-les-grilles-sylius-dx-amelioree-avec-les-grid-mutators",
+      "pubDate": "2026-07-16T07:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/customiser-les-grilles-sylius/remove-images.png",
+      "type": "blog"
+    },
+    {
       "id": "1da060f30a77",
       "title": "🎙️ Café Tech avec Imen ☕ #16: Symfony, IA & Refactoring : les conseils de Guillaume Loulier",
       "description": "Bienvenue dans un nouvel épisode de Café Tech ! Aujourd'hui, je reçois Guillaume Loulier, Expert Technique et formateur chez SensioLabs, certifié Symfony de la version 3 à la version 8, contributeur au composant symfony/ai et auteur de la newsletter Weekly Tech. Au cours de cet échange, nous revenons sur son parcours, son expérience de formateur, les défis du refactoring, l'évolution de Symfony et l'arrivée de l'intelligence artificielle dans le quotidien des développeurs. Au programme 🚀 Son…",
@@ -160,6 +204,22 @@
       "videoId": "cDAy-kaTY1g"
     },
     {
+      "id": "d7cf75e04a17",
+      "title": "Quoi de neuf les devs ? — Apple vs OpenAI : la guerre des talents qui va changer la face de la tech",
+      "description": "Les news devs de la semaine avec l'interview de Twinded. Au menu ✅ Apple vs OpenAI ✅ TypeScript 7.0 ✅ Rust 1.97 ✅ GhostLock ✅ Swival ✅ GitLost ✅ EU poursuit France pour NIS 2, ...",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-apple-vs-openai",
+      "pubDate": "2026-07-14T08:54:06.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!hj4v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27f0cd3e-f9fe-4bc4-b680-0efc8e277f2d_1280x833.webp",
+      "type": "blog"
+    },
+    {
       "id": "f3ecd37da202",
       "title": "Pousser une fois, publier partout: le remote Git multi-cibles",
       "description": "Bien que cela commence à changer, Github reste aujourd’hui la forge de référence pour l’hébergement de projet autour de Git. Néanmoins, dans une démarche d’autonomie numérique, je ne souhaite pas dépendre uniquement de cette plateforme. Pour réduire cette dépendance, j’ai décidé de dupliquer et “mirrorer” l’ensemble de mes dépôts (publics et privés) sur Codeberg, une forge européenne et associative. On a l’habitude de voir un remote Git comme étant une simple association avec une URL (un remote…",
@@ -170,6 +230,22 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "096c12e37b90",
+      "title": "Podman 6.0 : nouvelles fonctionnalités et améliorations",
+      "description": "Podman 6.0 est sorti : gros nettoyage, quelques nouveautés, et la suppression de plusieurs composants historiques.",
+      "link": "https://j.hommet.net/podman-6.0/",
+      "pubDate": "2026-07-13T22:00:00.000Z",
+      "source": "J.Hommet",
+      "sourceUrl": "https://j.hommet.net/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
       ],
       "image": null,
       "type": "blog"
@@ -250,6 +326,22 @@
       "image": "https://i.ytimg.com/vi/M8KARmqr3_4/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "M8KARmqr3_4"
+    },
+    {
+      "id": "60fca5303dbe",
+      "title": "J'ai abandonné SuperWhisper pour l'alternative open source 100 % locale et gratuite",
+      "description": "Cette semaine, parlez gratuitement et localement à vos agents, tout en acquérant des skills en copywriting et SEO. Mais comme d'hab, ce n'est pas tout !",
+      "link": "https://codecodecoders.substack.com/p/jai-abandonne-superwhisper-pour-lalternative",
+      "pubDate": "2026-07-12T06:00:21.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3Q2H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c4d88ce-e9e6-4459-b08d-093b721060c6_3456x2245.jpeg",
+      "type": "blog"
     },
     {
       "id": "12acdc466b3b",
@@ -396,6 +488,22 @@
         "DevOps"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6cc19186b09b",
+      "title": "Quoi de neuf les devs - GitLost : et si votre agent IA devenait la fuite ?",
+      "description": "Votre dose d'infos tech infusée par un dev pour les devs avec l'interview de Julie. On parlera aussi de ✅ GitLost, ✅ Rust, ✅ Unreal Engine 6, ✅ IPTV, ✅ Home Made GPU, ✅ …",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-gitlost-et",
+      "pubDate": "2026-07-08T15:30:33.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!XsGj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F011fbc59-a683-4995-9046-e7a7e46c4b59_1280x832.webp",
       "type": "blog"
     },
     {
@@ -619,6 +727,38 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1a5a99835447",
+      "title": "De Homebrew à Nix sur macOS : gérer ses paquets de façon déclarative",
+      "description": "Après des années avec Homebrew, je migre la gestion de mes paquets macOS vers Nix et home-manager.",
+      "link": "https://j.hommet.net/de-brew-a-nix-macos/",
+      "pubDate": "2026-07-05T17:30:00.000Z",
+      "source": "J.Hommet",
+      "sourceUrl": "https://j.hommet.net/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "39d585ae855c",
+      "title": "Lumo 2.0 : Proton passe la seconde ! (veille #26)",
+      "description": "Au resto \"IA quoi à manger ?\" cette semaine, Sonnet 5 sort des fourneaux, Fable 5 est de retour à la carte et le chef Proton m'a régalé. Joignez-vous à ma table, y'a un dessert surprise !",
+      "link": "https://codecodecoders.substack.com/p/lumo-20-proton-passe-la-seconde-veille",
+      "pubDate": "2026-07-05T12:56:23.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!dxiL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca8dae25-aea3-4178-9408-bd8741017404_1536x768.webp",
       "type": "blog"
     },
     {
@@ -914,6 +1054,22 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "81ee829e7a18",
+      "title": "Quoi de neuf les devs - Le prix du million de token IA va t-il baisser ou augmenter ?",
+      "description": "Votre dose d'infos tech infusée par un dev pour les devs avec l'interview de de Cécile. On parlera aussi de ✅ IA locale, ✅ Slopsquatting, ✅ Canicule & Datacenter, ✅ Linux et MegaDrive, ✅ Browser Agent",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-le-prix-du",
+      "pubDate": "2026-07-01T10:42:57.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!j-kU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcab7ad12-5f7f-44ff-9161-2d18e3fdb94a_1280x833.webp",
       "type": "blog"
     },
     {

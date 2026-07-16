@@ -75,6 +75,20 @@
       "type": "blog"
     },
     {
+      "id": "2f7f627a9945",
+      "title": "Monthly Roundup #44: July 2026",
+      "description": "It’s a quiet week so let’s do the monthly right on schedule.",
+      "link": "https://thezvi.substack.com/p/monthly-roundup-44-july-2026",
+      "pubDate": "2026-07-15T16:12:37.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!1Dfg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84fb0e5a-a3fe-4d5f-ab94-578ecfff12de_960x540.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "5201cdda51e2",
       "title": "How I tricked Claude into leaking your deepest, darkest secrets",
       "description": "How I tricked Claude into leaking your deepest, darkest secrets I've been impressed by the way the Claude web_fetch tool is designed to avoid data exfiltration attacks. Ayush Paul found a hole in that design. To recap: regular Claude chat is at risk of lethal trifecta attacks, because it has access to private data (in the form of memories of your past interactions) and has a tool for accessing online content which can both read hostile instructions and exfiltrate data through the URLs it…",
@@ -224,6 +238,20 @@
       "type": "blog"
     },
     {
+      "id": "ee21e1edca93",
+      "title": "Twitter Thoughts For You",
+      "description": "I previously have written back in March 2022 about how I use Twitter, and back in April 2023 about Twitter and its then-new algorithms, which have changed again.",
+      "link": "https://thezvi.substack.com/p/twitter-thoughts-for-you",
+      "pubDate": "2026-07-14T17:42:07.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/8c721130-16f3-4d7e-a90b-c68b9b928583_500x282.webp",
+      "type": "blog"
+    },
+    {
       "id": "857e094f21c4",
       "title": "Symfony UX 3.0: A Component-First Frontend for PHP Developers",
       "description": "When the Symfony team shipped UX 3.0 on April 13, 2026, they did something that major version bumps rarely do cleanly: they used the opportunity to remove things. Not just deprecated APIs, but entire packages that had quietly become dead weight over the 2.x cycle. The result is a leaner, more opinionated frontend toolkit that […] The post Symfony UX 3.0: A Component-First Frontend for PHP Developers appeared first on PHP Architect.",
@@ -265,6 +293,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!pSId!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6296b4b4-3f8c-4d3e-b193-24b456d14b03_960x922.gif",
+      "type": "blog"
+    },
+    {
+      "id": "9d4a747b6a6e",
+      "title": "Breaking: Demis Hassabis endorses preflight safety testing for AI",
+      "description": "Good news, for once.",
+      "link": "https://garymarcus.substack.com/p/breaking-demis-hassabis-endorses",
+      "pubDate": "2026-07-14T14:30:37.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!2Bgz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feeb2ccf4-f8f3-4737-b99c-b51e701730d7_1319x1314.png",
       "type": "blog"
     },
     {
@@ -369,6 +411,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b03828086907",
+      "title": "Better Call Sol The Workhorse",
+      "description": "OpenAI’s GPT-5.6-Sol is finally here, along with the cheaper Terra and Luna.",
+      "link": "https://thezvi.substack.com/p/better-call-sol-the-workhorse",
+      "pubDate": "2026-07-13T20:46:04.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!u8bY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf54e6b8-ad3d-47b7-9083-a3bd59a682e5_1672x941.png",
       "type": "blog"
     },
     {
@@ -534,6 +590,20 @@
       "type": "blog"
     },
     {
+      "id": "80e87928c375",
+      "title": "Introduction for and Reactions to Plan A",
+      "description": "Introducing Plan A",
+      "link": "https://thezvi.substack.com/p/introduction-for-and-reactions-to",
+      "pubDate": "2026-07-11T20:35:54.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!v1dL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b6f50a5-2fd6-4e04-840f-45d0bceb4083_1200x981.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "680fb78fd4fd",
       "title": "jscrambler npm Package Compromised in Supply Chain Attack",
       "description": "A compromised release of the popular jscrambler npm package introduced hidden native binaries that execute automatically during npm install, exposing users to a supply chain attack before any application code runs. The malicious 8.14.0 release, published on July 11, adds an undocumented preinstall hook that invokes dist/setup.js. It also introduces new files, including dist/setup.js and dist/intro.js, along with platform-specific binaries for Linux, macOS, and Windows embedded in an obfuscated…",
@@ -604,6 +674,20 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4c36c47672b",
+      "title": "AI #176 Part 2: Plan B",
+      "description": "This is part 2 of the weekly, broadly covering speculation, rhetoric and policy, along with alignment research.",
+      "link": "https://thezvi.substack.com/p/ai-176-part-2-plan-b",
+      "pubDate": "2026-07-10T12:35:58.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Vvrh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b5a8e70-3ae7-41d3-9bc9-7c3831a728d9_1706x1249.png",
       "type": "blog"
     },
     {
@@ -785,6 +869,20 @@
       "type": "blog"
     },
     {
+      "id": "a6de37009f36",
+      "title": "AI #176 Part 1: Doing It Live",
+      "description": "Enough things added up that this week is getting split into two parts.",
+      "link": "https://thezvi.substack.com/p/ai-176-part-1-doing-it-live",
+      "pubDate": "2026-07-09T14:21:21.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!9I8C!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36adbbc6-2420-4cbb-a8b1-758a29df0ca5_675x900.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "e4702dec0a49",
       "title": "Compromised Injective SDK npm Package Exfiltrates Wallet Keys and Mnemonics",
       "description": "@injectivelabs/sdk-ts@1.20.21 records private keys and mnemonics, enabling wallet compromise via 17 scoped packages pinned to the malicious version. Socket detected a malicious @injectivelabs/sdk-ts@1.20.21 release published to npm with fake telemetry functionality that exfiltrates wallet private keys and mnemonic phrases. The affected package is part of the Injective Labs TypeScript SDK and receives roughly 50,000 weekly downloads, making the incident significant for developers and…",
@@ -919,6 +1017,20 @@
       "type": "blog"
     },
     {
+      "id": "2e3cc1c5edab",
+      "title": "Childhood and Education #20: Phones and Screens",
+      "description": "We have a respite, so I thought I’d tackle various thoughts on children, phones and screens.",
+      "link": "https://thezvi.substack.com/p/childhood-and-education-20-phones",
+      "pubDate": "2026-07-08T19:38:01.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/7de2c8f4-a1f9-44de-8ac4-bc2880815d84_1024x572.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "0aefe23b2fcb",
       "title": "Build Your Own 100% Local AI Second Brain",
       "description": "How the best builders in tech are all converging on AI second brains",
@@ -974,6 +1086,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "daad6ea7d2d6",
+      "title": "No Space Like J-Space",
+      "description": "There is a new very cool Anthropic paper: Verbalizable Representations Form a Global Workspace in Language Models. You can read the blog post verison here.",
+      "link": "https://thezvi.substack.com/p/no-space-like-j-space",
+      "pubDate": "2026-07-07T21:49:55.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!dSgh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82974a19-6691-4e45-95db-04113dc87885_1892x1182.png",
       "type": "blog"
     },
     {
@@ -1198,6 +1324,20 @@
       "type": "blog"
     },
     {
+      "id": "0b21b930d5ba",
+      "title": "Import AI 464: Fable writes GPU kernels; AI automation; and analog computation",
+      "description": "Is this the beginning of a new world?",
+      "link": "https://importai.substack.com/p/import-ai-464-fables-writes-gpu-kernels",
+      "pubDate": "2026-07-06T12:31:05.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
       "id": "1eb6e47c95e4",
       "title": "sqlite-utils 4.0rc3",
       "description": "Release: sqlite-utils 4.0rc3 I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the changelog since rc2 kept getting bigger. The biggest new feature is support for introspecting and creating compound foreign keys - a feature that involves a subtle breaking change to table.foreign_keys and hence needed to land for the 4.0 stable release. sqlite-utils also now follows SQLite's convention…",
@@ -1406,6 +1546,20 @@
       "type": "blog"
     },
     {
+      "id": "0d05ca903cba",
+      "title": "Fable #6: The Return of the King",
+      "description": "The blip is over.",
+      "link": "https://thezvi.substack.com/p/fable-6-the-return-of-the-king",
+      "pubDate": "2026-07-03T13:12:59.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!pH3A!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84ffd764-19ac-4a49-9ab3-1c4786fe489a_1200x1200.png",
+      "type": "blog"
+    },
+    {
       "id": "9220005cac32",
       "title": "The PHP Podcast 2026.07.02",
       "description": "🎙️ PHP Podcast – July 2, 2026 Hosts: Eric Van Johnson & John Congdon Eric’s new laptop won’t share its screen. John lost a fight with a leaf blower. PHP 8.6 alpha dropped. 100+ people showed up to make PHP seem cool again. Normal show. 🖥️ Eric’s Fresh Install and the Screen That Wouldn’t Share […] The post The PHP Podcast 2026.07.02 appeared first on PHP Architect.",
@@ -1510,6 +1664,20 @@
       "type": "blog"
     },
     {
+      "id": "2c0e999aab75",
+      "title": "AI #175: The Fable Continues",
+      "description": "Fable’s back.",
+      "link": "https://thezvi.substack.com/p/ai-175-the-fable-continues",
+      "pubDate": "2026-07-02T13:17:37.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/e138ad3c-81be-494e-aaff-0b6ec8e28f3d_1024x559.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "356d7216db51",
       "title": "This Week in AI: Multivendor Strategy",
       "description": "This episode of This Week in AI arrived at a moment when the AI infrastructure most teams take for granted suddenly looked a lot less stable. Andreas Welsch, founder and chief human AI officer at Intelligence Briefing, was joined by Matt Palmer, head of developer experience at Conductor and developer educator on LinkedIn Learning, to […]",
@@ -1536,6 +1704,20 @@
         "Web"
       ],
       "image": "https://symfony.com/uploads/assets/blog/logo.svg",
+      "type": "blog"
+    },
+    {
+      "id": "fa46ced9ba83",
+      "title": "Claude Sonnet 5 Is Not Frontier But Has Its Uses",
+      "description": "Fable 5 is back today, baby! Premium subscribers have one week to use it within their subscriptions. First hit’s free. Then you pay by the token.",
+      "link": "https://thezvi.substack.com/p/claude-sonnet-5-is-not-frontier-but",
+      "pubDate": "2026-07-01T22:35:36.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Tbmu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feddca45c-7a9b-46a4-b5d7-a33a409777b0_1672x941.png",
       "type": "blog"
     },
     {

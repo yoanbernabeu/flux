@@ -47,6 +47,20 @@
       "type": "blog"
     },
     {
+      "id": "82dbb58a5849",
+      "title": "The Once And Future Fable #5",
+      "description": "We, or at least ‘more than 100 American institutions,’ got Mythos back this week.",
+      "link": "https://thezvi.substack.com/p/the-once-and-future-fable-5",
+      "pubDate": "2026-06-30T21:44:57.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!eP8O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2b09fed-37cb-4d91-8981-68d6a7605583_564x500.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "36f5f67c86fa",
       "title": "What's new in Claude Sonnet 5",
       "description": "What&#x27;s new in Claude Sonnet 5 Claude Sonnet 5 came out this morning. I always head straight for the \"what's new\" developer docs because they tend to have more actionable information than the official announcement post. Anthropic say of Sonnet 5 that \"its performance is close to that of Opus 4.8, but at lower prices\". The system card helps explain how they were able to release the model without being blocked by the US government: Sonnet 5 is significantly less capable at cyber tasks than…",
@@ -296,6 +310,48 @@
       "type": "blog"
     },
     {
+      "id": "bb7c41984ff9",
+      "title": "WSJ Article Claiming China Has Matched Anthropic Is Obvious Nonsense",
+      "description": "The Wall Street Journal printed an outright false headline and heavily misleading story claiming this, which of course was uncritically amplified by the usual suspects.",
+      "link": "https://thezvi.substack.com/p/wsj-article-claiming-china-has-matched",
+      "pubDate": "2026-06-29T15:05:26.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!wdb9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F244083be-dc2b-4400-806c-00fdbdb5ff34_620x525.png",
+      "type": "blog"
+    },
+    {
+      "id": "fddb578836fc",
+      "title": "Off for adventures",
+      "description": "Leaving you with a couple laughs",
+      "link": "https://garymarcus.substack.com/p/off-for-adventures",
+      "pubDate": "2026-06-29T13:45:37.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!_eak!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8de64590-7eef-4ba0-9ee1-b31df5617272_1080x1252.webp",
+      "type": "blog"
+    },
+    {
+      "id": "a566ddf4df08",
+      "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
+      "description": "What eras bookend our interregnum?",
+      "link": "https://importai.substack.com/p/import-ai-463-self-improving-robots",
+      "pubDate": "2026-06-29T13:03:27.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
       "id": "de3d3d71c6c3",
       "title": "Everything About the Context Facade",
       "description": "A deep dive into Laravel Context, from request metadata and automatic log enrichment to hidden context, scoped values, queues, scheduled commands, and internals. Read more",
@@ -366,6 +422,34 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "49a2a56f6a29",
+      "title": "China catches up",
+      "description": "Has the US been focused on the wrong things?",
+      "link": "https://garymarcus.substack.com/p/china-catches-up",
+      "pubDate": "2026-06-28T15:11:36.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!jreY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9bc09bba-2764-4500-803f-24c0a1fe83dc_1206x1702.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "52cdda75dbcc",
+      "title": "GPT-5.6: The System Card",
+      "description": "While we wait for a general release, the system card is the best hint as to what is going on with the new candidate for America’s Next Top Model, GPT-5.6.",
+      "link": "https://thezvi.substack.com/p/gpt-56-the-system-card",
+      "pubDate": "2026-06-28T14:49:27.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/5bf2fefc-6cc5-43c5-a017-77fb0fd53a02_686x386.jpeg",
       "type": "blog"
     },
     {
@@ -488,6 +572,20 @@
       "type": "blog"
     },
     {
+      "id": "f6d5350c34c6",
+      "title": "The month Generative AI lost its mojo",
+      "description": "June is not over, and anything could still happen, but a lot already has.",
+      "link": "https://garymarcus.substack.com/p/the-month-generative-ai-lost-its",
+      "pubDate": "2026-06-26T22:43:02.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!6VLt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae1dbe91-1dcd-441c-a415-ce27b84ccc8b_1554x1548.png",
+      "type": "blog"
+    },
+    {
       "id": "326afa476552",
       "title": "Quoting Dean W. Ball",
       "description": "This is a bad state of affairs. Consider, in particular, some industry dynamics: Frontier models are trained at an enormous cost, and a significant fraction of that cost is recouped in the few post-release months that they are broadly available. After that period elapses, the models become sub-frontier, competition emerges, and margins compress. Every week of delay is eating into the narrow window that labs have to make their accounting work. The ongoing AI infrastructure buildout—the one that…",
@@ -589,6 +687,20 @@
         "IA"
       ],
       "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/06/image-18-1600x900.png",
+      "type": "blog"
+    },
+    {
+      "id": "8183465de436",
+      "title": "White House Will Ad Hoc Decide Who Can Individually Access GPT-5.6",
+      "description": "We have a new standard policy for releasing frontier AI models. It is not good.",
+      "link": "https://thezvi.substack.com/p/white-house-will-ad-hoc-decide-who",
+      "pubDate": "2026-06-26T14:51:53.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!DSZ0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0c59436-9586-4823-a358-00cfa77a0bff_1040x778.png",
       "type": "blog"
     },
     {
@@ -741,6 +853,20 @@
       "type": "blog"
     },
     {
+      "id": "baf998c04696",
+      "title": "The Generative AI Fizzle™ ",
+      "description": "Disclaimer: Anything can happen at anytime in the market; I don’t give stock picks, and as the saying goes, the market can remain irrational longer than you can remain solvent.",
+      "link": "https://garymarcus.substack.com/p/the-generative-ai-fizzle",
+      "pubDate": "2026-06-25T15:51:33.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Gidn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff2052fc-e819-41c7-9baa-88052819babb_1632x882.png",
+      "type": "blog"
+    },
+    {
       "id": "2d6e77fe175f",
       "title": "Life is too short for a slow terminal",
       "description": "Mijndert Stuij shares a bunch of practical ways to make your terminal feel instant, from skipping shell frameworks and caching completions to lazy-loading slow tools. A good reminder that tiny bits of latency add up fast when you live in your terminal all day. Read more",
@@ -753,6 +879,20 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "883423c876e3",
+      "title": "AI #174: You're It",
+      "description": "Fable remains in limbo, with renewed hope that we will get it back soon (45% by tomorrow, 69% by July 1, nice.) The full capabilities post is now available.",
+      "link": "https://thezvi.substack.com/p/ai-174-youre-it",
+      "pubDate": "2026-06-25T11:34:42.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!jVIj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84e85466-1638-46f3-90a5-cbbeb788ab31_1080x1061.jpeg",
       "type": "blog"
     },
     {
@@ -796,6 +936,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!pRI0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b4df7e8-5637-49f2-aa95-df2c979fb2ff_1166x1166.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "1ec6d031a79f",
+      "title": "The Once And Future Fable #4",
+      "description": "It does look good, actually.",
+      "link": "https://thezvi.substack.com/p/the-once-and-future-fable-4",
+      "pubDate": "2026-06-24T20:03:55.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/8dc96346-394c-4218-8c72-088f1ef65e82_701x432.png",
       "type": "blog"
     },
     {
@@ -977,6 +1131,20 @@
       "type": "blog"
     },
     {
+      "id": "fc2a64004cc4",
+      "title": "Monthly Roundup #43: June 2026",
+      "description": "Your monthly hit of all the things that are fit to print without a better place to live.",
+      "link": "https://thezvi.substack.com/p/monthly-roundup-43-june-2026",
+      "pubDate": "2026-06-23T12:26:45.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!KFL1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefdf118d-dea8-4195-9150-2f16ee18b799_1935x692.png",
+      "type": "blog"
+    },
+    {
       "id": "a3e153489d2b",
       "title": "Principal Drift",
       "description": "Over the past year I’ve reviewed enterprise agent architectures at roughly two dozen organizations, including banks, retailers, healthcare systems, and a couple of regulators. The architecture diagrams have been reliably impressive. There are boxes for the MCP gateway, the tool registry, the vector store, the orchestrator, the policy engine, and the observability stack. There are […]",
@@ -1062,6 +1230,34 @@
         "Web"
       ],
       "image": "/wp-content/uploads/2026/06/2026-04-11-pipe-operator.png",
+      "type": "blog"
+    },
+    {
+      "id": "ce57d96eb612",
+      "title": "GLM-5.2 Is The New Best Open Model",
+      "description": "GLM-5.2 arrived last week.",
+      "link": "https://thezvi.substack.com/p/glm-52-is-the-new-best-open-model",
+      "pubDate": "2026-06-22T12:45:36.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!gTmh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9ace85e-73bf-4662-801a-ec3a81d58666_1199x830.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "b345a91f0491",
+      "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
+      "description": "How religious are beliefs in the singularity?",
+      "link": "https://importai.substack.com/p/import-ai-462-superpersuasion-self",
+      "pubDate": "2026-06-22T12:31:45.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {
@@ -1243,6 +1439,20 @@
       "type": "blog"
     },
     {
+      "id": "6cf55c70b340",
+      "title": "Claude Fable 5 and Mythos 5: Capabilities",
+      "description": "Only three days after the release of Claude Fable 5, Anthropic was forced by the United States Government to make it unavailable, when a jailbreak was brought to its attention, rather than the previous situation of ‘yes obviously experts can jailbreak anything if they care enough’ and ‘yes obviously you can ask Fable to fix your code.’",
+      "link": "https://thezvi.substack.com/p/claude-fable-5-and-mythos-5-capabilities",
+      "pubDate": "2026-06-19T14:34:17.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!nfKN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e92f258-741c-4a64-88f5-dd15b9049bdd_1024x1024.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "b9e2e0b55626",
       "title": "Building RAG in Laravel: Four Ingestion Bugs That Silently Wreck Retrieval",
       "description": "Every Laravel RAG tutorial builds the same ingestion pipeline (chunk, embed, store) and stops the moment the agent answers on screen. None of them check whether retrieval is any good. But retrieval quality is decided at ingestion, before the model runs once, and four decisions there fail with no error, no exception, no failed test: Chunking that severs the answer mid-sentence, so answer@1 falls while source hit@1 still looks healthy. An HNSW index built with vector_l2_ops while you query with…",
@@ -1406,6 +1616,20 @@
       "type": "blog"
     },
     {
+      "id": "c03d0c46b0d2",
+      "title": "Accenture: Then and now, and how it may signify things to come",
+      "description": "Blip, or one more data point that is on trend?",
+      "link": "https://garymarcus.substack.com/p/accenture-then-and-now-and-how-it",
+      "pubDate": "2026-06-18T18:17:49.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!4t5k!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c5c50c3-2820-4f82-8167-739ed3e24e83_1664x1109.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "a52f3850b355",
       "title": "Kubernetes in the Age of AI",
       "description": "When Kubernetes first came onto the scene, it was a major turning point, a revision of the infrastructure and operations space that transformed the way developers and ops personnel build, deploy, and maintain applications in the cloud. It has since become the clear standard for how modern applications are built and operated. As the CNCF […]",
@@ -1506,6 +1730,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!lXCv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff06176b7-7c04-467b-a1b1-4e5a9621681d_2752x1536.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "18f46d97cf16",
+      "title": "Breaking: Trump asks the impossible of Anthropic",
+      "description": "Where do we go from here?",
+      "link": "https://garymarcus.substack.com/p/breaking-trump-asks-the-impossible",
+      "pubDate": "2026-06-17T18:05:32.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Ka51!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8fb2e48c-be2a-4db7-b68c-90300f00fd1e_1668x1456.jpeg",
       "type": "blog"
     },
     {
@@ -1640,6 +1878,20 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/1e700b1497117bd5b674eef510abf0fe6d6013d2-593x284.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "eb5199052f6d",
+      "title": "OpenAI’s lead is dwindling fast",
+      "description": "As James Carville might have said, “It’s the lack of a moat, stupid”",
+      "link": "https://garymarcus.substack.com/p/openais-lead-is-dwindling-fast",
+      "pubDate": "2026-06-16T21:54:47.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!liN9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHK9Ut7TWQAAcA8y.jpg",
       "type": "blog"
     },
     {
@@ -1985,6 +2237,20 @@
       "type": "blog"
     },
     {
+      "id": "369271d4ab79",
+      "title": "Import AI 461: \"Alignment is not on track\"; FrontierCode; and synthetic research interns",
+      "description": "Where are your agents right now?",
+      "link": "https://importai.substack.com/p/import-ai-461-alignment-is-not-on",
+      "pubDate": "2026-06-15T11:30:53.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
       "id": "9c7820ad9167",
       "title": "Who Owns the Code Claude Wrote?",
       "description": "The following article originally appeared on Sena Evren’s Legal Layer newsletter and is being reposted here with the author’s permission. TL; DR Agentic coding tools like Claude Code, Cursor, and Codex generate code that may be uncopyrightable, owned by your employer, or contaminated by open source licenses you cannot see. Some of this is settled […]",
@@ -2055,6 +2321,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!zgqX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d3df8df-a431-4346-b758-ef668c61fbd4_1200x670.png",
+      "type": "blog"
+    },
+    {
+      "id": "139c0634eb5a",
+      "title": "What Washington must do",
+      "description": "”The only way out is through”",
+      "link": "https://garymarcus.substack.com/p/what-washington-must-do",
+      "pubDate": "2026-06-14T16:15:35.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Ka51!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8fb2e48c-be2a-4db7-b68c-90300f00fd1e_1668x1456.jpeg",
       "type": "blog"
     },
     {
@@ -2133,6 +2413,20 @@
       "type": "blog"
     },
     {
+      "id": "940e08c4c253",
+      "title": "The White House’s shambolic AI policy",
+      "description": "Also , why states are taking things into their own hands, and what might be better",
+      "link": "https://garymarcus.substack.com/p/the-white-houses-shambolic-ai-policy",
+      "pubDate": "2026-06-13T16:12:58.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!rbGN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00248646-9d2c-4fd3-ae26-c3643309c2f1_1402x1122.png",
+      "type": "blog"
+    },
+    {
       "id": "c5978351e2b3",
       "title": "Multi-Agent Orchestration in Laravel: When You Actually Need It",
       "description": "A practical take on multi-agent setups in Laravel: another agent only earns its place when it needs its own model, tools, or instructions. Good piece on delegation tradeoffs, context handoff, and how to test routing before it becomes an expensive latency tax. Read more",
@@ -2160,6 +2454,20 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/9f3804f8b50007aed029ebb60c74811baddd33af-1036x365.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "847d95e22075",
+      "title": "Breaking news: US Commerce Department effectively shuts down Anthropic’s latest models",
+      "description": "After two years of underregulating AI, the US government suddenly takes the nuclear option",
+      "link": "https://garymarcus.substack.com/p/breaking-news-us-commerce-department",
+      "pubDate": "2026-06-13T02:01:10.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!YLJa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F267c31ad-7cae-43cc-a2b9-58042f37c1c0_1253x1229.png",
       "type": "blog"
     },
     {
@@ -2248,6 +2556,20 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b753bd5dae30",
+      "title": "You can’t get more 2026 than that",
+      "description": "Hallucination of the day:",
+      "link": "https://garymarcus.substack.com/p/you-cant-get-more-2026-than-that",
+      "pubDate": "2026-06-12T13:58:12.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!KEet!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28cffd9e-7947-48fb-b6e7-9a91628c7073_1337x2206.png",
       "type": "blog"
     },
     {
@@ -2355,6 +2677,20 @@
       "type": "blog"
     },
     {
+      "id": "4517921a9a14",
+      "title": "Breaking: OpenAI is pondering “drastic” price cuts.",
+      "description": "And that’s a sign of weakness",
+      "link": "https://garymarcus.substack.com/p/breaking-openai-is-pondering-drastic",
+      "pubDate": "2026-06-11T13:34:49.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!DoGq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHKgLLVCbwAAsql6.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ac4f6d9cf76a",
       "title": "Prompt-Injection Guardrails in Laravel: Defend the Tools, Not the Prompt",
       "description": "You can't out-prompt an attacker — to the model, your system instructions and a malicious support ticket are the same text. So stop defending the prompt and lock down the boundaries you actually control: tools scoped to the authenticated user server-side, middleware that screens and logs, output handled as untrusted input, a human in front of anything irreversible, and a fake-free test that fails CI the moment someone drops the auth scope. Read more",
@@ -2444,6 +2780,20 @@
       "type": "blog"
     },
     {
+      "id": "20461cc93b75",
+      "title": "Maybe Section 230 doesn’t shield AI companies from liability, after all",
+      "description": "An idea inspired by the new German ruling that could turn everything upside down",
+      "link": "https://garymarcus.substack.com/p/maybe-section-230-doesnt-shield-ai",
+      "pubDate": "2026-06-11T01:30:17.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!5Pjo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42322dfe-6283-4e3c-a634-2d39af260fa8_1410x1025.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "2d983bdc161b",
       "title": "Integrating Community Feedback into Foundation Strategy Part 2",
       "description": "In April 2026, during the first weeks of my tenure as Executive Director, I conducted a listening tour with around 60 people from 18 countries spanning every part of the PHP ecosystem (see Integrating Community Feedback into Foundation Strategy: Part 1). Since then, I have continued to listen and connect with those of you in the community who have something to share. The themes that have surfaced are clear, consistent, and actionable. This document outlines how the PHP Foundation will respond…",
@@ -2515,6 +2865,34 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/5735d6bafaae11a88a617e4ce4b0d3670946460c-1328x566.jpg?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "27c97baa367f",
+      "title": "Breaking: Google liable for hallucinations",
+      "description": "Sorry to bother your mailbox again but this legal decision is potentially huge, especially if it spreads and other countries make similar decisions.",
+      "link": "https://garymarcus.substack.com/p/breaking-google-liable-for-hallucinations",
+      "pubDate": "2026-06-10T17:00:08.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!cwe_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7004b3aa-bba2-4fa1-8022-f1008044b6b2_1441x1833.png",
+      "type": "blog"
+    },
+    {
+      "id": "748918f9b3e9",
+      "title": "Breaking news, and how the end might begin ",
+      "description": "A flashback to my most recent interview with Steve Eisman, and some potentially critical news",
+      "link": "https://garymarcus.substack.com/p/breaking-news-and-how-the-end-might",
+      "pubDate": "2026-06-10T16:16:05.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!m7rR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33fd8f3b-fc13-4db3-a983-38f26157c607_5760x3840.jpeg",
       "type": "blog"
     },
     {
@@ -2711,6 +3089,20 @@
       "type": "blog"
     },
     {
+      "id": "ef5944df6da5",
+      "title": "The revenge of Claude Mythos",
+      "description": "🙄",
+      "link": "https://garymarcus.substack.com/p/the-revenge-of-claude-mythos",
+      "pubDate": "2026-06-09T17:52:08.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/72c2562e-5981-45b3-b525-5becaa92a9f5_1281x629.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "34465a7fd70b",
       "title": "SymfonyOnline June 2026: Reconfiguring Symfony​ in real time​ with sidekicks",
       "description": "To wrap up an amazing lineup, SymfonyOnline June 2026 will stream its final expert sessions live online on June 12, 2026. 🎤 Speaker announcement! Don't miss Nicolas Grekas for the talk \"Reconfiguring Symfony in real time with sidekicks\": \"PHP was…",
@@ -2799,6 +3191,20 @@
       "type": "blog"
     },
     {
+      "id": "fc5dceae31e2",
+      "title": "An entire industry is being propped up by math that is insane.",
+      "description": "Welcome to fantasy land",
+      "link": "https://garymarcus.substack.com/p/an-entire-industry-is-being-propped",
+      "pubDate": "2026-06-08T18:37:40.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/o0wkcmpe1hg9kfdhikvp",
+      "type": "blog"
+    },
+    {
       "id": "5ccff6964288",
       "title": "Mini Shai-Hulud, Miasma, and Hades Worms Target Bioinformatics and MCP Developers via Malicious PyPI Wheels",
       "description": "Socket Threat Research team identified a newer PyPI wave connected to the broader Mini Shai-Hulud, Miasma, and Hades supply chain attacks. This wave expands beyond the 37 malicious PyPI wheels covered in our weekend report and shows that the threat actors are iterating quickly across delivery mechanisms, package themes, and runtime triggers. The campaign has since added 23 newly identified PyPI package-version artifacts, expanding beyond the 37 malicious PyPI wheels covered in our weekend…",
@@ -2854,6 +3260,20 @@
         "Web"
       ],
       "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "783d75fc8051",
+      "title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
+      "description": "When will markets price the singularity?",
+      "link": "https://importai.substack.com/p/import-ai-460-reward-hacking-society",
+      "pubDate": "2026-06-08T12:31:32.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {
@@ -2930,6 +3350,20 @@
       "type": "blog"
     },
     {
+      "id": "6287d6c69346",
+      "title": "Slop, productivity, and why the AI-fueled world is going nowhere mighty fast",
+      "description": "Just saw a graph at the FT from John Burn-Murdoch that really distills something I have been trying to articulate.",
+      "link": "https://garymarcus.substack.com/p/slop-productivity-and-why-the-ai",
+      "pubDate": "2026-06-07T15:31:43.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!UNBj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c2ecf00-3c9f-40e4-a8cf-b6e4168a2fb3_1115x1315.png",
+      "type": "blog"
+    },
+    {
       "id": "8c97e4cb145f",
       "title": "A Week of Symfony #1014 (June 1–7, 2026)",
       "description": "This week, Symfony focused on bug fixes for the recent Symfony 8.1 release. Meanwhile, we published more details about the upcoming SymfonyOnline June 2026 conference. Symfony development highlights This week, 39 pull requests were merged (33 in code and…",
@@ -2957,6 +3391,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fad881be6bbe",
+      "title": "AI’s Black Friday",
+      "description": "Some thoughts on what just happened",
+      "link": "https://garymarcus.substack.com/p/ais-black-friday",
+      "pubDate": "2026-06-06T16:24:04.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!0ylG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93baf047-35fb-4f9e-a433-dacdf2a26cdd_1313x812.png",
       "type": "blog"
     },
     {
@@ -3635,6 +4083,20 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "72ff200139ee",
+      "title": "Import AI 459: AI oversight is difficult; scaling laws for protein folding models; and pricing the extinction risk of AI systems",
+      "description": "Do you feel as though you are living in a revolution?",
+      "link": "https://importai.substack.com/p/import-ai-459-ai-oversight-is-difficult",
+      "pubDate": "2026-06-01T13:31:56.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {
