@@ -2,10 +2,88 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "1da060f30a77",
+      "title": "🎙️ Café Tech avec Imen ☕ #16: Symfony, IA & Refactoring : les conseils de Guillaume Loulier",
+      "description": "Bienvenue dans un nouvel épisode de Café Tech ! Aujourd'hui, je reçois Guillaume Loulier, Expert Technique et formateur chez SensioLabs, certifié Symfony de la version 3 à la version 8, contributeur au composant symfony/ai et auteur de la newsletter Weekly Tech. Au cours de cet échange, nous revenons sur son parcours, son expérience de formateur, les défis du refactoring, l'évolution de Symfony et l'arrivée de l'intelligence artificielle dans le quotidien des développeurs. Au programme 🚀 Son…",
+      "link": "https://www.youtube.com/watch?v=VuqThZ8SjfA",
+      "pubDate": "2026-07-15T13:12:48.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/VuqThZ8SjfA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "VuqThZ8SjfA"
+    },
+    {
+      "id": "b4a0f933d5b9",
+      "title": "Les macros Twig : des fonctions qui ne voient rien",
+      "description": "Maîtrisez les macros Twig : syntaxe, importations multiples, portée et quand les remplacer par des Twig Components pour optimiser vos templates Symfony.",
+      "link": "https://lecodeestdanslepre.fr/billets/macros-twig",
+      "pubDate": "2026-07-15T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "22bca019a014",
+      "title": "Comprendre l’authentification avec Github (OAuth) ",
+      "description": "Découvrez comment fonctionne la connexion avec GitHub grâce à OAuth et apprenez à implémenter simplement un bouton \"Se connecter avec GitHub\" dans votre application.",
+      "link": "https://code-garage.com/blog/comprendre-l-authentification-avec-github-oauth ",
+      "pubDate": "2026-07-15T09:44:13.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/Capture_d_ecran_2026_07_15_105702_94b38518f3.png",
+      "type": "blog"
+    },
+    {
+      "id": "b68b1f8e5c6a",
+      "title": "Sécurité PHP : Alexandre Daubois rejoint la PHP Foundation pour renforcer le cœur du langage",
+      "description": "La sécurité des applications ne dépend pas uniquement du code spécifique développé pour un projet, mais également de la robustesse des briques technologiques fondamentales sur lesquelles il repose. Dans cette optique de sécurisation globale des infrastructures, notre coopérative Les-Tilleuls.coop est heureuse d’annoncer la nomination d’Alexandre Daubois au sein de la PHP Foundation en tant que […] Cet article, Sécurité PHP : Alexandre Daubois rejoint la PHP Foundation pour renforcer le cœur du…",
+      "link": "https://les-tilleuls.coop/blog/securite-php-alexandre-daubois-rejoint-la-php-foundation-pour-renforcer-le-coeur-du-langage",
+      "pubDate": "2026-07-15T07:46:48.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2023/02/vignette-blog-php-foundation-1024x614.png",
+      "type": "blog"
+    },
+    {
       "id": "6f03c8e8991e",
       "title": "Liens Tech - Juillet 2026",
       "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
       "link": "https://domopi.eu/liens-tech-juin-2026-2/",
+      "pubDate": "2026-07-15T05:45:13.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f62aff4f6e19",
+      "title": "Liens Tech - Juillet 2026",
+      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "link": "https://domopi.eu/liens-tech-juillet-2026/",
       "pubDate": "2026-07-15T05:45:13.000Z",
       "source": "DomoPi",
       "sourceUrl": "https://domopi.eu/rss/",
@@ -33,6 +111,37 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/2c9ab172-e6ab-4e07-8be0-b020aa6b6e15.mp3?_=1784030523",
       "duration": "01:02:49"
+    },
+    {
+      "id": "3d9a17ee1706",
+      "title": "Nouveau verbe HTTP : QUERY",
+      "description": "Vous étiez coincé pour vos recherches volumineuses entre un GET à rallonge ou détourner le POST dans vos APIs, QUERY est là pour répondre à ce besoin",
+      "link": "https://blog.eleven-labs.com/fr/http-query-method/",
+      "pubDate": "2026-07-15T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6e7c5800d85f",
+      "title": "Attention au bruit documentaire généré par l'IA",
+      "description": "Avec l’IA, on parle beaucoup de la rapidité et de la vitesse de génération de code. Mais, tout comme le code, générer de la documentation n’a jamais été aussi simple et rapide. En quelques secondes, l’IA produit des pages entières décrivant un projet. Mais attention à cette abondance. Comme beaucoup, je suis convaincu de l’importance de documenter: choix d’architecture, standard d’équipe, historique et choix des décisions. La documentation est primordiale pour maintenir la connaissance au fil…",
+      "link": "https://www.jdecool.fr/blog/2026/07/15/attention-au-bruit-documentaire-genere-par-l-ia.html",
+      "pubDate": "2026-07-14T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "e0797e9617c2",
