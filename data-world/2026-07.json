@@ -2,6 +2,184 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "62f66b697277",
+      "title": "The PHP Podcast 2026.07.16",
+      "description": "🎙️ PHP Podcast – July 16, 2026 Hosts: Joe Ferguson, Sara Golemon, and Holly Schilling Joe hosts with Sarah and Holly while running on no sleep. The PHP Tech 2027 CFP opens, a fake PHP 9 pitch appears, we crown Holly the accidental main character of internals, and everyone agrees dark mode flashing white […] The post The PHP Podcast 2026.07.16 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-07-16/",
+      "pubDate": "2026-07-17T05:19:47.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/07/Generated-image-1-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "18ae4ad2083a",
+      "title": "Spot birds not golf",
+      "description": "Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable hobby! Google used 10.9 billion gallons in 2025, so about 30 million gallons per day. The Coachella Valley has 120 golf courses each using ~800 acre-feet per year, which is ~750,000 gallons per day. So Google buying up 40 of…",
+      "link": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
+      "pubDate": "2026-07-17T02:58:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "be555f9c5139",
+      "title": "Firefox in WebAssembly",
+      "description": "Firefox in WebAssembly This is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser. Here's my blog, running in Firefox, running in WebAssembly, running in Chrome: They chose Firefox/Gecko because it has strong single-process support. The project used an estimated $25,000 worth of Claude Opus and Fable tokens, but took advantage of a Claude Max subscription plan so cost much less in actual dollars. The demo funnels all traffic over a WebSocket…",
+      "link": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
+      "pubDate": "2026-07-16T23:34:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "805651cf2412",
+      "title": "Agents Need a New Kind of Web Search",
+      "description": "...covered with three retrieval strategies for AI agents in 2026.",
+      "link": "https://blog.dailydoseofds.com/p/agents-need-a-new-kind-of-web-search",
+      "pubDate": "2026-07-16T20:32:17.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!hMNL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd299fa60-2f68-4efd-8e04-f8466e001faf_976x750.gif",
+      "type": "blog"
+    },
+    {
+      "id": "7e3dbb6d4944",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "description": "Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their \"most capable model to date, with 2.8 trillion parameters\". It's currently available via their website and API, but an open weight release is promised \"by July 27, 2026\". Moonshot are calling this the first \"open 3T-class model\" (I guess they're rounding 2.8 trillion up to 3 trillion), taking the crown from DeepSeek's 1.6T v4 Pro. Their self-reported benchmarks have K3 mostly beating Claude Opus 4.8 max and…",
+      "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+      "pubDate": "2026-07-16T20:19:30.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d8ca3e3a6045",
+      "title": "Quoting Thibault Sottiaux",
+      "description": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled The model attempts to override the $HOME env var to define a temporary directory. The model makes an honest mistake and mistakenly deletes $HOME instead. &mdash; Thibault Sottiaux, describing a pretty gnarly Codex bug…",
+      "link": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+      "pubDate": "2026-07-16T17:45:59.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "81a3e497914a",
+      "title": "Inkling: Our open-weights model",
+      "description": "Inkling: Our open-weights model Mira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 41B active\" - an Apache-2.0 licensed multimodal model trained on 45 trillion tokens of text, images, audio and video. They're also promising Inkling-Small, a 276B (12B active) model, but that's still being tested and the weights will be released \"once that work is complete\". The model card is much shorter than…",
+      "link": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+      "pubDate": "2026-07-16T15:35:25.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca929fccad67",
+      "title": "Suno Breached via Shai-Hulud Worm, Leaked Code Exposes AI Music Scraping",
+      "description": "Leaked source code shows how AI music generator Suno scraped YouTube, Deezer, and Genius to train its models. The breach that exposed it started with a Shai-Hulud infection, according to a scoop from 404 Media. A threat actor using the handle ellie.191 told 404 Media they breached Suno by compromising a single employee with the Shai-Hulud worm, then used the harvested GitHub and cloud credentials to reach the company's source code, customer list, and Stripe payment data. The downstream impact…",
+      "link": "https://socket.dev/blog/suno-breach-shai-hulud-worm?utm_medium=feed",
+      "pubDate": "2026-07-16T15:34:49.523Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "309289caeb35",
+      "title": "Mermaid to ASCII art (mermaid-ascii)",
+      "description": "Tool: Mermaid to ASCII art (mermaid-ascii) After building the Mermaid to ASCII tool based on Grok Build's Rust code I learned that there's an older, more fully-featured Go library called AlexanderGrooff/mermaid-ascii that implements a similar pattern, so I had Claude Fable 5 compile that one to WebAssembly as well so I could compare the two. This one includes support for colors! Tags: go, tools, webassembly, mermaid",
+      "link": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
+      "pubDate": "2026-07-16T14:57:39.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "46c8dc21ff90",
+      "title": "Quoting Linus Torvalds",
+      "description": "I realize that some people really dislike AI, but this is an area where I'm willing to absolutely put my foot down as the top-level maintainer. Linux is not one of those anti-AI projects, and if somebody has issues with that, they can do the open-source thing and fork it. Or just walk away. AI is a tool, just like other tools we use. And it's clearly a useful one. It may not have been that \"clearly\" even just a year ago, but it's no longer in question today. There are other questions around AI…",
+      "link": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
+      "pubDate": "2026-07-16T13:26:10.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fc7a75a126f0",
+      "title": "How I tricked Claude into leaking your deepest, darkest secrets",
+      "description": "A sharp writeup on how a malicious site could trick Claude into exfiltrating memory-derived personal data through its web browsing flow. It walks through the attack chain, the prompt injection setup, and Anthropic's eventual mitigation. Read more",
+      "link": "https://freek.dev/3163-how-i-tricked-claude-into-leaking-your-deepest-darkest-secrets",
+      "pubDate": "2026-07-16T12:30:27.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cbd26bbeff59",
+      "title": "Coding Was Never a Bottleneck",
+      "description": "AI has taken software development by storm. Between the two of us, we build products for software engineers and consumer products for millions of everyday users, so we have skin in the game. We want the AI productivity story to be true. More output, tighter timelines, happier and more productive engineers. Who wouldn’t? But when we […]",
+      "link": "https://www.oreilly.com/radar/coding-was-never-a-bottleneck/",
+      "pubDate": "2026-07-16T11:12:28.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "237cba196a99",
       "title": "Next.js moves to scheduled security releases",
       "description": "Vercel announced that Next.js is adopting a formal security release program, replacing the ad-hoc patches the framework has shipped until now. Going forward, the team will publish advance notice of security releases on the Next.js blog roughly once a month. Each notice will state the expected release date and the highest anticipated severity of the fixes it covers. The first scheduled release is slated for July 20. It will ship patch releases for Next.js 16.2 and 15.5 and addresses 4 high and 5…",

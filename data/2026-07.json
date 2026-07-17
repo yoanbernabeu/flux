@@ -46,6 +46,39 @@
       "type": "blog"
     },
     {
+      "id": "a60065f8c1d0",
+      "title": "Le silence est un choix",
+      "description": "Pas de vidéo depuis début juin. Pas d'article, pas de posts. Et pourtant, je n'ai jamais autant créé, jamais autant remis en question ma manière de produire du logiciel. Ce silence n'est pas une panne. C'est un choix. Explications, et rendez-vous en septembre.",
+      "link": "https://yoandev.co/le-silence-est-un-choix",
+      "pubDate": "2026-07-16T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/20260615-4.BGgwQwLi_11gB57.webp",
+      "type": "blog"
+    },
+    {
+      "id": "5925aebe40b5",
+      "title": "400,000 de réputation sur StackOverflow… Et maintenant ?",
+      "description": "J’ai ouvert StackOverflow un peu par hasard il y a quelques semaines, et j’ai découvert que mon compte a atteint les 400,000 points de réputation et que j’ai aidé plusieurs dizaines de millions de personnes ! Je suis désormais 109ème au classement global des contributeurs !",
+      "link": "https://blog.pascal-martin.fr/post/400000-stackoverflow-et-maintenant/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/400000-stackoverflow-et-maintenant/",
+      "pubDate": "2026-07-16T00:00:00.000Z",
+      "source": "Pascal Martin",
+      "sourceUrl": "https://blog.pascal-martin.fr/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://blog.pascal-martin.fr/public/stackoverflow/stackoverflow-pascal-martin-2026-05-summary.png",
+      "type": "blog"
+    },
+    {
       "id": "1da060f30a77",
       "title": "🎙️ Café Tech avec Imen ☕ #16: Symfony, IA & Refactoring : les conseils de Guillaume Loulier",
       "description": "Bienvenue dans un nouvel épisode de Café Tech ! Aujourd'hui, je reçois Guillaume Loulier, Expert Technique et formateur chez SensioLabs, certifié Symfony de la version 3 à la version 8, contributeur au composant symfony/ai et auteur de la newsletter Weekly Tech. Au cours de cet échange, nous revenons sur son parcours, son expérience de formateur, les défis du refactoring, l'évolution de Symfony et l'arrivée de l'intelligence artificielle dans le quotidien des développeurs. Au programme 🚀 Son…",
