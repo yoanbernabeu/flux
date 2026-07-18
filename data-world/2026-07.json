@@ -2,6 +2,154 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "efd351343b07",
+      "title": "Claude make Fable 5 permanent",
+      "description": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. As I was saying last week, the competition from GPT-5.6 Sol (and maybe to a lesser extent Kimi 3) made untenable Anthropic's plan to remove Fable 5 from their subscription accounts and make…",
+      "link": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+      "pubDate": "2026-07-18T06:00:13.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8d4229547b88",
+      "title": "nascheme/quixote",
+      "description": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago. The oldest commit in that repo is from 21 years ago, and that was the initial import of Quixote 2.4 from Subversion into Git. Tags: computer-history, python, web-frameworks",
+      "link": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
+      "pubDate": "2026-07-18T05:27:49.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a55b94911b12",
+      "title": "Introduction to Loop Engineering: Building AI Agents That Run Themselves",
+      "description": "Video version https://youtu.be/pxnY6T98G14 You may not realize it, but most developers today sit at their keyboards running a manual while loop without realizing it. You write a prompt, read the response, decide what to ask next, and repeat, over and over again. All day long, you are the thing that keeps the process moving toward […] The post Introduction to Loop Engineering: Building AI Agents That Run Themselves appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/07/introduction-to-loop-engineering-building-ai-agents-that-run-themselves/",
+      "pubDate": "2026-07-18T01:29:34.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/07/What-is-loop-engineering.png",
+      "type": "blog"
+    },
+    {
+      "id": "59f64ca8fd3e",
+      "title": "RLHF vs. DPO vs. GRPO in RL",
+      "description": "...explained visually.",
+      "link": "https://blog.dailydoseofds.com/p/rlhf-vs-dpo-vs-grpo-in-rl",
+      "pubDate": "2026-07-17T22:03:56.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!pYUb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a1a1b1a-7787-44c5-b444-d7dd43d52ee9_960x545.gif",
+      "type": "blog"
+    },
+    {
+      "id": "9e586f71123e",
+      "title": "Claude Code Subagents: Delegate Like a Senior PHP Developer",
+      "description": "If you’ve been using Claude Code as a single monolithic assistant, you’ve only been using half the tool. Subagents — specialized AI assistants that Claude Code can spin up and delegate tasks to — fundamentally change how you work. Instead of context-switching between “write this Pest test,” “optimize that MySQL query,” and “review this Rector […] The post Claude Code Subagents: Delegate Like a Senior PHP Developer appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/07/claude-code-subagents-delegate-like-a-senior-php-developer/",
+      "pubDate": "2026-07-17T18:04:35.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/07/2026-05-12-claude-code-subagents-php.png",
+      "type": "blog"
+    },
+    {
+      "id": "3293d2845978",
+      "title": "Quoting Kimi K3",
+      "description": "Is there something I can actually help you with today? &mdash; Kimi K3, after refusing to leak its system prompt Tags: kimi, ai-personality, generative-ai, ai, llms",
+      "link": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+      "pubDate": "2026-07-17T13:43:53.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "00c01899b442",
+      "title": "Supercharge your PHP apps with Go-powered PHP extensions",
+      "description": "A practical conference session on building PHP extensions with Go and FrankenPHP, then wiring them into Laravel and Symfony as native-feeling features. It uses an in-memory LRU cache as the example and offers a nice tour of framework flexibility and PHP internals. Read more",
+      "link": "https://freek.dev/3164-supercharge-your-php-apps-with-go-powered-php-extensions",
+      "pubDate": "2026-07-17T12:30:31.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1371fbba18fd",
+      "title": "LLM cliché highlighter",
+      "description": "Tool: LLM cliché highlighter I got frustrated reading yet another article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type stuff - so I had Fable 5 vibe code up this app for highlighting ten common patterns that show up in that sort of writing. Tags: tools, ai, generative-ai, llms",
+      "link": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+      "pubDate": "2026-07-17T12:11:11.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da7c772979e2",
+      "title": "The Right Amount of Spec for Agentic Development",
+      "description": "I keep seeing the same idea in conversations about agents: Detailed specs are old-world overhead now. Give the model a rough goal, let it explore, fix what comes back, move on. It sounds efficient but it also hides the cost. A simple prompt looks cheap and tempting because it gets implementation started right away. Then […]",
+      "link": "https://www.oreilly.com/radar/the-right-amount-of-spec-for-agentic-development/",
+      "pubDate": "2026-07-17T10:43:17.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/07/image-3-1600x836.png",
+      "type": "blog"
+    },
+    {
+      "id": "d202fdd603a0",
+      "title": "White House Launches Gold Eagle Initiative to Manage Surge in AI-Discovered Vulnerabilities",
+      "description": "The White House has launched a central clearinghouse to triage AI-discovered vulnerabilities and coordinate patches, but it has revealed little about how the system will operate. Its new Gold Eagle initiative aims to collect findings from government and industry, coordinate which software gets scanned, validate reported vulnerabilities, and prioritize patches across federal systems, critical infrastructure, and open source software. The administration publicly announced Gold Eagle on July 14,…",
+      "link": "https://socket.dev/blog/white-house-gold-eagle-initiative-ai-discovered-vulnerabilities?utm_medium=feed",
+      "pubDate": "2026-07-17T05:51:30.865Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "62f66b697277",
       "title": "The PHP Podcast 2026.07.16",
       "description": "🎙️ PHP Podcast – July 16, 2026 Hosts: Joe Ferguson, Sara Golemon, and Holly Schilling Joe hosts with Sarah and Holly while running on no sleep. The PHP Tech 2027 CFP opens, a fake PHP 9 pitch appears, we crown Holly the accidental main character of internals, and everyone agrees dark mode flashing white […] The post The PHP Podcast 2026.07.16 appeared first on PHP Architect.",

@@ -2,6 +2,154 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "d2ed2ab58627",
+      "title": "Une timeline et un bouton « Copy as text » : la page d'exception Symfony se redessine",
+      "description": "Découvrez la refonte de la page d'exception Symfony : une timeline cliquable et un bouton 'Copy as text' pour les IA. Analyse de cette évolution.",
+      "link": "https://lecodeestdanslepre.fr/billets/page-exception-symfony-redesign-copy-as-text",
+      "pubDate": "2026-07-17T10:33:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "99348bfc8be1",
+      "title": "Un RAG Magique !",
+      "description": "Il y a peu, je me suis mis à rejouer à Magic: The Gathering avec des amis. C’est un jeu de cartes à collectionner dans lequel on construit des decks pour affronter ses adversaires à travers divers modes de jeux possibles. Le jeu existe depuis 1993 et n’a cessé d’évoluer depuis. Résultat : même les […] Cet article, Un RAG Magique !, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/un-rag-magique",
+      "pubDate": "2026-07-17T09:56:38.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f474.png",
+      "type": "blog"
+    },
+    {
+      "id": "0ab4f7ac98c9",
+      "title": "Comprendre le principe SOLID en programmation",
+      "description": "SOLID est un acronyme qui signifie : Single Responsibility - Open/Closed - Liskov’s Substitution - Interface Segregation - Dependency Inversion... Mais ça veut dire quoi exactement ? Notes de l'épisode : 10 femmes qui ont révolutionné l'informatique (https://code-garage.com/blog/ces-femmes-qui-ont-revolutionne-l-informatique) L'injection de dépendances (https://code-garage.com/podcast/classic/episode-129)",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Comprendre-le-principe-SOLID-en-programmation-e3m6p46",
+      "pubDate": "2026-07-17T09:54:10.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/122954310/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-17%2Ff2654f59-861d-ae16-910a-b8ec8a6aab26.mp3",
+      "duration": "00:12:42"
+    },
+    {
+      "id": "1cb6e194d4de",
+      "title": "The Token Manifesto",
+      "description": "The Token Manifesto We are uncovering better ways of consuming context by doing it and helping others do it.Through the work of producing tokens, deleting tokens, and staring at a usage bar nervously, we have come to value:1. Short system prompts over clever system prompts : The model reads the same 47 lines you wrote at 2am and judges you either way.2. One clear example over three paragraphs of explanation Show, don't tell. Show, don't tell again.3. Iterating in small steps over dumping the...",
+      "link": "https://www.touilleur-express.fr/2026/07/17/the-token-manifesto",
+      "pubDate": "2026-07-17T09:34:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "70b9dffc7ddc",
+      "title": "Airflow : introduction au Dynamic Task Mapping",
+      "description": "Airflow : comprendre le Dynamic Task Mapping",
+      "link": "https://blog.ippon.fr/2026/07/17/airflow-introduction-au-dynamic-task-mapping/",
+      "pubDate": "2026-07-17T09:26:15.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/07/Capture-d---e--cran-2026-07-13-a---15.54.18.png",
+      "type": "blog"
+    },
+    {
+      "id": "22639cfc66ed",
+      "title": "Accélérer votre CI : mettre en cache l’état de la base de données",
+      "description": "Il y a quelques années, j’écrivais Accélérer votre intégration continue. L’article passait en revue tout un tas de techniques pour rendre une CI plus rapide : cache Composer, cache Yarn, layers Docker, parallélisation, tmpDir de PHPStan… et, tout en bas de la liste, une idée un peu à part : plutôt que de rejouer les fixtures à chaque build, charger un dump SQL pré-généré. L’idée est séduisante, mais sous sa forme la plus simple (un dump statique, versionné, régénéré à la main) elle a un défaut…",
+      "link": "https://jolicode.com/blog/accelerer-votre-ci-mettre-en-cache-l-etat-de-la-base-de-donnees",
+      "pubDate": "2026-07-17T08:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9fb2409f425c",
+      "title": "Éloge de la simplicité - Frédéric Leguédois",
+      "description": "Pensez à un logiciel que vous aimez utiliser. Maintenant, pensez à un logiciel que vous détestez. Frédéric Leguédois (coach agile senior chez Ex Novo) le devine : celui que vous haïssez, vous l’utilisez dans un cadre professionnel. Et si cette lourdeur tant décriée trouvait justement son origine dans les méthodes censées nous en libérer ? Les méthodes agiles se sont construites en opposition à des fonctionnements lourds, bureaucratiques, prédictifs. Mais les années passant, l’écosystème agile…",
+      "link": "https://www.youtube.com/watch?v=zkEXYQmwUDI",
+      "pubDate": "2026-07-17T07:42:45.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/zkEXYQmwUDI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "zkEXYQmwUDI"
+    },
+    {
+      "id": "5d323370d8a0",
+      "title": "Non pas un, mais deux projets mêlant impression 3D et électronique embarquée",
+      "description": "Après un silence quasi religieux depuis 1 mois et demi, vous vous demandez peut-être (ou non) ce que je fais de mes après-midi ? Et bien je vais vous le dire (non non, ne partez pas) En réalité, j’ai enchaîné deux projets “maker” qui méritent que je m’y attarde : une boîte à coucou pilotée par reconnaissance vocale, et un gyrophare connecté en open source. Et les deux partagent un ADN commun : impression 3D, OpenSCAD et de bidouille électronique du dimanche. À que coucou ! Alors forcément, ça…",
+      "link": "https://blog.zwindler.fr/2026/07/17/non-pas-un-mais-deux-projets-melant-impression-3d-et-electronique-embarquee/",
+      "pubDate": "2026-07-17T07:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/07/alerte-rouge.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e16928709d6a",
+      "title": "Workflow, orchestrer des tâches asynchrones sans usine à gaz",
+      "description": "Présentation de Workflow, la librairie Vercel pour orchestrer simplement des tâches asynchrones en JavaScript/TypeScript, avec retries, pauses, webhooks, actions humaines et observabilité, en partageant son retour d’expérience et des cas concrets. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/workflow/",
+      "link": "https://double-slash.dev/podcasts/workflow/",
+      "pubDate": "2026-07-17T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1784274696/episode/ART_136_zvafgr.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_136_workflow.mp3",
+      "duration": "2637"
+    },
+    {
       "id": "cbf7c592e114",
       "title": "July 2026 Newsletter: How to become an indispensable company?",
       "description": "Indispensable companies will be those that master AI search engines What does it mean to be an indispensable company? It means being the one everyone thinks of when they have a need in mind. In B2C, these are well-known brands. In B2B, it’s a bit different. Being indispensable means being the company you’ve heard about […] L’article July 2026 Newsletter: How to become an indispensable company? est apparu en premier sur OlivierSauvage.com.",
