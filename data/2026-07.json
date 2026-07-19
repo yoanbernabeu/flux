@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "6b884c981cec",
+      "title": "Le SEO tué par l'IA ? Les chiffres ne mesurent pas la même chose",
+      "description": "Zéro-clic, AI Overviews : ces chiffres ne mesurent pas la même chose. Comment lire leur périmètre, et mesurer la dépendance réelle de votre site à Google.",
+      "link": "https://lecodeestdanslepre.fr/billets/seo-ia-guerre-des-chiffres",
+      "pubDate": "2026-07-18T09:04:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d2ed2ab58627",
       "title": "Une timeline et un bouton « Copy as text » : la page d'exception Symfony se redessine",
       "description": "Découvrez la refonte de la page d'exception Symfony : une timeline cliquable et un bouton 'Copy as text' pour les IA. Analyse de cette évolution.",
