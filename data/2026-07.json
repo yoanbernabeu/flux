@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "3e9e0f92755f",
+      "title": "Pourquoi je ne fais pas d'open source sur Writizzy",
+      "description": "Rendre son produit open source : une évidence pour la durabilité ou un piège économique et mental ? Retour d'expérience et dilemmes à travers le cas Writizzy.",
+      "link": "https://eventuallycoding.com/p/pourquoi-je-ne-fais-pas-d-open-source-sur-writizzy",
+      "pubDate": "2026-07-19T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2f854d6e5528",
+      "title": "Twig 3.28 : le sandbox arrête de tout emballer, les macros redeviennent dynamiques",
+      "description": "Découvrez les nouveautés de Twig 3.28 : le retour des macros dynamiques grâce à l'opérateur point et un sandbox plus performant. Auditez vos extensions Twig.",
+      "link": "https://lecodeestdanslepre.fr/billets/twig-3-28-sandbox-macros-dynamiques",
+      "pubDate": "2026-07-18T10:33:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6b884c981cec",
       "title": "Le SEO tué par l'IA ? Les chiffres ne mesurent pas la même chose",
       "description": "Zéro-clic, AI Overviews : ces chiffres ne mesurent pas la même chose. Comment lire leur périmètre, et mesurer la dépendance réelle de votre site à Google.",

@@ -2,6 +2,50 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "f8697401d95d",
+      "title": "Quoting Sam Altman",
+      "description": "We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability of GPT-3 that can run locally on consumer hardware and release that. We’d like to do it soon, before Stability or someone else does. In general, we think this helps discourage others from releasing similarly-powerful models, and makes it harder for new efforts to get funded.…",
+      "link": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+      "pubDate": "2026-07-20T03:47:59.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "82296b578ce8",
+      "title": "[Hands-on] Rebuilding Claude Code's Harness",
+      "description": "...step-by-step, from scratch, using open-source stack.",
+      "link": "https://blog.dailydoseofds.com/p/hands-on-rebuilding-claude-codes",
+      "pubDate": "2026-07-19T18:44:38.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Sgx8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3efbbc7-24b4-4c59-965d-6c3d3fc3c694_1200x1200.png",
+      "type": "blog"
+    },
+    {
+      "id": "83df4e48d7ee",
+      "title": "A Week of Symfony #1020 (July 13–19, 2026)",
+      "description": "This week, Symfony published Symfony UX 3.3, which adds support for Symfony Reprise and includes several improvements to the toolkit. In addition, SymfonyCasts announced a new course on upgrading to Symfony 8. Finally, the upcoming SymfonyCon Warsaw 2026…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1020-july-13-19-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-07-19T07:23:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "746ff2a79bb8",
       "title": "AI Mania Is Eviscerating Global Decision-Making",
       "description": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical strategy for an organisation with $2B+ in revenue which was entirely centered around AI. Here's a…",
