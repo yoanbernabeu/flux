@@ -2,6 +2,84 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "b4bacbdbfb72",
+      "title": "JoliMediaSyliusBundle, a New Bridge for Your Sylius Projects",
+      "description": "Does the excellent Sylius E-commerce framework even need an introduction? If Sylius has established itself in the e-commerce ecosystem, it's largely thanks to its ability to adapt to a wide variety of business needs without imposing a rigid architecture. Its extension system allows for gradual feature evolution while preserving the framework's core mechanisms. Late last year, we launched JoliMediaBundle, a Symfony bundle dedicated to managing media libraries. It already came with two bridges…",
+      "link": "https://jolicode.com/blog/jolimediasyliusbundle-a-new-bridge-for-your-sylius-projects",
+      "pubDate": "2026-07-20T12:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/joli-media-sylius-bundle/sonata-grid-view.png",
+      "type": "blog"
+    },
+    {
+      "id": "227456a60e9e",
+      "title": "JoliMediaSyliusBundle, un nouveau bridge pour vos projets Sylius",
+      "description": "Est-il encore nécessaire de présenter l’excellent framework E-commerce Sylius ? Si Sylius s’est imposé dans l’écosystème e-commerce, c’est notamment grâce à sa capacité à s’adapter à des besoins métier très variés sans imposer une architecture rigide. Son système d’extensions permet de faire évoluer progressivement les fonctionnalités tout en conservant les mécanismes du cœur du framework. Fin d'année dernière, nous avons lancé le JoliMediaBundle, un bundle Symfony dédié à la gestion de…",
+      "link": "https://jolicode.com/blog/jolimediasyliusbundle-un-nouveau-bridge-pour-vos-projets-sylius",
+      "pubDate": "2026-07-20T12:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/joli-media-sylius-bundle/sonata-grid-view.png",
+      "type": "blog"
+    },
+    {
+      "id": "2b79be0168d0",
+      "title": "Organiser ses worktrees dans Antigravity 2.0",
+      "description": "📕 Les Git worktrees Les worktrees sont apparus dans Git dans la version 2.5.0, sortie en Juillet 2015 (cf https://github.blog/open-source/git/git-2-5-including-multiple-worktrees-and-triangular-workflows/)",
+      "link": "https://blog.zenika.com/2026/07/20/organiser-ses-worktrees-dans-antigravity-2-0/",
+      "pubDate": "2026-07-20T08:04:42.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4d5.png",
+      "type": "blog"
+    },
+    {
+      "id": "2197a6f81efe",
+      "title": "J’ai remplacé Claude Code par Grok 4.5 dans Cursor",
+      "description": "J’ai testé Grok 4.5 dans Cursor sur une vraie codebase PHP/Symfony pour voir s’il pouvait remplacer Claude Code dans mon workflow. Pas de petit exercice généré spécialement pour la vidéo : j’ai confié à Grok une véritable issue GitHub sur UX DataTables, mon bundle open source d’intégration de DataTables.net avec Symfony. Liens utiles : ▶️ Grok 4.5 https://x.ai/news/grok-4-5 ▶️ Grok Build : https://grok.com/build ▶️ UX DataTables : https://github.com/pentiminax/ux-datatables 📌 Retrouvez moi sur…",
+      "link": "https://www.youtube.com/watch?v=RRxcLuPwDIA",
+      "pubDate": "2026-07-20T08:00:27.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/RRxcLuPwDIA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "RRxcLuPwDIA"
+    },
+    {
+      "id": "19accd67d164",
+      "title": "Le prix de la souveraineté numérique",
+      "description": "La souveraineté numérique européenne se heurte à une réalité : trouver des alternatives ne suffit pas, elles doivent aussi rester compétitives économiquement",
+      "link": "https://eventuallycoding.com/p/le-prix-de-la-souverainete-numerique",
+      "pubDate": "2026-07-20T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3e9e0f92755f",
       "title": "Pourquoi je ne fais pas d'open source sur Writizzy",
       "description": "Rendre son produit open source : une évidence pour la durabilité ou un piège économique et mental ? Retour d'expérience et dilemmes à travers le cas Writizzy.",

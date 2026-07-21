@@ -2,6 +2,94 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "d1545709249f",
+      "title": "How do AI teams use RL in production?",
+      "description": "The full RL nanodegree, covered with implementation.",
+      "link": "https://blog.dailydoseofds.com/p/how-do-ai-teams-use-rl-in-production",
+      "pubDate": "2026-07-20T21:40:53.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Xq9H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d9689e8-ed6d-4c21-ac96-bf2995959119_3795x920.png",
+      "type": "blog"
+    },
+    {
+      "id": "ae17475d8733",
+      "title": "Tempest 3.0: The PHP Framework That Gets Out of Your Way",
+      "description": "If you spend most of your PHP time in Laravel or Symfony, you may have noticed a framework quietly picking up momentum over the past couple of years. Tempest describes itself as “the PHP framework that gets out of your way,” and after spending time with version 3.0 — released February 12, 2026 — that […] The post Tempest 3.0: The PHP Framework That Gets Out of Your Way appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/07/tempest-3-0-the-php-framework-that-gets-out-of-your-way/",
+      "pubDate": "2026-07-20T20:06:56.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/07/2026-05-19-tempest-php-3.png",
+      "type": "blog"
+    },
+    {
+      "id": "b3d901fa5502",
+      "title": "Reverse-engineering is cheap now",
+      "description": "I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes. I think this is an interesting illustration of the impact of the reduced cost of writing code. Prior to agents, it was entirely possible to reverse-engineer home devices. The problem was the ROI - was it really worth all of that effort? More importantly, any experienced programmer knows that undocumented, unstable APIs like that may well change or break in the future. Is that…",
+      "link": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+      "pubDate": "2026-07-20T19:24:05.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7ca284d7d588",
+      "title": "Who’s Afraid of Chinese Models?",
+      "description": "Who’s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open models compete more effectively with their Chinese counterparts: The U.S. should pass a law that (1) makes explicit that collecting data for training models is fair use, and (2) bars terms of service that forbid distillation, for U.S. companies at a minimum. Stopping distillation —…",
+      "link": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
+      "pubDate": "2026-07-20T17:09:19.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c1c2748d17ff",
+      "title": "Claude Code Routines: A Third Way Beyond /goal and /loop",
+      "description": "There's a third way to automate Claude Code, and unlike /goal and /loop, it doesn't need your laptop open at all. Anthropic just shipped routines: cloud-hosted automations triggered by a schedule, an API call, or a GitHub event. Read more",
+      "link": "https://freek.dev/3165-claude-code-routines-a-third-way-beyond-goal-and-loop",
+      "pubDate": "2026-07-20T12:26:25.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ee91b595e421",
+      "title": "The Tokens You Can’t Wait For",
+      "description": "Somewhere in a Singapore data center, a bank is paying for eight H100s that spend most of the night waiting. The cluster was bought for good reasons (discomfort with customer documents leaving the building, a strategy team’s aversion to lock-in), so the bank secured its own sovereign compute. Now the finance team is asking why […]",
+      "link": "https://www.oreilly.com/radar/the-tokens-you-cant-wait-for/",
+      "pubDate": "2026-07-20T10:59:53.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f8697401d95d",
       "title": "Quoting Sam Altman",
       "description": "We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability of GPT-3 that can run locally on consumer hardware and release that. We’d like to do it soon, before Stability or someone else does. In general, we think this helps discourage others from releasing similarly-powerful models, and makes it harder for new efforts to get funded.…",
