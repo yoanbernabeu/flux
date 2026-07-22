@@ -2,6 +2,80 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "ffcf72827694",
+      "title": "5 LLM Quantization Techniques",
+      "description": "...explained visually.",
+      "link": "https://blog.dailydoseofds.com/p/5-llm-quantization-techniques",
+      "pubDate": "2026-07-21T22:13:28.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!jdZa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82be21c1-7649-4d25-8e4b-b900dda507c0_1350x1200.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "1611d485eafe",
+      "title": "Nativ: Run AI models locally on your Mac",
+      "description": "Nativ: Run AI models locally on your Mac Prince Canuma is the developer behind the excellent MLX-VLM Python library for running vision-LLMs using MLX on a Mac. I'm really excited about his new project, which wraps MLX in a full macOS desktop application. It's similar in shape to LM Studio, providing both a chat interface and a localhost API server for accessing models. The app picked up MLX models I had already tried that were present in my Hugging Face cache directory, which was a nice touch.…",
+      "link": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+      "pubDate": "2026-07-21T14:22:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "07d858f5b61f",
+      "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "description": "Earlier this month I hosted a fireside chat session at the AI Engineer World's Fair with Cat Wu and Thariq Shihipar from Anthropic's Claude Code team. We talked about Claude Code, Claude Tag, Fable, coding agent security, evals, tool design, and how Anthropic use these tools themselves. The full video of the session is now available on YouTube. Below is an edited copy of the transcript, with extra links and my own bolded highlights. A few top-level notes if you don't want to watch the video or…",
+      "link": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+      "pubDate": "2026-07-21T12:54:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d65ebcf64259",
+      "title": "PHP Attributes: What, Why, How and When",
+      "description": "A deep dive into PHP attributes, from metadata and Reflection to practical design patterns, Laravel examples, performance, testing, and the cases where explicit code is better. Read more",
+      "link": "https://freek.dev/3166-php-attributes-what-why-how-and-when",
+      "pubDate": "2026-07-21T12:43:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b4f3a82b6b25",
+      "title": "Quarterly Progress Report - Q2 2026",
+      "description": "Our team of core developers works very hard to strengthen and improve the PHP language. In an effort to improve the way we communicate this work, from now on, we will be posting quarterly updates regarding their individual projects and efforts. Our core team consists of 13 people, distributed across 8 countries. Most of our contractors work part-time for The PHP Foundation and have other ventures aside from working on the PHP core. Also, this report is not meant to be a comprehensive list of…",
+      "link": "https://thephp.foundation/blog/2026/07/21/quarterly-report-q2-2026/",
+      "pubDate": "2026-07-21T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d1545709249f",
       "title": "How do AI teams use RL in production?",
       "description": "The full RL nanodegree, covered with implementation.",

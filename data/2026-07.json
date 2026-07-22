@@ -2,6 +2,71 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "246afe75b196",
+      "title": "#366.bin - Intelligence(s): Créative: Pourquoi la contrainte fait jaillir l'idée avec Todd Lubart",
+      "description": "\"Des contraintes, sont bienvenues pour la créativité. Quand on dit aux gens, faites tout ce que vous voulez, c'est la catastrophe.\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-366-175059378c74",
+      "pubDate": "2026-07-22T03:00:29.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/2d221ce0-d820-42fe-9748-b24ee39b0670.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/c9e432af-d15c-4760-b5d0-175059378c74.mp3?_=1784635289",
+      "duration": "51:02"
+    },
+    {
+      "id": "c19ed7a16709",
+      "title": "JoliDay 2026 avec du malt, des aiguilles, de la 3D et des copeaux",
+      "description": "Comme tous les ans, nous avons profité d’un jour férié (en application de la journée de solidarité avec les personnes âgées) pour nous retrouver tous ensemble et faire des projets ni Web ni Mobile, mais toujours de qualité 👌. Nous avons un gros faible pour le DIY et retrouvons la même gratification à résoudre des problèmes dans « le monde réel » que dans nos projets du quotidien ! Dans cet article, nous vous présentons les différents projets réalisés en une journée par les JoliCodeuses et…",
+      "link": "https://jolicode.com/blog/joliday-2026-avec-du-malt-des-aiguilles-de-la-3d-et-des-copeaux",
+      "pubDate": "2026-07-21T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/joliday/table-basse.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "af2569e11ae9",
+      "title": "Anthropic offre 100 $… mais il y a un piège",
+      "description": "Anthropic vient d'annoncer un changement majeur pour Claude Fable 5. À partir du 20 juillet, le modèle est désormais inclus dans les abonnements Claude Max et Team Premium, avec 50 % des limites d'utilisation. Les utilisateurs Claude Pro et Team Standard conservent l'accès via des crédits et recevront un crédit unique de 100 $. Dans cette vidéo, je t'explique ce qui change, pourquoi Anthropic a pris cette décision et ce que cela signifie si tu utilises Claude pour le développement, le code, les…",
+      "link": "https://www.youtube.com/watch?v=PspPyre0WRI",
+      "pubDate": "2026-07-21T09:09:56.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/PspPyre0WRI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "PspPyre0WRI"
+    },
+    {
+      "id": "7806f4d22895",
+      "title": "KIMI K3 : L’IA Open Source la plus puissante au monde ?",
+      "description": "Kimi K3 est-il réellement l’IA open source la plus puissante au monde ? 🚀 Dans cette vidéo, je découvre le nouveau modèle développé par Moonshot AI et j’analyse ses capacités en matière de génération de code, de raisonnement et d’utilisation d’outils. Avec ses 2,8 billions de paramètres, son contexte pouvant atteindre 1 million de tokens et ses performances annoncées face aux meilleurs modèles propriétaires, Kimi K3 veut repousser les limites de l’intelligence artificielle open source. 🔗…",
+      "link": "https://www.youtube.com/watch?v=rtAay2Th-AE",
+      "pubDate": "2026-07-21T08:00:13.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/rtAay2Th-AE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "rtAay2Th-AE"
+    },
+    {
       "id": "b4bacbdbfb72",
       "title": "JoliMediaSyliusBundle, a New Bridge for Your Sylius Projects",
       "description": "Does the excellent Sylius E-commerce framework even need an introduction? If Sylius has established itself in the e-commerce ecosystem, it's largely thanks to its ability to adapt to a wide variety of business needs without imposing a rigid architecture. Its extension system allows for gradual feature evolution while preserving the framework's core mechanisms. Late last year, we launched JoliMediaBundle, a Symfony bundle dedicated to managing media libraries. It already came with two bridges…",
