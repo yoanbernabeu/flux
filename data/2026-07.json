@@ -2,6 +2,52 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "34bfb983aace",
+      "title": "Google vient de lancer Gemini 3.6 Flash… Claude doit-il s’inquiéter ?",
+      "description": "Google vient de dévoiler Gemini 3.6 Flash, Gemini 3.5 Flash-Lite et Gemini 3.5 Flash Cyber. Dans ce Short, je résume les nouveautés annoncées par Google : performances en programmation, vitesse de génération, consommation de tokens, tarifs de l’API et spécialisation de Gemini Flash Cyber dans la cybersécurité. Gemini 3.6 Flash pourrait-il devenir une alternative crédible à Claude, GPT ou Grok pour coder dans Cursor et construire des agents IA ? Avec un prix plus accessible et de meilleures…",
+      "link": "https://www.youtube.com/watch?v=lQHy-Av4meg",
+      "pubDate": "2026-07-22T21:35:11.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/lQHy-Av4meg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "lQHy-Av4meg"
+    },
+    {
+      "id": "55bf2c89eeb0",
+      "title": "Symfony 8.2 : des URLs signées à usage unique, sans stockage",
+      "description": "Symfony 8.2 ajoute l'usage unique aux URLs signées d'UriSigner via un jeton d'état replié dans le HMAC. Mécanisme, limites et comparaison avec login_link.",
+      "link": "https://lecodeestdanslepre.fr/billets/urls-signees-usage-unique-symfony-8-2",
+      "pubDate": "2026-07-22T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ada62ff26383",
+      "title": "Configurer swagger avec un SSO sur une API Django",
+      "description": "Confi­gu­rer swag­ger avec une authen­ti­fi­ca­tion single-sign-on (SSO) sur votre API afin de pouvoir la tester avec des jetons OpenID Connect (OIDC).",
+      "link": "https://makina-corpus.com/django/configurer-swagger-avec-un-sso-sur-une-api-django",
+      "pubDate": "2026-07-22T10:28:08.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "246afe75b196",
       "title": "#366.bin - Intelligence(s): Créative: Pourquoi la contrainte fait jaillir l'idée avec Todd Lubart",
       "description": "\"Des contraintes, sont bienvenues pour la créativité. Quand on dit aux gens, faites tout ce que vous voulez, c'est la catastrophe.\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre…",
@@ -18,6 +64,36 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/c9e432af-d15c-4760-b5d0-175059378c74.mp3?_=1784635289",
       "duration": "51:02"
+    },
+    {
+      "id": "05bce97d6dd3",
+      "title": "Design et développement : un process souvent oublié (épisode 1)",
+      "description": "Designers et développeurs travaillent ensemble au quotidien, et pourtant, leurs façons de faire et de communiquer restent souvent bien éloignées. Chez Elao, on a décidé de combler ce fossé. Une partie de notre réponse tient en un mot : Storybook.",
+      "link": "https://www.elao.com/blog/methodo/design-developpement-un-process-souvent-oublie",
+      "pubDate": "2026-07-22T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7718cf670269",
+      "title": "Convaincre ne se délègue pas à l'IA",
+      "description": "Depuis quelques mois, je repère de plus en plus de documents et de présentations de leads et de directeurs rédigés à coups d’IA. Ce n’est pas forcément gênant, mais le problème, c’est quand ça se voit de trop. Il y a un style d’écriture qui trahit l’outil. Une certaine structure et des types de tournures qui se remarquent. Le texte est cohérent, mais il est désincarné. Selon le type de document, cela ne me dérange pas. Documenter une procédure, résumer une architecture, formaliser un…",
+      "link": "https://www.jdecool.fr/blog/2026/07/22/convaincre-ne-se-delegue-pas-a-l-ia.html",
+      "pubDate": "2026-07-21T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "c19ed7a16709",

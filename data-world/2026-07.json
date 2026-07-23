@@ -2,6 +2,199 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "5721223bc9fd",
+      "title": "Quoting Seth Larson",
+      "description": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or workflows of PyPI projects were compromised. As far as we are aware this has not yet been abused, but there is no technical reason beyond that attackers weren't aware it was possible. &mdash; Seth Larson, PyPI blog Tags: packaging, python, supply-chain, pypi,…",
+      "link": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
+      "pubDate": "2026-07-23T04:50:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3d15fa811ba4",
+      "title": "Quoting Thomas Ptacek",
+      "description": "I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume OpenAI has sounder sandboxes. &mdash; Thomas Ptacek, doesn't think this even needs a frontier model Tags: thomas-ptacek, openai, security, generative-ai, ai-security-research, ai, llms, sandboxing",
+      "link": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
+      "pubDate": "2026-07-22T23:59:01.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b9473e4a1600",
+      "title": "Community Corner Podcast: Firefly III with James Cole",
+      "description": "In this episode, Scott talks with James Cole, creator of Firefly III, an open source personal finance manager. James explains why he built Firefly III after graduating college with student debt, how the rule engine automates transaction categorization, importing bank data with CSV files and third-party connectors like enable banking and GoCardless, and how […] The post Community Corner Podcast: Firefly III with James Cole appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/community-corner-podcast-firefly-iii-with-james-cole/",
+      "pubDate": "2026-07-22T23:53:56.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/07/Firefly-III-with-James-Cole.png",
+      "type": "blog"
+    },
+    {
+      "id": "e75e48fe5615",
+      "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+      "description": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model broke its way out of OpenAI's sandbox, then found exploits to break in to Hugging Face, all so it could cheat on the test by stealing the answers. Along the way it helped make the strongest case yet for how the imbalance of model availability is hurting our ability to secure our software. Here's what…",
+      "link": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
+      "pubDate": "2026-07-22T23:51:33.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f2224010f961",
+      "title": "Are AI labs pelicanmaxxing?",
+      "description": "Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response to my deeply unscientific benchmark. I've been randomly spot-checking this in the past by testing models against other animals riding other types of vehicle, but never with anything close to the diligence of Dylan's methodology here. Dylan took 8 animals × 6…",
+      "link": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
+      "pubDate": "2026-07-22T23:01:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c25c6e0aed81",
+      "title": "Karpathy Said Something You’ll Regret Ignoring",
+      "description": "Karpathy said something you’ll regret ignoring",
+      "link": "https://blog.dailydoseofds.com/p/karpathy-said-something-youll-regret",
+      "pubDate": "2026-07-22T22:24:21.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!DoKq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc602df15-278f-48d1-8cda-9d3c82ea596b_1190x740.png",
+      "type": "blog"
+    },
+    {
+      "id": "4cf38e94dd3d",
+      "title": "Large-Scale GitHub Actions Abuse Powers a Distributed cPanel and WHM Exploitation Campaign",
+      "description": "Malicious Packagist development versions exposed a broader GitHub Actions campaign that abuses compromised repositories to exploit CVE-2026-41940, a cPanel and WHM authentication bypass vulnerability, and harvest credentials from affected servers. Our investigation into malicious Packagist development versions associated with a legitimate PHP and DevOps developer, dinushchathurya, uncovered a large-scale GitHub Actions abuse campaign. Although the investigation began in the PHP package…",
+      "link": "https://socket.dev/blog/github-actions-abuse-powers-cpanel-and-whm-exploitation?utm_medium=feed",
+      "pubDate": "2026-07-22T20:10:30.006Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/939ba8577b7c14698cca4ba7d9c5dbd44a8a858b-1188x1324.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "1b9137a0602c",
+      "title": "Stop Overengineering Your Agent Harness",
+      "description": "The following originally appeared on Hugo Bowne-Anderson’s Vanishing Gradients Substack and is being republished here with the author’s permission. The conversation around harness engineering is dominated by problems from coding and personal agents such as OpenClaw, but most agents are simpler. Builders should avoid over-engineering for capabilities that newer models may absorb anyway, the “Kirby […]",
+      "link": "https://www.oreilly.com/radar/stop-overengineering-your-agent-harness/",
+      "pubDate": "2026-07-22T15:58:51.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/07/image-7.png",
+      "type": "blog"
+    },
+    {
+      "id": "f50930607888",
+      "title": "Ship Code Safely with Laravel Pennant Feature Flags",
+      "description": "Deploying new features used to mean holding your breath. You merged the branch, pushed to production, and hoped the QA process caught everything. If it didn’t, rollback meant either reverting a deployment or shipping a hotfix under pressure. Feature flags change that story entirely, and Laravel Pennant gives you a first-party, well-designed way to build […] The post Ship Code Safely with Laravel Pennant Feature Flags appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/07/19602/",
+      "pubDate": "2026-07-22T15:12:43.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/07/2026-05-25-laravel-pennant-feature-flags.png",
+      "type": "blog"
+    },
+    {
+      "id": "d9cf0b39f7c5",
+      "title": "Orchestrions",
+      "description": "San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique. And because most people are bad at allocating their funds you may well be the ONLY person activating the Orchestrions, which means you get to craft the soundscape for the entire museum. Tags: san-francisco",
+      "link": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything",
+      "pubDate": "2026-07-22T14:48:52.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d6f51effbe9",
+      "title": "SymfonyCon Warsaw 2026: 10 easy steps towards a more inclusive workplace",
+      "description": "We are thrilled to announce that SymfonyCon Warsaw 2026 will take place on November 26 and 27, 2026, in Warsaw (Poland)! Join us for an extraordinary worldwide conference with 3 parallel tracks and community events. 🎤 Speaker announcements We…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-10-easy-steps-towards-a-more-inclusive-workplace?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-07-22T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png",
+      "type": "blog"
+    },
+    {
+      "id": "972c929109a4",
+      "title": "Preventing SSRF in Laravel: Why Blocking Private IPs Fails",
+      "description": "I found there wasn't any good SSRF prevention libraries for Laravel, so I built one. Very comprehensive tests based on this paper: https://www.usenix.org/conference/usenixsecurity24/presentation/wessels https://github.com/securized/laravel-ssrf Read more",
+      "link": "https://freek.dev/3167-preventing-ssrf-in-laravel-why-blocking-private-ips-fails",
+      "pubDate": "2026-07-22T13:24:24.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8fcc3ddd2643",
+      "title": "New Study Identifies 53 Slopsquatting Targets Across 5 Frontier LLMs",
+      "description": "A new independent research preprint examining nearly 200,000 code-generation responses found that five frontier large language models continue to invent package names that do not exist on PyPI or npm. The models’ overall package-hallucination rates were much closer than those measured in earlier research, ranging from 4.62% to 6.10%. The study also identified package names generated by every model in the test group. The initial analysis found 127 names shared across Claude Sonnet 4.6, Claude…",
+      "link": "https://socket.dev/blog/slopsquatting-targets-across-frontier-llms?utm_medium=feed",
+      "pubDate": "2026-07-22T03:01:00.710Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ffcf72827694",
       "title": "5 LLM Quantization Techniques",
       "description": "...explained visually.",
@@ -13,6 +206,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!jdZa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82be21c1-7649-4d25-8e4b-b900dda507c0_1350x1200.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "56099682552d",
+      "title": "California Sea Lion",
+      "description": "California Sea Lion, in San Francisco County, US, CAWe took some visiting family to Pier 39 to see the sea lions. They're somehow always even fun than I remember them being last time. Tags: san-francisco, wildlife",
+      "link": "https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything",
+      "pubDate": "2026-07-21T19:51:03.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -56,6 +264,20 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1907cf82e367",
+      "title": "My AI Kept Pushing Me to Ship, So I Asked It Why",
+      "description": "I’ve been working on the Quality Playbook, my open source AI skill that uses quality engineering to find bugs that normal AI code review misses, and I recently had a batch of work that turned into a long run of point releases. I was using Claude Cowork as the orchestrator: planning scope, dispatching instructions to […]",
+      "link": "https://www.oreilly.com/radar/my-ai-kept-pushing-me-to-ship-so-i-asked-it-why/",
+      "pubDate": "2026-07-21T10:50:04.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
       ],
       "image": null,
       "type": "blog"
