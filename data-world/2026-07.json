@@ -2,6 +2,78 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "da202c933606",
+      "title": "The PHP Podcast 2026.07.23",
+      "description": "🎙️ PHP Podcast – July 23, 2026 Hosts: Joe Ferguson, Sara Golemon, and Holly Schilling Eric got ousted from his own show (no pants required), Holly’s elephants are lost somewhere in the U.S., and the crew talks SIMD, PHP 8.6 feature freeze, and whether AI can actually create. Also, socks. 🩳 A Show Without Pants: […] The post The PHP Podcast 2026.07.23 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-07-23/",
+      "pubDate": "2026-07-23T23:48:30.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/07/PHP-Podcast-Team-Joe-Sara-and-Holly-1920x1005-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5fd66fe78995",
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "description": "The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered. First, Hugging Face offers a truly rich target if you're trying to find potential vulnerabilities that require executing arbitrary code: Hugging Face has an enormous attack surface. They have more interfaces than I can count which run untrusted models and code. While they definitely have…",
+      "link": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+      "pubDate": "2026-07-23T22:53:08.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bb07de148fbf",
+      "title": "You Probably Won’t Read This Article…and That’s OK",
+      "description": "“Help! There are too many [LLM bug reports, blog posts about LLM bug reports, books, treatises, codices, scrolls, papyri, cuneiform tablets]! How do I choose which to read?” —Many people, presumably Stop there! If you are reading this, ask yourself how you got here. Did Substack’s algorithm recommend this article for you? Did a juicy […]",
+      "link": "https://www.oreilly.com/radar/you-probably-wont-read-this-articleand-thats-ok/",
+      "pubDate": "2026-07-23T19:06:35.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/21a9.png",
+      "type": "blog"
+    },
+    {
+      "id": "1a8ceeb46401",
+      "title": "The Meter Was Always Running",
+      "description": "The first expensive agent run doesn’t look like a governance problem. It looks like a billing problem. A team opens its first agent invoice after the meter turns on, sorts the runs by cost, and finds one that cost 40 times the median. The provider meter shows tokens and a total. The application logs say […]",
+      "link": "https://www.oreilly.com/radar/the-meter-was-always-running/",
+      "pubDate": "2026-07-23T15:02:22.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/07/image-11.png",
+      "type": "blog"
+    },
+    {
+      "id": "fbfcb9db892c",
+      "title": "5 Techniques to Optimize LLMs in Production",
+      "description": "...explained visually.",
+      "link": "https://blog.dailydoseofds.com/p/5-techniques-to-optimize-llms-in",
+      "pubDate": "2026-07-23T13:59:48.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!wKhw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ca8e408-0330-48ba-bda0-49fbead290a6_1700x1390.png",
+      "type": "blog"
+    },
+    {
       "id": "5721223bc9fd",
       "title": "Quoting Seth Larson",
       "description": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or workflows of PyPI projects were compromised. As far as we are aware this has not yet been abused, but there is no technical reason beyond that attackers weren't aware it was possible. &mdash; Seth Larson, PyPI blog Tags: packaging, python, supply-chain, pypi,…",

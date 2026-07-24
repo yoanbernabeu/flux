@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "af36626168c5",
+      "title": "Détecter les régressions visuelles dans la CI avec Playwright et Docker",
+      "description": "Sur un gros site public, le front bouge tout le temps : une migration Tailwind par-ci, un composant React par-là, un bloc CMS qui change de gabarit. Et comme toujours avec le CSS, la modification d’une classe qui semblait anodine peut très bien décaler un bloc trois pages plus loin, sans que personne ne s’en rende compte avant la mise en production. Sur un de nos projets, nous avions déjà des tests Behat pour le fonctionnel, et des tests PHPUnit pour le métier. Mais aucun de ces tests ne disait…",
+      "link": "https://jolicode.com/blog/detecter-les-regressions-visuelles-dans-la-ci-avec-playwright-et-docker",
+      "pubDate": "2026-07-23T07:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/ci-playwright/playwright-elements-masques.png",
+      "type": "blog"
+    },
+    {
       "id": "34bfb983aace",
       "title": "Google vient de lancer Gemini 3.6 Flash… Claude doit-il s’inquiéter ?",
       "description": "Google vient de dévoiler Gemini 3.6 Flash, Gemini 3.5 Flash-Lite et Gemini 3.5 Flash Cyber. Dans ce Short, je résume les nouveautés annoncées par Google : performances en programmation, vitesse de génération, consommation de tokens, tarifs de l’API et spécialisation de Gemini Flash Cyber dans la cybersécurité. Gemini 3.6 Flash pourrait-il devenir une alternative crédible à Claude, GPT ou Grok pour coder dans Cursor et construire des agents IA ? Avec un prix plus accessible et de meilleures…",
@@ -141,6 +156,22 @@
       "image": "https://i.ytimg.com/vi/rtAay2Th-AE/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "rtAay2Th-AE"
+    },
+    {
+      "id": "25d65682642d",
+      "title": "☕️ Java à l'ère de l'IA 🤖 - partie 1 : les bases",
+      "description": "I’m sorry, Dave. I’m afraid I can’t do that. ©HAL 9000",
+      "link": "https://philippart-s.github.io/blog/2026-07-21-java-and-ai-part1/",
+      "pubDate": "2026-07-21T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "b4bacbdbfb72",
