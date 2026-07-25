@@ -2,6 +2,153 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "8436b7099592",
+      "title": "A Card Counter Mindset",
+      "description": "Summertime and the living is easy…or so they say. July has us fully immersed in the summer season, which is proving to be a hot one for most. Making it the perfect time to find a cool spot in the shade (or air conditioning) and read the July issue. Let’s get started with a preview […] The post A Card Counter Mindset appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/magazine/2026/07/2026-07-a-card-counter-mindset/",
+      "pubDate": "2026-07-25T04:51:58.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/07/2026-07-cover_sm.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "25a79f33334f",
+      "title": "Quoting Boris Cherny",
+      "description": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is very hard to prompt inject successfully. &mdash; Boris Cherny, here's that System Card section, page 73 Tags: prompt-injection, anthropic, claude, generative-ai, ai, llms, boris-cherny",
+      "link": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+      "pubDate": "2026-07-25T00:42:59.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9ad129712140",
+      "title": "Introducing Claude Opus 5",
+      "description": "Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's description of it as a \"thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price\" sounds promising. It's currently leading the Artificial Analysis leaderboard, in front of even Fable 5. It's priced the same as Opus 4.8, and…",
+      "link": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+      "pubDate": "2026-07-24T23:48:50.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2f24d5f60568",
+      "title": "11 LLM Evaluation Methods",
+      "description": "Must-know for AI engineers (explained visually).",
+      "link": "https://blog.dailydoseofds.com/p/11-llm-evaluation-methods",
+      "pubDate": "2026-07-24T22:04:42.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!M5lI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85ad3122-1a70-4308-9e1d-53f7af1c7d7f_1500x1443.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "24732b70be9f",
+      "title": "Stranded in the Slow Zone",
+      "description": "Gene Kim was grilling dinner for his family on the evening of June 12 when his phone told him that Fable 5 was no longer available. He’d heard the day before from Steve Yegge that the model was going away in 10 days, and he’d spent that first day starting on a plan to get […]",
+      "link": "https://www.oreilly.com/radar/stranded-in-the-slow-zone/",
+      "pubDate": "2026-07-24T18:54:51.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/07/image-18-1600x1164.png",
+      "type": "blog"
+    },
+    {
+      "id": "71c17ae3f3ff",
+      "title": "The Economics of Agentic AI: Engineering for Imperfection",
+      "description": "The price of adoption euphoria You played entirely by the book. You procured the most capable enterprise models, mandated adoption across your teams, and put the right metrics in place. The promise was a predictable boost in efficiency. And at first, it delivered. The demos were flawless. The prototypes worked. The agents reasoned with a […]",
+      "link": "https://www.oreilly.com/radar/the-economics-of-agentic-ai-engineering-for-imperfection/",
+      "pubDate": "2026-07-24T16:00:31.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/07/image-13.png",
+      "type": "blog"
+    },
+    {
+      "id": "efb305858293",
+      "title": "Fake Corepack Site Distributes Infostealer and Proxyware to Developers",
+      "description": "A website at corepack[.]org is impersonating Corepack, the Node.js tool for managing package managers, and using that identity to push malware to developers who land on the page looking for a download. The site has existed in some form since early 2026 as a low-quality, apparently AI-generated imitation, but it recently started serving executable downloads. Socket's Threat Research team analyzed the site and confirmed it as a developer-targeted phishing and impersonation operation that drops an…",
+      "link": "https://socket.dev/blog/fake-corepack-site-distributes-infostealer-and-proxyware?utm_medium=feed",
+      "pubDate": "2026-07-24T14:55:18.074Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/bc23258412f8c31493bc8d91a494dfe8a0f27f98-3052x1715.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "33491c4cec85",
+      "title": "Setting up a remote environment for agentic coding on a VPS",
+      "description": "Mattias walks through moving an AI coding setup off a laptop and onto a private VPS. He covers Tailscale, tmux, a browser-based editor, and the small tweaks that make a remote setup practical from any device. Read more",
+      "link": "https://freek.dev/3169-setting-up-a-remote-environment-for-agentic-coding-on-a-vps",
+      "pubDate": "2026-07-24T14:00:27.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fde3de407bee",
+      "title": "There's no artisan schema:show, so I built one",
+      "description": "A live, zoomable ER diagram of your Laravel app's actual database schema, safe to run in production because it only ever reads structure, never rows. Read more",
+      "link": "https://freek.dev/3168-theres-no-artisan-schemashow-so-i-built-one",
+      "pubDate": "2026-07-24T12:40:27.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7adc0c342a8d",
+      "title": "SymfonyCon Warsaw 2026: Securing Your API: The OWASP API Top 10",
+      "description": "Mark your calendars! The global Symfony community is heading to Warsaw (Poland) on November 26-27, 2026, for SymfonyCon Warsaw 2026. 🎤 Speaker announcements Joining us in Warsaw is Rob Allen, Software Consultant at Nineteen Feet Limited. He will…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-securing-your-api-the-owasp-api-top-10?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-07-24T09:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png",
+      "type": "blog"
+    },
+    {
       "id": "da202c933606",
       "title": "The PHP Podcast 2026.07.23",
       "description": "🎙️ PHP Podcast – July 23, 2026 Hosts: Joe Ferguson, Sara Golemon, and Holly Schilling Eric got ousted from his own show (no pants required), Holly’s elephants are lost somewhere in the U.S., and the crew talks SIMD, PHP 8.6 feature freeze, and whether AI can actually create. Also, socks. 🩳 A Show Without Pants: […] The post The PHP Podcast 2026.07.23 appeared first on PHP Architect.",

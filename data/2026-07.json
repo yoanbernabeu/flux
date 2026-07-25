@@ -2,6 +2,41 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "10fa97cf3569",
+      "title": "Agentic Coding",
+      "description": "100% d'adoption des outils IA de code par les 600 ingénieurs de Doctolib. Mission accomplie ? Pas tout à fait 👀 Aujourd’hui, les organisations techniques doivent répondre aux problématiques liées à l’agentic coding et soigner l’expérience développeur, qui se trouve profondément transformée. En tant que Staff SRE et Senior Software Engineer dans l'équipe AI Scaling chez Doctolib, Yankı Sesyılmaz (Doctolib), Julien Tanay (Doctolib) racontent comment ils ont construit une plateforme IA ouverte…",
+      "link": "https://www.youtube.com/watch?v=OuR6_eZ9-lQ",
+      "pubDate": "2026-07-24T06:41:14.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/OuR6_eZ9-lQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "OuR6_eZ9-lQ"
+    },
+    {
+      "id": "3bf977e9381e",
+      "title": "OVHcloud Secret Manager + External Secrets Operator : gérer ses secrets Kubernetes",
+      "description": "Comment connecter External Secrets Operator (ESO) à l'OVHcloud Secret Manager pour synchroniser automatiquement vos secrets dans Kubernetes, avec un compte de service IAM en moindre privilège.",
+      "link": "https://une-tasse-de.cafe/expresso/ovh-secret-manager-eso/",
+      "pubDate": "2026-07-23T13:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "af36626168c5",
       "title": "Détecter les régressions visuelles dans la CI avec Playwright et Docker",
       "description": "Sur un gros site public, le front bouge tout le temps : une migration Tailwind par-ci, un composant React par-là, un bloc CMS qui change de gabarit. Et comme toujours avec le CSS, la modification d’une classe qui semblait anodine peut très bien décaler un bloc trois pages plus loin, sans que personne ne s’en rende compte avant la mise en production. Sur un de nos projets, nous avions déjà des tests Behat pour le fonctionnel, et des tests PHPUnit pour le métier. Mais aucun de ces tests ne disait…",
