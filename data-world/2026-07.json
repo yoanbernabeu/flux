@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "76441278750c",
+      "title": "Ruff v0.16.0",
+      "description": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my unpinned \"ruff\" dev dependency. From Brent Westbrook's announcement post: Ruff now enables 413 rules by default, up from 59 in previous versions. Since Ruff's default rule set was last modified in v0.1.0, the number of rules in Ruff has grown from 708 to 968. Many of these…",
+      "link": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+      "pubDate": "2026-07-25T22:44:05.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e79dc30c62db",
+      "title": "Building an order fulfilment workflow in Laravel",
+      "description": "Steve King builds a real order fulfilment flow to show how a workflow engine handles long-running processes in Laravel. The post covers steps, signals, retries, branching, human approval, compensation, and the surrounding tooling in one practical example. Read more",
+      "link": "https://freek.dev/3170-building-an-order-fulfilment-workflow-in-laravel",
+      "pubDate": "2026-07-25T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8436b7099592",
       "title": "A Card Counter Mindset",
       "description": "Summertime and the living is easy…or so they say. July has us fully immersed in the summer season, which is proving to be a hot one for most. Making it the perfect time to find a cool spot in the shade (or air conditioning) and read the July issue. Let’s get started with a preview […] The post A Card Counter Mindset appeared first on PHP Architect.",
