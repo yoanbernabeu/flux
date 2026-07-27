@@ -2,6 +2,50 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "2ca540797f84",
+      "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+      "description": "An Inside Look at the Relay Market Powering Token Resellers and Fraud Fascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by pooling API keys from various sources. This looks to be mostly a thing in China. Resellers sell access to an LLM proxy that offers significant discounts on regular API pricing, which they achieve by abusing free trials, proxying through unprotected support bots, or sometimes through stolen credit cards or…",
+      "link": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
+      "pubDate": "2026-07-26T19:30:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d1cd21036962",
+      "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
+      "description": "--> .abbel-fig { display: block; text-align: center; margin: 2.4em 0; line-height: 1.4; max-width: 100%; } .abbel-fig img { display: block; margin: 0.65em auto 0; height: auto; max-width: 100%; } /* Image sizes; captions use a narrower measure below */ .abbel-fig--wide img { width: 100%; max-width: 100%; } .abbel-fig--wide-90 img { width: 100%; max-width: 90%; } .abbel-fig--wide-lg img { width: 100%; max-width: 100%; } .abbel-fig--chart img { width: 100%; max-width: 82%; } .abbel-fig--chart-sm…",
+      "link": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "pubDate": "2026-07-26T09:00:00.000Z",
+      "source": "BAIR Blog",
+      "sourceUrl": "https://bair.berkeley.edu/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://bair.berkeley.edu/static/blog/abbel/ABBEL main figure.png",
+      "type": "blog"
+    },
+    {
+      "id": "ab487558ca9e",
+      "title": "A Week of Symfony #1021 (July 20–26, 2026)",
+      "description": "This week, Symfony development activity was very intense and focused mostly on bug fixes. In addition, we added support for the upcoming Twig 4.0 version and fixed some issues related to changes in the upcoming PHP 8.6 version. Lastly, we published the first…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1021-july-20-26-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-07-26T07:50:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "76441278750c",
       "title": "Ruff v0.16.0",
       "description": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my unpinned \"ruff\" dev dependency. From Brent Westbrook's announcement post: Ruff now enables 413 rules by default, up from 59 in previous versions. Since Ruff's default rule set was last modified in v0.1.0, the number of rules in Ruff has grown from 708 to 968. Many of these…",
