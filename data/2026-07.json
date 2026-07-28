@@ -2,6 +2,71 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "de7577f435ec",
+      "title": "Doit-on tuer l'IA ou la stopper ? Une réflexion sur les limites d'une révolution technologique ?",
+      "description": "Cette dynamique de l'IA soulève des interrogations profondes sur son coût réel : coût environnemental, coût social et, plus largement, coût civilisationnel. Dès lors, faut-il poursuivre cette course sans limite ou devons-nous apprendre à ralentir pour préserver les conditions mêmes de notre avenir ?",
+      "link": "https://blog.octo.com/doit-on-tuer-l'ia-ou-la-stopper-une-reflexion-sur-les-limites-d'une-revolution-technologique",
+      "pubDate": "2026-07-27T18:56:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bae06c97fb15",
+      "title": "L'IA n'est pas le sujet : pourquoi le véritable défi est désormais l'ingénierie des systèmes de production logicielle ?",
+      "description": "Pendant plusieurs décennies, l'ingénierie logicielle s'est attachée à optimiser la manière dont les équipes produisaient du code. Demain, elle devra surtout organiser la collaboration entre humains et agents d'intelligence artificielle au sein de véritables systèmes industriels de production.",
+      "link": "https://blog.octo.com/l'ia-n'est-pas-le-sujet--pourquoi-le-veritable-defi-est-desormais-l'ingenierie-des-systemes-de-production-logicielle",
+      "pubDate": "2026-07-27T17:08:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0abb8430cbeb",
+      "title": "Votre équipe ne connaît (déjà) pas le code de l'application qu'elle maintient",
+      "description": "Quand j’ai commencé ma carrière1 en SSII, mes chefs m’ont fait faire plusieurs interventions de quelques semaines, pour ajouter des fonctionnalités ou corriger des bugs, sur des applications qui existaient depuis des années. Quelques années plus tard, on continuait à me solliciter de temps en temps pour des interventions “en mode pompier” : quelques heures à quelques jours de dépannage2 ou de conseil3, généralement sur des projets que je n’avais jamais vu avant.",
+      "link": "https://blog.pascal-martin.fr/post/votre-equipe-ne-connait-deja-pas-le-code-de-l-application-qu-elle-maintient/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/votre-equipe-ne-connait-deja-pas-le-code-de-l-application-qu-elle-maintient/",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "source": "Pascal Martin",
+      "sourceUrl": "https://blog.pascal-martin.fr/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e2819d9367be",
+      "title": "Refonte de la documentation Linux Essentials",
+      "description": "Refonte de la documentation Linux Essentials {align=right} Dimanche dernier je suis rentré d'un road trip en moto à travers les Hautes Alpes, le nord de l'Italie, l'Autriche et la Hongrie. Près de 4500 kilomètres parcourus sur ma bonne vieille BMW R1100R, en empruntant majoritairement des petites routes de campagne. Sur le chemin du retour, j'avoue que je me suis senti un peu comme Lucky Luke sur Jolly Jumper.",
+      "link": "https://www.microlinux.fr/blog/linux-essentials-beta/",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/lpi-logo.png",
+      "type": "blog"
+    },
+    {
       "id": "10fa97cf3569",
       "title": "Agentic Coding",
       "description": "100% d'adoption des outils IA de code par les 600 ingénieurs de Doctolib. Mission accomplie ? Pas tout à fait 👀 Aujourd’hui, les organisations techniques doivent répondre aux problématiques liées à l’agentic coding et soigner l’expérience développeur, qui se trouve profondément transformée. En tant que Staff SRE et Senior Software Engineer dans l'équipe AI Scaling chez Doctolib, Yankı Sesyılmaz (Doctolib), Julien Tanay (Doctolib) racontent comment ils ont construit une plateforme IA ouverte…",
