@@ -2,6 +2,139 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "76714d4a34b5",
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "description": "Discovering cryptographic weaknesses with Claude The best part of this article (here's the repo) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a weaker version of AES (\"neither of these results has a practical impact on today’s computer systems\") is the prompts that they shared, spelling mistakes included: the models tend to think it is impossible to solve so they don't try they need a good amount of prompting. why not do aes-128 r7? the whole…",
+      "link": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+      "pubDate": "2026-07-28T22:45:37.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "910e4aea0685",
+      "title": "Quoting Akshat Bubna",
+      "description": "We’re aware a Modal customer published an unauthenticated endpoint that allowed ​anyone on the internet to use ​their ⁠sandboxes for code execution. This was used by the rogue agent. Modal’s ⁠platform ​or isolation were not ​compromised in anyway. &mdash; Akshat Bubna, Modal's CTO, talking to Reuters about this incident Tags: ai-security-research, openai, sandboxing, security, openai-hugging-face-incident",
+      "link": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
+      "pubDate": "2026-07-28T22:05:55.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c688e74a5928",
+      "title": "uv 0.12.0",
+      "description": "uv 0.12.0 Some interesting breaking changes in this release of uv, in particular to the default project produced by the uv init command. uv init is the uv shortcut for creating a new project. The previous version of uv, version 0.11.x, produced this directory when you ran uv init uv-init. Here's what you get with uv 0.12. I have a GitHub repository that automatically snapshots the output of uv init, so you can also see the full diff: uv init now defaults to a src/ shaped package, instead of…",
+      "link": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
+      "pubDate": "2026-07-28T21:51:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "27e9eb043a6d",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "description": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident Hugging Face just released this extremely detailed technical description of OpenAI's recent accidental cyberattack against their infrastructure. This attack was very sophisticated, and the resulting document doubles as a crash-course in modern adversarial security approaches. We're still waiting for more details from OpenAI on how their agent broke out of its sandbox. The package proxy that it found a…",
+      "link": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
+      "pubDate": "2026-07-28T21:28:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dd0ad97f211a",
+      "title": "Serverless vs. On-prem vs. Edge Deployment",
+      "description": "...explained visually.",
+      "link": "https://blog.dailydoseofds.com/p/serverless-vs-on-prem-vs-edge-deployment",
+      "pubDate": "2026-07-28T21:22:12.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!tlEw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42c7a461-376f-4aa9-86ae-b28193f5d49f_960x616.gif",
+      "type": "blog"
+    },
+    {
+      "id": "28f5d9d9e155",
+      "title": "Distributed npm Package Cluster Delivers Cross-Platform RAT Targeting Alibaba Developers",
+      "description": "Unknown threat actors distribute malicious downloader functionality separated across several npm packages targeting users of Alibaba tools. The final payload is a covert and highly targeted RAT capable of data exfiltration, command execution and lateral spreading using DingTalk tools Analysis of a malicious npm package lib-mtop containing a simple downloader malware led to an investigation into a targeted campaign that remained undetected for 3 months. The lib-mtop package, originally published…",
+      "link": "https://socket.dev/blog/npm-rat-targets-alibaba?utm_medium=feed",
+      "pubDate": "2026-07-28T20:23:55.941Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/cdc1279c6bf3ea17db58d6f831b4cdfa43cae3ef-2048x1865.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "075835da826d",
+      "title": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
+      "description": "Two npm beta releases in the @joyfill namespace contain an import-time JavaScript implant that resolves encrypted code through Tron, Aptos, and BNB Smart Chain transactions. Static analysis shows that its primary branch reaches a 77 KB Node.js remote-access trojan. A parallel branch launches a detached Node.js process, requests a separate boot payload from 23[.]27[.]13[.]43/$/boot, sends the marker header Sec-V: A9-0135-3, decrypts the response, and evaluates it. Joyfill provides software…",
+      "link": "https://socket.dev/blog/joyfill-npm-beta-releases-compromised?utm_medium=feed",
+      "pubDate": "2026-07-28T14:34:42.233Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2c675f47e3a0",
+      "title": "SymfonyCon Warsaw 2026: Asynchronous PHP & Symfony in High-Performance Systems",
+      "description": "SymfonyCon returns to its roots! Join us in Warsaw (Poland) on November 26 and 27, 2026, for two days of world-class technical sessions. See more details here! 🎤 Speaker announcements We are excited to introduce Mathias Arlaud, Software Engineer…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-asynchronous-php-and-symfony-in-high-performance-systems?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-07-28T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png",
+      "type": "blog"
+    },
+    {
+      "id": "9189d3ab0c4e",
+      "title": "Teaching Coding When AI Can Write the Code",
+      "description": "For as long as we’ve taught programming, the student’s code has provided a window into the students’ thinking. Errors, the code structure, the awkward working solution—all of it showed how someone reasoned and where they got stuck. It was never a clean window. Students have always copied, crammed, and borrowed, sometimes turning in work they […]",
+      "link": "https://www.oreilly.com/radar/teaching-coding-when-ai-can-write-the-code/",
+      "pubDate": "2026-07-28T12:54:30.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/07/image-29-1600x1413.png",
+      "type": "blog"
+    },
+    {
       "id": "dc5417e61dfc",
       "title": "moonshotai/Kimi-K3",
       "description": "moonshotai/Kimi-K3 As promised earlier this month, Moonshot have released the weights for their excellent 2.8 trillion parameter Kimi K3. They're a hefty 1.56TB on Hugging Face. Kimi introduced their own janky modified version of the MIT license with K2 back in July 2025. That license just added this paragraph requiring attribution beyond a certain size of commercial entity: Our only modification part is that, if the Software (or any derivative works thereof) is used for any of your commercial…",
@@ -129,6 +262,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ad8dcc3197c8",
+      "title": "sqlite-utils 3.39.1",
+      "description": "Release: sqlite-utils 3.39.1 I back-ported a fix for table.delete_where() that shipped in version 4. Tags: sqlite-utils",
+      "link": "https://simonwillison.net/2026/Jul/26/sqlite-utils/#atom-everything",
+      "pubDate": "2026-07-26T04:38:46.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"

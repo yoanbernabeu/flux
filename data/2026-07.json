@@ -2,6 +2,89 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "736bd57fcfc4",
+      "title": "#367.bin - Intelligence(s): Emotionelle: Dans la tête de vice-versa avec Moïra Mikolajczak",
+      "description": "\"Si on ne sait pas ressentir de la colère, on ne sait pas mettre ses limites. Si on ne sait pas ressentir de la peur, on ne sait pas se protéger\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs,…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-367-5eb0e4596d15",
+      "pubDate": "2026-07-29T03:00:28.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/a24045b5-d492-4526-a2f4-02579799775b.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/241a1620-1279-4b1f-b695-5eb0e4596d15.mp3?_=1785250048",
+      "duration": "01:00:58"
+    },
+    {
+      "id": "83482785c664",
+      "title": "C'est quoi le Q-day?",
+      "description": "L'objectif de cet article est de vulgariser les connaissances autour du Q-day, car derrière ce titre se cachent des concepts de mécanique quantique et de cybersécurité avancés. Avançons ensemble dans ce parcours afin qu’au terme de la lecture, vous disposiez des éléments nécessaires pour prendre de meilleures décisions dans votre système d'informat",
+      "link": "https://blog.octo.com/c'est-quoi-le-q-day",
+      "pubDate": "2026-07-28T13:35:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d133d92f6e1f",
+      "title": "Pourquoi je parle peu d'IA ?",
+      "description": "🔗 Article : https://grafikart.fr/blog/pourquoi-peu-ia Aujourd'hui, je voulais revenir sur ma ligne éditoriale et vous expliquer pourquoi je ne parle pas tant que ça d'IA générative sur la chaîne. Je précise tout de suite que le sujet n'est pas de savoir si l'IA est utile ou non pour les développeurs. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord :…",
+      "link": "https://www.youtube.com/watch?v=mPQVU-SSfaA",
+      "pubDate": "2026-07-28T13:00:38.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/mPQVU-SSfaA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "mPQVU-SSfaA"
+    },
+    {
+      "id": "66dcf01953c3",
+      "title": "Sommes-nous seulement entrés dans l'ère de la gouvernance de l'IA ?",
+      "description": "une question mérite d'être posée avant même de réfléchir aux modèles de gouvernance : sommes-nous réellement entrés dans l'ère de la gouvernance de l'IA ?",
+      "link": "https://blog.octo.com/sommes-nous-seulement-entres-dans-l'ere-de-la-gouvernance-de-l'ia",
+      "pubDate": "2026-07-28T07:03:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4d3e6851015a",
+      "title": "Mon usine logicielle à l'heure de l'IA",
+      "description": "Comment j'encadre du code écrit à 100% par des agents IA : contexte, skills, hooks, tests d'architecture et quality gates. Le détail de mon usine logicielle.",
+      "link": "https://eventuallycoding.com/p/mon-usine-logicielle-a-l-heure-de-l-ia",
+      "pubDate": "2026-07-28T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "de7577f435ec",
       "title": "Doit-on tuer l'IA ou la stopper ? Une réflexion sur les limites d'une révolution technologique ?",
       "description": "Cette dynamique de l'IA soulève des interrogations profondes sur son coût réel : coût environnemental, coût social et, plus largement, coût civilisationnel. Dès lors, faut-il poursuivre cette course sans limite ou devons-nous apprendre à ralentir pour préserver les conditions mêmes de notre avenir ?",
