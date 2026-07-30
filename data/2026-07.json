@@ -2,6 +2,106 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "03ef8d3b6459",
+      "title": "MCP devient enfin prêt pour la production",
+      "description": "MCP vient de franchir une étape majeure avec la spécification 2026-07-28. Je vous explique pourquoi le passage à une architecture stateless simplifie le déploiement des serveurs MCP et les rend beaucoup plus adaptés au serverless, à l’edge computing et aux infrastructures distribuées. Cette évolution améliore également le load balancing, la mise en cache HTTP, le routage des requêtes et la sécurité OAuth. MCP Apps et MCP Tasks deviennent aussi des extensions officielles pour créer des…",
+      "link": "https://www.youtube.com/watch?v=sCn835du_o0",
+      "pubDate": "2026-07-29T15:15:06.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/sCn835du_o0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "sCn835du_o0"
+    },
+    {
+      "id": "ed9d1ce8ef9e",
+      "title": "Le vibe coding ringardise t-il le no-code ?",
+      "description": "Le vibe coding pourrait remplacer les outils no-code pour les citizen developers grâce à l'accessibilité des IA génératives, qui permettent à des non-informaticiens de créer des applications plus facilement. C'est une perspective largement évoquée dans les milieux de l'informatique.",
+      "link": "https://blog.octo.com/le-vibe-coding-ringardise-t-il-le-no-code",
+      "pubDate": "2026-07-29T14:59:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5868446809c3",
+      "title": "Writing the PHP Virtual Machine in Rust (with a lot of help from AI)",
+      "description": "A few years ago, if someone had told me to rewrite the PHP engine in Rust, I would probably have laughed 😆. Not because it is technically impossible, but because such a project traditionally requires years of reading C code, reverse engineering decades of optimizations, and an intimidating amount of perseverance. Today, Large Language Models have changed how we approach ambitious engineering projects. They do not magically produce production-ready software, but they dramatically reduce the…",
+      "link": "https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai",
+      "pubDate": "2026-07-29T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/php-vm-rust/Stack-VM-VS-Register-VM.png",
+      "type": "blog"
+    },
+    {
+      "id": "ea9e2fd65721",
+      "title": "Faut-il encore savoir coder pour vibe coder ? - Nicolas Grenié",
+      "description": "Nicolas Grenié, Developer Advocate chez SLNG.ai, passé par Typeform, alias \"Monsieur BuildShit\", raconte au Studio Devoxx France comment le vibe coding a changé sa façon de construire des logiciels. Dans cette conversation, il l'assume : \"quand je vibe code, je regarde le code ? Presque jamais\". Prototypes lancés depuis la maternité, générateur d'icônes à 15 000 utilisateurs, faille de sécurité corrigée en une soirée. Et quand un exec veut shipper le proto en prod le lendemain, qui tranche ? Au…",
+      "link": "https://www.youtube.com/watch?v=joOgIwRivIA",
+      "pubDate": "2026-07-29T11:47:20.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/joOgIwRivIA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "joOgIwRivIA"
+    },
+    {
+      "id": "d35639b81ab8",
+      "title": "💣 Refactorer ce code peut tout casser...",
+      "description": "Legacy code = zone interdite ? 😨 Découvrez pourquoi les développeurs hésitent à refactorer du vieux code… et comment dépasser cette peur pour construire un meilleur logiciel.\" #Programming #SoftwareEngineering #CleanCode #Refactoring #LegacyCode #DeveloperLife #CodingTips",
+      "link": "https://www.youtube.com/watch?v=OIvUuASjvCI",
+      "pubDate": "2026-07-29T09:22:37.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/OIvUuASjvCI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "OIvUuASjvCI"
+    },
+    {
+      "id": "3c81801b0d92",
+      "title": "REX: DevLille 2026",
+      "description": "DevLille 2026 : Comment l'IA et le pragmatisme bousculent l'ingénierie logicielle Oubliez le vibe coding, les réunions non inclusives et les architectures réseau surdimensionnées. Cette semaine, notre équipe a posé ses valises au DevLille 2026. À l&",
+      "link": "https://blog.ippon.fr/2026/07/29/rex-devlille-2026/",
+      "pubDate": "2026-07-29T07:23:32.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/07/Capture-d---e--cran-2026-07-27-a---10.35.47.png",
+      "type": "blog"
+    },
+    {
       "id": "736bd57fcfc4",
       "title": "#367.bin - Intelligence(s): Emotionelle: Dans la tête de vice-versa avec Moïra Mikolajczak",
       "description": "\"Si on ne sait pas ressentir de la colère, on ne sait pas mettre ses limites. Si on ne sait pas ressentir de la peur, on ne sait pas se protéger\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs,…",
@@ -18,6 +118,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/241a1620-1279-4b1f-b695-5eb0e4596d15.mp3?_=1785250048",
       "duration": "01:00:58"
+    },
+    {
+      "id": "e807518d2d03",
+      "title": "Ce n'est pas le titre qui définit le poste, c'est ce qu'on en fait",
+      "description": "Il y a quelque temps, je faisais passer des entretiens pour un poste. J’ai pu rencontrer de nombreux profils: développeur, “lead dev” ou “architecte” et derrière ces titres des réalités bien différentes (même à titre équivalent). Certains pouvaient passer leurs journées à écrire du code, d’autres ne pouvaient faire que des revues. Parfois, ils ne codaient pas du tout et ils devaient gérer des plannings. Les intitulés de postes sont souvent équivalent, mais les métiers exercés n’ont parfois rien…",
+      "link": "https://www.jdecool.fr/blog/2026/07/29/ce-n-est-pas-le-titre-qui-definit-le-poste-c-est-ce-qu-on-en-fait.html",
+      "pubDate": "2026-07-28T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "83482785c664",
@@ -352,6 +467,21 @@
         "Programmation",
         "DevOps",
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "07c94ed0d8b7",
+      "title": "HELLO CATI : la nouvelle plateforme des Centres Automatisés du Traitement de l’Information de l'INRAE",
+      "description": "Plus de 18 collec­tifs d’in­for­ma­ti­ciens regrou­pés dans des CATI (Centres Auto­ma­ti­sés du Trai­te­ment de l’In­for­ma­tion) accom­pagnent les commu­nau­tés scien­ti­fiques d’IN­RAE.",
+      "link": "https://makina-corpus.com/application-web-mobile/hello-cati-la-nouvelle-plateforme-des-centres-automatises-du-traitement-de",
+      "pubDate": "2026-07-20T14:02:47.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
