@@ -2,6 +2,168 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "7bc027728ff8",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "description": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6 Sol to optimize load balancing, and more impressively to optimize inference itself: We also used GPT‑5.6 Sol to optimize the model’s forward pass: the computation that transforms inputs into…",
+      "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+      "pubDate": "2026-07-30T23:58:42.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7c4f61301b37",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "description": "Investigating three real-world incidents in our cybersecurity evaluations It happened again! This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging Face when one of their frontier models broke out of a sandboxed container and hacked into Hugging Face to try and get the solutions to the cyber benchmark it was executing. This inspired Anthropic to double-check their own logs, and it turned out they had three similar (albeit less impressive) incidents, the…",
+      "link": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
+      "pubDate": "2026-07-30T23:41:29.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "95fbb1d4765d",
+      "title": "The PHP Podcast 2026.07.30",
+      "description": "🎙️ The PHP Podcast – July 30, 2026 Hosts: Joe Ferguson, Sara Golemon & Holly Schilling Time travel is real, birds aren’t. The gang argues about Fahrenheit vs. Celsius, boiling rocks, and stones (the weight kind), then gets into PSR-3 logging, the PHP ecosystem, AI slop bug reports, Codeberg’s anti-AI stance, and Laravel Cloud’s scale-to-zero […] The post The PHP Podcast 2026.07.30 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-07-30/",
+      "pubDate": "2026-07-30T23:33:27.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f399.png",
+      "type": "blog"
+    },
+    {
+      "id": "31c91c487dcc",
+      "title": "llm 0.32rc2",
+      "description": "Release: llm 0.32rc2 Hot on the heels of RC1, this fixes a dependency issue and also adds two neat new features: The default model for users who have not set their own default is now GPT-5.6 Luna. It was previously GPT-4o mini. Luna is a much better and more recent model, albeit slightly more expensive - $0.20 per million input tokens and $1.20 per million output tokens, compared to $0.15/$0.60 for 4o mini. You can switch back to 4o mini using llm models default gpt-4o-mini, or switch to GPT-5…",
+      "link": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+      "pubDate": "2026-07-30T22:52:06.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6168974561fc",
+      "title": "Why 86% of Claude Code Bill Has Nothing to Do With Your Prompts",
+      "description": "...and a solution to fix Claude bills.",
+      "link": "https://blog.dailydoseofds.com/p/why-86-of-claude-code-bill-has-nothing",
+      "pubDate": "2026-07-30T22:46:30.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!hhq-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7a89455-aa40-4857-898e-8281ab388e61_1456x882.png",
+      "type": "blog"
+    },
+    {
+      "id": "fb86d646fd47",
+      "title": "Promising Signals on AI Governance from China",
+      "description": "View the official memo here. China has consistently signaled a willingness to engage on global AI governance since at least 2017. This memo compiles key statements from the Chinese government and prominent figures demonstrating their desire to coordinate on the problem of AI. At the 2026 World AI Forum, Chinese President Xi Jinping warned that […] The post Promising Signals on AI Governance from China appeared first on Machine Intelligence Research Institute.",
+      "link": "https://intelligence.org/2026/07/30/promising-signals-on-ai-governance-from-china/",
+      "pubDate": "2026-07-30T20:44:49.000Z",
+      "source": "MIRI Blog",
+      "sourceUrl": "https://intelligence.org/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4aec8be12cee",
+      "title": "Quoting Bruce Schneier",
+      "description": "The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy memos. I assign them because the very act of writing, which includes thinking and outlining and drafting and editing, making and criticizing and revising arguments, will help develop the critical thinking skills they will need in their future careers. And without this constant mental exercise, those skills will atrophy. Employers are already…",
+      "link": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
+      "pubDate": "2026-07-30T18:25:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c8cdfd360cc4",
+      "title": "llm-chat-completions-server 0.1a0",
+      "description": "Release: llm-chat-completions-server 0.1a0 A key goal of the new content-addressable logs in LLM 0.32rc1 was being able to support OpenAI Chat Completion style requests where each incoming message extends the previous conversation, like this: curl http://localhost:8002/v1/chat/completions \\ -H 'Content-Type: application/json' \\ -d '{ \"model\": \"qwen3.5-4b\", \"messages\": [ {\"role\": \"user\", \"content\": \"Capital of France?\"}, {\"role\": \"assistant\", \"content\": \"Paris.\"}, {\"role\": \"user\", \"content\":…",
+      "link": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
+      "pubDate": "2026-07-30T15:43:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1ada26250cb6",
+      "title": "llm 0.32rc1",
+      "description": "Release: llm 0.32rc1 This RC for LLM 0.32 finishes the work that started in LLM 0.32a0 - it adds a new schema design that does a much better job of capturing the details of the prompts and responses returned by the latest model families. The most important change is the use of content-addressable hash IDs for stored messages. This allows de-duplication in the database, and means that LLM can now represent trees of messages for forked conversations. Since it involves a significant schema change…",
+      "link": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything",
+      "pubDate": "2026-07-30T15:30:20.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "600140d1a897",
+      "title": "The Problem Is Prompt Debt",
+      "description": "The following article was originally published on Drew Breunig’s blog and is being republished here with the author’s permission. Thanks to natural language interfaces, AI applications can be prototyped quickly. You write what you want in English, hand it to a frontier model, and a working prototype appears in an afternoon. This is extraordinarily powerful […]",
+      "link": "https://www.oreilly.com/radar/the-problem-is-prompt-debt/",
+      "pubDate": "2026-07-30T11:05:15.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/07/image-38-1600x898.png",
+      "type": "blog"
+    },
+    {
+      "id": "9274216b6820",
+      "title": "Symfony 8.0 reaches its end of maintenance",
+      "description": "Symfony 8.0.16 was released on July 29, 2026. It is the last release of the 8.0 branch. Symfony's release policy gives standard versions eight months of support, with bug fixes and security fixes ending at the same time. Symfony 8.0.0 was published on November…",
+      "link": "https://symfony.com/blog/symfony-8-0-reaches-its-end-of-maintenance?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-07-30T10:21:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "999b7f8559bb",
       "title": "Symfony 8.1.3 released",
       "description": "Symfony 8.1.3 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",

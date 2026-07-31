@@ -2,6 +2,73 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "ba135ce61e3b",
+      "title": "MACI #162 - Java et IA à Riviera DEV - Avec Antoine Sabot-Durand, Emmanuel Bernard et Yann Blazart",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, enregistré à Riviera Dev, on part de Java, de l’IA et des spécifications pour poser une question très concrète : que reste-t-il du métier de développeur quand les LLM peuvent générer beaucoup de code, mais que la robustesse dépend toujours des tests, des standards et de la responsabilité humaine ? Avec Antoine Sabot-Durand, Emmanuel Bernard et Yann Blazart, la discussion traverse l’écosystème Java, de CDI, Jakarta EE et MicroProfile à…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-162-java-et-ia-a-riviera-dev-avec-antoine-sabot-durand-emmanuel-bernard-et-yann-blazart",
+      "pubDate": "2026-07-31T05:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/59cEferIx1gtjE1qgiFhSo3HZM6LSDbW8QpADOdw_1400x1400.jpeg?t=1784886588",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/ypz8MhAQm6PD.mp3?t=1784886603",
+      "duration": "1:24:28"
+    },
+    {
+      "id": "f2699292f3e8",
+      "title": "Pint peut ENFIN formater vos fichiers Blade",
+      "description": "Level up ton game Laravel sur https://laraveljutsu.com/ ! Pint 1.30.0 sait maintenant formater vos fichiers Blade 👀 Alpine, Livewire, Flux, tri des classes Tailwind... tout passe par Prettier avec le flag --blade. J'ai fait une petite vidéo pour montrer ça en pratique + un article détaillé 🔗 https://laraveljutsu.com/news/laravel-pint-sait-desormais-formater-les-templates-blade",
+      "link": "https://www.youtube.com/watch?v=PDzyHDSIdOo",
+      "pubDate": "2026-07-30T20:32:42.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/PDzyHDSIdOo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "PDzyHDSIdOo"
+    },
+    {
+      "id": "6da7dc5c1768",
+      "title": "Ces 4 plugins rendent Claude Code beaucoup moins gourmand",
+      "description": "Claude Code peut rapidement consommer énormément de tokens, notamment lorsqu’il explore une grosse codebase, lit des sorties très longues ou génère beaucoup plus de code que nécessaire. Dans cette vidéo, je vous présente 4 outils open source pour réduire le gaspillage de tokens avec Claude Code : 🔹 Graphify : transforme votre projet en graphe de connaissances afin d’aider Claude Code à mieux comprendre les fichiers, les dépendances et l’architecture de votre application. 🔹 CodeBurn : analyse…",
+      "link": "https://www.youtube.com/watch?v=f7klW3f_NEU",
+      "pubDate": "2026-07-30T12:00:38.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/f7klW3f_NEU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "f7klW3f_NEU"
+    },
+    {
+      "id": "ba3d675a0f4a",
+      "title": "Claude Code ou Codex ? Vous n'avez pas le bon débat",
+      "description": "Trois agents différents, trois modèles différents, un même harnais : des résultats quasi identiques. Pendant que tout le monde débat du meilleur agent de code, la compétence qui compte vraiment se construit ailleurs. Et elle survivra à vos outils.",
+      "link": "https://yoandev.co/le-mauvais-debat",
+      "pubDate": "2026-07-30T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/le-mauvais-debat.webp",
+      "type": "blog"
+    },
+    {
       "id": "03ef8d3b6459",
       "title": "MCP devient enfin prêt pour la production",
       "description": "MCP vient de franchir une étape majeure avec la spécification 2026-07-28. Je vous explique pourquoi le passage à une architecture stateless simplifie le déploiement des serveurs MCP et les rend beaucoup plus adaptés au serverless, à l’edge computing et aux infrastructures distribuées. Cette évolution améliore également le load balancing, la mise en cache HTTP, le routage des requêtes et la sécurité OAuth. MCP Apps et MCP Tasks deviennent aussi des extensions officielles pour créer des…",
