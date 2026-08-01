@@ -441,6 +441,22 @@
       "duration": "11:08"
     },
     {
+      "id": "b097e22535f9",
+      "title": "Breizhcamp 2026",
+      "description": "Ce début d’été, j’étais en marathon de conférences. DevLille, Tech’Work à Lyon, Breizhcamp à Rennes, et Riviera Dev à Sophia Antipolis. Je vous raconte tout ça : ce que j’ai vu, ce que j’ai apprécié.",
+      "link": "https://codeka.io/2026/06/26/breizhcamp-2026/",
+      "pubDate": "2026-06-26T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/06/26/breizhcamp-2026/cover_hu_a09afe846677dce.webp",
+      "type": "blog"
+    },
+    {
       "id": "e0ab0ac2fd9f",
       "title": "Faut-il vraiment découper son IA en agents spécialisés ?",
       "description": "Tiffany Souterre, Olivier Leplus et Arnaud Jean, developer advocates chez AWS, démontent pour le Studio Devoxx France l'architecture derrière leur workshop : un Maître du Jeu de Donjons & Dragons qui orchestre plusieurs agents IA, avec MCP, A2A et RAG. Ils racontent comment un orchestrateur distribue le travail à des agents spécialisés, et pourquoi le vrai enjeu n'est pas l'agent qui impressionne en démo mais le système qu'on déploie en prod notamment via l'observabilité. Au programme : •…",
@@ -881,6 +897,22 @@
         "Cloud"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "169293238407",
+      "title": "Tech Work Lyon",
+      "description": "Ce début d’été, j’étais en marathon de conférences. DevLille, Tech’Work à Lyon, Breizhcamp à Rennes, et Riviera Dev à Sophia Antipolis. Je vous raconte tout ça : ce que j’ai vu, ce que j’ai apprécié. Ce deuxième article est consacré au Tech Work, qui a eu lieu le 18 juin 2026.",
+      "link": "https://codeka.io/2026/06/18/tech-work-lyon/",
+      "pubDate": "2026-06-18T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/06/18/tech-work-lyon/cover_hu_5fdd02ea51e1871f.webp",
       "type": "blog"
     },
     {
@@ -1380,6 +1412,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/311ca887-218b-47c9-a68b-d17e66dbd229.mp3?_=1781179284",
       "duration": "13:21"
+    },
+    {
+      "id": "31cf01c16e76",
+      "title": "DevLille 2026",
+      "description": "Ce début d’été, j’étais en marathon de conférences. DevLille, Tech’Work à Lyon, Breizhcamp à Rennes, et Riviera Dev à Sophia Antipolis. Je vous raconte tout ça : ce que j’ai vu, ce que j’ai apprécié. Ce premier article est consacré au DevLille, qui a eu lieu les 11 et 12 juin 2026.",
+      "link": "https://codeka.io/2026/06/12/devlille-2026/",
+      "pubDate": "2026-06-12T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/06/12/devlille-2026/cover_hu_f581ef2250164954.webp",
+      "type": "blog"
     },
     {
       "id": "62aaa3fd0cea",

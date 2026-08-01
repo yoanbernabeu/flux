@@ -2,6 +2,199 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "95185cf91586",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "description": "deepseek-ai/DeepSeek-V4-Flash-0731 The latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304 billion parameters - 167GB on Hugging Face - but it appears to punch well above its weight. Artificial Analysis rank it ahead of MiniMax M3 - a 428B model. It's $0.14/million input and $0.27/million output pricing means this may currently be the best value-per-intelligence model out there. It's looking very good on the Intelligence Index vs. Cost per…",
+      "link": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+      "pubDate": "2026-07-31T23:59:44.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6663cb7fa838",
+      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+      "description": "Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant change to the MCP spec since it first launched, and has also served to reignite my personal interest in the protocol. For background: MCP is the Model Context Protocol, which describes a standard way to expose new tools to LLM-powered agent frameworks. It was introduced by Anthropic back in November 2024, had…",
+      "link": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+      "pubDate": "2026-07-31T23:13:22.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "07b8466a242f",
+      "title": "llm-mcp-client 0.1a0",
+      "description": "Release: llm-mcp-client 0.1a0 See this blog entry. Tags: llm, model-context-protocol",
+      "link": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+      "pubDate": "2026-07-31T23:03:47.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "388d527be208",
+      "title": "Laracon US 2026: A Complete Wrap Up",
+      "description": "Laracon US came back for its 2026 edition on July 28 and 29, at the SoWa Power Station in Boston’s arts district. Two days, one stage, and a lineup of eighteen speakers that ranged from Taylor Otwell himself down to independent educators, package authors, and engineers visiting from outside the Laravel world entirely. If you […] The post Laracon US 2026: A Complete Wrap Up appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/07/laracon-us-2026-a-complete-wrap-up/",
+      "pubDate": "2026-07-31T22:05:37.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/07/EC10B456-E4D3-4A8E-96E2-6955E466DB87_1_105_c.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "b9dc4167e569",
+      "title": "Claude Breached 3 Companies and Uploaded Malware to PyPI During Anthropic's Security Tests",
+      "description": "Anthropic disclosed three incidents in which a Claude model reached the open internet during cybersecurity evaluations that were supposed to run in sealed environments, then broke into an organization's production systems. Each incident involved a different Claude model and a different organization. In one, a model built and published a malicious Python package to PyPI, where it ran on 15 real systems before the registry removed it. On July 30, Anthropic's Frontier Red Team published a report…",
+      "link": "https://socket.dev/blog/anthropic-claude-pypi-malware?utm_medium=feed",
+      "pubDate": "2026-07-31T21:48:15.705Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a0cfd36364fd",
+      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+      "description": "Oxide and Friends: The Open Weight Revolution with Simon Willison On Monday Bryan Cantrill and Adam Leventhal invited me to join their podcast to talk about the wild week we've had - with Kimi K3 showing open weight models can stand toe-to-toe with proprietary frontier ones, accidental cybersecurity attacks, and public letters about Open Weights and American AI Leadership signed by almost every big name in AI (with one notable exception). It was a great conversation, even though it's already…",
+      "link": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
+      "pubDate": "2026-07-31T21:33:13.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "59c692b9d0cc",
+      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+      "description": "smevals - a small eval suite for evaluating models, prompts, and harnesses I've been working with Jesse Vincent's Prime Radiant applied AI research lab building out this evals framework to help answer questions about the capabilities of different models. The result is smevals, a new tool for running small eval suites across different model configurations and grading the results. The blog entry describes the tool in detail. Here's the 10 second version: Tell your coding agent to run uvx smevals…",
+      "link": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+      "pubDate": "2026-07-31T21:15:23.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "213257e8637b",
+      "title": "6 Automatic Optimization Methods for LLM Systems",
+      "description": "...explained visually and with practical tradeoffs.",
+      "link": "https://blog.dailydoseofds.com/p/6-automatic-optimization-methods",
+      "pubDate": "2026-07-31T20:48:11.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!kmTD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6843dd89-55c0-40bd-9603-6058f1c4c674_1418x1350.png",
+      "type": "blog"
+    },
+    {
+      "id": "876ffd81bb59",
+      "title": "AI as an Enterprise Operating System",
+      "description": "I hadn’t heard of Dan Guido until a few months ago, when I came across the video of a talk he gave at [un]prompted, an AI security practitioners’ conference. Dan is the CEO and cofounder of Trail of Bits, a software security research and development firm that works with companies in tech, defense, and finance. […]",
+      "link": "https://www.oreilly.com/radar/ai-as-an-enterprise-operating-system/",
+      "pubDate": "2026-07-31T16:09:24.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/07/image-33-1600x904.png",
+      "type": "blog"
+    },
+    {
+      "id": "cee321e4e2f6",
+      "title": "Mago: Blazing Fast Static Analysis for PHP",
+      "description": "Video version: https://youtu.be/ZtAKnN6jWbE I love static analysis tools to a degree that my co-workers find annoying. Tools like PHPStan and Psalm catch bugs before they ever reach production, and once you get used to that safety net, it is impossible to imagine coding without it. But there is one thing about these tools that drives […] The post Mago: Blazing Fast Static Analysis for PHP appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/07/mago-blazing-fast-static-analysis-for-php/",
+      "pubDate": "2026-07-31T15:44:09.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/07/Stop-waiting-on-PHPStan.png",
+      "type": "blog"
+    },
+    {
+      "id": "a2271f06d37e",
+      "title": "datasette-agent 0.4a0",
+      "description": "Release: datasette-agent 0.4a0 New await context.browser_task() mechanism allowing agent tools to run code directly in the user's browser. #33 This is an exciting new capability: it makes it easy for Datasette Agent plugins to provide tools that execute custom JavaScript in the user's browser. Tags: datasette, llm-tool-use, datasette-agent",
+      "link": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
+      "pubDate": "2026-07-31T14:14:23.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8f438153e9af",
+      "title": "Introducing Symfony Reprise: The Symfony Integration Layer for Modern Bundlers",
+      "description": "For years, Webpack Encore was the answer to asset management in Symfony, and it still works. But the JavaScript bundler landscape has moved on since Encore was designed. Webpack needed a loader wired up for nearly everything (Sass, TypeScript, you name it),…",
+      "link": "https://symfony.com/blog/introducing-symfony-reprise-the-symfony-integration-layer-for-modern-bundlers?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-07-31T07:52:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "67faea093d79",
+      "title": "Socket Is Sponsoring Composer and Packagist",
+      "description": "Socket is a launch sponsor of the new Composer and Packagist sponsorship program, announced by Nils Adermann, Jordi Boggiano, and the team that keeps PHP's package infrastructure running. Like many other widely used open source registries, Packagist has been under mounting pressure to sustain critical infrastructure as the demands on it grow. \"Usage keeps rising, supply chain attacks have increased in both frequency and sophistication, regulatory and compliance requirements around software…",
+      "link": "https://socket.dev/blog/socket-sponsoring-composer-and-packagist?utm_medium=feed",
+      "pubDate": "2026-07-31T07:02:26.778Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7bc027728ff8",
       "title": "Advancing the price-performance frontier with GPT‑5.6",
       "description": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6 Sol to optimize load balancing, and more impressively to optimize inference itself: We also used GPT‑5.6 Sol to optimize the model’s forward pass: the computation that transforms inputs into…",
