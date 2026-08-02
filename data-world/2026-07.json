@@ -121,6 +121,21 @@
       "type": "blog"
     },
     {
+      "id": "b940b64d997f",
+      "title": "Slack Emoji Maker",
+      "description": "Tool: Slack Emoji Maker I wanted to create a new Slack emoji, and their tool recommends a square that's 128x128 and has a transparent background... so I had Fable build me this simple image editor against those requirements. Tags: tools, slack",
+      "link": "https://simonwillison.net/2026/Jul/31/slack-emoji-maker/#atom-everything",
+      "pubDate": "2026-07-31T20:18:05.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "876ffd81bb59",
       "title": "AI as an Enterprise Operating System",
       "description": "I hadn’t heard of Dan Guido until a few months ago, when I came across the video of a talk he gave at [un]prompted, an AI security practitioners’ conference. Dan is the CEO and cofounder of Trail of Bits, a software security research and development firm that works with companies in tech, defense, and finance. […]",

@@ -1,0 +1,51 @@
+{
+  "month": "2026-08",
+  "articles": [
+    {
+      "id": "904be0c9dcb0",
+      "title": "Cisco FMC : un mot de passe codé en dur, en 2026, dans un pare-feu d'entreprise",
+      "description": "Un mot de passe codé en dur dans Cisco Secure FMC, exploité avant correctif : mécanisme, chaînage, et comment tenir les secrets hors du code web.",
+      "link": "https://lecodeestdanslepre.fr/billets/cisco-fmc-mot-de-passe-code-en-dur",
+      "pubDate": "2026-08-01T08:48:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7ca67904552",
+      "title": "👩‍💻Le dev est mort, vive le dev ! 🧑‍💻",
+      "description": "If you strike me down, I shall become more powerful than you can possibly imagine. ©Obi-Wan",
+      "link": "https://philippart-s.github.io/blog/2026-08-01-dev-is-dead/",
+      "pubDate": "2026-08-01T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7fe3ba3ef9e8",
+      "title": "Installez Windows pour votre certification Linux",
+      "description": "Installez Windows pour votre certification Linux {align=right} Si vous avez lu mon [précédent article][1], vous savez que je suis en train de traduire la nouvelle mouture des Linux Essentials, une documentation librement mise à disposition par le Linux Professional Institute en vue d'une préparation à la certification du même nom.",
+      "link": "https://www.microlinux.fr/blog/pearsonvue/",
+      "pubDate": "2026-08-01T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/certification.png",
+      "type": "blog"
+    }
+  ]
+}

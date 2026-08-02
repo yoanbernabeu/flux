@@ -1,0 +1,94 @@
+{
+  "month": "2026-08",
+  "articles": [
+    {
+      "id": "fe470f21b264",
+      "title": "Open letters about AI development",
+      "description": "Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well. Open Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by 235 AI-adjacent companies including NVIDIA, Amazon, Y Combinator, The Linux Foundation and (a later signer) OpenAI. It's clearly an argument designed to counter any instincts by the current US government to ban or limit…",
+      "link": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+      "pubDate": "2026-08-02T04:16:52.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eb2b47d50db4",
+      "title": "July 2026 newsletter",
+      "description": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here. This month: Accidental cyberattacks by OpenAl and Anthropic models under test GPT-5.6 Sol, Terra, and Luna Claude Opus 5 Kimi K3 and DeepSeek-V4-Flash-0731 Open letters about Al development A fireside chat and a podcast Reigniting my interest in MCP Other model releases My projects What I'm using at the moment Here's a copy of the June newsletter as a…",
+      "link": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
+      "pubDate": "2026-08-02T04:12:41.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9d04b3a9a241",
+      "title": "Quoting Greg Brockman",
+      "description": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by that coworker. reinforces how much people care about human relationships and helping each other, and want AI to give time back — or enhance time together — rather than become a layer separating people. &mdash; Greg Brockman, President and Co-Founder, OpenAI Tags: ai-ethics,…",
+      "link": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+      "pubDate": "2026-08-01T22:29:44.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "453d766c2160",
+      "title": "datasette-apps 0.2a0",
+      "description": "Release: datasette-apps 0.2a0 Changes that improve Datasette Apps when created and edited using Datasette Agent: New app_debug() tool allowing agent to open an app (invisibly) and test it using JavaScript. #33 New app_list() tool for listing apps the user has permission to edit, so the agent can edit them. #36 The app_debug() tool is pretty neat: it works by displaying the app in a opacity: 0 iframe with pointer-events: none (so it can't be seen or interacted with) and then executing…",
+      "link": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+      "pubDate": "2026-08-01T21:23:56.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "518c46c13754",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "description": "Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with prompts that included \"again we are not looking for low hanging fruit, we want proper research to find genuinly hard findings.\" Now it's OpenAI's turn to flex. They set \"an internal version of Astra, our next major model\" on finding solutions to ten mathematical problems that \"have seen no…",
+      "link": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+      "pubDate": "2026-08-01T20:34:49.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1bb32d322f65",
+      "title": "Build a Stock Market Research Agentic Workflow​",
+      "description": "...using a no-code drag-and-drop builder.",
+      "link": "https://blog.dailydoseofds.com/p/build-a-stock-market-research-agentic-015",
+      "pubDate": "2026-08-01T19:38:10.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://api.substack.com/feed/podcast/209411518/f77ba8df307047c6218dfd069a6044f3.mp3",
+      "type": "blog"
+    }
+  ]
+}
