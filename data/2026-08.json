@@ -2,6 +2,37 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "e055c558e959",
+      "title": "Pest 5 : la migration qui a fait avouer ma suite verte",
+      "description": "Migration Pest 5 sur un blog Symfony : extensions PHPStan jamais chargées, Xdebug fantôme, gate divisé par 50. Ce qu'une suite verte peut cacher.",
+      "link": "https://lecodeestdanslepre.fr/billets/pest-migration-tests",
+      "pubDate": "2026-08-03T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a103d84fac5",
+      "title": "Créer un service interchangeable avec Laravel",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/service-interchangeable-2349 Créer un service réutilisable ne consiste pas seulement à écrire une classe qui fonctionne. L'objectif est surtout de réfléchir à la surface minimale dont l'application a besoin, pour pouvoir remplacer facilement l'implémentation plus tard. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord :…",
+      "link": "https://www.youtube.com/watch?v=jKq6miaPeoA",
+      "pubDate": "2026-08-03T09:05:10.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/jKq6miaPeoA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "jKq6miaPeoA"
+    },
+    {
       "id": "3c794eda813d",
       "title": "Les agents IA qui piratent tout seuls : accident isolé ou début de série ?",
       "description": "Configuration réseau défaillante, et non une IA folle, est la cause de la compromission de systèmes externes par des agents d'IA, révèle cette analyse.",
@@ -27,6 +58,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bb8da11192b9",
+      "title": "On ne doit pas opposer écologie et souveraineté",
+      "description": "Est-ce cohérent d'opposer souveraineté et écologie ou bien rejouons nous la bataille contre le nucléaire des années 2000 ?",
+      "link": "https://eventuallycoding.com/p/on-ne-doit-pas-opposer-ecologie-et-souverainete",
+      "pubDate": "2026-08-02T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
       ],
       "image": null,
       "type": "blog"

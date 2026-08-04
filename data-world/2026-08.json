@@ -2,6 +2,139 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "feb44c460a41",
+      "title": "Quoting Steve Yegge",
+      "description": "Gas Town was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was working brilliantly. With 4.7 we saw the introduction of the \"just two more things\" tic, which prevented Opus from ever converging on being ready to do real work—it always wanted to fiddle with Gas Town itself. The Opus tic never went away, so Gas Town effectively burned down. It had other problems, too, but 4.7 was the final straw.…",
+      "link": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+      "pubDate": "2026-08-04T00:42:45.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bb9f77eb4d91",
+      "title": "Don't be a meat proxy",
+      "description": "Don&#x27;t be a meat proxy Niklas Gruhn coins an excellent new term - meat proxy - for people who blindly copy and paste the output of AI systems to their peers. By all means, prompt AI. But don't just relay the output. Read it, understand it, validate it, and then write a response in your own words (a decent certificate that you've done the prior steps). Making that effort is value you can add. Via Lobste.rs Tags: definitions, ai, generative-ai, llms, ai-misuse",
+      "link": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
+      "pubDate": "2026-08-03T23:45:04.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca7f83a7479e",
+      "title": "The Hands-on AI Engineer Playbook to Build RAG Apps for Production",
+      "description": "Why RAG latency is a prefill problem, not a retrieval problem.",
+      "link": "https://blog.dailydoseofds.com/p/the-hands-on-ai-engineer-playbook",
+      "pubDate": "2026-08-03T20:04:49.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!92mc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F788060f1-1c93-4077-b09a-e8d045a8a0dc_1086x644.png",
+      "type": "blog"
+    },
+    {
+      "id": "9fe0fd997118",
+      "title": "Quoting David Crawshaw's prompt",
+      "description": "Set up a nightly cron job that executes the prompt: fetch upstream changes to the &lt;software&gt; and rebase all local changes on top of upstream. Check that the software works as intended and replace the current version. &mdash; David Crawshaw&#x27;s prompt, Devtools must be open source Tags: prompt-engineering, coding-agents, generative-ai, ai, llms, open-source",
+      "link": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+      "pubDate": "2026-08-03T16:15:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dcbb8b19832c",
+      "title": "Devtools must be open source (exe.dev)",
+      "description": "My comment on Devtools must be open source (exe.dev) &mdash; Hacker News.One of the arguments for open source software for end-users has always been the freedom to examine and modify how that software works. The reality for most people - even expert programmers - has been that the freedom is more about being able to lean on other people to do that. Most people can't justify the time commitment needed to read and then modify the code for tools they use very often. I think LLMs have changed that…",
+      "link": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+      "pubDate": "2026-08-03T15:30:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c92c3ceac818",
+      "title": "We Became Editors-in-Chief, and Nobody Trained Us",
+      "description": "An essay on how AI-assisted development turns engineers into full-time reviewers. We spend our days evaluating AI-generated diffs instead of writing code, and that shift carries a new cognitive fatigue and may widen the senior/junior gap. Read more",
+      "link": "https://freek.dev/3172-we-became-editors-in-chief-and-nobody-trained-us",
+      "pubDate": "2026-08-03T14:56:25.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "116b830f0874",
+      "title": "Symfony Polyfill 1.41.0 released: Io\\Poll now available",
+      "description": "Applications that adopt PHP 8.6's new I/O polling API normally cannot run that code on older PHP versions. Symfony Polyfill 1.41.0 brings this API to PHP 8.1 and later, alongside several compatibility fixes for the Grapheme, Intl and PHP version polyfills.…",
+      "link": "https://symfony.com/blog/symfony-polyfill-1-41-0-released-io-poll-now-available?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-03T13:40:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/nicolas-grekas.png",
+      "type": "blog"
+    },
+    {
+      "id": "cd6e7c44de98",
+      "title": "We Keep Renaming AI Coding. Here’s What I’d Call It.",
+      "description": "Boris Cherny, who runs Claude Code, told Business Insider in May that the phrase “vibe coding” had started to annoy him, and that he’d gone looking for a better one. He’s not the only one who’s annoyed. The term itself doesn’t actually annoy me, though. I think vibe coding is a really good name: It […]",
+      "link": "https://www.oreilly.com/radar/we-keep-renaming-ai-coding-heres-what-id-call-it/",
+      "pubDate": "2026-08-03T10:58:20.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a314e8fded3",
+      "title": "Kicking off the PHP Onboarding Initiative Special Interest Group",
+      "description": "One of the most common pieces of feedback we hear from the PHP community is that the newcomer experience could use some improvement, and that we may be losing new users because of it. This is something that we as a community can address, and it's why The PHP Foundation made it part of our strategy document for the rest of 2026. Improving that experience matters a lot to us, because a better new user experience means more community growth and retention. We are launching the PHP Onboarding…",
+      "link": "https://thephp.foundation/blog/2026/08/03/kicking-off-the-php-onboarding-initiative/",
+      "pubDate": "2026-08-03T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "76a4c194005a",
       "title": "condense-json 1.0",
       "description": "Release: condense-json 1.0 I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it. Here's an example of what it can do, lifted from the README: { \"foo\": { \"bar\": { \"string\": \"This is a string with foxes in it\", \"nested\": { \"more\": [\"Here is a string\", \"another with foxes in it too\"] } } } } Combine that with a replacements object: {\"1\": \"with foxes in it\"} And…",
