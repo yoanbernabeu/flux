@@ -579,6 +579,21 @@
       "type": "blog"
     },
     {
+      "id": "0a28c814e549",
+      "title": " What's new in PHP 8.6 ",
+      "description": "Read the full post on https://stitcher.io/blog/new-in-php-86",
+      "link": "https://stitcher.io/blog/new-in-php-86",
+      "pubDate": "2026-07-29T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "76714d4a34b5",
       "title": "Discovering cryptographic weaknesses with Claude",
       "description": "Discovering cryptographic weaknesses with Claude The best part of this article (here's the repo) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a weaker version of AES (\"neither of these results has a practical impact on today’s computer systems\") is the prompts that they shared, spelling mistakes included: the models tend to think it is impossible to solve so they don't try they need a good amount of prompting. why not do aes-128 r7? the whole…",

@@ -2,6 +2,155 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "0c557d74dd5d",
+      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+      "description": "I released LLM 0.32 this morning, the most significant new version of LLM since the initial launch of the project. The new version includes support for visible reasoning traces, server-side provider tools, redesigned content-addressable SQLite logs, new models, and new features enabled by the OpenAI Responses API. I also released a new version of the llm-anthropic plugin with substantial updates of its own. Headline features for LLM CLI users Running LLM against reasoning models now displays…",
+      "link": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+      "pubDate": "2026-08-04T23:58:24.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9e2dab409689",
+      "title": "PHP Alive and Kicking 2026.08.04",
+      "description": "🎙️ PHP Alive and Kicking – August 4, 2026 Hosts: Chris Miller (standing in solo while Mike is on holiday) Mike escaped to a beach so Chris hosts alone with special guest Derick Rethans. Expect date-time philosophy, PHP 8.6 goodies, Xdebug secrets, deprecation drama, and a heated debate about how to queue at a pub. […] The post PHP Alive and Kicking 2026.08.04 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/php-alive-and-kicking-2026-08-04/",
+      "pubDate": "2026-08-04T23:16:02.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/08/JXW9Z8uKvQM-maxresdefault-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b343d50c6030",
+      "title": "llm-anthropic 0.26",
+      "description": "Release: llm-anthropic 0.26 Includes new features enabled by LLM 0.32: New models: claude-fable-5, claude-sonnet-5, and claude-opus-5. #75, #76 Added server-side tools for WebSearch, WebFetch, CodeExecution, and AnthropicMCP, available through LLM's -T interface or Python tools=. The previous -o web_search* options have been removed in favor of -T WebSearch. #79 Upgraded to llm&gt;=0.32. Reasoning, tool calls, tool results, and server-side tool results now stream as typed events. Reasoning for…",
+      "link": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
+      "pubDate": "2026-08-04T22:00:58.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "feb7cc557356",
+      "title": "Why Your Agent Remembers Everything and Understands Nothing",
+      "description": "Building a pattern recognition layer for memory in production.",
+      "link": "https://blog.dailydoseofds.com/p/why-your-agent-remembers-everything",
+      "pubDate": "2026-08-04T21:12:13.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!hd-8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28c38093-68e4-437c-a7a6-4a04dbb4ae1d_2660x1462.png",
+      "type": "blog"
+    },
+    {
+      "id": "269425a044bd",
+      "title": "PipeNetwork/minimax-h3-mlx",
+      "description": "PipeNetwork/minimax-h3-mlx MiniMax released MiniMax-H3 two days ago - they describe it as a \"a general-purpose, omni-modal generative system\", which in practice means it accepts text, images, audio and video and can use them to generate up to 15 second video clips with audio included. This Python package ports it to MLX for running on Apple Silicon. I got it running on my M5 Max MacBook Pro. I cloned the repo and ran the model like this: # First download the models uvx --from huggingface_hub hf…",
+      "link": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+      "pubDate": "2026-08-04T19:10:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "709b107ba47a",
+      "title": "AWS Security Hub Adds Socket for Supply Chain Security",
+      "description": "Amazon Web Services (AWS) customers can now adopt Socket directly through the AWS Security Hub Extended plan, apply committed AWS spend, and start with the first month free. Socket covers supply chain security in the program, with deep behavioral analysis that catches malicious packages signature-based tools miss. Supply chain security in the Extended plan # The AWS Security Hub Extended plan brings curated third-party security tools into AWS across 10 security categories, with pay-as-you-go…",
+      "link": "https://socket.dev/blog/aws-security-hub-socket?utm_medium=feed",
+      "pubDate": "2026-08-04T18:56:11.858Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c8fe4a2cb8bf",
+      "title": "llm 0.32",
+      "description": "Release: llm 0.32 See my detailed blog post about this release. Tags: llm",
+      "link": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
+      "pubDate": "2026-08-04T17:15:33.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "170ff6ac79f7",
+      "title": "Symfony UX 3.4.0 released",
+      "description": "Symfony UX 3.4 expands Toolkit with a Bootstrap 5.3 kit, reusable design-system-agnostic behaviors and richer documentation for kit authors. The release also adds dynamic Twig component names, safer on-demand icons, modern React and Vue bundler support and…",
+      "link": "https://symfony.com/blog/symfony-ux-3-4-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-04T13:53:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/smnandre.png",
+      "type": "blog"
+    },
+    {
+      "id": "80df94069b92",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "description": "Ankur Sethi argues that manually retyping LLM-generated code is a practical way to avoid cognitive debt. It slows you down, but helps you understand the code, catch bad suggestions, and keep a strong mental model of your codebase. Read more",
+      "link": "https://freek.dev/3173-prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+      "pubDate": "2026-08-04T12:56:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "541eac1c7fc4",
+      "title": "Popular npm Packages in the keyv and Cacheable Namespaces Compromised in Active Supply Chain Attack",
+      "description": "Socket’s Threat Research Team is tracking an active supply chain compromise affecting the widely used keyv and cacheable npm packages. On August 4, 2026, at least ten packages beginning with the keyv and cacheable namespaces and spreading to packages owned by other maintainers, were published with a malicious preinstall hook (setup.mjs) that downloads a standalone Bun runtime, executes an obfuscated second stage, harvests cloud and CI credentials, and republishes trojanized versions of other…",
+      "link": "https://socket.dev/blog/popular-npm-packages-in-the-keyv-and-cacheable-namespaces-compromised-in-active-supply-chain?utm_medium=feed",
+      "pubDate": "2026-08-04T10:36:00.000Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/7b223ed27b1de213bfe32778ad1c269480aa0d88-1150x1202.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
       "id": "feb44c460a41",
       "title": "Quoting Steve Yegge",
       "description": "Gas Town was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was working brilliantly. With 4.7 we saw the introduction of the \"just two more things\" tic, which prevented Opus from ever converging on being ready to do real work—it always wanted to fiddle with Gas Town itself. The Opus tic never went away, so Gas Town effectively burned down. It had other problems, too, but 4.7 was the final straw.…",
@@ -14,6 +163,21 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "323c119d9e66",
+      "title": "Anne McCarthy Joins The PHP Foundation Board",
+      "description": "The PHP Foundation Governing Board consists of a variety of folks from across the PHP ecosystem that share a vested interest in the success and sustainability of PHP. Representatives from the community, the core contribution team, and sponsors comprise this team to provide guidance and insight into the Foundation's objectives and initiatives. After a unanimous decision, we are incredibly pleased to be adding Anne McCarthy, Architect and Open Source Director for Automattic, to our Board as a…",
+      "link": "https://thephp.foundation/blog/2026/08/04/anne-mccarthy-joins-the-board/",
+      "pubDate": "2026-08-04T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://thephp.foundation/assets/post-images/2026/anne-mccarthy/anne-mccarthy.jpg",
       "type": "blog"
     },
     {
@@ -115,6 +279,21 @@
       "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a280951a2c6d",
+      "title": "condense-json 1.1",
+      "description": "Release: condense-json 1.1 After shipping condense-json 1.0 I started integrating it into LLM, and found there were some desirable new features already: Replacements object can now include values other than strings. These will be identified and used as structural replacements by condense_json() and uncondense_json(). #8 Objects can be used as the basis for merge operations. condense_json() will identify if there are objects that are a close match and will store instructions for keys to update…",
+      "link": "https://simonwillison.net/2026/Aug/3/condense-json/#atom-everything",
+      "pubDate": "2026-08-03T04:56:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"

@@ -2,6 +2,41 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "4e9ff418d3da",
+      "title": "#368.bin - Intelligence(s): Sociale: Pourquoi il n'existe pas UNE intelligence sociale avec Dana Samson",
+      "description": "\"Pour beaucoup de personnes, l'intérêt d'une conversation, c'est de découvrir des choses qu'on ne savait pas\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre ce qu'est vraiment…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-368-8664c1ac4c41",
+      "pubDate": "2026-08-05T03:00:56.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/74050226-d270-461a-b8c2-0bf42cf9461a.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/702460e0-e543-4b34-bbb3-8664c1ac4c41.mp3?_=1785871496",
+      "duration": "56:45"
+    },
+    {
+      "id": "b6309510be22",
+      "title": "Organiser une équipe de développement à l’ère de l’IA - Part II.1",
+      "description": "'impact de l'IA agentique sur la création de valeur dans le développement logiciel. Celle-ci se déplace progressivement de la production de code vers la compréhension du métier, la qualité du contexte et la prise de décision.",
+      "link": "https://blog.octo.com/organiser-une-equipe-de-developpement-a-l'ere-de-l'ia-partie-ii",
+      "pubDate": "2026-08-04T07:00:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e055c558e959",
       "title": "Pest 5 : la migration qui a fait avouer ma suite verte",
       "description": "Migration Pest 5 sur un blog Symfony : extensions PHPStan jamais chargées, Xdebug fantôme, gate divisé par 50. Ce qu'une suite verte peut cacher.",
