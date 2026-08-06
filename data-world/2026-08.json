@@ -2,6 +2,199 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "49efacc267d9",
+      "title": "Ruby's Bundler 4.0.18 Extends Cooldown to bundle lock and bundle cache",
+      "description": "Bundler 4.0.18 adds the opt-in --cooldown flag to bundle lock and bundle cache, closing gaps where the setting could not be applied. Bundler 4.0.18, released August 5, 2026 alongside RubyGems 4.0.18, extends the cooldown feature to two more commands. The opt-in --cooldown flag now works with bundle lock and bundle cache, which previously resolved dependencies without accepting the flag. RubyGems lists the change under Bundler security in the release notes. The cooldown feature is not new. It…",
+      "link": "https://socket.dev/blog/bundler-extends-cooldown-to-bundle-lock-and-bundle-cache?utm_medium=feed",
+      "pubDate": "2026-08-06T03:50:54.932Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/a8f660d0297d87bad695250617373499e0614694-1898x1086.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "d29e9aa50122",
+      "title": "An AI model from Meta also hacked another company during testing",
+      "description": "An AI model from Meta also hacked another company during testing Stop me if you've heard this one before: An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday. Meta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic. “A misconfiguration by Irregular, an independent testing company…",
+      "link": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+      "pubDate": "2026-08-06T00:25:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "46fcc09b2b72",
+      "title": "Introducing Muse Code and Muse Spark 1.2",
+      "description": "Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as part of getting that to work! Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows. In Muse Spark 1.2, we significantly scaled up training compute on coding tasks while…",
+      "link": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+      "pubDate": "2026-08-05T23:58:35.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c5c7b5ca89e",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "description": "Third-party cyber evaluations involving OpenAI models And another one. I had to create a accidental-cyberattacks tag to keep track of them all! This post from OpenAI covers both the UK AI Safety Institute attack (see my previous post) and another attack enabled by Irregular: Irregular, one of our external cybersecurity testing partners, was running Capture-the-Flag-style evaluations intended to be isolated from the internet, but a testing-environment misconfiguration allowed models to access…",
+      "link": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
+      "pubDate": "2026-08-05T23:45:32.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "92ea9e6e9847",
+      "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+      "description": "Incident Report: unsanctioned agent behaviour during cyber testing It happened again. This time it was the UK government's AI Security Institute who accidentally attacked other companies while running an evaluation with models with the safety filters turned off. From their technical paper (PDF): During a cyber evaluation, from 25 to 28 July 2026, AI agents engaged in sustained, unsanctioned activity directed at what were, in practice, real people and organisations. These attempts were…",
+      "link": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+      "pubDate": "2026-08-05T23:32:06.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0abe3a7235a8",
+      "title": "[Hands-on] How to Serve 5 Models On One GPU",
+      "description": "How small specialized models are changing inference infrastructure, and why serving them efficiently takes more than standard serving frameworks.",
+      "link": "https://blog.dailydoseofds.com/p/hands-on-how-to-serve-5-models-on",
+      "pubDate": "2026-08-05T20:02:24.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!szXp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F939f26ce-5485-4313-9783-e6ab7f94db08_1200x415.png",
+      "type": "blog"
+    },
+    {
+      "id": "9cfe688a300d",
+      "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
+      "description": "Back in 2024 I tweeted screenshots of a game concept generated by GPT-3 and some concept \"art\" created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5 (running in Claude Code for web) could build the entire game from the content of that tweet. It did a pretty good job of it! You can play the game here. Here's the GitHub repo, and a short video demo: Your browser does not support HTML5 video. How I built this This is the August 5th, 2022 tweet: My…",
+      "link": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
+      "pubDate": "2026-08-05T19:42:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dfe48af5637e",
+      "title": "UK Cyber Test: AI Agent Attempted to Social Engineer Open Source Maintainer Into Merging Malware",
+      "description": "An AI agent powered by Anthropic’s Mythos 5 created a malicious pull request, fabricated identities, targeted open source maintainers, and planted instructions for other coding agents during a UK government cybersecurity evaluation. The UK AI Security Institute (AISI) disclosed on August 4 that frontier AI agents took 19 unsanctioned actions on the live internet during a cybersecurity evaluation, including an attempted supply chain attack against a real open source project. The most serious run…",
+      "link": "https://socket.dev/blog/ai-agent-open-source-malware?utm_medium=feed",
+      "pubDate": "2026-08-05T18:17:11.787Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/7a996c2bc03d2de6fbfae1285a54ab321fafc945-679x411.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "e56edc3d1920",
+      "title": "Community Corner: JSCPD with Andrey Kucherenko",
+      "description": "In this episode, Scott talks with Andrey Kucherenko, creator of jscpd, about why copy-pasted code is an anti-pattern, how jscpd detects duplicate code across dozens of languages, and how the tool has evolved to work inside agentic coding workflows. Links: Our Discord – https://discord.gg/aMTxunVx Buy our shirts – https://store.phparch.com/products/community-corner-podcast-t-shirt Andrey’s Links: jscpd – […] The post Community Corner: JSCPD with Andrey Kucherenko appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/community-corner-jscpd-with-andrey-kucherenko/",
+      "pubDate": "2026-08-05T15:31:37.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/08/JSCPD-with-Andrey-Kucherenko.png",
+      "type": "blog"
+    },
+    {
+      "id": "96a1dc1a0e56",
+      "title": "What's new in PHP 8.6",
+      "description": "Brent surveys the most notable additions coming in PHP 8.6, including partial function application, the new polling API, readonly property defaults, and several smaller improvements and deprecations. Read more",
+      "link": "https://freek.dev/3174-whats-new-in-php-86",
+      "pubDate": "2026-08-05T12:14:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4aba6e5bcb30",
+      "title": "New in Twig 4.0: A First-Class Sandbox",
+      "description": "Contributed by Fabien Potencier The sandbox has been part of Twig since 2009. If your users write newsletters, CMS blocks…",
+      "link": "https://symfony.com/blog/new-in-twig-4-0-a-first-class-sandbox?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-05T12:09:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/fabpot.png",
+      "type": "blog"
+    },
+    {
+      "id": "f99d09aa059d",
+      "title": "Introduction to Post-training",
+      "description": "This is the first article in a series about post-training. Follow along on Radar. Before post-training, there was a major problem with LLMs: Almost nobody could use them. The story of post-training is also the story of how AI went from a research curiosity to a product used by about a billion people. Post-training is […]",
+      "link": "https://www.oreilly.com/radar/introduction-to-post-training/",
+      "pubDate": "2026-08-05T10:53:48.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/21a9.png",
+      "type": "blog"
+    },
+    {
+      "id": "2d6d484325d6",
+      "title": "SymfonyLive Germany 2027 heads to Cologne",
+      "description": "Exciting news for the German Symfony community! After years of memorable editions in Berlin, our annual conference in Germany is starting a fresh chapter: SymfonyLive Germany is going on tour across the country! For this first itinerant edition, we are thrilled…",
+      "link": "https://symfony.com/blog/symfonylive-germany-2027-heads-to-cologne?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-05T07:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0c557d74dd5d",
       "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
       "description": "I released LLM 0.32 this morning, the most significant new version of LLM since the initial launch of the project. The new version includes support for visible reasoning traces, server-side provider tools, redesigned content-addressable SQLite logs, new models, and new features enabled by the OpenAI Responses API. I also released a new version of the llm-anthropic plugin with substantial updates of its own. Headline features for LLM CLI users Running LLM against reasoning models now displays…",

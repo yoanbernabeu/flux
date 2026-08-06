@@ -2,6 +2,56 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "2b76b300af9c",
+      "title": "La QA, c'est quoi ? Demandez aux 8,5 millions d'écrans bleus",
+      "description": "Écrans bleus CrowdStrike, panne Cloudflare, scandale Horizon : ce que coûte une QA absente, et la carte des outils qui protègent un projet web.",
+      "link": "https://lecodeestdanslepre.fr/billets/qa-qualite-logicielle",
+      "pubDate": "2026-08-05T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f38715398b0f",
+      "title": "2 ans après, les devs n'ont pas disparu : du coup l'IA ca sert à rien ?",
+      "description": "En 2023, on nous promettait la fin des développeurs, remplacés par une IA toute-puissante codant plus vite que son ombre. 2 ans plus tard… spoiler : les devs sont toujours là. Alors, l’IA, gadget marketing ou véritable game-changer ? ✅ Code assisté ou code halluciné ? ✅ Qu’est-ce que ça apporte au quotidien (et inversement) ? ✅ Quelles nouvelles compétences pour les techs ? ✅ Comment intégrer ces outils dans votre plateforme de dev tout en respectant votre gouvernance sécurité ? Un talk ludique…",
+      "link": "https://www.youtube.com/watch?v=IJEmimNSmm4",
+      "pubDate": "2026-08-05T09:33:00.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/IJEmimNSmm4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "IJEmimNSmm4"
+    },
+    {
+      "id": "ae3097fd68ab",
+      "title": "Laravel 13 : Manipuler des images nativement 📸",
+      "description": "Maîtrise Laravel sur https://laraveljutsu.com/ Laravel 13 introduit une API native pour manipuler facilement les images. Dans cette vidéo, je te montre deux méthodes particulièrement utiles : ✅ orient() : corrige automatiquement l'orientation des photos grâce aux données EXIF (idéal pour les photos prises avec un smartphone). ✅ cover() : redimensionne et recadre une image pour obtenir exactement les dimensions souhaitées, parfait pour les avatars et les miniatures. 📖 Documentation officielle :…",
+      "link": "https://www.youtube.com/watch?v=tLOUB6RFZ5c",
+      "pubDate": "2026-08-05T09:29:30.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/tLOUB6RFZ5c/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "tLOUB6RFZ5c"
+    },
+    {
       "id": "4e9ff418d3da",
       "title": "#368.bin - Intelligence(s): Sociale: Pourquoi il n'existe pas UNE intelligence sociale avec Dana Samson",
       "description": "\"Pour beaucoup de personnes, l'intérêt d'une conversation, c'est de découvrir des choses qu'on ne savait pas\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre ce qu'est vraiment…",
@@ -18,6 +68,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/702460e0-e543-4b34-bbb3-8664c1ac4c41.mp3?_=1785871496",
       "duration": "56:45"
+    },
+    {
+      "id": "1b247a21a874",
+      "title": "Construire la fonction RH d'une TPE : par où commencer ? (épisode 2)",
+      "description": "L'administratif RH, c'est comme les fondations d'une maison : invisible une fois qu'elle est construite, mais tout repose dessus. Épisode 2 : comment on a solidifié ce socle chez Elao, entre conformité et digitalisation.",
+      "link": "https://www.elao.com/blog/elao/rh-tpe-ep-02-par-ou-commencer",
+      "pubDate": "2026-08-05T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "b6309510be22",
