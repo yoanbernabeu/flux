@@ -2,6 +2,22 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "8731b482358c",
+      "title": "Muse Code : le rival de Claude Code signé Meta ? Test de Muse Spark 1.2",
+      "description": "Meta vient de lancer Muse Code, son nouvel agent IA pour le développement, propulsé par Muse Spark 1.2. Peut-il réellement concurrencer Claude Code, OpenAI Codex ou Gemini CLI ? Dans cette vidéo, je teste Muse Code sur un véritable projet de développement afin d’évaluer ses capacités : compréhension du code, génération de fonctionnalités, modification de plusieurs fichiers, utilisation du terminal et qualité des résultats. Muse Code peut-il devenir une vraie alternative aux agents de…",
+      "link": "https://www.youtube.com/watch?v=7gYhsGBUQug",
+      "pubDate": "2026-08-06T20:54:40.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/7gYhsGBUQug/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "7gYhsGBUQug"
+    },
+    {
       "id": "2b76b300af9c",
       "title": "La QA, c'est quoi ? Demandez aux 8,5 millions d'écrans bleus",
       "description": "Écrans bleus CrowdStrike, panne Cloudflare, scandale Horizon : ce que coûte une QA absente, et la carte des outils qui protègent un projet web.",
@@ -82,6 +98,23 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "99713918ce40",
+      "title": "Les news de l'été 2026 : juin & juillet",
+      "description": "Ganapathy Kumar sur Unsplash Et nous voici déjà au milieu de l’été et j’ai l’impression qu’il est interminable. Les canicules qui se suivent ont eu raison de ma production d’articles sur mon blog. Pourtant, j’ai des idées d’articles que je publierai sûrement à la rentrée. Que s’est-il passé depuis le Breizhcamp ? J’ai pu assister à la conférence Sunny Tech à Montpellier pour la première fois. L’occasion était trop belle : Mon fils ainé effectuait son stage de seconde à l’université de…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/08/news-ete/",
+      "pubDate": "2026-08-05T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/08/news-ete/banner.avif",
       "type": "blog"
     },
     {

@@ -1114,6 +1114,36 @@
       "type": "blog"
     },
     {
+      "id": "0757a55c9d48",
+      "title": "Plan Mode All the Time, Substrait over SQL, and the End of the DE Role ft. Chris Riccomini",
+      "description": "This series interviews (see #1 with Mark Freeman) real practitioners to extract the patterns behind how they actually use AI in their data work today. This is the second interview in ‘How to use AI with DE’, and this time we have none other than Chris Riccomini. Chris has seen the data stack evolve over the years. He thinks AI will soon handle the majority of data engineering work, provided with the right tooling and access to CLIs and APIs. He also thinks LLMs might not speak SQL, but a format…",
+      "link": "https://www.ssp.sh/blog/how-to-use-ai-with-de-chris-riccomini/",
+      "pubDate": "2026-05-26T06:00:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cb4e03cfa7a6",
+      "title": "The Dagster Almanack: From Complexity to Composability",
+      "description": "I have read the “Poor Charlie’s Almanack” by Charlie Munger and thought about what it would take to write one for Dagster. A complete guide with all the insights, tips, and some predictions for the data platform engineer, just like an Almanack provides, with practical information for daily life. My goal is to offer a collection of wisdom, insights, and principles gathered over the years. Giving you an outside view from someone who has used Dagster since back in 2019, used it at enterprise scale…",
+      "link": "https://www.ssp.sh/blog/dagster-almanack-open-data-platform/",
+      "pubDate": "2026-05-26T06:00:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f92fb59837af",
       "title": "Quoting Corey Quinn",
       "description": "I cannot believe I'm saying this, but getting the literal Pope to canonize your product's specific technical limitations as a spiritual treatise is the single greatest act of vendor lobbying I have ever seen. &mdash; Corey Quinn, on Anthropic co-founder Christopher Olah's influence on Magnifica Humanitas Tags: ai-ethics, corey-quinn, anthropic, ai",
@@ -2861,6 +2891,21 @@
       "categories": [
         "IA",
         "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7dc77fb10c29",
+      "title": "Internal vs. External Storage? What's the Limit of External Tables",
+      "description": "When I started my career as a data warehouse engineer and business intelligence engineer in 2003, external tables with materialized views were the standard. We used external tables to integrate CSV files and other data not already in Oracle databases. Oracle External Tables have existed since 2001, and that’s where I first used them. If the Lindy Effect continues to hold, we’ll use external tables even longer. But why have they survived for so long?",
+      "link": "https://www.ssp.sh/blog/modern-external-tables-and-evolution/",
+      "pubDate": "2026-05-13T22:08:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
       ],
       "image": null,
       "type": "blog"

@@ -205,6 +205,36 @@
       "type": "blog"
     },
     {
+      "id": "6fe4d2a20758",
+      "title": "Building an Obsidian RAG with DuckDB and MotherDuck",
+      "description": "I always wanted a personal knowledge assistant based on my notes. One that uses Obsidian’s backlinks and connections to surface ideas I’ve forgotten or never thought to link together. So I built one. A RAG system that runs locally with DuckDB as a vector database, then syncs to MotherDuck for a serverless web app running entirely in the browser via WASM. Think of it like J.A.R.V.I.S1 for your markdown files: search about a topic, and it shows connected notes up to two hops away, semantically…",
+      "link": "https://www.ssp.sh/blog/obsidian-rag-duckdb-sql/",
+      "pubDate": "2026-02-12T22:00:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "83d5ebf735cd",
+      "title": "Arch Linux (Omarchy) — 8 Months Later: The Good, the Bad, and the Fixable",
+      "description": "This is a follow-up to my part 1 of Switching macOS to Arch Linux with Omarchy, where I documented my first months with Arch Linux and [[Omarchy]], after switching from 15 years of using macOS and Windows on and off at work since 2003. Back then, I had a checklist of basics I needed before I could commit to Linux as a daily driver: Obsidian, a Raycast-like launcher for fuzzy finding files and folders, screenshots (Snagit), daylight adjustment (f.lux), calendar events in the top bar. Those were…",
+      "link": "https://www.ssp.sh/blog/linux-omarchy-the-good-bad-and-fixable/",
+      "pubDate": "2026-02-10T20:31:17.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bad82dd22945",
       "title": "Import AI 444: LLM societies; Huawei makes kernels with AI; ChipBench",
       "description": "How can you quantify creativity?",
@@ -216,6 +246,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
+      "id": "ebbd1836eecc",
+      "title": "Why Coinbase and Pinterest Chose StarRocks: Lakehouse-Native Design and Fast Joins at Terabyte Scale",
+      "description": "Why is StarRocks gaining popularity among data engineers who need fast analytics on large-scale data? To find out, I did a deep dive on the companies actually using StarRocks in production, interviewing engineers and studying technical case studies from Coinbase, Pinterest, Fresha, Grab, TRM Labs, and Shopee. They all share a similar pattern: customer-facing analytics on Snowflake got too slow, and they needed sub-second query responses without heavy pre-denormalization in Flink or Spark.",
+      "link": "https://www.ssp.sh/blog/starrocks-lakehouse-native-joins/",
+      "pubDate": "2026-02-09T06:41:06.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

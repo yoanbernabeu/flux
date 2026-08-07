@@ -2329,6 +2329,21 @@
       "type": "blog"
     },
     {
+      "id": "bf0472dceba3",
+      "title": "Why I Still Blog — and Why the Future of Blogging Is Connected",
+      "description": "I’ve been online twenty years, and blogging for ten of them. This is the story and lessons learned of blogging online for a decade. It goes beyond blogging topics and includes note-taking (workflow), how to write well as well as the medium in which writing works best, and also the format in which writing works long-term such as writing in open formats and methods such as vim motions to navigate and edit like a surgeon.",
+      "link": "https://www.ssp.sh/blog/why-i-still-blog/",
+      "pubDate": "2026-03-06T19:00:17.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c17541ff6f8d",
       "title": "Symfony Messenger: What the Documentation Does Not Cover",
       "description": "Last year we took over a Symfony e-commerce application that was struggling under a combination of high customer traffic and a constant flood of write operations from external systems: product updates, price changes, availability feeds, all hitting the application simultaneously. The Messenger setup was already in place. Messages were being",
@@ -2472,6 +2487,21 @@
         "IA"
       ],
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/f3cd7f2c-69ba-486d-80e6-4879cf8e3da8_1024x572.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "faed17a85542",
+      "title": "Git for Data Applied: Comparing Git-like Tools That Separate Metadata from Data",
+      "description": "Continuing from Part 1, where we learned what git for data is, how the architecture and use cases work, how you can achieve git-like functionality with different approaches, and how the key is to avoid moving data as much as possible to keep state that can be referenced and rolled back to, but at the same time saving cost by not duplicating all data every time you create a new branch.",
+      "link": "https://www.ssp.sh/blog/git-for-data-tools/",
+      "pubDate": "2026-03-03T22:08:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

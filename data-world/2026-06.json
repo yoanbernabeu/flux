@@ -468,6 +468,21 @@
       "type": "blog"
     },
     {
+      "id": "de203097c28f",
+      "title": "The Process of Smart Note-Taking",
+      "description": "I’ve taken notes over my whole life. As a Swiss, I’m very particular about organization and structured in filing my knowledge. I’ve tried and taken notes in many different ways, from forgetting everything, to noting down every detail, to only taking listings of the most important things. Today, I can say, there’s no right way, but I can see it’s working for me, as my most interesting ideas grow inside my note taking system, and they power what I share online, and earning a living from it.",
+      "link": "https://www.ssp.sh/blog/process-smart-note-taking/",
+      "pubDate": "2026-06-27T23:40:17.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "865a678e494c",
       "title": "MySQL JSON Columns",
       "description": "MySQL’s JSON column type has been around since version 5.7, but it’s one of those features where the gap between “I know it exists” and “I know when and how to use it well” is surprisingly wide. Used correctly, JSON columns give you schema flexibility exactly where you need it. Used poorly, they become a […] The post MySQL JSON Columns appeared first on PHP Architect.",
@@ -553,6 +568,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d84e7c60b132",
+      "title": "Operationalizing Data Orchestration: Best Practices for DevOps, Infra, and Code Locations",
+      "description": "Operating the data orchestration layer can be as critical as the source OLTP databases, when decisions are taken from the data assets produced by downstream data pipelines. When orchestration gets at the heart of triggering and observing most of the schedules or assets, there is even more importance involved. In Part 1 I argued that the open data platform makes orchestration data and its flow simpler, providing integration into data assets and transformation, ETL, BI and even Kubernetes all…",
+      "link": "https://www.ssp.sh/blog/operationalizing-data-orchestration/",
+      "pubDate": "2026-06-27T06:00:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
       ],
       "image": null,
       "type": "blog"
@@ -2735,6 +2765,21 @@
       "type": "blog"
     },
     {
+      "id": "a63f3180ff07",
+      "title": "Vibe Coding Is Dangerous, Agentic Engineering Isn't—Wes McKinney",
+      "description": "This series interviews real practitioners to extract the patterns behind how they actually use AI in their data work today. This is the second interview in ‘How to use AI with DE’, and this time we have none other than Wes McKinney. Creator of Pandas, probably the most widely used data analysis library for Python, Wes has shaped the era of data and is co-creator of Apache Arrow. He also created Ibis to address these issues with a different approach to Python dataframe libraries, by decoupling…",
+      "link": "https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/",
+      "pubDate": "2026-06-11T07:40:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "252bd5e52db1",
       "title": "New in Symfony 8.1: DX Improvements (Part 2)",
       "description": "Symfony 8.1 includes many small features and improvements across different components. This is the second article in the series that highlights some of the most useful DX (developer experience) improvements. Map Request Headers to Controller Arguments…",
@@ -2760,6 +2805,21 @@
       "categories": [
         "IA",
         "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "14a06fdffe6b",
+      "title": "Beyond the Semantic Layer: Building a Context Layer for the Agentic Era",
+      "description": "Writing SQL was never the hard part. Making it accurate and trustworthy against your warehouse always was. Point an AI agent like Claude or Codex at your data stack and ask a real analytics question, and the answer is usually mediocre: the agent can scrape some context from your git repos or whatever metadata it can find, but it doesn’t know your joins, your metric definitions, or the business rules that give a number its actual meaning.",
+      "link": "https://www.ssp.sh/blog/agentic-context-layer/",
+      "pubDate": "2026-06-11T06:00:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
       ],
       "image": null,
       "type": "blog"

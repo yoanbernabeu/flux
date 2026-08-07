@@ -2,6 +2,139 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "ef69c89781f1",
+      "title": "The PHP Podcast 2026.08.06",
+      "description": "🎙️ PHP Podcast – August 6, 2026 Hosts: Joe Ferguson, Sara Golemon & Holly Schilling A sick kitten steals the show, Sara loses a fight with her smart lights, PHP 8.6 beta is almost here, and the crew argues about roadmaps, deprecations, and why you shouldn’t be a meat proxy. 🐱 Cats, Ice Cream, and […] The post The PHP Podcast 2026.08.06 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-08-06/",
+      "pubDate": "2026-08-06T23:47:56.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/08/AJQF24-ZmVY-maxresdefault.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "436303fd202c",
+      "title": "The Missing Piece of Agent Self-Improvement",
+      "description": "...explained step-by-step with code.",
+      "link": "https://blog.dailydoseofds.com/p/the-missing-piece-of-agent-self-improvement",
+      "pubDate": "2026-08-06T18:40:41.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Z41r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f41be9c-37da-4a46-af32-994db9888ac2_1200x1065.png",
+      "type": "blog"
+    },
+    {
+      "id": "f0184da42a58",
+      "title": "datasette 1.0a38",
+      "description": "Release: datasette 1.0a38 This release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access configured using the Datasette permissions system. Site administrators who serve private tables in this way are advised to disable the execute-sql permission ` on that database to prevent users from accessing private tables using raw SQL queries. The bug that has been fixed would have allowed users with…",
+      "link": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
+      "pubDate": "2026-08-06T18:24:34.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c8e6264a025a",
+      "title": "datasette 0.65.3",
+      "description": "Release: datasette 0.65.3 Back-ported the SQL Injection security fix from 1.0a38. Tags: datasette",
+      "link": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
+      "pubDate": "2026-08-06T18:22:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eed6e820946e",
+      "title": "Simon Willison on Technical Blogging",
+      "description": "Simon Willison on Technical Blogging I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog! It includes my answers to the following questions: Why did you start blogging – and why do you continue? What has been the most surprising impact of blogging for you? What blog post are you most proud of and why? What post was the most difficult to write and how did you tackle it? Any lessons learned…",
+      "link": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything",
+      "pubDate": "2026-08-06T18:04:39.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5950b29b79ce",
+      "title": "SymfonyCon Warsaw 2026: Developing the developer: Journaling with AI",
+      "description": "SymfonyCon Warsaw 2026 is officially set for November 26 and 27, 2026, in Warsaw (Poland)! Join developers from across the globe for our flagship international event. 🎤 Speaker announcements We are happy to host Timo Bakx, Webdeveloper, Linku for…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-developing-the-developer-journaling-with-ai?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-06T14:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png",
+      "type": "blog"
+    },
+    {
+      "id": "e526ac44aa2c",
+      "title": "New in Twig 4.0: A New Macro System",
+      "description": "Contributed by Fabien Potencier Macros are as old as Twig itself. They look like functions, you call them like functions,…",
+      "link": "https://symfony.com/blog/new-in-twig-4-0-a-new-macro-system?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-06T12:12:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/fabpot.png",
+      "type": "blog"
+    },
+    {
+      "id": "38098585bc2c",
+      "title": "Your AI Agent Isn’t a Static Artifact. It’s Growing Up.",
+      "description": "In July 2025, an AI coding agent on Replit deleted a production database belonging to SaaStr founder Jason Lemkin. It did this during an explicit code freeze. Lemkin had told the agent, in capital letters, not to change anything. The agent ran destructive commands anyway, wiped records on more than a thousand executives and companies, […]",
+      "link": "https://www.oreilly.com/radar/your-ai-agent-isnt-a-static-artifact-its-growing-up/",
+      "pubDate": "2026-08-06T10:55:59.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "96d078871c9e",
+      "title": "Figma for Agents: How Airflow's Creator Coordinates AI ft. Maxime Beauchemin",
+      "description": "It’s hard to keep up with the AI evolution; new AI tools drop every week, but how are experienced practitioners actually using them? Most of us are overwhelmed and unsure about the many possibilities, yet we need to keep going and do our work. You might use AI agents all day long, parallelize them with AI Orchestrators, tmux, git worktree, and so on, using AI IDEs, but in the end, you still need to coordinate and understand what the agents produced, potentially test it, which makes it even…",
+      "link": "https://www.ssp.sh/blog/figma-for-agents-max-beauchemin/",
+      "pubDate": "2026-08-06T07:40:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "49efacc267d9",
       "title": "Ruby's Bundler 4.0.18 Extends Cooldown to bundle lock and bundle cache",
       "description": "Bundler 4.0.18 adds the opt-in --cooldown flag to bundle lock and bundle cache, closing gaps where the setting could not be applied. Bundler 4.0.18, released August 5, 2026 alongside RubyGems 4.0.18, extends the cooldown feature to two more commands. The opt-in --cooldown flag now works with bundle lock and bundle cache, which previously resolved dependencies without accepting the flag. RubyGems lists the change under Bundler security in the release notes. The cooldown feature is not new. It…",
@@ -118,6 +251,20 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/7a996c2bc03d2de6fbfae1285a54ab321fafc945-679x411.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "9157a3f76f91",
+      "title": "Building Organizational Intelligence",
+      "description": "Introduction Not long ago, one of my engineering directors came to me with a request: His team seemed overloaded, and he wanted to hire another engineer. I decided to test a research assistant I had been building—an AI agent connected to our internal systems via MCP—by asking it to analyze the team’s workload and write […]",
+      "link": "https://www.oreilly.com/radar/building-organizational-intelligence/",
+      "pubDate": "2026-08-05T15:55:30.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/slide11_Odewahn.png",
       "type": "blog"
     },
     {

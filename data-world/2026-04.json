@@ -1545,6 +1545,21 @@
       "type": "blog"
     },
     {
+      "id": "f229d90295f3",
+      "title": "AI Reveals Why BI Still Matters",
+      "description": "Ask a BI engineer what they actually spend their time on: it’s not building dashboards. More often: fixing the join that broke in the overnight pipeline, untangling the metric definition that means three different things to three different teams, or getting last week’s numbers into an Excel by Monday morning. The dashboard was always the easy part. This article looks at how BI evolved, how dashboards are actually used today, and what survives when AI enters the picture — starting with the…",
+      "link": "https://www.ssp.sh/blog/bi-is-not-dead-2026/",
+      "pubDate": "2026-04-21T06:41:06.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a03232c08c17",
       "title": "Socket for Jira Is Now Available",
       "description": "Security findings only matter if organizations can act on them. That usually means getting the right issues into the systems where engineering and security teams already work. Socket for Jira is now available, making it easy to turn Socket alerts into Jira issues and keep remediation work moving as alerts change over time. Teams can create tickets manually from individual alerts or set up automated ticketing rules to create, update, and resolve issues based on activity in Socket. The…",
@@ -3366,6 +3381,21 @@
       "type": "blog"
     },
     {
+      "id": "930602980a96",
+      "title": "Specs Over Vibes: Consistent AI Results ft. Mark Freeman",
+      "description": "There’s so much going on in the AI space, and how to work with AI agents is changing every day. Everyone is overwhelmed and almost numb from so many possibilities, yet you need to find a way to work with AI, not to get left behind, right? You might use AI agents all day long, parallelizing them with AI orchestrators like Agent Teams, Gastown, tmux, git worktree, and AI-based IDEs, but in the end, you just coordinated an AI. You still have to learn what it created, understand it, check for…",
+      "link": "https://www.ssp.sh/blog/specs-over-vibes-interview-mark-freeman/",
+      "pubDate": "2026-04-07T22:08:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "322a1d5519f7",
       "title": "North Korea’s Contagious Interview Campaign Spreads Across 5 Ecosystems, Delivering Staged RAT Payloads",
       "description": "We have been tracking North Korea’s Contagious Interview operation since 2024 and maintain a dedicated campaign page that now tracks more than 1,700 malicious packages linked to the activity. In this newly identified cluster, the threat actors operated under GitHub aliases including golangorg and published malicious packages across five open source ecosystems: npm: dev-log-core, logger-base, logkitx PyPI: logutilkit, apachelicense, fluxhttp, and license-utils-kit Go Modules:…",
@@ -3508,6 +3538,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "818441e31a8b",
+      "title": "Building an Agent-Friendly, Local-First Analytics Stack with MotherDuck and Rill",
+      "description": "Imagine going from a 100-million-row dataset to an interactive analytics app with just a few prompts. What used to take hours or days can now be done in minutes by combining local-first databases and BI tools with an agentic coding workflow. When Rill bet on YAML dashboards and CLI-first workflows in 2022, they weren’t thinking about AI agents. Neither was MotherDuck when they built serverless DuckDB around the thesis that most data fits on a laptop. But it turns out, what is developer-friendly…",
+      "link": "https://www.ssp.sh/blog/agentic-friendly-local-first-analytics-stack/",
+      "pubDate": "2026-04-07T06:41:06.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
       ],
       "image": null,
       "type": "blog"

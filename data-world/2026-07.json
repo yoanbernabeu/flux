@@ -1922,6 +1922,21 @@
       "type": "blog"
     },
     {
+      "id": "92c0f9710743",
+      "title": "The Act and the Outcome of Creation",
+      "description": "Creation is the ultimate form of pursuing ourselves, giving to the world when shared, and using the power of our subconscious. It gives us joy, and to every artist, it is the ultimate (flow) state of happiness. The Act of Creation The act of creation is an outlet. It gives joy to us when we create something out of nothing, we block out anxiety or boredom. Creating should be done like:",
+      "link": "https://www.ssp.sh/blog/on-creation/",
+      "pubDate": "2026-07-16T07:31:17.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "237cba196a99",
       "title": "Next.js moves to scheduled security releases",
       "description": "Vercel announced that Next.js is adopting a formal security release program, replacing the ad-hoc patches the framework has shipped until now. Going forward, the team will publish advance notice of security releases on the Next.js blog roughly once a month. Each notice will state the expected release date and the highest anticipated severity of the fixes it covers. The first scheduled release is slated for July 20. It will ship patch releases for Next.js 16.2 and 15.5 and addresses 4 high and 5…",
@@ -2994,6 +3009,21 @@
       "type": "blog"
     },
     {
+      "id": "d914dbe15dcf",
+      "title": "The Grammar of Data: Define Once, Run Anywhere with Cross-Engine Expressions",
+      "description": "Grammars for languages or any other field are a beautiful thing. They compress complex systems into a language with a couple of rules. For the spoken language example, we know when to capitalize a letter or how to start a sentence. There are clear rules. Grammars also help us remember, as we do not need to recall every little rule, but apply them in a structured way. For text editing, we have Vim motions that help us navigate a text document with 1000s of shortcuts, but because there is a…",
+      "link": "https://www.ssp.sh/blog/grammar-data-engineering/",
+      "pubDate": "2026-07-08T06:00:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ab40b7a40bf7",
       "title": "pnpm 11.10 Hardens Registry Authentication to Block Token Redirection",
       "description": "pnpm 11.10 was released over the weekend as a small update that includes several supply chain hardening changes. The main change is a new way to configure registry authentication that keeps a repository's own files from redirecting your registry token to a different host. The release also tightens a few build and packaging commands and adds an install path for pnpm v12, the Rust rewrite. The new _auth setting ties each token to its registry # pnpm 11.10 adds an _auth setting that stores…",
@@ -3048,6 +3078,21 @@
       "categories": [
         "Cybersécurité",
         "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "82bc00e2c760",
+      "title": "Where AI Agents Belong in Data Engineering: The Correctness Layer",
+      "description": "With ever-changing models, new and better ones coming out every few months, it’s great if we don’t have to rely on them too heavily. The better your tooling, the less dependent you become on any single model. That’s also why the deterministic harness matters: a correctness layer that lets you reproduce outputs and trace lineage regardless of which model you’re running underneath. This is especially true during maintenance or extending the project, where verification is the real job.",
+      "link": "https://www.ssp.sh/blog/where-agents-belong-in-de/",
+      "pubDate": "2026-07-07T18:00:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
       ],
       "image": null,
       "type": "blog"
