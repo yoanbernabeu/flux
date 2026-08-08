@@ -2,6 +2,102 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "788954288bc2",
+      "title": "Pourquoi DeepSeek V4 Flash 0731 change ABSOLUMENT TOUT ?",
+      "description": "DeepSeek V4 Flash vient de faire un énorme bond en avant sur les benchmarks dédiés aux agents IA. Coding, terminal, utilisation d’outils… les performances progressent fortement, tout en conservant un prix extrêmement bas. 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les meilleures formations pour apprendre à programmer ★ ▶️ Apprendre le C# : http://bit.ly/csharp-course-fr ▶️ Apprendre le PHP : http://bit.ly/php-course-fr ★ Les…",
+      "link": "https://www.youtube.com/watch?v=L_ZEc8aY_Vg",
+      "pubDate": "2026-08-07T17:14:33.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/L_ZEc8aY_Vg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "L_ZEc8aY_Vg"
+    },
+    {
+      "id": "a8836741541d",
+      "title": "Votre IA ne connaît pas votre code ? Laravel Boost a la solution 🔥",
+      "description": "Soyez présent pour le lancement de ma série \"Laravel augmenté par l'IA\" ! https://laraveljutsu.com 🤖 Comment faire pour qu’une IA écrive du code Laravel qui ressemble vraiment à votre application ? Dans cette vidéo, je découvre le skill infer-conventions de Laravel Boost, un outil qui permet à vos agents IA de comprendre les vraies conventions de votre projet. L’objectif n’est pas d’imposer des règles génériques ou des \"best practices\" théoriques, mais d’analyser votre code existant pour…",
+      "link": "https://www.youtube.com/watch?v=3CWGBidPw2w",
+      "pubDate": "2026-08-07T15:02:22.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/3CWGBidPw2w/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "3CWGBidPw2w"
+    },
+    {
+      "id": "2eeb87771e7f",
+      "title": "Créer des vidéo avec du code (via Remotion)",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/remotion-2350 Remotion permet de créer des vidéos avec du code en s'appuyant sur React. L'intérêt est double : on peut construire des animations de manière précise, mais aussi automatiser la génération de vidéos puisque tout repose sur des composants, des propriétés et des fichiers manipulables par un script ou un agent IA. 00:00 Introduction 00:39 Installation 02:38 Première animation 13:56 Les séquences 15:27 Remotion Studio 16:40 Séries &…",
+      "link": "https://www.youtube.com/watch?v=rFHn0Pwqcao",
+      "pubDate": "2026-08-07T13:00:42.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/rFHn0Pwqcao/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "rFHn0Pwqcao"
+    },
+    {
+      "id": "6985f58228fe",
+      "title": "Skills, agents, hooks : comment Claude Code écrit les issues GitHub de ce blog",
+      "description": "Découvrez comment Claude Code automatise la création d'issues GitHub à partir d'audits SEO. Apprenez sur les skills, agents et hooks pour un DX amélioré.",
+      "link": "https://lecodeestdanslepre.fr/billets/skills-agents-claude-code",
+      "pubDate": "2026-08-07T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a8c5e1f1652",
+      "title": "Duck Conf 2025 - Lana Lesik - Du chaos au flow, faut-il miser sur la DevEx ?",
+      "description": "Du chaos au flow, faut-il miser sur la DevEx ? L'aventure de Lana Lesik pour tendre vers un bien-être et une productivité accrue en tant que développeuse.",
+      "link": "https://blog.octo.com/duck-conf-2025-compte-rendu-du-talk-de-lana-lesik-du-chaos-au-flow-faut-il-miser-sur-la-devex",
+      "pubDate": "2026-08-07T08:57:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "878f2dc85318",
+      "title": "Bilan saison 2025-2026",
+      "description": "Comme l’année dernière, je profite de la journée avant mon départ en congés pour faire le bilan de mon année 2025-2026. Beaucoup de conférences cette année, et pas mal d’articles sur ce blog.",
+      "link": "https://codeka.io/2026/08/07/bilan-saison-2025-2026/",
+      "pubDate": "2026-08-07T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/08/07/bilan-saison-2025-2026/cover_hu_60875252e736008b.webp",
+      "type": "blog"
+    },
+    {
       "id": "8731b482358c",
       "title": "Muse Code : le rival de Claude Code signé Meta ? Test de Muse Spark 1.2",
       "description": "Meta vient de lancer Muse Code, son nouvel agent IA pour le développement, propulsé par Muse Spark 1.2. Peut-il réellement concurrencer Claude Code, OpenAI Codex ou Gemini CLI ? Dans cette vidéo, je teste Muse Code sur un véritable projet de développement afin d’évaluer ses capacités : compréhension du code, génération de fonctionnalités, modification de plusieurs fichiers, utilisation du terminal et qualité des résultats. Muse Code peut-il devenir une vraie alternative aux agents de…",

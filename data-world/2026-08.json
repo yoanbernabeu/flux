@@ -2,6 +2,139 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "8efbde1d0f3e",
+      "title": "Quoting John Gruber",
+      "description": "Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be an album. Those aren’t rare, per se, but they’re occasional. If I tried to make every post a hall-of-famer I’d never get anything out. I’m aiming for professionalism. I’m performing live in front of an audience — not just jamming in my garage or bedroom, fucking around. So I’m careful and concentrate. I want to hit every note, in time. But at my…",
+      "link": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
+      "pubDate": "2026-08-08T00:10:40.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "38e1d864014e",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "description": "OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about \"the Hugging Face Incident\" (previously on this blog). The video was published yesterday. It's short and information dense and well worth watching, in particular because it provides full details of what happened and how things played out inside OpenAI. I've used the video to construct the timeline below. Here's the timeline. My favourite detail is at the end: OpenAI found out that they were responsible for the…",
+      "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
+      "pubDate": "2026-08-07T23:55:58.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a9dcb18cf8e6",
+      "title": "[Hands-on] Build Semantic Search Inside Your Database Without an Embedding Pipeline",
+      "description": "...explained with code.",
+      "link": "https://blog.dailydoseofds.com/p/hands-on-build-semantic-search-inside",
+      "pubDate": "2026-08-07T20:41:13.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!D_AD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1843328d-aac8-46cd-8d4d-a0aed939af4b_3110x1992.png",
+      "type": "blog"
+    },
+    {
+      "id": "68b0d8364869",
+      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+      "description": "Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5, where I had Claude Fable 5 build a full working game from a premise I generated with GPT-3 and DALL-E four years ago. I decided to pose the exact same prompt to Codex Desktop running GPT-5.6 Sol Ultra - the mode where Sol makes aggressive use of sub-agents - to see how it would do. It produced a much better game! Here's Moonlight &amp; Mayhem -…",
+      "link": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+      "pubDate": "2026-08-07T19:18:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "996d65ba6a2e",
+      "title": "Symfony 8.1.4 released",
+      "description": "Symfony 8.1.4 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-1-4-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-07T18:08:16.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff9c1ea25484",
+      "title": "Symfony 7.4.16 released",
+      "description": "Symfony 7.4.16 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-7-4-16-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-07T18:03:31.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6b58e467eab5",
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+      "description": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI There's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th: “We’re seeing from some of the data internally at least that it’s actually not our engineers that are driving the token consumption. It’s a lot of the non-engineers that are doing some of those behaviors [...] you were talking about,” Justice Kwak, Accenture’s agentic AI strategy lead,…",
+      "link": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+      "pubDate": "2026-08-07T16:18:51.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6d787cdedf5b",
+      "title": "AI on the Pi: Build Your Own Local Voice Agent",
+      "description": "As soon as I received my first Raspberry Pi, I knew that it would be a wonderful platform to bring AI into the physical world. Since the initial hardware didn’t have good CPU support for fast arithmetic, I ended up writing code that ran on the GPU so I could get the speed I needed […]",
+      "link": "https://www.oreilly.com/radar/ai-on-the-pi-build-your-own-local-voice-agent/",
+      "pubDate": "2026-08-07T12:00:09.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "553e64d10a4f",
+      "title": "Free Business Plan Upgrades for Open Source Maintainers",
+      "description": "This week our Threat Research team tracked an active supply chain attack that took over a maintainer account and used it to push malware across the widely used keyv and cacheable packages, then spread to other maintainers through stolen npm tokens. Those packages sit deep in dependency trees and account for tens of millions of weekly downloads. Attacks like this are getting more frequent, and open source maintainers are the ones on the receiving end. When an account takeover happens, the…",
+      "link": "https://socket.dev/blog/free-business-plan-upgrades-for-open-source?utm_medium=feed",
+      "pubDate": "2026-08-07T06:49:17.320Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ef69c89781f1",
       "title": "The PHP Podcast 2026.08.06",
       "description": "🎙️ PHP Podcast – August 6, 2026 Hosts: Joe Ferguson, Sara Golemon & Holly Schilling A sick kitten steals the show, Sara loses a fight with her smart lights, PHP 8.6 beta is almost here, and the crew argues about roadmaps, deprecations, and why you shouldn’t be a meat proxy. 🐱 Cats, Ice Cream, and […] The post The PHP Podcast 2026.08.06 appeared first on PHP Architect.",
