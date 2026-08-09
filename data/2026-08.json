@@ -2,6 +2,22 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "86e52c97553b",
+      "title": "Twig 4.0 casse tes macros (et c'est une bonne nouvelle)",
+      "description": "Twig 4.0 change complètement le fonctionnement des macros : fini les arguments silencieusement optionnels et les fautes de frappe avalées sans erreur. Dans ce Short, on voit les 4 changements majeurs du nouveau système de macros de Twig 4.0 : ✅ Arguments requis par défaut (comme en PHP) ✅ Arguments variadiques explicites avec ... ✅ Parenthèses obligatoires pour appeler une macro ✅ Noms de macros sensibles à la casse Bonus : noms de macros dynamiques, tag {% deprecated %}, et la marche à suivre…",
+      "link": "https://www.youtube.com/watch?v=kktnVamTHfE",
+      "pubDate": "2026-08-08T08:44:18.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/kktnVamTHfE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "kktnVamTHfE"
+    },
+    {
       "id": "788954288bc2",
       "title": "Pourquoi DeepSeek V4 Flash 0731 change ABSOLUMENT TOUT ?",
       "description": "DeepSeek V4 Flash vient de faire un énorme bond en avant sur les benchmarks dédiés aux agents IA. Coding, terminal, utilisation d’outils… les performances progressent fortement, tout en conservant un prix extrêmement bas. 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les meilleures formations pour apprendre à programmer ★ ▶️ Apprendre le C# : http://bit.ly/csharp-course-fr ▶️ Apprendre le PHP : http://bit.ly/php-course-fr ★ Les…",
