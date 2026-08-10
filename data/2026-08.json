@@ -2,6 +2,22 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "f1da0473f5b8",
+      "title": "Laravel augmenté par l'IA - Épisode 1 : La conversation et les sous-agents",
+      "description": "Laravel augmenté par l'IA — Épisode 1 : Comprendre la conversation et les sous-agents Dans cet épisode, on pose les bases : comment un outil comme Claude Code (dans VSCode) comprend réellement un projet Laravel, et pourquoi ce n'est pas juste \"un chatbot qui écrit du code\". On y parle de : 🔹 CLAUDE.md et les règles de projet (conventions Laravel, Pint, Pest…) 🔹 Le dossier .ai/rules/ pour des règles spécifiques (ex: migrations.md) 🔹 La mémoire persistante entre les conversations (préférences,…",
+      "link": "https://www.youtube.com/watch?v=u5gqzYe-ZVg",
+      "pubDate": "2026-08-09T14:04:19.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/u5gqzYe-ZVg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "u5gqzYe-ZVg"
+    },
+    {
       "id": "86e52c97553b",
       "title": "Twig 4.0 casse tes macros (et c'est une bonne nouvelle)",
       "description": "Twig 4.0 change complètement le fonctionnement des macros : fini les arguments silencieusement optionnels et les fautes de frappe avalées sans erreur. Dans ce Short, on voit les 4 changements majeurs du nouveau système de macros de Twig 4.0 : ✅ Arguments requis par défaut (comme en PHP) ✅ Arguments variadiques explicites avec ... ✅ Parenthèses obligatoires pour appeler une macro ✅ Noms de macros sensibles à la casse Bonus : noms de macros dynamiques, tag {% deprecated %}, et la marche à suivre…",
