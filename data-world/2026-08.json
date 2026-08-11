@@ -2,6 +2,64 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "04251f3749e7",
+      "title": "Introducing Muse Glimmer",
+      "description": "Introducing Muse Glimmer Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old). They claim to have optimized it for exactly the kind of things I'm looking for in a local model: End-to-end Agentic Task Completion. Muse Glimmer achieves strong success rates on full-task benchmarks including DeepSearch QA, MCP-Atlas, 𝛕-Bench and SWE-Bench, which measure its ability to work within scaffolds,…",
+      "link": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+      "pubDate": "2026-08-10T23:56:03.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "52c997775d72",
+      "title": "How to Query Billion+ Rows on Postgres Without the Overhead",
+      "description": "...explained as a full setup guide.",
+      "link": "https://blog.dailydoseofds.com/p/how-to-query-billion-rows-on-postgres",
+      "pubDate": "2026-08-10T13:48:21.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!RGTf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75694f25-937d-456a-af02-886c04be7025_1756x826.png",
+      "type": "blog"
+    },
+    {
+      "id": "9faf008edcbf",
+      "title": "sbx: Sandboxed Claude, complete with PHP and tools",
+      "description": "A practical walkthrough for running Claude Code inside Docker's new sbx sandbox, with a custom PHP setup and extra tools for open source work. Benjamin also explains why sandboxing AI coding agents is the sensible default. Read more",
+      "link": "https://freek.dev/3175-sbx-sandboxed-claude-complete-with-php-and-tools",
+      "pubDate": "2026-08-10T10:30:04.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "96d8848f7d5f",
+      "title": "Why Open Source Matters for AI",
+      "description": "In 1995, the question in the media was whether Netscape or Microsoft would control the web. The answer, it turned out, was neither. Both Netscape and Microsoft aimed to dominate the web server and browser market, reasoning that whoever controlled both ends of the connection would have an internet “platform” to rival the deathgrip that […]",
+      "link": "https://www.oreilly.com/radar/why-open-source-matters-for-ai/",
+      "pubDate": "2026-08-10T08:42:43.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "328ec720754b",
       "title": "Quoting OpenClaw",
       "description": "The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3 already. &mdash; OpenClaw, hacking an Australian gym-booking website Tags: ai-ethics, generative-ai, openclaw, ai, ai-security-research, llms",

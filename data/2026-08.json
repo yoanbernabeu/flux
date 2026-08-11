@@ -2,6 +2,66 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "4d6e0cd3f9e5",
+      "title": "L'Agent Development Environment : une nouvelle unité de travail",
+      "description": "Régulièrement, quelque chose arrive et change ce que « écrire du code » veut dire. Cette fois, il se pourrait que ça ne veuille plus dire écrire du tout. D'où je viens Ce qui suit est mon parcours, pas une histoire de PHP. D'autres ont vécu ces mêmes années très différemment. Mon histoire commence en 2013, quand PHP n'était pas le choix évident qu'il allait devenir, donc j'ai appris le C : pointeurs, gestion mémoire manuelle, segfaults. Ensuite je suis passé à l'Objective-C pour du…",
+      "link": "https://jolicode.com/blog/l-agent-development-environment-une-nouvelle-unite-de-travail",
+      "pubDate": "2026-08-10T08:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/ade-presentation/orca_issues.png",
+      "type": "blog"
+    },
+    {
+      "id": "dccef74e5ed8",
+      "title": "The Agent Development Environment: A New Unit of Work",
+      "description": "The Agent Development Environment: A New Unit of Work Every few years, something comes along that changes what \"writing code\" means. This time, it might stop meaning writing at all. Where we come from What follows is my own path, not a history of PHP. Other people lived those same years very differently. My story starts in 2013, when PHP was not the obvious choice it would later become, so I learned C: pointers, manual memory management, segfaults. Then I moved to Objective-C for iPad…",
+      "link": "https://jolicode.com/blog/the-agent-development-environment-a-new-unit-of-work",
+      "pubDate": "2026-08-10T08:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/ade-presentation/orca_issues.png",
+      "type": "blog"
+    },
+    {
+      "id": "9b5ef2f9b451",
+      "title": "Réseaux sociaux : et si nous avions la solution pour échapper aux géants américains ?",
+      "description": "Et si la réponse aux monopoles de la Tech n'était pas une nouvelle application, mais une nouvelle manière de concevoir le Web ?",
+      "link": "https://eventuallycoding.com/p/reseaux-sociaux-et-si-nous-avions-la-solution-pour-echapper-aux-geants-americains",
+      "pubDate": "2026-08-10T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1786351945081-db0vg4u.png?width=800",
+      "type": "blog"
+    },
+    {
+      "id": "9b487c26e067",
+      "title": "Les meilleures idées ne viennent pas devant l'écran",
+      "description": "Je vais régulièrement courir. Pas pour la performance, juste pour m’aérer l’esprit et être un minimum mobile, plutôt que de camper devant mon écran. Paradoxalement, c’est à ce moment que j’ai les meilleures idées qui me viennent à l’esprit. Je pense que tous les développeurs ont connu cette situation où l’on n’arrive pas à résoudre un bug incompréhensible, ou celle où l’on tourne en rond sur une décision technique à prendre. Souvent, plus on s’acharne et moins on avance. On refait les mêmes…",
+      "link": "https://www.jdecool.fr/blog/2026/08/10/les-meilleures-idees-ne-viennent-pas-devant-l-ecran.html",
+      "pubDate": "2026-08-09T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f1da0473f5b8",
       "title": "Laravel augmenté par l'IA - Épisode 1 : La conversation et les sous-agents",
       "description": "Laravel augmenté par l'IA — Épisode 1 : Comprendre la conversation et les sous-agents Dans cet épisode, on pose les bases : comment un outil comme Claude Code (dans VSCode) comprend réellement un projet Laravel, et pourquoi ce n'est pas juste \"un chatbot qui écrit du code\". On y parle de : 🔹 CLAUDE.md et les règles de projet (conventions Laravel, Pint, Pest…) 🔹 Le dossier .ai/rules/ pour des règles spécifiques (ex: migrations.md) 🔹 La mémoire persistante entre les conversations (préférences,…",
