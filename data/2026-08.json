@@ -2,6 +2,89 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "5ad607fa468c",
+      "title": "#369.bin - Intelligence(s): Collective: Performance = Expertise + Diversité avec Emile Servan-schreiber",
+      "description": "\"On utilise la bêtise des autres pour annuler sa bêtise à soi\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre ce qu'est vraiment l'intelligence. Le D.E.V. de la semaine est Emile…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-369-08ef98906495",
+      "pubDate": "2026-08-12T03:00:18.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/323c8e7f-ac57-44bc-9bce-e218e80594d7.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/56cdc8d2-3fdc-4bb7-9a38-08ef98906495.mp3?_=1786449678",
+      "duration": "01:02:29"
+    },
+    {
+      "id": "e41fdc6e6c7c",
+      "title": "Muse Glimmer : Meta vient de sortir un CLAUDE CODE en LOCAL ?",
+      "description": "Meta vient de dévoiler Muse Glimmer, un nouveau modèle IA de 30 milliards de paramètres conçu pour faire tourner des agents directement en local sur nos machines. Contrairement à un simple chatbot, Muse Glimmer est pensé pour les tâches agentiques longues : utiliser des outils, exécuter plusieurs actions, travailler sur du code, analyser des images et même se corriger lorsqu'une action échoue. Dans cette vidéo, on découvre : 🔥 Pourquoi Meta mise sur les agents IA en local 🧠 Comment fonctionne…",
+      "link": "https://www.youtube.com/watch?v=_u_hYj8nUxw",
+      "pubDate": "2026-08-11T20:33:50.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/_u_hYj8nUxw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "_u_hYj8nUxw"
+    },
+    {
+      "id": "4bcb80b05e83",
+      "title": "Tu utilises les Actions Laravel de travers ? 😱",
+      "description": "Tu utilises des Actions dans Laravel et tu appelles directement `handle()` ? Et si Laravel avait déjà une meilleure façon de gérer leur exécution ? Dans cette vidéo, on part d'un thread qui compare les Actions Laravel aux Jobs et aux Commands, pour comprendre concrètement le rôle du Command Bus. On va voir : 👉 Pourquoi utiliser `Bus::dispatch()` ? 👉 C'est quoi concrètement le Bus Laravel ? Au final, l'objectif est de comprendre une idée simple : Command = ce qu'on veut exécuter Bus = le…",
+      "link": "https://www.youtube.com/watch?v=Nzxj6qrqSv4",
+      "pubDate": "2026-08-11T13:35:32.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Nzxj6qrqSv4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Nzxj6qrqSv4"
+    },
+    {
+      "id": "ab3ff80d36ce",
+      "title": "Évaluer la maturité du Product Management d'une organisation : méthode et constats sur l'IA",
+      "description": "Comment comparer des équipes produit qui ne mettent pas les mêmes réalités derrière les rôles de Product Owner ou Product Manager ? Une démarche construite chez OCTO propose un référentiel commun et une méthode structurée pour évaluer objectivement les pratiques produit.",
+      "link": "https://blog.octo.com/evaluer-la-maturite-du-product-management-d'une-organisation--methode-et-constats-sur-l'ia",
+      "pubDate": "2026-08-11T09:00:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "21bdd7a635bd",
+      "title": "Découverte de Symfony Reprise : le futur des assets dans Symfony ?",
+      "description": "🚀 Découverte de Symfony Reprise : le futur des assets dans Symfony ? Dans cette vidéo, on découvre Symfony Reprise, la nouvelle solution proposée par Symfony pour intégrer facilement des bundlers modernes comme Vite et Rsbuild dans une application Symfony. L’objectif : retrouver une expérience proche de Webpack Encore, mais avec les outils modernes de l’écosystème JavaScript. Au programme : ⚡ Découverte de Symfony Reprise 📦 Installation avec Symfony et Vite 🔥 Hot Module Replacement (HMR) 🎨…",
+      "link": "https://www.youtube.com/watch?v=W-kvF-8uwGQ",
+      "pubDate": "2026-08-11T08:51:37.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/W-kvF-8uwGQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "W-kvF-8uwGQ"
+    },
+    {
       "id": "4d6e0cd3f9e5",
       "title": "L'Agent Development Environment : une nouvelle unité de travail",
       "description": "Régulièrement, quelque chose arrive et change ce que « écrire du code » veut dire. Cette fois, il se pourrait que ça ne veuille plus dire écrire du tout. D'où je viens Ce qui suit est mon parcours, pas une histoire de PHP. D'autres ont vécu ces mêmes années très différemment. Mon histoire commence en 2013, quand PHP n'était pas le choix évident qu'il allait devenir, donc j'ai appris le C : pointeurs, gestion mémoire manuelle, segfaults. Ensuite je suis passé à l'Objective-C pour du…",

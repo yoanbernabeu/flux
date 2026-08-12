@@ -2,6 +2,139 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "1f044ad3768c",
+      "title": "There are no lossless transformations of natural-language text",
+      "description": "There are no lossless transformations of natural-language text Sophie Alpert shares her \"internal policy on acceptable use of AI writing by engineers\". It's a short read (supporting its own recommendations) and really good. If you chose to have LLMs help massage your writing the following rule seems crucial to me: You must stand behind every idea and every sentence in your docs. It is your responsibility to make sure that the entire document is representative of your own thoughts before you…",
+      "link": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
+      "pubDate": "2026-08-11T23:48:35.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ec2c71100cfa",
+      "title": "737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection",
+      "description": "Socket's Threat Research Team identified a campaign of 737 free VPN and proxy extensions published across at least 40 Chrome Web Store developer accounts, 274 of which impersonate 66 established VPN and privacy brands, that route the user's entire browser session through SOCKS5 proxies operated by a single provider. Socket analyzed the code of 525 of them, 522 from bulk retrieval and 3 more found during store enumeration; the remaining 212 had been removed from the store before collection and…",
+      "link": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
+      "pubDate": "2026-08-11T23:00:05.332Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/344dd9c28e6669ae20053f25d52828bc7bc20fc8-1140x970.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "ae0bb8510d8a",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "description": "Stealing Reasoning Traces from Proprietary LLM APIs A vanity domain name (stolen-thoughts.com) for a neat paper: Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed across sessions, users, and models. We take a trace produced by a frontier model, replay it into a weaker sibling, jailbreak the weaker model, and recover the stronger model’s hidden reasoning in plaintext You can see an example of these encrypted blocks by running: curl…",
+      "link": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+      "pubDate": "2026-08-11T22:40:45.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33db945aae2d",
+      "title": "datasette-upload-dbs 0.5a0",
+      "description": "Release: datasette-upload-dbs 0.5a0 This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start being served by that instance. It can also be used to atomically swap a database with a more recent version. The uploaded database is saved to a file, verified, then swapped in so /name starts serving the new one. The new release adds a formalized API, so you can replace an existing database (or add…",
+      "link": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything",
+      "pubDate": "2026-08-11T20:35:13.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3873ebd6b413",
+      "title": "Karpathy's Full Agentic Engineering Lifecycle using Google's Agents-CLI",
+      "description": "...explained as step-by-step guide.",
+      "link": "https://blog.dailydoseofds.com/p/karpathys-full-agentic-engineering",
+      "pubDate": "2026-08-11T18:53:26.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!1wTl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F848e7b22-fa44-42a7-bd0a-1fe4b306717a_1237x1046.gif",
+      "type": "blog"
+    },
+    {
+      "id": "164d48fd03ed",
+      "title": "SymfonyCon Warsaw 2026:  Why AI Output Is the New XSS",
+      "description": "We are counting down to SymfonyCon Warsaw 2026, taking place on November 26-27, 2026, in Warsaw (Poland)! Get ready for a week full of workshops, sessions, and community magic. 🎤 Speaker announcements Make sure not to miss Ramona Schwering, Developer…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-why-ai-output-is-the-new-xss?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-11T13:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png",
+      "type": "blog"
+    },
+    {
+      "id": "4d946acfcf43",
+      "title": "Mercure 1.0 alpha is here",
+      "description": "Mercure 1.0 is here in its first public preview, and it is the biggest release in the project’s history! Mercure powers mission-critical real-time communication across hundreds of production deployments. It delivers Server-Sent Events over plain HTTP without requiring client SDKs. Version 1.0 maintains this architecture while modernizing core capabilities using newly established web standards: This... Mercure 1.0 alpha is here first appeared on Kévin Dunglas.",
+      "link": "https://dunglas.dev/2026/08/mercure-1-0-alpha/",
+      "pubDate": "2026-08-11T11:30:27.000Z",
+      "source": "Kévin Dunglas",
+      "sourceUrl": "https://dunglas.dev/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba3087f95998",
+      "title": "A Home for Personal Context",
+      "description": "Every agent I use is building a model of me. Claude has learned how I like my prose. ChatGPT remembers what I’m working on. I don’t mind this—every person I have a relationship with carries a model of me in their head, and every company I do business with keeps a profile. Other people’s understandings […]",
+      "link": "https://www.oreilly.com/radar/a-home-for-personal-context/",
+      "pubDate": "2026-08-11T10:45:08.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/image-5-1600x900.png",
+      "type": "blog"
+    },
+    {
+      "id": "19c6c415f080",
+      "title": "Amped up",
+      "description": "Sebastian explains why Amp became his default coding harness, and why user experience now matters more to him than model churn. He also shares the AGENTS.md tweaks that reduced overzealous verification during day-to-day coding. Read more",
+      "link": "https://freek.dev/3176-amped-up",
+      "pubDate": "2026-08-11T10:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "04251f3749e7",
       "title": "Introducing Muse Glimmer",
       "description": "Introducing Muse Glimmer Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old). They claim to have optimized it for exactly the kind of things I'm looking for in a local model: End-to-end Agentic Task Completion. Muse Glimmer achieves strong success rates on full-task benchmarks including DeepSearch QA, MCP-Atlas, 𝛕-Bench and SWE-Bench, which measure its ability to work within scaffolds,…",
