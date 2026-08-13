@@ -2,10 +2,127 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "8d31cb94ef58",
+      "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
+      "description": "DeepSeek V4 Pro 0813 (on OpenRouter) The latest DeepSeek Pro model is now available, via API only. I had to link to OpenRouter because DeepSeek don't have any obvious announcement page for their new model. I haven't been able to confirm if they plan to release the open weights, but given the weights are available for both April's deepseek-ai/DeepSeek-V4-Pro and July's deepseek-ai/DeepSeek-V4-Flash-0731 it seems likely. Interestingly I got very different looking pelicans for the three different…",
+      "link": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+      "pubDate": "2026-08-12T23:59:23.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ef6958656c5c",
+      "title": "[Hands-on] Audio RAG with 200x Cheaper Vector DB Costs",
+      "description": "...while also outperforming OpenAI and Cohere.",
+      "link": "https://blog.dailydoseofds.com/p/hands-on-audio-rag-with-200x-cheaper-4f0",
+      "pubDate": "2026-08-12T20:45:04.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Qscc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51c48d12-3f06-4d05-a92a-cb2851e3b5b6_1096x1078.gif",
+      "type": "blog"
+    },
+    {
+      "id": "3302bba97b91",
+      "title": "alchemy-utils 0.1a0",
+      "description": "Release: alchemy-utils 0.1a0 I've long pondered what a database agnostic version of my sqlite-utils Python library and CLI utility might look like. This morning (literally a shower project) I tasked Codex and GPT-5.6 Sol Ultra with building a prototype: Do a research spike to see what it would take to build a library with the same core API as SQLite-utils - in particular the insert and upsert and insert_all and upsert_all and create and update methods, and the table introspection stuff - but…",
+      "link": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
+      "pubDate": "2026-08-12T19:51:30.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "563261d01538",
+      "title": "Why “It Depends” Is the Most Future-Proof Phrase in Software",
+      "description": "Ask an architect almost any question and you’ll get the same answer: It depends. For years this answer has been the punchline of jokes about architects, but in an era when AI can generate a working service faster than you can describe it, “it depends” is one of the most important phrases in software. It […]",
+      "link": "https://www.oreilly.com/radar/why-it-depends-is-the-most-future-proof-phrase-in-software/",
+      "pubDate": "2026-08-12T15:54:26.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "46642bc61056",
+      "title": "Quoting Florian Herrengt",
+      "description": "But then users start to report a weird bug. It's the 4th time your team has been trying to fix it. I mean... asking AI to fix it. Unfortunately, it seems like not even Fable can figure it out. You go talk to the person who worked on this feature. \"So where does the data come from?\" \"Hmm... actually I don't know. Let me ask Claude.\" You sit next to each other watching an endless wall of text appear on the screen. Neither of you has any idea whether any of it is true but Claude seems very…",
+      "link": "https://simonwillison.net/2026/Aug/12/florian-herrengt/",
+      "pubDate": "2026-08-12T15:08:47.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1fa4fad0771a",
+      "title": "The Two Pillars of Post-training: Reinforcement Learning and Supervised Fine-Tuning",
+      "description": "This is the second article in Sharon Zhou’s post-training series. Read part 1 here. In the first post of this series, you learned how post-training closed the fundamental gap in usability of LLMs by making them behave in a certain way. In this post, you’ll explore specific techniques you can use to change a model’s […]",
+      "link": "https://www.oreilly.com/radar/the-two-pillars-of-post-training-reinforcement-learning-and-supervised-fine-tuning/",
+      "pubDate": "2026-08-12T10:57:13.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac26e61d91a1",
+      "title": "`exit()` may silently break your parallel tests",
+      "description": "Michael explains why exit() can make parallel test workers crash without useful diagnostics, and why verbose flags do not help when the process dies outside PHPUnit's control. The fix is simple: throw an exception instead, so the failure is reported normally with a stack trace. Read more",
+      "link": "https://freek.dev/3177-exit-may-silently-break-your-parallel-tests",
+      "pubDate": "2026-08-12T10:30:31.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1f044ad3768c",
       "title": "There are no lossless transformations of natural-language text",
       "description": "There are no lossless transformations of natural-language text Sophie Alpert shares her \"internal policy on acceptable use of AI writing by engineers\". It's a short read (supporting its own recommendations) and really good. If you chose to have LLMs help massage your writing the following rule seems crucial to me: You must stand behind every idea and every sentence in your docs. It is your responsibility to make sure that the entire document is representative of your own thoughts before you…",
       "link": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
+      "pubDate": "2026-08-11T23:48:35.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "82986577c4ea",
+      "title": "There are no lossless transformations of natural-language text",
+      "description": "There are no lossless transformations of natural-language text Sophie Alpert shares her \"internal policy on acceptable use of AI writing by engineers\". It's a short read (supporting its own recommendations) and really good. If you chose to have LLMs help massage your writing the following rule seems crucial to me: You must stand behind every idea and every sentence in your docs. It is your responsibility to make sure that the entire document is representative of your own thoughts before you…",
+      "link": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/",
       "pubDate": "2026-08-11T23:48:35.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
@@ -47,10 +164,40 @@
       "type": "blog"
     },
     {
+      "id": "173aef63f1af",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "description": "Stealing Reasoning Traces from Proprietary LLM APIs A vanity domain name (stolen-thoughts.com) for a neat paper: Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed across sessions, users, and models. We take a trace produced by a frontier model, replay it into a weaker sibling, jailbreak the weaker model, and recover the stronger model’s hidden reasoning in plaintext You can see an example of these encrypted blocks by running: curl…",
+      "link": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
+      "pubDate": "2026-08-11T22:40:45.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "33db945aae2d",
       "title": "datasette-upload-dbs 0.5a0",
       "description": "Release: datasette-upload-dbs 0.5a0 This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start being served by that instance. It can also be used to atomically swap a database with a more recent version. The uploaded database is saved to a file, verified, then swapped in so /name starts serving the new one. The new release adds a formalized API, so you can replace an existing database (or add…",
       "link": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything",
+      "pubDate": "2026-08-11T20:35:13.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "49818a8a52de",
+      "title": "datasette-upload-dbs 0.5a0",
+      "description": "Release: datasette-upload-dbs 0.5a0 This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start being served by that instance. It can also be used to atomically swap a database with a more recent version. The uploaded database is saved to a file, verified, then swapped in so /name starts serving the new one. The new release adds a formalized API, so you can replace an existing database (or add…",
+      "link": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
       "pubDate": "2026-08-11T20:35:13.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
@@ -150,6 +297,21 @@
       "type": "blog"
     },
     {
+      "id": "4d017e94e195",
+      "title": "Introducing Muse Glimmer",
+      "description": "Introducing Muse Glimmer Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old). They claim to have optimized it for exactly the kind of things I'm looking for in a local model: End-to-end Agentic Task Completion. Muse Glimmer achieves strong success rates on full-task benchmarks including DeepSearch QA, MCP-Atlas, 𝛕-Bench and SWE-Bench, which measure its ability to work within scaffolds,…",
+      "link": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
+      "pubDate": "2026-08-10T23:56:03.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "52c997775d72",
       "title": "How to Query Billion+ Rows on Postgres Without the Overhead",
       "description": "...explained as a full setup guide.",
@@ -208,10 +370,40 @@
       "type": "blog"
     },
     {
+      "id": "079b648114a6",
+      "title": "Quoting OpenClaw (running Opus 4.6)",
+      "description": "The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3 already. &mdash; OpenClaw (running Opus 4.6), hacking an Australian gym-booking website Tags: ai-ethics, generative-ai, openclaw, ai, ai-security-research, llms",
+      "link": "https://simonwillison.net/2026/Aug/10/openclaw/",
+      "pubDate": "2026-08-10T02:05:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d2a5f0864ab3",
       "title": "Quoting Claude Opus 5 system prompt",
       "description": "Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access). These events are after Claude's training-data cutoff, so Claude knows about them only from this notice. If asked, Claude confirms…",
       "link": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+      "pubDate": "2026-08-09T23:31:39.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aace6aea2b81",
+      "title": "Quoting Claude Opus 5 system prompt",
+      "description": "Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access). These events are after Claude's training-data cutoff, so Claude knows about them only from this notice. If asked, Claude confirms…",
+      "link": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/",
       "pubDate": "2026-08-09T23:31:39.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
@@ -238,10 +430,40 @@
       "type": "blog"
     },
     {
+      "id": "84b53cd346d6",
+      "title": "GitHub Models is now retired",
+      "description": "GitHub Models is now retired I missed this news until today, when the GitHub Actions run for my simonw/research repository failed with this error message: GitHub Models is temporarily unavailable as part of a scheduled retirement brownout. That message is already stale, because the retirement has been completed. GitHub Models was an odd-shaped duck. GitHub provided a model playground tool and a unified API across a bunch of different LLM providers, with the biggest benefit being that code…",
+      "link": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/",
+      "pubDate": "2026-08-09T22:48:05.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "aa5eb22285cd",
       "title": "SQLite compressed text-history prototypes",
       "description": "Research: SQLite compressed text-history prototypes I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about taking the full text of every prior version in a big JSON array of strings and then applying zlib or zstd compression to the whole thing? Surely that would compress really well due to all of the repeated strings. The new GPT‑Live voice mode in the ChatGPT iPhone app has got really good, so I…",
       "link": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+      "pubDate": "2026-08-09T22:05:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c119a067e506",
+      "title": "SQLite compressed text-history prototypes",
+      "description": "Research: SQLite compressed text-history prototypes I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about taking the full text of every prior version in a big JSON array of strings and then applying zlib or zstd compression to the whole thing? Surely that would compress really well due to all of the repeated strings. The new GPT‑Live voice mode in the ChatGPT iPhone app has got really good, so I…",
+      "link": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/",
       "pubDate": "2026-08-09T22:05:00.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
@@ -297,10 +519,40 @@
       "type": "blog"
     },
     {
+      "id": "e96dc92d1245",
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "description": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans Anthropic are really confident in Claude Code's auto mode, to the point that they are making it the default setting for new sessions in most Claude Code plans starting on August 14th. This was one of the topics discussed in our Fireside Chat with Cat Wu and Thariq Shihipar at the AI Engineer World’s Fair last month. I asked them how they run Claude Code safely within Anthropic (given the threat of prompt injection) and…",
+      "link": "https://simonwillison.net/2026/Aug/8/auto-mode/",
+      "pubDate": "2026-08-08T22:36:03.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "521848ca364d",
       "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
       "description": "My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face &mdash; Hacker News.I think one of the most interesting details here might be tucked away in that first bulletin point: May 7: OpenAI starts a new training run for an experimental, unreleased model. (Do they mean an evaluation run? They say training run in the video, and later mention a “reward signal to judge how well they’re doing”, so I guess this really was about training a model, not evaluating one…",
       "link": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
+      "pubDate": "2026-08-08T14:06:41.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dfa7f815d471",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "description": "My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face &mdash; Hacker News.I think one of the most interesting details here might be tucked away in that first bulletin point: May 7: OpenAI starts a new training run for an experimental, unreleased model. (Do they mean an evaluation run? They say training run in the video, and later mention a “reward signal to judge how well they’re doing”, so I guess this really was about training a model, not evaluating one…",
+      "link": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/",
       "pubDate": "2026-08-08T14:06:41.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
@@ -327,10 +579,40 @@
       "type": "blog"
     },
     {
+      "id": "e4d223fab979",
+      "title": "Quoting John Gruber",
+      "description": "Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be an album. Those aren’t rare, per se, but they’re occasional. If I tried to make every post a hall-of-famer I’d never get anything out. I’m aiming for professionalism. I’m performing live in front of an audience — not just jamming in my garage or bedroom, fucking around. So I’m careful and concentrate. I want to hit every note, in time. But at my…",
+      "link": "https://simonwillison.net/2026/Aug/8/john-gruber/",
+      "pubDate": "2026-08-08T00:10:40.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "38e1d864014e",
       "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
       "description": "OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about \"the Hugging Face Incident\" (previously on this blog). The video was published yesterday. It's short and information dense and well worth watching, in particular because it provides full details of what happened and how things played out inside OpenAI. I've used the video to construct the timeline below. Here's the timeline. My favourite detail is at the end: OpenAI found out that they were responsible for the…",
       "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
+      "pubDate": "2026-08-07T23:55:58.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "04e10f679402",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "description": "OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about \"the Hugging Face Incident\" (previously on this blog). The video was published yesterday. It's short and information dense and well worth watching, in particular because it provides full details of what happened and how things played out inside OpenAI. I've used the video to construct the timeline below. Here's the timeline. My favourite detail is at the end: OpenAI found out that they were responsible for the…",
+      "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
       "pubDate": "2026-08-07T23:55:58.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
@@ -360,6 +642,21 @@
       "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
       "description": "Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5, where I had Claude Fable 5 build a full working game from a premise I generated with GPT-3 and DALL-E four years ago. I decided to pose the exact same prompt to Codex Desktop running GPT-5.6 Sol Ultra - the mode where Sol makes aggressive use of sub-agents - to see how it would do. It produced a much better game! Here's Moonlight &amp; Mayhem -…",
       "link": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+      "pubDate": "2026-08-07T19:18:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e4a8cc5d4128",
+      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+      "description": "Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5, where I had Claude Fable 5 build a full working game from a premise I generated with GPT-3 and DALL-E four years ago. I decided to pose the exact same prompt to Codex Desktop running GPT-5.6 Sol Ultra - the mode where Sol makes aggressive use of sub-agents - to see how it would do. It produced a much better game! Here's Moonlight &amp; Mayhem -…",
+      "link": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/",
       "pubDate": "2026-08-07T19:18:09.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
@@ -405,6 +702,21 @@
       "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
       "description": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI There's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th: “We’re seeing from some of the data internally at least that it’s actually not our engineers that are driving the token consumption. It’s a lot of the non-engineers that are doing some of those behaviors [...] you were talking about,” Justice Kwak, Accenture’s agentic AI strategy lead,…",
       "link": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+      "pubDate": "2026-08-07T16:18:51.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "22d6ecf99493",
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+      "description": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI There's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th: “We’re seeing from some of the data internally at least that it’s actually not our engineers that are driving the token consumption. It’s a lot of the non-engineers that are doing some of those behaviors [...] you were talking about,” Justice Kwak, Accenture’s agentic AI strategy lead,…",
+      "link": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/",
       "pubDate": "2026-08-07T16:18:51.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
@@ -475,6 +787,21 @@
       "type": "blog"
     },
     {
+      "id": "12240cabee3d",
+      "title": "datasette-auth-tokens 0.4a13",
+      "description": "Release: datasette-auth-tokens 0.4a13 Upgraded for compatibility with `sqlite-utils 4. Tags: datasette",
+      "link": "https://simonwillison.net/2026/Aug/6/datasette-auth-tokens/",
+      "pubDate": "2026-08-06T23:07:47.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "436303fd202c",
       "title": "The Missing Piece of Agent Self-Improvement",
       "description": "...explained step-by-step with code.",
@@ -504,6 +831,21 @@
       "type": "blog"
     },
     {
+      "id": "524600ece065",
+      "title": "datasette 1.0a38",
+      "description": "Release: datasette 1.0a38 This release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access configured using the Datasette permissions system. Site administrators who serve private tables in this way are advised to disable the execute-sql permission ` on that database to prevent users from accessing private tables using raw SQL queries. The bug that has been fixed would have allowed users with…",
+      "link": "https://simonwillison.net/2026/Aug/6/datasette/",
+      "pubDate": "2026-08-06T18:24:34.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c8e6264a025a",
       "title": "datasette 0.65.3",
       "description": "Release: datasette 0.65.3 Back-ported the SQL Injection security fix from 1.0a38. Tags: datasette",
@@ -519,10 +861,40 @@
       "type": "blog"
     },
     {
+      "id": "a7ea49da1c41",
+      "title": "datasette 0.65.3",
+      "description": "Release: datasette 0.65.3 Back-ported the SQL Injection security fix from 1.0a38. Tags: datasette",
+      "link": "https://simonwillison.net/2026/Aug/6/datasette-2/",
+      "pubDate": "2026-08-06T18:22:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "eed6e820946e",
       "title": "Simon Willison on Technical Blogging",
       "description": "Simon Willison on Technical Blogging I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog! It includes my answers to the following questions: Why did you start blogging – and why do you continue? What has been the most surprising impact of blogging for you? What blog post are you most proud of and why? What post was the most difficult to write and how did you tackle it? Any lessons learned…",
       "link": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything",
+      "pubDate": "2026-08-06T18:04:39.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "666c82a5cd42",
+      "title": "Simon Willison on Technical Blogging",
+      "description": "Simon Willison on Technical Blogging I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog! It includes my answers to the following questions: Why did you start blogging – and why do you continue? What has been the most surprising impact of blogging for you? What blog post are you most proud of and why? What post was the most difficult to write and how did you tackle it? Any lessons learned…",
+      "link": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/",
       "pubDate": "2026-08-06T18:04:39.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
@@ -623,10 +995,40 @@
       "type": "blog"
     },
     {
+      "id": "3e9c8f31f9e8",
+      "title": "An AI model from Meta also hacked another company during testing",
+      "description": "An AI model from Meta also hacked another company during testing Stop me if you've heard this one before: An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday. Meta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic. “A misconfiguration by Irregular, an independent testing company…",
+      "link": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/",
+      "pubDate": "2026-08-06T00:25:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "46fcc09b2b72",
       "title": "Introducing Muse Code and Muse Spark 1.2",
       "description": "Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as part of getting that to work! Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows. In Muse Spark 1.2, we significantly scaled up training compute on coding tasks while…",
       "link": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+      "pubDate": "2026-08-05T23:58:35.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "67113138e727",
+      "title": "Introducing Muse Code and Muse Spark 1.2",
+      "description": "Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as part of getting that to work! Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows. In Muse Spark 1.2, we significantly scaled up training compute on coding tasks while…",
+      "link": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/",
       "pubDate": "2026-08-05T23:58:35.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
@@ -653,10 +1055,40 @@
       "type": "blog"
     },
     {
+      "id": "9610dc3cc026",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "description": "Third-party cyber evaluations involving OpenAI models And another one. I had to create a accidental-cyberattacks tag to keep track of them all! This post from OpenAI covers both the UK AI Safety Institute attack (see my previous post) and another attack enabled by Irregular: Irregular, one of our external cybersecurity testing partners, was running Capture-the-Flag-style evaluations intended to be isolated from the internet, but a testing-environment misconfiguration allowed models to access…",
+      "link": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/",
+      "pubDate": "2026-08-05T23:45:32.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "92ea9e6e9847",
       "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
       "description": "Incident Report: unsanctioned agent behaviour during cyber testing It happened again. This time it was the UK government's AI Security Institute who accidentally attacked other companies while running an evaluation with models with the safety filters turned off. From their technical paper (PDF): During a cyber evaluation, from 25 to 28 July 2026, AI agents engaged in sustained, unsanctioned activity directed at what were, in practice, real people and organisations. These attempts were…",
       "link": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+      "pubDate": "2026-08-05T23:32:06.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f58f86051427",
+      "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+      "description": "Incident Report: unsanctioned agent behaviour during cyber testing It happened again. This time it was the UK government's AI Security Institute who accidentally attacked other companies while running an evaluation with models with the safety filters turned off. From their technical paper (PDF): During a cyber evaluation, from 25 to 28 July 2026, AI agents engaged in sustained, unsanctioned activity directed at what were, in practice, real people and organisations. These attempts were…",
+      "link": "https://simonwillison.net/2026/Aug/5/incident-report/",
       "pubDate": "2026-08-05T23:32:06.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
@@ -686,6 +1118,21 @@
       "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
       "description": "Back in 2024 I tweeted screenshots of a game concept generated by GPT-3 and some concept \"art\" created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5 (running in Claude Code for web) could build the entire game from the content of that tweet. It did a pretty good job of it! You can play the game here. Here's the GitHub repo, and a short video demo: Your browser does not support HTML5 video. How I built this This is the August 5th, 2022 tweet: My…",
       "link": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
+      "pubDate": "2026-08-05T19:42:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b9bb179c3f4f",
+      "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
+      "description": "Back in 2022 I tweeted screenshots of a game concept generated by GPT-3 and some concept \"art\" created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5 (running in Claude Code for web) could build the entire game from the content of that tweet. It did a pretty good job of it! You can play the game here. Here's the GitHub repo, and a short video demo: Your browser does not support HTML5 video. How I built this This is the August 5th, 2022 tweet: My…",
+      "link": "https://simonwillison.net/2026/Aug/5/raccoon-heist/",
       "pubDate": "2026-08-05T19:42:38.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
@@ -815,6 +1262,21 @@
       "type": "blog"
     },
     {
+      "id": "26f56ad86402",
+      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+      "description": "I released LLM 0.32 this morning, the most significant new version of LLM since the initial launch of the project. The new version includes support for visible reasoning traces, server-side provider tools, redesigned content-addressable SQLite logs, new models, and new features enabled by the OpenAI Responses API. I also released a new version of the llm-anthropic plugin with substantial updates of its own. Headline features for LLM CLI users Running LLM against reasoning models now displays…",
+      "link": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/",
+      "pubDate": "2026-08-04T23:58:24.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9e2dab409689",
       "title": "PHP Alive and Kicking 2026.08.04",
       "description": "🎙️ PHP Alive and Kicking – August 4, 2026 Hosts: Chris Miller (standing in solo while Mike is on holiday) Mike escaped to a beach so Chris hosts alone with special guest Derick Rethans. Expect date-time philosophy, PHP 8.6 goodies, Xdebug secrets, deprecation drama, and a heated debate about how to queue at a pub. […] The post PHP Alive and Kicking 2026.08.04 appeared first on PHP Architect.",
@@ -834,6 +1296,21 @@
       "title": "llm-anthropic 0.26",
       "description": "Release: llm-anthropic 0.26 Includes new features enabled by LLM 0.32: New models: claude-fable-5, claude-sonnet-5, and claude-opus-5. #75, #76 Added server-side tools for WebSearch, WebFetch, CodeExecution, and AnthropicMCP, available through LLM's -T interface or Python tools=. The previous -o web_search* options have been removed in favor of -T WebSearch. #79 Upgraded to llm&gt;=0.32. Reasoning, tool calls, tool results, and server-side tool results now stream as typed events. Reasoning for…",
       "link": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
+      "pubDate": "2026-08-04T22:00:58.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c29f67bc035b",
+      "title": "llm-anthropic 0.26",
+      "description": "Release: llm-anthropic 0.26 Includes new features enabled by LLM 0.32: New models: claude-fable-5, claude-sonnet-5, and claude-opus-5. #75, #76 Added server-side tools for WebSearch, WebFetch, CodeExecution, and AnthropicMCP, available through LLM's -T interface or Python tools=. The previous -o web_search* options have been removed in favor of -T WebSearch. #79 Upgraded to llm&gt;=0.32. Reasoning, tool calls, tool results, and server-side tool results now stream as typed events. Reasoning for…",
+      "link": "https://simonwillison.net/2026/Aug/4/llm-anthropic/",
       "pubDate": "2026-08-04T22:00:58.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
@@ -874,6 +1351,21 @@
       "type": "blog"
     },
     {
+      "id": "a290a70c8a5a",
+      "title": "PipeNetwork/minimax-h3-mlx",
+      "description": "PipeNetwork/minimax-h3-mlx MiniMax released MiniMax-H3 two days ago - they describe it as a \"a general-purpose, omni-modal generative system\", which in practice means it accepts text, images, audio and video and can use them to generate up to 15 second video clips with audio included. This Python package ports it to MLX for running on Apple Silicon. I got it running on my M5 Max MacBook Pro. I cloned the repo and ran the model like this: # First download the models uvx --from huggingface_hub hf…",
+      "link": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/",
+      "pubDate": "2026-08-04T19:10:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "709b107ba47a",
       "title": "AWS Security Hub Adds Socket for Supply Chain Security",
       "description": "Amazon Web Services (AWS) customers can now adopt Socket directly through the AWS Security Hub Extended plan, apply committed AWS spend, and start with the first month free. Socket covers supply chain security in the program, with deep behavioral analysis that catches malicious packages signature-based tools miss. Supply chain security in the Extended plan # The AWS Security Hub Extended plan brings curated third-party security tools into AWS across 10 security categories, with pay-as-you-go…",
@@ -893,6 +1385,21 @@
       "title": "llm 0.32",
       "description": "Release: llm 0.32 See my detailed blog post about this release. Tags: llm",
       "link": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
+      "pubDate": "2026-08-04T17:15:33.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2211277e78d0",
+      "title": "llm 0.32",
+      "description": "Release: llm 0.32 See my detailed blog post about this release. Tags: llm",
+      "link": "https://simonwillison.net/2026/Aug/4/llm/",
       "pubDate": "2026-08-04T17:15:33.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",

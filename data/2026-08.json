@@ -2,6 +2,70 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "a94551effe0a",
+      "title": "Herdr, un multiplexeur qui gère vos agents",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/herdr-multiplexer-2351 Dans cette vidéo je vous propose de découvrir Herdr, un multiplexeur de terminal qui permet depuis une fenêtre de lancer plusieurs session de terminal avec des workspaces et des onglets et surtout un support des agents IA. 00:00 Introduction 00:35 Présentation de l'interface 02:32 Gestions des agents 04:16 Utilisation des skills 07:03 Conclusion ______________________ Soutenir la chaîne : ⭐ Devenez premium :…",
+      "link": "https://www.youtube.com/watch?v=DbEEw9DQ4zU",
+      "pubDate": "2026-08-12T13:00:07.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/DbEEw9DQ4zU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "DbEEw9DQ4zU"
+    },
+    {
+      "id": "c50a9e3abfa7",
+      "title": "Laravel 13.25 : découvrez php artisan dev 🚀 | Nouvelle expérience de dev local",
+      "description": "Apprends Laravel et l'IA sur laraveljutsu.com ! Laravel vient de sortir une petite nouveauté particulièrement sympa pour le développement en local : `php artisan dev`. Dans cette vidéo, je vous montre rapidement cette nouvelle expérience introduite avec Laravel v13.25.0 : une interface qui permet de centraliser et suivre facilement les différents processus de votre environnement de développement. Au programme : * 🚀 `php artisan dev` * 🖥️ Gestion des différents processus depuis une seule…",
+      "link": "https://www.youtube.com/watch?v=Yr7nmyJDkgE",
+      "pubDate": "2026-08-12T09:03:59.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Yr7nmyJDkgE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Yr7nmyJDkgE"
+    },
+    {
+      "id": "0eab06bc977f",
+      "title": "Quand le cache de Symfony ralentit votre application...",
+      "description": "Mettre une valeur en cache, c'est toujours plus rapide, non ? Et bien, pas forcément ! Cet article partage l'analyse d'un problème de performance causé par la protection \"anti-stampede\" du composant Cache de Symfony, et sur la manière dont nous l'avons diagnostiqué puis corrigé. Nous avons récemment corrigé un problème de lenteur sur une application Symfony en production. Le diagnostic nous a pris un certain temps, car la cause était contre-intuitive : le responsable était le composant Cache de…",
+      "link": "https://jolicode.com/blog/quand-le-cache-de-symfony-ralentit-votre-application",
+      "pubDate": "2026-08-12T08:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/cache-lock/cache-lock-flow.png",
+      "type": "blog"
+    },
+    {
+      "id": "a01bf5a97219",
+      "title": "CCAF : ce que l'exam guide officiel ne vous dit pas",
+      "description": "Introduction On a passé la CCAF cette semaine. Autant le dire tout de suite : on est tous les deux juniors, sans des mois d'arbitrages de prod derrière nous, nous savions donc que notre expérience ne nous aiderait pas. Ce qu'on pensait,",
+      "link": "https://blog.ippon.fr/2026/08/12/ccaf-ce-que-lexam-guide-officiel-ne-vous-dit-pas/",
+      "pubDate": "2026-08-12T07:44:41.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/ChatGPT-Image-12-ao--t-2026----10_44_23.png",
+      "type": "blog"
+    },
+    {
       "id": "5ad607fa468c",
       "title": "#369.bin - Intelligence(s): Collective: Performance = Expertise + Diversité avec Emile Servan-schreiber",
       "description": "\"On utilise la bêtise des autres pour annuler sa bêtise à soi\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre ce qu'est vraiment l'intelligence. Le D.E.V. de la semaine est Emile…",
@@ -18,6 +82,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/56cdc8d2-3fdc-4bb7-9a38-08ef98906495.mp3?_=1786449678",
       "duration": "01:02:29"
+    },
+    {
+      "id": "bb68f11e36d0",
+      "title": "L'IA n'a pas votre vécu",
+      "description": "J’ai évoqué dans une publication précédente, l’usage de l’IA par les leaders pour construire leurs arguments, et la perte d’authenticité que cela entraîne. J’ai exactement le même sentiment côté technique. De plus en plus, je vois des développeurs avancer des arguments qu’ils n’ont pas construits. Des réponses générées, structurées, bien tournées, mais qui ne sont pas les leurs. Et tout comme pour les leaders, cela désincarne les propos et leur fait perdre en crédibilité. La discussion s’engage…",
+      "link": "https://www.jdecool.fr/blog/2026/08/12/l-ia-n-a-pas-votre-vecu.html",
+      "pubDate": "2026-08-11T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "e41fdc6e6c7c",
