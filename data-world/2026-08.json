@@ -2,6 +2,154 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "481e2b039322",
+      "title": "sqlite-utils 4.2.1",
+      "description": "Release: sqlite-utils 4.2.1 Fixes a crashing bug in sqlite-utils 4.2. I'd introduced code that looks like this: from typing_extensions import Self It turned out the typing-extensions package was not listed as a dependency for sqlite-utils - it was installed by one of the other dependencies in the dev dependency group, but when you uvx sqlite-utils directly you don't get those dependencies. As part of fixing this I figured out how to run a smoke test to ensure the CLI tool still works even…",
+      "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+      "pubDate": "2026-08-13T23:53:47.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7e6689664475",
+      "title": "The PHP Podcast 2026.08.13",
+      "description": "🎙️ PHP Podcast – August 13, 2026 Hosts: Eric Van Johnson & John Congdon Eric and John reunite after weeks apart to talk Laracon in Boston, more diverse voices coming to this time slot, CPX finally giving PHP an npx, a stripped-down PHPStorm Light, and PHP Tek’s extended CFP. 🔀 Stepping Back to Make Room […] The post The PHP Podcast 2026.08.13 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-08-13/",
+      "pubDate": "2026-08-13T23:25:33.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/08/Wt938Ot6szA-maxresdefault.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "21611efaa3a8",
+      "title": "sqlite-utils 4.2",
+      "description": "Release: sqlite-utils 4.2 Lots of improvements in this one relating to the table.transform() feature, which adds support for complex alter table operations by creating a fresh table, copying across the data and then dropping and replacing the old one. transform() now preserves a much larger array of edge-case schema definitions, including check constraints, unique constraints and even comments describing the columns. There are also new introspection properties for check constraints, and a whole…",
+      "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+      "pubDate": "2026-08-13T20:11:29.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "707a36f17b57",
+      "title": "Continuous Batching in LLMs",
+      "description": "The technique behind vLLM's 23x throughput jump and the default scheduler in every serving engine.",
+      "link": "https://blog.dailydoseofds.com/p/continuous-batching-in-llms",
+      "pubDate": "2026-08-13T20:01:13.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!gfXs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6f5b5a8-d2da-4f73-a908-404e0e57347c_680x380.png",
+      "type": "blog"
+    },
+    {
+      "id": "2024bc366264",
+      "title": "llm-gemini 0.33",
+      "description": "Release: llm-gemini 0.33 It's been a while since the last llm-gemini release. This version of the plugin adds support for today's Gemini 3.7 Flash release, plus gemini-3.6-flash, gemini-3.5-flash-lite and two embedding models gemini-embedding-2 and gemini-embedding-001. The plugin is also upgraded for compatibility with LLM 0.32, which means you can now see reasoning traces and you can also enable server-side tools using this pattern: llm -m gemini-3.7-flash -T CodeExecution \\ 'use python to…",
+      "link": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+      "pubDate": "2026-08-13T19:37:34.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "57a3a10aa174",
+      "title": "Prompt Debt and “Fighting the Weights”",
+      "description": "Drew Breunig is one of the smartest voices writing about AI today. He’s the CEO and co-founder of cmpnd.ai, and a long-time hacker with a depth of experience from several eras, which is a surprisingly valuable asset these days. He’s also got a book on the way, The Context Engineering Handbook, already in early release […]",
+      "link": "https://www.oreilly.com/radar/prompt-debt-and-fighting-the-weights/",
+      "pubDate": "2026-08-13T16:08:12.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/image.png",
+      "type": "blog"
+    },
+    {
+      "id": "04ea15fb41c8",
+      "title": "Why we removed AI solutions from Flare",
+      "description": "We explain why Flare's old AI-generated solutions no longer fit the way developers debug with modern coding agents. The replacement is a better workflow built around the MCP server, CLI, Copy for AI prompts, and agent-friendly docs. Read more",
+      "link": "https://freek.dev/3178-why-we-removed-ai-solutions-from-flare",
+      "pubDate": "2026-08-13T10:30:30.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c826bd5491bb",
+      "title": "Announcing the Symfony AI Core Team",
+      "description": "When we announced the Symfony AI initiative in July 2025, the goal was to bring powerful, well-integrated AI capabilities to PHP applications and to build them in the open with the community. A little over a year later, Symfony AI has grown far beyond those…",
+      "link": "https://symfony.com/blog/announcing-the-symfony-ai-core-team?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-13T07:04:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d533dcdb090f",
+      "title": "alchemy-utils 0.1a1",
+      "description": "Release: alchemy-utils 0.1a1 Performance boost for DuckDB exports and CSV imports, see here.",
+      "link": "https://simonwillison.net/2026/Aug/13/alchemy-utils/",
+      "pubDate": "2026-08-13T03:03:17.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fa44c462dbb1",
+      "title": "PHP Ambassadors: Six Weeks In",
+      "description": "When we launched the PHP Ambassador Program on June 19, 2026, we honestly didn’t know what to expect. We knew the need for something like this was definitely there, and it seemed like something the community would be interested in being a part of. But as they say, “you never know how a thing is going to go, until it goes.” I mentioned in my strategy document that I was hoping to enlist 10 people to attend a regular cadence of meetings. (Honestly, 10 people seemed like a reasonable number.) Not…",
+      "link": "https://thephp.foundation/blog/2026/08/13/php-ambassadors-six-weeks-in/",
+      "pubDate": "2026-08-13T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8d31cb94ef58",
       "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
       "description": "DeepSeek V4 Pro 0813 (on OpenRouter) The latest DeepSeek Pro model is now available, via API only. I had to link to OpenRouter because DeepSeek don't have any obvious announcement page for their new model. I haven't been able to confirm if they plan to release the open weights, but given the weights are available for both April's deepseek-ai/DeepSeek-V4-Pro and July's deepseek-ai/DeepSeek-V4-Flash-0731 it seems likely. Interestingly I got very different looking pelicans for the three different…",

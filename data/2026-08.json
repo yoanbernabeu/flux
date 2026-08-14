@@ -2,6 +2,41 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "76152b4e351c",
+      "title": "Claude Code peut maintenant CRÉER et DÉPLOYER ton app tout seul",
+      "description": "🚀 Teste Hostinger Connector et déploie ton app avec Claude Code 👉 https://www.hostg.xyz/SHJtF -10 % avec le code PENTIMINAX Claude Code peut maintenant CRÉER et DÉPLOYER ton application tout seul ! Dans cette vidéo, je teste jusqu’où peut aller Claude Code lorsqu’on le connecte directement à une infrastructure de déploiement grâce au MCP (Model Context Protocol) et à Hostinger Connector. L’objectif est simple : partir d’un simple prompt, laisser l’agent IA construire une application complète……",
+      "link": "https://www.youtube.com/watch?v=z10S_wYx7TQ",
+      "pubDate": "2026-08-13T15:46:02.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/z10S_wYx7TQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "z10S_wYx7TQ"
+    },
+    {
+      "id": "4220176f74b5",
+      "title": "Les échecs à l’ère de l’intelligence artificielle",
+      "description": "À l’ère de l’intelligence artificielle, le jeu d’échecs a connu une transformation sans précédent ♟ Longtemps symbole du raisonnement humain et de la créativité, il est devenu un laboratoire privilégié pour observer la rencontre entre l’homme et la machine. En tant que grand maître international, ayant traversé l’époque pré-informatique, puis celle des moteurs classiques, jusqu’à l’avènement des réseaux neuronaux comme AlphaZero, Laurent Fressinet a donné un regard de l’intérieur sur cette…",
+      "link": "https://www.youtube.com/watch?v=B2m-Kfa9nD8",
+      "pubDate": "2026-08-13T08:54:00.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/B2m-Kfa9nD8/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "B2m-Kfa9nD8"
+    },
+    {
       "id": "a94551effe0a",
       "title": "Herdr, un multiplexeur qui gère vos agents",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/herdr-multiplexer-2351 Dans cette vidéo je vous propose de découvrir Herdr, un multiplexeur de terminal qui permet depuis une fenêtre de lancer plusieurs session de terminal avec des workspaces et des onglets et surtout un support des agents IA. 00:00 Introduction 00:35 Présentation de l'interface 02:32 Gestions des agents 04:16 Utilisation des skills 07:03 Conclusion ______________________ Soutenir la chaîne : ⭐ Devenez premium :…",
