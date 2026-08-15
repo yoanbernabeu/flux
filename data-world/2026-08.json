@@ -2,6 +2,79 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "ee5307265f0f",
+      "title": "Northern Gannet",
+      "description": "Northern Gannet, in Pillar Point Harbor, CA, USThis is Morris. Morris is a local celebrity: the only known Northern Gannet (Morus bassanus) in the entire Pacific Ocean. He showed up in the Farallon Islands off the coast of San Francisco 14 years ago. He has since made Pillar Point harbor his home, where he's quite easy to spot: the only white bird with a yellow head, usually hanging out with the smaller black Brandt’s cormorants near the harbor sign visible from the end of the commercial pier.…",
+      "link": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
+      "pubDate": "2026-08-15T03:22:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "65448e9eb8b5",
+      "title": "Don't classify. Hallucinate!",
+      "description": "Don&#x27;t classify. Hallucinate! I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say \"which of these tags match the following content\". Doug Turnbull has a neat solution. Tell the model to output tags without any details of the existing vocabulary, then use vector embeddings against the existing corpus to find the concrete tags that are closest to the ones the model imagined might…",
+      "link": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+      "pubDate": "2026-08-14T21:54:35.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6872041a245f",
+      "title": "How Production LLMs Reason Better At Inference Time",
+      "description": "8 techniques, explained visually.",
+      "link": "https://blog.dailydoseofds.com/p/how-production-llms-reason-better",
+      "pubDate": "2026-08-14T20:42:08.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!-RU6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef3b7696-5b80-4f58-b5d0-f4c729dc8c0e_1510x1295.png",
+      "type": "blog"
+    },
+    {
+      "id": "bd5dd7ea1ba5",
+      "title": "The Intent Debt",
+      "description": "The following article originally appeared on Addy Osmani’s blog site and is being republished here with the author’s permission. Technical debt lives in your code. Cognitive debt lives in your head. Intent debt lives in the artifacts you may never have written: the goals, constraints, and rationale for why the system is the way it […]",
+      "link": "https://www.oreilly.com/radar/the-intent-debt/",
+      "pubDate": "2026-08-14T13:01:38.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9e6cef149ddf",
+      "title": "Can we make default Tailwind a more accessible choice?",
+      "description": "A sharp look at Tailwind's default rem-based breakpoints, and the accessibility tradeoff they make. It explains how browser font-size preferences can shift layouts, why that can help some users, and why px breakpoints are still a defensible choice. Read more",
+      "link": "https://freek.dev/3179-can-we-make-default-tailwind-a-more-accessible-choice",
+      "pubDate": "2026-08-14T10:30:33.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "481e2b039322",
       "title": "sqlite-utils 4.2.1",
       "description": "Release: sqlite-utils 4.2.1 Fixes a crashing bug in sqlite-utils 4.2. I'd introduced code that looks like this: from typing_extensions import Self It turned out the typing-extensions package was not listed as a dependency for sqlite-utils - it was installed by one of the other dependencies in the dev dependency group, but when you uvx sqlite-utils directly you don't get those dependencies. As part of fixing this I figured out how to run a smoke test to ensure the CLI tool still works even…",
@@ -70,6 +143,21 @@
       "sourceUrl": "https://simonwillison.net/atom/everything/",
       "categories": [
         "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7f335484d07",
+      "title": "White House Authorizes Private Companies to Conduct Offensive Cyber Operations",
+      "description": "The White House is creating a program that will allow vetted U.S. companies to conduct offensive cyber operations against foreign cybercrime groups under federal direction. The presidential memorandum creates a formal path for private companies to perform work usually associated with government cyber operators. Participating firms could covertly access criminal systems, collect intelligence, disrupt networks, manipulate infrastructure, or destroy data after receiving approval from the…",
+      "link": "https://socket.dev/blog/private-sector-offensive-cyber-operations?utm_medium=feed",
+      "pubDate": "2026-08-13T16:13:54.694Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
         "Programmation"
       ],
       "image": null,

@@ -2,6 +2,37 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "a5cd53392221",
+      "title": "Laravel 13.25 : enfin une pause globale des queues",
+      "description": "Vous déployez une application Laravel avec plusieurs queues ? Jusqu’à Laravel 13.25, il fallait les mettre en pause une par une… avec le risque d’en oublier une en pleine migration. Avec queue:pause --all et queue:resume --all, Laravel 13.25 simplifie enfin cette opération en une seule commande. Dans cette vidéo de 2 min 14, on voit concrètement la différence avec deux jobs, deux queues et deux workers, puis on passe à la pause et au resume global.",
+      "link": "https://www.youtube.com/watch?v=l_I12VDvm9o",
+      "pubDate": "2026-08-14T16:17:02.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/l_I12VDvm9o/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "l_I12VDvm9o"
+    },
+    {
+      "id": "5bce5bc8ca3f",
+      "title": "Liens Tech - Août 2026",
+      "description": "La sélection du mois : un serveur de livres audio auto-hébergé, un outil de gestion multi-cluster pour Proxmox, un générateur de fichiers docker-compose, une plateforme de simulation d'attaques cyber, un outil de visualisation de données et un système de prévention d'intrusion pour serveurs Linux.",
+      "link": "https://domopi.eu/liens-tech-aout-2026/",
+      "pubDate": "2026-08-14T05:45:35.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "76152b4e351c",
       "title": "Claude Code peut maintenant CRÉER et DÉPLOYER ton app tout seul",
       "description": "🚀 Teste Hostinger Connector et déploie ton app avec Claude Code 👉 https://www.hostg.xyz/SHJtF -10 % avec le code PENTIMINAX Claude Code peut maintenant CRÉER et DÉPLOYER ton application tout seul ! Dans cette vidéo, je teste jusqu’où peut aller Claude Code lorsqu’on le connecte directement à une infrastructure de déploiement grâce au MCP (Model Context Protocol) et à Hostinger Connector. L’objectif est simple : partir d’un simple prompt, laisser l’agent IA construire une application complète……",
