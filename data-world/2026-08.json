@@ -2,6 +2,51 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "a22cf7dd149b",
+      "title": "CORS Chat",
+      "description": "Tool: CORS Chat I built this today (with GPT-5.6-Sol xhigh) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark. It provides a web UI for exercising an OpenAI-Responses-compatible chat endpoint. I've tried it against LM Studio with the --cors option and OpenRouter, and both work fine. Conversations are persisted in the browser and can be exported as copy-pasted JSON. One fun detail is that it notices SVG images that are being generated and…",
+      "link": "https://simonwillison.net/2026/Aug/15/cors-chat/",
+      "pubDate": "2026-08-15T14:49:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a312521f6049",
+      "title": "I Made My AI Agent Fix Its Own Copy-Paste (jscpd + Mago)",
+      "description": "Video version: https://youtu.be/ubhVleOpLQ0 It’s so easy to ask an AI agent to build a feature, and have it hand you 5,000 lines of code. It might even feel like a win until you start reading it so see the same validation block in four controllers, the same database-fetch boilerplate in six models, and that efvery […] The post I Made My AI Agent Fix Its Own Copy-Paste (jscpd + Mago) appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/08/i-made-my-ai-agent-fix-its-own-copy-paste-jscpd-mago/",
+      "pubDate": "2026-08-15T13:51:22.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/08/jscpd.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c0a7b60aeffc",
+      "title": "Flare now uses OAuth for MCP, the CLI, and API",
+      "description": "We explain how Flare now uses OAuth to connect MCP clients, the CLI, and the API with scoped permissions instead of broad long-lived tokens. The new flow makes setup faster, adds read-only and project-level access control, and gives you one place to manage every connection. Read more",
+      "link": "https://freek.dev/3180-flare-now-uses-oauth-for-mcp-the-cli-and-api",
+      "pubDate": "2026-08-15T10:30:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ee5307265f0f",
       "title": "Northern Gannet",
       "description": "Northern Gannet, in Pillar Point Harbor, CA, USThis is Morris. Morris is a local celebrity: the only known Northern Gannet (Morus bassanus) in the entire Pacific Ocean. He showed up in the Farallon Islands off the coast of San Francisco 14 years ago. He has since made Pillar Point harbor his home, where he's quite easy to spot: the only white bird with a yellow head, usually hanging out with the smaller black Brandt’s cormorants near the harbor sign visible from the end of the commercial pier.…",

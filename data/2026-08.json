@@ -2,6 +2,22 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "c3153b881c7c",
+      "title": "Sous le capot de Bluesky : l'ATProto)",
+      "description": "Sous le capot d'un PDS ATProto : un dépôt de données cryptographique, trié dans un Merkle Search Tree et signé à chaque écriture. On ouvre mon propre dépôt à la main : on liste ses records, on télécharge son export CAR, et on vérifie sa signature nous-mêmes, sans jamais faire confiance au serveur.",
+      "link": "https://une-tasse-de.cafe/blog/atproto-pds/",
+      "pubDate": "2026-08-15T06:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a5cd53392221",
       "title": "Laravel 13.25 : enfin une pause globale des queues",
       "description": "Vous déployez une application Laravel avec plusieurs queues ? Jusqu’à Laravel 13.25, il fallait les mettre en pause une par une… avec le risque d’en oublier une en pleine migration. Avec queue:pause --all et queue:resume --all, Laravel 13.25 simplifie enfin cette opération en une seule commande. Dans cette vidéo de 2 min 14, on voit concrètement la différence avec deux jobs, deux queues et deux workers, puis on passe à la pause et au resume global.",
