@@ -2,6 +2,80 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "b2b654098c8b",
+      "title": "Markdown SVG upgrades",
+      "description": "I started building my markdown-svg-renderer tool in May, but I've since added enough features to it that it's worth talking about here again. It's evolved into my ideal tool for sharing Markdown transcripts that include SVG documents. Given my proclivity for drawing pelicans riding bicycles this is a problem that I needed to solve! The tool is very simple. Navigate to markdown-svg-renderer in your browser and paste in some Markdown to see it rendered... or save that Markdown to a CORS-friendly…",
+      "link": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+      "pubDate": "2026-08-16T23:59:37.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "79efbb054d4a",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "description": "Friday's big release was Qwen 3.8 27B, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive. Qwen's self-reported benchmarks for this model are eye-opening. They show a boost from both Qwen 3.6 27B and the closed-weight Qwen 3.7-Plus, which was one of Qwen's strongest models of any size as recently…",
+      "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "pubDate": "2026-08-16T22:00:39.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "668642358799",
+      "title": "A Cheaper Model Does Not Imply a Cheaper Turn",
+      "description": "The practical implications of model routing, clearly explained.",
+      "link": "https://blog.dailydoseofds.com/p/a-cheaper-model-does-not-imply-a",
+      "pubDate": "2026-08-16T20:36:23.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!PaXX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54595275-45bb-462f-9a9b-119e9f373675_960x706.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e27bba9b0711",
+      "title": "Quoting Dario Amodei",
+      "description": "I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or any other AI leader warning about AI’s risks. I think it is fundamentally a crisis of trust. I think that ordinary people don’t trust companies, governments, or the tech industry and always suspect that we are cooking up some new way to screw them over. The causes of this go back decades and AI is just the latest iteration of it. I don’t think that a glitzy…",
+      "link": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+      "pubDate": "2026-08-16T15:05:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f61fdfe7e8cb",
+      "title": "A Week of Symfony #1024 (August 10–16, 2026)",
+      "description": "This week, development activity for the upcoming Symfony 8.2 release was very intense: PropertyInfo made accessors and mutators configurable with attributes, HttpFoundation added targeted Cache-Control support conforming to RFC 9213, Console attributes can…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1024-august-10-16-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-16T07:01:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a22cf7dd149b",
       "title": "CORS Chat",
       "description": "Tool: CORS Chat I built this today (with GPT-5.6-Sol xhigh) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark. It provides a web UI for exercising an OpenAI-Responses-compatible chat endpoint. I've tried it against LM Studio with the --cors option and OpenRouter, and both work fine. Conversations are persisted in the browser and can be exported as copy-pasted JSON. One fun detail is that it notices SVG images that are being generated and…",
