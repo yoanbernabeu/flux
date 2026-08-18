@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "fcbe3e8ea6ec",
+      "title": "Ceux qui ont supprimé la revue de code ont raison.",
+      "description": "Des développeurs sont arrivés sur ma MR avec une IA qui faisait la revue à leur place. Ceux qui ont carrément supprimé la revue sont presque plus honnêtes, parce qu'ils ont vu qu'elle avait perdu la course. Reste à savoir ce qu'ils ont mis à la place, et la plupart n'ont rien mis.",
+      "link": "https://f2r.github.io/fr/supprimer-revue-code.html",
+      "pubDate": "2026-08-17T00:00:00.000Z",
+      "source": "F2R (Frédéric Bouchery)",
+      "sourceUrl": "https://f2r.github.io/feed/fr.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c3153b881c7c",
       "title": "Sous le capot de Bluesky : l'ATProto)",
       "description": "Sous le capot d'un PDS ATProto : un dépôt de données cryptographique, trié dans un Merkle Search Tree et signé à chaque écriture. On ouvre mon propre dépôt à la main : on liste ses records, on télécharge son export CAR, et on vérifie sa signature nous-mêmes, sans jamais faire confiance au serveur.",

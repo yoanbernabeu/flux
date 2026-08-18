@@ -2,6 +2,123 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "e31db42fd1ba",
+      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+      "description": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.6B parameters, and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model. Via Hacker News Tags: ai, generative-ai, llms, qwen, ai-in-china, artificial-analysis",
+      "link": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+      "pubDate": "2026-08-17T23:58:14.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e4ade265c2e6",
+      "title": "How a GPU Actually Works",
+      "description": "The intuition an LLM engineer needs. Understand techniques like quantization, speculative decoding, and continuous batching in one place.",
+      "link": "https://blog.dailydoseofds.com/p/how-a-gpu-actually-works",
+      "pubDate": "2026-08-17T21:01:19.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!6YLL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfe61c52-7e2e-4089-bead-24e826ffedd5_854x502.png",
+      "type": "blog"
+    },
+    {
+      "id": "822ed36524ac",
+      "title": "What’s an Orchestrator—and Why Does Software Need One?",
+      "description": "The following article originally appeared on Medium and is being republished here with the author’s permission. Everybody’s talking about the death of developers. I get it. The developer whose job was to write boilerplate or scaffold CRUD apps is done—a model can do that in seconds, and that developer is not coming back. But the […]",
+      "link": "https://www.oreilly.com/radar/whats-an-orchestrator-and-why-does-software-need-one/",
+      "pubDate": "2026-08-17T15:55:11.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/image-13.png",
+      "type": "blog"
+    },
+    {
+      "id": "8282daa933f2",
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "description": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility Excellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders for large volumes of books from apparently price-insensitive anonymous customers, widely suspected to be companies looking to scan them for AI training (see my previous coverage of Anthropic's book scanning from June 2025.) 404 Media investigated with an AirTag! In July, one bookseller told me they…",
+      "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+      "pubDate": "2026-08-17T15:21:29.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f8429b16119f",
+      "title": "Immutability in PHP Beyond readonly",
+      "description": "A deep dive into immutability in PHP, from readonly properties and interior mutability to immutable value objects, collections, dates, cloning, boundaries, and testing. Read more",
+      "link": "https://freek.dev/3181-immutability-in-php-beyond-readonly",
+      "pubDate": "2026-08-17T12:12:30.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1bfb84b1af02",
+      "title": "Announcing Symfony Language Tools, the Official Symfony LSP Server",
+      "description": "A Symfony application is full of strings that mean something: route names, service ids, template paths, translation keys, environment variables. But to most editors, they mean nothing. Write redirectToRoute('order_confirmaton') and nothing complains about…",
+      "link": "https://symfony.com/blog/announcing-symfony-language-tools-the-official-symfony-lsp-server?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-17T12:05:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://raw.githubusercontent.com/symfony/language-tools/main/editor/vscode/images/guide/tour.gif",
+      "type": "blog"
+    },
+    {
+      "id": "8076337824e2",
+      "title": "When AI Writes the Code, Specifications Need an Exit Strategy",
+      "description": "The following article has been extended and rewritten by Markus Eisele from The Main Thread and is being republished here with the author’s permission. Open a repository after six months of spec-driven agent work and you may find a second system sitting next to the code. Requirements, research notes, high-level designs, low-level designs, implementation plans, […]",
+      "link": "https://www.oreilly.com/radar/when-ai-writes-the-code-specifications-need-an-exit-strategy/",
+      "pubDate": "2026-08-17T10:45:18.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/image-10-1600x728.png",
+      "type": "blog"
+    },
+    {
+      "id": "eefe65cc49ef",
+      "title": "NIST Proposes AI-Enabled NVD Overhaul After Cutting Routine CVE Enrichment",
+      "description": "The National Institute of Standards and Technology is asking the cybersecurity community how artificial intelligence should reshape the National Vulnerability Database, more than two years after the agency began publicly pointing to automation as a solution for its growing vulnerability processing problems. The Request for Information seeks input on improving the NVD's \"scalability, automation, interoperability, transparency, and utility.\" A separate NIST blog post accompanying the RFI…",
+      "link": "https://socket.dev/blog/nist-nvd-ai-automation?utm_medium=feed",
+      "pubDate": "2026-08-17T05:47:51.246Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/505a5de20b0664af0546cefda70eba0f69656760-2466x1336.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
       "id": "b2b654098c8b",
       "title": "Markdown SVG upgrades",
       "description": "I started building my markdown-svg-renderer tool in May, but I've since added enough features to it that it's worth talking about here again. It's evolved into my ideal tool for sharing Markdown transcripts that include SVG documents. Given my proclivity for drawing pelicans riding bicycles this is a problem that I needed to solve! The tool is very simple. Navigate to markdown-svg-renderer in your browser and paste in some Markdown to see it rendered... or save that Markdown to a CORS-friendly…",
@@ -26,6 +143,21 @@
       "sourceUrl": "https://simonwillison.net/atom/everything/",
       "categories": [
         "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea0959d9a30d",
+      "title": "How AI Agents Expand the Software Supply Chain Attack Surface",
+      "description": "At AI Council 2026, Socket founder and CEO Feross Aboukhadijeh examined how coding agents are changing the software supply chain threat model. Agents can select dependencies, connect to MCP servers, install skills, and execute code with developer credentials, often without a human reviewing those decisions. The talk highlights three important developments: AI agents increasingly choose, install, and run third-party code. Existing security infrastructure assumes humans make those trust…",
+      "link": "https://socket.dev/blog/ai-agents-supply-chain-attack-surface?utm_medium=feed",
+      "pubDate": "2026-08-16T21:04:44.337Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
         "Programmation"
       ],
       "image": null,
