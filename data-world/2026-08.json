@@ -2,6 +2,49 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "d340453cc80f",
+      "title": "Is Open-Source AI Really the Dangerous Path?",
+      "description": "The following article originally appeared on the Tech Policy Press site and is being republished here with the author’s permission. In Washington, AI is increasingly being treated as something that needs to be controlled. The government believes that AI is, first and foremost, a national security asset, meaning that it must be sequestered to prevent […]",
+      "link": "https://www.oreilly.com/radar/?p=19411",
+      "pubDate": "2026-08-19T04:35:28.147Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d82f5875bade",
+      "title": "Mojo🔥 is now open source",
+      "description": "Mojo🔥 is now open source Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023. Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license. When Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025: Mojo may or…",
+      "link": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+      "pubDate": "2026-08-18T21:39:20.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5fd3e7f6e36b",
+      "title": "Grok Bot Masterclass",
+      "description": "Everything you need to understand, set up, and get real work out of Grok Bot.",
+      "link": "https://blog.dailydoseofds.com/p/grok-bot-masterclass",
+      "pubDate": "2026-08-18T19:57:58.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/766f6728-609a-428b-a278-de3eed8825d7_1983x793.png",
+      "type": "blog"
+    },
+    {
       "id": "e31db42fd1ba",
       "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
       "description": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.6B parameters, and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model. Via Hacker News Tags: ai, generative-ai, llms, qwen, ai-in-china, artificial-analysis",
@@ -116,6 +159,21 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/505a5de20b0664af0546cefda70eba0f69656760-2466x1336.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "9a46c45d0c85",
+      "title": "How to Contribute to PHP",
+      "description": "PHP has powered a huge portion of the web for a long time now. It's launched untold numbers of careers and businesses, and many developers attribute their entire careers to the language. But when we find ourselves wanting to give back, it's not always clear how; sure, PHP is open source, but where do we contribute? How? I've run into that wall before. My immediate issue was that I didn't write C, followed pretty immediately by how overwhelming it felt to learn the entire…",
+      "link": "https://thephp.foundation/blog/2026/08/17/how-to-contribute-to-php/",
+      "pubDate": "2026-08-17T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

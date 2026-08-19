@@ -2,6 +2,71 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "7e9cac0def52",
+      "title": "#370.bin - Intelligence(s): Apprentissage: Stocker la bonne information au bon endroit avec Mathieu Hainselin",
+      "description": "\"Notre cerveau n'est pas un disque dur\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre ce qu'est vraiment l'intelligence. Le D.E.V. de la semaine est Mathieu Hainselin, maître de…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-370-47246092eba9",
+      "pubDate": "2026-08-19T03:00:29.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/9faeda6b-eee1-45fd-a0cb-630f290b0c72.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/b6fa9c96-8f1e-4222-a1e6-47246092eba9.mp3?_=1787054489",
+      "duration": "01:05:59"
+    },
+    {
+      "id": "eb91718a928f",
+      "title": "DeepSeek Harness : Claude Code ne sait pas faire ÇA",
+      "description": "DeepSeek Harness peut faire quelque chose que Claude Code ne permet pas aussi directement : modifier son propre environnement et créer de nouvelles fonctionnalités grâce au Creator Mode. Dans cette vidéo, je teste DeepSeek Harness, le nouveau projet open source de DeepSeek basé sur une idée assez radicale : Everything is a Plugin. On va voir ce qu’est réellement un Agent Harness, pourquoi le modèle n’est qu’une partie d’un coding agent, comment fonctionne l’architecture modulaire de DeepSeek…",
+      "link": "https://www.youtube.com/watch?v=TX2d7uzYTbY",
+      "pubDate": "2026-08-18T19:16:46.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/TX2d7uzYTbY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "TX2d7uzYTbY"
+    },
+    {
+      "id": "4c4aa5b713d9",
+      "title": "Comprendre le RAG, adapté l'IA à ses documents",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/rag-ia-2352 Le RAG, pour **Retrieval-Augmented Generation** ou génération augmentée par récupération, permet d'aider une IA à répondre à des questions à partir de documents internes. L'idée n'est pas d'envoyer toute la documentation au modèle, mais de récupérer en amont les informations réellement utiles pour répondre au questionnement de l'utilisateur. 00:00 Présentation 00:22 Pour quel besoin ? 01:30 Exemple 02:20 Comment ça marche ? 02:38 Le…",
+      "link": "https://www.youtube.com/watch?v=qUHEUXwr_J8",
+      "pubDate": "2026-08-18T13:00:48.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/qUHEUXwr_J8/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "qUHEUXwr_J8"
+    },
+    {
+      "id": "bae254b51c37",
+      "title": "SimHash : trouver les pages qui se ressemblent",
+      "description": "Il y a quelques semaines, j'ai eu besoin de détecter du contenu dupliqué dans le crawler de redirection.io. Pas du dupliqué à la virgule près, ça c'est facile, mais du dupliqué « en gros, c'est la même page ». J'aurais pu utiliser des embeddings avec un LLM, mais il me fallait quelque chose de rapide et de gratuit. J'ai finalement utilisé SimHash, un algorithme qui date de 2002 et qui tient en trente lignes de PHP. Dans cet article, nous allons voir pourquoi md5() ne peut pas nous aider,…",
+      "link": "https://jolicode.com/blog/simhash-trouver-les-pages-qui-se-ressemblent",
+      "pubDate": "2026-08-18T07:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/simhash/simhash.png",
+      "type": "blog"
+    },
+    {
       "id": "fcbe3e8ea6ec",
       "title": "Ceux qui ont supprimé la revue de code ont raison.",
       "description": "Des développeurs sont arrivés sur ma MR avec une IA qui faisait la revue à leur place. Ceux qui ont carrément supprimé la revue sont presque plus honnêtes, parce qu'ils ont vu qu'elle avait perdu la course. Reste à savoir ce qu'ils ont mis à la place, et la plupart n'ont rien mis.",
