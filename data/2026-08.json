@@ -2,6 +2,55 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "f258ba305601",
+      "title": "Mon client a reçu le même colis 2 fois 😱",
+      "description": "Deux workers Laravel traitent la même expédition en même temps… et le client reçoit son colis 2 fois. 📦📦 Dans cette vidéo, je reproduis une vraie race condition avec deux processus lancés simultanément, puis je corrige le problème avec Laravel Lock et son système de locks distribués. 🔒 Un exemple simple pour comprendre quand un code du type read → check → modify → side effect peut devenir dangereux avec plusieurs workers ou requêtes concurrentes. Le résultat avant le lock : dispatch_count =…",
+      "link": "https://www.youtube.com/watch?v=RDHiQxXzIUM",
+      "pubDate": "2026-08-19T20:22:20.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/RDHiQxXzIUM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "RDHiQxXzIUM"
+    },
+    {
+      "id": "d397b05088e1",
+      "title": "Découverte de Symfony Language Tools (LSP) pour VS Code et OpenCode",
+      "description": "Découverte de Symfony Language Tools, le nouveau serveur LSP officiel de Symfony pour améliorer l’expérience de développement dans VS Code et les autres éditeurs compatibles LSP. Dans cette vidéo, je teste son installation et ses principales fonctionnalités : autocomplétion, navigation dans le code, diagnostics, routes Symfony, services, Twig, Doctrine, Messenger, Security et bien plus. On verra également comment Symfony Language Tools s’intègre avec VS Code, pourquoi il complète un serveur PHP…",
+      "link": "https://www.youtube.com/watch?v=pXBs0mIV4iE",
+      "pubDate": "2026-08-19T15:25:21.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/pXBs0mIV4iE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "pXBs0mIV4iE"
+    },
+    {
+      "id": "8eee77fdbd47",
+      "title": "Comment héberger un LLM (partie 1)",
+      "description": "Un serveur GPU, un an d'expérimentations : ce premier article vulgarise ce qu'est réellement un LLM (poids, biais, softmax) avant de le mettre à disposition avec vLLM, le GPU Operator NVIDIA et Kubernetes.",
+      "link": "https://blog.ippon.fr/2026/08/19/comment-heberger-un-llm-partie-1/",
+      "pubDate": "2026-08-19T08:00:28.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/blog-vllm-kubernetes.png",
+      "type": "blog"
+    },
+    {
       "id": "7e9cac0def52",
       "title": "#370.bin - Intelligence(s): Apprentissage: Stocker la bonne information au bon endroit avec Mathieu Hainselin",
       "description": "\"Notre cerveau n'est pas un disque dur\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre ce qu'est vraiment l'intelligence. Le D.E.V. de la semaine est Mathieu Hainselin, maître de…",
@@ -18,6 +67,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/b6fa9c96-8f1e-4222-a1e6-47246092eba9.mp3?_=1787054489",
       "duration": "01:05:59"
+    },
+    {
+      "id": "0a2e282e125c",
+      "title": "Écrire du code avec l'IA, c'est la partie facile",
+      "description": "On parle de plus en plus de dépendance à l’IA : du code produit “trop vite” et en trop grande quantité, que l’on ne comprend pas ou que l’on ne sait plus maintenir. Mais est-ce vraiment un problème d’IA ? Avant elle, on copiait déjà du code trouvé sur StackOverflow sans le comprendre. On reprenait déjà des projets dont plus personne ne connaissait les choix d’architecture. On livrait déjà des fonctionnalités sans test. Depuis des années, nous avons les mêmes problèmes, seuls le volume et la…",
+      "link": "https://www.jdecool.fr/blog/2026/08/19/ecrire-du-code-avec-l-ia-c-est-la-partie-facile.html",
+      "pubDate": "2026-08-18T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "eb91718a928f",

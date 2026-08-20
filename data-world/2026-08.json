@@ -2,6 +2,153 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "606747c02046",
+      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+      "description": "Research: smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces as a fast secure sandbox. Explore what it would take to use this to run untrusted Python and JavaScript code in a way that is limited in what RAM and CPU time it can take up (protection against \"while true\") with no network access and filesystem access only to designated files…",
+      "link": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+      "pubDate": "2026-08-19T23:16:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "430ba0c7a248",
+      "title": "Quoting Jeremy Morrell",
+      "description": "My hypothesis is that there is a new opportunity for Extensible Software on the web. LLMs radically lower the cost of authoring extensions, and modern sandbox primitives lower the deployment cost and provide good security boundaries. We can build our app as a solid, accountable core, and allow users to safely extend it in many directions by having LLMs fill in the missing pieces. We can give our users super powers. &mdash; Jeremy Morrell, Extensible Software in the age of LLMs Tags: sandboxing,…",
+      "link": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+      "pubDate": "2026-08-19T22:56:31.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e0c0c7d06c2b",
+      "title": "Conceptual integrity and counting lines of code",
+      "description": "Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of \"How AI is changing software development\". We had a really great conversation. Here are a couple of my highlights from a lightly edited transcript (prompt to Claude: \"very minor edits to remove disfluencies\"). This is the latest version of an argument I've been trying to build about why sometimes it does make sense to talk about lines of code as an indicator of productivity with coding agents,…",
+      "link": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+      "pubDate": "2026-08-19T22:46:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9ba22cb3cd68",
+      "title": "Kimi K3's Sandbox Problem Finally Has an Open-Source Fix",
+      "description": "...explained with code.",
+      "link": "https://blog.dailydoseofds.com/p/kimi-k3s-sandbox-problem-finally",
+      "pubDate": "2026-08-19T21:54:13.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!KiiH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3dad7150-ddc7-4a37-940e-f30806bb1d55_1570x932.png",
+      "type": "blog"
+    },
+    {
+      "id": "3ed6a3d65143",
+      "title": "CakePHP with iPhone",
+      "description": "Our first feature article this month is ‘I Built a CakePHP Plugin From My iPhone While Packing for a Trip’ by Jamison Bryant. So often an idea pops into our heads, and we think we’ll get to it later when we have time. However, it’s often the case that the time never magically appears to […] The post CakePHP with iPhone appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/magazine/2026/08/2026-08-cakephp-with-iphone/",
+      "pubDate": "2026-08-19T20:59:32.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/08/2026-08-cover_sm.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0fce33c1f6aa",
+      "title": "77 Firefox Extensions Linked to Crypto Wallet and Credential Theft",
+      "description": "Socket identified 40 malicious extensions that steal wallet secrets or credentials, plus 37 deceptive sports-score shells linked through shared code, infrastructure, publishing artifacts, and version histories. The Socket Threat Research team is tracking 77 Firefox extension identities linked through code reuse, cloned extensions, deceptive marketplace descriptions, author-selected add-on ID patterns and domain-like suffixes, cryptocurrency-wallet impersonation, and version histories showing…",
+      "link": "https://socket.dev/blog/firefox-crypto-wallet-theft?utm_medium=feed",
+      "pubDate": "2026-08-19T17:43:36.015Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/04be6b20f13135f3c945289a392bdb5344e8e72d-2048x1117.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "2a757c655f45",
+      "title": "When Your Buyer Is an AI Agent",
+      "description": "In 2021, Maersk, the world’s largest container shipping company, deployed AI agents from a startup called Pactum to negotiate freight lane contracts with its carrier suppliers. The objective was for AI agents to handle negotiations autonomously rather than merely support human procurement staff. Operating entirely autonomously, the system manages the end-to-end agreement process, from reaching […]",
+      "link": "https://www.oreilly.com/radar/when-your-buyer-is-an-ai-agent/",
+      "pubDate": "2026-08-19T16:00:28.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9aafaf27ea38",
+      "title": "Symfony Reprise 0.8.0 released",
+      "description": "Reprise 0.8.0 is out, a few weeks after the project was introduced on this blog. This release brings back an Encore behavior that some codebases depend on: copied files that keep a stable path on disk. It also fixes a manifest discrepancy between Vite and…",
+      "link": "https://symfony.com/blog/symfony-reprise-0-8-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-19T13:34:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/pyrech.png",
+      "type": "blog"
+    },
+    {
+      "id": "be6db5802410",
+      "title": "Experimenting with Issue-First Open Source Contributions",
+      "description": "GitHub recently added a small repository setting: public repositories can now disable pull requests. That setting gave me an idea. On the brand-new Symfony Language Tools repository, I am trying an issue-first contribution model. The pull request tab is disabled,…",
+      "link": "https://symfony.com/blog/experimenting-with-issue-first-open-source-contributions?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-19T11:36:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8c442ab1654f",
+      "title": "When Guardrails Go Wrong",
+      "description": "The latest round of restrictions and safeguards for frontier models are overly fussy and limiting. A Claude skill that I created demonstrates what happens when guardrails go astray. My skill helps me to find articles and blog posts that go into O’Reilly Radar’s monthly Trends to Watch. It reads roughly a dozen well-known sites like […]",
+      "link": "https://www.oreilly.com/radar/when-guardrails-go-wrong/",
+      "pubDate": "2026-08-19T10:53:37.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/Roc_curve-1600x1600.png",
+      "type": "blog"
+    },
+    {
       "id": "d340453cc80f",
       "title": "Is Open-Source AI Really the Dangerous Path?",
       "description": "The following article originally appeared on the Tech Policy Press site and is being republished here with the author’s permission. In Washington, AI is increasingly being treated as something that needs to be controlled. The government believes that AI is, first and foremost, a national security asset, meaning that it must be sequestered to prevent […]",
@@ -11,6 +158,21 @@
       "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5c4af3a18b69",
+      "title": "So You Received a Security Report. Now What?",
+      "description": "A guide for PHP project maintainers, from the PHP Foundation Ecosystem Security Team You maintain a PHP project. Someone (maybe Volker from the PHP Foundation, maybe an independent researcher) has just told you that your project may have a security vulnerability. You might be feeling overwhelmed, or unsure whether you can trust the report, or simply unsure what the correct next step is. Take a breath. Nothing bad has happened. A report is not a breach. It is a head start: someone is telling you…",
+      "link": "https://thephp.foundation/blog/2026/08/19/so-you-received-a-security-report-now-what/",
+      "pubDate": "2026-08-19T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
@@ -42,6 +204,20 @@
         "IA"
       ],
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/766f6728-609a-428b-a278-de3eed8825d7_1983x793.png",
+      "type": "blog"
+    },
+    {
+      "id": "540fdbbde71a",
+      "title": "Is Open-Source AI Really the Dangerous Path?",
+      "description": "The following article originally appeared on the Tech Policy Press site and is being republished here with the author’s permission. In Washington, AI is increasingly being treated as something that needs to be controlled. The government believes that AI is, first and foremost, a national security asset, meaning that it must be sequestered to prevent […]",
+      "link": "https://www.oreilly.com/radar/is-open-source-ai-really-the-dangerous-path/",
+      "pubDate": "2026-08-18T15:58:34.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
