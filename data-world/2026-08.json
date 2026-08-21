@@ -2,6 +2,154 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "c8cbe369112d",
+      "title": "ChatGPT search now uses the site:operator at scale",
+      "description": "ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its presence in replies to prompts inside tools like ChatGPT. The Promptwatch product uses automation to track responses to prompts across end-user chat products like ChatGPT, Claude, and Gemini. They publish aggregate reports on this as part of their own content…",
+      "link": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+      "pubDate": "2026-08-20T23:57:32.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3dd7fcc8e0a8",
+      "title": "The PHP Podcast 2026.08.20",
+      "description": "🎙️ PHP Podcast – August 20, 2026 Hosts: Joe Ferguson, Sara Golemon & Holly Schilling Shirley MacLaine is the answer — but what’s the question? RAM prices went up 500%, GitHub fell over for eight hours, and the crew figured out how you can actually contribute to PHP. Glasses optional. 🎬 Shirley MacLaine, Green Room […] The post The PHP Podcast 2026.08.20 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-08-20/",
+      "pubDate": "2026-08-20T23:34:34.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/08/fzQBoGr3zGQ-maxresdefault.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b6fd5f9aa31b",
+      "title": "What is (was?) GIL in Python?",
+      "description": "...explained with code.",
+      "link": "https://blog.dailydoseofds.com/p/what-is-was-gil-in-python-d13",
+      "pubDate": "2026-08-20T22:33:37.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!C7Vn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe5303ed-0663-4852-a561-e86a71cadb51_2718x972.png",
+      "type": "blog"
+    },
+    {
+      "id": "994b5eea84d3",
+      "title": "Community Corner Podcast: PHP 8.5 + 8.6 Release Manager Daniel Scherzer",
+      "description": "In this episode, Scott talks with Daniel Scherzer, release manager for PHP 8.5 and PHP 8.6, about the bug-fix release cycle, partial function application coming in 8.6, and his upcoming talks at Longhorn PHP on what’s new in 8.6 and building PHP extensions in Rust. Links Our Discord – https://discord.gg/aMTxunVx Buy our shirts – […] The post Community Corner Podcast: PHP 8.5 + 8.6 Release Manager Daniel Scherzer appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/community-corner-podcast-php-8-5-8-6-release-manager-daniel-scherzer/",
+      "pubDate": "2026-08-20T22:18:38.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/08/PHP-8.58.6-Release-Manager-Daniel-Scherzer.png",
+      "type": "blog"
+    },
+    {
+      "id": "d440aefd4a8c",
+      "title": "Socket Now Protects the Firefox Extension Ecosystem",
+      "description": "Today, Socket is expanding its browser extension security coverage to Firefox, giving security teams visibility into the extensions used across their organizations and helping them identify malicious behavior, excessive permissions, data collection, suspicious infrastructure, and risky changes between versions. Socket now proactively scans every Firefox extension listed in Mozilla's official addons.mozilla.org directory. At the time of publication, Mozilla's public API lists 97,100…",
+      "link": "https://socket.dev/blog/firefox-extension-security?utm_medium=feed",
+      "pubDate": "2026-08-20T21:31:22.582Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/6eb4ca8952093074744d539e6121690453a08bbd-2048x1186.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "5a0e3ae69e19",
+      "title": "Popular Rust Crates Compromised in Build-Time Supply Chain Attack",
+      "description": "A threat actor compromised legitimate Rust crates and injected a malicious proc-macro1 dependency that executed cross-platform malware automatically during Cargo builds. Socket’s Threat Research Team analyzed a coordinated supply chain attack affecting three legitimate Rust crates maintained by David Roundy (droundy): arrayref@0.3.10 internment@0.8.7 append-only-vec@0.1.9 Socket’s AI Scanner independently detected the malicious proc-macro1 crate on August 20, 2026 at 07:29:50 UTC. At that point…",
+      "link": "https://socket.dev/blog/popular-rust-crates-compromised?utm_medium=feed",
+      "pubDate": "2026-08-20T15:54:37.758Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/e8f17d0836ad5ad15a060edcabfa6a57ede3ac6d-1128x1196.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "2da3f824e886",
+      "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
+      "description": "Research: A shot-scraper-style JSON API on Bun 1.4&#x27;s new Bun.WebView Today saw the long awaited release of Bun 1.4, the first stable version since the infamous Rust rewrite a few months ago. Interestingly, the Rust rewrite was downplayed in the release notes, which introduced a bewildering array of new features and claimed 2,900 additional bug fixes: Bun 1.4 adds +1,517 tests from the Node.js test suite - our biggest jump in Node.js compatibility since Bun 1.0. Bun v1.4 also fixes over…",
+      "link": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
+      "pubDate": "2026-08-20T15:37:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "14a32ab45217",
+      "title": "Modular Monoliths: Creating Real Boundaries Before Reaching for Microservices",
+      "description": "A deep dive into modular monoliths, from module APIs and database ownership to cross-module communication, architecture tests, incremental migration, and the signals that justify microservices. Read more",
+      "link": "https://freek.dev/3182-modular-monoliths-creating-real-boundaries-before-reaching-for-microservices",
+      "pubDate": "2026-08-20T13:48:25.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2e045c33dd6f",
+      "title": "Principal Drift in Practice",
+      "description": "In 2026, the software engineering community is divided by a simple question: Should AI engineers still read the code generated by their agents? One camp argues that code has become virtually free to produce and discard, so humans should focus on systems and guardrails rather than implementation details. The other warns that blindly trusting AI […]",
+      "link": "https://www.oreilly.com/radar/principal-drift-in-practice/",
+      "pubDate": "2026-08-20T10:55:00.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2824ee0eba23",
+      "title": " Summer chaos ",
+      "description": "Read the full post on https://stitcher.io/blog/summer-chaos",
+      "link": "https://stitcher.io/blog/summer-chaos",
+      "pubDate": "2026-08-20T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "606747c02046",
       "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
       "description": "Research: smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces as a fast secure sandbox. Explore what it would take to use this to run untrusted Python and JavaScript code in a way that is limited in what RAM and CPU time it can take up (protection against \"while true\") with no network access and filesystem access only to designated files…",

@@ -2,6 +2,38 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "a92c87a063ec",
+      "title": "J’ai divisé le temps de mes tests PHP par 2 🤯",
+      "description": "Double optimisation des tests Laravel en vue ! ⚡ Dans cette vidéo, je vous montre comment j’ai optimisé mon workflow de tests avec deux approches : 🎯 Mieux gérer mes contraintes techniques et métier avec mes /rules ⚡ Utiliser le TIA Engine de Pest pour ne lancer que les tests pertinents Résultat : mes tests passent en 0,40 seconde. Oui, 400 ms. 😎 Et évidemment… merci Nuno et merci Claude ! 🫡 🚀 Tu veux devenir un ouf sur Laravel et l’IA ? 👉 laraveljutsu.com Plein de nouvelles vidéos…",
+      "link": "https://www.youtube.com/watch?v=kLbd0UXydyI",
+      "pubDate": "2026-08-20T16:36:53.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/kLbd0UXydyI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "kLbd0UXydyI"
+    },
+    {
+      "id": "43637f7a549c",
+      "title": "Claude Code : ce nouveau mode économise-t-il VRAIMENT des tokens ?",
+      "description": "Claude Code vient d’ajouter un nouveau mode Concise. Mais est-ce qu’il permet réellement d’économiser des tokens ? Dans cette vidéo, je teste le nouveau **Concise Mode de Claude Code** sur un vrai projet Astro. Le principe est simple : 👉 même projet 👉 même modèle 👉 même prompt 👉 une exécution avec Claude Code en mode normal 👉 une seconde avec le mode Concise À la fin, on compare la consommation de tokens, les réponses générées et surtout la qualité du résultat pour voir si ce nouveau mode…",
+      "link": "https://www.youtube.com/watch?v=Dxk_5nEvSCk",
+      "pubDate": "2026-08-20T13:43:55.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Dxk_5nEvSCk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Dxk_5nEvSCk"
+    },
+    {
       "id": "f258ba305601",
       "title": "Mon client a reçu le même colis 2 fois 😱",
       "description": "Deux workers Laravel traitent la même expédition en même temps… et le client reçoit son colis 2 fois. 📦📦 Dans cette vidéo, je reproduis une vraie race condition avec deux processus lancés simultanément, puis je corrige le problème avec Laravel Lock et son système de locks distribués. 🔒 Un exemple simple pour comprendre quand un code du type read → check → modify → side effect peut devenir dangereux avec plusieurs workers ou requêtes concurrentes. Le résultat avant le lock : dispatch_count =…",
