@@ -2,6 +2,154 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "448ae55e8e29",
+      "title": "PHP 8.6’s soft feature freeze: what just locked in, and what’s still up for grabs",
+      "description": "Beta 1 for PHP 8.6 landed this week, and buried inside that routine-sounding milestone is the moment PHP’s next release mostly stops accepting new ideas. Not completely. But close enough that if you’ve been half-watching an RFC thread, wondering whether it would survive to actually ship, this is the week you find out. If […] The post PHP 8.6’s soft feature freeze: what just locked in, and what’s still up for grabs appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/08/php-8-6s-soft-feature-freeze-what-just-locked-in-and-whats-still-up-for-grabs/",
+      "pubDate": "2026-08-21T22:22:16.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/08/PHPArch.com-Hero-.png",
+      "type": "blog"
+    },
+    {
+      "id": "2ba03f0e7cd2",
+      "title": "How Semantic Code Navigation Cuts Agent Token Costs by up to 36%",
+      "description": "Understanding what an agent actually does with the tokens before it writes code.",
+      "link": "https://blog.dailydoseofds.com/p/how-semantic-code-navigation-cuts",
+      "pubDate": "2026-08-21T21:51:15.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!J4j3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f20abfc-f8b8-4616-94e9-fb49892e12a3_1200x675.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3ce2c501fb73",
+      "title": "PHP and Composer Support Is Now in Beta",
+      "description": "Today, Socket’s PHP and Composer support is moving from Experimental to Beta and is now enabled for all customers. PHP reachability analysis is also generally available, helping teams determine which vulnerabilities in their dependencies can be reached from their application code. We introduced PHP and Composer support earlier this year with package search, dependency scanning, SBOM generation, CVE detection, and AI-powered analysis for Packagist packages. Moving to Beta makes that protection…",
+      "link": "https://socket.dev/blog/php-and-composer-support-now-in-beta?utm_medium=feed",
+      "pubDate": "2026-08-21T17:54:18.276Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/8a474851542d3286080e9a09b0506786bf91be6e-620x650.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "cf6af109a0ee",
+      "title": "llm 0.32.1",
+      "description": "Release: llm 0.32.1 Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of httpx, and it turned out LLM depended on that library but only installed it via a transitive openai dependency. This dot-release fixes that for the moment by pinning to openai&lt;3, and a soon-to-drop 0.33 release will switch from httpx to httpx2. Tags: httpx, openai, llm",
+      "link": "https://simonwillison.net/2026/Aug/21/llm/",
+      "pubDate": "2026-08-21T17:16:13.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "866d80edbe87",
+      "title": "llm-openrouter 0.7",
+      "description": "Release: llm-openrouter 0.7 Now that this plugin is compatible with LLM 0.32 it can display the reasoning traces for LLMs available through OpenRouter. Updated for compatibility with LLM 0.32. Models now use OpenRouter's implementation of the Responses API. Three new server-side tools: Shell, WebFetch, and WebSearch. Enable these with options like -T WebSearch. Tags: llm, openrouter",
+      "link": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+      "pubDate": "2026-08-21T16:58:19.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "51b0cf062317",
+      "title": "Stop Making TUIs",
+      "description": "Stop Making TUIs Thomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and running to almost nothing. I wrote about my vibe-coded bandwidth and GPU monitoring macOS task bar apps back in March, and I'm still using both of those on a daily basis. I'm not habitually knocking out real UIs for my other projects yet, but I'm running out of excuses! Thomas: If you haven’t…",
+      "link": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+      "pubDate": "2026-08-21T16:07:32.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5c655d6ff687",
+      "title": "The Agent-Era Career",
+      "description": "The following article originally appeared on Addy Osmani’s blog site and is being republished here with the author’s permission. If the AI layer gets good at anything, it will be anything that has an answer key. School used to be answer keys all the way down. School is the ultimate anchoring of success, because it’s […]",
+      "link": "https://www.oreilly.com/radar/the-agent-era-career/",
+      "pubDate": "2026-08-21T15:59:07.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "21b220d0ec1e",
+      "title": "Quoting Matt Webb",
+      "description": "After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, but I got it to educate me. With a patient, interactive tutor, I was able to finally do what I hadn’t by reading books and asking mathematician friends – I learnt how to use quaternions just enough to make the app work. So learning doesn’t stop just because I outsource a bunch of thinking to AI. It pushes me to learn more. I like that as an outcome.…",
+      "link": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+      "pubDate": "2026-08-21T15:06:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8a27043a9470",
+      "title": "New in Twig 3.29: Documentation Comments",
+      "description": "Contributed by Fabien Potencier in #4871…",
+      "link": "https://symfony.com/blog/new-in-twig-3-29-documentation-comments?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-21T13:34:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/fabpot.png",
+      "type": "blog"
+    },
+    {
+      "id": "1adeeaecdc9c",
+      "title": " \"A\" for \"Apathy\" ",
+      "description": "Read the full post on https://stitcher.io/blog/a-for-apathy",
+      "link": "https://stitcher.io/blog/a-for-apathy",
+      "pubDate": "2026-08-21T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c8cbe369112d",
       "title": "ChatGPT search now uses the site:operator at scale",
       "description": "ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its presence in replies to prompts inside tools like ChatGPT. The Promptwatch product uses automation to track responses to prompts across end-user chat products like ChatGPT, Claude, and Gemini. They publish aggregate reports on this as part of their own content…",

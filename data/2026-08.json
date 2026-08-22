@@ -2,6 +2,109 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "a9affd1ff2a1",
+      "title": "LangChain Multi-Agent : crée une équipe d’agents IA",
+      "description": "Apprends à créer un système LangChain Multi Agent en Python avec LangGraph : supervisor, subagents, handoffs, router et workflows multi-agents. Dans ce tutoriel en français, je t’explique comment construire une architecture multi-agent avec LangChain et LangGraph. Tu découvriras comment plusieurs agents IA spécialisés peuvent collaborer, partager le contexte et exécuter des tâches complexes. Au programme : 🤖 Pourquoi utiliser un système multi-agent 🧠 Le pattern Supervisor et les subagents 🔄…",
+      "link": "https://www.youtube.com/watch?v=QHGc-r87toc",
+      "pubDate": "2026-08-21T15:12:26.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/QHGc-r87toc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "QHGc-r87toc"
+    },
+    {
+      "id": "b3c8edbc950f",
+      "title": "Résilience numérique : comprendre la réponse européenne",
+      "description": "Résilience numérique : comprendre la réponse européenne",
+      "link": "https://blog.octo.com/resilience-numerique--comprendre-la-reponse-europeenne",
+      "pubDate": "2026-08-21T10:54:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6e8f7f4ad540",
+      "title": "Cloud souverain : comprendre la dépendance invisible de l’Europe",
+      "description": "Cloud souverain : comprendre la dépendance invisible de l’Europe",
+      "link": "https://blog.octo.com/cloud-souverain--comprendre-la-dependance-invisible-de-l'europe",
+      "pubDate": "2026-08-21T10:52:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a2814d2325b",
+      "title": "Cloud souverain : comprendre les règles du jeu en France et en Europe",
+      "description": "Cloud souverain : comprendre les règles du jeu en France et en EuropeNous utilisons tous des services cloud au quotidien. Pourtant, derrière le choix d'un fournisseur se cachent aujourd'hui des enjeux qui dépassent largement la technique : protection des données, dépendance aux grandes puissances technologiques, cybersécurité ou encore souverain",
+      "link": "https://blog.octo.com/cloud-souverain--comprendre-les-regles-du-jeu-en-france-et-en-europe",
+      "pubDate": "2026-08-21T10:50:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7e41513a7e80",
+      "title": "Spécialisez vos Agents avec les Skills",
+      "description": "Les outils de développement IA, comme GitHub Copilot, sont puissants mais restent généralistes. Comment leur transmettre vos standard et vos connaissances métier sans répéter les mêmes instructions à chaque conversation ? 🤖 Agent Skills est un nouveau standard qui répond à ce défi. Un \"Skill\" est un dossier regroupant des instructions, des scripts et des ressources que l’agent charge automatiquement selon le contexte pour spécialiser son comportement sur des tâches précises. Tug Grall partage…",
+      "link": "https://www.youtube.com/watch?v=DxiKINYg4sA",
+      "pubDate": "2026-08-21T07:00:26.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/DxiKINYg4sA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "DxiKINYg4sA"
+    },
+    {
+      "id": "c2ff2882e6d1",
+      "title": "News août 2026 : Cursor Origin, requêtes HTTP, Lerd et modèles IA open-weight",
+      "description": "Nous évoquons WebMCP et Kitesurf que Cloudflare lance pour les agents IA, pnpm 12 réécrit en Rust, la méthode HTTP QUERY, Cursor qui passe à React et lance Origin, Mesa le filesystem versionné pour agents, Mistral et Hetzner côté IA souveraine, et quelques outils comme Xirp, Lerd, fx ou CodexBar. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/news08-26/",
+      "link": "https://double-slash.dev/podcasts/news08-26/",
+      "pubDate": "2026-08-21T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1787235734/episode/ART_137_yhshvy.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_137_news08-26.mp3",
+      "duration": "4762"
+    },
+    {
       "id": "a92c87a063ec",
       "title": "J’ai divisé le temps de mes tests PHP par 2 🤯",
       "description": "Double optimisation des tests Laravel en vue ! ⚡ Dans cette vidéo, je vous montre comment j’ai optimisé mon workflow de tests avec deux approches : 🎯 Mieux gérer mes contraintes techniques et métier avec mes /rules ⚡ Utiliser le TIA Engine de Pest pour ne lancer que les tests pertinents Résultat : mes tests passent en 0,40 seconde. Oui, 400 ms. 😎 Et évidemment… merci Nuno et merci Claude ! 🫡 🚀 Tu veux devenir un ouf sur Laravel et l’IA ? 👉 laraveljutsu.com Plein de nouvelles vidéos…",
@@ -624,6 +727,21 @@
       "image": "https://i.ytimg.com/vi/7gYhsGBUQug/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "7gYhsGBUQug"
+    },
+    {
+      "id": "647ef81ea828",
+      "title": "Et si la bulle IA explosait ?",
+      "description": "Et si la bulle IA explosait ? Est ce que c'est une bulle déjà ? Comment elle pourrait exploser ? Avec quelles conséquences ?",
+      "link": "https://eventuallycoding.com/p/et-si-la-bulle-ia-explosait",
+      "pubDate": "2026-08-06T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "2b76b300af9c",
