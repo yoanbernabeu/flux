@@ -2,6 +2,96 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "0eccfa5da2ee",
+      "title": "Quoting Linus Torvalds",
+      "description": "And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it. I suspect those things have been trained by people who may not be quite as stubborn as I am. But while the AI was ready to give up several times, it did keep adding debug code and analyzing it faithfully when I pushed. So credit…",
+      "link": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+      "pubDate": "2026-08-22T21:04:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2948ba53feff",
+      "title": "llm 0.33",
+      "description": "Release: llm 0.33 My highlights from this release: Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2. #1608, #1631 I shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix. llm embed and llm embed-multi now accept --key. The Python EmbeddingModel.embed(), EmbeddingModel.embed_multi(), Collection.embed() and Collection.embed_multi() methods accept key= too, passing the resolved per-call key to embedding plugins…",
+      "link": "https://simonwillison.net/2026/Aug/22/llm/",
+      "pubDate": "2026-08-22T17:01:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d548c978bd4e",
+      "title": "More than just code review",
+      "description": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way to validate a chance to a piece of software. Tags: code-review, coding-agents, generative-ai,…",
+      "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+      "pubDate": "2026-08-22T15:56:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d3e34ecdcf36",
+      "title": "Symfony 8.1.5 released",
+      "description": "Symfony 8.1.5 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-1-5-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-22T13:47:38.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3b86cc5ecbb3",
+      "title": "Symfony 7.4.17 released",
+      "description": "Symfony 7.4.17 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-7-4-17-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-22T13:44:16.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f766d90feb21",
+      "title": "Symfony 6.4.44 released",
+      "description": "Symfony 6.4.44 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-6-4-44-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-22T13:40:41.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "448ae55e8e29",
       "title": "PHP 8.6’s soft feature freeze: what just locked in, and what’s still up for grabs",
       "description": "Beta 1 for PHP 8.6 landed this week, and buried inside that routine-sounding milestone is the moment PHP’s next release mostly stops accepting new ideas. Not completely. But close enough that if you’ve been half-watching an RFC thread, wondering whether it would survive to actually ship, this is the week you find out. If […] The post PHP 8.6’s soft feature freeze: what just locked in, and what’s still up for grabs appeared first on PHP Architect.",
