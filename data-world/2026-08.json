@@ -2,6 +2,51 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "99acd7325486",
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "description": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here. Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. \"It also told investors that it had 6,000 customers that spend $100,000 annually or more.\" As for…",
+      "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "pubDate": "2026-08-23T20:24:52.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "71343321c766",
+      "title": "Quoting Drew Breunig",
+      "description": "Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems. But then Fable landed. It was (and still is!) incredible. But the cost was so high and Opus was good enough (as was 5.6, K3, and even GLM) for most of the code we needed. So we started to think about what work went where. &mdash; Drew Breunig, Fable &amp; The End of the Free Lunch Tags:…",
+      "link": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+      "pubDate": "2026-08-23T19:55:30.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aa7341d00047",
+      "title": "A Week of Symfony #1025 (August 17–23, 2026)",
+      "description": "This week, Symfony 6.4.44, Symfony 7.4.17 and Symfony 8.1.5 maintenance versions were released. In addition, we introduced Symfony Language Tools, the official Symfony LSP server. Finally, we started experimenting with issue-first open source contributions.…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1025-august-17-23-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-23T07:54:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0eccfa5da2ee",
       "title": "Quoting Linus Torvalds",
       "description": "And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it. I suspect those things have been trained by people who may not be quite as stubborn as I am. But while the AI was ready to give up several times, it did keep adding debug code and analyzing it faithfully when I pushed. So credit…",

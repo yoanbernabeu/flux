@@ -2,6 +2,22 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "d5d760484b88",
+      "title": "Laravel : La Facade que PERSONNE n'utilise (et pourtant elle est GÉNIALE) 🔥",
+      "description": "Dans cette vidéo, on découvre les Real-Time Facades de Laravel — une fonctionnalité méconnue qui te permet d'utiliser la syntaxe des Facades (Github::webhooks()) SANS avoir à créer une classe Facade classique ! On va construire ensemble une classe Support pour interagir avec l'API GitHub, récupérer les webhooks d'un repo, et voir comment Laravel résout tout ça automatiquement via le container. ⏱️ Au programme : - Qu'est-ce qu'une Facade Laravel (rappel rapide) - La différence entre Facade…",
+      "link": "https://www.youtube.com/watch?v=TpTlzBKJDl8",
+      "pubDate": "2026-08-23T15:57:44.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/TpTlzBKJDl8/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "TpTlzBKJDl8"
+    },
+    {
       "id": "a9affd1ff2a1",
       "title": "LangChain Multi-Agent : crée une équipe d’agents IA",
       "description": "Apprends à créer un système LangChain Multi Agent en Python avec LangGraph : supervisor, subagents, handoffs, router et workflows multi-agents. Dans ce tutoriel en français, je t’explique comment construire une architecture multi-agent avec LangChain et LangGraph. Tu découvriras comment plusieurs agents IA spécialisés peuvent collaborer, partager le contexte et exécuter des tâches complexes. Au programme : 🤖 Pourquoi utiliser un système multi-agent 🧠 Le pattern Supervisor et les subagents 🔄…",
