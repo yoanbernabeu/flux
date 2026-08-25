@@ -2,6 +2,94 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "ab93f989b9cf",
+      "title": " \"A\" for \"Average\" ",
+      "description": "Read the full post on https://stitcher.io/blog/a-for-average",
+      "link": "https://stitcher.io/blog/a-for-average",
+      "pubDate": "2026-08-25T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "19cd1bc6fcfb",
+      "title": "Preloading Knowledge Into a Model Instead of Retrieving It",
+      "description": "How to process your corpus once, skip retrieval entirely, and serve every query from a stored cache. Three parts covering the full spectrum.",
+      "link": "https://blog.dailydoseofds.com/p/preloading-knowledge-into-a-model",
+      "pubDate": "2026-08-24T17:13:39.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!LU3F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24c5d715-c023-44b9-919a-eeec5f42e2c1_1000x558.png",
+      "type": "blog"
+    },
+    {
+      "id": "49fca70a7065",
+      "title": "llm-anthropic 0.27",
+      "description": "Release: llm-anthropic 0.27 This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2. OpenAI made the same change in their v3.0.0 release two weeks ago. Anthropic provide this migration guide for upgrading to 1.0, so I prompted Fable 5 in Claude Code with: Upgrade to anthropic&gt;=1 - read https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/refs/heads/main/MIGRATION.md…",
+      "link": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "pubDate": "2026-08-24T16:27:04.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "48b44b11920d",
+      "title": "Data Intelligence: Building Your Competitive Advantage in the Era of AI",
+      "description": "To keep pace with modern business, data strategy is shifting toward more autonomous real-time systems that deliver intelligence at the moment decisions are made. Driven by agentic AI, modern data teams are moving beyond simply looking at what happened. Now they’re automating complex workflows that analyze what’s happening, anticipate what might happen next, and recommend […]",
+      "link": "https://www.oreilly.com/radar/data-intelligence-building-your-competitive-advantage-in-the-era-of-ai/",
+      "pubDate": "2026-08-24T15:58:27.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8ccf6a718866",
+      "title": "Your executable is a SQLite database",
+      "description": "Your executable is a SQLite database Farid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary. The trick sets the SQLite file format's 4-byte application ID (68 bytes into the file) to SELF, standing for Structured Executable &amp; Linkable Format. The various components of the ELF executable format are then arranged into a number of different SQLite tables, using this schema. Their self-exec interpreter (C code here) can…",
+      "link": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+      "pubDate": "2026-08-24T11:38:15.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9257482fa797",
+      "title": "Open VSX Unblocks Extension IDs Used in Malware Campaign",
+      "description": "Over a five-day period from August 16 through August 20, the registry unblocked AlDuncanson.react-hooks-snippets, magne-sjaastad.opm-flow-editor-support, and rumbledb.jsoniq-vscode. All three IDs had been used by impostors in the 77-extension evil-twin campaign documented by Manifold Security earlier this month. Legitimate versions of the OPM and RumbleDB extensions are now live. React Hooks Snippets has been unblocked, but its legitimate Open VSX listing had not appeared as of publication. The…",
+      "link": "https://socket.dev/blog/open-vsx-unblocks-malicious-extension-ids?utm_medium=feed",
+      "pubDate": "2026-08-24T05:48:31.870Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/0223e22d2edb444b708e6946cc682d3cdae531aa-1928x1152.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
       "id": "99acd7325486",
       "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
       "description": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here. Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. \"It also told investors that it had 6,000 customers that spend $100,000 annually or more.\" As for…",
