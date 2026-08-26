@@ -2,6 +2,38 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "f524e2a1ecee",
+      "title": "#371.src - Everyone can build: La révolution du code ouvert chez Alan avec Alexandre Gerlic",
+      "description": "\"Chez Alan, quelqu'un voit un bug et, au lieu d'écrire un ticket, ouvre une PR. Ça change tout.\" Le D.E.V. de la semaine est Alexandre Gerlic, VP of Engineering chez Alan. Alexandre revient sur le projet \"Everyone Can Build\" qui ouvre l'accès au code à tous les collaborateurs, même ceux qui ne sont pas développeurs. Il détaille comment l'arrivée des IA génératives a permis d'accélérer ce mouvement, tout en repensant la collaboration entre métiers. Grâce à un environnement outillé et une forte…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-371-f4e4ac141a8c",
+      "pubDate": "2026-08-26T03:00:16.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/6ada57db-ff3c-4ac8-94dd-85a34333dc22.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/146da634-fbc6-4ae3-a643-f4e4ac141a8c.mp3?_=1787659336",
+      "duration": "01:01:10"
+    },
+    {
+      "id": "d68fba2683fe",
+      "title": "Interview Arnaud Vanhaecke : comment le CIC Nord-Ouest accompagne les entreprises dans l’innovation digitale",
+      "description": "Cet article est une interview qui aborde le sujet de l’accompagnement à l’innovation par la banque CIC Nord-Ouest pour les entreprises avec Arnaud Vanhaecke, Responsable innovation. J’ai eu l’occasion de travailler à plusieurs reprises avec le CIC Nord-Ouest et j’ai toujours apprécié leur approche de l’accompagnement aux TPE-PME dans leurs démarches d’innovation. La banque est […] L’article Interview Arnaud Vanhaecke : comment le CIC Nord-Ouest accompagne les entreprises dans l’innovation…",
+      "link": "https://oliviersauvage.com/2026/08/25/interview-arnaud-vanhaecke-comment-le-cic-nord-ouest-accompagne-les-entreprises-dans-linnovation-digitale/",
+      "pubDate": "2026-08-25T07:53:40.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "88337ba0662e",
       "title": "Grok Bot travaille même quand ton PC est ÉTEINT !",
       "description": "Comment automatiser tes tâches avec Grok Bot ? Découvre cet agent IA autonome qui pilote un PC cloud même quand ton ordi est éteint. Dans cette vidéo, on analyse en détail le fonctionnement de Grok Bot. Contrairement à un assistant IA classique qui se contente de rédiger du texte, Grok Bot constitue un bureau numérique où plusieurs agents IA spécialisés exécutent des tâches complexes directement dans les applications. Au programme de cette démonstration : - *L'ordinateur dans le cloud* : chaque…",

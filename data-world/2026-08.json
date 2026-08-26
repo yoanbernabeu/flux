@@ -2,6 +2,93 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "34211482db49",
+      "title": "EVE Online: The Move to Python 3 Begins!",
+      "description": "EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010. Their upgrade to Python 3 will start using the futurize script against 2.4 million lines of code, followed by careful manual review of the ~20,000 places where Python 2 and 3 behavior differ - for…",
+      "link": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+      "pubDate": "2026-08-25T22:59:30.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3aedf11d59c2",
+      "title": "Build a Multi-Agent GTM Intelligence System",
+      "description": "...explained with code.",
+      "link": "https://blog.dailydoseofds.com/p/build-a-multi-agent-gtm-intelligence",
+      "pubDate": "2026-08-25T20:26:56.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!RdwG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae2c6681-e73e-4d58-8e0a-7f7ba4260938_1456x933.png",
+      "type": "blog"
+    },
+    {
+      "id": "b204d6d49d3c",
+      "title": "Socket for Asana Is Now Available",
+      "description": "Today, we’re excited to launch Socket for Asana. The new integration turns Socket alerts into assigned, trackable Asana tasks, either one at a time or automatically using ticketing rules. Teams can route each task to the right project, add tags and an assignee, and keep the task and its linked Socket alert in sync as the work moves forward. The integration removes the manual work of recreating findings in Asana and updating both systems separately, while giving teams control over how alerts…",
+      "link": "https://socket.dev/blog/socket-for-asana-now-available?utm_medium=feed",
+      "pubDate": "2026-08-25T18:16:22.074Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/7b898b3f7539d1a091d8f79116816de1b5939e0a-1200x520.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "08976a957d08",
+      "title": "The Design System as the Control Plane for AI-Generated UI",
+      "description": "AI-assisted development has made it easier to generate frontend code quickly. A developer can ask for a form, a dashboard widget, a settings page, or a modal flow and get a working first draft in seconds. That speed is useful, especially when teams are moving through routine UI work. But speed creates a problem that’s […]",
+      "link": "https://www.oreilly.com/radar/the-design-system-as-the-control-plane-for-ai-generated-ui/",
+      "pubDate": "2026-08-25T16:10:25.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "63e6c6966cd1",
+      "title": "Is AI going to steal my job as a design engineer?",
+      "description": "Tom Wilson reflects on what AI is changing for design engineers, and where human judgment still matters. He argues that agents can take over more of the scaffolding work, while product taste, restraint, and polished visual craft remain the real edge. Read more",
+      "link": "https://freek.dev/3183-is-ai-going-to-steal-my-job-as-a-design-engineer",
+      "pubDate": "2026-08-25T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6e713c3f4f3a",
+      "title": "Shadow Agents, Standing Privileges, and the Governance Gap Between Deployment and Discovery",
+      "description": "There was a brief window where AI agent security felt like a future problem. Organizations deployed copilots, coding assistants, and autonomous workflows on the assumption that the worst case was a bad recommendation or a hallucinated answer. That window closed in the first half of 2026, when a cluster of vulnerabilities and a landmark incident […]",
+      "link": "https://www.oreilly.com/radar/shadow-agents-standing-privileges-and-the-governance-gap-between-deployment-and-discovery/",
+      "pubDate": "2026-08-25T10:56:36.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ab93f989b9cf",
       "title": " \"A\" for \"Average\" ",
       "description": "Read the full post on https://stitcher.io/blog/a-for-average",
@@ -117,6 +204,21 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7c77ec2784ac",
+      "title": "Symfony Language Tools: A Busy First Week",
+      "description": "On August 17, we announced Symfony Language Tools, the official Symfony language server. Six days and ten releases later, version 0.16 is out. We have added a lot of features: the server now understands applications that look less like Symfony Demo and more…",
+      "link": "https://symfony.com/blog/symfony-language-tools-a-busy-first-week?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-23T11:04:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://raw.githubusercontent.com/symfony/language-tools/main/editor/vscode/images/blog/0.16/twig-callables.gif",
       "type": "blog"
     },
     {
