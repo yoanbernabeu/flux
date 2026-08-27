@@ -2,6 +2,122 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "41b15b7f09c6",
+      "title": "The Identity Crisis No One Planned For: Governing Nonhuman Agents at Enterprise Scale",
+      "description": "For a decade, identity and access management meant one thing: governing the humans who log in. Employee joins, gets provisioned, gets a manager, gets a departure date, gets offboarded. That loop is well understood. What changed is that the fastest-growing population inside enterprise environments is no longer human, and the governance playbook written for people […]",
+      "link": "https://www.oreilly.com/radar/the-identity-crisis-no-one-planned-for-governing-non-human-agents-at-enterprise-scale/",
+      "pubDate": "2026-08-27T11:03:01.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c66ebdceece6",
+      "title": "Qwen3.8-Flash-Next",
+      "description": "Qwen3.8-Flash-Next Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\". It's pretty big: 125B tokens, but only 6B active which means it gets a significant performance boost. I've been trying it out on a DGX Spark using these Unsloth quantized models. I'm still exploring the model - so far I've tried the 72.5GB UD-IQ1_S one (producing these pelicans) and the 78.9GB UD-Q2_K_XL (producing these). My…",
+      "link": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+      "pubDate": "2026-08-26T23:52:58.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5ded15936120",
+      "title": "[Hands-on] Turn Scientific Figures Into Structured Data with Mistral OCR",
+      "description": "A full walkthrough of the extraction schema, with code.",
+      "link": "https://blog.dailydoseofds.com/p/hands-on-turn-scientific-figures",
+      "pubDate": "2026-08-26T21:06:26.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!swtY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff5a5719-b825-4c5e-8ebd-0ba1a961ff8f_1456x808.png",
+      "type": "blog"
+    },
+    {
+      "id": "eb488b20691e",
+      "title": "Socket for ClickUp Is Now Available",
+      "description": "Today, we’re excited to launch Socket for ClickUp in beta. On the heels of our Socket for Asana release, the new integration gives teams another way to send Socket alerts directly into the tools they already use to manage work. ClickUp brings tasks, docs, whiteboards, and chat into one highly customizable platform. If your organization uses it to organize work, Socket alerts can now become assigned, trackable tasks in the same Lists and workflows your teams already use. Create tasks manually…",
+      "link": "https://socket.dev/blog/socket-for-clickup?utm_medium=feed",
+      "pubDate": "2026-08-26T19:11:06.986Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/300896635982432ce93f7b4c04d27dd3580eef22-1492x1384.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "a24e8017af81",
+      "title": "Effective Patterns for Advanced MCP Usage",
+      "description": "The following article originally appeared on PulseMCP’s blog and is being republished here with the authors’ permission. Most MCP demos feature a single server connecting to a single client. For example, you might wire up a Gmail MCP server to Claude Code. It works! It triages your inbox, drafts replies, finds that thing from three […]",
+      "link": "https://www.oreilly.com/radar/effective-patterns-for-advanced-mcp-usage/",
+      "pubDate": "2026-08-26T16:11:28.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/image-14-1600x948.png",
+      "type": "blog"
+    },
+    {
+      "id": "2dd84640b1de",
+      "title": "Symfony Reprise 1.0.0 released",
+      "description": "Reprise was introduced on this blog a few weeks ago, and the pitch has not changed: it is a thin plugin, not a build tool. Vite and Rsbuild do the real work (bundling, hashing, source maps, HMR, the dev server); Reprise only adds the Symfony glue they leave…",
+      "link": "https://symfony.com/blog/symfony-reprise-1-0-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-26T14:41:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/Kocal.png",
+      "type": "blog"
+    },
+    {
+      "id": "56bd443fe1de",
+      "title": "When Smaller Models Win",
+      "description": "The following article originally appeared on the Asimov’s Addendum blog and is being republished here with the author’s permission. Even the best AI models can suck at chess The launch of ChatGPT had an interesting effect on the online chess discourse. Chess has already long been conquered by machines. As early as 1996 a computer […]",
+      "link": "https://www.oreilly.com/radar/when-smaller-models-win/",
+      "pubDate": "2026-08-26T10:16:13.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/image.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "69963c113d8f",
+      "title": "Quoting Paul Dix",
+      "description": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling this entire thing short. If you can build a verification system and give proper direction, AI can…",
+      "link": "https://simonwillison.net/2026/Aug/26/paul-dix/",
+      "pubDate": "2026-08-26T08:07:55.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "34211482db49",
       "title": "EVE Online: The Move to Python 3 Begins!",
       "description": "EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010. Their upgrade to Python 3 will start using the futurize script against 2.4 million lines of code, followed by careful manual review of the ~20,000 places where Python 2 and 3 behavior differ - for…",

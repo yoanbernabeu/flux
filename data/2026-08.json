@@ -2,6 +2,127 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "c375e95c0410",
+      "title": "Migrating from Webpack Encore to Vite with Reprise",
+      "description": "We maintain a high-traffic project for one of our clients: 5 websites served by a single Symfony application, 800 Twig templates, and a React + Tailwind front end that has been built by Webpack Encore for years. A front-end build that was starting to weigh on us: over a minute of Webpack, a NODE_OPTIONS=--max_old_space_size=4096 to keep the heap from blowing up, a 200-line webpack.config.js driving two separate builds, and no hot reload for developers. Webpack Encore is reaching the end of its…",
+      "link": "https://jolicode.com/blog/migrating-from-webpack-encore-to-vite-with-reprise",
+      "pubDate": "2026-08-27T11:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1182d0a4c68e",
+      "title": "Migrer de Webpack Encore vers Vite avec Reprise",
+      "description": "Nous maintenons, pour un de nos clients, un projet à fort trafic : 5 sites servis par une même application Symfony, 800 templates Twig, et un front React + Tailwind buildé depuis des années par Webpack Encore. Un build front qui commençait sérieusement à peser : plus d'une minute de Webpack, un NODE_OPTIONS=--max_old_space_size=4096 pour ne pas exploser la heap, un webpack.config.js de 200 lignes pilotant deux builds distincts, et aucun hot reload pour les développeurs. Webpack Encore arrive en…",
+      "link": "https://jolicode.com/blog/migrer-de-webpack-encore-vers-vite-avec-reprise",
+      "pubDate": "2026-08-27T11:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d6a0aa863baf",
+      "title": "Exclusive Interview with Luca Fancello, Co-founder of Qwairy, on the Revolution of Answer Engines.",
+      "description": "Forget Traditional SEO: Welcome to the GEO Era If you’ve been following my thoughts lately, you know I’ve been thinking a lot about the future of online visibility. For years, the rules of the game were simple: please Google. We optimized our tags, chased backlinks (the famous backlink), and crossed our fingers to climb into […] L’article Exclusive Interview with Luca Fancello, Co-founder of Qwairy, on the Revolution of Answer Engines. est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/08/27/exclusive-interview-with-luca-fancello-co-founder-of-qwairy-on-the-revolution-of-answer-engines/",
+      "pubDate": "2026-08-27T07:06:39.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "845ad80ba9b3",
+      "title": "J'ai testé le nouveau Bot Mode sur Hermes",
+      "description": "Comment faire collaborer des agents IA avec le Bot Mode sur Hermes Desktop ? Découvre mon test complet en direct ! Intégré directement dans l'application Hermes Desktop depuis la version 0.20.5, le Bot Mode transforme l'interface classique en un système visuel de messagerie où plusieurs agents spécialisés collaborent en toute autonomie. Chaque bot fonctionne comme un profil indépendant avec ses propres fichiers, sa mémoire et ses compétences. Dans cette vidéo, on explore pas à pas le…",
+      "link": "https://www.youtube.com/watch?v=msrUQ8_MM04",
+      "pubDate": "2026-08-27T07:00:30.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/msrUQ8_MM04/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "msrUQ8_MM04"
+    },
+    {
+      "id": "20707d54cbdd",
+      "title": "Entretien exclusif avec Luca Fancello, cofondateur de Qwairy, sur la révolution des moteurs de réponse.",
+      "description": "L'optimisation pour les moteurs de recherche évolue vers le GEO, axé sur les mentions plutôt que sur les backlinks. Les intelligences artificielles comme ChatGPT privilégient la réputation et la crédibilité des marques. Les consultants SEO doivent adopter une approche collective et omnicanale pour adapter leur stratégie marketing à cette nouvelle réalité. L’article Entretien exclusif avec Luca Fancello, cofondateur de Qwairy, sur la révolution des moteurs de réponse. est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/08/27/entretien-exclusif-avec-luca-fancello-cofondateur-de-qwairy-sur-la-revolution-des-moteurs-de-reponse/",
+      "pubDate": "2026-08-27T06:50:15.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73879273d892",
+      "title": "2026: Blogs are Dead, Long Live Blogs!",
+      "description": "A study by Daniel Stanica shows that among the 100 influential American blogs, over 60 have lost up to 85% of their traffic in four years. This decline is due to Google's algorithms and a flawed content strategy. Only 21 blogs manage to grow by offering unique and authentic content. L’article 2026: Blogs are Dead, Long Live Blogs! est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/08/26/2026-blogs-are-dead-long-live-blogs/",
+      "pubDate": "2026-08-26T09:57:31.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "199fe31e9e5a",
+      "title": "La seule règle qu'une IA respecte vraiment, c'est une erreur ESLint",
+      "description": "Lâcher une IA dans votre projet sans le voir se dégrader : le dispositif complet.",
+      "link": "https://blog.ippon.fr/2026/08/26/la-seule-regle-quune-ia-respecte-vraiment-cest-une-erreur-eslint/",
+      "pubDate": "2026-08-26T09:31:29.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/Sans-titre5.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ff1558082560",
+      "title": "Ton agent IA écrit du bon code… alors pourquoi ça semble toujours aussi mauvais ?",
+      "description": "Ton agent IA écrit du code. Les tests passent. La fonctionnalité fonctionne. Alors pourquoi le code semble-t-il toujours… bizarre ? 👀 Parce que ton IA connaît Laravel. Mais elle ne connaît pas TON Laravel. Ton architecture. Tes conventions. Tes décisions. Tout ce que tu répètes dans chaque code review. Alors plutôt que de tout mettre dans un énorme prompt ou un AGENTS.md interminable, j’utilise trois niveaux de contexte : → SPEC — Qu’est-ce qu’on construit ? → ADR — Pourquoi l’architecture…",
+      "link": "https://www.youtube.com/watch?v=Y7fbRLt9nbU",
+      "pubDate": "2026-08-26T07:55:02.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Y7fbRLt9nbU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Y7fbRLt9nbU"
+    },
+    {
       "id": "f524e2a1ecee",
       "title": "#371.src - Everyone can build: La révolution du code ouvert chez Alan avec Alexandre Gerlic",
       "description": "\"Chez Alan, quelqu'un voit un bug et, au lieu d'écrire un ticket, ouvre une PR. Ça change tout.\" Le D.E.V. de la semaine est Alexandre Gerlic, VP of Engineering chez Alan. Alexandre revient sur le projet \"Everyone Can Build\" qui ouvre l'accès au code à tous les collaborateurs, même ceux qui ne sont pas développeurs. Il détaille comment l'arrivée des IA génératives a permis d'accélérer ce mouvement, tout en repensant la collaboration entre métiers. Grâce à un environnement outillé et une forte…",
@@ -18,6 +139,38 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/146da634-fbc6-4ae3-a643-f4e4ac141a8c.mp3?_=1787659336",
       "duration": "01:01:10"
+    },
+    {
+      "id": "77d9fc69d0a8",
+      "title": "Spécifier, c'est coder",
+      "description": "Depuis quelques semaines, je ne lance plus les agents : je tague des cartes, et un agent d'évaluation décide s'il les prend. Carnet de bord d'une expérimentation en cours, où le travail de développement a discrètement changé de place.",
+      "link": "https://yoandev.co/specifier-c-est-coder",
+      "pubDate": "2026-08-26T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/84406cb1-4abf-4f73-93e0-61a6e4a5d973.webp",
+      "type": "blog"
+    },
+    {
+      "id": "a9f92e1373ca",
+      "title": "Penser problème avant de penser solution",
+      "description": "En tant que développeur, quand on démarre une tâche ou un projet, on pense facilement au framework que l’on va utiliser, à la base de données, aux patterns que l’on va pouvoir mettre en place. Et si c’était une erreur ? Car en réfléchissant de la sorte, on prend déjà des décisions avant même que le problème ne soit posé. On choisit une solution, une architecture, un outil, et ensuite on cherche la justification. N’est-ce pas penser à l’envers ? Penser problème avant de penser solution, c’est…",
+      "link": "https://www.jdecool.fr/blog/2026/08/26/penser-probleme-avant-de-penser-solution.html",
+      "pubDate": "2026-08-25T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "d68fba2683fe",
@@ -1068,6 +1221,22 @@
       "image": "https://i.ytimg.com/vi/jKq6miaPeoA/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "jKq6miaPeoA"
+    },
+    {
+      "id": "4ea964f209b6",
+      "title": "☕️ Java à l'ère de l'IA 🤖 - partie 2 : la mémoire",
+      "description": "Those aren't your memories. They're somebody else's. ©Rick Deckard",
+      "link": "https://philippart-s.github.io/blog/2026-08-03-java-and-ai-part2/",
+      "pubDate": "2026-08-03T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "3c794eda813d",
