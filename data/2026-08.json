@@ -2,6 +2,57 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "2a0e4e6f7303",
+      "title": "LaREF : ce qu’il faut retenir de l’intervention de Roland Lescure sur l’avenir des entreprises",
+      "description": "La Rentrée des Entrepreneurs de France (LaREF) a eu lieu sous un contexte économique tendu, marqué par un échange entre Marie Visot et Roland Lescure, ministre de l'Économie. Lescure a présenté un \"Pacte de Stabilité\", mentionnant la préservation de dispositifs clés comme le Crédit d'Impôt Recherche et abordant les enjeux de la fiscalité et de l'industrie verte. L’article LaREF : ce qu’il faut retenir de l’intervention de Roland Lescure sur l’avenir des entreprises est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/08/28/laref-ce-quil-faut-retenir-de-lintervention-de-roland-lescure-sur-lavenir-des-entreprises/",
+      "pubDate": "2026-08-28T10:11:23.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "86888c6dab40",
+      "title": "\"Lancez-vous\" : le seul conseil qui compte pour un premier talk - Clément De Tastes",
+      "description": "Clément de Tastes, Tech Lead chez SCIAM, speaker Java et co-fondateur de Toulon Dev, raconte pour le Studio Devoxx France pourquoi il a lancé un meetup dans le Var et comment on ose son premier talk. Dans cette conversation, il revient sur le déclic de la prise de parole : on ne se sent jamais assez expert, \"j'ai pas le niveau d'un Rémi ou d'un Jean-Michel\", et pourtant il faut se lancer. Reste la localité, quand le JUG le plus proche est à une heure de route. Mais tout part d'une passion…",
+      "link": "https://www.youtube.com/watch?v=xUlPlkPFKYg",
+      "pubDate": "2026-08-28T07:44:17.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/xUlPlkPFKYg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "xUlPlkPFKYg"
+    },
+    {
+      "id": "52fc3f06faf0",
+      "title": "#347.exe - Vibe Coding: Coder, c'est valider : prototyper, jeter, recommencer par Sébastien Deleuze",
+      "description": "Pour l'épisode #347 je recevais Pierre Lemaire. On en débrief avec Sébastien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-347-29a62fb9d59b",
+      "pubDate": "2026-08-28T03:00:15.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/c1df776a-ff5f-4a46-98be-29a62fb9d59b.mp3?_=1787832075",
+      "duration": "16:27"
+    },
+    {
       "id": "c375e95c0410",
       "title": "Migrating from Webpack Encore to Vite with Reprise",
       "description": "We maintain a high-traffic project for one of our clients: 5 websites served by a single Symfony application, 800 Twig templates, and a React + Tailwind front end that has been built by Webpack Encore for years. A front-end build that was starting to weigh on us: over a minute of Webpack, a NODE_OPTIONS=--max_old_space_size=4096 to keep the heap from blowing up, a 200-line webpack.config.js driving two separate builds, and no hot reload for developers. Webpack Encore is reaching the end of its…",

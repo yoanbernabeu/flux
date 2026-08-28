@@ -2,6 +2,123 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "55b921ba3f7f",
+      "title": "Socket Now Protects the Microsoft Edge Extension Ecosystem",
+      "description": "Today, Socket is expanding browser extension security to Microsoft Edge. Enterprise security teams can now evaluate extensions published through Microsoft Edge Add-ons and monitor new releases for malicious behavior, excessive permissions, data collection, suspicious infrastructure, and changes that introduce new risk. This brings the same code and behavioral analysis already available for Chrome and Firefox to Microsoft’s extension ecosystem. Socket examines what an extension can access, what…",
+      "link": "https://socket.dev/blog/edge-extension-security?utm_medium=feed",
+      "pubDate": "2026-08-28T13:22:10.334Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/1a69a771a39bd1e0b3dc62e838d08c3f65151f94-1050x651.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "422745663a26",
+      "title": "Tokens Aren’t Dollars",
+      "description": "The following article originally appeared on Tim O’Brien’s Medium blog and is being republished here with the author’s permission. AI costs are easy to count and hard to understand, and judging effort by a token volume? While that might feel like a valid measure of value or complexity, it doesn’t capture the details that define […]",
+      "link": "https://www.oreilly.com/radar/tokens-arent-dollars/",
+      "pubDate": "2026-08-28T10:57:03.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/image-22.png",
+      "type": "blog"
+    },
+    {
+      "id": "487ff813b223",
+      "title": "Writing really is an Emotional Rollercoaster",
+      "description": "[[Writing]] has become my passion over time; I have built a whole company based on technical writing services (even though most say that’s impossible). After doing it for 11 years publicly (much longer privately), I still enjoy it every day. If I could have one dream, I’d probably imagine the book-author lifestyle, where I go to a faraway place or island and just write in my journal, articles from my vast notes system (~3 million words, or 2-3 books.",
+      "link": "https://www.ssp.sh/blog/writing-since-2015/",
+      "pubDate": "2026-08-28T09:18:22.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dc7e6db69479",
+      "title": "The PHP Podcast 2026.08.27",
+      "description": "🎙️ PHP Podcast – August 27, 2026 Hosts: Joe Ferguson, Sara Golemon & Holly Schilling Zero-downtime swaps that nobody noticed, 3D printers that refuse to calibrate, a nostalgia tour through the entire PHPArch back catalog, Go generics, TypePHP, and a very good reason to book a flight to Belgium. This one lived in the gutter […] The post The PHP Podcast 2026.08.27 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-08-27/",
+      "pubDate": "2026-08-27T23:22:03.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/08/Tsgk1FmLbQ0-maxresdefault.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bc6639b3f246",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "description": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which he claims works 80% of the time, by tricking Claude Code into downloading and uncompressing a zip…",
+      "link": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+      "pubDate": "2026-08-27T22:50:25.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5500e9ea151d",
+      "title": "KV vs Prefix vs Prompt vs Semantic Caching",
+      "description": "...explained with best practices in production.",
+      "link": "https://blog.dailydoseofds.com/p/kv-vs-prefix-vs-prompt-vs-semantic",
+      "pubDate": "2026-08-27T20:01:47.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!KBPc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F521cbbae-d4c8-4d29-b168-53fc04b6b28d_1376x768.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "e994252e6ea6",
+      "title": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
+      "description": "Socket identified 19 malicious extensions published in the last six months, delivering an extendable malware framework. Identified malware samples create WebSocket communication channel with command and control (C2) server, perform CSP stripping and abuse XSS injection to trigger execution of malicious payloads previously downloaded from the C2 server. Malicious capabilities are primarily focused on, but not limited to, wallet secret stealing and crypto draining. The most impactful tactic is…",
+      "link": "https://socket.dev/blog/chrome-edge-extension-wallet-drainer?utm_medium=feed",
+      "pubDate": "2026-08-27T16:01:21.630Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/07a2420c87cc659d021da344a8fd5f70d7cdb1a3-1145x1122.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "ea4fe099edb5",
+      "title": "Writing with AI",
+      "description": "A lot of professional writers say they never do it. And for writers who do, the consequences can be serious. Book contracts have been withdrawn. People have lost jobs. I have a contrarian view. I say AI is a medium, like painting, sculpture, photography, music, or language itself. If AI is a medium, it is […]",
+      "link": "https://www.oreilly.com/radar/writing-with-ai/",
+      "pubDate": "2026-08-27T15:54:34.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/image-1-1600x1205.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "41b15b7f09c6",
       "title": "The Identity Crisis No One Planned For: Governing Nonhuman Agents at Enterprise Scale",
       "description": "For a decade, identity and access management meant one thing: governing the humans who log in. Employee joins, gets provisioned, gets a manager, gets a departure date, gets offboarded. That loop is well understood. What changed is that the fastest-growing population inside enterprise environments is no longer human, and the governance playbook written for people […]",

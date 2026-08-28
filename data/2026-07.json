@@ -71,6 +71,21 @@
       "videoId": "f7klW3f_NEU"
     },
     {
+      "id": "a5f751cc07a8",
+      "title": "De la donnée OpenStreetMap aux applications métier : comment Makina Corpus accompagne les organisations",
+      "description": "OpenS­treet­Map est souvent présenté comme une alter­na­tive libre aux cartes proprié­taires.",
+      "link": "https://makina-corpus.com/nr/de-la-donnee-openstreetmap-aux-applications-metier-comment-makina-corpus-accompagne-les",
+      "pubDate": "2026-07-30T08:18:35.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ba3d675a0f4a",
       "title": "Claude Code ou Codex ? Vous n'avez pas le bon débat",
       "description": "Trois agents différents, trois modèles différents, un même harnais : des résultats quasi identiques. Pendant que tout le monde débat du meilleur agent de code, la compétence qui compte vraiment se construit ailleurs. Et elle survivra à vos outils.",
