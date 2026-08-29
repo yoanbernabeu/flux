@@ -2,6 +2,65 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "983102b3ea3b",
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "description": "Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding…",
+      "link": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+      "pubDate": "2026-08-28T22:12:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "60a811d3daf1",
+      "title": "Implementing a Siamese Network with Contrastive Learning",
+      "description": "Full guide with code.",
+      "link": "https://blog.dailydoseofds.com/p/implementing-a-siamese-network-with",
+      "pubDate": "2026-08-28T21:11:08.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!iTMw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1a25717-269b-4c2b-b132-948457fc55dd_2615x1525.png",
+      "type": "blog"
+    },
+    {
+      "id": "f17d853e67db",
+      "title": "OpenAPI React Query Codegen Compromised in Mini Shai-Hulud npm Supply Chain Attack",
+      "description": "Ten malicious versions were published with valid npm provenance after a threat actor abused a comment-triggered GitHub Actions publishing workflow, with the latest release still compromised at the time of writing. The Socket Threat Research Team is investigating an ongoing Mini Shai-Hulud compromise, affecting the npm package @7nohe/openapi-react-query-codegen. On August 28, 2026, ten malicious versions were published in two waves roughly twenty minutes apart, spanning every maintained release…",
+      "link": "https://socket.dev/blog/openapi-react-query-codegen-npm-compromise?utm_medium=feed",
+      "pubDate": "2026-08-28T20:49:35.145Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/f89515c4cf115765f856576d91f3c9981759176d-1342x815.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "f232003419fa",
+      "title": "When Autonomous Agents Escape: Why Socket Signed the Cyber Defense Open Letter",
+      "description": "OpenAI is mobilizing a collective response to the rapidly increasing capabilities of AI models and the rising threat of autonomous, machine-speed cyberattacks. In an effort to rally global defenses, a coalition of more than 100 technology, cybersecurity, and financial organizations, including Google, Microsoft, Anthropic, AWS, Cloudflare, and CrowdStrike, has signed an open letter calling for a surge in defenses. Socket signed because software supply chain security requires industry-wide…",
+      "link": "https://socket.dev/blog/autonomous-agents-escape?utm_medium=feed",
+      "pubDate": "2026-08-28T16:02:57.032Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/7949ea0e4983206f6f9b54ddd7d0aa388686669a-1266x1012.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
       "id": "55b921ba3f7f",
       "title": "Socket Now Protects the Microsoft Edge Extension Ecosystem",
       "description": "Today, Socket is expanding browser extension security to Microsoft Edge. Enterprise security teams can now evaluate extensions published through Microsoft Edge Add-ons and monitor new releases for malicious behavior, excessive permissions, data collection, suspicious infrastructure, and changes that introduce new risk. This brings the same code and behavioral analysis already available for Chrome and Firefox to Microsoft’s extension ecosystem. Socket examines what an extension can access, what…",
