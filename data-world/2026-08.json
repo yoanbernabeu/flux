@@ -2,6 +2,51 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "87ad279c7605",
+      "title": "A Week of Symfony #1026 (August 24–30, 2026)",
+      "description": "This week, Symfony development activity focused mostly on bug fixes, while the community celebrated a busy first week for Symfony Language Tools and the release of Symfony Reprise 1.0.0. Symfony development highlights This week, 112 pull requests were merged…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1026-august-24-30-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-30T07:43:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6ef15d8f5d40",
+      "title": "Introducing Hy4 Preview",
+      "description": "Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face. This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context, 598GB. I recently started using model chat templates to better understand their capabilities. Here's Hy4's chat_template.jinja on Hugging Face, which includes this section: {%- if not…",
+      "link": "https://simonwillison.net/2026/Aug/29/hy4/",
+      "pubDate": "2026-08-29T23:53:13.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b2f4cf3d3cfd",
+      "title": "Stop Repeating Yourself in Code Review: Build a Custom Mago Lint Rule",
+      "description": "Video version: https://youtu.be/Sns4iMSa3qA Every team I have ever worked on has a rule that lives in someone’s head instead of in a tool. An example of this is that if you’re working with a Laravel project, you should use Illuminate\\Support\\Carbon and not Carbon\\Carbon directly. We all knew it, but we still shipped the wrong import […] The post Stop Repeating Yourself in Code Review: Build a Custom Mago Lint Rule appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/08/stop-repeating-yourself-in-code-review-build-a-custom-mago-lint-rule/",
+      "pubDate": "2026-08-29T15:01:45.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/08/Build-a-Custom-Mago-Lint-Rule.png",
+      "type": "blog"
+    },
+    {
       "id": "983102b3ea3b",
       "title": "Just a rumour of a bug is enough to find a security exploit these days",
       "description": "Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding…",

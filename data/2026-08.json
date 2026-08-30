@@ -2,6 +2,22 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "23170cca37db",
+      "title": "Laravel augmenté par l'IA — Épisode 6 : Laravel Auditor + Boost",
+      "description": "Deviens un ouf avec Laravel et l'IA sur https://laraveljutsu.com ! Laravel Auditor : https://mrpunyapal.github.io/laravel-auditor Et si ton agent IA pouvait réellement comprendre la structure de ton application Laravel ? Dans cette vidéo de 2-3 minutes, je découvre Laravel Auditor et surtout son intégration avec Laravel Boost et MCP. L’objectif : comprendre concrètement comment un agent IA peut accéder au contexte d’une application Laravel. On voit notamment les Context Collectors d’Auditor,…",
+      "link": "https://www.youtube.com/watch?v=yLCd0x3TGuQ",
+      "pubDate": "2026-08-29T15:20:08.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/yLCd0x3TGuQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "yLCd0x3TGuQ"
+    },
+    {
       "id": "80928477472b",
       "title": "George Orwell, Entrepreneurship, and Me",
       "description": "In an uncertain context marked by economic and political crises, the author discusses the resilience of entrepreneurs inspired by George Orwell. Although Orwell was a writer, he embodies an entrepreneurial spirit through his quest for truth, his integrity, and his ability to face challenges, thus inspiring contemporary entrepreneurs to persevere despite obstacles. L’article George Orwell, Entrepreneurship, and Me est apparu en premier sur OlivierSauvage.com.",
@@ -25,6 +41,21 @@
       "sourceUrl": "https://oliviersauvage.com/feed/",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ce2f925a4546",
+      "title": "Filtrer une collection Doctrine",
+      "description": "Quand on doit filtrer une collection Doctrine, le premier réflexe est d’utiliser la méthode filter(). Simple et pratique, le code est plus court et lisible qu’une boucle traditionnelle. #[ORM\\Entity] class Project { #[ORM\\OneToMany(targetEntity: Task::class)] private Collection $tasks; public function getPendingTasks(): Collection { return $this->tasks->filter( static fn (Task $task): bool => !$task->isDone(), ); } } Néanmoins cette méthode de filtrage peut ne pas être sans conséquences. Les…",
+      "link": "https://www.jdecool.fr/blog/2026/08/29/filtrer-une-collection-doctrine.html",
+      "pubDate": "2026-08-28T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
