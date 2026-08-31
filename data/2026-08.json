@@ -2,6 +2,91 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "9625d5490e36",
+      "title": "Gouvernance partagée & équipe IT : ce qu'on a gardé, abandonné et appris",
+      "description": "Et si le prochain modèle d’entreprise restait à inventer ? 💡 Entreprise libérée, holacratie, sociocratie 3.0… les modèles « alternatifs » promettent autonomie, engagement et performance. Mais que deviennent- ils dans une ESN en croissance, avec des consultants en mission, des clients exigeants et des contraintes économiques ? Nicolas PEDEGERT et Antoine Queinnec ont beaucoup expérimenté chez INOCO : certaines pratiques ont changé durablement leur quotidien, d’autres se sont révélées…",
+      "link": "https://www.youtube.com/watch?v=BNhglPM3KyM",
+      "pubDate": "2026-08-31T09:40:13.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/BNhglPM3KyM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "BNhglPM3KyM"
+    },
+    {
+      "id": "f625d7c3ff49",
+      "title": "Le Starter Pack du Software Engineer pour la certification AWS Developer Associate",
+      "description": "Quelques conseils pour passer la certification AWS Developer Associate DVA-C02",
+      "link": "https://blog.ippon.fr/2026/08/31/le-starter-pack-du-software-engineer-pour-la-certification-aws-developer-associate/",
+      "pubDate": "2026-08-31T07:22:49.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/07/image-article-aws-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d95c471bf60e",
+      "title": "Lean, GenAI et Delivery Tech - Entretien Sylvain Fagnent : Le Lean est au coeur du sujet du Harness Engineering ",
+      "description": "Sylvain Fagnent est un des experts les plus avancés sur les sujets du Low Code / No Code et de la Gen AI chez OCTO Technology. Il a rédigé de nombreux articles sur notre blog et il nous semblait naturellement un candidat idéal pour réfléchir aux intersections entre la pensée Lean et l’avènement de la GenAI dans les processus de Delivery Tech.",
+      "link": "https://blog.octo.com/lean-genai-et-delivery-tech-entretien-sylvain-fagnent--le-lean-est-au-coeur-du-sujet-du-harness-engineering",
+      "pubDate": "2026-08-31T06:43:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "54a7bcb34778",
+      "title": "Un guide non interactif du Spanning Tree Protocol",
+      "description": "Imaginez que vous louiez des bureaux pour un événement de trois jours. Vous installez à la hâte quelques commutateurs Ethernet et scotchez des câbles au sol pour connecter tout le monde. Malheureusement, Gaston, votre collègue le plus maladroit, trébuche sur un câble à chaque fois qu’il se lève pour aller chercher un café. Des câbles supplémentaires régleraient le problème, mais une boucle se transforme en tempête de diffusion : les paquets Ethernet se multiplient jusqu’à saturation. C’est là…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-spanning-tree-video",
+      "pubDate": "2026-08-30T20:54:32.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c2425ae217ef",
+      "title": "Vite+ : enfin un seul outil pour tout le Web ?",
+      "description": "Et si tu pouvais remplacer une grosse partie de ta toolchain JavaScript par un seul binaire ? C’est la promesse de Vite+. Vite+ veut réunir dans une seule toolchain le build, le lint, le formatage, les tests, le package management et le task running. Dans cette vidéo, je teste Vite+ directement dans VS Code et je regarde notamment : → vp create → vp install → vp check → vp check --fix → vp test → vp run → le fonctionnement dans un monorepo → la migration depuis NX → le cache → les performances…",
+      "link": "https://www.youtube.com/watch?v=s4IZiakzWmw",
+      "pubDate": "2026-08-30T10:35:35.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/s4IZiakzWmw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "s4IZiakzWmw"
+    },
+    {
       "id": "23170cca37db",
       "title": "Laravel augmenté par l'IA — Épisode 6 : Laravel Auditor + Boost",
       "description": "Deviens un ouf avec Laravel et l'IA sur https://laraveljutsu.com ! Laravel Auditor : https://mrpunyapal.github.io/laravel-auditor Et si ton agent IA pouvait réellement comprendre la structure de ton application Laravel ? Dans cette vidéo de 2-3 minutes, je découvre Laravel Auditor et surtout son intégration avec Laravel Boost et MCP. L’objectif : comprendre concrètement comment un agent IA peut accéder au contexte d’une application Laravel. On voit notamment les Context Collectors d’Auditor,…",
@@ -43,6 +128,21 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "db0c63c54598",
+      "title": "Le piège de la transparence par défaut sur Bluesky et le protocole ATProto",
+      "description": "PDS public, likes visibles, métadonnées exposées : sur Bluesky, tout se croise. Attention, la transparence a un prix.",
+      "link": "https://eventuallycoding.com/p/le-piege-de-la-transparence-par-defaut-sur-bluesky-et-le-protocole-atproto",
+      "pubDate": "2026-08-29T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1788014460629-ykk6had.png?width=400",
       "type": "blog"
     },
     {

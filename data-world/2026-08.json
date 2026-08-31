@@ -2,6 +2,80 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "ac6e7e3c37d7",
+      "title": "Understanding ChatGPT Work",
+      "description": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far. ChatGPT Work is actually two products The more interesting version of ChatGPT Work is the one that runs in the cloud. This can be accessed via chatgpt.com or through the ChatGPT mobile apps. Let's call it Work Cloud. If you install the ChatGPT desktop app - the app that used to be called Codex -…",
+      "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "pubDate": "2026-08-30T23:59:47.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "95de6c02bd71",
+      "title": "Symfony 8.1.6 released",
+      "description": "Symfony 8.1.6 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-1-6-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-30T21:44:04.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "947bdbaabaa2",
+      "title": "Symfony 7.4.18 released",
+      "description": "Symfony 7.4.18 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-7-4-18-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-30T21:39:49.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "766ae7e1b4a7",
+      "title": "Symfony 6.4.45 released",
+      "description": "Symfony 6.4.45 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-6-4-45-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-30T21:23:32.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da2bfaf79a1f",
+      "title": "Why KV Cache Stores K and V Vectors But Never Q?",
+      "description": "A popular technical LLM interview question.",
+      "link": "https://blog.dailydoseofds.com/p/why-kv-cache-stores-k-and-v-vectors",
+      "pubDate": "2026-08-30T20:15:33.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Z-vk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95bce90d-2cd2-41eb-b875-4d1b6fe4d11b_1211x1211.gif",
+      "type": "blog"
+    },
+    {
       "id": "87ad279c7605",
       "title": "A Week of Symfony #1026 (August 24–30, 2026)",
       "description": "This week, Symfony development activity focused mostly on bug fixes, while the community celebrated a busy first week for Symfony Language Tools and the release of Symfony Reprise 1.0.0. Symfony development highlights This week, 112 pull requests were merged…",
