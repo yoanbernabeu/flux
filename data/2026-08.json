@@ -2,6 +2,157 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "9c022babd93c",
+      "title": "Hermes Agent v0.21 : j'ai créé une équipe d'agents qui DÉBAT",
+      "description": "Comment utiliser Hermes Agent v0.21.0 pour vos agents IA ? Découvrez le contrôle de navigateur, les tâches cron avec mémoire et le dashboard MCP. Dans ce guide technique, nous analysons en détail les fonctionnalités majeures apportées par la mise à jour Hermes Agent v0.21.0. Vous verrez comment l'agent peut désormais interagir directement avec le navigateur de votre bureau en naviguant, cliquant et lisant les pages pour tester vos applications web ou parcourir de la documentation. Au programme…",
+      "link": "https://www.youtube.com/watch?v=nCeNDzHdqcc",
+      "pubDate": "2026-08-31T22:09:33.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/nCeNDzHdqcc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "nCeNDzHdqcc"
+    },
+    {
+      "id": "5cd2033c084f",
+      "title": "GenAI Days Paris 2026 - Adaptive ML - \"How to Finetune to Lower Cost at Scale\"",
+      "description": "GenAI Days Paris 2026 - \"How to Finetune to Lower Cost at Scale\" by Alexandre Castera & Théo Dullin, Adaptive ML Presented at the GenAI Days 2026 \"Agentic at Scale\" conference in Paris (an event organized by GenAI France to share real-world generative AI implementations), this talk explains how enterprise AI can move away from relying solely on massive, expensive, general-purpose models. The speakers demonstrate that by using Reinforcement Learning (RL) and synthetic data, companies can…",
+      "link": "https://www.youtube.com/watch?v=tcs2-ujm2rs",
+      "pubDate": "2026-08-31T21:15:56.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/tcs2-ujm2rs/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "tcs2-ujm2rs"
+    },
+    {
+      "id": "ce4b024988c5",
+      "title": "GenAI Days Paris 2026 - AGO - \"In-app agent : the new trend\"",
+      "description": "GenAI Days Paris 2026 - \"In-app agent : the new trend\" by Maxime Thoonsen, AGO Presented at the GenAI Days 2026 \"Agentic at Scale\" conference in Paris (an event organized by GenAI France to share real-world generative AI implementations), this talk explores how SaaS products are evolving beyond traditional chatbots. Maxime explains a new trend where AI agents are integrated directly into the user interface (UI) of existing applications. Instead of just answering questions in a chat box, these…",
+      "link": "https://www.youtube.com/watch?v=JCeU1_9BK8U",
+      "pubDate": "2026-08-31T21:13:58.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/JCeU1_9BK8U/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "JCeU1_9BK8U"
+    },
+    {
+      "id": "b4ef51746168",
+      "title": "GenAI Days Paris 2026 - \"Building an AI native experience with MCP and ChatGPT apps\"",
+      "description": "GenAI Days Paris 2026 - \"Building an AI native experience with MCP and ChatGPT apps\" by Charles Sonigo, Alpic Presented at the GenAI Days 2026 \"Agentic at Scale\" conference in Paris (an event organized by GenAI France to share real-world generative AI implementations), this presentation demonstrates how brands can build native, interactive applications directly within ChatGPT using the Model Context Protocol (MCP). Charles explains that instead of making users navigate complex websites with…",
+      "link": "https://www.youtube.com/watch?v=uupsOrz1koc",
+      "pubDate": "2026-08-31T21:09:08.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/uupsOrz1koc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "uupsOrz1koc"
+    },
+    {
+      "id": "71b24a2754a5",
+      "title": "GenAI Days Paris 2026 - \"Building with AI Teammates: How Codex helps OpenAI ship faster\"",
+      "description": "GenAI Days Paris 2026 - \"Building with AI Teammates: How Codex helps OpenAI ship faster\" by Katia Gil Guzman, OpenAI Presented at the GenAI Days 2026 \"Agentic at Scale\" conference in Paris (an event organized by GenAI France to share real-world generative AI implementations), this presentation explores how OpenAI internally utilizes its own \"Codex\" AI agents to accelerate software development. Katia explains that coding agents have evolved beyond simple code generation; they now act as…",
+      "link": "https://www.youtube.com/watch?v=6g5F3k3rN4w",
+      "pubDate": "2026-08-31T20:59:19.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/6g5F3k3rN4w/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "6g5F3k3rN4w"
+    },
+    {
+      "id": "4936c6c5ee55",
+      "title": "GenAI Days Paris 2026 - Heal - \"QA Autopilot: Agentic Testing with Reproducible Outcomes\"",
+      "description": "GenAI Days Paris 2026 - \"QA Autopilot: Agentic Testing with Reproducible Outcomes\" by Ferdinand Legros, HealPresented at the GenAI Days 2026 \"Agentic at Scale\" conference in Paris (an event organized by GenAI France to share real-world generative AI implementations), this talk tackles the bottleneck of Quality Assurance testing. Ferdinand explains how pure, unguided AI agents often produce unreliable and expensive test results. To solve this, Heal's approach restricts the AI's autonomy by…",
+      "link": "https://www.youtube.com/watch?v=IoZxnfbQ9bw",
+      "pubDate": "2026-08-31T20:52:33.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/IoZxnfbQ9bw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "IoZxnfbQ9bw"
+    },
+    {
+      "id": "2e6016d898a5",
+      "title": "GenAI Days Paris 2026 - Replit - \"Building Cooperative AI Systems at Scale\"",
+      "description": "GenAI Days Paris 2026 - \"Building Cooperative AI Systems at Scale\" by Raouf Chebri, Replit Presented at the GenAI Days 2026 \"Agentic at Scale\" conference in Paris (an event organized by GenAI France to share real-world generative AI implementations), this talk explores how autonomous AI agents are redefining the developer's role through \"vibe coding.\" Raouf explains that with tools like Replit's autonomous agents working in parallel micro-VMs, users now act as product managers using plain…",
+      "link": "https://www.youtube.com/watch?v=GAXzncUO7Iw",
+      "pubDate": "2026-08-31T20:39:41.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/GAXzncUO7Iw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "GAXzncUO7Iw"
+    },
+    {
+      "id": "c12e8940d418",
+      "title": "GenAI Days Paris 2026 - Theodo - \"Let your agent code while you sleep\"",
+      "description": "GenAI Days Paris 2026 - \"Let your agent code while you sleep\" by Quentin Pleplé, Theodo Presented at the GenAI Days 2026 \"Agentic at Scale\" conference in Paris (an event organized by GenAI France to share real-world generative AI implementations), this talk explains how Theodo uses specialized AI agents to automate the modernization of complex legacy code. By structuring a strict \"modernization factory,\" developers initially supervise the AI to enforce coding standards before letting it run…",
+      "link": "https://www.youtube.com/watch?v=2ni9cN7cpnM",
+      "pubDate": "2026-08-31T20:31:31.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/2ni9cN7cpnM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "2ni9cN7cpnM"
+    },
+    {
+      "id": "8d23712cfc70",
+      "title": "L'économie de la solitude",
+      "description": "Lecture super intéressante de cette interview de Paul Klotz, essayiste : « La solitude est devenue une ressource délibérément recherchée et exploitée par les acteurs du numérique ». En substance, pour maximiser leurs revenus, basés sur la publicité ciblée, les réseaux sociaux (mais pas que, les Youtube et Tiktok & co aussi) ont compris qu’il fallait que les gens restent scotchés à leurs écrans le plus possible, pour consommer le plus de pub possible. C’est ce qu’on a appelé l’économie de…",
+      "link": "https://standblog.org/blog/post/2026/08/31/L-economie-de-la-solitude",
+      "pubDate": "2026-08-31T15:30:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f8a35690a44c",
+      "title": "En vrac de juillet aout 2026",
+      "description": "Complètement en vrac Citation du moment : “Il faudrait essayer d’être heureux, ne serait-ce que pour donner l’exemple. “, par Jacques Prévert, remise au goût du jour par Jean-Louis Trintignant dans une version très légèrement différente : “Et si on essayait d’être heureux, ne serait-ce que pour donner l’exemple”. Grace à Bonpote, je découvre le Global Justice Report, un plan pour l’égalité et la prospérité dans le respect des limites planétaires (un sujet qui me passionne !). Voir aussi (si…",
+      "link": "https://standblog.org/blog/post/2026/08/31/En-vrac-de-juillet-aout-2026",
+      "pubDate": "2026-08-31T14:56:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9625d5490e36",
       "title": "Gouvernance partagée & équipe IT : ce qu'on a gardé, abandonné et appris",
       "description": "Et si le prochain modèle d’entreprise restait à inventer ? 💡 Entreprise libérée, holacratie, sociocratie 3.0… les modèles « alternatifs » promettent autonomie, engagement et performance. Mais que deviennent- ils dans une ESN en croissance, avec des consultants en mission, des clients exigeants et des contraintes économiques ? Nicolas PEDEGERT et Antoine Queinnec ont beaucoup expérimenté chez INOCO : certaines pratiques ont changé durablement leur quotidien, d’autres se sont révélées…",

@@ -2,6 +2,139 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "bf3e1e0703c0",
+      "title": "Introducing wrapture",
+      "description": "Introducing wrapture New from Graham Dumpleton (of wrapt, mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same time. Wrapture (full documentation here) makes it easy to wrap any function or method such that all access can be traced, or can be overridden to return a different value. It acts as both an alternative to unittest.mock and a way to implement tracing against an…",
+      "link": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+      "pubDate": "2026-08-31T23:59:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3bbd285f29ae",
+      "title": "Quoting Andrew Digby",
+      "description": "325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there were just 51 kākāpō left. Recovery of critically endangered species is possible with sustained effort. &mdash; Andrew Digby, providing the best news of the year Tags: kakapo",
+      "link": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
+      "pubDate": "2026-08-31T22:25:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a71599f78a78",
+      "title": "6 AppSec CTOs Debate Open Source Supply Chain Security at Black Hat",
+      "description": "Socket CTO Ahmad Nassri recently sat down with five other AppSec leaders on The Secure Disclosure podcast for an unfiltered discussion on the state of software supply chain security. Hosting six competing CTOs and security researchers in one room provided a candid look at how upstream threats are evolving, the operational limits of package registries, and why commercial threat intelligence siloing leaves engineering teams exposed. A few of the highlights: Vulnerabilities vs. Active Malicious…",
+      "link": "https://socket.dev/blog/oss-supplyl-chain-security-blackhat?utm_medium=feed",
+      "pubDate": "2026-08-31T20:31:58.881Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b74e5aa6b518",
+      "title": "13 Malicious Packagist Themes Deliver iOS Spyware That Steals Crypto Wallet Seeds",
+      "description": "Socket’s Threat Research Team found 13 malicious Composer theme packages on Packagist, published across five vendor namespaces, that inject JavaScript into every page of the Vietnamese movie and comic streaming sites that install them. The injected code runs two operations against a site’s visitors: a mobile ad-fraud and gambling-redirect chain, and, on iPhones, a WebKit-to-kernel exploit chain that installs spyware. We reported the iOS chain to Apple and coordinated disclosure. Apple confirmed…",
+      "link": "https://socket.dev/blog/packagist-themes-ios-spyware?utm_medium=feed",
+      "pubDate": "2026-08-31T14:25:35.660Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/74a8bd0aa8ce39bad62b2b068fdaae015fcd8bb3-2048x2738.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "595ee813db88",
+      "title": "WebMCP By Google, Clearly Explained!",
+      "description": "Everything you need to understand WebMCP and expose your site's actions to an agent.",
+      "link": "https://blog.dailydoseofds.com/p/webmcp-by-google-clearly-explained",
+      "pubDate": "2026-08-31T13:43:15.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!HWvk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b79f01f-df42-4bc6-9ad1-cf8f6789d25a_680x620.png",
+      "type": "blog"
+    },
+    {
+      "id": "46123c4b9b73",
+      "title": "Build Your Own AI-Powered Slack Bot with the Laravel AI SDK",
+      "description": "In this article, we’ll build an AI-powered Slack bot with the Laravel AI SDK. Unlike tools such as Claude Tag, it can switch AI providers, answer questions, execute tasks, and retrieve information from a knowledge base you control. Read more",
+      "link": "https://freek.dev/3184-build-your-own-ai-powered-slack-bot-with-the-laravel-ai-sdk",
+      "pubDate": "2026-08-31T12:59:25.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e25de1c6d143",
+      "title": "Introducing symfony lsp:check: Symfony-Aware Diagnostics in Your CI",
+      "description": "A Symfony application is full of strings that mean something: route names, template paths, translation keys, service ids, bundle configuration keys. To PHP, they are strings like any others. Your CI pipeline verifies types with PHPStan or Psalm, style with…",
+      "link": "https://symfony.com/blog/introducing-symfony-lsp-check-symfony-aware-diagnostics-in-your-ci?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-08-31T12:03:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "011f8635e06e",
+      "title": "Architectural Guardrails for AI-Generated Code",
+      "description": "Consider a composite of a failure pattern that’s becoming increasingly common on teams that have scaled AI-assisted development past a handful of enthusiasts. A staff engineer named Priya opens a pull request. The PR is 340 lines and adds an endpoint that writes to the customer table directly, bypassing the internal customer service API. The […]",
+      "link": "https://www.oreilly.com/radar/architectural-guardrails-for-ai-generated-code/",
+      "pubDate": "2026-08-31T10:54:35.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a3fb645928c8",
+      "title": "Join Us for The PHP Foundation Community Hour",
+      "description": "Here at The PHP Foundation, we are continuously looking for ways in which we can increase our connections with the PHP community, especially when the goal is to improve the sustainability of the PHP language. Increasing the contributor pool ties in directly with sustainability, so encouraging contributions back to the PHP ecosystem is something we want to foster and support. As part of this effort, we are excited to be launching a monthly one-hour interactive podcast in partnership with the…",
+      "link": "https://thephp.foundation/blog/2026/08/31/join-us-for-the-php-foundation-community-hour/",
+      "pubDate": "2026-08-31T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ac6e7e3c37d7",
       "title": "Understanding ChatGPT Work",
       "description": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far. ChatGPT Work is actually two products The more interesting version of ChatGPT Work is the one that runs in the cloud. This can be accessed via chatgpt.com or through the ChatGPT mobile apps. Let's call it Work Cloud. If you install the ChatGPT desktop app - the app that used to be called Codex -…",

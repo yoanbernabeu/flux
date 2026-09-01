@@ -1,0 +1,20 @@
+{
+  "month": "2026-09",
+  "articles": [
+    {
+      "id": "dd093ebffa46",
+      "title": "pnpm 12’s Rust Rewrite Cuts Install Times by Up to 90%",
+      "description": "pnpm 12 is now stable, replacing the package manager’s Node.js and TypeScript foundation with a Rust rewrite while preserving the commands, settings, and lockfile format used by pnpm 11. Early results from a large production monorepo show install times falling by as much as 90%, although a dispute over flawed and outdated package manager benchmarks has complicated broader claims about where pnpm now ranks against Bun and other rivals. Released August 26, pnpm 12 is designed to be a major…",
+      "link": "https://socket.dev/blog/pnpm-12?utm_medium=feed",
+      "pubDate": "2026-09-01T02:52:00.183Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/1c2282138828fee243ec640b9f0f1adc095dc8a6-1948x1358.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    }
+  ]
+}
