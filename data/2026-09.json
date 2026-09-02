@@ -1,0 +1,134 @@
+{
+  "month": "2026-09",
+  "articles": [
+    {
+      "id": "224197d7ec93",
+      "title": "Comment héberger un LLM (partie 2)",
+      "description": "Suite et fin de notre série sur l'auto-hébergement d'un LLM. Au programme : le KV cache et le mécanisme d'attention, le scaling multi-GPU avec KServe et Kubernetes, la quantification, PagedAttention, le KV offloading, et des benchmarks vLLM chiffrés.",
+      "link": "https://blog.ippon.fr/2026/09/02/comment-heberger-un-llm-partie-2/",
+      "pubDate": "2026-09-02T08:00:42.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/blog-vllm-kubernetes-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "fe3cf2a8a494",
+      "title": "Intégrez vos services GeoJSON, WMS et WMTS dans Geotrek-widget",
+      "description": "Le Geotrek-widget s’en­ri­chit d’une nouvelle fonc­tion­na­lité permet­tant d’in­té­grer des couches carto­gra­phiques externes (GeoJ­SON, WMS et WMTS) direc­te­ment dans la carte.",
+      "link": "https://makina-corpus.com/logiciel-libre/integrez-vos-services-geojson-wms-et-wmts-dans-geotrek-widget",
+      "pubDate": "2026-09-02T07:30:00.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e44f5c150ca3",
+      "title": "L'IA au service du bien commun",
+      "description": "« Agir avec raison dans l'incertain » disait Blaise Pascal. L’IA n’est ni un ange ni un démon : elle est un outil puissant qui amplifie nos capacités et reflète nos choix. Elle ne ressent rien, ne comprend pas, n'est pas neutre, mais s'intègre de plus en plus à nos vies. Laurence Devillers (Sorbonne-Université) était à Devoxx France 2026 pour tenter de démystifier l’IA : lorsqu’elle est utilisée avec discernement, elle devient un levier majeur pour soigner, mieux comprendre le monde, anticiper…",
+      "link": "https://www.youtube.com/watch?v=0LruFWX4gSc",
+      "pubDate": "2026-09-02T07:26:53.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/0LruFWX4gSc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "0LruFWX4gSc"
+    },
+    {
+      "id": "1863e8863044",
+      "title": "Déploiement de Geotrek-admin pour le Conseil départemental de la Haute-Vienne",
+      "description": "En 2026, le Conseil dépar­te­men­tal de la Haute-Vienne choi­sit Geotrek-admin pour struc­tu­rer et gérer plus faci­le­ment son offre d’ac­ti­vi­tés de pleine nature.",
+      "link": "https://makina-corpus.com/logiciel-libre/deploiement-de-geotrek-admin-pour-le-conseil-departemental-de-la-haute-vienne",
+      "pubDate": "2026-09-02T07:00:00.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "453dc8340382",
+      "title": "Climadiag Agriculture et Forêt : extension aux domaines d'outre-mer",
+      "description": "Clima­diag Agri­cul­ture et Forêt est un service clima­tique en accès libre, fruit du parte­na­riat entre Météo-France et Sola­gro, spécia­liste des ques­tions agri­coles et sylvi­coles liées au chan­ge­ment clima­tique.",
+      "link": "https://makina-corpus.com/logiciel-libre/climadiag-agriculture-et-foret-extension-aux-domaines-doutre-mer",
+      "pubDate": "2026-09-02T07:00:00.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d1ff18fc9347",
+      "title": "#372.src - Dev AI: Les bests practices pour construire un modèle avec Gabriel de Marmiesse",
+      "description": "\"La reproductibilité, c'est un truc que moi, j'ai l'impression que l'industrie a abandonné\" Le D.E.V. de la semaine est Gabriel de Marmiesse, technical staff chez Kyutai. Dans cet épisode, il lève le voile sur le quotidien d'un dev AI : entre code non déterministe, gestion de fichiers de teraoctets et galères de GPU, rien n'est jamais simple. Gabriel partage comment la recherche et l'engineering s'opposent (et se complètent), pourquoi l'open source vit une crise de confiance à l'ère des LLM, et…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-372-1de47b6f557f",
+      "pubDate": "2026-09-02T03:00:33.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/05b01000-f753-4875-8463-451232110a61.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/de97bbbd-d6a1-4fa8-ac91-1de47b6f557f.mp3?_=1788264093",
+      "duration": "01:08:27"
+    },
+    {
+      "id": "d02371777dd6",
+      "title": "Zones de vigilance : mieux informer les usagers sur les conditions de pratique avec Geotrek",
+      "description": "Les espaces natu­rels sont des lieux de partage où se côtoient de nombreux usages : randon­née, pasto­ra­lisme, chasse, travaux fores­tiers, événe­ments ponc­tuels ou encore acti­vi­tés artis­tiques.",
+      "link": "https://makina-corpus.com/logiciel-libre/zones-de-vigilance-mieux-informer-les-usagers-sur-les-conditions-de-pratique-avec",
+      "pubDate": "2026-09-01T15:22:00.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5eb870048a8c",
+      "title": "Mon skill m'a généré une facture électronique, puis l'a envoyé et elle est arrivée du premier coup ! Ensuite, il a fallu en faire un produit...",
+      "description": "La réforme de la facturation électronique française arrive, et comme beaucoup d’indépendants, j’avais tout pour la détester : des factures HTML soignées que j’imprimais en PDF d’un Ctrl+P, un régime simple, et aucune envie de payer un SaaS pour transformer trois factures par mois en Factur-X. Factur-X, pour situer : un PDF/A-3 qui embarque un XML structuré (CII, sémantique EN 16931). Le PDF pour les humains, le XML pour les machines et l’administration. Et l’envoi ne se fait plus par mail mais…",
+      "link": "https://kolapsis.com/blog/gofact-genese/",
+      "pubDate": "2026-09-01T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}

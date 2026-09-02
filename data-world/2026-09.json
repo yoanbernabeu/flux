@@ -2,6 +2,140 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "b6e93fadaf7e",
+      "title": "Quoting Rick Brewster",
+      "description": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So, instead, Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite of Direct2D that it uses on WINE (triggered by using /wine). It lives in PaintDotNet.Windows.Direct2D1.Managed.dll. This was written by our good friend Claude, without whom this would NOT have been possible and…",
+      "link": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+      "pubDate": "2026-09-02T05:50:57.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6cb14383ff4a",
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "description": "Today is Claude Fable (and Mythos) 5.1 day. Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on scientific research, boasting of a 52.6% score on the brand new Terminal-Bench-Science 0.1 benchmark (first announced on August 27th), up from 24.7% for Fable 5, 29.0% for Opus 5 and 22.4% for GPT-5.6 Sol. Other benchmarks show slightly improved scores, but none as impressive as…",
+      "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "pubDate": "2026-09-01T23:57:28.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "547761e2ef7a",
+      "title": "Static vs. Dynamic vs. Continuous Batching in LLMs, clearly explained!",
+      "description": "+ a popular LLM interview question.",
+      "link": "https://blog.dailydoseofds.com/p/static-vs-dynamic-vs-continuous-batching",
+      "pubDate": "2026-09-01T21:11:23.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!ol6s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc53666c2-4b98-4da6-9817-0ebcd17f8db4_680x380.png",
+      "type": "blog"
+    },
+    {
+      "id": "86d3bc7092b6",
+      "title": "Codex bundles LibreOffice",
+      "description": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in there in a folder called codex-primary-runtime, including a full Python installation, a full Node.js installation, and native binaries for Poppler, git, and the LibreOffice open source office suite (which forked from OpenOffice.org in 2010): The…",
+      "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "pubDate": "2026-09-01T19:03:01.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a63809277a38",
+      "title": "Microsoft Teams Notifications Are Now Available in Socket",
+      "description": "Today, we’re excited to add Microsoft Teams as a notification channel in Socket. Security and engineering teams can now send organization alerts and supply chain attack campaign notifications directly to the Teams channels they already monitor, with filters that control exactly which events reach each destination. When Socket finds something that needs attention, teams shouldn’t have to keep another dashboard open to find out. Microsoft Teams notifications bring relevant security activity into…",
+      "link": "https://socket.dev/blog/microsoft-teams?utm_medium=feed",
+      "pubDate": "2026-09-01T18:45:02.949Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/596ef5778938a0e20f45acd83939c119a7a4378c-1524x1160.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "92dade5d3d44",
+      "title": "GeoJSON Map Viewer",
+      "description": "Tool: GeoJSON Map Viewer I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council) and found a need to display some GeoJSON files on a map and export that as a PNG. I asked GPT-5.6-Sol for suggestions of tools and it proactively built one. After some iterations using Claude Code for web and Fable 5.1 we got to this finished tool. As for the GeoJSON.. it turns out if you ask ChatGPT Work to provide…",
+      "link": "https://simonwillison.net/2026/Sep/1/geojson/",
+      "pubDate": "2026-09-01T18:05:45.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ce7a87104920",
+      "title": "Quoting Tarn Adams",
+      "description": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior, and they misbehave sometimes &mdash; Tarn Adams, co-creator of Dwarf Fortress Tags: ai, game-design",
+      "link": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+      "pubDate": "2026-09-01T17:01:11.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "06c1aea3d44b",
+      "title": "datasette-mcp 0.2",
+      "description": "Release: datasette-mcp 0.2 \"rows\" from execute_sql is now an array of objects. Previously it was an array of arrays. This should help weaker models avoid losing track of which positional array element maps to which column. #1 Now depends on mcp&gt;=2.1.1. This is the first non-alpha release of the plugin. I'm confident it's ready as I've been using it quite a bit myself. Tags: datasette, model-context-protocol",
+      "link": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+      "pubDate": "2026-09-01T15:30:12.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b79951c45667",
+      "title": "Python 3.15.0 candidate 2 is here!",
+      "description": "Python 3.15.0 candidate 2 is here! Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candidate and the final release. [...] We strongly encourage maintainers of third-party Python projects to prepare their projects for 3.15 during this phase, and publish Python 3.15 wheels…",
+      "link": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+      "pubDate": "2026-09-01T14:59:18.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "dd093ebffa46",
       "title": "pnpm 12’s Rust Rewrite Cuts Install Times by Up to 90%",
       "description": "pnpm 12 is now stable, replacing the package manager’s Node.js and TypeScript foundation with a Rust rewrite while preserving the commands, settings, and lockfile format used by pnpm 11. Early results from a large production monorepo show install times falling by as much as 90%, although a dispute over flawed and outdated package manager benchmarks has complicated broader claims about where pnpm now ranks against Bun and other rivals. Released August 26, pnpm 12 is designed to be a major…",
@@ -14,6 +148,21 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/1c2282138828fee243ec640b9f0f1adc095dc8a6-1948x1358.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "205ca71d05c8",
+      "title": "Roman Pronskiy Leaves The PHP Foundation Board and Brent Roose Joins",
+      "description": "The PHP Foundation is excited to announce the addition of Brent Roose from JetBrains to the Foundation's Board of Directors. Brent fills the JetBrains Platinum Sponsor seat and was unanimously voted to join by the existing members. Brent is a developer advocate for PHP at JetBrains, but he is also a writer, content creator, event organizer, community leader, and open source contributor. He is a well-recognized voice on PHP Annotated, maintains an active blog at stitcher.io, and is the creator…",
+      "link": "https://thephp.foundation/blog/2026/09/01/welcome-brent-roose/",
+      "pubDate": "2026-09-01T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://thephp.foundation/assets/post-images/2026/brent-roose/brent-roose.jpg",
       "type": "blog"
     }
   ]
