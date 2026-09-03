@@ -2,6 +2,39 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "3d71bd84ba7f",
+      "title": "Claude Fable 5.1 : 45% MOINS CHER ?",
+      "description": "Claude Fable 5.1 est le nouveau modèle d’Anthropic, et il apporte plusieurs améliorations importantes en performances, coût, raisonnement et utilisation pour les développeurs. Dans cette vidéo, je passe en revue ce que change réellement Claude Fable 5.1 : ses performances face aux précédents modèles Claude, ses benchmarks, son prix, ses capacités en développement logiciel, ses usages en recherche scientifique ainsi que les nouveautés liées à la sécurité et à la traçabilité. On verra notamment…",
+      "link": "https://www.youtube.com/watch?v=QP64XayNjjY",
+      "pubDate": "2026-09-02T12:25:26.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/QP64XayNjjY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "QP64XayNjjY"
+    },
+    {
+      "id": "1d4eecc1397d",
+      "title": "Organiser une équipe de développement à l’ère de l’IA - Part II.2",
+      "description": "Le Domain-Driven Design structure le domaine métier en identifiant ses concepts, son langage ubiquitaire et les responsabilités qui organisent le système. Mais un logiciel ne se contente pas de représenter le métier : il en exprime aussi les comportements.",
+      "link": "https://blog.octo.com/organiser-une-equipe-de-developpement-a-l'ere-de-l'ia-part-ii.2",
+      "pubDate": "2026-09-02T08:41:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "224197d7ec93",
       "title": "Comment héberger un LLM (partie 2)",
       "description": "Suite et fin de notre série sur l'auto-hébergement d'un LLM. Au programme : le KV cache et le mécanisme d'attention, le scaling multi-GPU avec KServe et Kubernetes, la quantification, PagedAttention, le KV offloading, et des benchmarks vLLM chiffrés.",
@@ -99,6 +132,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/de97bbbd-d6a1-4fa8-ac91-1de47b6f557f.mp3?_=1788264093",
       "duration": "01:08:27"
+    },
+    {
+      "id": "15806e25c9c7",
+      "title": "L'IA déplace les frontières de chaque métier",
+      "description": "J’aborde régulièrement l’IA sous l’angle du développeur et du bouleversement que cela représente dans notre métier. Mais nous ne sommes pas les seuls concernés. C’est l’ensemble des métiers du logiciel qui évolue. Puisque l’écriture du code occupe moins de place, les développeurs se recentrent sur le produit. Ils questionnent davantage les besoins, challengent les spécifications, proposent des alternatives fonctionnelles. Autrement dit, ils font dorénavant une partie du travail qui était…",
+      "link": "https://www.jdecool.fr/blog/2026/09/02/l-ia-deplace-les-frontieres-de-chaque-metier.html",
+      "pubDate": "2026-09-01T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "d02371777dd6",

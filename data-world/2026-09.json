@@ -2,6 +2,94 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "098a29cd1f38",
+      "title": "Stop Guessing Which Local Model To Run",
+      "description": "A practitioner's guide to local AI.",
+      "link": "https://blog.dailydoseofds.com/p/stop-guessing-which-local-model-to",
+      "pubDate": "2026-09-02T19:10:34.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!tIyY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1438bb43-256f-4136-ac1b-cc7c18d18b67_1221x1116.png",
+      "type": "blog"
+    },
+    {
+      "id": "18c439efc6c9",
+      "title": "llm-gemini 0.34",
+      "description": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash, with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan. #137 Google released Gemini 3.8 Flash (and 3.8 Flash Cyber, but that's available to \"trusted defenders\" only) today. Here are the pelicans for high, medium, and low. This is high: For comparison, here are the same pelicans generated using Gemini 3.7 Flash. Something I appreciate…",
+      "link": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+      "pubDate": "2026-09-02T16:39:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "be4670b92253",
+      "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
+      "description": "The API Platform Conference, the international event dedicated to the API Platform framework and its ecosystem, will take place in two weeks in Lille, France, on September 17–18, 2026. Nearly 30 talks are scheduled, in both French and English, covering…",
+      "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-02T14:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/api-platform-2026-1200x800.png",
+      "type": "blog"
+    },
+    {
+      "id": "2557b479477d",
+      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+      "description": "Anthropic publish the system prompts for their Claude consumer applications (Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the current prompts but historic changes to their prompts as well. They used to keep all of the prompts on a single page, but when I checked today I noticed they had re-arranged those prompts into an index page and then a page per model - here's the page for Haiku 4.5 for example,…",
+      "link": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "pubDate": "2026-09-02T14:16:42.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c39191e81aab",
+      "title": "Community Corner Podcast: Longhorn PHP 2026 with Ian Littman",
+      "description": "In this episode, Scott talks to Ian Littman about Longhorn PHP 2026, a 2-day conference in Austin, TX, on October 15–16, 2026, at the Holiday Inn Austin Midtown. Links: Our Discord – https://discord.gg/aMTxunVx Buy our shirts – https://store.phparch.com/products/community-corner-podcast-t-shirt Ian’s Links: Longhorn – https://longhornphp.com/ $25 off – https://ti.to/longhorn-php/longhorn-php-2026/discount/communitycorner Scott’s Links: Website – https://scott.keck-warren.com/ Bluesky – […] The…",
+      "link": "https://www.phparch.com/podcast/community-corner-podcast-longhorn-php-2026-with-ian-littman/",
+      "pubDate": "2026-09-02T12:26:38.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/08/Longhorn-PHP-2026-With-Ian-Littman.png",
+      "type": "blog"
+    },
+    {
+      "id": "2ad3c602678e",
+      "title": "What a User Story Actually Costs in a Dark Code Factory",
+      "description": "Between March and July 2026, I built a production application of 861,601 lines of code. This included 696 user stories and 779 merged pull requests over 105 days, but I can’t tell you what it cost. The first version of an autonomous SDLC framework driving Claude Code did the work. That generation didn’t record usage, […]",
+      "link": "https://www.oreilly.com/radar/what-a-user-story-actually-costs-in-a-dark-code-factory/",
+      "pubDate": "2026-09-02T11:03:21.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b6e93fadaf7e",
       "title": "Quoting Rick Brewster",
       "description": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So, instead, Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite of Direct2D that it uses on WINE (triggered by using /wine). It lives in PaintDotNet.Windows.Direct2D1.Managed.dll. This was written by our good friend Claude, without whom this would NOT have been possible and…",
@@ -12,6 +100,21 @@
       "categories": [
         "IA",
         "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c6697d405ec4",
+      "title": "Digital Sovereignty Is Written in PHP",
+      "description": "Germany is spending €108 million to move its federal websites onto a PHP application. The money is the budget for the eleventh version of the Government Site Builder, the German federal administration's standard content management solution: €26.88 million for product development and support, €73.2 million for migration and relaunch, €8 million for operations, phased over four years. More than 80 federal agencies and institutions already use it, and they have built well over 250 websites with…",
+      "link": "https://thephp.foundation/blog/2026/09/02/digital-sovereignty-is-written-in-php/",
+      "pubDate": "2026-09-02T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
