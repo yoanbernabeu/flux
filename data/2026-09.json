@@ -2,6 +2,102 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "b34410775828",
+      "title": "Les nouvelles best practices Laravel : arrêtez les règles absolues !",
+      "description": "Pour te former à Laravel et l'IA rejoins notre armée : https://laraveljutsu.com ! Laravel Boost vient de mettre à jour ses best practices… et le changement est plus important qu'il n'y paraît. Fini les recommandations trop catégoriques du type : ❌ « Utilisez toujours cette méthode » ❌ « Cette requête est forcément plus performante » ❌ « Il faut toujours créer une Action class » La nouvelle philosophie est beaucoup plus intéressante : 👉 Ça dépend du contexte. 👉 Mesurez vos performances. 👉…",
+      "link": "https://www.youtube.com/watch?v=9OoovJUJxqM",
+      "pubDate": "2026-09-04T17:22:38.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/9OoovJUJxqM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "9OoovJUJxqM"
+    },
+    {
+      "id": "d8f3129acf42",
+      "title": "GPT-6 Astra : le modèle le plus puissant d’OpenAI ?",
+      "description": "Que vaut GPT6 Astra d'OpenAI ? Découvrez l'analyse des benchmarks, du pilotage d'ordinateur, de la cybersécurité et des tarifs. Dans cette vidéo, nous décortiquons en détail le modèle GPT6 Astra, successeur de GPT 5.6 Sol. Conçu pour exécuter des tâches longues et complexes, il repousse les limites techniques avec une vitesse d'exécution doublée sur certains environnements et une fenêtre de contexte élargie. Au programme de cette analyse : - Benchmarks : saturation des scores sur Arc AGI3 et…",
+      "link": "https://www.youtube.com/watch?v=asUotdRMuao",
+      "pubDate": "2026-09-04T15:30:30.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/asUotdRMuao/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "asUotdRMuao"
+    },
+    {
+      "id": "9af19c9766e7",
+      "title": "Au delà du vibe coding : Maîtriser l’IA pour construire durablement",
+      "description": "Après un été chaud, le blog lance une série d'entretiens vidéo avec Julien Saumande, expert en IA. Il aborde le phénomène du \"Vibe Coding\" et prône un développement assisté par IA (AIDD) pour garantir des fondations solides. Il met en lumière les enjeux éthiques et sociétaux de l'IA en entreprise, notamment le \"Shadow IT\". L’article Au delà du vibe coding : Maîtriser l’IA pour construire durablement est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/04/au-dela-du-vibe-coding-maitriser-lia-pour-construire-durablement/",
+      "pubDate": "2026-09-04T14:07:19.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "518af6a0a98b",
+      "title": "Glossaire IA : Comprendre l’intelligence artificielle, un mot à la fois",
+      "description": "Un glossaire IA pour comprendre simplement les termes clés de l’intelligence artificielle, des LLM aux agents en passant par le RAG.",
+      "link": "https://blog.octo.com/octo-glossaire-ia--comprendre-l'intelligence-artificielle-un-mot-a-la-fois-1",
+      "pubDate": "2026-09-04T12:57:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9d091d825794",
+      "title": "Fast Forward Merge: Advantages, Limits, and Best Practices",
+      "description": "In a team environment, where multiple developers work on the same codebase, branching and merging are part of everyday life.",
+      "link": "https://blog.zenika.com/2026/09/04/fast-forward-merge-advantages-limits-and-best-practices/",
+      "pubDate": "2026-09-04T12:39:51.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2025/07/Capture-decran-2025-07-03-a-16.41.03.png?resize=800%2C267&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "908fd499e4d9",
+      "title": "Découverte de Symfony Security Auditor",
+      "description": "Comment réaliser un audit de sécurité Symfony efficace ? Découvrez comment détecter les failles de logique métier grâce à l'IA. Les outils d'analyse statique habituels ne vérifient pas toujours les autorisations manquantes ou les règles métier contournables. Dans cette vidéo, nous testons Symfony Security Auditor sur une application concrète. Grâce à un système à deux agents — un attaquant qui cherche les failles et un reviewer qui élimine les faux positifs, l'outil s'appuie sur un catalogue de…",
+      "link": "https://www.youtube.com/watch?v=objEs5q4U9A",
+      "pubDate": "2026-09-04T12:29:51.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/objEs5q4U9A/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "objEs5q4U9A"
+    },
+    {
       "id": "448aec6effaf",
       "title": "MACI #163 - PHP, cybersécurité et IA - Avec Cédric Mourizard et Nathan Boiron",
       "description": "Dans ce nouvel épisode de rentrée de Message à Caractère Informatique, on parle PHP, AFUP et Forum PHP 2026, avec un retour sur l’évolution du langage, de son écosystème et de son image. Et puis, comme à notre habitude, la discussion s’élargit vite… des fuites de données dans les services publics aux enjeux de cybersécurité, avant de terminer sur l’actualité de l’IA, les modèles locaux et open source, et les usages plus frugaux des LLM. Animé par : Horacio GONZALEZ, VP DevRel chez Clever Cloud…",
