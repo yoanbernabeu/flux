@@ -2,6 +2,51 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "1ec3cee17306",
+      "title": "A Week of Symfony #1027 (August 31 – September 6, 2026)",
+      "description": "This week, Symfony 6.4.45, 7.4.18, and 8.1.6 were released with numerous bug fixes and hardening improvements. Meanwhile, we introduced symfony lsp:check, a new command that brings Symfony-aware diagnostics to your CI pipeline, catching unknown routes, missing…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1027-august-31-september-6-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-06T07:46:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9f6de6a442ea",
+      "title": "Introducing GPT-6 Astra for developers",
+      "description": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s: Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models. I've seen it make incredible renderings of gardens, shipyards, animals, cityscapes, even Dyson spheres. Astra really does believe in putting a red neckerchief on a pelican riding a bicycle. Via Hacker News…",
+      "link": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "pubDate": "2026-09-05T23:27:48.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1a7ad445c458",
+      "title": "Using Blender with coding agents on macOS",
+      "description": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.org and run a prompt like this: Use the already install /Applications/Blender to render a scene of a pelican riding a bicycle In this case I followed that up with these two prompts: OK add a background and a lot of flair Then: OK make it a whole lot better And got this image,…",
+      "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "pubDate": "2026-09-05T15:51:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1cfa4c2a073e",
       "title": "The Pelican comparison grid for Astra is pretty interesting",
       "description": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Terra, and Luna, and beyond being fun the result was surprisingly useful. See the grid for full quality images. Here's the transcript that created the GPT-6 Nova pelicans. There are a few interesting things that stand out…",
