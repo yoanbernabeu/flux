@@ -2,6 +2,75 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "6ba4ceef27a8",
+      "title": "Null : l'erreur à un milliard qui hante encore Java",
+      "description": "Retour sur l'invention de la référence nulle par Tony Hoare en 1965 : pourquoi le NullPointerException persiste en Java, les limites d'Optional, et les alternatives (JSpecify, Vavr, Kotlin).",
+      "link": "https://blog.ippon.fr/2026/09/07/null-lerreur-a-un-milliard-qui-hante-encore-java/",
+      "pubDate": "2026-09-07T07:02:29.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/matrix-null.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "8bad31288e0f",
+      "title": "Notes de marge avec le positionnement par ancre CSS",
+      "description": "Je fais un usage intensif des notes de marge : elles gardent le contenu optionnel à côté du texte au lieu de renvoyer le lecteur en bas de page. les affiche sans JavaScript, mais n’accepte qu’un seul paragraphe. Le , désormais pris en charge par les navigateurs récents, est une alternative élégante. Les notes peuvent contenir plusieurs blocs, toujours sans JavaScript, et se positionnent sous le paragraphe qui les appelle sur les fenêtres étroites et les navigateurs plus anciens.12Tufte…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-css-notes-de-marge",
+      "pubDate": "2026-09-07T06:49:58.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/css-sidenotes-lynx@1x.62cb4bfb14577a.png",
+      "type": "blog"
+    },
+    {
+      "id": "d2e532075ce5",
+      "title": "#373.src - Forward Deployed Engineer: Entre IA et terrain avec Léa Buendé",
+      "description": "\"le métier de dev va tendre vers le métier de FDE\" Le D.E.V. de la semaine est Léa Buendé, Forward Deployed Engineer chez Adobe. Léa revient sur la naissance d'un métier encore mal compris, entre IA, accompagnement client et exploration terrain. Elle explique comment l'approche FDE redéfinit le rôle du dev, jusqu'à brouiller les frontières entre technique, produit et humain. Anecdotes vécues, erreurs d'humilité et conviction que tout le monde peut se former à l'IA animent cet échange. Elle…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-373-8efdcfb1b423",
+      "pubDate": "2026-09-07T03:00:40.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/2ce5997a-cf51-4357-a54c-7da4a16b1372.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/8a6f4b52-f2ec-4691-9d9f-8efdcfb1b423.mp3?_=1788696040",
+      "duration": "51:16"
+    },
+    {
+      "id": "d36cfe59f9a4",
+      "title": "Personne ne vous dit ça sur les skills IA (alors j'ai testé)",
+      "description": "Même prompt, même projet Symfony, même IA. D'un côté rien, de l'autre des skills. Et le code qui sort n'a pas la même forme. Dans cette vidéo, je présente d'abord ce qu'est un skill pour un agent de code, et la suite symfony-yoandev que j'ai écrite : seize skills qui couvrent l'architecture, Doctrine, HTTP, la console, les tests, la performance et le reste. Pas des règles de style, des décisions : où vont les requêtes, ce qui entre dans Twig, qui a le droit de faire un flush, comment on écrit…",
+      "link": "https://www.youtube.com/watch?v=yTfL52riIw0",
+      "pubDate": "2026-09-06T16:00:22.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/yTfL52riIw0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "yTfL52riIw0"
+    },
+    {
       "id": "b34410775828",
       "title": "Les nouvelles best practices Laravel : arrêtez les règles absolues !",
       "description": "Pour te former à Laravel et l'IA rejoins notre armée : https://laraveljutsu.com ! Laravel Boost vient de mettre à jour ses best practices… et le changement est plus important qu'il n'y paraît. Fini les recommandations trop catégoriques du type : ❌ « Utilisez toujours cette méthode » ❌ « Cette requête est forcément plus performante » ❌ « Il faut toujours créer une Action class » La nouvelle philosophie est beaucoup plus intéressante : 👉 Ça dépend du contexte. 👉 Mesurez vos performances. 👉…",
