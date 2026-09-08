@@ -2,6 +2,85 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "9524e28970fd",
+      "title": "AI-Assisted Development: Should You Let Your Employees Develop Their Own Applications with AI?",
+      "description": "In the era of generative AI and vibe coding, employees are now designing their own business tools. Between the freedom to experiment in the field and the need to frame data security, how can companies transform this digital DIY into a real performance lever? L’article AI-Assisted Development: Should You Let Your Employees Develop Their Own Applications with AI? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/08/ai-assisted-development-should-you-let-your-employees-develop-their-own-applications-with-ai/",
+      "pubDate": "2026-09-08T07:56:19.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bde490b9c6d3",
+      "title": "Développement assisté par IA : devez-vous laisser vos collaborateurs développer leurs propres applications avec l’IA ?",
+      "description": "À l’ère de l’IA générative et du vibe coding, les collaborateurs conçoivent désormais leurs propres outils métier. Entre liberté d’expérimenter sur le terrain et nécessité d’encadrer la sécurité des données, comment les entreprises peuvent-elles transformer ce bricolage numérique en véritable levier de performance ? L’article Développement assisté par IA : devez-vous laisser vos collaborateurs développer leurs propres applications avec l’IA ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/08/developpement-assiste-par-ia-devez-vous-laisser-vos-collaborateurs-developper-leurs-propres-applications-avec-lia/",
+      "pubDate": "2026-09-08T05:55:14.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "09108ae3b2e4",
+      "title": "Souveraineté : de l’IA agentique qui garde vos données en Europe",
+      "description": "Face à une actualité internationale qui nous pousse à réduire nos dépendances technologiques vis-à-vis des acteurs américains (infrastructure comme IA), on peut construire un agent IA pleinement opérationnel 100 % hébergé et exécuté en Europe. Notre assistant de conférence tourne sur une stack open source européenne, du runtime jusqu’à l’application, fait son inférence en France […] Cet article, Souveraineté : de l’IA agentique qui garde vos données en Europe, est paru en premier sur…",
+      "link": "https://les-tilleuls.coop/blog/souverainete-de-lia-agentique-qui-garde-vos-donnees-en-europe",
+      "pubDate": "2026-09-07T13:06:01.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/09/mcp-api-con-III-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3173fe2dc6a1",
+      "title": "Transformer une API en boîte à outils pour agents : l’architecture de notre assistant de conférence",
+      "description": "La première partie de ce retour d’expérience expliquait le choix d’architecture : construire un serveur MCP plutôt qu’un chatbot isolé, pour que le service soit accessible à n’importe quel agent IA, l’interface de chat devenant simplement son premier client. Cet article rentre dans le détail technique de ce service et du client qui s’y connecte. […] Cet article, Transformer une API en boîte à outils pour agents : l’architecture de notre assistant de conférence, est paru en premier sur…",
+      "link": "https://les-tilleuls.coop/blog/transformer-une-api-en-boite-a-outils-pour-agents-larchitecture-de-notre-assistant-de-conference",
+      "pubDate": "2026-09-07T13:04:48.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/09/mcp-api-con-II-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f33b5a6a5176",
+      "title": "Comment nous avons créé un assistant IA pour l’API Platform Conference 2026",
+      "description": "Trouver le talk qui correspond à vos objectifs, savoir qui va briller sur la scène FrankenPHP, caler votre agenda… La billetterie de l’API Platform Conference 2026 ferme dans quelques jours, et on a voulu vous accompagner jusqu’au bout avec un nouvel outil : un assistant IA avec qui échanger directement sur la conférence. On vous […] Cet article, Comment nous avons créé un assistant IA pour l’API Platform Conference 2026, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/comment-nous-avons-cree-un-assistant-ia-pour-lapi-platform-conference-2026",
+      "pubDate": "2026-09-07T13:03:32.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/09/mcp-api-con-I-1024x569.webp",
+      "type": "blog"
+    },
+    {
       "id": "6ba4ceef27a8",
       "title": "Null : l'erreur à un milliard qui hante encore Java",
       "description": "Retour sur l'invention de la référence nulle par Tony Hoare en 1965 : pourquoi le NullPointerException persiste en Java, les limites d'Optional, et les alternatives (JSpecify, Vavr, Kotlin).",
@@ -51,6 +130,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/8a6f4b52-f2ec-4691-9d9f-8efdcfb1b423.mp3?_=1788696040",
       "duration": "51:16"
+    },
+    {
+      "id": "1d58f708d342",
+      "title": "Mon site sur AT Proto avec standard.site",
+      "description": "Je continue mon exploration d’AT Protocol. Après avoir joué avec Tangled, cette fois, j’ai essayé d’intégrer mon site sur AT Protocol avec standard.site. Ça s’est plutôt révélé facile de mon côté, je vous explique tout ça.",
+      "link": "https://codeka.io/2026/09/07/mon-site-sur-at-proto-avec-standard-site/",
+      "pubDate": "2026-09-07T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/09/07/mon-site-sur-at-proto-avec-standard-site/cover_hu_aa246b4abc5b86fd.webp",
+      "type": "blog"
     },
     {
       "id": "d36cfe59f9a4",

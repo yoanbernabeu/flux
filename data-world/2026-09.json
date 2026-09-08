@@ -2,6 +2,140 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "a19004eb2b0f",
+      "title": " No need ",
+      "description": "Read the full post on https://stitcher.io/blog/no-need",
+      "link": "https://stitcher.io/blog/no-need",
+      "pubDate": "2026-09-08T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "af3eb01e6111",
+      "title": "llm 0.35",
+      "description": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra. Tags: openai, llm, gpt-6-astra",
+      "link": "https://simonwillison.net/2026/Sep/7/llm/",
+      "pubDate": "2026-09-07T23:54:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dc08bf6b0254",
+      "title": "Creepy crawlies",
+      "description": "Creepy crawlies Konstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org, the official Git repository for the Linux kernel: TL;DR: we spend more CPU cycles rendering commits for scrapers than we spend on all other kinds of legitimate access, including git clones. At any one time, across 5 geo-distributed nodes, there are 14 CPU cores doing nothing but rendering git commits as html. I worry about this a lot from the…",
+      "link": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+      "pubDate": "2026-09-07T23:08:58.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c63c02891628",
+      "title": "Quoting Jakub Pachocki",
+      "description": "The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will need powerful, aligned AI for defense; to secure infrastructure, to protect against rogue agents in real time, and to invent entirely new protective measures. This will be a primary focus of OpenAI’s deployment efforts. At the same time, even with the uncertainty that comes from anticipated broad AI progress and the need to…",
+      "link": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+      "pubDate": "2026-09-07T22:26:25.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "97054fc4c9b1",
+      "title": "LLM Routing Can Cost More Than Not Routing",
+      "description": "...covered with a production-grade router for LLM apps.",
+      "link": "https://blog.dailydoseofds.com/p/llm-routing-can-cost-more-than-not",
+      "pubDate": "2026-09-07T20:30:58.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!XzOG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4554617f-36b3-44e4-88ce-cb765e989654_960x706.webp",
+      "type": "blog"
+    },
+    {
+      "id": "656c3dbba158",
+      "title": "Video compressor",
+      "description": "Tool: Video compressor I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code for web build me this tool using the WebAssembly build of FFMPEG. Tags: ffmpeg, video, webassembly, claude, claude-code, claude-mythos-fable",
+      "link": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+      "pubDate": "2026-09-07T18:29:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "960f861c32aa",
+      "title": "Mercator ↔ Equal Earth",
+      "description": "Tool: Mercator ↔ Equal Earth I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition between Mercator and Equal Earth using D3. Tags: geospatial, d3, vibe-coding, gpt-6-astra",
+      "link": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+      "pubDate": "2026-09-07T16:24:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "048fb8d7f870",
+      "title": "SymfonyCon Warsaw 2026: Unveiling the workshop lineup!",
+      "description": "We are counting down to SymfonyCon Warsaw 2026, taking place on November 26-27, 2026, in Warsaw (Poland)! Get ready for a week full of workshops, sessions, and community magic. Great news today: all workshops are now online and open for registration!…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-unveiling-the-workshop-lineup?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-07T15:35:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "1a6b93d4f8a2",
+      "title": "Using AI as a deterministic translation tool in Laravel",
+      "description": "Split a task into reasoning and execution to get deterministic behaviour out of a non-deterministic model. Read more",
+      "link": "https://freek.dev/3186-using-ai-as-a-deterministic-translation-tool-in-laravel",
+      "pubDate": "2026-09-07T12:53:24.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "20cafbfa4822",
       "title": "Research acceleration: The view inside OpenAI",
       "description": "Research acceleration: The view inside OpenAI Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist Jakub Pachocki) talk about it, and this one doesn't even bother to expand the acronym. Included are details on how OpenAI's own research team are using coding agents. Like pretty much everyone else 2026 has been the year that agentic engineering really took off at OpenAI, best…",
@@ -297,6 +431,36 @@
       "type": "blog"
     },
     {
+      "id": "152417485b22",
+      "title": "llm-openrouter 0.7.1",
+      "description": "Release: llm-openrouter 0.7.1 Performance fix for loading OpenRouter models. Thanks, waveplate. #59 Tags: llm, openrouter",
+      "link": "https://simonwillison.net/2026/Sep/2/llm-openrouter/",
+      "pubDate": "2026-09-02T20:23:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1ea6fcd4c857",
+      "title": "llm 0.34",
+      "description": "Release: llm 0.34 One new feature: llm logs --usage Markdown output now includes the response duration in milliseconds and as a human-readable duration. llm logs --short includes a new duration_ms field. #1653 Plus several contributed bug fixes, and a significant performance improvement to llm logs thanks to waveplate on GitHub, see also llm-openrouter 0.7.1. Tags: llm",
+      "link": "https://simonwillison.net/2026/Sep/2/llm/",
+      "pubDate": "2026-09-02T19:23:52.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "098a29cd1f38",
       "title": "Stop Guessing Which Local Model To Run",
       "description": "A practitioner's guide to local AI.",
@@ -308,6 +472,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!tIyY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1438bb43-256f-4136-ac1b-cc7c18d18b67_1221x1116.png",
+      "type": "blog"
+    },
+    {
+      "id": "56578662bbcd",
+      "title": "llm-anthropic 0.28",
+      "description": "Release: llm-anthropic 0.28 Claude Fable 5.1, reasoning traces are now displayed by default for models that support them, plus a new llm_anthropic.ClaudeRefusal exception for when Claude throws a refusal. Tags: llm, anthropic, claude, claude-mythos-fable",
+      "link": "https://simonwillison.net/2026/Sep/2/llm-anthropic/",
+      "pubDate": "2026-09-02T17:59:32.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
