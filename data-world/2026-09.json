@@ -2,6 +2,79 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "93334b7607d9",
+      "title": "Quoting Terence Tao",
+      "description": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...] We have now seen that even the rumor of someone working on a problem can trigger a massive amount of AI-powered effort to flatten it before the original research project has time to reach its full potential. The incentives may now be pointing in the direction of no longer sharing any promising research…",
+      "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+      "pubDate": "2026-09-09T00:20:17.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33eea6358b54",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "description": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem, one of the seven Millennium Prize Problems that have been subject to a $1,000,000 prize since May 24th, 2000. The discovery is somewhat overshadowed by accusations of skulduggery from Tristan Buckmaster, an NYU mathematics professor who was collaborating on related problems with Levent Alpöge, an accomplished…",
+      "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+      "pubDate": "2026-09-08T23:55:12.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "78524e1fb74f",
+      "title": "Introducing ChatGPT Images 2.5",
+      "description": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-following ability across multiple turns, responds faster, and \"is better at preserving the subjects in your reference photos\". There are two new model IDs in the API: gpt-image-2.5-sunburst and gpt-image-2.5-flare. Based on this I think Sunburst is the stronger option: Choose…",
+      "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+      "pubDate": "2026-09-08T22:46:33.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f10b25bc3a73",
+      "title": "Momentum in ML, Explained Visually and Intuitively!",
+      "description": "(a popular ML interview question)",
+      "link": "https://blog.dailydoseofds.com/p/momentum-in-ml-explained-visually-342",
+      "pubDate": "2026-09-08T21:24:18.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Vhvw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20b5f4ad-dc80-486f-87b2-2ff5cb5a3ca4_1111x1254.gif",
+      "type": "blog"
+    },
+    {
+      "id": "8f8cdf91a3b2",
+      "title": "Experience Mapping Matters More the Faster You Move",
+      "description": "AI is changing how fast organizations can move. Ideas that used to take months to build now take days, sometimes hours. That sounds like good news, and it is. But it creates a new problem. When execution is fast, teams can move in many directions at once. Marketing can ship a new campaign, product can […]",
+      "link": "https://www.oreilly.com/radar/experience-mapping-matters-more-the-faster-you-move/",
+      "pubDate": "2026-09-08T14:25:20.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a19004eb2b0f",
       "title": " No need ",
       "description": "Read the full post on https://stitcher.io/blog/no-need",
