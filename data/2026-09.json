@@ -2,6 +2,101 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "cc94619d7205",
+      "title": "Votre téléviseur vous espionne ?",
+      "description": "Une enquête vient de paraître pour démontrer des failles de sécurité sur les télés connectées LG, mais également d'autres choses bien plus inquiétantes… Notes de l'épisode : Votre téléphone ne vous écoute pas : https://code-garage.com/blog/google-ne-vous-ecoute-pas-car-il-na-pas-besoin-de-le-faire L'enquête de Gamers Nexus : https://www.youtube.com/watch?v=6IFVTcM28KA Version courte :…",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Votre-tlviseur-vous-espionne-e3oktsm",
+      "pubDate": "2026-09-10T08:33:16.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/125515094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2Fb023f9f5-f30e-558f-aa17-d0eb4852f8fe.mp3",
+      "duration": "00:07:29"
+    },
+    {
+      "id": "50c4d4ec30ac",
+      "title": "85 % des données de santé dorment dans nos hôpitaux - Montaine Marteau",
+      "description": "Montaine Marteau, CPO à temps partagé dans la MedTech et co-animatrice de l'atelier « Charmer les dragons » à Devoxx France, explore pour le Studio Devoxx France la donnée de santé qui dort dans nos hôpitaux et l'art de pitcher une idée technique sans perdre la salle. Dans cette conversation, elle rappelle qu'un argument basé sur des faits devrait s'imposer de facto, sauf que « c'est pas comme ça qu'il marche le cerveau ». Avant les chiffres, il faut embarquer l'autre par l'émotion, puis se…",
+      "link": "https://www.youtube.com/watch?v=jtQBRhlSmDI",
+      "pubDate": "2026-09-10T07:27:49.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/jtQBRhlSmDI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "jtQBRhlSmDI"
+    },
+    {
+      "id": "b9f75789200d",
+      "title": "Données sécurisées et IA agentique : déployer des solutions locales performantes",
+      "description": "Après un été chaud, le blog lance une série d'entretiens vidéo avec Julien Saumande, expert en IA. Il aborde le phénomène du \"Vibe Coding\" et prône un développement assisté par IA (AIDD) pour garantir des fondations solides. Il met en lumière les enjeux éthiques et sociétaux de l'IA en entreprise, notamment le \"Shadow IT\". L’article Données sécurisées et IA agentique : déployer des solutions locales performantes est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/10/donnees-securisees-et-ia-agentique-deployer-des-solutions-locales-performantes/",
+      "pubDate": "2026-09-10T05:18:58.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "51340cda00a4",
+      "title": "Why LinkedIn Limits Post Reach and Why We Must Accept It",
+      "description": "I miss writing, so I'm getting back to posting here. LinkedIn, for its part, has decided to restrict the reach of publications. Before, it was easy to get thousands of views, but now, you have to pay to be seen. It's frustrating, as the web is losing its free and accessible side. The early days of the internet were much more joyful, without too many financial concerns. Perhaps I was just lucky enough to enjoy a golden era that is now over. L’article Why LinkedIn Limits Post Reach and Why We…",
+      "link": "https://oliviersauvage.com/2026/09/09/why-linkedin-limits-post-reach-and-why-we-must-accept-it/",
+      "pubDate": "2026-09-09T13:40:54.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "feb7c9204333",
+      "title": "Introducing beberlei/metrics v3.0.0",
+      "description": "Since 2012, beberlei/metrics has been doing one small job well: giving PHP applications a single, consistent API to send metrics (counters, timings, gauges...) without tying the calling code to a specific backend. Swap StatsD for Prometheus, or send to both at once, and the instrumented code never changes. Version 3.0 is the biggest release in the project's history. It drops everything older than PHP 8.4, rewrites the core API around strict types, and - the part I'm most excited about - ships…",
+      "link": "https://jolicode.com/blog/introducing-beberlei-metrics-v3-0-0",
+      "pubDate": "2026-09-09T11:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/metrics/home.png",
+      "type": "blog"
+    },
+    {
+      "id": "faefc447e393",
+      "title": "Claude Code, Codex, Cursor : TOUS vos skills IA au même endroit",
+      "description": "Comment centraliser et synchroniser les skills de vos agents IA ? Découvrez Skills Manager pour organiser vos configurations sur Claude Code ou Cursor. Dans cette vidéo, nous découvrons Skills Manager, une application desktop open source conçue pour gérer vos compétences d'agents IA depuis une bibliothèque centrale unique. Un skill se résume à un dossier contenant un fichier SKILL.md. Plutôt que de dupliquer vos instructions à la main dans chaque dossier de configuration, Skills Manager les…",
+      "link": "https://www.youtube.com/watch?v=TElWM3Bjhls",
+      "pubDate": "2026-09-09T09:23:07.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/TElWM3Bjhls/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "TElWM3Bjhls"
+    },
+    {
       "id": "946af9bac8d8",
       "title": "Peut-on coder à 0 $ ? Mon retour d'expérience sans concession entre IA Cloud et IA locale",
       "description": "Un développeur Ippon a testé pendant 3 semaines le développement à 0$ : IA locale (Ollama, Qwen3) contre IA Cloud (Gemini, Claude) sur un vrai projet Flutter de 130 000 lignes. Résultat : chiffres, galères techniques et recommandations concrètes.",
@@ -49,6 +144,38 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/b870889b-aa8c-49d7-800b-513245d92e8d.mp3?_=1788868865",
       "duration": "59:03"
+    },
+    {
+      "id": "238ef2515364",
+      "title": "Migration de Github vers une alternative européenne",
+      "description": "Parmi les briques de bases importantes pour construire du logiciel et qui sont monopolisées par les US, je vous présente : Github (Microsoft).",
+      "link": "https://eventuallycoding.com/p/migration-de-github-vers-une-alternative-europeenne",
+      "pubDate": "2026-09-09T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1788967051506-3wnst4z.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "37c77760ce51",
+      "title": "Pourquoi j'ai créé r/SovereignIT",
+      "description": "Ça fait des années que je travaille autour de la souveraineté technologique : six ans chez OVHcloud, et depuis chez Clever Cloud, où je suis VP DevRel. Pendant l'essentiel de cette période, aborder le sujet dans une conversation technique provoquait l'une de ces deux réactions : un ennui poli, ou la certitude que j'étais en train de faire de la politique. La souveraineté, c'était un mot de ministère et de rapport sur la politique industrielle. Ça n'avait pas l'air d'avoir sa place dans une…",
+      "link": "https://lostinbrittany.dev/fr/pourquoi-jai-cree-r-sovereignit/",
+      "pubDate": "2026-09-09T00:00:00.000Z",
+      "source": "Lost in Brittany (Horacio Gonzalez)",
+      "sourceUrl": "https://lostinbrittany.dev/fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://lostinbrittany.dev/img/posts/2026-09-09-why-i-created-r-sovereignit.png",
+      "type": "blog"
     },
     {
       "id": "08f50bc60bc8",

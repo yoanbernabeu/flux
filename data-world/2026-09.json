@@ -2,6 +2,138 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "8bb8a5d2f8af",
+      "title": "Quoting Calif Research",
+      "description": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...] The victim does not need to answer the call, or interact with their phone at all. Even if they do answer, they hear nothing, and the exploit still succeeds. [...] Working with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week. A worm at this scale used to be the kind of thing that…",
+      "link": "https://simonwillison.net/2026/Sep/10/calif-research/",
+      "pubDate": "2026-09-10T00:56:41.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "46bc2da24ce5",
+      "title": ".blend URL Viewer",
+      "description": "Tool: .blend URL Viewer I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL). As a big fan of the Imperial Fabergé Easter eggs, I've always thought it would be fun to make some new ones that celebrate popular culture. Yesterday I decided to try out the new ChatGPT Images 2.5 by running this prompt: Generate a photo of a faberge egg that's themed after the TV show Pluribus - research first It gave me this - honestly not bad for a first attempt! Then, just to see what…",
+      "link": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+      "pubDate": "2026-09-09T23:58:32.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6c8a098255f7",
+      "title": "Malicious Chrome and Firefox Extensions Steal Crypto Traders’ Session and Wallet Data",
+      "description": "Socket uncovered a cross-browser extension operation targeting cryptocurrency traders. Four malicious Chrome and Firefox extensions steal authenticated Axiom Trade and Padre session and wallet-related data, while two earlier extensions linked to the same publisher operation reveal a longer-running pattern of repackaging crypto trading tools. The Socket Threat Research team identified six Chrome and Firefox extensions linked through a combination of shared code, command and control (C2)…",
+      "link": "https://socket.dev/blog/chrome-firefox-crypto-data-theft?utm_medium=feed",
+      "pubDate": "2026-09-09T21:40:24.555Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/210132871cb3271ad29e2d8024ea384e6f78c2a3-2048x1184.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "2e610b63c1a9",
+      "title": "Your Agent Harness Needs Runtime Security",
+      "description": "A 100% local, open-source guide to recording what AI agents actually do at runtime.",
+      "link": "https://blog.dailydoseofds.com/p/your-agent-harness-needs-runtime",
+      "pubDate": "2026-09-09T20:59:58.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!bMvF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb728f8f8-42f5-419e-b1bf-47696652fd52_1582x1468.png",
+      "type": "blog"
+    },
+    {
+      "id": "062a2e15617d",
+      "title": "Community Corner: Trust Hacked with Nia Luckey",
+      "description": "In this episode, Scott talks with Nia Luckey about her new book “Trust Hacked: What Firewalls, Failures, and the Frontlines Taught Me About Trust”. Links: Our Discord – https://discord.gg/aMTxunVx Buy our shirts – https://store.phparch.com/products/community-corner-podcast-t-shirt Nia’s Links: Book – https://www.taylorfrancis.com/books/mono/10.1201/9781003688815/trust-hacked-nia-luckey TED Talk – https://www.youtube.com/watch?v=P11VunN876Q Scott’s Links: Website – https://scott.keck-warren.com/…",
+      "link": "https://www.phparch.com/podcast/community-corner-trust-hacked-with-nia-luckey/",
+      "pubDate": "2026-09-09T19:08:12.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/09/Trust-Hacked-With-Nia-Luckey.png",
+      "type": "blog"
+    },
+    {
+      "id": "fbeb824bd551",
+      "title": "Own the Outer Loop",
+      "description": "The following article originally appeared on Addy Osmani’s blog and is being republished here with the author’s permission. In the past year, the conversation around agentic engineering has moved to harnesses and loops, fleets and software factories. My 2 cents is engineers need to own the outer loop—the accountability for these systems. This only gets […]",
+      "link": "https://www.oreilly.com/radar/own-the-outer-loop/",
+      "pubDate": "2026-09-09T15:55:23.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/09/image.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "48f3c4246fcd",
+      "title": "Run AI in the Browser: A Practical Guide to Transformers.js",
+      "description": "Transformers.js lets you run AI models directly in the browser without a backend, API keys, or an internet connection after the model is cached. The article explores how it works, which models are available, and the trade-offs of client-side AI compared to traditional AI providers. Read more",
+      "link": "https://freek.dev/3188-run-ai-in-the-browser-a-practical-guide-to-transformersjs",
+      "pubDate": "2026-09-09T14:50:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b1729c26a2aa",
+      "title": "LLMs Reward Expertise",
+      "description": "The following article originally appeared on Sean Goedecke’s blog and is being republished here with the author’s permission. In the 2010s, if you had technical gaps (say, you couldn’t write CSS), you had to either rely on a skilled colleague or just hope that the answer to your exact problem was out there on the […]",
+      "link": "https://www.oreilly.com/radar/llms-reward-expertise/",
+      "pubDate": "2026-09-09T10:57:18.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d3f87cc7f87b",
+      "title": "SymfonyCon Warsaw 2026: PHP wasn't supposed to do that",
+      "description": "We are thrilled to announce that SymfonyCon Warsaw 2026 will take place on November 26 and 27, 2026, in Warsaw (Poland)! Join us for a great worldwide conference with 3 parallel tracks and community events. 🎤 Speaker announcement We are delighted…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-php-wasn-t-supposed-to-do-that?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-09T09:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
       "id": "93334b7607d9",
       "title": "Quoting Terence Tao",
       "description": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...] We have now seen that even the rumor of someone working on a problem can trigger a massive amount of AI-powered effort to flatten it before the original research project has time to reach its full potential. The incentives may now be pointing in the direction of no longer sharing any promising research…",
@@ -14,6 +146,21 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e60d9b5c6c18",
+      "title": "Welcoming Daniel Scherzer to the Ecosystem Security Team",
+      "description": "When the Ecosystem Security Team was established with funding from the Alpha-Omega “Security Engineer in Residence” grant, its mission was to improve the security of all aspects of the PHP ecosystem. Under the leadership of Volker Dusch, the team has accomplished many things. As predicted, the increasing popularity of AI tools has brought an influx of security reports and PRs from the community to php-src itself. The triaging, reviewing, and handling of issues that do not fall within PHP’s…",
+      "link": "https://thephp.foundation/blog/2026/09/09/welcome-daniel-scherzer/",
+      "pubDate": "2026-09-09T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://thephp.foundation/assets/post-images/2026/daniel-scherzer/daniel-scherzer.jpg",
       "type": "blog"
     },
     {
