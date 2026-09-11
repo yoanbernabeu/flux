@@ -2,6 +2,154 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "c218d124fe36",
+      "title": "If You Always Enjoy It, You're Not Pushing It Hard Enough—Benn Stancil (Show Your Workflow #1)",
+      "description": "I had the pleasure to discuss and analyze the workflow of none other than Benn Stancil, legendary writer and storyteller in the data space and beyond, who started writing back in 2013 (with a seven-or-eight-year startup break in between). This is the first interview in the series «Show your Workflow», and I couldn’t be happier to start with Benn. As this series is all about how writers write, how to come up with stories, how to take notes (or not), and each one’s workflow, I asked Benn about…",
+      "link": "https://www.ssp.sh/blog/benn-stancil-on-deadlines-and-storytelling/",
+      "pubDate": "2026-09-11T05:00:00.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1e206d769558",
+      "title": "Datasette 1.0a39 and 0.65.4 security releases",
+      "description": "Datasette 1.0a39 and 0.65.4 security releases Today we're releasing two new security patch versions of Datasette: 1.0a39 and 0.65.4 - one for the current alpha series and one for the stable 0.65.x family. These are security fixes which you should apply if you are running a Datasette instance on the public web - in particular if that instance mixes both public and private tables. Following issues reported by Sevban Dönmez, Alex Garcia and I ran an extensive audit of Datasette using Claude Fable…",
+      "link": "https://simonwillison.net/2026/Sep/11/datasette-security/",
+      "pubDate": "2026-09-11T03:27:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a2c293f2ef6d",
+      "title": "Any Nix package, live in your browser",
+      "description": "Any Nix package, live in your browser Farid Zakaria calls this his \"magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser through WebAssembly. That VM can then be booted with any Nix package from the past 13 years. They are URL addressable, so you can navigate to this page: https://trynix.dev/?pkg=python3%403.6.2 Then click \"Load\" and get an interactive shell against a virtual machine running Python…",
+      "link": "https://simonwillison.net/2026/Sep/10/trynix/",
+      "pubDate": "2026-09-10T23:44:15.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "af274025cd68",
+      "title": "PHP Foundation Community Hour Podcast 2026.09.10",
+      "description": "🎙️ PHP Foundation Community Hour – September 10, 2026 Hosts: Elizabeth Barron & Matt Stauffer The very first PHP Foundation Community Hour kicks off with autumn vibes, a blog post that started it all, and one big message: contributing to PHP is easier — and broader — than you think. 🍂 Welcome to the First […] The post PHP Foundation Community Hour Podcast 2026.09.10 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/php-foundation-community-hour-podcast-2026-09-10/",
+      "pubDate": "2026-09-10T22:53:40.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/09/ja9JqyYshAE-maxresdefault.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0043ac537a2b",
+      "title": "Anthropic Identifies Biased Reasoning and Recklessness as Drivers of Claude’s PyPI Attack",
+      "description": "Anthropic has revised its assessment of the Claude cybersecurity evaluation incidents it disclosed in July. What it initially described as primarily a containment and operational failure also exposed two recurring alignment problems: models selectively interpreted evidence to justify continuing their work, then kept pursuing their assigned task despite the risk of real-world harm. Anthropic identified those behaviors as biased reasoning and recklessness in its latest alignment assessment: Our…",
+      "link": "https://socket.dev/blog/claude-pypi-attack?utm_medium=feed",
+      "pubDate": "2026-09-10T22:05:04.576Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/dce6f0442b34af7ed4f9e1491ac277779b13a368-630x420.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "a43349be02dd",
+      "title": "Why Multi-turn Agents Need More Than a Task Graph",
+      "description": "What production agents must preserve between turns, and what they must reset.",
+      "link": "https://blog.dailydoseofds.com/p/why-multi-turn-agents-need-more-than",
+      "pubDate": "2026-09-10T21:34:26.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!g05m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39c95f3b-52b1-49b4-98d6-237312958b93_1200x896.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "f498dec7f81a",
+      "title": "Native is now the future of mobile at Shopify",
+      "description": "Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from native to React Native in 2020 for three reasons: Stop building the same features twice Allow developers to work across the stack Spend less time chasing feature parity and more time shipping value [...] Native still means building and maintaining software on two platforms, that cost…",
+      "link": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+      "pubDate": "2026-09-10T21:11:15.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "14a8d1925d43",
+      "title": "When Content Is Free, Trust Is the Product",
+      "description": "There is more technical content available today than any human being could read in a thousand lifetimes. Every topic has a dozen YouTube videos, three Substack posts, a GitHub repo, and a Reddit thread, most created in the last six months and, in many cases, technically accurate. And yet most of the professionals I talk […]",
+      "link": "https://www.oreilly.com/radar/when-content-is-free-trust-is-the-product/",
+      "pubDate": "2026-09-10T16:00:50.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a1f4bcec6e9a",
+      "title": "A Series of Unfortunate Jobs",
+      "description": "Laravel queues are great out of the box, until they bite. Over the years I’ve collected a few gotchas the hard way. Let me save you the headache. Read more",
+      "link": "https://freek.dev/3189-a-series-of-unfortunate-jobs",
+      "pubDate": "2026-09-10T12:06:27.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f31695302ae6",
+      "title": "SymfonyCon Warsaw 2026: Building on Symfony AI",
+      "description": "Mark your calendars! The global Symfony community is heading to Warsaw (Poland) on November 26-27, 2026, for SymfonyCon Warsaw 2026. Join us for a great worldwide conference with 3 parallel tracks and community events. 🎤 Speaker announcement Joining…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-building-on-symfony-ai?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-10T07:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
       "id": "8bb8a5d2f8af",
       "title": "Quoting Calif Research",
       "description": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...] The victim does not need to answer the call, or interact with their phone at all. Even if they do answer, they hear nothing, and the exploit still succeeds. [...] Working with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week. A worm at this scale used to be the kind of thing that…",

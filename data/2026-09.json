@@ -2,6 +2,152 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "16da6cffd421",
+      "title": "MACI #164 - PHP, Événements Tech & Watermarking Anthropic - Avec Cédric Mourizard et Nathan Boiron",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on s’intéresse d’abord à la situation des événements tech français : baisse des inscriptions et des sponsors, modèle associatif et conséquences possibles pour les communautés. Et puis, comme à notre habitude, la discussion va vite s’étendre… de la modernisation des outils de l’AFUP à Symfony Reprise 1.0, en passant par la migration de EVE Online vers Python 3, Go 1.27, le watermarking des contenus générés par l’IA et notre nouvelle…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-164-php-evenements-tech-watermarking-anthropic-avec-cedric-mourizard-et-nathan-boiron",
+      "pubDate": "2026-09-11T08:04:40.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/3449JCjYwOcHX7YkFiUoogYuhqVk6UOxPgLf6QEE_1400x1400.jpeg?t=1789113880",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/ypz8Mhg6r4D3.mp3?t=1789113456",
+      "duration": "58:56"
+    },
+    {
+      "id": "081dff56bd10",
+      "title": "Mon dernier livre : La sommation technologique",
+      "description": "La sommation technologique – au temps des catastrophes (La Fabrique), mon dernier livre, est désormais en librairie. 199 pages : j’ai fait un effort pour aller droit au but. Hasard du calendrier, le 11 septembre : jour funeste où la question Mon dernier livre : La sommation technologique first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/mon-dernier-livre-la-sommation-technologique/",
+      "pubDate": "2026-09-11T07:12:27.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "64c9183a1fba",
+      "title": "400ème article !!!",
+      "description": "Plus de 50,000 mots écrits à la main ou à l’IADes dizaines de sujets traités : IA, B2B, Vibe Coding, gaming, voitures autonome, marketing, réseaux sociaux, etc… etc…1 podcast lancé Et bientôt d’autres nouveautés pour vous montrer que le marketing de contenu n’est pas mort. 400 articles en moins d’un an ! Dont un certain […] L’article 400ème article !!! est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/11/400eme-article/",
+      "pubDate": "2026-09-11T05:53:17.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a342cac7479c",
+      "title": "#313.exe - Open Source: Mettre le dev en musique par Bastien Albertus",
+      "description": "Pour l'épisode #313 je recevais Fabien Potencier. On en débrief avec Bastien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-313-4988b48436dc",
+      "pubDate": "2026-09-11T03:00:45.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/7eea3368-8c27-45d2-8caa-4988b48436dc.mp3?_=1789041645",
+      "duration": "30:09"
+    },
+    {
+      "id": "ad8416d7495d",
+      "title": "BunJS, l'environement JS ultime ?",
+      "description": "Bun est un toolkit tout-en-un pour JavaScript et TypeScript: runtime, gestionnaire de paquets, test runner et bundler, dans un seul exécutable. Créé par Jarred Sumner, présenté publiquement en juillet 2022 puis stable avec la 1.0 de septembre 2023, il se pose en alternative plus rapide à Node.js. On revient sur son historique et ce qu’il embarque vraiment. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/bun/",
+      "link": "https://double-slash.dev/podcasts/bun/",
+      "pubDate": "2026-09-11T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1789110154/episode/ART_139_szimen.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_139_bun.mp3",
+      "duration": "3768"
+    },
+    {
+      "id": "067c3fb60e5d",
+      "title": "J’ai laissé Pest chercher mes bugs à ma place 🤯",
+      "description": "Et si au lieu d’écrire toujours plus de tests, on demandait à Pest de chercher les cas auxquels on n’a pas pensé ? C’est exactement l’idée derrière Fuzz, un plugin PestPHP qui apporte du coverage-guided fuzzing directement dans vos tests. Dans cette vidéo, on découvre comment installer Fuzz, comment lui donner des seeds et un dictionary, comment fonctionne le coverage-guided fuzzing et surtout comment il peut générer des inputs inattendus pour essayer de faire planter notre code. Fuzz s’appuie…",
+      "link": "https://www.youtube.com/watch?v=BRLb7PFhuVU",
+      "pubDate": "2026-09-10T16:40:46.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/BRLb7PFhuVU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "BRLb7PFhuVU"
+    },
+    {
+      "id": "c87549e5c685",
+      "title": "CR talk : Éloge du compromis",
+      "description": "Ce talk revient sur le rôle du designer dans la transformation des organisations, à travers l'idée du compromis : pas une compromission, mais un engagement noble qui consiste à proposer une troisième voie là où deux camps s'opposent.",
+      "link": "https://blog.octo.com/octo-article-de-blog-25",
+      "pubDate": "2026-09-10T14:21:54.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "11c2020905ae",
+      "title": "Le secret de DeepSeek V4.1 Flash pour être plus rapide #ia #deepseek #tech",
+      "description": "DeepSeek vient d’annoncer DeepSeek V4.1 Flash, son nouveau modèle IA plus rapide, moins cher et désormais multimodal. Avec 552 milliards de paramètres et seulement 8B actifs en entrée / 16B en sortie**, V4.1 Flash dépasse même DeepSeek V4-Pro sur plusieurs benchmarks. À partir du 14 septembre, les requêtes vers V4-Pro seront temporairement redirigées vers V4.1 Flash, en attendant l’arrivée de V4.1-Pro. 👉 Un nouveau concurrent très sérieux pour Claude, GPT et Gemini ? #DeepSeek #DeepSeekV4 #AI…",
+      "link": "https://www.youtube.com/watch?v=zKawFvI66fY",
+      "pubDate": "2026-09-10T13:08:32.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/zKawFvI66fY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "zKawFvI66fY"
+    },
+    {
+      "id": "27b76007fa15",
+      "title": "Les vacances furent bonnes ?",
+      "description": "Les vacances furent bonnes ? C’est la question que tout le monde pose à tout le monde. C’est normal, c’est la rentrée. Sauf que j’ai passé des vacances de merde. Et je me retrouve donc face à une alternative : soit je mens et je dis “très bien, et toi ?” et on passe à autre chose, soit je dis la vérité et j’étale ma colère. Manque de bol pour les gens dont je suis proche, avec lesquels j’ai une relation franche, j’ai tendance, avec eux, à opter pour la 2e solution. Mais pourquoi ai-je passé des…",
+      "link": "https://standblog.org/blog/post/2026/09/10/Les-vacances-furent-bonnes",
+      "pubDate": "2026-09-10T10:43:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/.Vallee_du_Lot_m.jpg",
+      "type": "blog"
+    },
+    {
       "id": "cc94619d7205",
       "title": "Votre téléviseur vous espionne ?",
       "description": "Une enquête vient de paraître pour démontrer des failles de sécurité sur les télés connectées LG, mais également d'autres choses bien plus inquiétantes… Notes de l'épisode : Votre téléphone ne vous écoute pas : https://code-garage.com/blog/google-ne-vous-ecoute-pas-car-il-na-pas-besoin-de-le-faire L'enquête de Gamers Nexus : https://www.youtube.com/watch?v=6IFVTcM28KA Version courte :…",
@@ -47,6 +193,21 @@
       "sourceUrl": "https://oliviersauvage.com/feed/",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "18a79eb4e9ce",
+      "title": "Le mythe du side project obligatoire",
+      "description": "Il y a un mythe fortement ancré dans la tête des développeurs, sur l’importance d’avoir des side projects. Cassons-le immédiatement. Non, il n’est pas obligatoire d’avoir un side project pour être un bon développeur. C’est une injonction que j’entends régulièrement: avoir un profil Github vide serait le signe d’un manque de passion ou d’implication. On voit même parfois passer des offres d’emploi où il est fortement recommandé d’avoir un side project. Bien entendu, quand l’envie est là, un side…",
+      "link": "https://www.jdecool.fr/blog/2026/09/10/le-mythe-du-side-project-obligatoire.html",
+      "pubDate": "2026-09-09T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
