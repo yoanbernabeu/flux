@@ -2,6 +2,50 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "db926ea4bd85",
+      "title": "Jacob Coxon: The Whistleblower Who Will Kill Us All",
+      "description": "The alarmist resignation of an artificial intelligence researcher triggers media panic. Faced with apocalyptic prophecies, I question our credulity, the amplification by social networks, and the responsibility of journalists. An invitation to regain perspective, examine reasoning, and preserve our judgment rather than succumbing to fear. L’article Jacob Coxon: The Whistleblower Who Will Kill Us All est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/12/jacob-coxon-the-whistleblower-who-will-kill-us-all/",
+      "pubDate": "2026-09-12T06:53:52.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2efe923bf860",
+      "title": "Jacob Coxon : le lanceur d’alerte qui va tous nous tuer",
+      "description": "La démission alarmiste d’un chercheur en intelligence artificielle déclenche une panique médiatique. Face aux prophéties apocalyptiques, je m’interroge sur notre crédulité, l’amplification des réseaux sociaux et la responsabilité des journalistes. Une invitation à retrouver du recul, à examiner les raisonnements et à préserver notre jugement plutôt que céder à la peur. L’article Jacob Coxon : le lanceur d’alerte qui va tous nous tuer est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/12/jacob-coxon-le-lanceur-dalerte-qui-va-tous-nous-tuer/",
+      "pubDate": "2026-09-12T06:41:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b30dcefaf94d",
+      "title": "Hermes Agent Setup : Installation Complète + 3 Use Cases Concrets",
+      "description": "Déploie ton agent IA Hermes sur un VPS en un clic : https://www.hostg.xyz/SHJNM Utilise le code PENTIMINAX pour bénéficier de -10% de réduction supplémentaire sur votre hébergement Hostinger ! Hermes Agent Setup complet en français : installation sur un VPS et configuration pas à pas de l’agent IA open source de Nous Research. Je vous montre ensuite 3 Hermes Agent use cases concrets : veille automatisée, tri des emails et automatisations planifiées avec Cron. Dans ce tutoriel, nous partons de…",
+      "link": "https://www.youtube.com/watch?v=qGtF8lKau7k",
+      "pubDate": "2026-09-11T14:00:28.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/qGtF8lKau7k/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "qGtF8lKau7k"
+    },
+    {
       "id": "16da6cffd421",
       "title": "MACI #164 - PHP, Événements Tech & Watermarking Anthropic - Avec Cédric Mourizard et Nathan Boiron",
       "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on s’intéresse d’abord à la situation des événements tech français : baisse des inscriptions et des sponsors, modèle associatif et conséquences possibles pour les communautés. Et puis, comme à notre habitude, la discussion va vite s’étendre… de la modernisation des outils de l’AFUP à Symfony Reprise 1.0, en passant par la migration de EVE Online vers Python 3, Go 1.27, le watermarking des contenus générés par l’IA et notre nouvelle…",
@@ -32,6 +76,23 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3374c243bf42",
+      "title": "La seconde vie de votre patrimoine applicatif",
+      "description": "Comment réduire réellement la dette technique de votre SI en migrant sur AWS, grâce à la méthode Ippon qui combine le programme AWS MAP et les agents IA de AWS Transform, sans dépendance à un outillage propriétaire.",
+      "link": "https://blog.ippon.fr/2026/09/11/migration-aws-ia-agentique-dette-technique/",
+      "pubDate": "2026-09-11T06:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/Gemini_Generated_Image_qxllbcqxllbcqxll-1.jpeg",
       "type": "blog"
     },
     {
