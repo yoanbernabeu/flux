@@ -2,6 +2,110 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "d106a8cc8306",
+      "title": "A Week of Symfony #1028 (September 7–13, 2026)",
+      "description": "This week, Symfony introduced standalone bundles for the framework features (MessengerBundle, HttpClientBundle, PropertyInfoBundle, etc.), added Docker-style console subcommands, and expanded OAuth2 and OpenID Connect support. In addition, we announced the…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1028-september-7-13-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-13T07:05:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "56ed9309de33",
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "description": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at &lt;my address&gt;. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked for, as both an embedded visualization and downloadable GPX file and GeoJSON files. Here's that 5K route: When I asked it how it had created the route, it replied: I used Nominatim to locate the address and Overpass to download local…",
+      "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "pubDate": "2026-09-12T23:56:42.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eb1d15483d6f",
+      "title": "California Brown Pelican",
+      "description": "California Brown Pelican, in San Mateo County, CA, USThe Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely taken over by pelicans! Tags: wildlife",
+      "link": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
+      "pubDate": "2026-09-12T21:16:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6210bae25edb",
+      "title": "4 Speculative Decoding Variants",
+      "description": "...covered with tradeoffs in production.",
+      "link": "https://blog.dailydoseofds.com/p/4-speculative-decoding-variants",
+      "pubDate": "2026-09-12T20:03:46.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!gje4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6eff00d9-1d41-489e-8e47-30a6b04ce957_944x684.gif",
+      "type": "blog"
+    },
+    {
+      "id": "b30b0408a147",
+      "title": "Quoting Paul Ford",
+      "description": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize their skill sets and to practice their respective crafts. A.I. can write very good software, but it also makes it easy to do someone else’s job badly, which is part of why all those projects fail. Now that everyone can…",
+      "link": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+      "pubDate": "2026-09-12T18:00:21.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d337c419563",
+      "title": "Logarithmic auto-scaling for Laravel Horizon",
+      "description": "A thoughtful write-up on adding logarithmic auto-scaling to Laravel Horizon. It shows how log-based weighting keeps huge queue spikes from starving smaller realtime queues while still giving large backlogs enough workers. Read more",
+      "link": "https://freek.dev/3191-logarithmic-auto-scaling-for-laravel-horizon",
+      "pubDate": "2026-09-12T12:30:30.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "22b603e3a748",
+      "title": "Context, Semantics, and Ontology: A Primer for the Agentic Era",
+      "description": "There’s so much talk about new ways of working with agent engineering supported workflows. New models are independently creating new metrics and transformations, finding gaps in the business data, reviewing the SQL they write, and verifying everything works with your data platform. taste.",
+      "link": "https://www.ssp.sh/blog/semantic-context-layer-primer/",
+      "pubDate": "2026-09-12T04:40:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7b2efff00401",
       "title": "OpenAI agents attacked RubyGems back in May",
       "description": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis (previously) last week. This time they're noting that it looks very likely that an OpenAI agent swarm was behind an attack against the RubyGems package repository first reported on May 12th by Maciej Mensfeld of the RubyGems security team: We're dealing with a major malicious…",

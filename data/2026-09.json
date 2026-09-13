@@ -30,6 +30,23 @@
       "type": "blog"
     },
     {
+      "id": "c9299e509788",
+      "title": "Symfony LSP en ligne de commande : ce que PHPStan ne verra jamais",
+      "description": "PHPStan en niveau max, extension Symfony activée, conteneur compilé sous les yeux : aucune erreur sur une application pourtant cassée en huit points. Le serveur LSP officiel de Symfony les trouve tous, sans éditeur, en une seconde. Tutoriel pas à pas avec dépôt de démonstration.",
+      "link": "https://yoandev.co/symfony-lsp-ligne-de-commande",
+      "pubDate": "2026-09-12T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/symfony-lsp-ligne-de-commande.webp",
+      "type": "blog"
+    },
+    {
       "id": "b30dcefaf94d",
       "title": "Hermes Agent Setup : Installation Complète + 3 Use Cases Concrets",
       "description": "Déploie ton agent IA Hermes sur un VPS en un clic : https://www.hostg.xyz/SHJNM Utilise le code PENTIMINAX pour bénéficier de -10% de réduction supplémentaire sur votre hébergement Hostinger ! Hermes Agent Setup complet en français : installation sur un VPS et configuration pas à pas de l’agent IA open source de Nous Research. Je vous montre ensuite 3 Hermes Agent use cases concrets : veille automatisée, tri des emails et automatisations planifiées avec Cron. Dans ce tutoriel, nous partons de…",
