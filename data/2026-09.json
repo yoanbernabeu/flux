@@ -2,6 +2,141 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "319776abe351",
+      "title": "Sécuriser ses agents IA : guide de défense en profondeur pour vos systèmes de production",
+      "description": "Injection de prompt, exfiltration de system prompt, smuggling Unicode... Vos agents IA sont exposés à des multitudes d'attaques. Découvrez une architecture de défense en profondeur pour sécuriser vos systèmes agentiques : filtres déterministes, LLM-as-a-judge, guardrails, etc.",
+      "link": "https://blog.octo.com/securiser-ses-agents-ia--guide-de-defense-en-profondeur-pour-vos-systemes-de-production",
+      "pubDate": "2026-09-14T09:17:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "53e9222849ca",
+      "title": "Quand une partie de l'organisation accélère",
+      "description": "« L'équipe me plie des tickets à 13 points en 2h. Ça fait 2 jours que je suis off, le backlog est vide. » Ce que raconte cette Product Owner, une vingtaine d'Octos me l'ont dit autrement : quand une partie de l'organisation accélère, c'est le reste qui devient la contrainte.",
+      "link": "https://blog.octo.com/quand-une-partie-de-l'organisation-accelere",
+      "pubDate": "2026-09-14T07:37:13.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "06ef4db454d5",
+      "title": "Un orchestrateur ne fait pas une plateforme MLOps",
+      "description": "Un pipeline d’entraînement planifié chaque semaine, quelques tâches qui s’enchaînent et un modèle sauvegardé dans un bucket : à première vue, le système semble industrialisé. Puis, un lundi matin, les pré",
+      "link": "https://blog.ippon.fr/2026/09/14/un-orchestrateur-ne-fait-pas-une-plateforme-mlops/",
+      "pubDate": "2026-09-14T07:27:49.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/exec-1553d920-cf36-470a-ba2f-04c991d80d32.png",
+      "type": "blog"
+    },
+    {
+      "id": "745ee265ed20",
+      "title": "Organiser une équipe de développement à l’ère de l’IA - Part III",
+      "description": "L'IA agentique ne remplace pas le SDLC, mais le réinvente. Les six phases du cycle de vie demeurent, tandis que la valeur se déplace de l'exécution vers la réflexion, la gouvernance et la prise de décision, faisant du SDLC un cadre privilégié pour orchestrer efficacement la collaboration entre les équipes humaines et les agents.",
+      "link": "https://blog.octo.com/organiser-une-equipe-de-developpement-a-l'ere-de-l'ia-partie-iii",
+      "pubDate": "2026-09-14T04:44:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe40968e0c39",
+      "title": "#375.src - RTK: Le coût du token, la nouvelle donne du Dev avec Patrick Szymkowiak",
+      "description": "\"On est revenu au mode où le coût du mot va coûter très cher et de plus en plus cher,.\" Le D.E.V. de la semaine est Patrick Szymkowiak, fondateur de RTK. Il revient sur la genèse fulgurante de Rust Token Killer, un projet open source passé en quelques mois de l'expérimentation à des dizaines de milliers de stars sur GitHub. On creuse l'enjeu grandissant du coût des tokens et la nécessité d'optimiser l'usage des LLM, notamment pour garantir l'accessibilité et la sécurité des outils IA dans…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-375-9d13c2386256",
+      "pubDate": "2026-09-14T03:00:18.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/f0423d1c-d6aa-4dd8-959b-45e4436bb0b5.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/e81d04f5-6a33-4ac5-8b27-9d13c2386256.mp3?_=1789300818",
+      "duration": "48:51"
+    },
+    {
+      "id": "ac2c31b76bfb",
+      "title": "Internaliser la paie, le grand saut ! (épisode 3)",
+      "description": "Des bulletins justes, mais jamais à date fixe : c'est ce qui nous a poussés à internaliser la paie. Récit d'un grand saut, entre montée en compétence et boule au ventre.",
+      "link": "https://www.elao.com/blog/elao/rh-tpe-ep-03-internaliser-la-paie",
+      "pubDate": "2026-09-14T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7d5d6f61fdae",
+      "title": "J’ai demandé à GPT-6 Astra de recréer GTA 6… et il l’a fait 🤯",
+      "description": "GPT-6 Astra peut-il recréer GTA 6 presque tout seul ? Dans cette vidéo, je mets le nouveau modèle d’OpenAI à l’épreuve avec un défi ambitieux : créer une version minimaliste de GTA 6 directement dans le navigateur avec Three.js. Je pars d’un projet vide et je laisse GPT-6 Astra concevoir progressivement un véritable petit open world : ville côtière, voitures, PNJ, missions, police, système d’étoiles, armes, poursuites, plage, circulation, collisions et amélioration graphique. L’objectif n’est…",
+      "link": "https://www.youtube.com/watch?v=c_MmFK8JSLs",
+      "pubDate": "2026-09-13T18:27:10.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/c_MmFK8JSLs/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "c_MmFK8JSLs"
+    },
+    {
+      "id": "2c3da7ade102",
+      "title": "Symfony LSP : ce que PHPStan ne verra jamais 🕵️‍♂️",
+      "description": "PHPStan en niveau max, extension Symfony activée, conteneur compilé : aucune erreur. L'application est pourtant cassée en huit points. Le serveur LSP officiel de Symfony les trouve tous, sans éditeur, en une seconde. Un projet Symfony de cinq fichiers, PHPStan configuré au maximum, puis huit erreurs introduites une par une : routes inexistantes, templates absents, clés de traduction fausses, options de formulaire inconnues, paramètre de route oublié, placeholder qui ne correspond pas. On…",
+      "link": "https://www.youtube.com/watch?v=hWTR-bW6TnY",
+      "pubDate": "2026-09-13T16:00:08.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/hWTR-bW6TnY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "hWTR-bW6TnY"
+    },
+    {
       "id": "db926ea4bd85",
       "title": "Jacob Coxon: The Whistleblower Who Will Kill Us All",
       "description": "The alarmist resignation of an artificial intelligence researcher triggers media panic. Faced with apocalyptic prophecies, I question our credulity, the amplification by social networks, and the responsibility of journalists. An invitation to regain perspective, examine reasoning, and preserve our judgment rather than succumbing to fear. L’article Jacob Coxon: The Whistleblower Who Will Kill Us All est apparu en premier sur OlivierSauvage.com.",

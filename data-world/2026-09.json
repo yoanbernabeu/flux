@@ -2,6 +2,51 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "369a0ebaf05d",
+      "title": "Symfony AI Spotlight: Mate, an Agent's Way into Your Runtime",
+      "description": "An agent working on a Symfony project can read every line of your source code and still not know what actually happened on the last request: which query was slow, or what the profiler already recorded five minutes ago, before anyone thought to ask. Source…",
+      "link": "https://symfony.com/blog/symfony-ai-spotlight-mate-an-agent-s-way-into-your-runtime?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-14T07:47:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac293d7ca39f",
+      "title": "commit-rewriter 0.1",
+      "description": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases. The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they weren't fit for publication. If you want to edit the commit messages for a repository you can run it like this: uvx commit-rewriter path/to/repo Omit the path if you are already in the directory for that repo. When you submit your edits the…",
+      "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+      "pubDate": "2026-09-14T00:28:10.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3c2f6dcb128b",
+      "title": "shot-scraper 1.12",
+      "description": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: shot-scraper https://simonwillison.net -o screenshot.webp --quality 80 The --quality option sets the quality - without that option the WebP file will be lossless. In my experience WebP screenshots are almost always significantly smaller in file size than their JPEG or PNG equivalents. See the PR for some examples. I shipped this feature so…",
+      "link": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+      "pubDate": "2026-09-13T23:58:14.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d106a8cc8306",
       "title": "A Week of Symfony #1028 (September 7–13, 2026)",
       "description": "This week, Symfony introduced standalone bundles for the framework features (MessengerBundle, HttpClientBundle, PropertyInfoBundle, etc.), added Docker-style console subcommands, and expanded OAuth2 and OpenID Connect support. In addition, we announced the…",
