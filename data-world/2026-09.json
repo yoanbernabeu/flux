@@ -2,6 +2,169 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "210de9c36e9e",
+      "title": "Symfony 8.1.7 released",
+      "description": "Symfony 8.1.7 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-1-7-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-15T07:15:39.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4a738b82a1e0",
+      "title": "Symfony 7.4.19 released",
+      "description": "Symfony 7.4.19 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-7-4-19-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-15T07:12:11.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aa088a2c0c68",
+      "title": "New in Symfony 8.2: KeyManagement Component",
+      "description": "This is the first article in a series showcasing the most important new features introduced by Symfony 8.2, which will be released at the end of November 2026. Contributed…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-keymanagement-component?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-15T07:11:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/spomky_.picture",
+      "type": "blog"
+    },
+    {
+      "id": "8b1fd48cf0e8",
+      "title": "Symfony 6.4.46 released",
+      "description": "Symfony 6.4.46 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-6-4-46-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-15T07:08:49.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "45e2b172928d",
+      "title": "Obsidian Vault to Enterprise Company Brain: Where Agents Write, Branch and Merge",
+      "description": "I’ve been using a personal second brain for many years. I started with OneNote and pivoted to Obsidian due to the linking feature. Since then, I have built a full net of knowledge for my personal life, but not only that: I also manage my solo business with Obsidian, such as my CRM or everything knowledge-related to my company. But what if you want the same approach for a bigger company, enterprise scale with lots of information internally, but also available externally? How do you manage…",
+      "link": "https://www.ssp.sh/blog/from-obsidian-to-enterprise-company-brain/",
+      "pubDate": "2026-09-15T06:00:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "64f040316f79",
+      "title": "The contagion of fear",
+      "description": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story of his own youthful mistakes causing unjustified panic among less technical peers, and warns against doing the same: These ghoulish claims strike brazenly at the hearth, and given the obvious importance of AI, it is unsurprising that they have leapt into the mainstream, with…",
+      "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+      "pubDate": "2026-09-14T21:18:13.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f1ea99f442b1",
+      "title": "What blog posts influenced your thinking the most?",
+      "description": "My comment on What blog posts influenced your thinking the most? &mdash; Lobste.rs.An early Joel Spolsky one for me was The Law of Leaky Abstractions. I read that near the start of my career and it's encouraged me to always be looking for improved understanding of the layers under where I'm working, just in case one of those abstractions leaks. A more recent one, from 2018, is Migrations: the sole scalable fix to tech debt by Will Larson. I absolutely love his idea that migrations (e.g.…",
+      "link": "https://simonwillison.net/2026/Sep/14/influences/",
+      "pubDate": "2026-09-14T20:21:48.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b143c376dcdb",
+      "title": "What It Takes to Build a Production Agent Harness",
+      "description": "A hands-on nanodegree for production agent engineering.",
+      "link": "https://blog.dailydoseofds.com/p/what-it-takes-to-build-a-production",
+      "pubDate": "2026-09-14T19:50:37.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!f5oU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F018986af-4f1e-4856-b336-22ff008f5a5b_680x407.png",
+      "type": "blog"
+    },
+    {
+      "id": "7b5836ea0bd0",
+      "title": "Jerod Santo Joins Socket as Head of Media",
+      "description": "We need to talk. Supply chain attacks are going parabolic in both frequency and impact. There are so many hacks now that we gussy ‘em up with names like GemStuffer, SANDWORM_MODE, and TrapDoor just to keep track of the onslaught. (Remember Heartbleed? The O.G. (Original Gussy)) We’ve also got frontier models escaping their sandboxes to hack third parties, zero-click worms spreading through WeChat without any user interaction, AI-discovered zero days being used by criminal enterprises, and so…",
+      "link": "https://socket.dev/blog/jerod-santo-joins-socket?utm_medium=feed",
+      "pubDate": "2026-09-14T17:37:23.818Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "72f4aaebdca9",
+      "title": "Quoting Laurie Voss",
+      "description": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually want, defining it precisely, and making it pleasant to use. That cost is per piece of software and doesn't transfer, so as the amount of software goes to infinity, which it will because there's no ceiling on demand, that cost becomes the whole job. &mdash; Laurie Voss, We are all Product Engineers…",
+      "link": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
+      "pubDate": "2026-09-14T14:34:29.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "315d90a7987a",
+      "title": "Enterprise Analytics Beyond Dashboards: Intelligent Data Orchestration with LLMs",
+      "description": "In 17 years of building enterprise data platforms, I’ve watched every organization eventually ask the same question: “Can I ask one question and get one answer across everything my company knows?” A finance analyst wants actual revenue from the warehouse, pipeline data from the CRM, commentary from planning documents, and market signals from external providers. […]",
+      "link": "https://www.oreilly.com/radar/enterprise-analytics-beyond-dashboards-intelligent-data-orchestration-with-llms/",
+      "pubDate": "2026-09-14T10:55:34.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/09/image-27.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "369a0ebaf05d",
       "title": "Symfony AI Spotlight: Mate, an Agent's Way into Your Runtime",
       "description": "An agent working on a Symfony project can read every line of your source code and still not know what actually happened on the last request: which query was slow, or what the profiler already recorded five minutes ago, before anyone thought to ask. Source…",
@@ -12,6 +175,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f684d1a8f15c",
+      "title": "The Grammar of Data: From Definition to Execution",
+      "description": "In Part 1, we discovered the grammar for data: a way to define a data project with its complex requirements and how we define it declaratively as a grammar in one sentence with nouns (sources), transformations (verbs), templates, and modifiers, essentially being able to define it once and run it anywhere with different execution engines. This Part 2 will demonstrate how this looks in a data engineering digest project where we process data from RSS feeds, a live Bluesky firehose, and GitHub…",
+      "link": "https://www.ssp.sh/blog/from-definition-to-execution-grammar-of-data/",
+      "pubDate": "2026-09-14T06:00:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
       ],
       "image": null,
       "type": "blog"

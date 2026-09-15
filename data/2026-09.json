@@ -2,6 +2,21 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "a3e0de4513d6",
+      "title": "Liens Tech - Septembre 2026",
+      "description": "Ce mois-ci : un enregistreur d'écran dans le navigateur, un tracker d'inventaire domestique, un outil de diapos en markdown, une plateforme d'observabilité et un convertisseur de fichiers universel, avec un documentaire sur la cybersurveillance et des formations Anthropic sur l'IA en bonus.",
+      "link": "https://domopi.eu/liens-tech-septembre-2026/",
+      "pubDate": "2026-09-15T05:45:02.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "319776abe351",
       "title": "Sécuriser ses agents IA : guide de défense en profondeur pour vos systèmes de production",
       "description": "Injection de prompt, exfiltration de system prompt, smuggling Unicode... Vos agents IA sont exposés à des multitudes d'attaques. Découvrez une architecture de défense en profondeur pour sécuriser vos systèmes agentiques : filtres déterministes, LLM-as-a-judge, guardrails, etc.",
@@ -549,6 +564,21 @@
         "IA"
       ],
       "image": "https://lostinbrittany.dev/img/posts/2026-09-09-why-i-created-r-sovereignit.png",
+      "type": "blog"
+    },
+    {
+      "id": "a0837437d495",
+      "title": "Algorithmes d'isolation",
+      "description": "Au moment où j’écris, Apple et Meta déploient leurs gadgets. Chez Meta, depuis des mois déjà, des lunettes intrusives permettent à n’importe qui de vous filmer à votre insu. Du côté d’Apple, une montre avec un mode d’écoute permanente, enregistrant toutes vos conversations et vos interactions avec votre environnement. L’un comme l’autre usent des mêmes arguments. Ils promettent la commodité, l’efficacité. Plus besoin de vous rappeler tous les détails d’une conversation, elle est transcrite en…",
+      "link": "https://boris.schapira.dev/notes/2026-09-algorithmes-d-isolation/",
+      "pubDate": "2026-09-08T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
