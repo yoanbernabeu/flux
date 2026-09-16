@@ -2,6 +2,142 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "59ff15e78f60",
+      "title": "Quel intérêt avons-nous encore à organiser des évènements B2B en présentiel ?",
+      "description": "Dans un contexte économique difficile, les évènements marketing B2B en présentiel conservent des avantages par rapport au digital. Ils favorisent des relations humaines indispensables pour le retour sur investissement. Une bonne stratégie consiste à segmenter le public par ateliers, à partager des expériences clients et à suivre les participants après l'événement pour renforcer les liens. L’article Quel intérêt avons-nous encore à organiser des évènements B2B en présentiel ? est apparu en…",
+      "link": "https://oliviersauvage.com/2026/09/16/quel-interet-avons-nous-encore-a-organiser-des-evenements-b2b-en-presentiel/",
+      "pubDate": "2026-09-16T09:04:47.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c0351929eb1a",
+      "title": "L'event-driven est une architecture dangereuse - Victor Rentea",
+      "description": "Victor Rentea, Java Champion et fondateur de European Software Crafters, la plus grande communauté mondiale dédiée à la qualité du code, passe au crible pour le Studio Devoxx France les pièges des architectures event-driven en production. Dans cette interview qui touchent tous les sujets sensibles de l'event-driven architecture, Victor tranche : \"c'est une architecture dangereuse\". Après 150 entreprises, il déroule les erreurs qui explosent un an plus tard sans prévenir, et la question que…",
+      "link": "https://www.youtube.com/watch?v=kItJNla7WAQ",
+      "pubDate": "2026-09-16T08:07:32.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/kItJNla7WAQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "kItJNla7WAQ"
+    },
+    {
+      "id": "21d64f41a236",
+      "title": "#376.src - AIgile : L'IA va-t-elle tuer le Scrum Master ? avec Salim Gomri",
+      "description": "\"L'IA propose, l'humain décide.\" Le D.E.V. de la semaine est Salim Gomri, coach agile et coach professionnel d'organisation certifié. Fort de 23 ans d'expérience, il est aussi l'auteur du Système S.A.L.I.M. (Scrum Augmenté Livré Incrémental & Mesurable), un framework sur Scrum Augmenté disponible sur aigile.lu. Il revient sur l'impact de l'IA sur le manifeste agile et présente son AIgile Manifesto, une version augmentée du manifeste agile face à l'accélération IA. Ensemble et sans langue de…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-376-e709b18ac401",
+      "pubDate": "2026-09-16T03:00:50.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/d840392b-9559-4361-903f-f4b3ba4bdf88.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/6c9ac4af-668b-4466-9319-e709b18ac401.mp3?_=1789473650",
+      "duration": "01:07:50"
+    },
+    {
+      "id": "c5619a8e95c6",
+      "title": "Pourquoi ton assistant IA comprend-il mal ton code ? 🤖",
+      "description": "Pourquoi ton assistant IA comprend-il mal ton code ? Le problème vient souvent du contexte : des outils comme Claude Code ou Cursor explorent votre projet fichier par fichier, sans toujours comprendre les relations globales entre vos classes, fonctions, dépendances et votre architecture. Graphify propose une autre approche : transformer votre codebase en graphe de connaissances pour aider les agents IA à mieux comprendre la structure complète d’un projet. Open source, utilisable en local ou via…",
+      "link": "https://www.youtube.com/watch?v=8vI_FHf8P44",
+      "pubDate": "2026-09-15T17:15:31.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/8vI_FHf8P44/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "8vI_FHf8P44"
+    },
+    {
+      "id": "c6af0e57d10f",
+      "title": "Le Context Engineering pour les Product people ",
+      "description": "Le context engineering vous connaissez ? Il nous concerne tous, découvrez en quoi il consiste, pourquoi il est important d'y prêter attention et les leviers pour le mettre en pratique en tant que product people.",
+      "link": "https://blog.octo.com/le-context-engineering-pour-les-product-people",
+      "pubDate": "2026-09-15T16:39:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bf04ea4e7bcd",
+      "title": "Graphify + Claude Code : l’IA comprend enfin TOUT votre projet ?",
+      "description": "Graphify transforme votre codebase en graphe de connaissances pour aider les agents IA comme Claude Code, Cursor, Codex ou Gemini CLI à mieux comprendre votre projet. Dans cette vidéo, je teste Graphify sur une vraie codebase pour voir si cette approche change réellement la façon dont une IA explore, comprend et modifie du code. Au lieu de relire vos fichiers un par un, Graphify construit une représentation des relations entre les fichiers, classes, fonctions, dépendances et différentes parties…",
+      "link": "https://www.youtube.com/watch?v=c6YXm1rdXAg",
+      "pubDate": "2026-09-15T11:00:02.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/c6YXm1rdXAg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "c6YXm1rdXAg"
+    },
+    {
+      "id": "aefbeb500064",
+      "title": "La rentrée de la tech en 8 actualités ! ",
+      "description": "C'est l'heure de la rentrée pour la Saison 2 de À la French ! 🇫🇷 Dans ce premier épisode de rentrée, on se retrouve pour débriefer d’une rentrée particulièrement agitée sur le front de la tech et de l'IA. Au programme de cette reprise : nous disséquons la stratégie tentaculaire de Nvidia qui s'offre Hugging Face pour 13 milliards et signe un deal massif avec Poolside. Nous analysons le pivot controversé de Mistral vers un modèle de Néo-Cloud, soutenu par Microsoft, et constatons la déferlante…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6aa8e6f05d36baebf17f1a7d",
+      "pubDate": "2026-09-15T10:00:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1789462857847-4c7ad269-dd08-48d9-82a7-d539896eae24.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6aa8e6f05d36baebf17f1a7d/media.mp3",
+      "duration": "1:16:08"
+    },
+    {
+      "id": "b0280264c3c8",
+      "title": "Neurodiversité & Tech",
+      "description": "3% vs 53%. C’est le gouffre qui sépare ce que les entreprises de la tech pensent savoir de la réalité de leurs équipes ! Une étude menée auprès de 151 entreprises de la tech (soit 60 000 collaborateurs) révèle un paradoxe saisissant : 🏢 Ce que les entreprises déclarent : à peine 3% de collaborateurs neurodivergents répertoriés. 👥 Ce que les équipes répondent quand on leur pose la question : 53% déclarent être directement concernés par la neurodivergence. Dans la tech, la neurodiversité n’est…",
+      "link": "https://www.youtube.com/watch?v=Hql3ycSaxoQ",
+      "pubDate": "2026-09-15T09:24:13.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/Hql3ycSaxoQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Hql3ycSaxoQ"
+    },
+    {
       "id": "a3e0de4513d6",
       "title": "Liens Tech - Septembre 2026",
       "description": "Ce mois-ci : un enregistreur d'écran dans le navigateur, un tracker d'inventaire domestique, un outil de diapos en markdown, une plateforme d'observabilité et un convertisseur de fichiers universel, avec un documentaire sur la cybersurveillance et des formations Anthropic sur l'IA en bonus.",
@@ -14,6 +150,21 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2df56b025a73",
+      "title": "Un ralentissement du développement de l'IA ?",
+      "description": "Coup de théâtre, plusieurs acteurs de l’IA demandent un ralentissement sur le développement des modèles frontières et la mise en place d’une régulation. Les progrès de l’IA seraient trop rapides et pourraient poser de sérieux problèmes à l’avenir.",
+      "link": "https://eventuallycoding.com/p/un-ralentissement-du-developpement-de-l-ia",
+      "pubDate": "2026-09-15T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1789479275601-4salxv9.png",
       "type": "blog"
     },
     {

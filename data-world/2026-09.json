@@ -2,6 +2,64 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "b8e4aaea85c7",
+      "title": "New in Symfony 8.2: Console sub-commands",
+      "description": "Symfony console applications group their commands with colon-separated namespaces, such as cache:clear or messenger:consume. Tools like Docker and Git use a different style: spaces separate the levels (docker compose up) and each level parses its own options.…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-console-sub-commands?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-16T07:33:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "219c439494be",
+      "title": "Gemini Live audio",
+      "description": "Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family. I pointed GPT-6 Astra Extra High at the documentation and had it build me this web UI for trying out the new models. You can select a model and voice preset, enter an optional system prompt and then start a voice conversation through your browser, including the ability to interrupt the model while it is talking. The…",
+      "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "pubDate": "2026-09-15T22:47:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cd9231cd86ef",
+      "title": "Easiest Way to Run Agent Harnesses Using Local Models",
+      "description": "...explained with a full video walkthrough.",
+      "link": "https://blog.dailydoseofds.com/p/easiest-way-to-run-agent-harnesses",
+      "pubDate": "2026-09-15T21:59:31.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Z5LB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc384dbc7-0955-4884-9bd6-3a5d02a63d1d_572x375.webp",
+      "type": "blog"
+    },
+    {
+      "id": "40fc87205e18",
+      "title": "Beyond Navier–Stokes: Who Controls Scientific Discovery?",
+      "description": "Is the current furore in mathematics the canary in the coalmine for experimental science and knowledge work? This post was originally published in Vanishing Gradients on September 11, 2026. It’s been updated to address the subsequent declaration by 25 Fields Medalists and the debate about AI, mathematical progress, and research incentives. Science without understanding? “For […]",
+      "link": "https://www.oreilly.com/radar/beyond-navier-stokes-who-controls-scientific-discovery/",
+      "pubDate": "2026-09-15T10:55:58.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/09/image-8-1600x939.png",
+      "type": "blog"
+    },
+    {
       "id": "210de9c36e9e",
       "title": "Symfony 8.1.7 released",
       "description": "Symfony 8.1.7 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
