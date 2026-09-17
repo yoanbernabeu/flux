@@ -2,6 +2,100 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "97016b27e775",
+      "title": "Retours vers la Transfo, saison 1 : 3 histoires qui n'ont pas suivi le plan",
+      "description": "and quot;Retours vers la Transfo and quot; est une série de récits venus du terrain, racontés par celles et ceux qui les ont vécus : le changement ne vient pas d'un plan figé ou d'un modèle sur étagère, il germe de l'intérieur, dans les conversations et les expérimentations. Bilan de la saison 1 : 3 organisations, 3 transformations, aucune n'a suivi de plan figé.",
+      "link": "https://blog.octo.com/retours-vers-la-transfo-saison-1--3-histoires-qui-n'ont-pas-suivi-le-plan",
+      "pubDate": "2026-09-17T04:52:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ca54b1227d4",
+      "title": "Se former fait partie du travail",
+      "description": "Dans la lignée de ma publication précédente sur les side projects, il existe une autre injonction qui poursuit les développeurs: la veille technique. Et non, elle ne devrait pas reposer sur le temps personnel. C’est pourtant une attente implicite dans beaucoup d’équipes. Le développeur “passionné”, c’est celui qui lit des articles le soir, qui suit les nouveautés le week-end, qui teste le dernier framework pendant ses congés. Celui qui ne le fait pas décroche, et ce sera à lui de rattraper le…",
+      "link": "https://www.jdecool.fr/blog/2026/09/17/se-former-fait-partie-du-travail.html",
+      "pubDate": "2026-09-16T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8919fd30b084",
+      "title": "Hermes : simple hype ou vraie révolution ?",
+      "description": "Un agent IA ultra moderne sur un vieux VPS pour bâtir le nouveau monde.",
+      "link": "https://www.damyr.fr/p/hermes-simple-hype-ou-vraie-r%C3%A9volution/",
+      "pubDate": "2026-09-16T19:22:05.000Z",
+      "source": "Damyr",
+      "sourceUrl": "https://www.damyr.fr/posts/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.damyr.fr/posts/img/hermes/welcome_hu_91a8d4889e6f32b1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f9d7efd7bedf",
+      "title": "Prioriser par la valeur, ou comment devenir un mini-entrepreneur",
+      "description": "and quot;Prioriser par la valeur and quot; est devenu un mantra agile : la promesse de rendre enfin rationnels des choix trop souvent arbitraires. Mais cette évidence cache un vrai casse-tête, pour de nombreuses raisons. Le coût du délai (Cost of Delay) offre un cadre pour avancer malgré tout.",
+      "link": "https://blog.octo.com/prioriser-par-la-valeur-ou-comment-devenir-un-mini-entrepreneur",
+      "pubDate": "2026-09-16T17:12:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9bcca93fd666",
+      "title": "Eloquent Performance : with() n'est pas toujours la solution",
+      "description": "Tu veux devenir un dingue de l'IA avec Laravel ? On se retrouve sur https://laraveljutsu.com On connaît tous le réflexe : « J'ai un N+1 → j'ajoute `with()` → problème réglé. » Sauf que… pas forcément. Dans cette vidéo, on part d'un dashboard Laravel avec un problème de N+1 et on va jusqu'à une vraie stratégie d'optimisation Eloquent. On va voir : • pourquoi `with()` règle le N+1 mais peut charger beaucoup trop de données • quand utiliser `withCount()` • quand `withExists()` est plus adapté •…",
+      "link": "https://www.youtube.com/watch?v=dUAaivrvXmY",
+      "pubDate": "2026-09-16T16:34:02.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/dUAaivrvXmY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "dUAaivrvXmY"
+    },
+    {
+      "id": "d95542d8cbb1",
+      "title": "Is there still a point in organising in-person B2B events ?",
+      "description": "In a challenging economic context, in-person B2B marketing events retain advantages over digital. They foster essential human relationships for return on investment. A good strategy involves segmenting the audience by workshops, sharing client experiences, and following up with participants after the event to strengthen connections. L’article Is there still a point in organising in-person B2B events ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/16/is-there-still-a-point-in-organising-in-person-b2b-events/",
+      "pubDate": "2026-09-16T14:36:11.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "59ff15e78f60",
       "title": "Quel intérêt avons-nous encore à organiser des évènements B2B en présentiel ?",
       "description": "Dans un contexte économique difficile, les évènements marketing B2B en présentiel conservent des avantages par rapport au digital. Ils favorisent des relations humaines indispensables pour le retour sur investissement. Une bonne stratégie consiste à segmenter le public par ateliers, à partager des expériences clients et à suivre les participants après l'événement pour renforcer les liens. L’article Quel intérêt avons-nous encore à organiser des évènements B2B en présentiel ? est apparu en…",
@@ -51,6 +145,39 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/6c9ac4af-668b-4466-9319-e709b18ac401.mp3?_=1789473650",
       "duration": "01:07:50"
+    },
+    {
+      "id": "78629cd8d5f1",
+      "title": "N+1 GraphQL dans NestJS : le détecter et le corriger avec NestJS Profiler",
+      "description": "Une query GraphQL NestJS peut cacher un N+1 : 10 allers-retours SQL, MongoDB et HTTP pour 4 produits. Détectez-le avec NestJS Profiler, corrigez-le avec DataLoader et vérifiez le gain.",
+      "link": "https://blog.eleven-labs.com/fr/diagnostiquer-n-plus-un-graphql-nestjs-profiler/",
+      "pubDate": "2026-09-16T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dfd457ffc190",
+      "title": "News septembre 2026 RC2, Tailwind rejoint Shopify, des tokens gratuits et Homebrew UI",
+      "description": "Nous évoquons Tailwind Labs qui rejoint Shopify, Homebrew 7 avec son app native macOS, Omarchy M sur Apple Silicon, le CSS @scope, Is your site agent ready, le débat petit modèle vs énorme modèle avec Desert Ant, et quelques outils comme 9Router, Modal, Docs7, Recorder Select ou PR Lens. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/news-sept26-rc2/",
+      "link": "https://double-slash.dev/podcasts/news-sept26-rc2/",
+      "pubDate": "2026-09-16T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1789550110/episode/ART_140_h8gqbr.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_140_news-sept26-rc2.mp3",
+      "duration": "3215"
     },
     {
       "id": "c5619a8e95c6",
