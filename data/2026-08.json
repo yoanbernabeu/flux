@@ -437,6 +437,22 @@
       "type": "blog"
     },
     {
+      "id": "c6ee13623b41",
+      "title": "☕️ Java à l'ère de l'IA 🤖 - partie 3 : le stockage de la mémoire",
+      "description": "All those moments will be lost in time, like tears in rain. ©Roy Batty",
+      "link": "https://philippart-s.github.io/blog/2026-08-27-java-and-ai-part3/",
+      "pubDate": "2026-08-27T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "73879273d892",
       "title": "2026: Blogs are Dead, Long Live Blogs!",
       "description": "A study by Daniel Stanica shows that among the 100 influential American blogs, over 60 have lost up to 85% of their traffic in four years. This decline is due to Google's algorithms and a flawed content strategy. Only 21 blogs manage to grow by offering unique and authentic content. L’article 2026: Blogs are Dead, Long Live Blogs! est apparu en premier sur OlivierSauvage.com.",

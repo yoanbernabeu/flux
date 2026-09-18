@@ -2,6 +2,84 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "606e8a0c85bf",
+      "title": "#339.exe - Dev, un problème simple: Pourquoi le métier de dev n'est pas devenu (si) compliqué par Christophe Francois",
+      "description": "Pour l'épisode #339 je recevais Adnan Aita. On en débrief avec Christophe. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-339-1bf5eeb543bc",
+      "pubDate": "2026-09-18T03:00:49.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/2d9720b8-40dc-442c-a831-1bf5eeb543bc.mp3?_=1789646449",
+      "duration": "12:01"
+    },
+    {
+      "id": "c9f913d8730a",
+      "title": "J’ai créé un Maître du Donjon IA avec Laravel 🤯",
+      "description": "J’ai transformé une commande Laravel en véritable Maître du Donjon propulsé par l’IA. 🎲🤖 Dans cette vidéo, on construit un petit Dungeon Master directement dans Laravel. Pas de gros framework d’IA ni d’abstraction magique : on utilise simplement Laravel HTTP Client pour appeler directement l’API OpenAI et Laravel Prompts pour créer notre interface interactive dans le terminal. Deviens un pro et reste INDISPENSABLE pour les entreprises sur https://laraveljutsu.com/",
+      "link": "https://www.youtube.com/watch?v=eUSjTaDCgf8",
+      "pubDate": "2026-09-17T16:58:34.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/eUSjTaDCgf8/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "eUSjTaDCgf8"
+    },
+    {
+      "id": "6bb643f01585",
+      "title": "B2Biz #3 – Réinventer son marketing B2B à l’ère de l’IA avec Fabian Delhaxe",
+      "description": "Dans cet épisode de B2Biz, Fabian Delhaxe, expert en marketing B2B, discute de l'importance du branding, de l'impact de l'IA sur le SEO et des opportunités offertes par LinkedIn. Il souligne la nécessité d'allier authenticité et innovation pour capter l'attention des audiences modernes tout en mesurant efficacement le ROI. L’article B2Biz #3 – Réinventer son marketing B2B à l’ère de l’IA avec Fabian Delhaxe est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/17/b2biz-3-reinventer-son-marketing-b2b-a-lere-de-lia-avec-fabian-delhaxe/",
+      "pubDate": "2026-09-17T15:30:09.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a8cd85a484a4",
+      "title": "Sud Foncier Éco : un observatoire cartographique modernisé et enrichi",
+      "description": "En 2025, Sud Foncier Éco a fait peau neuve avec la migra­tion de la plate­forme vers la dernière version de Terra­Visu.",
+      "link": "https://makina-corpus.com/terravisu/sud-foncier-eco-un-observatoire-cartographique-modernise-et-enrichi",
+      "pubDate": "2026-09-17T12:16:13.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8dd9124b9477",
+      "title": "TerraVisu évolue : tour d’horizon des nouveautés 2025-2026",
+      "description": "Terra­Visu a béné­fi­cié de nombreuses évolu­tions pour rendre les données terri­to­riales plus simples à explo­rer, à analy­ser et à valo­ri­ser. Nouveaux modes de repré­sen­ta­tion, graphiques enri­chis, recherche amélio­rée, outils colla­bo­ra­tifs ou encore évolu­tions du back",
+      "link": "https://makina-corpus.com/logiciel-libre/terravisu-evolue-tour-dhorizon-des-nouveautes-2025-2026",
+      "pubDate": "2026-09-17T12:10:08.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "97016b27e775",
       "title": "Retours vers la Transfo, saison 1 : 3 histoires qui n'ont pas suivi le plan",
       "description": "and quot;Retours vers la Transfo and quot; est une série de récits venus du terrain, racontés par celles et ceux qui les ont vécus : le changement ne vient pas d'un plan figé ou d'un modèle sur étagère, il germe de l'intérieur, dans les conversations et les expérimentations. Bilan de la saison 1 : 3 organisations, 3 transformations, aucune n'a suivi de plan figé.",
@@ -1342,6 +1420,21 @@
       "title": "Climadiag Agriculture et Forêt : extension aux domaines d'outre-mer",
       "description": "Clima­diag Agri­cul­ture et Forêt est un service clima­tique en accès libre, fruit du parte­na­riat entre Météo-France et Sola­gro, spécia­liste des ques­tions agri­coles et sylvi­coles liées au chan­ge­ment clima­tique.",
       "link": "https://makina-corpus.com/logiciel-libre/climadiag-agriculture-et-foret-extension-aux-domaines-doutre-mer",
+      "pubDate": "2026-09-02T07:00:00.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "15e97d4adecd",
+      "title": "Déploiement de Geotrek-admin pour le Conseil départemental de la Haute-Vienne",
+      "description": "En 2026, le Conseil dépar­te­men­tal de la Haute-Vienne choi­sit Geotrek-admin pour struc­tu­rer et gérer plus faci­le­ment son offre d’ac­ti­vi­tés de pleine nature.",
+      "link": "https://makina-corpus.com/geotrek/deploiement-de-geotrek-admin-pour-le-conseil-departemental-de-la-haute-vienne",
       "pubDate": "2026-09-02T07:00:00.000Z",
       "source": "Makina Corpus",
       "sourceUrl": "https://makina-corpus.com/rss",

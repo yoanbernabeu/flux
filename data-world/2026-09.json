@@ -2,6 +2,139 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "c40a1cd0e489",
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "description": "Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware. A video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to…",
+      "link": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+      "pubDate": "2026-09-17T23:59:19.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9d9de011db6f",
+      "title": "The PHP Podcast 2026.09.17",
+      "description": "🎙️ PHP Podcast – September 17, 2026 Hosts: Joe Ferguson, Sara Golemon & John Congdon The September issue shipped 13 days early, a blue elephant named Eric raised eyebrows, PHP 8.6 is racing GTA 6 to a November launch, and a CDN bug taught us all a lesson about cache keys. Also: a lot of […] The post The PHP Podcast 2026.09.17 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-09-17/",
+      "pubDate": "2026-09-17T23:53:19.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/09/cWU4qKByLGs-hqdefault.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0c114974aa55",
+      "title": "How To Write With An LLM",
+      "description": "How To Write With An LLM Thomas Ptacek on using LLMs as copyeditors, not as writing assistants: Rule Number One: You may not use a single word an LLM suggests to you. [...] I think that as a form of intellectual personal protective equipment you should adopt the rule that any specific turn of phrase an LLM suggests is off limits. Be strict about the rule! I won't let LLMs write content for my blog, but I use them for fact-checking, spelling and grammar and as an occasional thesaurus (see my…",
+      "link": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+      "pubDate": "2026-09-17T23:37:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6533bdcc0f6c",
+      "title": "Self-generated prompt injections in compaction summaries",
+      "description": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my favorite: they caught some of their models in training deliberately subverting themselves in their compaction prompts. Compaction is the process agent systems use when they are running out of tokens in their context window, so they summarize everything that has…",
+      "link": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+      "pubDate": "2026-09-17T20:57:55.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "56d78b5abbb3",
+      "title": "Where does all the VRAM go during LLM inference?",
+      "description": "...explained visually",
+      "link": "https://blog.dailydoseofds.com/p/where-does-all-the-vram-go-during",
+      "pubDate": "2026-09-17T19:30:12.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!xEgy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39bd286b-125f-4baf-b313-314a217fbea8_1500x1500.png",
+      "type": "blog"
+    },
+    {
+      "id": "faa3d28949ae",
+      "title": "PolinRider Spreads Through Compromised GitHub Accounts and Packagist",
+      "description": "Socket researchers identified malicious code in the dev-main version of visanduma/nova-two-factor, a Packagist package with more than 700,000 cumulative downloads, as the PolinRider campaign continues to spread through compromised developer accounts and Git repositories. The Socket Threat Research Team continues to track malicious activity associated with PolinRider. In our July research post, we provided initial technical details about this persistent campaign, which distributes malware across…",
+      "link": "https://socket.dev/blog/polinrider-github-packagist?utm_medium=feed",
+      "pubDate": "2026-09-17T15:33:22.860Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/8692536853a6169b588b113a3f0c9b6d63e624e0-1402x1254.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "c457517615aa",
+      "title": "SymfonyCon Warsaw 2026: Beyond the Demo: Shipping Real AI Features",
+      "description": "Ready to level up your PHP and Symfony skills? SymfonyCon Warsaw 2026 lands in Poland this November 26-27! Gather with fellow developers from around the globe for two dense days of learning, featuring 3 parallel tracks and rich community side-events.…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-beyond-the-demo-shipping-real-ai-features?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-17T12:33:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "99056bdfcaca",
+      "title": "Navigating the Modern Data Lexicon: A Working Vocabulary for the Semantic Era",
+      "description": "The way we talk about data is changing faster than the way we build it. Every quarter a vendor ships a new approach, coins a new term for it, or quietly adopts a term someone else has been using and redefines it to fit the shape of their product. None of this is malicious. Every […]",
+      "link": "https://www.oreilly.com/radar/navigating-the-modern-data-lexicon-a-working-vocabulary-for-the-semantic-era/",
+      "pubDate": "2026-09-17T10:54:35.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c953ce9d65d5",
+      "title": "New in Symfony 8.2: Attribute-based Forms",
+      "description": "Contributed by Benjamin Georgeault in #60563…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-attribute-based-forms?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-17T07:04:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/wedgesama.picture",
+      "type": "blog"
+    },
+    {
       "id": "3fb5c069cb2a",
       "title": "datasette 1.0a40",
       "description": "Release: datasette 1.0a40 Same security fix as 0.65.5, plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task() method. Thanks, Alex Garcia. I've migrated Datasette to httpx2 for features like the internal datasette.client.get() method. A whole lot of bug fixes, many of them stemming from a recent effort to triage issues for a 1.0 stable release. Tags: security, datasette",
