@@ -2,6 +2,38 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "62425ac7fbd4",
+      "title": "Anatomie d'un harness : ce qui tourne vraiment derrière Claude Code, Kilo Code et Codex",
+      "description": "Le modèle pense. Tout le reste, c'est le harness : la boucle, les tools, la context window. Dissection des fondamentaux, sources à l'appui.",
+      "link": "https://tahak.me/posts/anatomie-harness-claude-code-kilo-codex/",
+      "pubDate": "2026-09-19T00:00:00.000Z",
+      "source": "Taha K.",
+      "sourceUrl": "https://tahak.me/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8a69c6662f4f",
+      "title": "Agentic Engineering : Au-delà du prototype",
+      "description": "Cet article étudie pourquoi le brownfield est si différent du greenfield, propose 5 grandes raisons qui font que l’accélération promise par l’Agentic Engineering, n’est pas toujours atteinte et propose quelques leviers pour effectivement s’accélérer.",
+      "link": "https://blog.octo.com/agentic-engineering--au-dela-du-prototype-1",
+      "pubDate": "2026-09-18T08:56:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "606e8a0c85bf",
       "title": "#339.exe - Dev, un problème simple: Pourquoi le métier de dev n'est pas devenu (si) compliqué par Christophe Francois",
       "description": "Pour l'épisode #339 je recevais Adnan Aita. On en débrief avec Christophe. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
@@ -18,6 +50,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/2d9720b8-40dc-442c-a831-1bf5eeb543bc.mp3?_=1789646449",
       "duration": "12:01"
+    },
+    {
+      "id": "8005e007a0a9",
+      "title": "La veille de Wittouck - Début septembre 2026",
+      "description": "C’est la rentrée, et donc la reprise de mes articles de veille. Cet été, pas mal de sujets autour d’AT Protocol, qui a maintenant le droit à sa propre catégorie. Je pense que j’en parlerai encore dans de prochains articles, le sujet me passionne. Bonne rentrée !",
+      "link": "https://codeka.io/2026/09/18/la-veille-de-wittouck-debut-septembre-2026/",
+      "pubDate": "2026-09-18T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/09/18/la-veille-de-wittouck-debut-septembre-2026/cover_hu_922095cbd1a6835f.webp",
+      "type": "blog"
     },
     {
       "id": "c9f913d8730a",

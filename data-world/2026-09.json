@@ -2,6 +2,168 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "1b7a07575c93",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "description": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta. In one of the cases, the model guessed passwords until it gained access to a protected system. In the other two cases, the model found credentials in a public repository that allowed it to…",
+      "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "pubDate": "2026-09-18T23:57:57.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "28ef8837e618",
+      "title": "How to Get from AI-Assisted to AI Native",
+      "description": "When considering the history of AI, Richard Sutton observed that brute force and compute scale has always trumped human expertise, and when you look for it, you can see this “bitter lesson” play out throughout tech history. In his keynote at Ai4 2026, Tim O’Reilly explains why grappling with the bitter lesson is the forge […]",
+      "link": "https://www.oreilly.com/radar/how-to-get-from-ai-assisted-to-ai-native/",
+      "pubDate": "2026-09-18T21:38:53.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6d026a200513",
+      "title": "Note on 18th September 2026",
+      "description": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Tags: llms, ai, generative-ai",
+      "link": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+      "pubDate": "2026-09-18T19:21:32.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b4eea27689ae",
+      "title": "Quoting Thariq Shihipar",
+      "description": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness. This is a built-in mod, but you’ll be able to build custom versions of project instructions yourself as you’d like too. You can see the source for the mod here! &mdash; Thariq Shihipar, there are more mods here Tags:…",
+      "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+      "pubDate": "2026-09-18T19:09:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "58c7a201fa4f",
+      "title": "Happy Birthday, Shai-Hulud",
+      "description": "This week marks one year since an attacker pushed a malicious version of @ctrl/tinycolor to npm, kicking off the worst year for npm security on record. At the time, the package was downloaded more than two million times a week. Within a day the same code was spreading on its own across dozens of packages, and then into CrowdStrike's npm namespace. It was the first known self-propagating worm in the npm ecosystem, and it has not really stopped since. The tinycolor compromise put software supply…",
+      "link": "https://socket.dev/blog/happy-birthday-shai-hulud?utm_medium=feed",
+      "pubDate": "2026-09-18T18:46:45.889Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a4bec2fba92b",
+      "title": "Run Any Agent Harness Under One Interface",
+      "description": "How UHP and HarnessRouter standardize agent execution across Codex, Claude Code, Hermes, and other runtimes.",
+      "link": "https://blog.dailydoseofds.com/p/run-any-agent-harness-under-one-interface",
+      "pubDate": "2026-09-18T18:18:26.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!517v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48225cdb-89dd-4864-bf9c-c1f0438904a2_1136x991.png",
+      "type": "blog"
+    },
+    {
+      "id": "8dac8876a62d",
+      "title": "Software Factories, Light and Dark",
+      "description": "The following article originally appeared on Addy Osmani’s blog and is being republished here with the author’s permission. A software factory harnesses loops at scale. You can run the loop with humans in it (light factory), trading judgment and concentration against speed and breakage. Or you can ignore the humans (dark factory) and let those […]",
+      "link": "https://www.oreilly.com/radar/software-factories-light-and-dark/",
+      "pubDate": "2026-09-18T15:59:35.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://addyosmani.com/assets/images/software-factories/loop-harness-factory.svg",
+      "type": "blog"
+    },
+    {
+      "id": "c741da81bc6b",
+      "title": "★ Detecting spam and auto-replies with Jev and the Laravel AI SDK",
+      "description": "Yesterday Taylor announced that Jev support landed in the 1.x branch of the Laravel AI SDK. We started using it that same day for spam detection in There There. Let's take a look at what Jev is and how you can use it. How Jev is different from an LLM Jev is made by TypeSafe. An LLM generates text: you ask it something, it writes an answer, and if you want structured data back you have to ask for it and hope. Jev doesn't generate anything. You give it some state and a question, and it gives you…",
+      "link": "https://freek.dev/3194-detecting-spam-and-auto-replies-with-jev-and-the-laravel-ai-sdk",
+      "pubDate": "2026-09-18T15:39:46.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "55668e9d93e2",
+      "title": "The Creative Spirit of Who Framed Roger Rabbit",
+      "description": "The Creative Spirit of Who Framed Roger Rabbit I love Who Framed Roger Rabbit, the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out this sequence from early in the movie: It's a pelican riding a bicycle! Look closely and you'll note that the pelican is animated while the bicycle is a real bicycle. Apparently they filled the wheels with water to add stability, then set it running and guided it with a cable. Cypress gathered more…",
+      "link": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+      "pubDate": "2026-09-18T14:36:41.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bf946cada0c6",
+      "title": "SymfonyCon Warsaw 2026: Last 5 days for regular tickets!",
+      "description": "Get ready to connect with the global Symfony community! SymfonyCon Warsaw 2026 is landing in Poland on November 26-27. We are bringing you two days of inspiring talks across 3 parallel tracks, alongside plenty of networking opportunities and vibrant…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-last-5-days-for-regular-tickets?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-18T12:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "27dfd0f5a27f",
+      "title": "New in Symfony 8.2: One Bundle per Component",
+      "description": "Contributed by Nicolas Grekas in #65948 ,…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-one-bundle-per-component?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-18T07:58:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
       "id": "c40a1cd0e489",
       "title": "Be alert: targeted attacks on prominent Rustaceans",
       "description": "Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware. A video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to…",
