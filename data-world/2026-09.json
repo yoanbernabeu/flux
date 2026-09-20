@@ -2,6 +2,66 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "b4634c47125c",
+      "title": "A Week of Symfony #1029 (September 14–20, 2026)",
+      "description": "This week, Symfony maintenance versions 6.4.46, 7.4.19, and 8.1.7 were released. Meanwhile, we kicked off the \"New in Symfony 8.2\" blog series and SymfonyCasts published a new Symfony Security: The Basics course. Finally, we announced the last days to get…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1029-september-14-20-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-20T07:20:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fb0112d24382",
+      "title": "datasette-auth-github 1.0",
+      "description": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cookies without a Max-Age parameter, so they were expiring at the end of a browser session (which in Mobile Safari seems to happen pretty often, independently of how you are using the app.) I fixed that in #80 and, since this plugin has been around for quite a while and is tested…",
+      "link": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+      "pubDate": "2026-09-19T19:52:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "41d15f7729de",
+      "title": "California Sea Lion, Brandt's Cormorant",
+      "description": "California Sea Lion, Brandt&#x27;s Cormorant, in Pillar Point Harbor, CA, USI only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of the sign. Tags: wildlife",
+      "link": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+      "pubDate": "2026-09-19T17:10:08.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b0aef392f02f",
+      "title": " Omarchy Quattro: One Year In — Part 3",
+      "description": "This is my Part 3 about Omarchy, after using it for more than a year full time, as my main daily driver first on Lenovo ThinkBook 14 AMD, and now TUXEDO InfinityBook Pro 14 Gen10, for my business and personal use, replacing my MacBook Pro M1 after using macOS for 15 years. See more in Part 1 about my transition, what tools I needed, and in Part 2, the good, the bad, and the fixable. I’m also the original author of the Windows VM work (PR #1333, merged via #2462), making Excel and Word available…",
+      "link": "https://www.ssp.sh/blog/omarchy-linux-quattro/",
+      "pubDate": "2026-09-19T06:40:00.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1b7a07575c93",
       "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
       "description": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta. In one of the cases, the model guessed passwords until it gained access to a protected system. In the other two cases, the model found credentials in a public repository that allowed it to…",

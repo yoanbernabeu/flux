@@ -2,6 +2,21 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "8a19d15cee30",
+      "title": "Homebrew, Docker, nvm, worktrees : une seule commande pour tout nettoyer",
+      "description": "Ma fonction Zsh update : topgrade, Homebrew, Docker, nvm et les worktrees Claude Code sous une seule commande, avec un bilan d'espace en Go.",
+      "link": "https://lecodeestdanslepre.fr/billets/homebrew-docker-nvm-worktrees-une-seule-commande-pour-tout-nettoyer",
+      "pubDate": "2026-09-19T10:49:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "62425ac7fbd4",
       "title": "Anatomie d'un harness : ce qui tourne vraiment derrière Claude Code, Kilo Code et Codex",
       "description": "Le modèle pense. Tout le reste, c'est le harness : la boucle, les tools, la context window. Dissection des fondamentaux, sources à l'appui.",
@@ -14,6 +29,23 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4d9354a82989",
+      "title": "Jev, l'IA qui ne sait pas écrire : 3 000 décisions en 25 secondes avec Symfony AI",
+      "description": "Jev ne génère pas de texte : on lui pose des questions typées, il répond par des probabilités, en quelques centaines de millisecondes et pour 0,042 $ le million de tokens. Ce qu'il fait, ce qu'il ne fait pas, comment il fonctionne, à quoi il sert, et une démo Symfony à cloner pour jouer avec.",
+      "link": "https://yoandev.co/jev-typesafe-symfony-ai",
+      "pubDate": "2026-09-19T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/jev-typesafe-symfony-ai.webp",
       "type": "blog"
     },
     {
