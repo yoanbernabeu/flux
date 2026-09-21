@@ -2,6 +2,51 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "d36893dd8dac",
+      "title": "New in Symfony 8.2: Messenger Outbox and Claim Check",
+      "description": "Many applications that send messages to a broker end up facing these two problems: (1) sending them is not part of the database transaction, and (2) brokers refuse messages that are too big. Symfony Messenger solves both in Symfony 8.2 with two new transport…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-messenger-outbox-and-claim-check?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-21T07:50:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "c8aee9fb8db2",
+      "title": "Quoting voxium",
+      "description": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as much as they can. I have heard multiple times from higher management that pushing code is not a bottleneck, so why are we slow? People are working 12 to 13 hours a day just to press enter. Nobody is reading anything.…",
+      "link": "https://simonwillison.net/2026/Sep/20/voxium/",
+      "pubDate": "2026-09-20T21:06:43.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f9d4182cc1e1",
+      "title": "llm-keys-ui 0.1",
+      "description": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly. With this plugin, I can tell Codex to run: uvx…",
+      "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+      "pubDate": "2026-09-20T19:22:19.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b4634c47125c",
       "title": "A Week of Symfony #1029 (September 14–20, 2026)",
       "description": "This week, Symfony maintenance versions 6.4.46, 7.4.19, and 8.1.7 were released. Meanwhile, we kicked off the \"New in Symfony 8.2\" blog series and SymfonyCasts published a new Symfony Security: The Basics course. Finally, we announced the last days to get…",
@@ -12,6 +57,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33879f77e153",
+      "title": "datasette-explain 0.2.2",
+      "description": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: sqlite, datasette",
+      "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+      "pubDate": "2026-09-20T00:22:04.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"

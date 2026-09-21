@@ -2,6 +2,40 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "6e504bcedd8b",
+      "title": "Des statistiques sans robots avec GoatCounter auto-hébergé sur NixOS",
+      "description": "En 2016, j’ai de ce blog pour ne pas me rendre complice de la plus grande machine à aspirer les données personnelles. À la place, j’analysais les journaux de mes serveurs avec . Depuis quelques années, les statistiques ne veulent plus rien dire, malgré mes tentatives pour filtrer les robots : gonflent le nombre de visiteurs à environ 2 000 par jour. J’ai fini par adopter , une plateforme libre de mesure d’audience, respectueuse de la vie privée. J’ai remplacé le client JavaScript pour filtrer…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-goatcounter",
+      "pubDate": "2026-09-20T19:44:50.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/goatcounter@1x.66acd322278cc7.png",
+      "type": "blog"
+    },
+    {
+      "id": "aae4d1c66144",
+      "title": "Jev : cette IA ne sait pas écrire (et c'est une bonne nouvelle)",
+      "description": "Jev, le modèle « System One » de TypeSafe AI, ne génère pas une seule phrase : on lui pose des questions typées, il répond par des probabilités. Je l'ai testé avec Symfony AI : 3 000 décisions en 25 secondes, pour environ 3 centimes. Dans une application, on demande rarement un texte à une IA. On lui demande de trancher : ce message est-il urgent ? Dans quelle file part ce ticket ? Est-ce du spam ? Jev est fait pour ça, et seulement pour ça. Pas de texte à parser, pas de tokens de sortie à…",
+      "link": "https://www.youtube.com/watch?v=PBdwFuk4VPI",
+      "pubDate": "2026-09-20T16:00:28.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/PBdwFuk4VPI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "PBdwFuk4VPI"
+    },
+    {
       "id": "8a19d15cee30",
       "title": "Homebrew, Docker, nvm, worktrees : une seule commande pour tout nettoyer",
       "description": "Ma fonction Zsh update : topgrade, Homebrew, Docker, nvm et les worktrees Claude Code sous une seule commande, avec un bilan d'espace en Go.",
