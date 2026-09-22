@@ -2,6 +2,124 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "4afb6a6fb113",
+      "title": "New in Symfony 8.2: Role Hierarchy Wildcards and Debugging",
+      "description": "The role hierarchy lets you define which roles are included in other roles, so you don't have to assign all of them to each user. In applications with many roles, this configuration grows quickly and it's hard to tell which exact roles belong to a given user.…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-role-hierarchy-wildcards-and-debugging?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-22T07:44:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/squrious.picture",
+      "type": "blog"
+    },
+    {
+      "id": "a3a63d755927",
+      "title": "Lovable’s OJ Rewrites Vite’s Dev Server in Rust as AI Lowers the Cost of Forking Open Source",
+      "description": "Lovable is beginning to replace Vite inside its cloud preview environments with OJ, a Rust-based build tool created for the demands of running around one million short-lived development sandboxes per day. The company reported that OJ reduced median sandbox acquisition time from 14.5 seconds to 3 seconds and cut the memory used by the dev server process by roughly 6.5x in a controlled production rollout. OJ arrives as part of the trend toward rewriting JavaScript tooling in Rust. Other examples…",
+      "link": "https://socket.dev/blog/oj-vite-rust?utm_medium=feed",
+      "pubDate": "2026-09-22T05:48:11.599Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/9329894f369fc98bc170b9728b99acf845e8b94d-1418x446.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "b3e5263fa897",
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "description": "Last week TypeSafe AI unveiled Jev, their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an interesting variant on the usual LLM format: it still accepts text inputs, but instead of text output it returns floating point numbers corresponding to categories, yes/no questions, ratings, and associated confidence scores. TypeSafe describe Jev like this: Think of Jev as a…",
+      "link": "https://simonwillison.net/2026/Sep/21/jev/",
+      "pubDate": "2026-09-21T23:09:20.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b3a971b72e2d",
+      "title": "Cloudflare Python Workers are now generally available",
+      "description": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare Developer Platform\". A neat thing about this is how it works. Cloudflare are running Python compiled to WebAssembly via Pyodide in their V8-based workerd runtime. This comes with some limitations, documented here - most notably both multiprocessing…",
+      "link": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+      "pubDate": "2026-09-21T22:25:44.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5120b70f1b93",
+      "title": "Jev, Clearly Explained",
+      "description": "...with visuals.",
+      "link": "https://blog.dailydoseofds.com/p/jev-clearly-explained",
+      "pubDate": "2026-09-21T19:39:16.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/5148f88d-8aa7-49ef-8992-08478a442b44_680x272.png",
+      "type": "blog"
+    },
+    {
+      "id": "3177166aa961",
+      "title": "The Post-training Process OpenAI Used for ChatGPT",
+      "description": "This is the third post in a four-part series about post-training. If you missed them, read part 1 and part 2. The final post, on implementing your own pipeline, will be coming October 7. Now that you understand the gist of reinforcement learning and supervised fine-tuning, it’s time to explore what post-training has actually accomplished […]",
+      "link": "https://www.oreilly.com/radar/the-post-training-process-openai-used-for-chatgpt/",
+      "pubDate": "2026-09-21T10:55:18.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4d2cf37302df",
+      "title": "Introducing: Dark mode for Flare",
+      "description": "Flare now has a dark mode, and this post walks through the design work needed to make it feel right and stay accessible. Nice details on semantic color tokens, fixing gradients and shadows, and using screenshot comparisons to keep the light theme intact. Read more",
+      "link": "https://freek.dev/3193-introducing-dark-mode-for-flare",
+      "pubDate": "2026-09-21T10:30:31.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6455910e468e",
+      "title": "Symfony UX 3.5 released",
+      "description": "Symfony UX 3.5 is out, with close to ninety pull requests merged since 3.4, enough to make it one of the largest releases the project has shipped. It brings a brand new Pagination package, hands component attribute rendering over to Twig itself, lets you…",
+      "link": "https://symfony.com/blog/symfony-ux-3-5-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-21T08:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/smnandre.png",
+      "type": "blog"
+    },
+    {
       "id": "d36893dd8dac",
       "title": "New in Symfony 8.2: Messenger Outbox and Claim Check",
       "description": "Many applications that send messages to a broker end up facing these two problems: (1) sending them is not part of the database transaction, and (2) brokers refuse messages that are too big. Symfony Messenger solves both in Symfony 8.2 with two new transport…",
@@ -22,6 +140,21 @@
       "description": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as much as they can. I have heard multiple times from higher management that pushing code is not a bottleneck, so why are we slow? People are working 12 to 13 hours a day just to press enter. Nobody is reading anything.…",
       "link": "https://simonwillison.net/2026/Sep/20/voxium/",
       "pubDate": "2026-09-20T21:06:43.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e133d02a1d69",
+      "title": "MCP was always a bad idea?",
+      "description": "My comment on MCP was always a bad idea? &mdash; Hacker News.This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly. If you want to operate something that's less YOLO than that, you'll find yourself wanting: Control over exactly which external services it can access A way to handle…",
+      "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+      "pubDate": "2026-09-20T20:24:41.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
       "categories": [

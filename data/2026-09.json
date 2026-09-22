@@ -2,6 +2,69 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "b30a8801c408",
+      "title": "[OCTO] Utiliser Claude sans coder",
+      "description": "Vous utilisez déjà l'IA, chacun à votre façon, donc l'idée n'est pas de vous réapprendre à écrire un prompt. Voici quelques apprentissages d’une formation en ligne “Anthropic Certificate Foundations” pour acquérir quelques réflexes pour sublimer votre utilisation de l’IA générative en 2026 :-)",
+      "link": "https://blog.octo.com/octo-utiliser-claude-sans-coder",
+      "pubDate": "2026-09-22T08:08:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c727aefbeef9",
+      "title": "Des bananes chez Orange",
+      "description": "Des bananes chez Orange {align=right} Mardi dernier, j'avais rendez-vous à sept heures et demie le matin pour passer un examen de certification Linux en ligne. À sept heures et quart je me suis fait un café, mais ce qui m'a vraiment réveillé, c'est lorsque j'ai vu que la Freebox dans mon bureau n'indiquait plus l'heure. Panique à bord, j'appelle le support de Free au 3244 et j'essaie d'expliquer à la voie avenante et impassible du serveur vocal qu'il y a un problème avec ma box, en appuyant…",
+      "link": "https://www.microlinux.fr/blog/orange-bananes/",
+      "pubDate": "2026-09-22T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/orange.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9d0af6e17ee4",
+      "title": "Retrouvez-moi à Cloud Nord 2026 et au DevFest Toulouse !",
+      "description": "TL;DR : je serai speaker à Cloud Nord le 30 octobre pour un talk inédit sur Kubernetes tassé dans un Raspberry Pi Zero, et au DevFest Toulouse le 19 novembre pour présenter ma boîte à coucou des Guignols. De quoi finir l’année en beauté. Cloud Nord 2026 - Kubernetes dans 512 Mo de RAM, et un peu de DOOM Alors que je n’avais pas été retenu à la base, j’ai reçu un message de l’équipe d’organisation de Cloud Nord 2026, qui avait besoin d’un petit coup de main pour remplacer un speaker finalement…",
+      "link": "https://blog.zwindler.fr/2026/09/21/retrouvez-moi-cloud-nord-2026-devfest-toulouse/",
+      "pubDate": "2026-09-21T19:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/07/sketch.webp",
+      "type": "blog"
+    },
+    {
+      "id": "5cbc4efb8efd",
+      "title": "From an ADE to an Orchestrator: Building PABLO",
+      "description": "My agents got faster. My brain did not. Where we left off In my previous article, I described my working environment: an Agent Development Environment, not an IDE with a chat panel bolted on, but a tool built around tasks, worktrees, and agents. I pick an issue, the ADE opens an isolated worktree with an agent already running, and I direct that agent instead of typing code. On top sit the agents I refined over months, all read-only by construction; build is the only one allowed to touch code.…",
+      "link": "https://jolicode.com/blog/from-an-ade-to-an-orchestrator-building-pablo",
+      "pubDate": "2026-09-21T09:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/pablo-orchestrator/mermaid-diagram-2026-09-21-100259.png",
+      "type": "blog"
+    },
+    {
       "id": "6e504bcedd8b",
       "title": "Des statistiques sans robots avec GoatCounter auto-hébergé sur NixOS",
       "description": "En 2016, j’ai de ce blog pour ne pas me rendre complice de la plus grande machine à aspirer les données personnelles. À la place, j’analysais les journaux de mes serveurs avec . Depuis quelques années, les statistiques ne veulent plus rien dire, malgré mes tentatives pour filtrer les robots : gonflent le nombre de visiteurs à environ 2 000 par jour. J’ai fini par adopter , une plateforme libre de mesure d’audience, respectueuse de la vie privée. J’ai remplacé le client JavaScript pour filtrer…",
