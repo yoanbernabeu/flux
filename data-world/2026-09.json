@@ -2,6 +2,168 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "465c3a3562b2",
+      "title": "The Accelerationist Case for Frontier Pacing",
+      "description": "The following article originally appeared on Venkatesh Rao’s Substack, Contraptions, and is being republished here with the author’s permission. The sole athletic achievement of my life came in 1993: winning the IIT Bombay freshman 50m freestyle race with a time of 41s. That got me into the college swim team (it was a bad recruitment […]",
+      "link": "https://www.oreilly.com/radar/?p=19768",
+      "pubDate": "2026-09-23T09:06:25.214Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/09/image-29.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "8e0c3ac320e7",
+      "title": "New in Symfony 8.2: JSON Schema for Configuration",
+      "description": "Symfony 7.4 added JSON schemas for YAML files like services.yaml and routes.yaml, so IDEs can autocomplete and validate them. The files in config/packages/ weren't included and that's where you write or maintain most of your YAML config. Each bundle defines…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-json-schema-for-configuration?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-23T07:07:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/gromnan.picture",
+      "type": "blog"
+    },
+    {
+      "id": "327f7261ab07",
+      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+      "description": "SF October 14th: A Birds of a Feather Session on Agentic Engineering I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents. Think of it as an agentic show-and-tell: ​Compare notes with other builders and experimenters on things you’re trying, what you're learning, and what you haven’t figured out yet. We’re especially interested in work you haven’t discussed publicly,…",
+      "link": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+      "pubDate": "2026-09-23T02:53:19.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6d6d661c684a",
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "description": "Yesterday was Grok 4.7 (pelicans) and MiMo v2.6 Flash/Pro (more pelicans). Today Anthropic released Claude Opus 5.5, and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna. It's going to take a while to get a good read on all of these new models, but here are my impressions so far. GPT-6 Sol and Luna are half the price of their GPT-5.6 equivalents GPT-5.6 Luna was already my favorite model for building applications against, because it combined excellent performance with being really…",
+      "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "pubDate": "2026-09-22T23:46:41.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7d03c751a3ae",
+      "title": "Build your own Jev (100% local)",
+      "description": "...explained step-by-step with code.",
+      "link": "https://blog.dailydoseofds.com/p/build-your-own-jev-100-local",
+      "pubDate": "2026-09-22T19:10:14.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!w1BQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b19a13a-5594-42ca-a222-68d8c07b14d4_900x502.png",
+      "type": "blog"
+    },
+    {
+      "id": "2e8a5e66791e",
+      "title": "llm 0.36",
+      "description": "Release: llm 0.36 New OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna. #1702 Model plugins can now declare supports_conversation = False for models that only accept single-turn prompts. LLM raises llm.ConversationNotSupported when these models receive assistant or tool history, and llm chat rejects them before starting a session. See Models that do not support conversations. The first plugin to use this is llm-typesafe. #1692 Reasoning traces in the Markdown output of llm…",
+      "link": "https://simonwillison.net/2026/Sep/22/llm/",
+      "pubDate": "2026-09-22T18:48:37.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "edb6d5a5f85d",
+      "title": "Quoting @therealcornpop",
+      "description": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or the really weird broken staccato-like way of writing where you just say a lot of things with all these punctuation marks. and it sounds really deep, but it's not. It's the lack of anything. It's the lack of a definitive sort of spear of your voice. It's the fact I can tell you don't have opinions…",
+      "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+      "pubDate": "2026-09-22T18:03:21.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8f820c2b26f6",
+      "title": "llm-anthropic 0.29",
+      "description": "Release: llm-anthropic 0.29 Adds support for Claude Opus 5.5: llm -m claude-opus-5.5 \"prompt goes here\" Tags: llm, anthropic",
+      "link": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+      "pubDate": "2026-09-22T17:14:55.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0d7b498b4e4a",
+      "title": "llm-typesafe 0.1a0",
+      "description": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model. Install it like this: llm install llm-typesafe Then set an API key (get one here, the waitlist seems to move pretty fast): llm keys set typesafe # Paste key And now you can ask yes/no \"noul\" questions like this: llm -m jev 'Please refund my last payment.' \\ -s 'Does this message explicitly request a refund?' Output: {\"type\": \"noul\", \"noul\": 0.99} Or choice questions like this: cat…",
+      "link": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+      "pubDate": "2026-09-22T15:54:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d1f483114dc3",
+      "title": "SymfonyCon Warsaw 2026: Real Browsers, Real Kernel: Playwright Testing in Symfony",
+      "description": "Connect, learn, and grow with the international Symfony ecosystem! SymfonyCon Warsaw 2026 lands in Poland on November 26-27. Expect two full days of high-value talks across 3 tracks, paired with vibrant community side-events. Don't miss out—lock in…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-real-browsers-real-kernel-playwright-testing-in-symfony?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-22T15:49:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "cec219fae1e6",
+      "title": "AI Sovereignty: Bargaining with Big Tech and the Promise of Full Stack Open Source AI",
+      "description": "The early rapid expansion of AI capabilities that focused on frontier models was largely ushered into the world by a few powerful, US-based AI labs. Open-weight models released from labs in China, early on from DeepSeek, and later from Moonshot, Z.ai, and others, have in part disrupted that dominance. But growing concerns about the concentration […]",
+      "link": "https://www.oreilly.com/radar/ai-sovereignty-bargaining-with-big-tech-and-the-promise-of-full-stack-open-source-ai/",
+      "pubDate": "2026-09-22T11:00:29.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4afb6a6fb113",
       "title": "New in Symfony 8.2: Role Hierarchy Wildcards and Debugging",
       "description": "The role hierarchy lets you define which roles are included in other roles, so you don't have to assign all of them to each user. In applications with many roles, this configuration grows quickly and it's hard to tell which exact roles belong to a given user.…",
