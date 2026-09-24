@@ -2,6 +2,152 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "06f42acfff32",
+      "title": "Malicious Firefox Extension Poses as PDF Identity Verifier to Hijack Google Accounts",
+      "description": "Socket identified a Firefox extension that ships with no hardcoded malicious code and fetches a remote payload after installation to silently automate Google account takeover, targeting Portuguese- and Spanish-speaking users since September 11, 2026. Socket's Threat Research team identified a malicious Firefox extension posing as a utility for identity verification before opening protected PDF documents. The extension, pdf-para-texto@extensao.local, was published to the Firefox Add-ons store on…",
+      "link": "https://socket.dev/blog/firefox-google-account-takeover?utm_medium=feed",
+      "pubDate": "2026-09-23T21:37:15.973Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/51253d939aa12366a1677fb1fbd1d70ccaa5685d-3176x1434.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "93dca91662de",
+      "title": "MIRI’s Position on the Ban Artificial Superintelligence Act of 2026",
+      "description": "By Aaron Scher; endorsed by Bourgon, Soares, and Yudkowsky on behalf of MIRI. MIRI has been warning about the extinction threat from superintelligent AI for over two decades. Only recently has this danger become known in the policy world, and the proposed policies for dealing with the threat have to date been piecemeal and insufficient. […] The post MIRI’s Position on the Ban Artificial Superintelligence Act of 2026 appeared first on Machine Intelligence Research Institute.",
+      "link": "https://intelligence.org/2026/09/23/miris-position-on-the-ban-artificial-superintelligence-act-of-2026/",
+      "pubDate": "2026-09-23T19:22:42.000Z",
+      "source": "MIRI Blog",
+      "sourceUrl": "https://intelligence.org/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6400d70f6674",
+      "title": "MoE inference engineering, clearly explained",
+      "description": "...with visuals.",
+      "link": "https://blog.dailydoseofds.com/p/moe-inference-engineering-clearly",
+      "pubDate": "2026-09-23T18:11:47.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Slvc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbfd925b-02bf-4e59-8ca5-4dc1e2f5b5fe_1200x670.png",
+      "type": "blog"
+    },
+    {
+      "id": "e47986333e4f",
+      "title": "Gemini 3.8 TTS Playground",
+      "description": "Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts. They come with a library of over 2,000 voices, plus the ability to create a custom voice with \"just a 30-second audio sample of your voice or a voice you have the rights to use\". I vibe coded this bring-your-own-key playground interface with GPT-6 Astra, taking advantage of the open CORS policy of the underlying Gemini API. A notable feature of the API…",
+      "link": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+      "pubDate": "2026-09-23T17:12:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c81040207630",
+      "title": "Shadow roots, explained with live examples",
+      "description": "Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium: Build an artifact to explain shadow roots in CSS with interactive examples Tags: css",
+      "link": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+      "pubDate": "2026-09-23T16:37:18.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7b0c877a1a84",
+      "title": "Will TypeSafe’s Jev Change How We Build AI Applications?",
+      "description": "The following article originally appeared on Arize’s blog and is being reposted here with the author’s permission. This week the AI community was in uproar about Jev from TypeSafe, not just a new model but a new kind of model: one that classifies, scores, and routes but can’t write a sentence. The reason for the […]",
+      "link": "https://www.oreilly.com/radar/will-typesafes-jev-change-how-we-build-ai-applications/",
+      "pubDate": "2026-09-23T16:28:07.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/09/image-18.png",
+      "type": "blog"
+    },
+    {
+      "id": "70e2e456a4a4",
+      "title": "Stop Writing PHP Like This (8.6 Fixes It)",
+      "description": "This is how PHP 8.6 lets you write a string transformation, with no closures and no temp variables. $name = 'Scott Keck-Warren'; $fixed = $name |> str_replace('Scott', 'Alice', ?) |> strtolower(...); // string(17) \"alice keck-warren\" var_dump($fixed); It’s going to be released November 19, and I’ll also show you a deprecation that’s almost certainly in […] The post Stop Writing PHP Like This (8.6 Fixes It) appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/09/stop-writing-php-like-this-8-6-fixes-it/",
+      "pubDate": "2026-09-23T16:00:05.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "/wp-content/uploads/2026/09/Stop-Writing-PHP-Like-This-8.6-Fixes-It.png",
+      "type": "blog"
+    },
+    {
+      "id": "8c51eb80e2c2",
+      "title": "Case Study: Scanning for quality: How Yuka fuels healthy choices at global scale with Symfony",
+      "description": "Yuka is a global leader in health and environmental transparency. Available across iOS and Android, its mobile application helps over 68 million consumers worldwide decode food and cosmetic labels instantly. With a lean technical team of just five…",
+      "link": "https://symfony.com/blog/case-study-scanning-for-quality-how-yuka-fuels-healthy-choices-at-global-scale-with-symfony?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-23T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/Logo-Yuka.png",
+      "type": "blog"
+    },
+    {
+      "id": "9e77873fe3dc",
+      "title": "MCP Is Not Just Another API Standard",
+      "description": "Ask most engineers what MCP is and you’ll get the same answer: a way to plug tools into an LLM. Fair enough, as far as it goes. But that description treats MCP like plumbing, and after months building MCP-based integrations for large enterprise platforms, I don’t think plumbing is the right metaphor. Plumbing moves water […]",
+      "link": "https://www.oreilly.com/radar/mcp-is-not-just-another-api-standard/",
+      "pubDate": "2026-09-23T10:17:25.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "65a27eab56c9",
+      "title": "MemTensor npm and PyPI Packages Compromised in Credential-Stealing Supply Chain Attack",
+      "description": "The compromise affects MemTensor's MemOS, an open source memory framework for large language models (LLMs) and AI agents. Its main GitHub repository has about 11,500 stars and 1,100 forks. Four malicious releases, three of the npm package @memtensor/memos-cloud-openclaw-plugin and one of the PyPI package MemoryOS, each currently the latest version on its registry, drop cross-platform Go binaries that search developer home directories for secrets and report to servers under skyleen[.]fr.…",
+      "link": "https://socket.dev/blog/memtensor-compromise?utm_medium=feed",
+      "pubDate": "2026-09-23T09:16:58.512Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/4ba270879e99842479e2b973d553524d44f3c5ee-573x777.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
       "id": "465c3a3562b2",
       "title": "The Accelerationist Case for Frontier Pacing",
       "description": "The following article originally appeared on Venkatesh Rao’s Substack, Contraptions, and is being republished here with the author’s permission. The sole athletic achievement of my life came in 1993: winning the IIT Bombay freshman 50m freestyle race with a time of 41s. That got me into the college swim team (it was a bad recruitment […]",
@@ -117,6 +263,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dc04e7fec18a",
+      "title": "The Accelerationist Case for Frontier Pacing",
+      "description": "The following article originally appeared on Venkatesh Rao’s Substack, Contraptions, and is being republished here with the author’s permission. The sole athletic achievement of my life came in 1993: winning the IIT Bombay freshman 50m freestyle race with a time of 41s. That got me into the college swim team (it was a bad recruitment […]",
+      "link": "https://www.oreilly.com/radar/the-accelerationist-case-for-frontier-pacing/",
+      "pubDate": "2026-09-22T15:57:06.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/09/image-29.jpeg",
       "type": "blog"
     },
     {

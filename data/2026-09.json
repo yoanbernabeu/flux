@@ -2,6 +2,64 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "5b5220611151",
+      "title": "Jev, la nouvelle IA ultra-performante",
+      "description": "Le 15 septembre, TypeSafe Ai sa première IA fonctionnant avec un One System Model: Jev. En voici un aperçu. L’article Jev, la nouvelle IA ultra-performante est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/24/jev-la-nouvelle-ia-ultra-performante/",
+      "pubDate": "2026-09-24T05:09:16.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4904f67475b5",
+      "title": "Découverte des Container query en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/container-query-2353 Les media queries permettent d'adapter une interface à la taille de l'écran. C'est généralement suffisant, mais un composant peut aussi être placé dans une zone beaucoup plus étroite, comme une sidebar. Les container queries permettent alors d'appliquer des règles selon la taille de son conteneur plutôt que celle du viewport. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez…",
+      "link": "https://www.youtube.com/watch?v=iVrmngkmCmU",
+      "pubDate": "2026-09-23T13:00:27.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/iVrmngkmCmU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "iVrmngkmCmU"
+    },
+    {
+      "id": "8fa6dcc9da21",
+      "title": "Rentahuman.ai: the website where AIs employ humans",
+      "description": "Rentahuman.ai is a website where AI agents can \"hire\" humans for tasks that the latter cannot perform themselves. Even if it is only a playful experiment, this idea raises questions about the future of work and the abilities of AIs, which, according to the article, do not have autonomous will. L’article Rentahuman.ai: the website where AIs employ humans est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/23/rentahuman-ai-the-website-where-ais-employ-humans/",
+      "pubDate": "2026-09-23T10:00:26.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3976465e6554",
+      "title": "The Hidden Side of Vibe Coding",
+      "description": "Vibe coding, promoted by AI companies, appears to simplify application development, but this ease is deceptive. While the tools allow for rapid creations, building ambitious projects requires patience and skills. This new entrepreneurial paradigm demands versatility and tenacity, a reality often embellished by its promoters. L’article The Hidden Side of Vibe Coding est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/23/the-hidden-side-of-vibe-coding/",
+      "pubDate": "2026-09-23T09:53:45.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "89c9d3c7e1f5",
       "title": "Cybersécurité pour développeurs : 6 pièges qu'on voit chez nos clients",
       "description": "En 2025, l'exploitation de vulnérabilités a dépassé le vol d'identifiants comme premier point d'entrée des brèches. Injection SQL, XSS, secrets en dur, dépendances vulnérables, race conditions, IDOR : 6 pièges vus en mission chez nos clients, le correctif, et quand déléguer à la cybersécurité.",
@@ -54,6 +112,38 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/495563fb-1354-4dfd-8b0f-8d0382d0be15.mp3?_=1790078494",
       "duration": "52:07"
+    },
+    {
+      "id": "6be2d3f85436",
+      "title": "On a rendu Double Slash 100 % Agent Ready, et voilà comment",
+      "description": "Votre site est-il prêt pour les agents IA ? On a tout implémenté sur le podcast, on explique pourquoi et comment. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/agent-ready/",
+      "link": "https://double-slash.dev/podcasts/agent-ready/",
+      "pubDate": "2026-09-23T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1790161315/episode/ART_141_unbyjg.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_141_agent-ready.mp3",
+      "duration": "3115"
+    },
+    {
+      "id": "0905ecc3a3f2",
+      "title": "Utilisez le produit que vous construisez",
+      "description": "Il existe une pratique que j’apprécie particulièrement et qui reste pour moi le meilleur moyen de repérer les problèmes d’un produit, se nomme le “dog fooding”. Elle consiste à utiliser ses propres produits et services. C’est malheureusement une pratique que je vois trop peu utilisée. Et encore plus avec l’usage de l’IA où les développeurs font plus facilement confiance au code et aux tests générés. Les équipes de développement ont tendance à rester focus sur le code et à ne plus ouvrir…",
+      "link": "https://www.jdecool.fr/blog/2026/09/23/utilisez-le-produit-que-vous-construisez.html",
+      "pubDate": "2026-09-22T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "19efcb9ffbae",
