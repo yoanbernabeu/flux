@@ -2,6 +2,73 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "27f08fc22b3d",
+      "title": "Nantes Craft 2026",
+      "description": "Retour sur la 2e édition de Nantes Craft avec Ippon Technologies : découvrez notre résumé des conférences les plus captivantes de cette édition",
+      "link": "https://blog.ippon.fr/2026/09/25/nantes-craft-2026/",
+      "pubDate": "2026-09-25T08:24:09.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/PXL_20260910_133655569.MP.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "09ab0f9f65a5",
+      "title": "MACI #165 - Du vibe coding au design produit - Avec Ivan Dalmet",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on part d’un constat simple : l’IA permet de coder beaucoup plus vite, mais elle ne permet pas forcément de savoir plus vite quoi coder. Avec Ivan Dalmet, CTO de Peinture.app et cofondateur de BearStudio, on parle donc design produit, prototypage, spécifications et collaboration entre designers, développeurs et équipes produit. Et puis, comme à notre habitude, la discussion va vite s’étendre… des bonnes pratiques pour concevoir une…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-165-du-vibe-coding-au-design-produit-avec-ivan-dalmet",
+      "pubDate": "2026-09-25T07:49:37.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/Ie9s0ceVHVFN027rLcjucEo6hCwlsCjT1jB1059t_1400x1400.jpeg?t=1790322577",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/yEVj6hEA6Ekz.mp3?t=1790322130",
+      "duration": "1:01:54"
+    },
+    {
+      "id": "031102da6493",
+      "title": "#349.exe - Tech et Soft Skills: Pourquoi l'empathie fait la différence dans une équipe de dev ? par Salim Gomri",
+      "description": "Pour l'épisode #349 je recevais Sébastien Deleuze. On en débrief avec Salim. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-349-2f37f1e68483",
+      "pubDate": "2026-09-25T03:00:01.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/27d8368d-1a7d-4b00-ad17-2f37f1e68483.mp3?_=1790251261",
+      "duration": "15:37"
+    },
+    {
+      "id": "1faf19e360a7",
+      "title": "Comment Kozykod révolutionne les applications d’entreprise grâce au no-code",
+      "description": "Dans cet épisode de B2Biz, Michael Delvoye, fondateur de Misyl et de Kozykod, discute de l'automatisation des processus métiers, des solutions No-code et Low-code, et de la souveraineté des données. Il explique comment Kozykod améliore la productivité en remplaçant les systèmes Excel critiques, tout en intégrant l'intelligence artificielle. L’article Comment Kozykod révolutionne les applications d’entreprise grâce au no-code est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/24/comment-kozykod-revolutionne-les-applications-dentreprise-grace-au-no-code/",
+      "pubDate": "2026-09-24T13:11:24.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5b5220611151",
       "title": "Jev, la nouvelle IA ultra-performante",
       "description": "Le 15 septembre, TypeSafe Ai sa première IA fonctionnant avec un One System Model: Jev. En voici un aperçu. L’article Jev, la nouvelle IA ultra-performante est apparu en premier sur OlivierSauvage.com.",

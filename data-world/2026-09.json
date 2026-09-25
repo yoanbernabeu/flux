@@ -2,6 +2,125 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "f6facd6069b7",
+      "title": "New in Symfony 8.2: Faster Messenger Workers",
+      "description": "Parallel Message Processing Contributed by Nicolas Grekas in #63650…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-faster-messenger-workers?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-25T07:07:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "85851323ed15",
+      "title": "The PHP Podcast 2026.09.24",
+      "description": "🎙️ PHP Podcast – September 24, 2026 Hosts: Joe Ferguson, Sara Golemon & Holly Schilling Ian Littman joins the crew to talk PHP community and conferences. Longhorn PHP is three weeks out with a brand new format, the industry keeps shifting under everyone’s feet, and RAM prices remain a personal insult. The hallway track survives […] The post The PHP Podcast 2026.09.24 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-09-24/",
+      "pubDate": "2026-09-24T23:20:15.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/09/O8gnXxMzR_k-maxresdefault.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ca9735f3d9c0",
+      "title": "Re-Enabled GitHub Actions Expose Thousands of Repositories to Mini Shai-Hulud",
+      "description": "Update, September 25, 2026: both actions-cool/issues-helper and actions-cool/maintain-one-comment have been disabled on GitHub again, so workflows referencing them now fail at job setup instead of running the payload. Two actions-cool GitHub Actions, issues-helper and maintain-one-comment, were compromised and disabled during the May 2026 Mini Shai-Hulud campaign. Both became reachable again on September 16, 2026, and their release tags still point to malicious code, so every workflow that…",
+      "link": "https://socket.dev/blog/mini-shai-hulud-actions?utm_medium=feed",
+      "pubDate": "2026-09-24T21:14:48.798Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/919f98150d3c266a25d7de0d4cad9c92461a2dd2-664x584.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "0df6b5903a09",
+      "title": "Build a Jev Judge ",
+      "description": "Judgement does not need text generation...",
+      "link": "https://blog.dailydoseofds.com/p/build-a-jev-judge",
+      "pubDate": "2026-09-24T20:48:47.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!p-e3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f78bf90-e949-4742-a955-70c7bcfa4f2b_650x456.png",
+      "type": "blog"
+    },
+    {
+      "id": "5159a3d492b2",
+      "title": "commit-rewriter 0.2",
+      "description": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git",
+      "link": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+      "pubDate": "2026-09-24T20:06:53.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0fc7c0f362de",
+      "title": "datasette 1.0a41",
+      "description": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use. Tags: javascript, datasette, web-components, alex-garcia, opentelemetry",
+      "link": "https://simonwillison.net/2026/Sep/24/datasette/",
+      "pubDate": "2026-09-24T19:15:23.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "abb29480226e",
+      "title": "SymfonyCon Warsaw 2026: PHP’s Type System Dissected",
+      "description": "Looking to supercharge your PHP and Symfony expertise? SymfonyCon Warsaw 2026 is coming to Poland on November 26-27! Join developers from across the globe for two days packed with insight, featuring 3 parallel tracks and engaging community events.…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-php-s-type-system-dissected?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-24T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "bfc6a8a661f1",
+      "title": "New in Symfony 8.2: Provider-Hosted Email Templates and Tracking Control",
+      "description": "Provider-Hosted Templates Contributed by Florent Blaison and Nicolas…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-provider-hosted-email-templates-and-tracking-control?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-24T07:27:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/Orkin.picture",
+      "type": "blog"
+    },
+    {
       "id": "06f42acfff32",
       "title": "Malicious Firefox Extension Poses as PDF Identity Verifier to Hijack Google Accounts",
       "description": "Socket identified a Firefox extension that ships with no hardcoded malicious code and fetches a remote payload after installation to silently automate Google account takeover, targeting Portuguese- and Spanish-speaking users since September 11, 2026. Socket's Threat Research team identified a malicious Firefox extension posing as a utility for identity verification before opening protected PDF documents. The extension, pdf-para-texto@extensao.local, was published to the Firefox Add-ons store on…",
