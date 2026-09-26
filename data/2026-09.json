@@ -2,6 +2,35 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "2094e469c9da",
+      "title": "IA en PME B2 : l’intelligence artificielle, la bête noire des patrons ?",
+      "description": "Un grand nombre de personnes se sentent perdues face aux outils d'IA omniprésents, incapables d'en tirer profit. Bien que ces technologies aient le potentiel de stimuler la productivité, leur intégration dans les entreprises est entravée par des résistances et des craintes managériales. La transformation est freinée par une culture organisationnelle rigide qui limite l'initiative des employés. L’article IA en PME B2 : l’intelligence artificielle, la bête noire des patrons ? est apparu en…",
+      "link": "https://oliviersauvage.com/2026/09/25/ia-en-pme-b2-lintelligence-artificielle-la-bete-noire-des-patrons/",
+      "pubDate": "2026-09-25T12:07:41.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e2a8a89a99f5",
+      "title": "D'un ADE à un orchestrator : la construction de PABLO",
+      "description": "Mes agents sont devenus plus rapides. Mon cerveau, non. Où nous en étions Dans mon article précédent, je décrivais mon environnement de travail : un Agent Development Environment, non pas un IDE avec un panneau de conversation greffé, mais un outil construit autour de tâches, de worktrees et d'agents. Je prends une issue, l'ADE ouvre un worktree isolé avec un agent déjà en cours d'exécution, et je dirige cet agent au lieu de taper du code. Par-dessus se trouvent les agents que j'ai affinés…",
+      "link": "https://jolicode.com/blog/d-un-ade-a-un-orchestrator-la-construction-de-pablo",
+      "pubDate": "2026-09-25T09:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/pablo-orchestrator/mermaid-diagram-2026-09-21-100259.png",
+      "type": "blog"
+    },
+    {
       "id": "27f08fc22b3d",
       "title": "Nantes Craft 2026",
       "description": "Retour sur la 2e édition de Nantes Craft avec Ippon Technologies : découvrez notre résumé des conférences les plus captivantes de cette édition",

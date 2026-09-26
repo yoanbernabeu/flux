@@ -2,6 +2,94 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "3dcb4ffb7172",
+      "title": "Contrastive Language Model, clearly explained",
+      "description": "NVIDIA and Stanford just challenged Jev...",
+      "link": "https://blog.dailydoseofds.com/p/contrastive-language-model-clearly",
+      "pubDate": "2026-09-25T22:33:07.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!YP7f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b5b579f-7cee-4874-b514-3df6bed90a17_2360x1866.png",
+      "type": "blog"
+    },
+    {
+      "id": "79305160e1c7",
+      "title": "Socket Joins New OpenJS Program to Fund Node.js Security Work",
+      "description": "Socket has joined the OpenJS Foundation’s new Security Stewardship Program as an inaugural partner, helping fund vulnerability research, triage, patching, and security releases across the JavaScript ecosystem. The program launches with an initial focus on Node.js, where the security workload is growing faster than the funding available to support it. “AI is driving a sharp rise in vulnerability reports, pushing many open source projects to shut down their bug bounty programs. The bottleneck is…",
+      "link": "https://socket.dev/blog/openjs-nodejs-security?utm_medium=feed",
+      "pubDate": "2026-09-25T20:59:05.513Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b467d6accdc2",
+      "title": "Quoting John Gruber",
+      "description": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as a cute mascot. It’s the first consumer-accessible agentic AI system, and Meta has truly done an amazing job with that. But it’s a genuinely open question whether consumers have any understanding what this means. If you buy a…",
+      "link": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "pubDate": "2026-09-25T17:22:01.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e4255a8df84",
+      "title": "Human Judgment Doesn’t Leave the Software Factory, It Relocates",
+      "description": "The following article originally appeared on Elevate and is being reposted here with the author’s permission. A software factory is a repeatable loop around software work. If you’re building a software factory, code good enough to ship still needs human taste and ownership. We’ll discuss this including whether you need a factory just yet. If […]",
+      "link": "https://www.oreilly.com/radar/human-judgment-doesnt-leave-the-software-factory-it-relocates/",
+      "pubDate": "2026-09-25T15:56:51.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/09/image-19-1600x900.png",
+      "type": "blog"
+    },
+    {
+      "id": "c05f788157d5",
+      "title": "Agent Experience Engineering: Designing Software Agents Can Work With",
+      "description": "What Agent Experience engineering means in practice: discoverable code paths, scoped agent instructions, useful feedback, and human ownership of risky decisions. Read more",
+      "link": "https://freek.dev/3195-agent-experience-engineering-designing-software-agents-can-work-with",
+      "pubDate": "2026-09-25T12:58:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b1dad58c4913",
+      "title": "New in Twig 4.0: Composing Blocks at Runtime",
+      "description": "Contributed by Fabien Potencier A CMS often lets each site customize how content fields are displayed. The default theme…",
+      "link": "https://symfony.com/blog/new-in-twig-4-0-composing-blocks-at-runtime?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-25T08:58:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/fabpot.png",
+      "type": "blog"
+    },
+    {
       "id": "f6facd6069b7",
       "title": "New in Symfony 8.2: Faster Messenger Workers",
       "description": "Parallel Message Processing Contributed by Nicolas Grekas in #63650…",
@@ -14,6 +102,36 @@
         "Web"
       ],
       "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "078f2955607a",
+      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+      "description": "Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CANew 200-800mm Canon EF lens got me my best photo of Morris yet. They really like hanging out under that sign in the harbor! Tags: photography, wildlife",
+      "link": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+      "pubDate": "2026-09-25T02:07:04.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eee7ce72da23",
+      "title": "Note on 24th September 2026",
+      "description": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge. Tags: coding-agents, ai, llms",
+      "link": "https://simonwillison.net/2026/Sep/24/harder/",
+      "pubDate": "2026-09-24T23:31:08.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -893,6 +1011,21 @@
       "description": "How To Write With An LLM Thomas Ptacek on using LLMs as copyeditors, not as writing assistants: Rule Number One: You may not use a single word an LLM suggests to you. [...] I think that as a form of intellectual personal protective equipment you should adopt the rule that any specific turn of phrase an LLM suggests is off limits. Be strict about the rule! I won't let LLMs write content for my blog, but I use them for fact-checking, spelling and grammar and as an occasional thesaurus (see my…",
       "link": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
       "pubDate": "2026-09-17T23:37:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "60485dd1ae9f",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "description": "My comment on Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint &mdash; Hacker News.If you want to try out out the GGUFs from https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf#th... be aware that you need Prism's llama.cpp fork to get them to work, from https://github.com/PrismML-Eng/llama.cpp/releases/tag/prism-... This should work: cd /tmp # Get the Prism macOS runtime curl -fL…",
+      "link": "https://simonwillison.net/2026/Sep/17/hn-49747390/",
+      "pubDate": "2026-09-17T22:13:05.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
       "categories": [
