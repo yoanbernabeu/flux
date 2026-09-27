@@ -2,6 +2,36 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "b8a8c36018b3",
+      "title": "A Week of Symfony #1030 (September 21–27, 2026)",
+      "description": "This week, Symfony continued unveiling new Symfony 8.2 features, including new Messenger options and better performance, role hierarchy improvements, JSON Schema for configuration, and new Mailer features. In addition, Symfony UX 3.5 was released with a new…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1030-september-21-27-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-27T07:51:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "669d8cd0cb0c",
+      "title": "Kākāpō Party",
+      "description": "Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026. For my closing slide I wanted to celebrate, and I had seen some buzz around how good Claude Opus 5.5 was at creating pixel art animations. So I rounded up three Kakapo photos from Google image search and dropped them into Claude with this prompt: Here are some photos of…",
+      "link": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+      "pubDate": "2026-09-26T23:39:06.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3dcb4ffb7172",
       "title": "Contrastive Language Model, clearly explained",
       "description": "NVIDIA and Stanford just challenged Jev...",

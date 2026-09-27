@@ -2,6 +2,40 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "5f8c5260c555",
+      "title": "FrankenDeploy : votre application Symfony en production sur un VPS, en cinq commandes",
+      "description": "Docker, pare-feu, certificat HTTPS, mise en ligne sans coupure : l'essentiel de ce qui sépare « ça marche en local » de « c'est en ligne », FrankenDeploy s'en charge. Démonstration avec la Symfony Demo, d'un VPS nu jusqu'au HTTPS.",
+      "link": "https://yoandev.co/frankendeploy-deployer-symfony-vps",
+      "pubDate": "2026-09-26T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/frankendeploy-deployer-symfony-vps.webp",
+      "type": "blog"
+    },
+    {
+      "id": "918020f2f79d",
+      "title": "J'aurais dû répéter",
+      "description": "C'est le matin de mon talk à Confitura, à Varsovie. Les slides sont prêtes. Ce que je voulais faire ce matin était simple : écouter quelques passages de mon talk lus à voix haute, pour vérifier ma prononciation en anglais. Je m'explique. Je suis un Espagnol perdu en Bretagne. J'ai un accent dans toutes les langues que je parle, et l'anglais reste toujours un petit défi. Avant un talk, entendre les phrases difficiles dites par quelqu'un d'autre m'aide beaucoup. J'ai donc sélectionné un…",
+      "link": "https://lostinbrittany.dev/fr/jaurais-du-repeter/",
+      "pubDate": "2026-09-26T00:00:00.000Z",
+      "source": "Lost in Brittany (Horacio Gonzalez)",
+      "sourceUrl": "https://lostinbrittany.dev/fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://lostinbrittany.dev/img/posts/2026-09-26-i-should-have-been-rehearsing.png",
+      "type": "blog"
+    },
+    {
       "id": "2094e469c9da",
       "title": "IA en PME B2 : l’intelligence artificielle, la bête noire des patrons ?",
       "description": "Un grand nombre de personnes se sentent perdues face aux outils d'IA omniprésents, incapables d'en tirer profit. Bien que ces technologies aient le potentiel de stimuler la productivité, leur intégration dans les entreprises est entravée par des résistances et des craintes managériales. La transformation est freinée par une culture organisationnelle rigide qui limite l'initiative des employés. L’article IA en PME B2 : l’intelligence artificielle, la bête noire des patrons ? est apparu en…",
