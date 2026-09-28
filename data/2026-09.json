@@ -2,6 +2,83 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "721b986d2d35",
+      "title": "AI in B2 SMEs: Artificial Intelligence, the bane of bosses?",
+      "description": "Many people feel lost when faced with omnipresent AI tools, unable to benefit from them. Although these technologies have a big potential of boosting productivity, their incorporation into businesses is hampered by managerial resistance and fears. The transformation is slowed by a rigid organisational culture that limits employee initiative. L’article AI in B2 SMEs: Artificial Intelligence, the bane of bosses? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/28/ai-in-b2-smes-artificial-intelligence-the-bane-of-bosses/",
+      "pubDate": "2026-09-28T09:30:41.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "56714977843c",
+      "title": "Relation client, aide à l’achat,vente : reprendre le contrôle de vos chatbots",
+      "description": "Les chatbots, initialement perçus comme une solution idéale pour le service client, peuvent engendrer des problèmes imprévus, comme des conseils erronés ou des recommandations non sollicitées. Les entreprises doivent analyser et améliorer leur fonctionnement, tout en exploitant les échanges clients pour créer un contenu pertinent et répondre efficacement aux besoins. L’article Relation client, aide à l’achat,vente : reprendre le contrôle de vos chatbots est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/09/28/relation-client-aide-a-lachatvente-reprendre-le-controle-de-vos-chatbots/",
+      "pubDate": "2026-09-28T07:03:46.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8bdbfdb23f8f",
+      "title": "Déployer Symfony sur un VPS, sans être expert DevOps 👌",
+      "description": "Ton application Symfony tourne en local, et tu veux la mettre en ligne sur un petit serveur, avec une vraie adresse et le cadenas HTTPS ? C'est souvent là que tout se complique : Docker, pare-feu, certificats, nom de domaine… un tout autre métier que le développement. Dans cette vidéo, je te présente FrankenDeploy, l'outil open source que j'ai créé pour que cette étape ne soit plus un obstacle. Et on passe tout de suite à la pratique : on déploie la Symfony Demo sur un VPS tout neuf, de la…",
+      "link": "https://www.youtube.com/watch?v=MNQHHzpRoVM",
+      "pubDate": "2026-09-27T16:00:30.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/MNQHHzpRoVM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "MNQHHzpRoVM"
+    },
+    {
+      "id": "c9fce329a694",
+      "title": "Vos agents IA fonctionnent. Maintenant, réduisez la facture - Gen AI Nantes #20",
+      "description": "Faire fonctionner ses agents, c’est une chose. Les rendre efficaces, rapides et économiquement viables, c’est le véritable défi. Ces deux dernières années, les LLM ont prouvé qu’ils pouvaient écrire du code, piloter des agents et orchestrer des workflows complexes. Aujourd’hui, Claude Code, Codex, OpenClaw et d’autres deviennent de véritables plateformes d’exécution. Et les tokens sont leur nouvelle bande passante : chaque instruction, chaque morceau de contexte et chaque résultat en consomme.…",
+      "link": "https://www.youtube.com/watch?v=grGRlP2GYqQ",
+      "pubDate": "2026-09-27T14:44:06.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/grGRlP2GYqQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "grGRlP2GYqQ"
+    },
+    {
+      "id": "a81ea18f2005",
+      "title": "Classer du texte avec l'IA en Laravel (AI SDK 1.0)",
+      "description": "Le Laravel AI SDK 1.0 ajoute une nouvelle API : Classification::of(). 🤖 Au lieu de générer du texte, on pose des questions fermées à l'IA (oui/non, choix, score) et on reçoit des probabilités qu'on peut utiliser directement dans le code. Pas de prompt à écrire, pas de JSON à valider. Dans cette vidéo, on construit une commande Artisan qui trie automatiquement des tickets de support : ✅ Est-ce une plainte ? (Boolean) ✅ Quel service doit s'en occuper ? (Choice) ✅ Quel est le niveau d'urgence ?…",
+      "link": "https://www.youtube.com/watch?v=0NLsjSDi8kk",
+      "pubDate": "2026-09-27T10:11:05.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/0NLsjSDi8kk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "0NLsjSDi8kk"
+    },
+    {
       "id": "5f8c5260c555",
       "title": "FrankenDeploy : votre application Symfony en production sur un VPS, en cinq commandes",
       "description": "Docker, pare-feu, certificat HTTPS, mise en ligne sans coupure : l'essentiel de ce qui sépare « ça marche en local » de « c'est en ligne », FrankenDeploy s'en charge. Démonstration avec la Symfony Demo, d'un VPS nu jusqu'au HTTPS.",

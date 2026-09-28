@@ -2,6 +2,81 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "23b3cb04ba30",
+      "title": "New in Symfony 8.2: OpenID Connect Login",
+      "description": "OpenID Connect (OIDC) is the protocol behind most \"Log in with ...\" buttons. It lets your application delegate user authentication to an identity provider such as Keycloak, Authentik, Auth0, Okta or Microsoft Entra ID. Symfony 6.3 added OIDC token handlers…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-openid-connect-login?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-28T07:27:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/welcomattic.picture",
+      "type": "blog"
+    },
+    {
+      "id": "1fb466641ec8",
+      "title": "Quoting Muse AI Agent",
+      "description": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating. Worse, my auto-reply told him \"Yep I'm here!\" at 9:27 when you clearly weren't available, which is on me. That's a bad look and it made the no-show worse. I've sent him an apology from your account owning it and offering to try again another day. But the negative rating is real, and I should probably stop…",
+      "link": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+      "pubDate": "2026-09-28T04:01:30.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7db4974c11eb",
+      "title": "2026 in LLMs (so far)",
+      "description": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video is on YouTube; here are my annotated slides and notes to accompany the talk. And as an annotated presentation: # I'm going to give a lightning tour of everything that has happened so far in 2026. The year isn't over yet! # For me, 2026 started a couple of months…",
+      "link": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+      "pubDate": "2026-09-27T23:54:15.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "97397d7fa75c",
+      "title": "S3 Is the Future, S3 Is the Past",
+      "description": "My comment on S3 Is the Future, S3 Is the Past &mdash; Hacker News.One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in a full decade: 2006-03-14 $0.150/GB-month 2010-11-01 $0.140/GB-month 2012-02-01 $0.125/GB-month 2012-12-01 $0.095/GB-month 2014-02-01 $0.085/GB-month 2014-04-01 $0.030/GB-month 2016-12-01 $0.023/GB-month Today it's still $0.023/GB-month. Tags: amazon-web-services, s3",
+      "link": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+      "pubDate": "2026-09-27T23:09:19.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f5edbd3b23d9",
+      "title": "Bluesky reply bot checker",
+      "description": "Tool: Bluesky reply bot checker Automated reply bots on Twitter are a scourge - as someone with a decent number of followers I attract a swarm of these, such that anything I post there attracts dozens of mindless automated replies. They've started manifesting on Bluesky as well. Unlike Twitter, Bluesky still has a freely available and useful API. The lack of such a thing doesn't slow down the bots, but it does make investigating them a lot more frustrating. So I had Opus 5.5 vibe code this…",
+      "link": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+      "pubDate": "2026-09-27T18:41:44.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b8a8c36018b3",
       "title": "A Week of Symfony #1030 (September 21–27, 2026)",
       "description": "This week, Symfony continued unveiling new Symfony 8.2 features, including new Messenger options and better performance, role hierarchy improvements, JSON Schema for configuration, and new Mailer features. In addition, Symfony UX 3.5 was released with a new…",
@@ -266,6 +341,21 @@
         "Web"
       ],
       "image": "https://connect.symfony.com/profile/Orkin.picture",
+      "type": "blog"
+    },
+    {
+      "id": "03a38f20f962",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "description": "My comment on We just shipped support for the ugliest part of HTTP: Vary &mdash; Hacker News.I've been wanting this from Cloudflare for years. The classic problem here is if you do that thing where user agents that send \"accept: text/html\" get HTML, while user agents that don't get JSON or some other format. This used to be impossible to deploy behind Cloudflare caching, because they ignored the Vary header on anything other than images - so you risked caching the JSON version and then serving…",
+      "link": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
+      "pubDate": "2026-09-23T23:14:57.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
