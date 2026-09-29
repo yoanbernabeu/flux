@@ -2,6 +2,109 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "2b6dfccbea05",
+      "title": "New in Symfony 8.2: PGP/MIME Signed and Encrypted Emails",
+      "description": "Symfony has supported signing and encrypting email messages with the S/MIME standard since Symfony 4.4, and Symfony 7.3 added global signing and encryption so you can configure it once for all your emails. However, S/MIME relies on X.509 certificates issued…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-pgp-mime-signed-and-encrypted-emails?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-29T07:32:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/spomky_.picture",
+      "type": "blog"
+    },
+    {
+      "id": "64e27cc1872e",
+      "title": "Claude Sonnet 5.5",
+      "description": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles. Sonnet 5.5 suffered from the same bug as Opus 5.5: the \"max\" thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG. Here's the pelican it…",
+      "link": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+      "pubDate": "2026-09-28T22:07:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ddc53f40aa22",
+      "title": "Quoting @joedaroo",
+      "description": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ingrain it in the culture of the company. The literal people themselves in your organization have to change and evolve with it. These jumps in capabilities were so fast and so sudden…",
+      "link": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+      "pubDate": "2026-09-28T19:11:42.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "40a3eb8f5bce",
+      "title": "System 1 vs. System 2 Agent Harnesses, clearly explained",
+      "description": "...and a",
+      "link": "https://blog.dailydoseofds.com/p/system-1-vs-system-2-agent-harnesses",
+      "pubDate": "2026-09-28T18:55:50.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!abQm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bd91f97-33fb-4f35-9daf-975e00b7f7d7_2160x2160.png",
+      "type": "blog"
+    },
+    {
+      "id": "dcbd9ddf650e",
+      "title": "Web Workers: A Second Thread for Your JavaScript",
+      "description": "Large photo uploads can be slow, but resizing and compressing images in the browser can freeze the page if the work runs on the main thread. This article shows how to use a Web Worker to process images before uploading them without interrupting the app. Read more",
+      "link": "https://freek.dev/3196-web-workers-a-second-thread-for-your-javascript",
+      "pubDate": "2026-09-28T12:06:24.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4c42a58c1c35",
+      "title": "Symfony Reprise 1.3.0 released",
+      "description": "Reprise 1.3.0 is out, with modulepreload under a strict CSP, a Stimulus dev loop without restarts, and safer writes of the metadata files. This is also the first release post since Reprise 1.0, so it covers three earlier changes that only got a changelog…",
+      "link": "https://symfony.com/blog/symfony-reprise-1-3-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-28T11:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/Kocal.png",
+      "type": "blog"
+    },
+    {
+      "id": "088c5732b30d",
+      "title": "From Raw Data to Graph-Native AI",
+      "description": "I’ve been thinking about a gap in the way we discuss graphs in AI. Most of the conversation starts after the graph already exists. We talk about graph neural networks, GraphRAG, graph agents, and graph foundation models. We spend much less time on the step that determines what all of them can do: turning raw […]",
+      "link": "https://www.oreilly.com/radar/from-raw-data-to-graph-native-ai/",
+      "pubDate": "2026-09-28T10:54:31.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/09/image-30-1600x800.png",
+      "type": "blog"
+    },
+    {
       "id": "23b3cb04ba30",
       "title": "New in Symfony 8.2: OpenID Connect Login",
       "description": "OpenID Connect (OIDC) is the protocol behind most \"Log in with ...\" buttons. It lets your application delegate user authentication to an identity provider such as Keycloak, Authentik, Auth0, Okta or Microsoft Entra ID. Symfony 6.3 added OIDC token handlers…",
@@ -27,6 +130,21 @@
       "categories": [
         "IA",
         "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f5660a4f4c27",
+      "title": "Kicking Off the Community Events Coalition Special Interest Group",
+      "description": "Community events are the lifeblood of the PHP ecosystem. They're where people come to learn from each other, meet new people, expand their professional networks, build things together, strengthen friendships, sharpen their public speaking skills, and experience the power of belonging to a community. Most importantly, community events are where we build trust with each other. Trust has never been more important than it is today. It's always been a challenge in our industry, because so much of…",
+      "link": "https://thephp.foundation/blog/2026/09/28/kicking-off-the-community-events-coalition-sig/",
+      "pubDate": "2026-09-28T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
