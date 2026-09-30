@@ -2,6 +2,197 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "68dcaa6442dd",
+      "title": "New in Symfony 8.2: Sudo Mode",
+      "description": "In Symfony, IS_AUTHENTICATED_FULLY is the strongest check about how users logged in. However, it tells you how the session started, not when. A user who logged in with their password eight hours ago and left the laptop unlocked is still fully authenticated,…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-sudo-mode?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-30T07:17:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "c48f1ff5058b",
+      "title": "Quoting Anthropic Frontier Red Team",
+      "description": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful threshold has clearly been crossed: earlier models, like Claude Opus 4.6 and GLM-5.2, do not succeed in any of them. &mdash; Anthropic Frontier Red Team, GLM-5.3 and the spread of advanced cyber…",
+      "link": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+      "pubDate": "2026-09-29T22:20:28.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "81a897fc6953",
+      "title": "Build a real-time hotel booking voice agent",
+      "description": "...explained with code.",
+      "link": "https://blog.dailydoseofds.com/p/build-a-real-time-hotel-booking-voice",
+      "pubDate": "2026-09-29T21:14:18.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!nkXy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc52738e-a074-4582-8dc0-6c2b8b8f1ceb_960x675.gif",
+      "type": "blog"
+    },
+    {
+      "id": "41625591abfe",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "description": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price &mdash; Hacker News.I'm a bit late with the pelicans because I was live-blogging the keynote: https://simonwillison.net/2026/Sep/29/openai-devday-2026-liv... Here they are for GPT-6.1-Sol: https://tools.simonwillison.net/markdown-svg-renderer?url=ht... They're not notably different from the GPT-6 family pelicans: https://static.simonwillison.net/static/2026/gpt-pelicans-gr... Tags: ai, openai, generative-ai, llms,…",
+      "link": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+      "pubDate": "2026-09-29T18:27:48.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "421b46316e2f",
+      "title": "Superpowers for Humans",
+      "description": "I’ve known Jesse Vincent for more than 20 years, since the days when I was still editing and publishing Perl books and organizing the Perl Conference and he was the chief maintainer of Perl 5 and the project manager for Perl 6. We’d lost touch, but he rocketed back into my consciousness last October when […]",
+      "link": "https://www.oreilly.com/radar/superpowers-for-humans/",
+      "pubDate": "2026-09-29T18:05:19.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d3b185d971ab",
+      "title": "OpenAI DevDay 2026 live blog",
+      "description": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai, openai, generative-ai, llms, coding-agents, live-blog, openai-devday",
+      "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+      "pubDate": "2026-09-29T15:55:13.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c037199ec4f9",
+      "title": "upm Launches as a Fast, Tiny Package Manager Written in TypeScript",
+      "description": "There's a new package manager in town, and this one fits in about 250 KB. Pooya Parsa, a longtime Nuxt contributor and creator of Nitro and UnJS, has introduced upm, a TypeScript package manager for the npm registry that uses Node.js's built-in networking, worker threads, compression, and filesystem tools. It has a JavaScript API, reads supported .npmrc settings, and can install from several other package managers' lockfiles. With so many package managers already out there, do we really need…",
+      "link": "https://socket.dev/blog/upm-package-manager?utm_medium=feed",
+      "pubDate": "2026-09-29T15:38:50.644Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/1969c149710b8b59f54b699d7346111df7dc2a7f-2240x1440.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "ae75279bf60b",
+      "title": "Not About Navier-Stokes",
+      "description": "This post isn’t about OpenAI’s use of AI to solve the Navier-Stokes problem, one of the Millennium Prize problems, at least not directly. I’m not a mathematician; I have a vague understanding of the problem and certainly no understanding of the proof. But the discussion surrounding the solution crystallized some of my own thoughts about […]",
+      "link": "https://www.oreilly.com/radar/not-about-navier-stokes/",
+      "pubDate": "2026-09-29T14:41:53.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f6f4a670a5d3",
+      "title": "Symfony 8.1.8 released",
+      "description": "Symfony 8.1.8 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-1-8-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-29T14:10:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5f144564e986",
+      "title": "Symfony 7.4.20 released",
+      "description": "Symfony 7.4.20 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-7-4-20-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-29T14:07:35.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a8b07d17c487",
+      "title": "Symfony 6.4.47 released",
+      "description": "Symfony 6.4.47 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-6-4-47-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-29T14:04:38.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9fea265d545d",
+      "title": "Ruthless prioritization while the dog pees on the floor",
+      "description": "Jason Cohen shares a blunt framework for separating the rare 10x opportunities from the many 0.1x tasks that quietly consume time. It is a strong piece on ruthless prioritization, delegation, and why most backlogs should be archived instead of endlessly maintained. Read more",
+      "link": "https://freek.dev/3197-ruthless-prioritization-while-the-dog-pees-on-the-floor",
+      "pubDate": "2026-09-29T12:30:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f7f8be89ac7f",
+      "title": "A Data Center Is a Dependency Graph Before It Is a Building",
+      "description": "The buildings and physical infrastructure for a new hyperscale data-center region are complete. Power is live and redundant, the cooling loops are balanced, the network fabric is up, and tens of thousands of machines are racked, cabled, and reporting healthy. Every milestone on the construction schedule is closed. The region will not carry production traffic […]",
+      "link": "https://www.oreilly.com/radar/a-data-center-is-a-dependency-graph-before-it-is-a-building/",
+      "pubDate": "2026-09-29T10:55:45.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2b6dfccbea05",
       "title": "New in Symfony 8.2: PGP/MIME Signed and Encrypted Emails",
       "description": "Symfony has supported signing and encrypting email messages with the S/MIME standard since Symfony 4.4, and Symfony 7.3 added global signing and encryption so you can configure it once for all your emails. However, S/MIME relies on X.509 certificates issued…",
@@ -14,6 +205,21 @@
         "Web"
       ],
       "image": "https://connect.symfony.com/profile/spomky_.picture",
+      "type": "blog"
+    },
+    {
+      "id": "55cbadf85437",
+      "title": "Meet bunny.net: A PHP Foundation Sponsor supporting the language that powers the web it delivers",
+      "description": "Starting June 2026, bunny.net joined the PHP Foundation as a Silver Sponsor, reinforcing its commitment to the open-source technologies that keep a huge share of the modern web online. bunny.net is a European web infrastructure platform with 119 points of presence worldwide that brings together content delivery (DNS, CDN, video), security (WAF, DDoS and bot protection), and a developer platform (app containers, serverless functions, database and S3-compatible storage). In this way, bunny.net…",
+      "link": "https://thephp.foundation/blog/2026/09/29/meet-bunny-dot-net/",
+      "pubDate": "2026-09-29T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

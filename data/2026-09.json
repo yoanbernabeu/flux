@@ -2,6 +2,90 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "29d1a4d80d89",
+      "title": "Ce que le numérique responsable doit à l'autonomie stratégique (et réciproquement)",
+      "description": "Numérique responsable et souveraineté numérique sont parfois traité séparément, alors qu'ils reposent sur une même logique décrite dans deux vocabulaires distincts. Tous deux refusent le même réflexe : faire payer ailleurs, ou plus tard, le prix de ce qu'on décide ici et maintenant. Et ces deux agendas peuvent être un levier l'un pour l'autre.",
+      "link": "https://blog.octo.com/ce-que-le-numerique-responsable-doit-a-l'autonomie-strategique-(et-reciproquement)",
+      "pubDate": "2026-09-30T09:01:32.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e9491ff5e423",
+      "title": "Générer son UI avec l'IA : intégrer GenUI et Firebase AI Logic dans une app Flutter",
+      "description": "Et si l'interface de votre application n'était plus figée dans le code, mais générée à la volée par un modèle d'IA en fonction de la conversation avec l'utilisateur ? C'est la promesse de la generative UI (GenUI).",
+      "link": "https://blog.ippon.fr/2026/09/30/generer-son-ui-avec-lia-integrer-genui-et-firebase-ai-logic-dans-une-app-flutter/",
+      "pubDate": "2026-09-30T07:53:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/ChatGPT-Image-23-sept.-2026--15_37_47.png",
+      "type": "blog"
+    },
+    {
+      "id": "8b3e755e8302",
+      "title": "#378.ad - Renforcer la donnée: La donnée, grande oubliée du multicloud avec Christophe Francois",
+      "description": "\"Aujourd'hui, tout le monde s'enorgueillit de faire du cloud native, mais qui pense vraiment à construire sa sauvegarde et à restaurer ses données partout, et soit vraiment partout ?\" Le D.E.V. de la semaine est Christophe François, Directeur des ventes Europe du Sud chez Veeam, en charge de l'offre de sauvegarde Kasten. Dans cet épisode, nous explorons pourquoi la donnée reste le grand oublié des stratégies multicloud et comment repenser la sauvegarde à l'ère de Kubernetes. Christophe nous…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-378-faec7756bbd7",
+      "pubDate": "2026-09-30T03:00:23.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/b1ae5438-5035-49c3-acc2-201f0df8da9e.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/44d3561f-a515-4e23-9ca1-faec7756bbd7.mp3?_=1790683283",
+      "duration": "51:07"
+    },
+    {
+      "id": "f8648d49ce3c",
+      "title": "IA & Craftsmanship : l’outil qui révolutionne l’artisanat 🤖🛠️",
+      "description": "Et si l’intelligence artificielle devenait le nouvel allié des artisans ? 🤝 De la conception à la personnalisation, en passant par l’optimisation des gestes et des processus, l’IA ouvre de nouvelles possibilités pour les métiers d’art et le savoir-faire traditionnel. Mais peut-elle vraiment enrichir le geste humain sans remplacer le savoir-faire ? Découvrez comment technologie et artisanat peuvent se réinventer ensemble. #IA #IntelligenceArtificielle #Craftsmanship #Artisanat #Innovation #Tech…",
+      "link": "https://www.youtube.com/watch?v=bAFPvMxz02w",
+      "pubDate": "2026-09-29T15:43:55.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/bAFPvMxz02w/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "bAFPvMxz02w"
+    },
+    {
+      "id": "b99ef53ee994",
+      "title": "Femmes CTO : briser les stéréotypes, affirmer sa place 🚀",
+      "description": "Être une femme CTO, c’est bien plus que diriger une équipe tech. C’est aussi faire sa place dans un environnement où les stéréotypes persistent, imposer sa voix et ouvrir la voie à celles qui viendront après. 💡 Leadership, confiance, légitimité : comment les femmes CTO transforment-elles les codes de la tech ? Découvrez des témoignages, des parcours et des perspectives inspirantes de femmes qui ont choisi de prendre leur place à la tête de la technologie. #FemmesDansLaTech #WomenInTech #CTO…",
+      "link": "https://www.youtube.com/watch?v=QN3tO8IIA5o",
+      "pubDate": "2026-09-29T13:01:41.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/QN3tO8IIA5o/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "QN3tO8IIA5o"
+    },
+    {
       "id": "6851c9333c03",
       "title": "Paul Pinault : de la démoscène à l''IoT : sécurité, reverse d'ampoule connectée et Zephyr OS",
       "description": "Paul est passionné d'informatique depuis l'Amstrad CPC 6128, mais c'est par l'électronique qu'il a choisi de se spécialiser, avant de bifurquer vers l'infrastructure et l'IoT, son terrain de jeu depuis 15 ans. Dans cette interview, on creuse un paradoxe fascinant : allumer une ampoule connectée, cela ne demande que quelques dizaines de lignes de code… alors pourquoi en embarque-t-on des centaines de milliers ? Entre chaînes de certification, chiffrement des communications et mises à jour de…",
@@ -19,6 +103,23 @@
       "image": "https://i.ytimg.com/vi/VxyG__p15CI/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "VxyG__p15CI"
+    },
+    {
+      "id": "dbfa0667a0e3",
+      "title": "Mon second cerveau, pour moi et pour mes agents : Obsidian alimenté par Claude Code",
+      "description": "Je n'écris plus mes notes, je les dicte. Claude les range dans Obsidian, les retrouve dans n'importe quelle session, depuis mon téléphone comme depuis mon ordinateur. Retour sur un second cerveau alimenté par l'IA, sans usine à gaz.",
+      "link": "https://yoandev.co/second-cerveau-ia-obsidian-claude",
+      "pubDate": "2026-09-29T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/second-cerveau-ia-obsidian-claude.webp",
+      "type": "blog"
     },
     {
       "id": "b2a31e008f21",
@@ -118,6 +219,22 @@
         "Cloud",
         "IA",
         "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae7d66e30a56",
+      "title": "Auto-unseal d'OpenBao avec le KMS d'OVHcloud",
+      "description": "Sceller la root key d'OpenBao avec une clé AES-256 qui ne quitte jamais le KMS d'OVHcloud, via le seal KMIP intégré",
+      "link": "https://une-tasse-de.cafe/expresso/openbao-unseal-ovh-kms/",
+      "pubDate": "2026-09-28T16:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
       ],
       "image": null,
       "type": "blog"
