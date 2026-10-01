@@ -1,0 +1,65 @@
+{
+  "month": "2026-10",
+  "articles": [
+    {
+      "id": "4ecdd062eb25",
+      "title": "15 years of Packagist: Over 200 billion package installs",
+      "description": "A look back at Packagist's first 15 years, from the first Composer experiments to more than 200 billion package installs. It also covers the team's recent supply chain security work and what they're building next. Read more",
+      "link": "https://freek.dev/3199-15-years-of-packagist-over-200-billion-package-installs",
+      "pubDate": "2026-10-01T10:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2b6d06a65c89",
+      "title": "New in Symfony 8.2: More Flexible Serialization Groups",
+      "description": "Serialization groups let you choose which properties to include when serializing an object. You might use one group for public API responses and another for admin exports. Symfony 8.2 adds new ways to configure these groups, and lets controllers and Messenger…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-more-flexible-serialization-groups?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-01T07:27:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/daniser.png",
+      "type": "blog"
+    },
+    {
+      "id": "e48a7f736f56",
+      "title": "Quoting Matthew Green",
+      "description": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared package cache, and those instructions changed what the recipients did. Replace the package cache with email, Slack and shared documents or WhatsApp, and replace independently-sandboxed training runs with…",
+      "link": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+      "pubDate": "2026-10-01T06:29:01.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ecc8eecab1f1",
+      "title": "Insecure Agents Podcast: How to Keep AI Agents From Bypassing Security Controls",
+      "description": "A coding agent blocked from installing a package may try another way to download it. In this episode of the Insecure Agents podcast recorded at Black Hat, Socket CTO Ahmad Nassri joins host Allie Howe to discuss how agents’ determination to finish a task can lead them to bypass security controls, and how Socket Firewall changes what they see before an install begins. Nassri describes cases where agents responded to blocked installs by fetching package tarballs directly from a CDN, overriding…",
+      "link": "https://socket.dev/blog/insecure-agents-security-controls?utm_medium=feed",
+      "pubDate": "2026-10-01T03:38:06.796Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}

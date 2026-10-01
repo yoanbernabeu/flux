@@ -1,0 +1,72 @@
+{
+  "month": "2026-10",
+  "articles": [
+    {
+      "id": "358b2a5a6747",
+      "title": "Sortie d’API Platform 4.4 et 5.0 ",
+      "description": "Les versions 4.4 et 5.0 d’API Platform ont été publiées en direct il y a quelques jours lors de l’API Platform Conference 2026 à Lille, à l’occasion du talk d’Antoine Bluchet « Are APIs still relevant in the AI era? » (dont vous pouvez retrouver les slides en ligne). La version originale de cet article, […] Cet article, Sortie d’API Platform 4.4 et 5.0 , est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/sortie-api-platform-4-4-et-5-0",
+      "pubDate": "2026-10-01T10:09:59.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/api-platform-5.0-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "671bbb7bf503",
+      "title": "Le frontend aussi mérite du monitoring !",
+      "description": "On se focalise souvent sur la performance du backend : monitoring de chaque requête, service et infrastructure. Cependant, le frontend reste souvent dans le noir le plus complet. On écrit, au mieux, des tests (parfois end-to-end 😎), on déploie et on espère que tout fonctionne parfaitement. Mais l’espoir n’est pas une stratégie… Durant cette présentation, Henry Lagarde, software engineer chez Mistral AI, montre comment monitorer le frontend pour nous donner des insights précis sur les usages,…",
+      "link": "https://www.youtube.com/watch?v=s0iLyNxJdgc",
+      "pubDate": "2026-10-01T08:25:41.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/s0iLyNxJdgc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "s0iLyNxJdgc"
+    },
+    {
+      "id": "c8fcad9bc0d4",
+      "title": "REX : des agents IA et des skills sur huit projets, nous gardons le volant et le fossé attendra",
+      "description": "Des agents IA écrivent une part croissante de notre code, sur huit projets. La vraie question n'est plus « sait-il coder ? » mais « comment savoir ce qu'il a réellement vérifié ? ». Notre réponse : un projet de pilotage qui mesure et propose, une personne qui décide. Règles, incidents, chiffres mesurés et cinq gestes pour commencer demain.",
+      "link": "https://blog.octo.com/rex--des-agents-ia-et-des-skills-sur-huit-projets-nous-gardons-le-volant-et-le-fosse-attendra",
+      "pubDate": "2026-10-01T08:06:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1638dd75034f",
+      "title": "Open AI Dev Day : ChatGPT devient un environnement de travail. Et ce que j’en teste est assez bluffant.",
+      "description": "L'article de Bruno Guglielminetti aborde les récentes innovations d'OpenAI, notamment lors du DevDay. La plateforme ChatGPT évolue vers un environnement de travail collaboratif, intégrant des agents autonomes. Malgré des limites d'utilisation, l'auteur exprime un enthousiasme pour l'automatisation des tâches et leur impact potentiel sur les PME, tout en soulignant l'importance de la sécurité des données. L’article Open AI Dev Day : ChatGPT devient un environnement de travail. Et ce que j’en…",
+      "link": "https://oliviersauvage.com/2026/10/01/open-ai-dev-day-chatgpt-devient-un-environnement-de-travail-et-ce-que-jen-teste-est-assez-bluffant/",
+      "pubDate": "2026-10-01T06:54:18.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}

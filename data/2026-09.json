@@ -2,6 +2,67 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "ac6067520147",
+      "title": "Trafic IA : ce que les nouvelles conversions e-commerce nous apprennent pour le B2B",
+      "description": "Une étude de Shero Commerce révèle que les commandes issues des assistants IA ont presque triplé, tandis que le trafic est resté stable. Cela souligne un changement dans le parcours d'achat, où les visiteurs arrivent souvent mieux informés et près de la décision. Les entreprises doivent adapter leurs contenus pour répondre à ces nouvelles attentes. L’article Trafic IA : ce que les nouvelles conversions e-commerce nous apprennent pour le B2B est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/30/trafic-ia-ce-que-les-nouvelles-conversions-e-commerce-nous-apprennent-pour-le-b2b/",
+      "pubDate": "2026-09-30T15:17:18.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1fa630153b85",
+      "title": "1 Golden Ticket, 2 acheteurs : la nouveauté Laravel qui empêche la survente 🍫",
+      "description": "Il reste un seul Golden Ticket pour visiter la chocolaterie Wonka. Charlie clique, Veruca clique au même moment… et on vend deux tickets alors qu'il n'en restait qu'un. 🍫 Dans cette vidéo, je te montre comment corriger ce bug de concurrence en une ligne avec refreshForUpdate(), une nouveauté de Laravel 13.27 (PR #61247 de Steve Bauman). Pour devenir un ouf sur Laravel : https://laraveljutsu.com",
+      "link": "https://www.youtube.com/watch?v=OK6USRLmarY",
+      "pubDate": "2026-09-30T13:21:37.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/OK6USRLmarY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "OK6USRLmarY"
+    },
+    {
+      "id": "e0ec7204fcb9",
+      "title": "Mettre en place un SSO sur l'admin Django",
+      "description": "django_pyoidc.",
+      "link": "https://makina-corpus.com/django/mettre-en-place-un-sso-sur-ladmin-django",
+      "pubDate": "2026-09-30T13:19:39.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "88622c312f35",
+      "title": "Partager les types entre backend & frontend",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/typing-e2e-2354 Dans cette vidéo, je vous propose de voir les différentes approches qu'il est possible d'utiliser pour partager les types lorsqu'on décide de séparer le backend du frontend. - 00:00 Introduction - 01:06 Types côté serveur : tRPC - 05:24 Types via un contrat : ts-rest - 08:33 Types via OpenAPI - 12:51 Types via schéma GraphQL - 19:27 Types via Protobuf - 21:14 Server functions - 25:17 Conclusion ______________________ Soutenir la chaîne…",
+      "link": "https://www.youtube.com/watch?v=Kbret24SavM",
+      "pubDate": "2026-09-30T13:00:08.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Kbret24SavM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Kbret24SavM"
+    },
+    {
       "id": "29d1a4d80d89",
       "title": "Ce que le numérique responsable doit à l'autonomie stratégique (et réciproquement)",
       "description": "Numérique responsable et souveraineté numérique sont parfois traité séparément, alors qu'ils reposent sur une même logique décrite dans deux vocabulaires distincts. Tous deux refusent le même réflexe : faire payer ailleurs, ou plus tard, le prix de ce qu'on décide ici et maintenant. Et ces deux agendas peuvent être un levier l'un pour l'autre.",
@@ -52,6 +113,36 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/44d3561f-a515-4e23-9ca1-faec7756bbd7.mp3?_=1790683283",
       "duration": "51:07"
+    },
+    {
+      "id": "487b40d5d30e",
+      "title": "Rails est-il vraiment fini ?",
+      "description": "DHH reconstruit HEY sans Rails, Lucas Dohmen le déclare terminé. Moi, je trouve qu'il reste plein de choses à faire.",
+      "link": "https://michaelbensoussan.com/posts/rails-est-il-fini/",
+      "pubDate": "2026-09-30T00:00:00.000Z",
+      "source": "Michael Bensoussan",
+      "sourceUrl": "https://michaelbensoussan.com/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://michaelbensoussan.com/images/posts/rails-est-il-fini.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c267541eff6d",
+      "title": "Un résumé ne remplace pas la lecture",
+      "description": "Je vois un phénomène se répandre au fil des années : les résumés de résumés. Et cela m’attriste, car j’ai cette réelle impression que plus personne ne prend le temps de parcourir des sujets en profondeur. C’est une tendance de fond. Très peu de personnes prennent le temps de lire des livres de référence sur les thématiques qui les intéressent ou qu’elles explorent. On préfère assister à une conférence, regarder une vidéo, un tuto YouTube ou lire un article de blog. Tous ces formats condensent…",
+      "link": "https://www.jdecool.fr/blog/2026/09/30/un-resume-ne-remplace-pas-la-lecture.html",
+      "pubDate": "2026-09-29T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "f8648d49ce3c",

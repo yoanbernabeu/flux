@@ -2,6 +2,122 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "b28db22be2de",
+      "title": "He Built This City",
+      "description": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model, the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard. It exceeded my already high expectations. The exhibition closes on 12th October so you should absolutely make a priority to see it if you get the chance. Tags: museums, new-york",
+      "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+      "pubDate": "2026-09-30T21:54:19.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "744869c05a1d",
+      "title": "MIRI Newsletter #127",
+      "description": "Meeting the moment The global conversation on AI has begun. In the wake of Jacob Coxon’s resignation from Anthropic, calls by AI CEOs and over a thousand employees for a potential industry slowdown, and a series of rogue AI incidents that sparked worldwide alarm, we’ve seen a tidal shift in the mainstream discourse. We’ve also […] The post MIRI Newsletter #127 appeared first on Machine Intelligence Research Institute.",
+      "link": "https://intelligence.org/2026/09/30/miri-newsletter-127/",
+      "pubDate": "2026-09-30T20:00:11.000Z",
+      "source": "MIRI Blog",
+      "sourceUrl": "https://intelligence.org/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9b27f46b5e13",
+      "title": "The Agentic Data Science Playbook",
+      "description": "The following article originally appeared on Vanishing Gradients and is being republished here with the authors’ permission When an AI agent can explore a dataset, choose a modeling approach, run the analysis, and explain its findings, what should the data scientist do? Traditionally, data scientists chose each step and implemented much of the analysis themselves. […]",
+      "link": "https://www.oreilly.com/radar/the-agentic-data-science-playbook/",
+      "pubDate": "2026-09-30T16:06:24.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/09/image-33-1600x889.png",
+      "type": "blog"
+    },
+    {
+      "id": "628751c01a1e",
+      "title": "Community Corner Podcast: Pop PHP with Nick Sagona",
+      "description": "In this episode, Scott talks to Nick Sagona about Pop PHP, a PHP framework that removes the “magic” so your code is easier to understand and maintain. Links: Our Discord – https://discord.gg/aMTxunVx Buy our shirts – https://store.phparch.com/products/community-corner-podcast-t-shirt Nick’s Links: X – https://x.com/popphpframework https://www.popphp.org/ Scott’s Links: Website – https://scott.keck-warren.com/ Bluesky – https://bsky.app/profile/scottkeckwarren.bsky.social LinkedIn –…",
+      "link": "https://www.phparch.com/podcast/community-corner-podcast-pop-php-with-nick-sagona/",
+      "pubDate": "2026-09-30T16:00:12.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/09/Pop-PHP-with-Nick-Sagona.png",
+      "type": "blog"
+    },
+    {
+      "id": "6234f205f5a5",
+      "title": "Jev for RAG, clearly explained!",
+      "description": "...covered with 12 more agentic Jev use cases.",
+      "link": "https://blog.dailydoseofds.com/p/jev-for-rag-clearly-explained",
+      "pubDate": "2026-09-30T15:40:56.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!sxe7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b349b18-bfdc-4828-9174-11f567fb3839_1300x744.png",
+      "type": "blog"
+    },
+    {
+      "id": "d7a4f898b62d",
+      "title": "SymfonyCon Warsaw 2026: The PHP Runtime I Want to See",
+      "description": "Ready to take your PHP and Symfony skills to the next level? SymfonyCon Warsaw 2026 lands in Poland on November 26-27! Gather with developers worldwide for two high-impact days offering 3 parallel tracks and exciting community events. Mark your calendar…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-the-php-runtime-i-want-to-see?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-09-30T14:57:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "fff4dc4e4003",
+      "title": "★ More Jev in There There: smart conditions and AI assignment",
+      "description": "Recently I wrote about how we use Jev in There There to detect spam, bounces, and automatic replies. Jev reads an incoming email and answers questions we define up front. We keep the probabilities and decide in our own code what counts as a match. The cheap checks on mail headers still run first. That post ended with a promise that we'd find more uses for Jev. Here are two we have since added to There There: smart conditions for workflows, and automatic assignment to a team or person.…",
+      "link": "https://freek.dev/3198-more-jev-in-there-there-smart-conditions-and-ai-assignment",
+      "pubDate": "2026-09-30T14:09:48.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6dfa8e5cffe4",
+      "title": "Evaluating AI-Generated Frontend Code: What Should We Actually Test?",
+      "description": "AI can now generate a surprising amount of frontend code from a short description. A developer can ask for a form, a table, a modal, a settings page, or a dashboard view and get something that looks usable almost immediately. It may compile, render, and even arrive with a few tests. That is useful, but […]",
+      "link": "https://www.oreilly.com/radar/evaluating-ai-generated-frontend-code-what-should-we-actually-test/",
+      "pubDate": "2026-09-30T10:40:32.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "68dcaa6442dd",
       "title": "New in Symfony 8.2: Sudo Mode",
       "description": "In Symfony, IS_AUTHENTICATED_FULLY is the strongest check about how users logged in. However, it tells you how the session started, not when. A user who logged in with their password eight hours ago and left the laptop unlocked is still fully authenticated,…",
@@ -14,6 +130,36 @@
         "Web"
       ],
       "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "c3c23245e8d4",
+      "title": "New AISI Report Details How GPT-6 Astra Turned CTF Challenges Into Supply Chain Attacks",
+      "description": "Earlier this month, Socket reported that GPT-6 Astra tried to plant malicious code in simulated open source projects while working on an unrelated cybersecurity challenge. The UK AI Security Institute (AISI), which had access to the model before its release, first disclosed the behavior in OpenAI’s system card. AISI has now published a dedicated technical report documenting how Astra chose targets outside the challenge’s scope, developed payloads, and tried to get maintainers to accept its…",
+      "link": "https://socket.dev/blog/astra-supply-chain-attacks?utm_medium=feed",
+      "pubDate": "2026-09-30T04:50:04.498Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/4949b21e1e6d89d9742d6bc61f5b2706ac804480-797x389.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "4e299dc13b3e",
+      "title": "2027 Applications for Contractors are Open",
+      "description": "As we have done in past years, The PHP Foundation is opening applications for contractors for 2027. Foundation contractors are responsible for a variety of core development areas, and we are open to hearing your ideas. The application form will be open until October 20, 2026, end of day, Anywhere on Earth (AoE). Apply Now What are the requirements? Note: This is not a job for PHP developers or aspiring PHP developers. PHP is written in the C programming language, and as such, this role requires…",
+      "link": "https://thephp.foundation/blog/2026/09/30/applications-for-2027-are-open/",
+      "pubDate": "2026-09-30T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -70,6 +216,21 @@
       "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "023d364db8b3",
+      "title": "Photo Scrubber — local face blur & metadata removal",
+      "description": "Tool: Photo Scrubber — local face blur &amp; metadata removal I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I had GPT-6 Astra build this experimental tool that would identify faces and automatically blur them out. It uses Google's MediaPipe C++ library, compiled to WebAssembly via @mediapipe/tasks-vision, plus the BlazeFace face detection model. Tags: photography, tools",
+      "link": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
+      "pubDate": "2026-09-29T16:45:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
