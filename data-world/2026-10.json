@@ -2,6 +2,79 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "d2f5864d8809",
+      "title": "New in Symfony 8.2: Performance Improvements",
+      "description": "At Symfony, we're obsessed with performance, and Symfony 8.2 has plenty of examples. Over the last few weeks, Nicolas Grekas profiled the Symfony Demo application and a custom API project, turning every finding into a pull request. The result is faster web…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-performance-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-02T07:27:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "34891aac98a9",
+      "title": "The PHP Podcast 2026.10.01",
+      "description": "🎙️ PHP Podcast – October 1, 2026 Hosts: Joe Ferguson, Sara Golemon & Holly Schilling It’s John’s birthday, so naturally he skipped. The PHP Foundation is hiring, 8.6 picks up a surprise RC, and the crew goes deep on ABI promises, deprecation pile-ups, generics, and a childhood firefighter who’s still “a hit.” 🎂 John’s Birthday […] The post The PHP Podcast 2026.10.01 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-10-01/",
+      "pubDate": "2026-10-01T23:21:15.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/10/SI0o68D2zl8-hqdefault.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0eb3737dd5dd",
+      "title": "Building a Production Agent Harness with LangGraph and Jev",
+      "description": "...explained with code.",
+      "link": "https://blog.dailydoseofds.com/p/building-a-production-agent-harness",
+      "pubDate": "2026-10-01T22:24:38.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!clcH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda46e628-95fd-403d-be30-98a4bd2dfe95_2752x1536.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "230be39f1a16",
+      "title": "Securing the Financial Frontier: How Capital One Uses Socket for Open Source Security",
+      "description": "The financial sector operates in a hyper-targeted, unforgiving threat landscape. As the guardians of sensitive data and global economic infrastructure, financial institutions frequently face sophisticated cyber threats and some of the most rigorous regulatory scrutiny in the world. Yet, like every modern enterprise, they rely heavily on open source software to drive innovation and speed. Securing that open source foundation without slowing down engineering teams is a massive challenge. That is…",
+      "link": "https://socket.dev/blog/capital-one-open-source-security?utm_medium=feed",
+      "pubDate": "2026-10-01T12:58:10.329Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9a222838f997",
+      "title": "The Future of Software May Be Conversational Rather Than Autonomous",
+      "description": "The following article originally appeared on Robert Englander’s blog site and is being reposted here with the author’s permission. The software industry has become deeply focused on autonomous AI systems. Agents that can replace workers. Agents that can write software. Agents that can operate applications on our behalf. Entire startups are now built around the […]",
+      "link": "https://www.oreilly.com/radar/the-future-of-software-may-be-conversational-rather-than-autonomous/",
+      "pubDate": "2026-10-01T10:54:32.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4ecdd062eb25",
       "title": "15 years of Packagist: Over 200 billion package installs",
       "description": "A look back at Packagist's first 15 years, from the first Composer experiments to more than 200 billion package installs. It also covers the team's recent supply chain security work and what they're building next. Read more",

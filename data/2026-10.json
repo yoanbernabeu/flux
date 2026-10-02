@@ -2,6 +2,116 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "f4c29cf3d93d",
+      "title": "Bilan du podcast B2Biz (septembre 2026) : 11 500+ impressions, 4 épisodes et des enseignements B2B clés",
+      "description": "Un mois après le lancement officiel du podcast B2Biz, dédié à l’impact des technologies de pointe, du Vibe Coding, de l’IA et du No-Code sur le monde des PME et de l’e-business B2B, il est temps de dresser un premier bilan complet des performances d’audience.En septembre 2026, la diffusion croisée sur LinkedIn, X, YouTube, Spotify […] L’article Bilan du podcast B2Biz (septembre 2026) : 11 500+ impressions, 4 épisodes et des enseignements B2B clés est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/02/bilan-du-podcast-b2biz-septembre-2026-11-500-impressions-4-episodes-et-des-enseignements-b2b-cles/",
+      "pubDate": "2026-10-02T08:06:04.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f66c1ccda655",
+      "title": "Griffin de Tavus : un cap dans l’IA conversationnelle",
+      "description": "Griffin, un nouvel outil d'IA développé par la société Tavus, crée des avatars vidéo en temps réel capables d'interagir de manière naturelle. Ce modèle révolutionnaire élimine les temps de latence, rendant les échanges presque humains. Utilisé par des entreprises comme Amazon et Salesforce, il promet d transforme divers secteurs économiques, notamment le support client. L’article Griffin de Tavus : un cap dans l’IA conversationnelle est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/02/griffin-de-tavus-un-cap-dans-lia-conversationnelle/",
+      "pubDate": "2026-10-02T05:36:09.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c75329d1868c",
+      "title": "MACI #166 - Classificateurs, IA locale et CAO : l'IA sort du code - Avec Ivan Dalmet",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on se demande d’abord comment apprendre à programmer en 2026, à l’heure où les agents IA peuvent déjà produire une partie du code. L’occasion de revenir aussi sur PostgreSQL 19, les contributions générées par IA dans les projets open source et l’importance du contexte donné aux agents. Et puis, comme à notre habitude, la discussion va vite s’étendre… des classificateurs comme Jev aux agents et modèles d’IA locale, avant de sortir…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-166-classificateurs-ia-locale-et-cao-l-ia-sort-du-code-avec-ivan-dalmet",
+      "pubDate": "2026-10-02T05:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/1iiRVnxy4VKLTSfuVfoET97WEXvUSASD7FrTBBZO_1400x1400.jpeg?t=1790928270",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/B4eNvSmJX22O.mp3?t=1790670122",
+      "duration": "1:00:13"
+    },
+    {
+      "id": "f026138b797b",
+      "title": "#353.exe - IA et Java: Le nouvel âge d'or de Java par Quentin Pleplé",
+      "description": "Pour l'épisode #353 je recevais Julien Dubois. On en débrief avec Quentin. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/353-d33be92ee917",
+      "pubDate": "2026-10-02T03:00:36.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/dcc5cf50-f40b-4906-8f2e-d33be92ee917.mp3?_=1790856096",
+      "duration": "12:06"
+    },
+    {
+      "id": "21f8ea1aa15c",
+      "title": "Antigravity CLI, pilote et assistant de mon activité quotidienne dans GitLab",
+      "description": "🗓️ Mon quotidien avec GitLab Gérer mon activité professionnelle est un sujet de réflexion que j’ai depuis plusieurs années. J’y",
+      "link": "https://blog.zenika.com/2026/10/01/antigravity-cli-pilote-et-assistant-de-mon-activite-quotidienne-dans-gitlab/",
+      "pubDate": "2026-10-01T21:04:29.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f5d3.png",
+      "type": "blog"
+    },
+    {
+      "id": "d45a91290e4b",
+      "title": "Cybersécurité industrielle : comment protéger son usine sans arrêter la production ?",
+      "description": "Dans cet épisode de B2Biz, Matthieu Bonenfant, expert en cybersécurité, discute des risques des cyberattaques pour les PME industrielles. Il souligne l'importance de sécuriser même les machines anciennes et partage des conseils pratiques pour identifier les vulnérabilités, en insistant sur le fait que même les petites entreprises peuvent être ciblées. L’article Cybersécurité industrielle : comment protéger son usine sans arrêter la production ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/01/cybersecurite-industrielle-comment-proteger-son-usine-sans-arreter-la-production/",
+      "pubDate": "2026-10-01T17:08:04.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33d19a1306f2",
+      "title": "En vrac de septembre 2026",
+      "description": "L’IA, une bulle ? J’ai découvert sur Mastodon @UnePorte@eldricht.cafe aka Agate Blue, qui réfléchit et écrit sur les conséquences d’une bulle financière liée à l’IA. Quelques liens intéressants : La première bulle de l’IA [2022-2026] (billet de blog du 3 juin 2026) ; La première bulle de l’IA, point d’étape n°1, un point sur ses prévisions publiées 40 jours plus tôt ; Une très longue réponse à la question La bulle IA va-t-elle éclater ? sous forme de fil de discussion Mastodon. Si l’IA est une…",
+      "link": "https://standblog.org/blog/post/2026/10/01/En-vrac-de-septembre-2026",
+      "pubDate": "2026-10-01T13:39:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "358b2a5a6747",
       "title": "Sortie d’API Platform 4.4 et 5.0 ",
       "description": "Les versions 4.4 et 5.0 d’API Platform ont été publiées en direct il y a quelques jours lors de l’API Platform Conference 2026 à Lille, à l’occasion du talk d’Antoine Bluchet « Are APIs still relevant in the AI era? » (dont vous pouvez retrouver les slides en ligne). La version originale de cet article, […] Cet article, Sortie d’API Platform 4.4 et 5.0 , est paru en premier sur Les-Tilleuls.coop.",
