@@ -2,6 +2,64 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "de3c730e0a67",
+      "title": " Artifical Debt ",
+      "description": "Read the full post on https://stitcher.io/blog/artificial-debt",
+      "link": "https://stitcher.io/blog/artificial-debt",
+      "pubDate": "2026-10-03T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a1e23ab60497",
+      "title": "MCP Apps, clearly explained:",
+      "description": "...covered with a full hands-on video demo.",
+      "link": "https://blog.dailydoseofds.com/p/mcp-apps-clearly-explained",
+      "pubDate": "2026-10-02T23:47:11.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!OBw1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bdf959c-b3ff-4641-87bc-10e2b90e46e4_1376x768.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "a002305105ac",
+      "title": "Coding Agents Love Decision Records",
+      "description": "The following article originally appeared on Duncan Davidson’s blog and is being republished here with the author’s permission. Decision records give coding agents durable project context—as long as they don’t turn every decision into a courtroom transcript. Architectural Decision Records (ADRs) help human teams establish rules and carry context forward in software projects. They capture […]",
+      "link": "https://www.oreilly.com/radar/coding-agents-love-decision-records/",
+      "pubDate": "2026-10-02T11:24:21.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8f0b297a1204",
+      "title": "Do I want it the most?",
+      "description": "A short video by Justin Jackson on ambition, motivation, and the question of how much you really want something. It looks like a thoughtful prompt for anyone building or creating over the long term.",
+      "link": "https://freek.dev/3201-do-i-want-it-the-most",
+      "pubDate": "2026-10-02T10:30:57.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d2f5864d8809",
       "title": "New in Symfony 8.2: Performance Improvements",
       "description": "At Symfony, we're obsessed with performance, and Symfony 8.2 has plenty of examples. Over the last few weeks, Nicolas Grekas profiled the Symfony Demo application and a custom API project, turning every finding into a pull request. The result is faster web…",
@@ -14,6 +72,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da2231050ee3",
+      "title": "Pretty Themes, Hidden Loaders: GlassWorm-Linked Extensions Span VS Code Marketplace and Open VSX",
+      "description": "Socket uncovered a theme cluster spanning four Visual Studio Marketplace and six Open VSX extensions, including two confirmed malicious extensions and a high-confidence link to GlassWorm. The Socket Threat Research team identified two suspicious VS Code themes still available on the Visual Studio Marketplace at the time of writing: Coca-Cola Christmas and Aurora Borealis Studio Theme. Both present themselves as polished color themes, contain executable JavaScript despite primarily providing…",
+      "link": "https://socket.dev/blog/glassworm-vscode-themes?utm_medium=feed",
+      "pubDate": "2026-10-02T03:44:40.584Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/9ace83093695281078b2f40a5cb4cb60bfab1cdf-1179x1128.png?w=1600&q=95&fit=max&auto=format",
       "type": "blog"
     },
     {

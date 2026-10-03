@@ -130,6 +130,21 @@
       "type": "blog"
     },
     {
+      "id": "b9bb4ff0dc9f",
+      "title": "Is Rails really done?",
+      "description": "DHH is rebuilding HEY without Rails, and Lucas Dohmen says Rails is done. I think there's still plenty left to do.",
+      "link": "https://michaelbensoussan.com/posts/is-rails-really-done/",
+      "pubDate": "2026-09-30T00:00:00.000Z",
+      "source": "Michael Bensoussan",
+      "sourceUrl": "https://michaelbensoussan.com/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://michaelbensoussan.com/images/posts/rails-est-il-fini.jpg",
+      "type": "blog"
+    },
+    {
       "id": "c267541eff6d",
       "title": "Un résumé ne remplace pas la lecture",
       "description": "Je vois un phénomène se répandre au fil des années : les résumés de résumés. Et cela m’attriste, car j’ai cette réelle impression que plus personne ne prend le temps de parcourir des sujets en profondeur. C’est une tendance de fond. Très peu de personnes prennent le temps de lire des livres de référence sur les thématiques qui les intéressent ou qu’elles explorent. On préfère assister à une conférence, regarder une vidéo, un tuto YouTube ou lire un article de blog. Tous ces formats condensent…",
@@ -453,6 +468,21 @@
         "IA"
       ],
       "image": "https://lostinbrittany.dev/img/posts/2026-09-26-i-should-have-been-rehearsing.png",
+      "type": "blog"
+    },
+    {
+      "id": "f84028e43923",
+      "title": "dotAI 2026 : De l’illusion d’autonomie à la réalité du terrain, reprendre le contrôle sur nos agents",
+      "description": "Nous étions à la dotAI 2026. Et comme il est de coutume, voici notre retour sur ce qu’on a aimé, ce qui s'y est dit et ce qu’on y a appris. Bonne lecture ! L’année écoulée a été marquée par l’essor des architectures multi-agents et des harnesses, ces surcouches qui entourent un LLM pour le transformer en travailleur autonome. Peu à peu, nous délaissons nos IDE au profit des ADE, et passons désormais l'essentiel de notre temps à planifier et à relire du code plutôt qu'à en écrire. Cette…",
+      "link": "https://jolicode.com/blog/dotai-2026-de-l-illusion-d-autonomie-a-la-realite-du-terrain-reprendre-le-controle-sur-nos-agents",
+      "pubDate": "2026-09-25T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/dot-ai/dotai_2026_intro.png",
       "type": "blog"
     },
     {

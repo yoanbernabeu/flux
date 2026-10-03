@@ -2,6 +2,57 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "e81d4c1e5261",
+      "title": "Tunnels HTTP auto-hébergés avec SSH et nginx",
+      "description": "Un ami veut relire votre article de blog en cours de rédaction, mais sa prévisualisation ne tourne que sur . peuvent aider. Certains sont des services commerciaux, comme ou . D’autres peuvent être auto-hébergés, mais exigent un client dédié, comme ou . D’autres encore se contentent d’un simple client SSH, mais reposent sur un serveur SSH spécifique, comme . Voyons comment mettre en place une solution auto-hébergée avec juste et !localhost:8080Plusieurs outilsngrokCloudflare Quick…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-http-over-ssh",
+      "pubDate": "2026-10-03T07:23:12.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bd982885fa1c",
+      "title": "L'agentic sur le divan du coach : 24 questions, huit projets",
+      "description": "Nous avons évalué nos huit projets menés avec des agents IA : 24 questions, des preuves lues dans le code, jamais des impressions. Les résultats nous ont surpris. En tant que coach, j'en tire une cinquième source pour la prise de contexte : lire les traces du travail agentic avant de rencontrer les équipes, pour mieux les écouter ensuite.",
+      "link": "https://blog.octo.com/l'agentic-sur-le-divan-du-coach--24-questions-huit-projets",
+      "pubDate": "2026-10-02T16:03:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "986df8db33bf",
+      "title": "API Platform Conference 2026 Aftermovie",
+      "description": "The API Platform Conference 2026 took place on September 17–18 in Lille, France. Relive the highlights of the event, and hear from some of our speakers, sponsors, and attendees. ___________ Website: https://api-platform.com/con/2026 Video production: Charlotte Coppens Music: A Moment of Love by ZISO",
+      "link": "https://www.youtube.com/watch?v=DD-q0BZJHhU",
+      "pubDate": "2026-10-02T12:32:21.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/DD-q0BZJHhU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "DD-q0BZJHhU"
+    },
+    {
       "id": "f4c29cf3d93d",
       "title": "Bilan du podcast B2Biz (septembre 2026) : 11 500+ impressions, 4 épisodes et des enseignements B2B clés",
       "description": "Un mois après le lancement officiel du podcast B2Biz, dédié à l’impact des technologies de pointe, du Vibe Coding, de l’IA et du No-Code sur le monde des PME et de l’e-business B2B, il est temps de dresser un premier bilan complet des performances d’audience.En septembre 2026, la diffusion croisée sur LinkedIn, X, YouTube, Spotify […] L’article Bilan du podcast B2Biz (septembre 2026) : 11 500+ impressions, 4 épisodes et des enseignements B2B clés est apparu en premier sur OlivierSauvage.com.",
