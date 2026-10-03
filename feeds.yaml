@@ -201,6 +201,10 @@ feeds:
     name: Camille Roux
     categories: [Programmation, Web]
 
+  - url: https://www.camilleroux.com/tag/veille/rss/
+    name: Camille Roux — Veille
+    categories: [Programmation, Web, IA, DevOps]
+
   - url: https://blog.cockpitio.com/index.xml
     name: Cockpit io
     categories: [DevOps, Cloud, Cybersécurité]
@@ -221,6 +225,11 @@ feeds:
     name: Data Driven 101
     type: podcast
     categories: [IA]
+
+  - url: https://anchor.fm/s/f411ff04/podcast/rss
+    name: Human Coders Podcast
+    type: podcast
+    categories: [Programmation, Web, DevOps, IA]
 
   - url: UCRlsJWh1XwmNGxZPFgJ0Zlw
     name: YoanDev (YouTube)
@@ -266,6 +275,16 @@ feeds:
     name: Generative AI France (YouTube)
     type: youtube
     categories: [IA]
+
+  - url: UCUCSysJ_Dq9_8DnKHsyKJFg
+    name: Human Talks Paris (YouTube)
+    type: youtube
+    categories: [Programmation, Web, DevOps, IA]
+
+  - url: UC6no2zEiNNC2iZONQ5Xyl3w
+    name: Human Talks (YouTube)
+    type: youtube
+    categories: [Programmation, Web, DevOps, IA]
 
 feeds_world:
   - url: https://dunglas.dev/feed/
