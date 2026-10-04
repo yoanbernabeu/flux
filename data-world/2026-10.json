@@ -2,6 +2,80 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "255095e518cd",
+      "title": "A Week of Symfony #1031 (September 28 – October 4, 2026)",
+      "description": "This week, Symfony 6.4.47, 7.4.20, and 8.1.8 were released, along with Symfony Reprise 1.3.0. Meanwhile, we continued introducing Symfony 8.2 features, including OpenID Connect login, PGP/MIME signed and encrypted emails, sudo mode, more flexible serialization…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1031-september-28-october-4-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-04T07:39:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "345f1755705d",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "description": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps. I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". These need to be hard limits. Soft caps, \"after $X/month, send me a warning email\", will not cut it. Coding agents, and personal agents (coding agents wrapped in a less threatening UI), greatly reduce the friction of…",
+      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "pubDate": "2026-10-03T23:34:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "637b19621e90",
+      "title": "September sponsors-only newsletter",
+      "description": "I just sent the September edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more accidental cyberattacks The vulnapocalypse comes for Datasette What I'm using right now My software releases this month 2026 in LLMs (so far) Here's a copy of the August newsletter as a preview of what you'll get. Pay…",
+      "link": "https://simonwillison.net/2026/Oct/3/newsletter/",
+      "pubDate": "2026-10-03T22:00:31.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0971fcf3d251",
+      "title": "How Work is Organized Inside a GPU",
+      "description": "...explained visually.",
+      "link": "https://blog.dailydoseofds.com/p/how-work-is-organized-inside-a-gpu",
+      "pubDate": "2026-10-03T21:53:38.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Covr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f6d8126-69bc-4ff7-8aea-7e7d0eaf2f40_1400x1200.png",
+      "type": "blog"
+    },
+    {
+      "id": "f48fecc7ad8e",
+      "title": "I’m Using GPUI For Everything",
+      "description": "A video by the Syntax team on why they're using GPUI across more and more of their work. It offers a practical look at what makes GPUI appealing for modern tooling.",
+      "link": "https://freek.dev/3200-im-using-gpui-for-everything",
+      "pubDate": "2026-10-03T10:31:04.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "de3c730e0a67",
       "title": " Artifical Debt ",
       "description": "Read the full post on https://stitcher.io/blog/artificial-debt",
@@ -28,6 +102,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!OBw1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bdf959c-b3ff-4641-87bc-10e2b90e46e4_1376x768.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "b23a71d2dca4",
+      "title": "Rex's Dino Store",
+      "description": "Museum: Rex&#x27;s Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur. The density of dinosaur puns is exceptional. Tags: art, new-york",
+      "link": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+      "pubDate": "2026-10-02T22:57:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

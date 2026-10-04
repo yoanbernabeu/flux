@@ -2,6 +2,22 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "3f7d5f323d8b",
+      "title": "Claude Code, Codex, Cursor : partage tes Skills IA partout 🤯",
+      "description": "Marre de recréer les mêmes instructions pour Claude Code, Codex ou Cursor ? 👀 Je te montre comment centraliser tes Skills IA au même endroit et les réutiliser avec plusieurs assistants de code. Un setup simple pour éviter la duplication et rendre ton workflow de développement avec l’IA beaucoup plus propre. #ClaudeCode #Codex #Cursor #AI #IA #Developpeur #Programmation #Coding #AITools #DevTools",
+      "link": "https://www.youtube.com/watch?v=n1r4WTSGV7o",
+      "pubDate": "2026-10-03T22:56:21.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/n1r4WTSGV7o/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "n1r4WTSGV7o"
+    },
+    {
       "id": "e81d4c1e5261",
       "title": "Tunnels HTTP auto-hébergés avec SSH et nginx",
       "description": "Un ami veut relire votre article de blog en cours de rédaction, mais sa prévisualisation ne tourne que sur . peuvent aider. Certains sont des services commerciaux, comme ou . D’autres peuvent être auto-hébergés, mais exigent un client dédié, comme ou . D’autres encore se contentent d’un simple client SSH, mais reposent sur un serveur SSH spécifique, comme . Voyons comment mettre en place une solution auto-hébergée avec juste et !localhost:8080Plusieurs outilsngrokCloudflare Quick…",
@@ -15,6 +31,38 @@
         "Cybersécurité"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8c4a2817c8bb",
+      "title": "Dix pannes, dix bascules : le premier banc haute disponibilité de Maintenant sur OpenSVC",
+      "description": "Dans le bilan de mai à août, j’annonçais le chantier haute disponibilité du programme Hyper Open X : Maintenant devient un service OpenSVC sur deux nœuds, avec une adresse de service qui suit l’instance active et une bascule automatique quand ce nœud tombe. Je parlais aussi d’un banc d’essai, deux nœuds, un arbitre de quorum, un WAN simulé et des scénarios de panne rejouables, alors encore en conception. Le banc existe maintenant. Le 2 octobre, il a joué les dix scénarios de panne applicables…",
+      "link": "https://kolapsis.com/blog/maintenant-ha-opensvc-premier-banc/",
+      "pubDate": "2026-10-03T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7b9d17b82a82",
+      "title": "EmDash, le « successeur de WordPress » piloté par un agent IA",
+      "description": "Cloudflare a sorti EmDash 1.0, un CMS open source pensé dès le départ pour être piloté par des agents IA. Ce qu'il est (et n'est pas) pour un utilisateur WordPress, puis six prompts pour monter un blog tech, le mettre en ligne et le piloter depuis Claude via MCP.",
+      "link": "https://yoandev.co/emdash-cms-blog-agent-ia",
+      "pubDate": "2026-10-03T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/emdash-cms-blog-agent-ia.webp",
       "type": "blog"
     },
     {
