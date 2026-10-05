@@ -2,6 +2,65 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "55bbd73a1089",
+      "title": "How to Build Reliable AI Agent Systems for Production",
+      "description": "The following article was originally published on the Agentic AI Foundation blog site and is being republished here with the author’s permission. A customer asks your company’s AI agent to update the shipping address on account 123. The agent relies on a support ticket with a typo and updates account 132 instead. The customer relationship […]",
+      "link": "https://www.oreilly.com/radar/how-to-build-reliable-ai-agent-systems-for-production/",
+      "pubDate": "2026-10-05T10:54:33.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "65a4796a8f15",
+      "title": "★ Streaming AI replies from Laravel to React",
+      "description": "A couple of posts back I walked through the agent and tools we built on top of the Laravel AI SDK for There There, the helpdesk we're putting together at Spatie. I ended that post on a small cliffhanger. We hand the agent off to a streaming service that turns the SDK's response stream into events the frontend can consume. That's this post. A quick reminder on our angle. After two decades of running our own customer support, we wanted a helpdesk where AI makes support agents faster, not one that…",
+      "link": "https://freek.dev/3092-streaming-ai-replies-from-laravel-to-react",
+      "pubDate": "2026-10-05T10:30:47.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "469be37ec624",
+      "title": "New in Symfony 8.2: Targeted Cache-Control and Cache-Status Headers",
+      "description": "An HTTP response can pass through several caches before it reaches the user, and you may want different rules for each one. Symfony 8.2 adds support for two HTTP headers: one to set those rules, and another to see what happened to a request. Targeted Cache-Control…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-targeted-cache-control-and-cache-status-headers?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-05T07:19:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "126c693383ad",
+      "title": "How to Stop an AI Agent from Destroying Your Laravel App",
+      "description": "A practical post on hardening Laravel projects against destructive AI agent behavior. It walks through the PocketOS incident and shows concrete safeguards like deny rules, credential isolation, and production guardrails. Read more",
+      "link": "https://freek.dev/3117-how-to-stop-an-ai-agent-from-destroying-your-laravel-app",
+      "pubDate": "2026-10-04T10:30:38.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "255095e518cd",
       "title": "A Week of Symfony #1031 (September 28 – October 4, 2026)",
       "description": "This week, Symfony 6.4.47, 7.4.20, and 8.1.8 were released, along with Symfony Reprise 1.3.0. Meanwhile, we continued introducing Symfony 8.2 features, including OpenID Connect login, PGP/MIME signed and encrypted emails, sudo mode, more flexible serialization…",
