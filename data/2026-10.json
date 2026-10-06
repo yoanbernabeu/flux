@@ -2,6 +2,53 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "bafb3ebfbb94",
+      "title": "Vous voulez connaître le quotidien d'un dev PHP ?",
+      "description": "Vidéo YouTube publiée par Laravel Jutsu (YouTube) — Vous voulez connaître le quotidien d'un dev PHP ?",
+      "link": "https://www.youtube.com/watch?v=_yCnBXgbsy4",
+      "pubDate": "2026-10-06T07:55:42.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/_yCnBXgbsy4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "_yCnBXgbsy4"
+    },
+    {
+      "id": "d4cf55bbcd4c",
+      "title": "Ce que les relations presse peuvent vous faire gagner à l’ère de l’IA",
+      "description": "Les relations presse jouent un rôle crucial dans la visibilité et la crédibilité des entreprises, surtout à l'ère de l'intelligence artificielle. Elles aident à construire une réputation en fournissant des contenus d'expertise qui influencent les décisions d'achat. Les dirigeants doivent prendre la parole pour rendre leur savoir-faire concret, car cela prépare les futurs clients avant le premier contact commercial. L’article Ce que les relations presse peuvent vous faire gagner à l’ère de l’IA…",
+      "link": "https://oliviersauvage.com/2026/10/06/ce-que-les-relations-presse-peuvent-vous-faire-gagner-a-lere-de-lia/",
+      "pubDate": "2026-10-06T07:32:48.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cccbd0d3086e",
+      "title": "PlatformCon 2026 : ce qu'il faut vraiment en retenir",
+      "description": "Shift Down, Governed Path, agents IA devenus utilisateurs de la plateforme : les 6 enseignements de la PlatformCon 2026, croisés avec les chiffres des rapports State of Platform Engineering.",
+      "link": "https://blog.ippon.fr/2026/10/05/platformcon-2026-platform-engineering-ia/",
+      "pubDate": "2026-10-05T12:29:42.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/platformcon-2026-couverture.jpg",
+      "type": "blog"
+    },
+    {
       "id": "e448c6c94f6f",
       "title": "Le futur du développement : à quoi ressemblera le métier d'ici 2035",
       "description": "Le futur du développement : à quoi ressemblera le métier d'ici 2035",

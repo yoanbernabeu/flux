@@ -2,6 +2,94 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "79ce62293f7d",
+      "title": "How to Build Reliable AI Agent Systems for Production",
+      "description": "The following article was originally published on the Agentic AI Foundation blog site and is being republished here with the author’s permission. A customer asks your company’s AI agent to update the shipping address on account 123. The agent relies on a support ticket with a typo and updates account 132 instead. The customer relationship […]",
+      "link": "https://www.oreilly.com/radar/?p=19881",
+      "pubDate": "2026-10-06T11:01:51.660Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "251d91d57872",
+      "title": "★ Exceptions that explain themselves",
+      "description": "There There, the helpdesk we're building at Spatie, is a project of learned habits. Twenty-some years of writing Laravel apps has taught us which patterns pay off and which ones quietly rot. One that keeps earning its keep is a custom exception class for every domain error. This is a small pattern, but it's one of those things that makes a codebase nicer to live in. There There is in private beta right now, and you can apply for early access at there-there.app. Exceptions that explain…",
+      "link": "https://freek.dev/3091-exceptions-that-explain-themselves",
+      "pubDate": "2026-10-06T10:30:47.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "39be7884afef",
+      "title": "New in Symfony 8.2: Relative Ordering for Listeners and Services",
+      "description": "Contributed by Nicolas Grekas in #66012 ,…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-relative-ordering-for-listeners-and-services?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-06T07:23:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "d43019accfd1",
+      "title": "Quoting Felix Rieseberg",
+      "description": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude but didn't love the disk, battery, and performance cost of running the VM locally. Also, people didn't love that closing your laptop means the work stops. The \"new\" version of…",
+      "link": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "pubDate": "2026-10-05T23:56:47.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dfd85e304e04",
+      "title": "Fine-tune Meta AI's Muse Glimmer 100% locally",
+      "description": "...explained step-by-step with code.",
+      "link": "https://blog.dailydoseofds.com/p/fine-tune-meta-ais-muse-glimmer-100",
+      "pubDate": "2026-10-05T22:20:04.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!IZSg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f221c53-e3ec-4f69-9851-741b7f3c0dbd_4096x2412.png",
+      "type": "blog"
+    },
+    {
+      "id": "7b2ece2cadbd",
+      "title": "SymfonyCon Warsaw 2026: final class Entity: Doctrine Mapping for Modern PHP",
+      "description": "Connect with the global developer ecosystem at SymfonyCon Warsaw 2026, taking place November 26-27 in Poland. Dive into two days of intense learning across 3 parallel tracks alongside vibrant community side-events. Secure your spot today! 🎤 Speaker…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-final-class-entity-doctrine-mapping-for-modern-php?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-05T15:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
       "id": "55bbd73a1089",
       "title": "How to Build Reliable AI Agent Systems for Production",
       "description": "The following article was originally published on the Agentic AI Foundation blog site and is being republished here with the author’s permission. A customer asks your company’s AI agent to update the shipping address on account 123. The agent relies on a support ticket with a typo and updates account 132 instead. The customer relationship […]",
@@ -43,6 +131,21 @@
         "Web"
       ],
       "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "69f5bd9058f8",
+      "title": "Qwen3.8 27B addition in words",
+      "description": "Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the chart he shared of those results: I'm confident GPT-4o didn't cheat and use a calculator, especially since it got so many of the calculations wrong, but I was inspired to run the experiment again on local hardware (a DGX Spark) to explore the…",
+      "link": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+      "pubDate": "2026-10-04T23:34:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -264,6 +367,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!clcH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda46e628-95fd-403d-be30-98a4bd2dfe95_2752x1536.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "b11f8970e721",
+      "title": "pwasm 0.2a0",
+      "description": "Release: pwasm 0.2a0 pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of AI mania. I hadn't touched it since January, so I decided to let Claude Opus 5.5 loose on it and see if it could make any significant improvements: Evaluate current state of pwasm - then consider what it would take to get the MicroPython and micro JavaScript experiments from the research repo working under it - and what it would take to…",
+      "link": "https://simonwillison.net/2026/Oct/1/pwasm/",
+      "pubDate": "2026-10-01T17:10:31.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
