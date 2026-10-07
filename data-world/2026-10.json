@@ -2,6 +2,245 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "f6ca78a5c599",
+      "title": "★ Keeping Laravel and TypeScript in sync with data objects",
+      "description": "At Spatie we build SaaS apps with Laravel on the backend and Inertia with React on the frontend. That split means two type systems have to agree about every payload that crosses between them. Laravel data going out, TypeScript picking it up. There There, the helpdesk we're building, is built exactly like that. Tickets, messages, members, custom sidebar sections, all of it crosses the bridge. We'd go insane maintaining those types by hand. So we don't. There There is in private beta right now,…",
+      "link": "https://freek.dev/3090-keeping-laravel-and-typescript-in-sync-with-data-objects",
+      "pubDate": "2026-10-07T10:30:50.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eddb9a2daae5",
+      "title": "New in Symfony 8.2: Compiled Event Dispatcher",
+      "description": "Contributed by Nicolas Grekas in #66122 ,…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-compiled-event-dispatcher?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-07T07:27:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "56224676afd3",
+      "title": "Quoting Jake Boggan",
+      "description": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. Last summer I even thought for a few days that I had actually solved it. But it's supposedly proven here - problem 180. I don't know what to think exactly. I spent thousands of hours on that problem. I really enjoyed…",
+      "link": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+      "pubDate": "2026-10-07T04:47:55.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a919ba35a5e0",
+      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "description": "OpenAI “rogue” agent activities found on Wikimedia projects Given how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once they went looking: The Wikimedia Foundation conducted its own investigation to see whether Wikimedia websites had been similarly affected by AI agents, focusing on those operated by OpenAI. We can confirm that we have discovered some activity by these “rogue” OpenAI agents on Wikimedia platforms.…",
+      "link": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+      "pubDate": "2026-10-07T00:16:45.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cefb200a86cb",
+      "title": "Chunked Prefill, clearly explained",
+      "description": "How vLLM stops one long prompt from stalling others...",
+      "link": "https://blog.dailydoseofds.com/p/chunked-prefill-clearly-explained",
+      "pubDate": "2026-10-07T00:08:47.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!RyxX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f8f47af-b1e4-429d-bdcc-e20fd761deb7_1232x1080.png",
+      "type": "blog"
+    },
+    {
+      "id": "d1e512dab385",
+      "title": "Quoting Victoria Kim",
+      "description": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not supposed to, Mr. Kwon [chief strategy officer at OpenAI] said. &mdash; Victoria Kim, Reporting from the Australian parliament Tags: accidental-cyberattacks, generative-ai, ai-security-research, openai, ai, llms",
+      "link": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+      "pubDate": "2026-10-06T23:58:56.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "62c509640c5d",
+      "title": "llm-openai-decisions 0.1a0",
+      "description": "Release: llm-openai-decisions 0.1a0 OpenAI released their new Jev-style Decisions API, as previously announced at last week's DevDay. Since I already have an llm-typesafe plugin for talking to Jev, I had GPT-6 Astra read the new OpenAI API documentation and build an llm-openai-decisions plugin inspired by llm-typesafe. Unlike Jev, the new gpt-6-luna decision model supports image input in addition to text. Both models charge for input it and not for output: OpenAI's is 10 cents per million input…",
+      "link": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "pubDate": "2026-10-06T23:04:13.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1244a96b60ce",
+      "title": "llm-mistral 0.16",
+      "description": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4. Tags: llm, mistral, llm-reasoning",
+      "link": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+      "pubDate": "2026-10-06T21:32:34.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1f6a7ac23b12",
+      "title": "EmbeddingGemma 2",
+      "description": "My comment on EmbeddingGemma 2 &mdash; Hacker News.I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don't think it makes sense to use a closed, proprietary, hosted-only model. Most applications of embedding models involve calculating thousands or even millions of embedding vectors and storing them for later comparison. If your model is proprietary, the vendor is likely someday going to decide to stop offering that model. They'll…",
+      "link": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+      "pubDate": "2026-10-06T20:37:53.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0e8219bd6433",
+      "title": "Introducing Mistral Large 4: Le chonk",
+      "description": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs. The preview is available via their API. They promise to release the open weights model at the \"end of this month\". The model only supports two reasoning levels - \"none\" and \"high\" - via the Mistral API. Here are both pelicans - the \"high\" one looks…",
+      "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+      "pubDate": "2026-10-06T20:18:19.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16278565d509",
+      "title": "Using Parseable with Datasette for OpenTelemetry traces",
+      "description": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterprise\" version with extra features and a cloud hosted option. Since Datasette 1.0a41 added OpenTelemetry support (thanks, Alex Garcia), I decided to fire up Codex and have it figure out how to run Parseable and feed it traces from Datasette. Here's my (human-written) TIL showing…",
+      "link": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
+      "pubDate": "2026-10-06T19:07:31.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6e30bcb51f64",
+      "title": "Introducing Socket Scanning for VS Code Marketplace Extensions",
+      "description": "If 2026 has shown us anything, it’s that the software supply chain doesn’t stop at the dependencies in your apps. It includes the tools your developers use to write, build, and ship code. VS Code extensions run inside an environment full of source code, credentials, and access to company infrastructure. A malicious extension can put all of that within an attacker’s reach. Today, we’re launching experimental support for scanning VS Code Marketplace extensions. This extends our proactive security…",
+      "link": "https://socket.dev/blog/vscode-extensions?utm_medium=feed",
+      "pubDate": "2026-10-06T19:07:23.184Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/097df934782be99f5b7f31460c7f344ef8217d74-1065x754.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "6218e0219f68",
+      "title": "Mistral Large 4",
+      "description": "My comment on Mistral Large 4 &mdash; Hacker News. wren6991: The benchmark is saturated. Frontier models are tested with an armadillo in fishnet tights jaywalking on Mars. OK well I couldn't resist this one: llm -m claude-opus-5.5 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars' llm -m gpt-6.1-sol 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars' llm -m gemini-3.8-flash 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars' llm -m…",
+      "link": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
+      "pubDate": "2026-10-06T18:20:58.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "85aa24163c1d",
+      "title": "datasette-atom 0.11a0",
+      "description": "Release: datasette-atom 0.11a0 A minor fix for compatibility with the latest Datasette alphas. This meant we could upgrade the datasette.io site to Datasette 1.0a41. Tags: atom, datasette",
+      "link": "https://simonwillison.net/2026/Oct/6/datasette-atom/",
+      "pubDate": "2026-10-06T17:35:39.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "40554e21f87e",
+      "title": "Scrimshaw Jukebox",
+      "description": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this: I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example tracks in that artifact I am looking for music of the quality of the original secret of Monkey Island It leaned a lot harder into the Monkey Island theme than I had intended, but the results are surprisingly good. I wonder if…",
+      "link": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+      "pubDate": "2026-10-06T15:17:39.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "15e24d42ae0f",
+      "title": "SymfonyCon Warsaw 2026: From 14s to 1.8s: A Symfony Cold Start Autopsy",
+      "description": "The ultimate gathering for PHP enthusiasts is heading to Poland! On November 26-27, SymfonyCon Warsaw 2026 delivers two full days of technical insights, 3 parallel tracks, and rich networking opportunities. Reserve your seat with the global community!…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-from-14s-to-1-8s-a-symfony-cold-start-autopsy?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-06T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
       "id": "79ce62293f7d",
       "title": "How to Build Reliable AI Agent Systems for Production",
       "description": "The following article was originally published on the Agentic AI Foundation blog site and is being republished here with the author’s permission. A customer asks your company’s AI agent to update the shipping address on account 123. The agent relies on a support ticket with a typo and updates account 132 instead. The customer relationship […]",

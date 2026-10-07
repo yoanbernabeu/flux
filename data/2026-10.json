@@ -2,6 +2,124 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "5ba23a5c8931",
+      "title": "Les-Tilleuls.coop annonce le lancement de Tilia, son offre d’accompagnement sur mesure en intelligence artificielle",
+      "description": "Depuis plus de 15 ans, nous construisons des logiciels et des architectures robustes : des API, des applications web, des infrastructures cloud. Nous avons créé et maintenons API Platform, FrankenPHP, Mercure, et nous contribuons quotidiennement à PHP, Symfony, Caddy, Go… Des outils libres que des dizaines milliers d’équipes utilisent chaque jour dans le monde entier. […] Cet article, Les-Tilleuls.coop annonce le lancement de Tilia, son offre d’accompagnement sur mesure en intelligence…",
+      "link": "https://les-tilleuls.coop/blog/decouvrir-tilia-expertise-intelligence-artificielle",
+      "pubDate": "2026-10-07T08:49:42.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/image-1024x341.png",
+      "type": "blog"
+    },
+    {
+      "id": "5cdddc1945c2",
+      "title": "Jev vs LLM : l’IA qui prend des décisions plus vite ? ⚡",
+      "description": "Et si on utilisait les LLM pour trop de choses ? Jev adopte une approche différente : au lieu de générer du texte, il prend des décisions bornées avec des probabilités. Idéal pour le routing, la classification, les guardrails ou encore la vérification d’agents IA. Dans cette vidéo, je t’explique pourquoi Jev pourrait compléter les LLM dans certaines architectures agentiques. #IA #LLM #Jev #AgentsIA #AIEngineering",
+      "link": "https://www.youtube.com/watch?v=3-GU7UrVzUk",
+      "pubDate": "2026-10-07T08:00:16.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/3-GU7UrVzUk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "3-GU7UrVzUk"
+    },
+    {
+      "id": "f9c3f5008848",
+      "title": "De l'architecture au code : une pipeline de subagents Claude pensée pour l’apprentissage",
+      "description": "Peut-on accélérer le développement avec des agents IA sans perdre la maîtrise de son code ? Pour le tester, j'ai construit une pipeline de quatre subagents Claude Code qui s'arrête avant la logique métier, afin de monter en compétences sur un nouveau framework tout en codant aux côtés de l'IA.",
+      "link": "https://blog.ippon.fr/2026/10/07/de-larchitecture-au-code-une-pipeline-de-subagents-claude-pensee-pour-lapprentissage/",
+      "pubDate": "2026-10-07T07:31:53.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/article_image.png",
+      "type": "blog"
+    },
+    {
+      "id": "51437d8cd2ba",
+      "title": "#379.src - Productivité sans IA: Le mythe de la productivité avec Bastien Albertus",
+      "description": "\"l'IA n'est pas le seul levier pour qu'un dev travaille mieux\" Le D.E.V. de la semaine est Bastien Albertus, CIO chez lesfurets.com. Face à l'injonction des comités de direction d'augmenter la productivité des devs grâce à l'IA, Bastien remet en question la définition même de cette productivité et raconte comment son équipe a divisé par dix le time-to-market des intégrations partenaires... sans une once d'IA. Au menu : responsabilisation des développeurs, refonte des process, déspécialisation…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/379-2117b12ab830",
+      "pubDate": "2026-10-07T03:00:10.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/5cfd8a3b-9a47-4161-9228-71c9272e7819.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/a66ae0ae-9d90-450d-b3d6-2117b12ab830.mp3?_=1791288070",
+      "duration": "01:18:17"
+    },
+    {
+      "id": "c4ce5e1eb975",
+      "title": "Une époque formidable",
+      "description": "Je me dis que l’on vit une époque formidable avec l’IA. Pendant des années, j’ai accumulé des idées de projets et d’outils que j’aurais aimé avoir. Des problèmes que je rencontrais personnellement et que je souhaitais résoudre. Mais comme tout le monde, j’ai un temps qui est limité : famille, loisirs, tâches quotidiennes… Impossible de travailler toutes les idées que je peux avoir en tête. De plus, j’aime la technique, j’aime expérimenter et j’aime construire. Le problème, quand on souhaite…",
+      "link": "https://www.jdecool.fr/blog/2026/10/07/une-epoque-formidable.html",
+      "pubDate": "2026-10-06T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bccf0cd08946",
+      "title": "La Dette Temporelle : pourquoi vos équipes s'épuisent",
+      "description": "Pourquoi les équipes tech et les développeurs ont-ils l'impression permanente de courir après le temps, d'enchaîner les réunions stériles et de ne plus pouvoir coder 45 minutes d'affilée sans être interrompus ? Dans cette première partie, nous recevons Albane Fagot-Veyron, ex-chercheuse en astrophysique reconvertie en coach d'organisation et conférencière, spécialiste de l'approche systémique du temps en entreprise. Elle transpose le concept bien connu des développeurs — la dette technique — au…",
+      "link": "https://www.youtube.com/watch?v=t3iXSZxI5eU",
+      "pubDate": "2026-10-06T14:24:04.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/t3iXSZxI5eU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "t3iXSZxI5eU"
+    },
+    {
+      "id": "a590aee45f75",
+      "title": "Laravel : arrêtez de mettre vos backfills dans les migrations ! 🚀",
+      "description": "Les migrations Laravel sont parfaites pour faire évoluer le schéma de votre base de données. Mais que faire lorsqu'il faut modifier des données existantes, lancer un backfill ou exécuter une opération ponctuelle pendant un déploiement ? C'est précisément le problème que cherche à résoudre **DirectoryTree/Operations**. Dans ce tutoriel, on découvre ce nouveau package Laravel et comment l'utiliser pour : 👉 créer une Operation 👉 exécuter des modifications de données lors d'un déploiement 👉…",
+      "link": "https://www.youtube.com/watch?v=PZlxNmW0gs4",
+      "pubDate": "2026-10-06T12:35:11.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/PZlxNmW0gs4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "PZlxNmW0gs4"
+    },
+    {
       "id": "bafb3ebfbb94",
       "title": "Vous voulez connaître le quotidien d'un dev PHP ?",
       "description": "Vidéo YouTube publiée par Laravel Jutsu (YouTube) — Vous voulez connaître le quotidien d'un dev PHP ?",

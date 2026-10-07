@@ -535,6 +535,21 @@
       "type": "blog"
     },
     {
+      "id": "278298c925b9",
+      "title": "Lever l'anonymat en ligne : la fausse bonne idée",
+      "description": "Pourquoi l'anonymat en ligne est une bonne chose et le lever serait une erreur",
+      "link": "https://eventuallycoding.com/p/anonymat-sur-internet",
+      "pubDate": "2026-08-26T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a9f92e1373ca",
       "title": "Penser problème avant de penser solution",
       "description": "En tant que développeur, quand on démarre une tâche ou un projet, on pense facilement au framework que l’on va utiliser, à la base de données, aux patterns que l’on va pouvoir mettre en place. Et si c’était une erreur ? Car en réfléchissant de la sorte, on prend déjà des décisions avant même que le problème ne soit posé. On choisit une solution, une architecture, un outil, et ensuite on cherche la justification. N’est-ce pas penser à l’envers ? Penser problème avant de penser solution, c’est…",
