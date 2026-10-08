@@ -2,6 +2,168 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "17fa9b42253e",
+      "title": "The Preservation Gap in the AI Stack: Why Capability Is Advancing Faster Than Reconstructability",
+      "description": "Artificial intelligence systems are difficult to reproduce because their behavior depends on nondeterministic models and on data, configurations, policies, and external services that continue to change. But exact reproducibility is not always what operators, investigators, or auditors need. They often need something different: historical reconstructability. The central claim is that reconstructability is a system property […]",
+      "link": "https://www.oreilly.com/radar/the-preservation-gap-in-the-ai-stack-why-capability-is-advancing-faster-than-reconstructability/",
+      "pubDate": "2026-10-08T10:54:41.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/10/1791451883101-cba585e3-0ee3-488e-9c15-20e8269bcf02_1-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "7d803f685c01",
+      "title": "★ Laravel AI SDK in practice: the agent behind There There",
+      "description": "Over the past few weeks I've posted a couple of times about There There, the helpdesk we're building at Spatie. After two decades of running our own customer support, we decided to stop compromising on tools and build the one we actually want to use. A lot of the fun is on the AI side. We're not using it to replace support agents, we're using it to make them faster. The human reads the ticket, thinks, and clicks a button. The model pulls up relevant history, drafts a reply, tags the ticket,…",
+      "link": "https://freek.dev/3089-laravel-ai-sdk-in-practice-the-agent-behind-there-there",
+      "pubDate": "2026-10-08T10:30:24.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9d948e7bbafd",
+      "title": "New in Symfony 8.2: EntityExists, Cron and Audio Constraints",
+      "description": "The Symfony Validator component provides over 80 built-in constraints to validate all kinds of data. Symfony 8.2 adds three new constraints for some common needs that previously required custom validation code. EntityExists Constraint…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-entityexists-cron-and-audio-constraints?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-08T07:03:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/evgenijvy.picture",
+      "type": "blog"
+    },
+    {
+      "id": "b38f3b21a330",
+      "title": "TensorLake npm SDK Compromised in ChainDrop Shai-Hulud Credential-Stealing Attack",
+      "description": "Socket detected a compromised release of tensorlake, the npm SDK for Tensorlake’s AI agent infrastructure, in a ChainDrop / Shai-Hulud supply chain attack. Version 0.5.144 contains obfuscated malware that harvests credentials, exfiltrates secrets, establishes persistence, and executes remotely supplied code. The package receives approximately 12K weekly downloads and has over 1k stars on GitHub. Tensorlake provides isolated sandboxes for running untrusted, LLM-generated code, with…",
+      "link": "https://socket.dev/blog/tensorlake-compromise?utm_medium=feed",
+      "pubDate": "2026-10-08T02:54:50.050Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d663e02c9f88",
+      "title": "RAG vs. Jev + RAG, clearly explained!",
+      "description": "...with visuals.",
+      "link": "https://blog.dailydoseofds.com/p/rag-vs-jev-rag-clearly-explained",
+      "pubDate": "2026-10-08T00:19:29.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!reFL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c92355e-698c-4e35-aa6c-71d37e1e4d75_1080x1080.gif",
+      "type": "blog"
+    },
+    {
+      "id": "f60f92689e06",
+      "title": "Quoting Ben Affleck",
+      "description": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors to what the transformer can do, which is just much more computation simultaneously, you would do things…",
+      "link": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+      "pubDate": "2026-10-07T23:14:58.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "231befe88d75",
+      "title": "Claude Haiku 5.5",
+      "description": "As previously promised, here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5. The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago, and was priced at $1/million input and $5/million output - relatively expensive even back then, and a full 10x the price of OpenAI's GPT-6 Luna, released last month. The new Haiku exactly matches the price of GPT-6 Luna - $0.10/$0.50 - up to 100,000 tokens. Beyond 100,000 tokens the price increases 5x to…",
+      "link": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+      "pubDate": "2026-10-07T20:56:21.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b329842615ec",
+      "title": "Community Corner Podcast:  This Week in PHP Internals with Len Woodward",
+      "description": "In this episode, Scott talks Len Woodward about This Week in PHP Internals and the state of the PHP Internals world. Links: Our Discord – https://discord.gg/aMTxunVx Buy our shirts – https://store.phparch.com/products/community-corner-podcast-t-shirt Len’s Links: X / Twitter: @ProjektGopher — https://x.com/ProjektGopher Bluesky: @projektgopher.com — https://bsky.app/profile/projektgopher.com Mastodon: @ProjektGopher@phpc.social — https://phpc.social/@ProjektGopher Threads: @projektgopher —…",
+      "link": "https://www.phparch.com/podcast/community-corner-podcast-this-week-in-php-internals-with-len-woodward/",
+      "pubDate": "2026-10-07T16:00:19.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/10/This-Week-in-PHP-Internals-with-Len-Woodward.png",
+      "type": "blog"
+    },
+    {
+      "id": "d564801aa660",
+      "title": "16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials",
+      "description": "Socket Threat Research identified a coordinated campaign of 16 Firefox extensions targeting cryptocurrency wallet users. The extensions masquerade as wallet portals, desktop utilities, and browser tools, but their code intercepts recovery phrases and private keys during wallet import flows and attempts to send those secrets to attacker-controlled Cloudflare Workers. The campaign is a cryptocurrency wallet credential-stealing operation with a variety of lures: Four large extensions are clones of…",
+      "link": "https://socket.dev/blog/firefox-crypto-wallet-stealers?utm_medium=feed",
+      "pubDate": "2026-10-07T15:43:09.619Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/8bcab07d51e4fd99b9ab6826c73c267c4796ad8f-1540x875.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "4c30b4b05fcb",
+      "title": "Anti-Patterns in Software Blogging",
+      "description": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality. He also warns against overreliance on links as an excuse not to explain terminology. This one hurt! I do this all the time, but I have a nagging suspicion that almost nobody ever clicks on them. (In a Lobste.rs comment Michael clarifies that \"My rule of…",
+      "link": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+      "pubDate": "2026-10-07T14:53:51.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5073aee7d42c",
+      "title": "Build Your Own Post-training Pipeline",
+      "description": "This is the final post in a four-part series about post-training. If you missed them, check out part 1, part 2, and part 3. Time to get your hands dirty! I’ll take you through implementing the key pieces of the classic ChatGPT pipeline: SFT, then reward model training, then PPO. The goal isn’t to reproduce […]",
+      "link": "https://www.oreilly.com/radar/build-your-own-post-training-pipeline/",
+      "pubDate": "2026-10-07T10:54:16.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f6ca78a5c599",
       "title": "★ Keeping Laravel and TypeScript in sync with data objects",
       "description": "At Spatie we build SaaS apps with Laravel on the backend and Inertia with React on the frontend. That split means two type systems have to agree about every payload that crosses between them. Laravel data going out, TypeScript picking it up. There There, the helpdesk we're building, is built exactly like that. Tickets, messages, members, custom sidebar sections, all of it crosses the bridge. We'd go insane maintaining those types by hand. So we don't. There There is in private beta right now,…",
@@ -73,6 +235,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!RyxX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f8f47af-b1e4-429d-bdcc-e20fd761deb7_1232x1080.png",
+      "type": "blog"
+    },
+    {
+      "id": "90f4973bf38c",
+      "title": "PIE 1.5 Released",
+      "description": "The PIE team is pleased to announce the release of the PHP Installer for Extensions 1.5 series, which has been in the works for around five months. There has been significant work gone into some internal improvements which has enabled us to deliver several long-awaited features for the tool. Lets dive into a few of these new features! Install multiple extensions You are now able to install multiple extensions at once, for example: $ pie install php-amqp/php-amqp:^2.2 girgias/csv This is helpful…",
+      "link": "https://thephp.foundation/blog/2026/10/07/pie-1-5-released/",
+      "pubDate": "2026-10-07T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

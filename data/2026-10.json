@@ -2,6 +2,51 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "ce7ccb6ed411",
+      "title": "What Public Relations Can Help You Achieve in the Age of AI",
+      "description": "Public relations play a crucial role in the visibility and credibility of companies, especially in the age of artificial intelligence. They help build a reputation by providing expert content that influences purchasing decisions. Leaders must speak out to make their expertise concrete, as this prepares future clients before the first commercial contact. L’article What Public Relations Can Help You Achieve in the Age of AI est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/08/what-public-relations-can-help-you-achieve-in-the-age-of-ai/",
+      "pubDate": "2026-10-08T10:34:55.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "865cd0200637",
+      "title": "C’est pas parce qu’on a défini des OKR qu’on a de l’impact !",
+      "description": "Définir des OKR ne garantit ni l’alignement ni l’impact. Trop souvent, la dynamique s’éteint dès la fin des ateliers : objectifs oubliés, rituels absents, résultats invisibles. Derrière la partie visible de l'iceberg se cache tout ce qui fait vraiment la différence. Découvrez comment transformer vos intentions stratégiques en impact réel.",
+      "link": "https://blog.octo.com/l'iceberg-okr",
+      "pubDate": "2026-10-08T09:54:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2e15d47b0f11",
+      "title": "Digital Sovereignty: Europe’s Head in the Clouds, Octave Klaba Challenges the Cloud Status Quo",
+      "description": "Octave Klaba, founder of OVHcloud, criticised the recent hearing at the National Assembly, highlighting Europe's lack of political courage in the face of AI. He denounces the short-term financial culture of investors and the administrative inefficiency that hinders innovation. For him, it is crucial to redirect public funds towards European players to support local industry. L’article Digital Sovereignty: Europe’s Head in the Clouds, Octave Klaba Challenges the Cloud Status Quo est apparu en…",
+      "link": "https://oliviersauvage.com/2026/10/07/digital-sovereignty-europes-head-in-the-clouds-octave-klaba-challenges-the-cloud-status-quo/",
+      "pubDate": "2026-10-07T14:39:23.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5ba23a5c8931",
       "title": "Les-Tilleuls.coop annonce le lancement de Tilia, son offre d’accompagnement sur mesure en intelligence artificielle",
       "description": "Depuis plus de 15 ans, nous construisons des logiciels et des architectures robustes : des API, des applications web, des infrastructures cloud. Nous avons créé et maintenons API Platform, FrankenPHP, Mercure, et nous contribuons quotidiennement à PHP, Symfony, Caddy, Go… Des outils libres que des dizaines milliers d’équipes utilisent chaque jour dans le monde entier. […] Cet article, Les-Tilleuls.coop annonce le lancement de Tilia, son offre d’accompagnement sur mesure en intelligence…",
@@ -68,6 +113,23 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/a66ae0ae-9d90-450d-b3d6-2117b12ab830.mp3?_=1791288070",
       "duration": "01:18:17"
+    },
+    {
+      "id": "a847bc5c09ed",
+      "title": "News octobre 2026, Cloudflare Birthday Week, Shaders open source et pencils down",
+      "description": "Nous évoquons la Cloudflare Birthday Week avec la CLI cf, Vinext et Clef, Shaders qui passe en open source sous MIT, Yann LeCun à Sciences Po sur les world models et JEPA, Lightpanda 1.0 hors beta, le patch sécurité Next.js 15.5.27 et 16.3.8, Turso qui rejoint Supabase, TanStack Charts 1.0, la keynote DHH pencils down avec HEY en Rust, le runtime Copilot porté en Rust, ng-native, OpenDots et OpenMuse, Upstash Blob à 1 To d’egress, un mois sans IA, Nuxt 4.6, et quelques outils comme uncheck,…",
+      "link": "https://double-slash.dev/podcasts/news-oct-26-rc1/",
+      "pubDate": "2026-10-07T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1791365672/episode/ART_142_c5ioxn.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_142_news-oct-26-rc1.mp3",
+      "duration": "5052"
     },
     {
       "id": "c4ce5e1eb975",
