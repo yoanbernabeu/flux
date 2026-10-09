@@ -2,6 +2,139 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "585944fa7453",
+      "title": "Intent, Not Identity",
+      "description": "On a recent episode of This Week in AI, we discussed that the number of nonhumans on the internet is greater than humans, 144 to 1. It’s an estimate, and the order of magnitude is more important than the number itself. What matters is what a ratio anywhere in that range does to a security […]",
+      "link": "https://www.oreilly.com/radar/intent-not-identity/",
+      "pubDate": "2026-10-09T10:54:17.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "865a6e0d48e0",
+      "title": "★ Typed routes from Laravel to React with Wayfinder",
+      "description": "I've been writing about There There a lot lately. It's a helpdesk we're building at Spatie, born from two decades of running our own customer support for our open source work and SaaS apps. After all that time being the customer of other helpdesks, we finally started on the one we actually wanted to use. Our take on AI here is to aim it at the support agent, not the customer. The human owns the conversation. The model makes the reply a little cleaner and a little faster. There There is in…",
+      "link": "https://freek.dev/3088-typed-routes-from-laravel-to-react-with-wayfinder",
+      "pubDate": "2026-10-09T10:30:14.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae4ba069ea80",
+      "title": "New in Symfony 8.2: Single-Use and Safer Signed URLs",
+      "description": "Signed URLs let you share links that can't be tampered with, such as password reset links, email confirmation links or download links. Symfony provides the UriSigner utility to create and check them, and login links to log in users without a password. Symfony…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-single-use-and-safer-signed-urls?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-09T07:19:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/kbond.picture",
+      "type": "blog"
+    },
+    {
+      "id": "4531aaeb11d6",
+      "title": "ttok 1.0",
+      "description": "Release: ttok 1.0 I released ttok 0.4, ran uv tool upgrade ttok, piped a file into the new version... and realized that it was defaulting to the GPT-4 tokenizer when it should very clearly default to GPT-5/GPT-6 instead! I figured switching the default was a reasonable excuse to finally ship a 1.0. OpenAI haven't actually confirmed that GPT-6 uses the same tokenizer as the GPT-5 family yet - there's an angry issue about it - but I found this commit by William Liu which reports on an experiment…",
+      "link": "https://simonwillison.net/2026/Oct/9/ttok/",
+      "pubDate": "2026-10-09T00:34:43.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f242adb232a8",
+      "title": "ttok 0.4",
+      "description": "Release: ttok 0.4 ttok is my CLI tool for counting tokens, using OpenAI's open source tiktoken library. It hasn't been in updated in a couple of years, but I finally fixed a Click warning, updated CI, and added a --list-models command to list available models. It works with uvx, so you can count tokens in anything like this: cat file.txt | uvx ttok Tags: projects, ai, openai, generative-ai, llms, tokenization",
+      "link": "https://simonwillison.net/2026/Oct/8/ttok/",
+      "pubDate": "2026-10-08T23:34:28.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "554de288c5ce",
+      "title": "Karpathy’s Trick for Faster Local LLMs Finally Has Proper Tooling",
+      "description": "Full engineering guide, explained with code.",
+      "link": "https://blog.dailydoseofds.com/p/karpathys-trick-for-faster-local",
+      "pubDate": "2026-10-08T22:39:22.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!BEIy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a4532ac-20be-4f61-b1e1-6d66790f8c8d_1376x768.png",
+      "type": "blog"
+    },
+    {
+      "id": "ed14048bb912",
+      "title": "Quoting Carson Gross",
+      "description": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve problems with computers and how to control the complexity of those solutions is less valuable than it is today, so I think it will continue to be a viable career even with the advent of AI tools. &mdash; Carson Gross Tags: computer-science, carson-gross, careers, ai",
+      "link": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+      "pubDate": "2026-10-08T21:05:44.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6d6d1a49624a",
+      "title": "PHP Foundation Community Hour Podcast 2026.10.08",
+      "description": "🎙️ PHP Foundation Community Hour – October 8, 2026 Hosts: Elizabeth Barron & James Titcumb James tells the story of how he fell into open source, breaks down what Pie actually does, celebrates the 1.5 release, and shares real advice for anyone nervous about making their first contribution. 🌱 How James Got Into Open Source […] The post PHP Foundation Community Hour Podcast 2026.10.08 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/php-foundation-community-hour-podcast-2026-10-08/",
+      "pubDate": "2026-10-08T17:51:51.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/10/ZmE680PCJyY-maxresdefault.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "93bb7e680c93",
+      "title": "SymfonyCon Warsaw 2026: Exposing Your API to AI Agents",
+      "description": "Ready to take your PHP and Symfony skills to the next level? SymfonyCon Warsaw 2026 lands in Poland on November 26-27! Gather with developers worldwide for two high-impact days offering 3 parallel tracks and exciting community events. Mark your calendar…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-exposing-your-api-to-ai-agents?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-08T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
       "id": "17fa9b42253e",
       "title": "The Preservation Gap in the AI Stack: Why Capability Is Advancing Faster Than Reconstructability",
       "description": "Artificial intelligence systems are difficult to reproduce because their behavior depends on nondeterministic models and on data, configurations, policies, and external services that continue to change. But exact reproducibility is not always what operators, investigators, or auditors need. They often need something different: historical reconstructability. The central claim is that reconstructability is a system property […]",
@@ -72,6 +205,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!reFL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c92355e-698c-4e35-aa6c-71d37e1e4d75_1080x1080.gif",
+      "type": "blog"
+    },
+    {
+      "id": "ff70c2e0188c",
+      "title": "Your Tool Has a New Reader",
+      "description": "Every PHP tool that prints to a terminal now has two readers, and most of us have only been writing for one of them. The output of a PHP command-line tool used to have one reader: a developer looking at a terminal. That reader sees glyphs. The terminal interprets escape sequences, moves the cursor, erases lines, and shows the result. What the tool wrote and what the human sees are usually the same thing, and nobody thinks about the gap. A coding agent does not look at a terminal. It reads the…",
+      "link": "https://thephp.foundation/blog/2026/10/08/your-tool-has-a-new-reader/",
+      "pubDate": "2026-10-08T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

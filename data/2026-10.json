@@ -2,6 +2,52 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "e9ec7302ad9b",
+      "title": "Where to find original content to create marketing content?",
+      "description": "Creating original marketing content, especially on LinkedIn, is a challenge. It is essential to diversify your sources of inspiration, both external and internal, to regularly generate ideas. Using studies, news, client testimonials, and internal expertise enriches communication and enhances the company's image. L’article Where to find original content to create marketing content? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/09/where-to-find-original-content-to-create-marketing-content/",
+      "pubDate": "2026-10-09T10:12:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "40c8d98cb24d",
+      "title": "#354.exe - Self Hosting: Tout refaire pour être indépendant par Alexandre Bouchard",
+      "description": "Pour l'épisode #354 je recevais Loic Tosser. On en débrief avec Alexandre. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/354-f8e2e21cdc70",
+      "pubDate": "2026-10-09T03:00:13.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/3193c399-aef9-4749-8179-f8e2e21cdc70.mp3?_=1791460873",
+      "duration": "15:36"
+    },
+    {
+      "id": "b31330446860",
+      "title": "YouTube est-il devenu incontournable pour faire connaître son entreprise aux IA ?",
+      "description": "Dans cet épisode de B2Biz, Renaud Joly explique comment l'IA générative impacte le SEO et cause un effondrement du trafic web. Il conseille de diversifier les contenus, notamment à travers la vidéo, pour attirer les clients. Les dirigeants doivent s'adapter aux nouvelles attentes des internautes pour protéger leur visibilité en ligne. L’article YouTube est-il devenu incontournable pour faire connaître son entreprise aux IA ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/08/youtube-est-il-devenu-incontournable-pour-faire-connaitre-son-entreprise-aux-ia/",
+      "pubDate": "2026-10-08T17:38:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ce7ccb6ed411",
       "title": "What Public Relations Can Help You Achieve in the Age of AI",
       "description": "Public relations play a crucial role in the visibility and credibility of companies, especially in the age of artificial intelligence. They help build a reputation by providing expert content that influences purchasing decisions. Leaders must speak out to make their expertise concrete, as this prepares future clients before the first commercial contact. L’article What Public Relations Can Help You Achieve in the Age of AI est apparu en premier sur OlivierSauvage.com.",
@@ -30,6 +76,23 @@
         "DevOps"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "753bd6c951f7",
+      "title": "Former une équipe aux agents IA : l'outil, c'est la partie facile",
+      "description": "Apprendre un agent IA prend quelques jours. Changer la façon de travailler d'une équipe prend des mois, et ça ne se fait pas avec un programme sur étagère. Retour sur ma façon d'accompagner une équipe, à partir d'un parcours que je viens d'animer.",
+      "link": "https://yoandev.co/former-equipe-developpement-agentique",
+      "pubDate": "2026-10-08T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/former-equipe-developpement-agentique.webp",
       "type": "blog"
     },
     {
