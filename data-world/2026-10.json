@@ -2,6 +2,110 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "5af1a93eb20f",
+      "title": "Quoting The New York Times",
+      "description": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said. &mdash; The New York Times, Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website Tags: accidental-cyberattacks, anthropic,…",
+      "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "pubDate": "2026-10-10T02:04:12.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e9430986b742",
+      "title": "Train your own Jev-style decision model locally!",
+      "description": "A full video walkthrough explained with code!",
+      "link": "https://blog.dailydoseofds.com/p/train-your-own-jev-style-decision",
+      "pubDate": "2026-10-09T22:54:33.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/1f63c368-5acb-4a2f-8537-f54797f8f01f_1200x480.png",
+      "type": "blog"
+    },
+    {
+      "id": "1d5fd2024cae",
+      "title": "Deno is joining Cloudflare",
+      "description": "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to \"make workerd self-hosting a first-class supported way to build and run apps using the Workers programming model\" (see the Cloudflare blog.) The bad news is that Deno itself will not be maintained by Cloudflare beyond the next…",
+      "link": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+      "pubDate": "2026-10-09T22:48:37.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7af93f3f2c14",
+      "title": "Quoting Matthew Green",
+      "description": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...] The problem here is that the speed of AI producing surprises, and the speed of human beings replacing standards (even with the very best AI assistance) are just orders of magnitude different. You only recover from a…",
+      "link": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+      "pubDate": "2026-10-09T15:02:29.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ef71fdcc48e",
+      "title": "arXiv Is Rate Limiting Authors Following a Flood of AI Slop Submissions",
+      "description": "Low-quality submissions are overwhelming arXiv’s volunteer moderators and delaying quality papers for days or weeks. The preprint repository is now limiting each submitter to two submissions per calendar month. The new policy, effective this month, applies across all subject categories. It adds a monthly cap to an existing limit of three active submissions at a time, in place since 2024. Rejected papers count toward the monthly total, too, since a paper that gets bounced has already consumed a…",
+      "link": "https://socket.dev/blog/arxiv-rate-limiting-slop?utm_medium=feed",
+      "pubDate": "2026-10-09T14:44:50.809Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "305ba874f36f",
+      "title": "A new feature for my blog, built using my voice",
+      "description": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting away to my laptop while I cooked dinner. Codex voice mode I used the ChatGPT desktop app for this, in the Codex tab, using the voice conversation mode, running against a local development environment. Here's what that looks like: I started the…",
+      "link": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+      "pubDate": "2026-10-09T12:54:06.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "63e4c5b47aee",
+      "title": "New GhostAction Wave Hits Hundreds of Repos, Expanding Beyond CI/CD Secrets to Cloud Credentials",
+      "description": "Update (October 9, 2026, [HH:MM] UTC): Since publication, Socket has identified more than 500 GitHub accounts that committed the malicious workflow to tens of thousands of repositories since October 7, 2026, including several organization-owned ones reached through the compromised contributors. The two accounts described below remain the most prominent, and kitao/pyxel is the clearest confirmed case of publishing credentials being targeted by a successful run. Socket analyzed an October 8, 2026…",
+      "link": "https://socket.dev/blog/ghostaction-cloud-credentials?utm_medium=feed",
+      "pubDate": "2026-10-09T12:07:00.455Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/f908cdbff18d196c56cac65e27fa3a223b059cb0-1600x900.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
       "id": "585944fa7453",
       "title": "Intent, Not Identity",
       "description": "On a recent episode of This Week in AI, we discussed that the number of nonhumans on the internet is greater than humans, 144 to 1. It’s an estimate, and the order of magnitude is more important than the number itself. What matters is what a ratio anywhere in that range does to a security […]",

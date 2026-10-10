@@ -2,6 +2,39 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "d11793f61ec2",
+      "title": "Le développement agentique est-il le fossoyeur de la modélisation métier ? - Part 2",
+      "description": "Dans la première partie, nous avons vu que le développement agentique ne remet pas seulement en question notre manière de produire du code : il transforme aussi la manière dont nous construisons notre compréhension du problème.",
+      "link": "https://blog.octo.com/le-developpement-agentique-est-il-le-fossoyeur-de-la-modelisation-metier",
+      "pubDate": "2026-10-10T07:06:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e20b455157e6",
+      "title": "Laravel AI SDK 1.1 : les Agent Skills expliqués avec une démo",
+      "description": "Tu développes avec Laravel et tu t'intéresses aux agents IA ? Cette nouveauté du Laravel AI SDK 1.1 devrait t'intéresser. 👀 Dans cette vidéo, je te montre comment donner accès aux **Agent Skills** à un agent IA construit avec Laravel. Au programme : ⚡ Comprendre le fonctionnement des Agent Skills 📁 Créer un Skill avec un fichier `SKILL.md` 🤖 Construire un agent Laravel qui implémente `HasSkills` 🛠️ Découvrir le rôle de l'outil `LoadSkill` 💡 Voir comment un agent peut charger les…",
+      "link": "https://www.youtube.com/watch?v=kzYC37oc-hg",
+      "pubDate": "2026-10-09T15:58:24.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/kzYC37oc-hg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "kzYC37oc-hg"
+    },
+    {
       "id": "e9ec7302ad9b",
       "title": "Where to find original content to create marketing content?",
       "description": "Creating original marketing content, especially on LinkedIn, is a challenge. It is essential to diversify your sources of inspiration, both external and internal, to regularly generate ideas. Using studies, news, client testimonials, and internal expertise enriches communication and enhances the company's image. L’article Where to find original content to create marketing content? est apparu en premier sur OlivierSauvage.com.",
