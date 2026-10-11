@@ -2,6 +2,81 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "b6a909ab8662",
+      "title": "Laravel Context: The Hidden Information That Follows Your Code",
+      "description": "A clear walkthrough of Laravel's Context feature and how it lets execution-scoped information travel through your app. It also explains why that matters for logging, queued jobs, and keeping trace data available without threading it through every method call. Read more",
+      "link": "https://freek.dev/3203-laravel-context-the-hidden-information-that-follows-your-code",
+      "pubDate": "2026-10-11T10:31:02.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff5b0d746a7e",
+      "title": "A Week of Symfony #1032 (October 5–11, 2026)",
+      "description": "This week, we published new articles about upcoming Symfony 8.2 features, including targeted Cache-Control, relative ordering for listeners and services, the compiled event dispatcher, the three new validation constraints, and single-use signed URLs. Meanwhile,…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1032-october-5-11-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-11T07:01:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ed32cd489cb3",
+      "title": "Dwarf Fortress uses version control now",
+      "description": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more. That's art. I went looking and I'm sad to report that the days without version control appear to have ended. Quoting Tarn Adams over time: March 2013: \"I don't use version control -- I didn't like the feeling of having the code get committed into a black box…",
+      "link": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "pubDate": "2026-10-11T00:52:37.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a2dbc26766a3",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "description": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that this has landed, you can add \"3.15\" to a GitHub Actions testing matrix to run tests against the new Python 3.15.0 release. Tags: github, python, github-actions, chatgpt",
+      "link": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "pubDate": "2026-10-10T23:58:04.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba047830fed7",
+      "title": "Migrating Pinkary from Laravel Forge to Laravel Cloud",
+      "description": "A practical engineering write-up on moving Pinkary from Laravel Forge to Laravel Cloud. It walks through the real migration issues they hit, including SQLite to MySQL differences, query rewrites, and storage assumptions in the codebase. Read more",
+      "link": "https://freek.dev/3202-migrating-pinkary-from-laravel-forge-to-laravel-cloud",
+      "pubDate": "2026-10-10T10:30:41.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5af1a93eb20f",
       "title": "Quoting The New York Times",
       "description": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said. &mdash; The New York Times, Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website Tags: accidental-cyberattacks, anthropic,…",
