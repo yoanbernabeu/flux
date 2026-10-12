@@ -2,6 +2,50 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "9c25649c9d71",
+      "title": "Readonly Property Defaults in PHP 8.6: A Four-Year-Old Restriction Finally Lifts",
+      "description": "A clear overview of PHP 8.6's readonly property defaults RFC, why the old restriction existed, and why interface properties made it worth revisiting. It also covers the practical edge cases, so you know where the new syntax helps and where it still does not. Read more",
+      "link": "https://freek.dev/3204-readonly-property-defaults-in-php-86-a-four-year-old-restriction-finally-lifts",
+      "pubDate": "2026-10-12T10:30:50.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0c7031fe1765",
+      "title": "New in Symfony 8.2: Proving Authentication Methods",
+      "description": "The new sudo mode of Symfony 8.2 checks when users last entered their credentials. Some applications also need to know how they did it: a password is fine to read your invoices, but sending money may require a hardware security key. This post explains how…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-proving-authentication-methods?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-12T07:05:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "e0eec0f56380",
+      "title": "How to Train an LLM With Verifiable Rewards on SageMaker AI",
+      "description": "full step-by-step guide with code.",
+      "link": "https://blog.dailydoseofds.com/p/how-to-train-an-llm-with-verifiable",
+      "pubDate": "2026-10-11T23:02:54.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!2PpY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c08c2b1-ec0b-4980-95b7-816b6ececcc1_1376x768.png",
+      "type": "blog"
+    },
+    {
       "id": "b6a909ab8662",
       "title": "Laravel Context: The Hidden Information That Follows Your Code",
       "description": "A clear walkthrough of Laravel's Context feature and how it lets execution-scoped information travel through your app. It also explains why that matters for logging, queued jobs, and keeping trace data available without threading it through every method call. Read more",
