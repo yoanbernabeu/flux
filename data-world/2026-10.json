@@ -2,6 +2,108 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "3a6267bd2b09",
+      "title": "When Architecture Decisions Actually Apply",
+      "description": "In my previous Radar article, “Architectural Guardrails for AI-Generated Code,” I argued that AI coding agents need a layer that can hold architectural decisions in a structured corpus, retrieve the relevant ones, put them into the agent’s context before it writes code, and enforce explicit constraints with reproducible checks. Testing that model exposed two distinctions […]",
+      "link": "https://www.oreilly.com/radar/when-architecture-decisions-actually-apply/",
+      "pubDate": "2026-10-13T11:02:53.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2b734a52b159",
+      "title": "Why I think we should write our own PR descriptions",
+      "description": "Ryan Chandler makes a strong case for keeping PR descriptions human-written, even when agents handle most of the implementation. The piece focuses on ownership, review context, and why a concise explanation from the person driving the change is more useful than a long AI-generated summary. Read more",
+      "link": "https://freek.dev/3205-why-i-think-we-should-write-our-own-pr-descriptions",
+      "pubDate": "2026-10-13T10:30:42.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5d84c67a5e30",
+      "title": "New in Symfony 8.2: Safer and More Flexible Logout",
+      "description": "Symfony 8.2 makes it easier to prevent accidental logouts, return custom logout responses and synchronize logout with an OpenID Connect provider. Logging Out with a POST Form…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-safer-and-more-flexible-logout?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-13T07:07:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "6a35f8d59e05",
+      "title": "6 Parallelism Strategies for LLM Inference in Production",
+      "description": "(popular LLM interview question)",
+      "link": "https://blog.dailydoseofds.com/p/6-parallelism-strategies-for-llm",
+      "pubDate": "2026-10-12T23:49:30.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Y0l3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee9c2b7b-4590-4c08-a4ba-003a1848fb18_1200x1200.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "901eddfa61b8",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "description": "Python 3.15 is here! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start embracing features from Python 3.11. First, some highlights from Python 3.15. Explicit lazy imports I'm most excited about Explicit lazy imports from PEP 810. These let you import modules like so: lazy import json lazy…",
+      "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "pubDate": "2026-10-12T18:15:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "818cf62a3bb0",
+      "title": "web-edit 0.1a0",
+      "description": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High build this Python web app which provides a web UI for viewing and editing files in a folder. It's intended to be run over Tailscale, so I can have an agent start this running and then edit files via my Tailscale network directly from my phone. Here's…",
+      "link": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "pubDate": "2026-10-12T15:54:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1e36569f260f",
+      "title": "Designing Websites for People and AI Agents with WebMCP",
+      "description": "The following article originally appeared on the Agentic AI Foundation blog and is being reposted here with the author’s permission. Websites are designed for people. We can look at a page and quickly understand where to enter information or which control will complete an action. AI agents don’t see or use the web the same […]",
+      "link": "https://www.oreilly.com/radar/designing-websites-for-people-and-ai-agents-with-webmcp/",
+      "pubDate": "2026-10-12T10:54:27.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9c25649c9d71",
       "title": "Readonly Property Defaults in PHP 8.6: A Four-Year-Old Restriction Finally Lifts",
       "description": "A clear overview of PHP 8.6's readonly property defaults RFC, why the old restriction existed, and why interface properties made it worth revisiting. It also covers the practical edge cases, so you know where the new syntax helps and where it still does not. Read more",
@@ -29,6 +131,21 @@
         "Web"
       ],
       "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "2f5855ec6671",
+      "title": "datasette-ports 0.4",
+      "description": "Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler. Tags: datasette",
+      "link": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+      "pubDate": "2026-10-12T04:57:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

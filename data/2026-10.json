@@ -2,6 +2,201 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "0a5c9c09edde",
+      "title": "Pourquoi « Gemini at Work 2026 »  transforme notre façon de travailler",
+      "description": "Google Cloud a annoncé Gemini at Work 2026, marquant un tournant dans l'intégration de l'IA au travail. Contrairement à Microsoft Copilot, Gemini agit en tant qu'agent proactif, apprenant des méthodes de l'entreprise et orchestrant des missions via des sous-agents. Cette évolution vise à améliorer l'efficacité sans remplacer l'humain, transformant ainsi la manière de travailler. L’article Pourquoi « Gemini at Work 2026 » transforme notre façon de travailler est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/10/13/pourquoi-gemini-at-work-2026-transforme-notre-facon-de-travailler/",
+      "pubDate": "2026-10-13T10:22:35.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a5ccef19103f",
+      "title": "Comment penser sa startup IA native en 2026",
+      "description": "Il y a 15 ans, on montait des boîtes SaaS ou faire le prieur et écrire le code plus rapidement était un avantage comparé aux grands groupes. Aujourd'hui, à l'ère des agents et des LLM, on construit des startups IA Natives. Mais qu'est-ce que ça change vraiment? quand deux personnes peuvent faire le travail d'une équipe entière en faisant \"clanker\" des agents toute la nuit ? Qu’est ce que ça change en termes de qualification du besoin et sa réponse ? Enregistré à Station F lors du Google Startup…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6acdfe4b37f0bd18cc1c1491",
+      "pubDate": "2026-10-13T10:00:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1791884753959-e32f3977-1e14-4ecc-a2cb-fd8b51887fd1.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6acdfe4b37f0bd18cc1c1491/media.mp3",
+      "duration": "53:45"
+    },
+    {
+      "id": "0cc28e3f7e66",
+      "title": "IA et logiciel libre",
+      "description": "Une petite équipe a décidé de cloner 13 logiciels bureautiques vedettes avec une IA et de mettre le résultat à la disposition de tous gratuitement. Word, Photoshop, Figma, Illustrator, Acrobat et plein d’autres. C’est fait par Artcraft AI. C’en est encore au tout début, et ça doit flipper grave chez Microsoft, Adobe et consorts : quelqu’un duplique leurs vaches à lait et les distribue gratuitement sur le Web, sous licence libre (MIT ou Apache 2). Bref, c’est Open Source. Mon collègue Thomas…",
+      "link": "https://standblog.org/blog/post/2026/10/13/IA-et-logiciel-libre",
+      "pubDate": "2026-10-13T09:28:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/artcraft.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "81b9529fce87",
+      "title": "Cyberattaques : les bonnes pratiques à adopter pour éviter d’en être victime",
+      "description": "Les cyberattaques ne visent pas que les grandes organisations : les particuliers et les homelabs sont aussi concernés. Voici les réflexes que j’applique chez moi, et ceux que je dois encore corriger.",
+      "link": "https://domopi.eu/cyberattaques-les-bonnes-pratiques-a-adopter-pour-eviter-den-etre-victime/",
+      "pubDate": "2026-10-13T08:05:19.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/10/article_security.webp",
+      "type": "blog"
+    },
+    {
+      "id": "90ea4cd077c1",
+      "title": "🎙️Café Tech avec Imen #17: Overcome Fear & Speak English | Robert Haggart",
+      "description": "🎙️ Welcome to a very special episode of Café Tech avec Imen! For the first time ever, this episode is recorded completely in English! 🇬🇧✨ In this episode, Imen sits down with Robert Haggart, founder of English for Life , to break down why so many French tech professionals and software engineers struggle with English—and how to overcome the fear of speaking once and for all. Whether you want to apply for full-remote roles in international startups, relocate abroad, or simply feel confident…",
+      "link": "https://www.youtube.com/watch?v=Ovgrucc57Xk",
+      "pubDate": "2026-10-13T07:41:46.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/Ovgrucc57Xk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Ovgrucc57Xk"
+    },
+    {
+      "id": "46ea6c0c5050",
+      "title": "L'IA va-t-elle nous sauver ou nous épuiser ? Albane Fagot-Veyron (partie 2)",
+      "description": "2ème partie de l'interview d'Albane Fagot-Veyron par Emmanuel Bernard pour Studio Devoxx, réalisé en juillet 2026. Retrouvez la première partie ici : https://youtu.be/t3iXSZxI5eU?si=6S8aKjHZ8g8pMsoT Dans cet épisode enregistré au studio Devoxx France, *Emmanuel Bernard* reçoit *Albane Fagot-Veyron* pour une réflexion sur notre rapport au temps, l'impact de l'intelligence artificielle et l'urgence de ralentir. Alors que les technologies et l'IA promettent de décupler notre productivité et de…",
+      "link": "https://www.youtube.com/watch?v=qD3161f2-qU",
+      "pubDate": "2026-10-13T07:37:31.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/qD3161f2-qU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "qD3161f2-qU"
+    },
+    {
+      "id": "5a8e7e3144e1",
+      "title": "Ce test PHPUnit échoue, mais le terminal affiche « everything is fine »",
+      "description": "Un test qui échoue, un message d'erreur piégé, et deux caractères spéciaux capables d'effacer la ligne courante du terminal. Selon les conditions d'affichage, « failed » disparaît et laisse la place à « everything is fine ». #PHP #PHPUnit #Dev #Tests #Terminal",
+      "link": "https://www.youtube.com/watch?v=oHjVdO34ZSc",
+      "pubDate": "2026-10-12T20:48:34.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/oHjVdO34ZSc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "oHjVdO34ZSc"
+    },
+    {
+      "id": "fddfc53eb3cb",
+      "title": "Tes tests PHPUnit peuvent TROMPER ton agent IA !",
+      "description": "🚨 Tes tests PHPUnit peuvent TROMPER ton agent IA ! Claude Code, Codex ou Cursor peuvent-ils vraiment faire confiance aux résultats de tes tests PHP ? Imagine : un test PHPUnit échoue, mais ton terminal affiche « Everything is fine ». Pire encore, un agent IA peut être amené à croire qu'un test inexistant a échoué. Dans cette vidéo, on décortique les révélations de Sebastian Bergmann, créateur de PHPUnit, publiées par la PHP Foundation. Découvre comment les sorties de terminal peuvent être…",
+      "link": "https://www.youtube.com/watch?v=XS17lGqXNPg",
+      "pubDate": "2026-10-12T19:57:20.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/XS17lGqXNPg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "XS17lGqXNPg"
+    },
+    {
+      "id": "800833b796ee",
+      "title": "Repenser nos pratiques pour un numérique durable : notre retour sur ParisWeb 2026 (partie 2)",
+      "description": "Après notre premier récit, découvrez notre retour sur la deuxième journée de ParisWeb 2026. Le juste prix, ou ce que l’accessibilité coûte pour de vrai Lison Fanuel et Frédéric Halna ont discuté avec nous des informations qu’ils ont recueillies pendant la préparation de leur présentation. Un premier point notable : on a beaucoup de mal […] Cet article, Repenser nos pratiques pour un numérique durable : notre retour sur ParisWeb 2026 (partie 2), est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/repenser-nos-pratiques-pour-un-numerique-durable-notre-retour-sur-parisweb-2026-partie-2",
+      "pubDate": "2026-10-12T14:32:26.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/paris-web-jour-2-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1af467ae3429",
+      "title": "Cultiver l’accessibilité et la sobriété : les grands enseignements de ParisWeb 2026 (partie 1)",
+      "description": "Jeudi 24 et vendredi 25 septembre derniers, se tenait à Paris un événement auquel nous sommes très attaché·es, la 21ème édition de ParisWeb, la conférence qui place l’accessibilité et l’inclusion au cœur du système. Ce qui manque souvent dans nos métiers, c’est le sens. C’est précisément le fil conducteur des conférences de Paris Web : […] Cet article, Cultiver l’accessibilité et la sobriété : les grands enseignements de ParisWeb 2026 (partie 1), est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/cultiver-laccessibilite-et-la-sobriete-les-grands-enseignements-de-parisweb-2026-partie-1",
+      "pubDate": "2026-10-12T14:31:23.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/paris-web-jour-1-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2a6ee0fb7dce",
+      "title": "Cette série est pour toi ! Bientôt sur LaravelJutsu #Laravel #PHP #IntelligenceArtificielle #WebDev",
+      "description": "Vidéo YouTube publiée par Laravel Jutsu (YouTube) — Cette série est pour toi ! Bientôt sur LaravelJutsu #Laravel #PHP #IntelligenceArtificielle #WebDev",
+      "link": "https://www.youtube.com/watch?v=p6clfmFLyfc",
+      "pubDate": "2026-10-12T13:38:42.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/p6clfmFLyfc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "p6clfmFLyfc"
+    },
+    {
+      "id": "1683e244885c",
+      "title": "Modernisation applicative avec Kiro + AWS Transform (ATX) : on a modernisé un application legacy Node.js en 2 jours - Le REX complet",
+      "description": "Comment Kiro et AWS Transform (ATX) ont modernisé Club Manager v3, une appli Node.js legacy de 10 ans, en 2 jours au lieu de 6 semaines : coûts, ROI x15 et limites de l'automatisation.",
+      "link": "https://blog.ippon.fr/2026/10/12/modernisation-legacy-nodejs-kiro-aws-transform/",
+      "pubDate": "2026-10-12T13:14:18.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/Capture-d---e--cran-2026-06-26-a---12.58.51.png",
+      "type": "blog"
+    },
+    {
       "id": "58008f672f17",
       "title": "Je ne code pas, BMAD code pour moi avec ses agents : sur parole ou sur preuves ?",
       "description": "Je ne code pas, mais des agents IA cadrés par BMAD écrivent et testent le code de huit projets. Sur quoi fonder ma confiance ? Nous avons mesuré la qualité des produits en quatre questions : deux restent sans réponse partout, deux donnent des chiffres honnêtes mais partiels. Ce que je lis à la place du code, et ce qu'aucune mesure ne remplace.",
