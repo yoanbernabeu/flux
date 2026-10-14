@@ -2,6 +2,155 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "8e4aa9cbd66f",
+      "title": "New in Symfony 8.2: Attribute-Based Workflows",
+      "description": "Contributed by Grégoire Pineau in #61935…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-attribute-based-workflows?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-14T07:16:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/lyrixx.picture",
+      "type": "blog"
+    },
+    {
+      "id": "63257afb419f",
+      "title": "Symfony 8.1.9 released",
+      "description": "Symfony 8.1.9 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-1-9-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-14T06:49:45.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a7d42dcd3209",
+      "title": "Symfony 7.4.21 released",
+      "description": "Symfony 7.4.21 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-7-4-21-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-14T06:46:36.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c2dade522bc5",
+      "title": "Symfony 6.4.48 released",
+      "description": "Symfony 6.4.48 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-6-4-48-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-14T06:43:52.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fdc555784f18",
+      "title": "Redesigning source control at Anthropic",
+      "description": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day. They included a chart showing those changes. I had Claude modify their chart (code here) to add markers for the public releases of each of…",
+      "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "pubDate": "2026-10-13T23:00:06.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9a6f142fe39c",
+      "title": "A Model Decision Is Only as Safe as the System That Executes It",
+      "description": "Everything you need to understand about how a model decision gets authorized with the wrong confidence, and why it only becomes visible when you read the change in the order it executes.",
+      "link": "https://blog.dailydoseofds.com/p/a-model-decision-is-only-as-safe",
+      "pubDate": "2026-10-13T22:31:09.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!4gnp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f7c18ba-471c-45f9-bbcf-312ce4545062_1137x643.png",
+      "type": "blog"
+    },
+    {
+      "id": "39b03f627696",
+      "title": "llm-gemini 0.35",
+      "description": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans. As expected, they are all excellent: Gemini has a track record of producing great SVGs, and are the only lab where I know their staff have invested in SVG specifically (and who have boasted about their pelicans before.) Here's the \"high\" illustration, which cost me…",
+      "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+      "pubDate": "2026-10-13T22:28:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "68c07d222fdb",
+      "title": "Agent Baseline Publishes Security Reference Architecture for Software Factories",
+      "description": "Agents now write a large share of the code at some of the biggest engineering organizations. Uber says more than 70% of its pull requests are attributed to local or cloud agents, and its weekly agent requests grew 9.4 times between February and August. Stripe’s internal coding agents, which it calls Minions, write more than a thousand of the pull requests Stripe merges each week, and engineers can start one from a Slack message. Vercel’s factory for maintaining its AI SDK authored 25 to 35% of…",
+      "link": "https://socket.dev/blog/agent-baseline-software-factory?utm_medium=feed",
+      "pubDate": "2026-10-13T17:54:48.146Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/c45b82d51de997264ed3818fe7a06b14a3e86e0d-1400x846.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "7e80df2842c6",
+      "title": "Quoting Geoffrey Huntley",
+      "description": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it's ten out of ten. &mdash; Geoffrey Huntley, nobody should type code by hand anymore. here's what's left. Tags:…",
+      "link": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+      "pubDate": "2026-10-13T13:32:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "add9869fc409",
+      "title": "SymfonyCon Warsaw 2026: Mercure 1.0: Real-Time Symfony, Eight Years On",
+      "description": "Want to level up your PHP and Symfony game? SymfonyCon Warsaw 2026 is heading to Poland this November 26-27. Join devs from all over the world for two solid days packed with 3 parallel tracks and community events. Grab your spot and get ready!…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-mercure-1-0-real-time-symfony-eight-years-on?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-13T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
       "id": "3a6267bd2b09",
       "title": "When Architecture Decisions Actually Apply",
       "description": "In my previous Radar article, “Architectural Guardrails for AI-Generated Code,” I argued that AI coding agents need a layer that can hold architectural decisions in a structured corpus, retrieve the relevant ones, put them into the agent’s context before it writes code, and enforce explicit constraints with reproducible checks. Testing that model exposed two distinctions […]",
@@ -46,6 +195,51 @@
       "type": "blog"
     },
     {
+      "id": "09eeaa3a3875",
+      "title": "Why We Need Yet Another (OSS) Semantic Layer",
+      "description": "Most semantic layers come with a great declarative modeling language to define metrics and measures well1, but very soon after, you start building wrappers around the semantic layer that enable agentic work and context engineering, that work well with harnesses and interfaces, and that allow flexible queries at runtime, without the need to rebuild or recalculate the measures in YAML. The other problem is that most data warehouse or analytics solutions basically lock you in with their…",
+      "link": "https://www.ssp.sh/blog/why-yet-another-oss-sl/",
+      "pubDate": "2026-10-13T04:40:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ace58ee31866",
+      "title": "web-edit 0.1a1",
+      "description": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling, projects",
+      "link": "https://simonwillison.net/2026/Oct/13/web-edit/",
+      "pubDate": "2026-10-13T01:40:05.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f99ea621acd6",
+      "title": "llm-meta-ai 0.2",
+      "description": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as equivalent to GPT-6.1 Sol. I updated my llm-meta-ai plugin for the new model. Here are pelicans for Muse Wonder for the six reasoning levels: minimal, low, medium, high, xhigh, max. This is the max one: For comparison, here are pelicans for Muse 1.3 (released September 2nd) and…",
+      "link": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
+      "pubDate": "2026-10-12T23:58:46.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6a35f8d59e05",
       "title": "6 Parallelism Strategies for LLM Inference in Production",
       "description": "(popular LLM interview question)",
@@ -65,6 +259,21 @@
       "description": "Python 3.15 is here! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start embracing features from Python 3.11. First, some highlights from Python 3.15. Explicit lazy imports I'm most excited about Explicit lazy imports from PEP 810. These let you import modules like so: lazy import json lazy…",
       "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
       "pubDate": "2026-10-12T18:15:38.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c11d7169c7f",
+      "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
+      "description": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app: I need a Python 3.15 flame graph and heatmap demo of the \"web-edit\" app from PyPI - research first then make me those demos Here's the resulting example flame graph and heatmap. Tags: profiling, python, codex",
+      "link": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
+      "pubDate": "2026-10-12T16:58:00.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
       "categories": [
