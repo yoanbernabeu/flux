@@ -197,7 +197,7 @@ feeds:
     name: Microlinux (Nicolas Kovacs)
     categories: [DevOps, Cloud]
 
-  - url: https://www.camilleroux.com/feed/
+  - url: https://www.camilleroux.com/rss/
     name: Camille Roux
     categories: [Programmation, Web]
 
