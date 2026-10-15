@@ -2,6 +2,73 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "ae87491bdd35",
+      "title": "Jumeau Numérique Systémique : Collecte des activités sur le terrain",
+      "description": "Peut-on construire un jumeau numérique à partir de ce que l’on observe sur le terrain, plutôt qu’à partir de la conception des bureaux d’études ?",
+      "link": "https://blog.octo.com/jumeau-numerique-systemique--referentiel-et-data",
+      "pubDate": "2026-10-15T08:21:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a10af58dbca5",
+      "title": "Visibilité à l’ère de l’IA : les leçons tirées du SEO Square 2026",
+      "description": "Nous avons eu l’opportunité de participer à plusieurs talks et workshops de la conférence en ligne SEO Square, un événement organisé par Semji comprenant conférences et tables rondes axées cette année sur la transition du SEO au GEO et l’impact de l’IA. Notre équipe d’experts accompagne déjà nos clients sur les sujets IA depuis plusieurs […] Cet article, Visibilité à l’ère de l’IA : les leçons tirées du SEO Square 2026, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/visibilite-ia-seo-square-2026",
+      "pubDate": "2026-10-15T07:06:06.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/vignette-SEO-Square-600x338.png",
+      "type": "blog"
+    },
+    {
+      "id": "ac56cf684fcb",
+      "title": "AWS Transform: ce que notre “trousse à outils agentique” automatise vraiment",
+      "description": "Cinq familles d'agents, une modernisation Python exécutée de bout en bout avec la CLI atx, ses coûts et ses pièges : le deuxième volet de notre série sur la migration augmentée par l'IA précise la part d'AWS et celle du travail d'expert.",
+      "link": "https://blog.ippon.fr/2026/10/14/aws-transform-trousse-outils-agentique/",
+      "pubDate": "2026-10-14T16:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/f1825c25-00e4-4a88-a929-0af2ef0410bc.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "dd1b4bec07c9",
+      "title": "Laravel AI SDK : créer un agent IA en PHP",
+      "description": "Laravel AI SDK : crée un agent IA en PHP avec une sortie structurée et typée. Dans cet épisode 1 de Laravel : L'arsenal IA, on construit un agent qui trie les retours produits et laisse la décision finale à un humain. Tu veux intégrer de l'IA dans une application Laravel sans te retrouver avec une réponse en texte libre impossible à exploiter proprement ? On va construire un cas métier concret avec le SDK IA officiel de Laravel : `laravel/ai`. Notre agent `ReturnProductTriageAgent` analyse la…",
+      "link": "https://www.youtube.com/watch?v=z4cT5EdVP1Y",
+      "pubDate": "2026-10-14T10:13:06.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/z4cT5EdVP1Y/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "z4cT5EdVP1Y"
+    },
+    {
       "id": "0515c82c5983",
       "title": "Aujourd'hui sort ma dernière série sur l'IA avec Laravel ! #laravel #code #php #ia #coding #ai",
       "description": "Vidéo YouTube publiée par Laravel Jutsu (YouTube) — Aujourd'hui sort ma dernière série sur l'IA avec Laravel ! #laravel #code #php #ia #coding #ai",
@@ -34,6 +101,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/6755f068-6c42-487b-bc07-5e58e53171c0.mp3?_=1791892908",
       "duration": "55:44"
+    },
+    {
+      "id": "710359466890",
+      "title": "Le temps de mise en production est un problème d'organisation",
+      "description": "Beaucoup d’équipes de développement souhaiteraient accélérer les mises en productions. Pour y parvenir, on se concentre généralement sur toute la pipeline d’automatisation: build, tests, déploiement. Seulement, ce n’est pas la technique qui coince le plus. De ce que j’ai pu observer, ce qui ralentit le plus souvent un déploiement, c’est une validation, un process administratif ou organisationnel. Une recette réalisée par une autre équipe en fin de cycle, le retour d’un product owner…",
+      "link": "https://www.jdecool.fr/blog/2026/10/14/le-temps-de-mise-en-production-est-un-probleme-d-organisation.html",
+      "pubDate": "2026-10-13T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "0a5c9c09edde",

@@ -2,6 +2,199 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "3fadc51c1b35",
+      "title": "CVE-2026-108082: ReDoS in HeaderUtils::split() Reachable Through the Cache-Control Request Header",
+      "description": "Affected versions Symfony HTTP Foundation versions >=5.4.1, =6.0.1, =7, =8, <8.1.7 are affected by this security issue. The issue has been fixed in Symfony HTTP Foundation 5.4.54, 6.4.46, 7.4.19, 8.1.7.…",
+      "link": "https://symfony.com/blog/cve-2026-108082-redos-in-headerutils-split-reachable-through-the-cache-control-request-header?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-15T08:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff641d20cb66",
+      "title": "CVE-2026-109449: Unbounded Nesting in the Expression Parser Lets Untrusted Expressions Crash the Process",
+      "description": "Affected versions Symfony Expression Language versions =6, =7, =8, <8.1.9 are affected by this security issue. The issue has been fixed in Symfony Expression Language 5.4.54, 6.4.48, 7.4.21, 8.1.9. Description…",
+      "link": "https://symfony.com/blog/cve-2026-109449-unbounded-nesting-in-the-expression-parser-lets-untrusted-expressions-crash-the-process?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-15T08:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "97897d4888ea",
+      "title": "CVE-2026-109413: Unbounded Recursion in the YAML Inline Lexer Lets a Single Document Crash the Process",
+      "description": "Affected versions Symfony YAML versions =6, =7, =8, <8.1.6 are affected by this security issue. The issue has been fixed in Symfony YAML 5.4.54, 6.4.45, 7.4.18, 8.1.6. Description Yaml\\Parser::lexInlineStructure()…",
+      "link": "https://symfony.com/blog/cve-2026-109413-unbounded-recursion-in-the-yaml-inline-lexer-lets-a-single-document-crash-the-process?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-15T08:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0cea95b1e5a1",
+      "title": "Symfony UX 3.6 released",
+      "description": "Symfony UX 3.6 is out, with more than 100 pull requests merged since 3.5.1. It adds three experimental packages, UX Inspector, UX Image and UX Router, aligns the Shadcn kit of the UX Toolkit with the Nova style, and runs every Toolkit recipe in a real browser,…",
+      "link": "https://symfony.com/blog/symfony-ux-3-6-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-15T07:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/smnandre.png",
+      "type": "blog"
+    },
+    {
+      "id": "1c68e60885b6",
+      "title": "Symfony 5.4.54 released",
+      "description": "Symfony 5.4.54 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-5-4-54-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-15T06:52:41.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33dc6a4087a6",
+      "title": "Data Engineering Is the Cache Invalidation Problem Ft. Josh Wills",
+      "description": "In this episode, we dive into how much models actually matter: more like a preference, like whether you use an iPhone or Android, than their capabilities. We talk about bare-metal disks when running Kubernetes, then move to agents and how data engineering becomes like being an emergency pilot in a plane, and how we automate away the boring work with no more database migrations or unit tests. We go into spiritual territory, where he feels in his gut whether a pipeline will work. Then we finish…",
+      "link": "https://www.ssp.sh/blog/cache-invalidation-problem-data-engineering/",
+      "pubDate": "2026-10-15T04:40:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "53f9ff012dda",
+      "title": "Building a Durable Multi-Agent System with LangGraph and LangSmith",
+      "description": "...explained with code.",
+      "link": "https://blog.dailydoseofds.com/p/building-a-durable-multi-agent-system",
+      "pubDate": "2026-10-14T22:52:19.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!vtAN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10e1c4bf-e65f-4dc5-9b19-f622423400de_6336x2688.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "eb4b2d9063ab",
+      "title": "Tree Appreciator",
+      "description": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful. Somewhat embarrassingly given my recent talk, I've found that telling Opus 5.5…",
+      "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "pubDate": "2026-10-14T21:23:01.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c6c34587c81a",
+      "title": "Front Lines Podcast: What Founders Get Wrong When Pitching CISOs",
+      "description": "“It’s never been easier to build a security program. It’s never been harder to secure an organization.” Socket CISO Andrew Becherer recently appeared on Early Adopters: CISO. Recorded at Black Hat 2026, the conversation explores how security leaders build programs, evaluate new technology, and decide which vendors to trust as AI accelerates both development and the work of securing it. Becherer draws on his experience building security programs at companies including Datadog, where he joined as…",
+      "link": "https://socket.dev/blog/front-lines-pitching-cisos?utm_medium=feed",
+      "pubDate": "2026-10-14T17:06:13.465Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8b2cab148937",
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "description": "AI is mass decompiling games. That&#x27;s both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly). I like how this piece captures both the positives and the negatives of this new development: Most people already realized the scary part by now. If AI…",
+      "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+      "pubDate": "2026-10-14T16:26:53.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c0c7545c1f1b",
+      "title": " Socket for Origin Now Available",
+      "description": "Socket for Origin is now available in the Origin App Marketplace, with automatic dependency scans and security findings directly on your pull requests. SpaceXSI built Origin to give developers and AI agents a place to host and collaborate on code at a scale traditional Git infrastructure wasn’t designed for. Socket adds dependency security to that workflow, helping teams catch risky packages and compromised updates in pull requests before they merge. We’re joining more than 20 developer tools…",
+      "link": "https://socket.dev/blog/socket-for-origin?utm_medium=feed",
+      "pubDate": "2026-10-14T13:56:18.268Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/3f25c6c8215a09f417178906c25756097d8d5533-1604x1364.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "7bcd3944bda7",
+      "title": "SymfonyCon Warsaw 2026: Web-less Console: Standalone Apps in Symfony 8.2",
+      "description": "Want to sharpen your PHP and Symfony skills? SymfonyCon Warsaw 2026 is hitting Poland on November 26-27! Join developers from around the world for two days of 3 parallel tracks and great community events. Secure your spot now and get ready! 🎤 Speaker…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-web-less-console-standalone-apps-in-symfony-8-2?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-14T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "5b96472709ca",
+      "title": "Why Does AI Write Like Yoda?",
+      "description": "I use AI for writing all the time. But not because it’s good at writing. In fact, just the opposite is true. AI is so reliably bad at writing that I’ve actually taken advantage of that, and made its bad writing an integral part of my writing process. I’ve written a lot of books and […]",
+      "link": "https://www.oreilly.com/radar/why-does-ai-write-like-yoda/",
+      "pubDate": "2026-10-14T10:50:23.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f604.png",
+      "type": "blog"
+    },
+    {
       "id": "8e4aa9cbd66f",
       "title": "New in Symfony 8.2: Attribute-Based Workflows",
       "description": "Contributed by Grégoire Pineau in #61935…",
@@ -54,6 +247,21 @@
       "pubDate": "2026-10-14T06:43:52.000Z",
       "source": "Symfony Blog",
       "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8ba55d27d634",
+      "title": "How the PHP Security Team Handles Your Reports",
+      "description": "If you've ever sent a security report to PHP and then refreshed the advisory page every morning for three weeks, hi, this one's for you, and yes, we read it. PHP runs a large share of the web, so keeping it secure and staying responsive matters far beyond this project, and we take that seriously. There is a small group of volunteers and PHP Foundation contractors doing its best to handle security for PHP core with the limited time and resources available, and this post will show how we are…",
+      "link": "https://thephp.foundation/blog/2026/10/14/how-the-php-security-team-handles-your-reports/",
+      "pubDate": "2026-10-14T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
       "categories": [
         "Programmation",
         "Web"
