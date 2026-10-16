@@ -2,6 +2,154 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "13f441465a2c",
+      "title": "New in Symfony 8.2: Locking Controllers",
+      "description": "Some controllers must never run twice at the same time: importing a catalog, charging an order, or selling the last tickets of a conference. The Lock component solves this, but to use it in a controller, you have to inject a lock factory, build the key, acquire…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-locking-controllers?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-16T07:13:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/brajk19.picture",
+      "type": "blog"
+    },
+    {
+      "id": "b42a748c6ad0",
+      "title": "A Full Walkthrough on Multimodal Jev",
+      "description": "...explained step-by-step in a video.",
+      "link": "https://blog.dailydoseofds.com/p/a-full-walkthrough-on-multimodal",
+      "pubDate": "2026-10-15T23:06:34.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!s4SR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e92ee7a-49a6-4fbd-8259-72b397507d9f_2752x1536.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "4c965d0ae1f2",
+      "title": "The PHP Podcast 2026.10.15",
+      "description": "🎙️ PHP Podcast – October 15, 2026 Hosts: Joe Ferguson & Holly Schilling Longhorn PHP kicks off, agentic commerce gets scary, bots keep scanning, and a Cold War satellite schematic proves software is harder than hardware. 🧦 Swag, Longhorn PHP, and “Am I Even a PHP Developer?” Joe opened by confessing he found a JavaScript […] The post The PHP Podcast 2026.10.15 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-10-15/",
+      "pubDate": "2026-10-15T23:03:18.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/10/Ae-PmH2wsG4-maxresdefault.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "23178e6a5943",
+      "title": "Chirp Pong",
+      "description": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! Build a two player competitive pong like game where two players use their phones close to each other and the game state is sent via audio noises which the web microphone API can interpret - but add graphical and gameplay twists to make it a lot more fun and intertwine…",
+      "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "pubDate": "2026-10-15T19:47:52.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "80d8c6cbc105",
+      "title": "Community Corner Podcast: Agentic Commerce with Paul Conroy",
+      "description": "In this episode, Scott talks with Paul Conroy about agentic commerce: how AI agents buy things on our behalf, how Stripe’s shared payment tokens keep them on a budget, and how the Machine Payments Protocol finally puts HTTP 402 Payment Required to work in your API middleware. Links: Our Discord – https://discord.gg/aMTxunVx Buy […] The post Community Corner Podcast: Agentic Commerce with Paul Conroy appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/community-corner-podcast-agentic-commerce-with-paul-conroy/",
+      "pubDate": "2026-10-15T16:00:28.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/10/Agentic-Commerce-with-Paul-Conroy.png",
+      "type": "blog"
+    },
+    {
+      "id": "fc092da72861",
+      "title": "Anthropic Gives Open Source Maintainers a Fast Track to Mythos Vulnerability Findings",
+      "description": "Anthropic has launched OSS Scanner, a free, opt-in service that uses its strongest Claude models, including Mythos, to look for vulnerabilities in open source projects. Participating maintainers receive reports showing how to reproduce the vulnerabilities, along with proposed fixes when available, without waiting for Anthropic’s researchers to review the findings. The reviewers have struggled to keep up with the volume of reports. Over six months, the company says it found more than 29,000…",
+      "link": "https://socket.dev/blog/anthropic-oss-scanner?utm_medium=feed",
+      "pubDate": "2026-10-15T14:13:04.878Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "782d5b0065aa",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "description": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \"people with knowledge of the matter\". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was \"about $4.8bn\" Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on \"computing power\" Adjusted…",
+      "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "pubDate": "2026-10-15T13:04:03.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e403c46188bc",
+      "title": "SymfonyCon Warsaw 2026: Not All Messenger Transports Are Equal",
+      "description": "Ready to level up your PHP and Symfony expertise? SymfonyCon Warsaw 2026 is coming to Poland on November 26-27! Join developers from around the globe for two action-packed days featuring 3 parallel tracks and great community events. Secure your spot…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-not-all-messenger-transports-are-equal?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-15T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "b92e91dcf1ef",
+      "title": "Agentic Code Quality",
+      "description": "The following article originally appeared on Addy Osmani’s Elevate blog and is being republished here with the author’s permission. For much of human history, we’ve evaluated code quality via code review: Someone reads what you wrote and makes sure it’s clean, thoughtful, fast, understandable, and tests well. For agents, that approach doesn’t scale well; there’s […]",
+      "link": "https://www.oreilly.com/radar/agentic-code-quality/",
+      "pubDate": "2026-10-15T10:54:58.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/10/image.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "70e1b7b0f360",
+      "title": "New in Symfony 8.2: Encrypted Doctrine Columns",
+      "description": "The new KeyManagement component includes a Doctrine DBAL bridge with an EncryptedType that encrypts any column with envelope encryption. You need a separate Doctrine type for each combination of key and value type, registered before the first query runs.…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-encrypted-doctrine-columns?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-15T08:46:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
       "id": "3fadc51c1b35",
       "title": "CVE-2026-108082: ReDoS in HeaderUtils::split() Reachable Through the Cache-Control Request Header",
       "description": "Affected versions Symfony HTTP Foundation versions >=5.4.1, =6.0.1, =7, =8, <8.1.7 are affected by this security issue. The issue has been fixed in Symfony HTTP Foundation 5.4.54, 6.4.46, 7.4.19, 8.1.7.…",

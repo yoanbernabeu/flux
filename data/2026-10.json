@@ -2,6 +2,117 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "fe15103b4ac8",
+      "title": "Trois techniques d'animation utiles pour les consultant·es",
+      "description": "Trois techniques d’animation simples et souvent connues, mais qui continuent de m’aider au quotidien. 1. Expliciter l'agenda 2. Valider l'heure de fin 3. Rendre visible les conversations.",
+      "link": "https://blog.octo.com/trois-techniques-d'animation-utiles-pour-les-consultantes",
+      "pubDate": "2026-10-16T08:37:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a23cdd9ab56d",
+      "title": "Comment j'évalue de nouveaux outils ?",
+      "description": "🔗 Article : https://grafikart.fr/blog/veille-outil-review En tant que développeur, on voit régulièrement passer de nouveaux outils, bibliothèques ou frameworks, mais comment faire le tri ? Je vous propose de partager la méthode que j'utilise pour évaluer mes découvertes lorsque je fais de la veille. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord :…",
+      "link": "https://www.youtube.com/watch?v=FlB6H3qBAEQ",
+      "pubDate": "2026-10-16T08:12:21.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/FlB6H3qBAEQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "FlB6H3qBAEQ"
+    },
+    {
+      "id": "018bd8099dc4",
+      "title": "Liens Tech - Octobre 2026",
+      "description": "Octobre : un fournisseur d'authentification par passkey, un outil de monitoring Linux léger, un bastion pour sécuriser les accès, une interface de gestion pour Traefik, une plateforme de déploiement auto-hébergée et une alternative à Google Analytics, avec un générateur de doc IA pour GitHub.",
+      "link": "https://domopi.eu/liens-tech-octobre-2026/",
+      "pubDate": "2026-10-16T05:45:09.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "7cb9b719c851",
+      "title": "#356.exe - La force de la conférence: Pourquoi les devs ont besoin de se retrouver IRL par Pierre Burgy",
+      "description": "Pour l'épisode #356 je recevais Julien Landuré. On en débrief avec Pierre. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/356-91bbcf1cf101",
+      "pubDate": "2026-10-16T03:00:02.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/ce3c8721-18de-4d69-ae2f-91bbcf1cf101.mp3?_=1792065662",
+      "duration": "20:27"
+    },
+    {
+      "id": "55b229fcd4ea",
+      "title": "Comment transformer le savoir-faire de votre PME en nouveaux clients à l’heure de l’IA ?",
+      "description": "Dans cet épisode de B2Biz, Renaud Joly discute de la valorisation des contenus d’entreprise à l’ère de l’IA. Il souligne l'importance de transformer les informations internes en contenus originaux et utiles pour les clients. L'échange insiste sur la nécessité d'exploiter les connaissances internes tout en respectant la confidentialité. L’article Comment transformer le savoir-faire de votre PME en nouveaux clients à l’heure de l’IA ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/15/comment-transformer-le-savoir-faire-de-votre-pme-en-nouveaux-clients-a-lheure-de-lia/",
+      "pubDate": "2026-10-15T14:39:16.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8557a0ed9823",
+      "title": "Claude Code Desktop : le TERMINAL, c'est FINI ?!",
+      "description": "Claude Code Desktop va-t-il remplacer le terminal ? Découvrez pourquoi cette nouvelle interface pourrait complètement changer votre façon de développer avec les agents IA ! Vous utilisez encore Claude Code uniquement en CLI ? Dans cette vidéo, je vous montre comment Claude Code Desktop permet de piloter plusieurs agents IA en parallèle, gérer des sessions indépendantes avec Git Worktrees, examiner les modifications de code et automatiser votre workflow de développement. 🔥 Au programme : -…",
+      "link": "https://www.youtube.com/watch?v=qmogPe_jcyE",
+      "pubDate": "2026-10-15T12:00:22.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/qmogPe_jcyE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "qmogPe_jcyE"
+    },
+    {
+      "id": "8c0364e9f2b4",
+      "title": "JSON Streaming et AutoMapper 10.3",
+      "description": "Symfony propose depuis peu le composant symfony/json-streamer, permettant d’encoder et décoder du JSON sous forme de flux. Le but : traiter de très gros volumes sans charger l’intégralité du document en mémoire. Dans AutoMapper, notre solution pour accélérer tous vos mappings de données dans vos projets (sérialisation, object mapping, etc.), nous supportons déjà 2 composants de Symfony en proposant une implémentation alternative : symfony/object-mapper : Faire un mapping entre 2 objets…",
+      "link": "https://jolicode.com/blog/json-streaming-et-automapper-10-3",
+      "pubDate": "2026-10-15T10:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/automapper/maths.gif",
+      "type": "blog"
+    },
+    {
       "id": "ae87491bdd35",
       "title": "Jumeau Numérique Systémique : Collecte des activités sur le terrain",
       "description": "Peut-on construire un jumeau numérique à partir de ce que l’on observe sur le terrain, plutôt qu’à partir de la conception des bureaux d’études ?",
@@ -33,6 +144,51 @@
         "IA"
       ],
       "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/vignette-SEO-Square-600x338.png",
+      "type": "blog"
+    },
+    {
+      "id": "b4f28991abd9",
+      "title": "Le droit du travail, version vécue (épisode 4)",
+      "description": "Quand on est une petite boîte qui voit grand, le droit du travail n'est pas une théorie : c'est du vécu. Récit, sans filtre, de deux dossiers qui m'ont donné du fil à retordre.",
+      "link": "https://www.elao.com/blog/elao/rh-tpe-ep-04-droit-du-travail",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a44d04594a69",
+      "title": "tailhome : une page d'accueil pour mes services Tailscale",
+      "description": "Une petite page d'accueil en Go qui se construit toute seule à partir des services Tailscale de mon tailnet, avec des icônes et des health checks en direct.",
+      "link": "https://michaelbensoussan.com/posts/tailhome-page-accueil/",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "Michael Bensoussan",
+      "sourceUrl": "https://michaelbensoussan.com/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://michaelbensoussan.com/images/posts/tailhome.png",
+      "type": "blog"
+    },
+    {
+      "id": "8e5d148b4d91",
+      "title": "tailhome: a start page for my Tailscale services",
+      "description": "A small Go start page that builds itself from the Tailscale services on my tailnet, with icons and live health checks.",
+      "link": "https://michaelbensoussan.com/posts/tailhome/",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "Michael Bensoussan",
+      "sourceUrl": "https://michaelbensoussan.com/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://michaelbensoussan.com/images/posts/tailhome.png",
       "type": "blog"
     },
     {
