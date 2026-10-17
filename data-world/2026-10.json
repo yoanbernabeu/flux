@@ -2,6 +2,94 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "a0ebc37172c8",
+      "title": "Run Jev Inside an Open Agent Harness",
+      "description": "...with 150x cheaper decision-making than LLM",
+      "link": "https://blog.dailydoseofds.com/p/run-jev-inside-an-open-agent-harness",
+      "pubDate": "2026-10-16T22:23:13.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!y3Nq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1697146f-1f4e-466d-abbc-ea817f06169f_1770x1209.gif",
+      "type": "blog"
+    },
+    {
+      "id": "e8a95e9b22df",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "description": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. This…",
+      "link": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "pubDate": "2026-10-16T22:06:37.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0061128b9308",
+      "title": "PHP Battlesnakes",
+      "description": "‘BattleSnake: They Said I Cheated—I’d Do It Again’ by Holly Schilling is our first feature article this month. Wait, don’t stop reading yet. Give Holly a chance to explain in the article. A good story will walk you through exactly what led to the cheating charge and how Holly justifies the decisions made. The post PHP Battlesnakes appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/magazine/2026/10/2026-10-php-battlesnakes/",
+      "pubDate": "2026-10-16T17:56:04.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/10/2026-10-cover_sm.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "03c3fd2134de",
+      "title": "Deno Goes the Way of the Dinosaur ",
+      "description": "Cloudflare is acquiring Deno’s team, but the deal comes with an unwelcome surprise for developers who built on its JavaScript and TypeScript runtime: the company is winding down development, leaving the community to work out how to keep it going. Ryan Dahl, creator of both Node.js and Deno, announced on October 9 that the entire team is joining Cloudflare. Deno will receive another year of monthly bug fixes and security updates before the team ends its development work. Deno Deploy will shut…",
+      "link": "https://socket.dev/blog/deno-acquisition?utm_medium=feed",
+      "pubDate": "2026-10-16T16:49:36.365Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/4f3ecc32474f02b29a4c77a93d2370e483ccb05f-1998x1252.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "89e2ae9e5b2e",
+      "title": "SymfonyCon Warsaw 2026: Green Is Not Done",
+      "description": "The Symfony community is gathering in Poland for SymfonyCon Warsaw 2026 (Nov 26-27). Two days of tech talks, 3 tracks, and great times with fellow developers. Hope to see you there! 🎤 Speaker announcement We are thrilled to present Anne-Julia…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-green-is-not-done?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-16T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "bfe7866d2096",
+      "title": "Code Review After Code Gets Cheap",
+      "description": "In my previous article, I argued that agentic development needs enough specification to make correctness checkable. A quick prompt can get implementation started quickly, but someone still has to decide whether the result does what we wanted. I left a fairly practical question unanswered, though. Once the agent has written the code, how should we […]",
+      "link": "https://www.oreilly.com/radar/code-review-after-code-gets-cheap/",
+      "pubDate": "2026-10-16T10:54:21.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/10/image-1-1600x1186.png",
+      "type": "blog"
+    },
+    {
       "id": "13f441465a2c",
       "title": "New in Symfony 8.2: Locking Controllers",
       "description": "Some controllers must never run twice at the same time: importing a catalog, charging an order, or selling the last tickets of a conference. The Lock component solves this, but to use it in a controller, you have to inject a lock factory, build the key, acquire…",
@@ -235,6 +323,21 @@
       "categories": [
         "Programmation",
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "34013be11de2",
+      "title": "LaTeX renderer",
+      "description": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office, which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, and Trip Planner). Tiny Little Office's signature trick is to store all of the document data in the #fragment section of the URL, so every document created using it becomes a bookmarkable and shareable link. It also has an…",
+      "link": "https://simonwillison.net/2026/Oct/15/latex/",
+      "pubDate": "2026-10-15T02:07:28.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"

@@ -2,6 +2,88 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "adfb2ceb4910",
+      "title": "Les salles d'agents : le seul endroit où l'on est content d'être contredit",
+      "description": "Un agent IA seul gagne toujours : il boxe contre son ombre. Alors j'ai réuni cinq agents autour d'une table, chacun avec son rôle, pour voir ce qu'ils attrapent… ou ratent. Surprise : un matin, 3 « salles » sur 4 étaient tenues par un seul agent jouant tous les rôles. Des preuves, et le droit d'être contredit.",
+      "link": "https://blog.octo.com/les-salles-d'agents--le-seul-endroit-ou-l'on-est-content-d'etre-contredit",
+      "pubDate": "2026-10-16T18:54:11.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1b67f4b7ae26",
+      "title": "Claude Code Desktop V2 : le TERMINAL, c'est FINI ?! 🤯 #Shorts",
+      "description": "🚀 Tu utilises encore Claude Code dans ton terminal ? Anthropic vient de faire évoluer Claude Code Desktop et l'expérience de développement change ! Dans cette vidéo, découvre la nouvelle interface de Claude Code Desktop V2 et ses fonctionnalités pour les développeurs : ✅ Une interface plus agréable pour coder avec l'IA ✅ Une meilleure gestion des agents et sous-agents ✅ Les Git Worktrees pour travailler en parallèle ✅ Un workflow de développement plus fluide 📚 Guide officiel :…",
+      "link": "https://www.youtube.com/watch?v=g-pXZO3o9tI",
+      "pubDate": "2026-10-16T15:17:43.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/g-pXZO3o9tI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "g-pXZO3o9tI"
+    },
+    {
+      "id": "cbb6c056ca78",
+      "title": "Jev dans Snowflake : apprendre à votre warehouse à juger vos données",
+      "description": "Comment faire porter un jugement à votre warehouse : une UDF Python appelle Jev, renvoie une probabilité typée et alimente un test dbt qui repère les données suspectes. Démo complète, code et limites à connaître.",
+      "link": "https://blog.ippon.fr/2026/10/16/jev-dans-snowflake-apprendre-a-votre-warehouse-a-juger-vos-donnees/",
+      "pubDate": "2026-10-16T12:21:08.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/scene-proposition-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "7a68fe4cce3a",
+      "title": "Vers une plateforme de modèles",
+      "description": "Un modèle de paiement en 3 fois tombe sans que personne ne le voie, puis une plainte arrive à la CNIL. Une model platform aurait pu l'éviter. Nous présentons les bonnes pratiques MLOps qu'elle met en place (versionner, déployer, monitorer, gouverner face à l'AI Act), et l'implémentation open source que nous en avons faite chez OCTO.",
+      "link": "https://blog.octo.com/vers-une-plateforme-de-modeles",
+      "pubDate": "2026-10-16T09:56:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4da1bc228759",
+      "title": "Ce qu'il fallait voir au Forum PHP 2026",
+      "description": "Comme chaque année, nous nous sommes rendus à la conférence phare de l'écosystème PHP en France : le Forum PHP de l'AFUP. En plus d'être sur scène pour parler de lucidité, de headers HTTP ou encore d'embbeding et de régression, nous étions aussi dans le public pour assister à de nombreux talks de qualité ! À travers cet article, nous allons passer en revue les plus grands enseignements de ces deux journées à Disneyland Paris. Les nouveautés de Symfony 8.2 Impossible de passer à côté : le…",
+      "link": "https://jolicode.com/blog/ce-qu-il-fallait-voir-au-forum-php-2026",
+      "pubDate": "2026-10-16T08:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/forum-php-2026/bastien.jpg",
+      "type": "blog"
+    },
+    {
       "id": "fe15103b4ac8",
       "title": "Trois techniques d'animation utiles pour les consultant·es",
       "description": "Trois techniques d’animation simples et souvent connues, mais qui continuent de m’aider au quotidien. 1. Expliciter l'agenda 2. Valider l'heure de fin 3. Rendre visible les conversations.",
@@ -66,6 +148,53 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/ce3c8721-18de-4d69-ae2f-91bbcf1cf101.mp3?_=1792065662",
       "duration": "20:27"
+    },
+    {
+      "id": "212b367252a5",
+      "title": "Le logiciel propriétaire, c'est terminé ?",
+      "description": "Bienvenue dans l'ère de hyperpersonnalisation, et des logiciels créés à la demande.",
+      "link": "https://eventuallycoding.com/p/le-logiciel-proprietaire-c-est-termine",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1792160205071-vvdadjn.png?width=400",
+      "type": "blog"
+    },
+    {
+      "id": "235b83a08a37",
+      "title": "Je ne lis plus le code de mes agents.",
+      "description": "Uncle Bob a annoncé qu'il ne lisait plus le code de ses agents. Je ne le lis plus non plus, et ce qui me permet de m'en passer, c'est ce que notre métier a longtemps rangé parmi la documentation que personne ne lit : la spécification.",
+      "link": "https://f2r.github.io/fr/je-ne-relis-pas.html",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "F2R (Frédéric Bouchery)",
+      "sourceUrl": "https://f2r.github.io/feed/fr.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b7661b00372f",
+      "title": "EmDash, le CMS de Cloudflare taillé pour les agents ?",
+      "description": "EmDash CMS est passé en 1.0. On revient sur notre article : le lancement maladroit face à WordPress, le contenu en Portable Text, les champs natifs, le multilingue, le front Astro, les passkeys, les plugins sandboxés, le serveur MCP intégré et x402 pour faire payer les robots. Et bien sûr, les défauts qui piquent encore. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/emdash/",
+      "link": "https://double-slash.dev/podcasts/emdash/",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1792147782/episode/ART_143_kfi3az.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_143_emdash.mp3",
+      "duration": "3715"
     },
     {
       "id": "55b229fcd4ea",
