@@ -2,6 +2,36 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "cc225fa176e6",
+      "title": "Inline rendering with document​.currentScript",
+      "description": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline &lt;script&gt; element that replaces itself when the page loads: The year is &lt;script&gt; document.currentScript.replaceWith( new Date().getFullYear())&lt;/script&gt; If you define a shortcut function like this: $=(...n)=&gt;document.currentScript.replaceWith(...n) You get a tiny template language: The year is…",
+      "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "pubDate": "2026-10-17T21:11:12.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c706b8884b6b",
+      "title": "web-edit 0.1a2",
+      "description": "Release: web-edit 0.1a2 web-edit (previously) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a \"copy to clipboard\" option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here's DeepSeek 4.1 Flash 1017) and I wanted an easy way to copy the resulting logs into a Gist. Tags: projects, pelican-riding-a-bicycle, deepseek",
+      "link": "https://simonwillison.net/2026/Oct/17/web-edit/",
+      "pubDate": "2026-10-17T13:16:49.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a0ebc37172c8",
       "title": "Run Jev Inside an Open Agent Harness",
       "description": "...with 150x cheaper decision-making than LLM",

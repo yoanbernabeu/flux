@@ -2,6 +2,51 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "842521d2b782",
+      "title": "GenAI Rennes #12 - 🗣️ Ronan Robe, CPO Fruggr - Le ROI d’un système d’IA n’est jamais acquis",
+      "description": "Comment fixer le prix d’une fonctionnalité d’IA, et que se passe-t-il quand le coût du modèle change sans prévenir ? Ronan Robe, co-fondateur et CPO de fruggr, partage le retour d’expérience de son agent d’IA qui aide à auditer l’accessibilité numérique (RGAA). Au programme : le choix du modèle et du fournisseur (Mistral medium, souveraineté), le calcul des coûts réels (build, run, tokens), sept hypothèses qui font varier le coût d’un client de 1 € à 640 €, puis le jour où le prix du token en…",
+      "link": "https://www.youtube.com/watch?v=fzUpAloxpEY",
+      "pubDate": "2026-10-17T12:59:10.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/fzUpAloxpEY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "fzUpAloxpEY"
+    },
+    {
+      "id": "96f060928862",
+      "title": "GenAI Rennes #12 - 🗣️ Gaël Durand, Neovelion Tech - Du meilleur modèle au meilleur usage des modèles",
+      "description": "Le « meilleur » modèle d’IA n’existe pas dans l’absolu : il se choisit pour une tâche, une entreprise et un résultat attendu. Gaël Durand, consultant IA chez Neovelion Tech, le démontre à partir d’un cas concret : aider un conseiller commercial à répondre à la question « Quelles remises puis-je proposer à ce client ? ». Au programme : les limites des classements publics, la différence entre modèle, accès, hébergement et exécution, une méthode de benchmark sur vos propres données (qualité,…",
+      "link": "https://www.youtube.com/watch?v=oFY5OaQyyV4",
+      "pubDate": "2026-10-17T12:58:41.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/oFY5OaQyyV4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "oFY5OaQyyV4"
+    },
+    {
+      "id": "17516ccc1282",
+      "title": "GenAI Rennes #12 - 🗣️ Gaël Durand, Neovelion Tech - Combien coûte vraiment l’IA ?",
+      "description": "Au-delà du prix du token, que coûte réellement une tâche réalisée avec un agent IA ? Gaël Durand, consultant IA chez Neovelion Tech, décompose pas à pas le coût d’une demande traitée par un conseiller et son assistant. Au programme : le prix d’un appel au modèle, l’impact de la quantité de contexte, le coût d’une réponse à corriger, le poids du temps humain, les coûts fixes, et la question qui compte : le temps gagné couvre-t-il le coût de l’IA ? Résultat dans le scénario présenté : 102 heures…",
+      "link": "https://www.youtube.com/watch?v=4hBCGHL4ODE",
+      "pubDate": "2026-10-17T12:46:29.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/4hBCGHL4ODE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "4hBCGHL4ODE"
+    },
+    {
       "id": "adfb2ceb4910",
       "title": "Les salles d'agents : le seul endroit où l'on est content d'être contredit",
       "description": "Un agent IA seul gagne toujours : il boxe contre son ombre. Alors j'ai réuni cinq agents autour d'une table, chacun avec son rôle, pour voir ce qu'ils attrapent… ou ratent. Surprise : un matin, 3 « salles » sur 4 étaient tenues par un seul agent jouant tous les rôles. Des preuves, et le droit d'être contredit.",
