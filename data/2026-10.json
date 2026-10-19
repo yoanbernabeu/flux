@@ -2,6 +2,111 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "276b0d7288d7",
+      "title": "API Platform Conference 2026 - Benjamin Eberlei - Is FrankenPHP the Fastest Way to Run PHP?",
+      "description": "What are the performance benefits and implications of using FrankenPHP over PHP with FPM, Apache2, or Swoole exactly? In this talk Benjamin will look at FrankenPHP from all angles, classic and worker mode, explain and contrast them with other solutions and provide some numbers from benchmarks and real production use-cases. In the end you should leave with a better understanding of the performance gains from running your first FrankenPHP deployment. ___________ More info:…",
+      "link": "https://www.youtube.com/watch?v=3tQ7o4jjAtE",
+      "pubDate": "2026-10-19T07:46:03.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/3tQ7o4jjAtE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "3tQ7o4jjAtE"
+    },
+    {
+      "id": "6a47afd43d7c",
+      "title": "API Platform Conference 2026 - Johan Janssens - Building Desktop Apps with FrankenPHP",
+      "description": "PHP on the desktop sounds like a bad idea. Until it works. FrankenPHP isn’t just a Caddy module, it’s a Go library you can embed anywhere. FrankenWails combines it with Wails, Go’s answer to Electron. The result: native desktop apps where PHP handles the backend, HTML/CSS/JS handles the UI, and Go is the glue. No Node.js, no Electron, no server. Just a single binary. In this talk, we’ll look at how PHP, Go, and the frontend communicate inside a single process, how to expose native menus,…",
+      "link": "https://www.youtube.com/watch?v=VGnTzTWQYDc",
+      "pubDate": "2026-10-19T07:44:20.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/VGnTzTWQYDc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "VGnTzTWQYDc"
+    },
+    {
+      "id": "adaa78c62177",
+      "title": "API Platform Conference 2026 - Brent Roose - Building a framework by accident",
+      "description": "For the past three years — and by total accident — I’ve had the chance to work on the most impactful project of my programming career. In this talk, I want to walk you through how that happened, and share the many lessons I learned along the way. We’ll talk about the power of open source, designing modern software and dive into some of Tempest’s features. ___________ More info: https://api-platform.com/con/2026/ X: https://x.com/ApiPlatform Music credits : Alexandre Daubois - About Tonight",
+      "link": "https://www.youtube.com/watch?v=JmEEQDCVb8s",
+      "pubDate": "2026-10-19T07:42:57.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/JmEEQDCVb8s/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "JmEEQDCVb8s"
+    },
+    {
+      "id": "be4f18981ede",
+      "title": "Arrêtez de faire confiance au code Laravel de votre agent IA (la solution en un package)",
+      "description": "Un agent IA peut vous écrire une fonctionnalité Laravel en 30 secondes. Mais peut-on faire confiance à ce code ? La plupart du temps… non. Par défaut, un agent vise le « ça marche ». Pas le « c'est correct même avec des requêtes concurrentes », ni le « l'autorisation est vérifiée côté serveur », ni le « c'est testé, et voilà ce que j'ai réellement lancé ». J'ai donc packagé mes standards d'ingénierie Laravel pour Laravel Boost : Laravel Standards. Aucun code exécuté par votre application, rien…",
+      "link": "https://www.youtube.com/watch?v=gl-6vQvk0m0",
+      "pubDate": "2026-10-19T07:36:30.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/gl-6vQvk0m0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "gl-6vQvk0m0"
+    },
+    {
+      "id": "8af25bd79de4",
+      "title": "Symfony 8.2 : chiffrer vos données Doctrine avec un seul attribut",
+      "description": "Symfony 8.2 arrive avec le composant KeyManagement et un attribut #[Encrypted] qui chiffre vos colonnes Doctrine. Si votre base de données fuite (un dump, une sauvegarde exposée, un accès en lecture), les emails, téléphones et dates de naissance ne sont plus que des octets illisibles. Votre application, elle, continue de lire les données en clair, sans rien changer à votre code. Dans cette vidéo, on suit pas à pas l'article qui l'accompagne : • Pourquoi chiffrer : KMS, clé maître, et contre…",
+      "link": "https://www.youtube.com/watch?v=Tk8Nq493bL8",
+      "pubDate": "2026-10-18T16:00:21.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/Tk8Nq493bL8/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Tk8Nq493bL8"
+    },
+    {
+      "id": "777cb4c573c9",
+      "title": "Colonnes Doctrine chiffrées avec Symfony 8.2 : votre base peut fuiter, pas vos données",
+      "description": "Un dump de base de données qui fuite, et ce sont des emails, des téléphones et des dates de naissance en clair. Symfony 8.2 arrive avec le composant KeyManagement et un attribut #[Encrypted] qui chiffre vos colonnes Doctrine. Tutoriel pas à pas avec dépôt de démonstration : chiffrement, clés de données, KMS et recherche par blind index.",
+      "link": "https://yoandev.co/symfony-colonnes-doctrine-chiffrees",
+      "pubDate": "2026-10-18T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/symfony-colonnes-doctrine-chiffrees.webp",
+      "type": "blog"
+    },
+    {
       "id": "842521d2b782",
       "title": "GenAI Rennes #12 - 🗣️ Ronan Robe, CPO Fruggr - Le ROI d’un système d’IA n’est jamais acquis",
       "description": "Comment fixer le prix d’une fonctionnalité d’IA, et que se passe-t-il quand le coût du modèle change sans prévenir ? Ronan Robe, co-fondateur et CPO de fruggr, partage le retour d’expérience de son agent d’IA qui aide à auditer l’accessibilité numérique (RGAA). Au programme : le choix du modèle et du fournisseur (Mistral medium, souveraineté), le calcul des coûts réels (build, run, tokens), sept hypothèses qui font varier le coût d’un client de 1 € à 640 €, puis le jour où le prix du token en…",

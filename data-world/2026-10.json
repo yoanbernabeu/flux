@@ -2,6 +2,66 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "7833b2445d88",
+      "title": "New in Symfony 8.2: Safer HTML in Translations",
+      "description": "Contributed by Hugo Alliaume in #66690…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-safer-html-in-translations?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-19T07:31:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/kocal.picture",
+      "type": "blog"
+    },
+    {
+      "id": "ae7b31dc246e",
+      "title": "llm-tools-datasette 0.1.1",
+      "description": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette, llm",
+      "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "pubDate": "2026-10-18T23:43:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9d2417f40cde",
+      "title": "llm-echo 0.5",
+      "description": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage Outputs: First I consider the…",
+      "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "pubDate": "2026-10-18T23:16:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "45752b48141d",
+      "title": "A Week of Symfony #1033 (October 12–18, 2026)",
+      "description": "This week, Symfony 5.4.54, 6.4.48, 7.4.21, and 8.1.9 maintenance versions were released, along with three security fixes for HttpFoundation, ExpressionLanguage, and Yaml. We also released Symfony UX 3.6, which adds three experimental packages: UX Inspector,…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1033-october-12-18-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-18T07:11:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cc225fa176e6",
       "title": "Inline rendering with document​.currentScript",
       "description": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline &lt;script&gt; element that replaces itself when the page loads: The year is &lt;script&gt; document.currentScript.replaceWith( new Date().getFullYear())&lt;/script&gt; If you define a shortcut function like this: $=(...n)=&gt;document.currentScript.replaceWith(...n) You get a tiny template language: The year is…",
