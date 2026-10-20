@@ -2,6 +2,94 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "9098b7663bb4",
+      "title": "New in Symfony 8.2: JsonSchema Component",
+      "description": "Contributed by Antoine Bluchet in #66685…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-jsonschema-component?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-20T07:17:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/soyuka.picture",
+      "type": "blog"
+    },
+    {
+      "id": "a286ccfbec85",
+      "title": "My obituary for programming",
+      "description": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more you got paid. But even pretty simple puzzles were worth a lot of money because regular people just couldn't do it! No, they needed us. They would give us a problem and we would…",
+      "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+      "pubDate": "2026-10-19T23:58:25.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "46b281f87256",
+      "title": "Agents 2.0 is here!",
+      "description": "Fully open-source solution, explained step-by-step.",
+      "link": "https://blog.dailydoseofds.com/p/agents-20-is-here",
+      "pubDate": "2026-10-19T22:53:04.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://api.substack.com/feed/podcast/221226581/daf15342e7224af7f44d2b1c16b83480.mp3",
+      "type": "blog"
+    },
+    {
+      "id": "b9e4e653fbea",
+      "title": "SymfonyCon Warsaw 2026: From Serializer to JsonStreamer: the debrief",
+      "description": "Looking forward to connecting with the PHP and Symfony community? Join us at SymfonyCon Warsaw 2026 on November 26-27. Expect great conversations, 3 talk tracks, and lots of learning together. 🎤 Speaker announcement Get ready to welcome Gary Pegeot,…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-from-serializer-to-jsonstreamer-the-debrief?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-19T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "00d9d247eccf",
+      "title": "When Retries Make Things Worse: Protecting Your System From Overload",
+      "description": "How a slow dependency becomes an outage, and how deadlines, concurrency limits, retry budgets, and jitter protect useful work. A practical deep dive with PHP examples and a controlled overload test design. Read more",
+      "link": "https://freek.dev/3206-when-retries-make-things-worse-protecting-your-system-from-overload",
+      "pubDate": "2026-10-19T12:11:16.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "889f95247af8",
+      "title": "AI Changed How We Code. It Hasn’t Changed How We Work Together.",
+      "description": "This summer, I built a small experiment called ContextCue. The idea came from something I kept seeing during my internship. The engineers around me were using AI everywhere in the software development process. GitHub Copilot and Claude models helped with specs, code, reviews, and tests. The team also maintained reusable skills that taught coding agents […]",
+      "link": "https://www.oreilly.com/radar/ai-changed-how-we-code-it-hasnt-changed-how-we-work-together/",
+      "pubDate": "2026-10-19T10:54:38.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7833b2445d88",
       "title": "New in Symfony 8.2: Safer HTML in Translations",
       "description": "Contributed by Hugo Alliaume in #66690…",
