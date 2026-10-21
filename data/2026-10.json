@@ -2,6 +2,106 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "3beb6a1a3603",
+      "title": "#381.src - AI Coding: Réécrire des applications legacy avec Quentin Pleplé",
+      "description": "\"On se fiche de savoir quelle est l'architecture du legacy. La seule chose qui est importante, c'est qu'est-ce qu'on veut à la fin.\" Le D.E.V. de la semaine est Quentin Pleplé, CTO de la practice de modernisation par l'IA chez Théodo. Depuis un an, ses équipes réécrivent des applications legacy entières avec du code généré à 100% par l'IA, tout en gardant le contrôle qualité grâce à des usines agentiques rigoureusement outillées. Dans cet épisode, il détaille sa méthode en trois phases (spec,…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/381-83c5b350b8b0",
+      "pubDate": "2026-10-21T03:00:20.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/e534e123-e85e-4bbc-8d29-7b49da195cc9.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/7f6177aa-a4f3-4ae9-a71b-83c5b350b8b0.mp3?_=1792497680",
+      "duration": "01:10:47"
+    },
+    {
+      "id": "b581e76f42d7",
+      "title": "News octobre 2026 RC2, Deno file chez Cloudflare, qui possède l'open source JS et PHP sonne l'alerte",
+      "description": "Nous évoquons Deno qui rejoint Cloudflare et la fin annoncée de Deno Deploy, la vague de rachats de l'open source JS par Cloudflare, Vercel, Anthropic et OpenAI, la course aux compilateurs TypeScript avec tsgo, bun check, tsc-rs, tsrs et tsc-ts, les deux failles critiques annoncées côté PHP, OSS Scanner d'Anthropic, OpenCode 2.0, Bootstrap 6 alpha, PrimeNG 22 qui quitte l'open source, les agent skills dans pnpm, et quelques outils comme Nuxt Fonts, TanStack Hotkeys ou lessrusty. Retrouvez…",
+      "link": "https://double-slash.dev/podcasts/news-oct-26-rc2/",
+      "pubDate": "2026-10-21T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1792571027/episode/ART_144_xz4non.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_144_news-oct-rc2.mp3",
+      "duration": "2698"
+    },
+    {
+      "id": "03a178498a27",
+      "title": "Hermes Agent fait tourner des IA en LOCAL ! 🤯",
+      "description": "Hermes Agent peut désormais installer et exécuter des modèles d'intelligence artificielle directement sur votre PC grâce à llama.cpp ! 🚀 L'agent analyse votre carte graphique (GPU), votre RAM et vous recommande des modèles IA adaptés à votre matériel. Résultat : moins de configuration, plus de confidentialité et la possibilité d'utiliser des LLM open source en local, sans envoyer vos conversations dans le cloud. #HermesAgent #IA #IntelligenceArtificielle #LLM #OpenSource #LocalAI #LlamaCPP",
+      "link": "https://www.youtube.com/watch?v=kG1Rce1iUCY",
+      "pubDate": "2026-10-20T20:57:19.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/kG1Rce1iUCY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "kG1Rce1iUCY"
+    },
+    {
+      "id": "c5535449eff5",
+      "title": "🚀 600 plugins pour Hermes Agent v0.22 !",
+      "description": "🚀 600 plugins pour Hermes Agent v0.22 ! Hermes Agent passe à la vitesse supérieure avec un catalogue de 600 plugins pour étendre les capacités de votre agent IA. 🧠 Mémoire, 🏠 domotique, 📊 observabilité avec Langfuse… De nouvelles possibilités sans tout développer soi-même. 🔐 Et côté sécurité ? Les plugins sont associés à des versions de code vérifiées pour limiter les risques. Un vrai pas en avant pour l'écosystème des agents IA open source ! #HermesAgent #AI #OpenSource #AIAgents…",
+      "link": "https://www.youtube.com/watch?v=_hITdMy4khY",
+      "pubDate": "2026-10-20T16:44:45.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/_hITdMy4khY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "_hITdMy4khY"
+    },
+    {
+      "id": "5877978caf0e",
+      "title": "Hermes Agent v0.22.0 : ce qui change pour toi",
+      "description": "Hermes Agent 0.22 débarque avec des modèles locaux et un onboarding sans clé API. Découvre ce que change cette mise à jour. Ton agent peut maintenant se connecter à des applications comme Linear ou Notion et utiliser ces outils directement dans la conversation en cours. À l'installation, tu n'as plus besoin de configurer un fournisseur de modèles ni de saisir une clé API : Hermes t'accueille dans une conversation grâce à un modèle d'essai gratuit fourni par Noose Research. Cet accès sert…",
+      "link": "https://www.youtube.com/watch?v=M4S-qBmWTvs",
+      "pubDate": "2026-10-20T16:24:22.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/M4S-qBmWTvs/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "M4S-qBmWTvs"
+    },
+    {
+      "id": "e5cb9138f7eb",
+      "title": "ai-PULSE 2026 : ce que Scaleway et l'écosystème européen ont montré",
+      "description": "Modèles ouverts, couche harness des agents, compute souverain, world model cloud et agents vocaux : ce que Scaleway, Mozilla, Mistral, PRESAGE et Gradium ont montré à ai-PULSE 2026, et ce que cela change pour les équipes.",
+      "link": "https://blog.ippon.fr/2026/10/20/ai-pulse-2026-scaleway-ecosysteme-europeen/",
+      "pubDate": "2026-10-20T15:16:52.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/IMG_5556.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "4d73d315c514",
       "title": "LLM local sur iOS 27 : ce qu'Apple ne dit pas dans la doc",
       "description": "iOS 27 fait tourner un LLM local sur iPhone : Core AI charge un modèle .aimodel derrière les mêmes API que FoundationModels, en une dizaine de lignes. Mesures sur iPhone 16, iOS 27.0 : 3 des 10 familles du catalogue exportables, 874 Mo pour Qwen2.5-1.5B, 2 min au premier lancement, 14 à 25 s par génération, contre 4,4 à 5,8 s en Apple I",

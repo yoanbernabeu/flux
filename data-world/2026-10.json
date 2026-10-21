@@ -2,6 +2,124 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "cb327556a359",
+      "title": "New in Symfony 8.2: Signed Transports and Secret Rotation",
+      "description": "Symfony 7.4 introduced signed messages in the Messenger component, so a forged message injected into your queues can't trigger sensitive handlers, like the ones that run commands or processes. Symfony 8.2 moves signing from handlers to transports and lets…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-signed-transports-and-secret-rotation?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-21T07:16:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "a08cd2278db4",
+      "title": "vlt 1.5.0 Adds Agent Skills Management",
+      "description": "JavaScript packages increasingly ship instructions for coding agents alongside their code. But installing a package doesn’t necessarily put those instructions somewhere an agent will find them. Developers can end up copying skill files into their projects by hand, then having to keep those copies current as dependencies change. vlt 1.5.0 brings that work into the package manager. Its new vlt skills command discovers skills in installed dependencies and links them into the directories coding…",
+      "link": "https://socket.dev/blog/vlt-skills?utm_medium=feed",
+      "pubDate": "2026-10-21T02:27:15.112Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4257f838c0d2",
+      "title": "eMudhra Intermediate CA Compromise",
+      "description": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages. In Python world uv…",
+      "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "pubDate": "2026-10-20T23:50:25.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b1e9066a3123",
+      "title": "The Next Step After Karpathy’s Agentic Engineering",
+      "description": "Build agents that can pause for hours, resume in a new process, and execute side effects once.",
+      "link": "https://blog.dailydoseofds.com/p/the-next-step-after-karpathys-agentic",
+      "pubDate": "2026-10-20T21:59:51.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!DoKq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc602df15-278f-48d1-8cda-9d3c82ea596b_1190x740.png",
+      "type": "blog"
+    },
+    {
+      "id": "7fa30abfca2c",
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "description": "My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called Battle Drones (play it here). Unlike my previous experiments, this one is actually fun to play. I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more fun\". It also supports multiplayer between nearby devices using audio to synchronize game state! Here's what I've built so far, and some of the things I learned along the way. Battle Drones How I built…",
+      "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
+      "pubDate": "2026-10-20T19:34:19.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c84952945c43",
+      "title": "Rust 1.100 Will Add Dependency Cooldowns to Cargo",
+      "description": "Rust developers will soon be able to tell Cargo to wait before adopting newly published dependencies. Rust 1.100, scheduled for November 12, will bring stable support for a configurable minimum publish age, letting teams delay dependency updates to give researchers and maintainers time to detect malicious releases before more projects pull them in. The stabilization PR merged on August 28, and Rust’s draft release notes list the feature for 1.100. The setting is available on beta but has not…",
+      "link": "https://socket.dev/blog/rust-cargo-cooldowns?utm_medium=feed",
+      "pubDate": "2026-10-20T14:21:31.302Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "253c1a3c8886",
+      "title": "SymfonyCon Warsaw 2026: Protect Your Data with Queryable Encryption",
+      "description": "Mark your calendars! SymfonyCon Warsaw 2026 takes place November 26-27. Come share knowledge, meet fellow devs, and enjoy two days of community-driven talks across 3 parallel tracks. 🎤 Speaker announcement It’s a pleasure to introduce Jérôme Tamarelle,…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-protect-your-data-with-queryable-encryption?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-20T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "a86c0993e0ee",
+      "title": "The Second-User Test",
+      "description": "In my work with G7–G12 students at Force Academy, a research initiative in Chongqing, I sometimes take a project that appears to be finished and give another student responsibility for using, checking, or modifying it. The handoff is a test of understanding: Can the work still make sense when its creator is no longer there […]",
+      "link": "https://www.oreilly.com/radar/the-second-user-test/",
+      "pubDate": "2026-10-20T10:54:23.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9098b7663bb4",
       "title": "New in Symfony 8.2: JsonSchema Component",
       "description": "Contributed by Antoine Bluchet in #66685…",
