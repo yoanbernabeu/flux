@@ -2,6 +2,100 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "4b6c65e3f2ab",
+      "title": "API Platform Conference 2026 x À La French (avec Mehdi Medjaoui)",
+      "description": "À l'occasion de l'API Platform Conference 2026, nous avons eu le plaisir d'accueillir Mehdi Medjaoui (entrepreneur et fondateur d'Olympe) pour une table ronde captivante, organisée en partenariat avec le podcast À La French, partenaire média de cette édition. Au programme : 35 minutes d'échanges autour de nos visions de la tech, qu'elles soient façonnées par nos parcours, nos engagements politiques ou nos choix techniques. Pour mener cette discussion, Mehdi était entouré d'invités de premier…",
+      "link": "https://www.youtube.com/watch?v=EEShIRFFH00",
+      "pubDate": "2026-10-22T07:02:11.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/EEShIRFFH00/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "EEShIRFFH00"
+    },
+    {
+      "id": "ba6e5049dfd0",
+      "title": "🚨 PHP : 4 mises à jour de sécurité disponibles !",
+      "description": "Deux vulnérabilités PHP nécessitent votre attention ! 🔥 Depuis le 21 octobre 2026, plusieurs versions de sécurité sont disponibles : ✅ PHP 8.5 → 8.5.12 ✅ PHP 8.4 → 8.4.27 ✅ PHP 8.3 → 8.3.36 ✅ PHP 8.2 → 8.2.35 ⚠️ Vous utilisez PHP 8.1 ou 7.4 ? Ces versions ne bénéficient plus du support de sécurité officiel. Si vous gérez des applications PHP en production, vérifiez vos versions et appliquez les correctifs ! 💬 Quelle version de PHP utilisez-vous actuellement ? #PHP #PHP8 #Cybersecurite…",
+      "link": "https://www.youtube.com/watch?v=gRv7vcTnuZY",
+      "pubDate": "2026-10-22T03:45:46.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/gRv7vcTnuZY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "gRv7vcTnuZY"
+    },
+    {
+      "id": "67832901c5f3",
+      "title": "PHP PIRATÉ ? 2 Failles CRITIQUES menacent vos serveurs !",
+      "description": "🚨 PHP est touché par deux failles de sécurité CRITIQUES ! Les vulnérabilités CVE-2026-109618 et CVE-2026-109619, surnommées PHP2Shell, peuvent permettre à un attaquant d'exécuter du code à distance (RCE) sur un serveur vulnérable, sans authentification. Avec un score CVSS de 9,2/10, ces failles concernent le moteur PHP lui-même et peuvent affecter des applications utilisant Symfony, Laravel, WordPress ou Drupal. Dans cette vidéo, je vous explique : 🔴 Pourquoi ces deux vulnérabilités sont…",
+      "link": "https://www.youtube.com/watch?v=uYk6lt735x4",
+      "pubDate": "2026-10-22T01:53:08.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/uYk6lt735x4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "uYk6lt735x4"
+    },
+    {
+      "id": "4f23acdbf4ae",
+      "title": "Hermes Agent devient plus simple : plus besoin de clé API pour débuter ! 🚀",
+      "description": "Hermes Desktop simplifie l'installation de son agent IA open source ! 🚀 Désormais, plus besoin de configurer immédiatement un fournisseur de modèles ou une clé API pour découvrir Hermes Agent. Grâce à un modèle d'essai fourni par Nous Research, les nouveaux utilisateurs peuvent discuter avec l'agent dès le premier lancement, connecter leurs applications et découvrir les premières fonctionnalités. ⚠️ Attention : cet accès gratuit est limité à l'onboarding. Il ne permet pas d'utiliser Hermes…",
+      "link": "https://www.youtube.com/watch?v=VhGt-nAgUCc",
+      "pubDate": "2026-10-22T00:29:55.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/VhGt-nAgUCc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "VhGt-nAgUCc"
+    },
+    {
+      "id": "164285eb7917",
+      "title": "Why « Gemini at Work 2026 » is transforming the way we work",
+      "description": "Google Cloud has announced Gemini at Work 2026, marking a turning point in the integration of AI into work. Unlike Microsoft Copilot, Gemini acts as a proactive agent, learning company methods and orchestrating missions via sub-agents. This evolution aims to improve efficiency without replacing humans, thereby transforming the way we work. L’article Why « Gemini at Work 2026 » is transforming the way we work est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/21/why-gemini-at-work-2026-is-transforming-the-way-we-work/",
+      "pubDate": "2026-10-21T14:07:32.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5ab7932c9488",
+      "title": "Et si remplir son CRM devenait aussi simple que raconter son rendez-vous ?",
+      "description": "L’article Et si remplir son CRM devenait aussi simple que raconter son rendez-vous ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/21/et-si-remplir-son-crm-devenait-aussi-simple-que-raconter-son-rendez-vous/",
+      "pubDate": "2026-10-21T11:59:48.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3beb6a1a3603",
       "title": "#381.src - AI Coding: Réécrire des applications legacy avec Quentin Pleplé",
       "description": "\"On se fiche de savoir quelle est l'architecture du legacy. La seule chose qui est importante, c'est qu'est-ce qu'on veut à la fin.\" Le D.E.V. de la semaine est Quentin Pleplé, CTO de la practice de modernisation par l'IA chez Théodo. Depuis un an, ses équipes réécrivent des applications legacy entières avec du code généré à 100% par l'IA, tout en gardant le contrôle qualité grâce à des usines agentiques rigoureusement outillées. Dans cet épisode, il détaille sa méthode en trois phases (spec,…",
@@ -35,6 +129,36 @@
       "type": "podcast",
       "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_144_news-oct-rc2.mp3",
       "duration": "2698"
+    },
+    {
+      "id": "febbdc79fa0a",
+      "title": "Linux Essentials&nbsp;: la version 2.0 est en ligne",
+      "description": "Linux Essentials : la version 2.0 est en ligne {align=right} Quelques mois en arrière, je vous ai parlé de la [refonte complète de la documentation Linux Essentials][1] du Linux Professional Institute, dont j'avais entamé la traduction à raison de plusieurs pages par jour.",
+      "link": "https://www.microlinux.fr/blog/linux-essentials-v2/",
+      "pubDate": "2026-10-21T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/lpi-logo.png",
+      "type": "blog"
+    },
+    {
+      "id": "c0c66060de1e",
+      "title": "Qui comprend encore ce qui est livré ?",
+      "description": "Avec l’IA, tout va plus vite, parfois beaucoup trop vite. Un ticket arrive, il est pris en charge par un agent. Dans les minutes qui suivent, une PR est ouverte, la demande est implémentée, testée et vérifiée. Dans un cycle de livraison continue, elle peut alors être déployée dans la foulée. Tout cela ressemble à un processus parfait. Tous les voyants sont au vert : les demandes sont traitées rapidement et avec le niveau de qualité souhaité. Pourtant, avec cette accélération, il est facile de…",
+      "link": "https://www.jdecool.fr/blog/2026/10/21/qui-comprend-encore-ce-qui-est-livre.html",
+      "pubDate": "2026-10-20T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "03a178498a27",

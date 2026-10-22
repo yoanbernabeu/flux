@@ -2,6 +2,154 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "573159826cb2",
+      "title": "New in Symfony 8.2: HTTP Trailers",
+      "description": "HTTP trailers are header fields that servers send after the response body. They are useful when a value is only known once the whole body has been generated, like a checksum of the content or the final status of a streamed operation. The best-known example…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-http-trailers?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-22T07:18:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/gplanchat.picture",
+      "type": "blog"
+    },
+    {
+      "id": "681a9250c59c",
+      "title": "Give Claude Code, Codex, and Cursor a Self-improving Shared Memory",
+      "description": "...explained step-by-step in a video walkthrough.",
+      "link": "https://blog.dailydoseofds.com/p/give-claude-code-codex-and-cursor",
+      "pubDate": "2026-10-21T22:37:50.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!lBrS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2fb9bd3a-5685-4491-9ae5-2171b2a2e035_2752x1536.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "7a45ecfaed3c",
+      "title": "PHP Foundation Says Chainguard Broke Security Embargo Ahead of Emergency Patches",
+      "description": "The PHP Foundation says Chainguard broke a coordinated security embargo by releasing patched PHP container images hours ahead of schedule, making the fix available for attackers to study while other distributors were still preparing updates. In a postmortem published October 21, the Foundation described a disclosure process disrupted by leaked CVE identifiers, an accidentally published exploit demonstration, and Chainguard’s decision to release early. It also acknowledged that work on the…",
+      "link": "https://socket.dev/blog/php-embargo-dispute?utm_medium=feed",
+      "pubDate": "2026-10-21T19:06:44.240Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "60cdd6b59600",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "description": "Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process. This post from the PHP Foundation explain what went so wrong: On Tuesday, October 20th, at around 15:00 UTC, the two CVE IDs began circulating on online…",
+      "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+      "pubDate": "2026-10-21T18:41:53.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e0e7f9f0f4ba",
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "description": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de stratégie en temps réel pour mobile et navigateur, dans la France de la Belle Époque (vers 1900) : dirigeables, Fardiers à vapeur, Creusot cuirassés, automates en képi, Gargantua la forteresse marchante — et beaucoup…",
+      "link": "https://simonwillison.net/2026/Oct/21/panache/",
+      "pubDate": "2026-10-21T16:25:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0546a9ea666f",
+      "title": "Community Corner Podcast: elePHPants with Damien Seguy",
+      "description": "In this episode, Scott talks with Damien Seguy about the history of the elePHPant, from Vincent Pontier’s logo doodle to 6,054 plush toys in Damien’s home, how the community trades them through the Community Postal Service, and what it takes to create your own. Chapters: 00:00 Intro 01:52 How the PHP logo became […] The post Community Corner Podcast: elePHPants with Damien Seguy appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/community-corner-podcast-elephpants-with-damien-seguy/",
+      "pubDate": "2026-10-21T16:00:47.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/07/Banners-OurCVEs-1-768x141.png",
+      "type": "blog"
+    },
+    {
+      "id": "e87537ac81c8",
+      "title": "PHP Patches Critical RCE Vulnerabilities, Organizations Urged to Take Unpatched Sites Offline",
+      "description": "Organizations running internet-facing PHP applications have been advised to take them offline if they cannot immediately patch two critical vulnerabilities. That is how bad this is: the NSA recommended taking affected systems offline until they can be fully mitigated, while CERT-EU urged organizations unable to patch to consider isolating their applications from public networks. The patches are now available. PHP released emergency updates on October 21, fixing flaws that can let attackers…",
+      "link": "https://socket.dev/blog/php-critical-rce-patches?utm_medium=feed",
+      "pubDate": "2026-10-21T15:28:54.996Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/1696d21a672b4b5b1340e61e1f166ce280218695-2400x1440.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "6b67cc7123cf",
+      "title": "LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials",
+      "description": "LiteLLM 1.107.0 delivers a credential stealer through Python startup hooks, while container build provenance points to a lookalike source repository used by the project’s release workflow. LiteLLM version 1.107.0 contains malicious Python startup files that collect cloud credentials, private keys, browser data, and authentication files for AI development tools. Socket’s AI scanner flagged the seven distributed wheels seven minutes after publication, and static analysis confirms both a…",
+      "link": "https://socket.dev/blog/litellm-compromise?utm_medium=feed",
+      "pubDate": "2026-10-21T13:41:48.036Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/5854bf786892201d06e871b51be3c21621c30950-574x979.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "e0693d2ae02a",
+      "title": "SymfonyCon Warsaw 2026: Your Parents Holidayed in Yugoslavia",
+      "description": "Whether you've been using Symfony for years or just started, SymfonyCon Warsaw 2026 is a great place to connect. Join us in Poland on Nov 26-27 for 3 tracks of community talks and side events. 🎤 Speaker announcement We're happy to confirm Marek…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-your-parents-holidayed-in-yugoslavia?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-21T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "76dd9ce6a9a7",
+      "title": "The State of AI Security: Threats, Tools, and Skills Gaps",
+      "description": "Artificial intelligence has changed cybersecurity permanently. While OpenAI’s inadvertent attack on Hugging Face brought AI-generated attacks to everyone’s attention, AI has been on security professionals’ radar for a long time. AI makes attacks possible at a scale that was hard to imagine a few years ago. Newly discovered zero-days can be exploited almost immediately. Deepfakes […]",
+      "link": "https://www.oreilly.com/radar/the-state-of-ai-security-threats-tools-and-skills-gaps/",
+      "pubDate": "2026-10-21T11:02:58.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/10/1254350_ORM_Security_Survey_Graphs_2026_1.png",
+      "type": "blog"
+    },
+    {
       "id": "cb327556a359",
       "title": "New in Symfony 8.2: Signed Transports and Secret Rotation",
       "description": "Symfony 7.4 introduced signed messages in the Messenger component, so a forged message injected into your queues can't trigger sensitive handlers, like the ones that run commands or processes. Symfony 8.2 moves signing from handlers to transports and lets…",
@@ -27,6 +175,36 @@
       "categories": [
         "Cybersécurité",
         "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d372b230bef3",
+      "title": " Update PHP now ",
+      "description": "Read the full post on https://stitcher.io/blog/update-now",
+      "link": "https://stitcher.io/blog/update-now",
+      "pubDate": "2026-10-21T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "878b4c3862bf",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "description": "Earlier today, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35. These releases fix two critical vulnerabilities that, under the right conditions, allow an unauthenticated attacker to execute code on servers running PHP. If you run PHP, it is imperative that you update now. The announcement on php.net contains and references technical details on the vulnerabilities, attack vectors, and instructions on how to update on which systems. This post isn't about how to update. It's about…",
+      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "pubDate": "2026-10-21T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
@@ -398,6 +576,21 @@
         "Web"
       ],
       "image": "https://connect.symfony.com/profile/brajk19.picture",
+      "type": "blog"
+    },
+    {
+      "id": "35b4b4388c70",
+      "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
+      "description": "Research: sparqlite: SPARQL 1.1 inside SQLite, written in Rust This research task is really an experiment in running Claude Code for web in \"Ultracode\" mode, as described in Orchestrate subagents at scale with dynamic workflows in the Claude Code documentation. With Ultracode turned on, Claude Code makes aggressive use of dynamic workflows - it generates JavaScript that defines and coordinates a network of subagents to take on complex problems. My initial prompt was this - I meant \"hit the rows…",
+      "link": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
+      "pubDate": "2026-10-16T01:58:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
