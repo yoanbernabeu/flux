@@ -2,6 +2,89 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "19bc832ab415",
+      "title": "Mes agents lisaient trop : ce que dix semaines de chasse aux tokens m'ont appris",
+      "description": "Mes agents IA relisaient tout le journal pour y trouver une ligne. Depuis le 30 juillet, je chasse les tokens : mesurer d'abord, écrire des règles de lecture, retirer ce qui ne sert pas, borner chaque tâche. Des chiffres sourcés, des estimations assumées, et cinq gestes à appliquer dès demain, sans coder.",
+      "link": "https://blog.octo.com/mes-agents-lisaient-trop--ce-que-dix-semaines-de-chasse-aux-tokens-m'ont-appris",
+      "pubDate": "2026-10-23T08:36:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "05fade86f8ea",
+      "title": "MACI #167 - Failles PHP et IA : la sécurité peut-elle suivre ? - Avec Mehdi Medjaoui",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on revient sur les deux vulnérabilités critiques PHP révélées le 21 octobre 2026 et sur la manière dont l'IA accélère la découverte des failles de sécurité. Avec nos invités, on parle divulgation responsable, modèles open weight, DevSecOps et des choix réalisés chez Clever Cloud pour déployer rapidement les correctifs. Et puis, comme à notre habitude, la discussion va vite s'étendre… des progrès de l'IA en mathématiques aux questions…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-167-failles-php-et-ia-la-securite-peut-elle-suivre-avec-mehdi-medjaoui",
+      "pubDate": "2026-10-23T07:49:40.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/qKMVmLWTPSOKjAdurkcA5u9KXMLVb19GvmcI3Rzr_1400x1400.jpeg?t=1792741780",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/BMJr6h5rD7kd.mp3?t=1792739134",
+      "duration": "52:40"
+    },
+    {
+      "id": "f020e82e32f8",
+      "title": "#325.exe - Dev, un métier d'avenir ?: Mutation ou disparition ? par Nikolay Rodionov",
+      "description": "Pour l'épisode #325 je recevais Greg Lhotellier. On en débrief avec Nikolay. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/325-e6462a964116",
+      "pubDate": "2026-10-23T03:00:53.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/59840407-6fdf-44da-a536-e6462a964116.mp3?_=1792670513",
+      "duration": "15:34"
+    },
+    {
+      "id": "53583f31cf3d",
+      "title": "IA et développement : pourquoi un groupe de distribution automobile a revu son approche",
+      "description": "L'interview avec Jérémy Muller aborde l'intégration de l'IA dans le développement d'applications. Il partage des expériences sur un mini CRM, soulignant que le gain de temps peut être perdu dans la correction de code. Il conseille de commencer par des tâches simples et de combiner IA et expertise humaine pour maximiser l'efficacité. L’article IA et développement : pourquoi un groupe de distribution automobile a revu son approche est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/22/ia-et-developpement-pourquoi-un-groupe-de-distribution-automobile-a-revu-son-approche/",
+      "pubDate": "2026-10-22T15:30:42.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "137b0d40459c",
+      "title": "J'ai testé Higgsfield : les vidéos IA deviennent DINGUES !",
+      "description": "🚀 Testez Higgsfield pour créer vos propres vidéos avec l'IA : https://higgsfield.ai/s/higgsfield-general-campaign-yt-pentiminax-UwLAMz 🎬 Et si vous pouviez créer des vidéos spectaculaires sans caméra, sans décor et sans compétences en montage ? Dans cette vidéo, je vous fais découvrir *Higgsfield*, une plateforme de génération d'images et de vidéos par intelligence artificielle. Nous allons explorer son interface et tester plusieurs fonctionnalités pour voir ce qu'il est réellement possible…",
+      "link": "https://www.youtube.com/watch?v=ZTyKNzBHUZs",
+      "pubDate": "2026-10-22T12:00:39.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/ZTyKNzBHUZs/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "ZTyKNzBHUZs"
+    },
+    {
       "id": "4b6c65e3f2ab",
       "title": "API Platform Conference 2026 x À La French (avec Mehdi Medjaoui)",
       "description": "À l'occasion de l'API Platform Conference 2026, nous avons eu le plaisir d'accueillir Mehdi Medjaoui (entrepreneur et fondateur d'Olympe) pour une table ronde captivante, organisée en partenariat avec le podcast À La French, partenaire média de cette édition. Au programme : 35 minutes d'échanges autour de nos visions de la tech, qu'elles soient façonnées par nos parcours, nos engagements politiques ou nos choix techniques. Pour mener cette discussion, Mehdi était entouré d'invités de premier…",

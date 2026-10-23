@@ -2,6 +2,124 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "26be0a988845",
+      "title": "New in Symfony 8.2: More MongoDB Integrations",
+      "description": "Symfony already supports MongoDB for storing sessions and managing locks. In Symfony 8.2, you can also use it to cache data and queue messages with Messenger. MongoDB Cache Adapters…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-more-mongodb-integrations?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-23T07:26:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/gromnan.picture",
+      "type": "blog"
+    },
+    {
+      "id": "d7dd63eff8f4",
+      "title": "The PHP Podcast 2026.10.22",
+      "description": "🎙️ PHP Podcast – October 22, 2026 Hosts: Holly, Sara, Joe – Special Guest Daniel Scherzer PHP ships an emergency security release a day early, Daniel Scherzer pushes the commits at 6:30am on four hours of sleep, and governments across Europe start pulling servers offline. Oh, and a 12-pound dog nearly killed Holly. 🐘 The […] The post The PHP Podcast 2026.10.22 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-10-22/",
+      "pubDate": "2026-10-22T23:29:48.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f399.png",
+      "type": "blog"
+    },
+    {
+      "id": "facdcce2dbfd",
+      "title": "Build a Jev-powered Agentic RAG",
+      "description": "...explained step-by-step with code.",
+      "link": "https://blog.dailydoseofds.com/p/build-a-jev-powered-agentic-rag",
+      "pubDate": "2026-10-22T23:00:56.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!jtUh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcabc013a-2cd0-48b7-a0f0-e620444c481e_1080x1080.gif",
+      "type": "blog"
+    },
+    {
+      "id": "87e22db35085",
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "description": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat: The visual effects are credited to Matties Grooten of Fake it or Leave it. Via flir on Hacker News Tags: music, ai, generative-ai, pelican-riding-a-bicycle",
+      "link": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+      "pubDate": "2026-10-22T19:42:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2f38489938aa",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "description": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December, when Anthropic first declared skills to be an \"open standard\": I wouldn't…",
+      "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "pubDate": "2026-10-22T18:09:56.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2eded73c1a58",
+      "title": "Quoting Armin Ronacher",
+      "description": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. &mdash; Armin Ronacher Tags: security, generative-ai, armin-ronacher, ai, ai-security-research, llms",
+      "link": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "pubDate": "2026-10-22T15:34:13.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b7a44f2c7017",
+      "title": "SymfonyCon Warsaw 2026: Symfony UX + Symfony AI: Taking Agent Interactions to the Next Level",
+      "description": "Warsaw is hosting this year’s global Symfony meetup on November 26-27! Come hang out at SymfonyCon Warsaw 2026 to learn, exchange ideas, and meet developers from around the world. 🎤 Speaker announcement Huge welcome to Mathéo Daninos, Core Team…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-symfony-ux-symfony-ai-taking-agent-interactions-to-the-next-level?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-22T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "d87e05cdd459",
+      "title": "The Latest Anthropic Claude Models Contain AI Text Watermarks: What Does This Mean for You?",
+      "description": "If you’re an instructor for the O’Reilly live training platform, you’ve got to be prepared for the unexpected. As a developer I think we all can understand the situation when a demo (you know, the one that you’ve tested a thousand times on your machine) easily decides on its own to go wrong while being […]",
+      "link": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/",
+      "pubDate": "2026-10-22T10:55:05.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "573159826cb2",
       "title": "New in Symfony 8.2: HTTP Trailers",
       "description": "HTTP trailers are header fields that servers send after the response body. They are useful when a value is only known once the whole body has been generated, like a checksum of the content or the final status of a streamed operation. The best-known example…",
