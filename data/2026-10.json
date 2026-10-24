@@ -2,6 +2,53 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "1ef814ce5b9b",
+      "title": "Ne faites plus jamais cette erreur avec vos prompts #IA #Conseil #Shorts",
+      "description": "🎨 Tu génères des images avec Nano Banana, mais tes résultats ne sont pas toujours à la hauteur ? Voici une astuce simple pour améliorer tes images générées par intelligence artificielle : utilise un modèle IA pour optimiser ton prompt avant de lancer la génération ! Dans ce Short, je te montre comment : ✅ Améliorer tes prompts de génération d'images ✅ Utiliser Nano Banana pour créer plusieurs variantes ✅ Optimiser tes résultats sans gaspiller tes crédits IA 💡 Un bon prompt peut faire toute la…",
+      "link": "https://www.youtube.com/watch?v=VCtU0-zKXWE",
+      "pubDate": "2026-10-23T14:13:40.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/VCtU0-zKXWE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "VCtU0-zKXWE"
+    },
+    {
+      "id": "9ec7b67cabe8",
+      "title": "IA en entreprise : ceux qui en profitent le plus sont-ils les moins dupes ?",
+      "description": "Une étude de SuperOffice révèle que 70 % des entreprises utilisant l'intelligence artificielle avancée jugent ses promesses exagérées, tandis que 56 % des expérimentateurs partagent cet avis. La connexion des logiciels existants est priorisée par 38 % des entreprises, indiquant un pragmatisme face à l'IA et ses limitations. L’article IA en entreprise : ceux qui en profitent le plus sont-ils les moins dupes ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/23/ia-en-entreprise-ceux-qui-en-profitent-le-plus-sont-ils-les-moins-dupes/",
+      "pubDate": "2026-10-23T10:18:48.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "129979ed03b4",
+      "title": "Harnais agentiques (1/2) : pourquoi les bonnes pratiques d'hier coûtent cher aujourd'hui",
+      "description": "Un agent de codage ne se résume pas au modèle qui l'anime. Le modèle de langage en est le moteur, mais il ne travaille jamais seul : il est intégré dans un harnais, c'est-à-dire l'ensemble des instructions, outils, règles, étapes d'orchestration et mécanismes de contrôle qui encadrent son travail.",
+      "link": "https://blog.octo.com/harnais-agentiques-(12)--pourquoi-les-bonnes-pratiques-d'hier-coutent-cher-aujourd'hui",
+      "pubDate": "2026-10-23T09:08:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "19bc832ab415",
       "title": "Mes agents lisaient trop : ce que dix semaines de chasse aux tokens m'ont appris",
       "description": "Mes agents IA relisaient tout le journal pour y trouver une ligne. Depuis le 30 juillet, je chasse les tokens : mesurer d'abord, écrire des règles de lecture, retirer ce qui ne sert pas, borner chaque tâche. Des chiffres sourcés, des estimations assumées, et cinq gestes à appliquer dès demain, sans coder.",
@@ -53,6 +100,23 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/59840407-6fdf-44da-a536-e6462a964116.mp3?_=1792670513",
       "duration": "15:34"
+    },
+    {
+      "id": "06839060474f",
+      "title": "Sécurité à l'ère de l'IA : la veille n'est plus une option",
+      "description": "PHP, Node.js, GitLab : une semaine de failles critiques, dont deux trouvées grâce à l'IA. J'ai donné l'alerte la veille, presque par chance. Qui doit faire la veille quand les failles vont plus vite que nous ?",
+      "link": "https://yoandev.co/securite-ia-veille",
+      "pubDate": "2026-10-23T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/securite-ia-veille.webp",
+      "type": "blog"
     },
     {
       "id": "53583f31cf3d",

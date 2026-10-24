@@ -2,6 +2,123 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "9d3d9b0a09e5",
+      "title": "6 KV Cache Quantization Approaches",
+      "description": "...explained visually.",
+      "link": "https://blog.dailydoseofds.com/p/6-kv-cache-quantization-approaches",
+      "pubDate": "2026-10-23T23:01:51.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!USWZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74145f10-c8cb-4b66-b9e6-04b007fc08f7_1400x1200.png",
+      "type": "blog"
+    },
+    {
+      "id": "1560ea04dee0",
+      "title": "Quick Study",
+      "description": "Tool: Quick Study Prompt to Claude Opus 5.5 High: Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Quick Study uses Sobel edge detection, with no external libraries beyond Google Fonts. Tags: tools",
+      "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "pubDate": "2026-10-23T21:35:13.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b10aa3690548",
+      "title": "New Evidence Shows LiteLLM Secret-Stealing Workflows Ran 11 Days Before Supply Chain Attack",
+      "description": "Socket's Threat Research team found that a malicious secret-exfiltration workflow was already running successfully in the BerriAI/litellm repository on October 10, 2026, eleven days before the release-pipeline attack that published malicious litellm==1.107.0 artifacts, placing observed malicious activity in the repository more than a week before the compromise came to light. What Socket Found # The compromise of the BerriAI/litellm release pipeline on October 21, 2026, which produced malicious…",
+      "link": "https://socket.dev/blog/litellm-attack-timeline?utm_medium=feed",
+      "pubDate": "2026-10-23T21:00:31.470Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/4e7b06a2565bf3cfd7ea58fec9ebe6e89617794d-738x423.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "9e0308113d32",
+      "title": "Introducing Kimi K3.1 Pro",
+      "description": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same). The US dollar pricing is $2.00/million tokens for input and $10/million for output - the same as GPT-6.1 Sol and half the price of Claude Opus 5.5. Moonshot's own benchmarks show…",
+      "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+      "pubDate": "2026-10-23T19:40:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "26851cd9630a",
+      "title": "Owners, Not Renters: Raffi Krikorian on Open Source AI",
+      "description": "Created by Claude with light editing by Tim O’Reilly Raffi Krikorian, Mozilla’s CTO, joined Tim O’Reilly at our recent AI Codecon to talk about open source AI. Mozilla, of course, is the nonprofit that helped to define the open source revolution back in the late 1990s. Though its Firefox web browser was superseded as the […]",
+      "link": "https://www.oreilly.com/radar/owners-not-renters-raffi-krikorian-on-open-source-ai/",
+      "pubDate": "2026-10-23T15:55:38.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea7b5b62b6d9",
+      "title": "Cloudflare Introduces a Faster TypeScript Compiler Written in Rust",
+      "description": "Microsoft’s Go port of TypeScript’s compiler and tooling delivered roughly 10× faster type checking. Now Cloudflare is working on a Rust port of TypeScript’s compiler that promises even faster type checking and lower memory use. The TypeScript team is collaborating on the work, and some of the optimizations are already making their way into the official compiler. Cloudflare announced on October 20 that it is bringing tsrs, a Rust port of the TypeScript compiler, into its Oxc toolchain. Its…",
+      "link": "https://socket.dev/blog/cloudflare-typescript-rust?utm_medium=feed",
+      "pubDate": "2026-10-23T14:34:56.905Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/5a770a2dcc618ed7248adfc79cdfd6480bdf31e2-1588x818.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "1d6869a3166b",
+      "title": "SymfonyCon Warsaw 2026: You Are (Not) a Machine",
+      "description": "Two days of sharing, learning, and catching up with friends in the ecosystem: SymfonyCon Warsaw 2026 arrives November 26-27 with 3 parallel tracks and community activities. 🎤 Speaker announcement We are honored to have Peter Dietrich, Freelancer,…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-you-are-not-a-machine?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-23T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "a97333b2bcac",
+      "title": "The Agentic Software Factory Hierarchy of Needs",
+      "description": "The following article originally appeared on the Vanishing Gradients Substack and is being republished here with the authors’ permission. Stripe’s Minions turn engineering requests into candidate pull requests. Ramp’s Inspect puts coding agents to work in the background, with tools to check their changes. Warp Factories takes work from tickets and chat through agents, checks, […]",
+      "link": "https://www.oreilly.com/radar/the-agentic-software-factory-hierarchy-of-needs/",
+      "pubDate": "2026-10-23T10:54:58.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/10/image-4.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "26be0a988845",
       "title": "New in Symfony 8.2: More MongoDB Integrations",
       "description": "Symfony already supports MongoDB for storing sessions and managing locks. In Symfony 8.2, you can also use it to cache data and queue messages with Messenger. MongoDB Cache Adapters…",
