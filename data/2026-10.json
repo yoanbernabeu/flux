@@ -2,6 +2,51 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "e93b2188ee4c",
+      "title": "Dans les coulisses de mon dernier side project: le harness",
+      "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness (cet article) L’article précédent a présenté l’architecture technique du projet, dont le code a été écrit en grande partie par des agents. Pour que ces derniers puissent respecter les standards que je me suis fixés et livrent des fonctionnalités qui…",
+      "link": "https://www.jdecool.fr/blog/2026/10/25/dans-les-coulisses-de-mon-dernier-side-project-le-harness.html",
+      "pubDate": "2026-10-24T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9db85241a593",
+      "title": "La fin du Code Review?",
+      "description": "J’ai toujours été un grand fan de la code review. Ma première conférence portait sur ce thème. C’était il y a cinq ans, et on m’en parle… Continue reading on Medium »",
+      "link": "https://smaine-milianni.medium.com/la-fin-du-code-review-9de67ef96136?source=rss-c730ddf97658------2",
+      "pubDate": "2026-10-24T15:25:34.000Z",
+      "source": "Smaïne Milianni",
+      "sourceUrl": "https://medium.com/feed/@smaine-milianni",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/976/1*Yhj5cnSvlUn3AWx3gjJxPQ.png",
+      "type": "blog"
+    },
+    {
+      "id": "50133211bd05",
+      "title": "Dans les coulisses de mon dernier side project: l'architecture technique",
+      "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique (cet article) 2/X - Le harness Des outils de rétrospective, il y en a énormément. Mais comme tout développeur, j’ai eu envie de créer le mien, celui qui correspond exactement à mes besoins (et bien plus). C’est également un excellent moyen pour apprendre, approfondir…",
+      "link": "https://www.jdecool.fr/blog/2026/10/24/dans-les-coulisses-de-mon-dernier-side-project-l-architecture.html",
+      "pubDate": "2026-10-23T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1ef814ce5b9b",
       "title": "Ne faites plus jamais cette erreur avec vos prompts #IA #Conseil #Shorts",
       "description": "🎨 Tu génères des images avec Nano Banana, mais tes résultats ne sont pas toujours à la hauteur ? Voici une astuce simple pour améliorer tes images générées par intelligence artificielle : utilise un modèle IA pour optimiser ton prompt avant de lancer la génération ! Dans ce Short, je te montre comment : ✅ Améliorer tes prompts de génération d'images ✅ Utiliser Nano Banana pour créer plusieurs variantes ✅ Optimiser tes résultats sans gaspiller tes crédits IA 💡 Un bon prompt peut faire toute la…",

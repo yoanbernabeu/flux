@@ -2,6 +2,65 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "fafe47c4708b",
+      "title": "A Week of Symfony #1034 (October 19–25, 2026)",
+      "description": "This week, development activity focused on polishing and fixing the new features of the upcoming Symfony 8.2 version. In addition, we showcased some of them, including the new JsonSchema component, signed Messenger transports, safer HTML in translations,…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1034-october-19-25-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-25T08:19:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac6b4f68ceb2",
+      "title": "How CUDA Graph Replay Cuts Inference Overhead",
+      "description": "...explained visually.",
+      "link": "https://blog.dailydoseofds.com/p/how-cuda-graph-replay-cuts-inference",
+      "pubDate": "2026-10-24T23:08:41.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!oWpl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41d097c8-5177-4262-8202-2d8ff68d1615_2752x1536.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "dc257c5b344b",
+      "title": "The last 24 hours in PHP land, as observed by a monitoring service",
+      "description": "Oh Dear shares hard numbers on how the recent critical PHP vulnerabilities rippled through the ecosystem, with site outages peaking at 18.8 percent and down alerts rising to 25 times the normal level. It is a useful, data-backed snapshot of a chaotic day in PHP land from a monitoring service's point of view. Read more",
+      "link": "https://freek.dev/3207-the-last-24-hours-in-php-land-as-observed-by-a-monitoring-service",
+      "pubDate": "2026-10-24T12:30:36.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d1879513a337",
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "description": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude Opus 5.5 added a new map called \"Compass Rose\" and modified the WebSockets multiplayer network code…",
+      "link": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "pubDate": "2026-10-24T03:59:57.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9d3d9b0a09e5",
       "title": "6 KV Cache Quantization Approaches",
       "description": "...explained visually.",
