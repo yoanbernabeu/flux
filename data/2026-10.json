@@ -2,6 +2,112 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "6fb0143f86a7",
+      "title": "Mesurer l’immesurable : Comment évaluer les systèmes à base d’IA générative ?",
+      "description": "Faire un POC avec un LLM prend 2 jours… avoir le cran de le brancher face à de vrais clients prend parfois 6 mois 😅 En interne sur 5 questions parfaites, tout le monde crie au génie. Mais pour la mise en prod, la question est : « Est-ce qu’on est VRAIMENT sûrs que ça marche bien ? » Erin Pacquetet, Ph.D. (Senior AI et Data Scientist chez SCIAM) nous donne des pistes pour exploiter les LLM tout en maîtrisant l’évaluation de leurs résultats. 👉 Au programme : limites des métriques classiques,…",
+      "link": "https://www.youtube.com/watch?v=lS4ShzArpY0",
+      "pubDate": "2026-10-26T09:39:16.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/lS4ShzArpY0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "lS4ShzArpY0"
+    },
+    {
+      "id": "30192d8179c2",
+      "title": "API Platform Conference 2026 - Pauline Vos - No OSS, No Users: Why Investing in Open Source Matters",
+      "description": "At MongoDB, I help maintain the open-source tools that help PHP developers use our product. Without active, stable OSS, we shrimply wouldn’t have any users. In this session, I’ll share why open source is essential to your product’s success, and how to get involved in the ecosystems that support it. Through real-world examples, you’ll learn strategies for contributing effectively, the value of community trust, and getting leadership buy-in to invest engineering time in OSS. You’ll leave with…",
+      "link": "https://www.youtube.com/watch?v=Q6IAFLgT36k",
+      "pubDate": "2026-10-26T08:00:39.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/Q6IAFLgT36k/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Q6IAFLgT36k"
+    },
+    {
+      "id": "155b24e8ce0c",
+      "title": "API Platform Conference 2026 - Helvira Goma - Why Silence Is Not Always Golden",
+      "description": "Some developers cannot write a single line of code without music. Others are convinced that absolute silence is the only way to think. This quiet disagreement shapes how we work more than we admit. It influences focus, collaboration, open office tensions, remote work rituals, and even how teams define “productivity.” Yet, most developers choose their work soundtrack out of habit, not intention. Here’s the interesting part. Music is not neutral. What you listen to while coding can directly…",
+      "link": "https://www.youtube.com/watch?v=1kzG2sMw2XE",
+      "pubDate": "2026-10-26T08:00:26.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/1kzG2sMw2XE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "1kzG2sMw2XE"
+    },
+    {
+      "id": "aac633f4c68d",
+      "title": "API Platform Conference 2026 - Nicolas Grekas - The PHP runtime I want to see",
+      "description": "This talk is about the runtime I would like PHP to have, and the steps I think get us there. For twenty years PHP has worked the same way: one request, one process, and then everything is forgotten. That model is the reason PHP is simple, robust, and easy to deploy. It is not the problem. The problem is everything it cannot do. Nothing can wait, watch, or remember between requests. So we built cron jobs, supervisors, TTLs and Redis keys around it, to make up for one missing capability. This…",
+      "link": "https://www.youtube.com/watch?v=we_VnX18RQw",
+      "pubDate": "2026-10-26T08:00:23.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/we_VnX18RQw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "we_VnX18RQw"
+    },
+    {
+      "id": "fc6187813b6d",
+      "title": "API Platform Conference 2026 - Diana Scharf - Love Humain, Use AI",
+      "description": "The developer role is shifting. We specify, delegate, refine, and orchestrate more than we type actual lines of code. And honestly? It’s incredible. But it’s also… weird? Because between the productivity gains and the hype, something gets lost: us. This talk isn’t anti-AI, quite the opposite. It’s pro-human. We’ll explore the uncomfortable questions: What happens to the junior devs who never struggle through their first bug? If AI trains on AI output, where does that leave us? And when the code…",
+      "link": "https://www.youtube.com/watch?v=i3aFQ4vEYfs",
+      "pubDate": "2026-10-26T08:00:11.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/i3aFQ4vEYfs/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "i3aFQ4vEYfs"
+    },
+    {
+      "id": "89aac718bd43",
+      "title": "Dans les coulisses de mon dernier side project: les tests automatisés",
+      "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness 3/X - Les tests automatisés (cet article) L’architecture et le cadre fourni à l’IA ne suffisent pas à garantir ce qui va être produit. C’est pour cela qu’en plus de tout ça, de nombreux outils de vérification et de tests, cette fois-ci déterministes,…",
+      "link": "https://www.jdecool.fr/blog/2026/10/26/dans-les-coulisses-de-mon-dernier-side-project-les-tests-automatises.html",
+      "pubDate": "2026-10-25T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e93b2188ee4c",
       "title": "Dans les coulisses de mon dernier side project: le harness",
       "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness (cet article) L’article précédent a présenté l’architecture technique du projet, dont le code a été écrit en grande partie par des agents. Pour que ces derniers puissent respecter les standards que je me suis fixés et livrent des fonctionnalités qui…",

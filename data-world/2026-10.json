@@ -2,6 +2,36 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "21e0ca326d66",
+      "title": "New in Symfony 8.2: Messenger Inbox",
+      "description": "In a previous article, we introduced the Messenger outbox, which saves the messages you send in the same database transaction as your changes. Symfony 8.2 adds the other half of the pattern: an inbox to keep track of messages your application has already…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-messenger-inbox?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-26T08:16:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "452814709e16",
+      "title": "Seam Cutter",
+      "description": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wanting to crop out a section in the middle - to redact an irrelevant prompt from a transcript, for…",
+      "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+      "pubDate": "2026-10-25T15:10:19.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "fafe47c4708b",
       "title": "A Week of Symfony #1034 (October 19–25, 2026)",
       "description": "This week, development activity focused on polishing and fixing the new features of the upcoming Symfony 8.2 version. In addition, we showcased some of them, including the new JsonSchema component, signed Messenger transports, safer HTML in translations,…",
