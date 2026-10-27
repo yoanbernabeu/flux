@@ -1196,6 +1196,21 @@
       "image": null
     },
     {
+      "id": "080f8707ef38",
+      "title": "Générer son SEO avec Symfony AI et Gemini",
+      "description": "Intégrez la génération SEO automatique avec Google Gemini via Symfony AI dans votre administration EasyAdmin. Optimisez vos métadonnées facilement.",
+      "link": "https://lecodeestdanslepre.fr/billets/generer-son-seo-avec-symfony-ai-et-gemini/",
+      "pubDate": "2026-02-15T11:29:57.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bbb725ea0b70",
       "title": "Générer son SEO avec Symfony AI et Gemini",
       "description": "Implémentez la génération automatique de titre, description et mots-clés SEO avec Symfony AI, Gemini et Messenger dans votre administration EasyAdmin",
@@ -1208,6 +1223,21 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "4c3471d64f7d",
+      "title": "Redirections HTTP avec Symfony : de la règle au nettoyage mensuel",
+      "description": "Redirections HTTP avec Symfony : entité RedirectRule, listener kernel.request, cache Redis, validation anti-ReDoS, création automatique au changement de slug et purge mensuelle.",
+      "link": "https://lecodeestdanslepre.fr/billets/construire-un-systeme-de-redirections-http-complet-avec-symfony/",
+      "pubDate": "2026-02-14T18:16:24.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "2efe9db74122",
@@ -2274,6 +2304,21 @@
       "videoId": "KaB3hp95h1k"
     },
     {
+      "id": "146ef651412c",
+      "title": "Recommandations de contenu avec Meilisearch",
+      "description": "Meilisearch appelle lui-même le fournisseur d'embeddings au push. Ce que ça change, ce que /similar sait faire, et pourquoi il faut quand même un repli.",
+      "link": "https://lecodeestdanslepre.fr/billets/recommandations-de-contenu-avec-meilisearch/",
+      "pubDate": "2026-02-01T16:12:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e1e7e1417181",
       "title": "Recommandations de contenu avec Meilisearch",
       "description": "Implémentez un système de recommandation d'articles sur votre blog Symfony en utilisant Meilisearch comme moteur de similarité sémantique.",
@@ -2286,6 +2331,21 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "b2b8f0556700",
+      "title": "Comment j'ai transformé EasyAdmin en tableur intelligent",
+      "description": "Transformez EasyAdmin en tableur intelligent ! Six décisions UX ciblées améliorent votre quotidien sans code ni outils externes. Découvrez comment.",
+      "link": "https://lecodeestdanslepre.fr/billets/comment-j-ai-transforme-easyadmin-en-tableur-intelligent/",
+      "pubDate": "2026-02-01T13:16:19.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "b076260c26da",

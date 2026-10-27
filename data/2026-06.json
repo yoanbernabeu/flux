@@ -78,6 +78,21 @@
       "type": "blog"
     },
     {
+      "id": "cb0f898f225b",
+      "title": "Créer un serveur MCP avec Symfony",
+      "description": "Configurez un serveur MCP sous Symfony pour exposer vos outils à des agents IA. Apprenez la configuration, les attributs, et évitez les pièges.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-mcp/",
+      "pubDate": "2026-06-29T20:26:44.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1527308d92f1",
       "title": "Arthur Mensch fait le point sur Mistral",
       "description": "Mistral, l'IA française, se positionne comme une alternative aux solutions américaines et chinoises, offrant respect des réglementations et sécurité des données. Son PDG, Arthur Mensch, souligne ses services adaptés aux PME et sa volonté de démocratiser l'IA. Mistral vise à devenir un acteur majeur en Europe, en investissant dans la recherche et les infrastructures. L’article Arthur Mensch fait le point sur Mistral est apparu en premier sur OlivierSauvage.com.",
@@ -203,6 +218,21 @@
       "type": "blog"
     },
     {
+      "id": "56cf7ded9eb8",
+      "title": "Symfony 8.1 HTTP-less : pour un projet neuf, pas pour un worker existant",
+      "description": "Le kernel HTTP-less de Symfony 8.1 sert un projet neuf, pas à alléger un worker existant. ServicesBundle, ConsoleBundle, RequiredBundle : pour quel cas.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-8-1-http-less-pour-un-projet-neuf-pas-pour-un-worker-existant/",
+      "pubDate": "2026-06-28T17:48:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1203c196334f",
       "title": "Ma skill gratuite pour ne plus jamais rater de code review après 63 jours d’oubli (veille #25)",
       "description": "Astro passe la 7ème, le Japon prive les Européens de son nouveau joyau, Anthropic ajoute les tags à Claude et NVIDIA joue les garde du corps !",
@@ -249,6 +279,36 @@
       "type": "blog"
     },
     {
+      "id": "63e36bc5b8f5",
+      "title": "Igor PHP : voir ce que PHPStan ne voit pas en worker mode",
+      "description": "Igor PHP repère les fuites d'état que PHPStan ne voit pas en FrankenPHP worker mode. Premier scan de ce blog : 269 findings bruts, 3 vrais bugs.",
+      "link": "https://lecodeestdanslepre.fr/billets/igor-php-worker-mode/",
+      "pubDate": "2026-06-28T09:37:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bc888f3abe4b",
+      "title": "Vibe coding : le crash dont vous êtes le héros",
+      "description": "Un vendredi, un assistant un peu trop serviable, et deux jauges qui ne disent pas la même chose. Une partie de vibe coding dont vous êtes le héros.",
+      "link": "https://lecodeestdanslepre.fr/billets/vibe-coding-erreur-ia/",
+      "pubDate": "2026-06-27T19:25:12.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "312cf7796e2d",
       "title": "Vibe coding : le crash dont vous êtes le héros",
       "description": "Un vendredi, un assistant un peu trop serviable, et deux jauges qui ne disent pas la même chose. Une partie de vibe coding dont vous êtes le héros.",
@@ -275,6 +335,21 @@
         "DevOps",
         "Cloud",
         "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1c2c81ea7f50",
+      "title": "L'IA générative joue-t-elle au magicien d'Oz ?",
+      "description": "L'IA générative livre-t-elle des miracles ou cache-t-elle des opérateurs ? Cet article décortique la réalité des avancées d'AlphaFold, GenCast, Copilot et les illusions marketing.",
+      "link": "https://lecodeestdanslepre.fr/billets/ia-generative-magicien-oz/",
+      "pubDate": "2026-06-27T12:52:49.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
@@ -334,6 +409,21 @@
       "pubDate": "2026-06-26T22:00:00.000Z",
       "source": "Jérémy Decool",
       "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4e92b8aced28",
+      "title": "La sobriété, c'est un métier du « ne pas »",
+      "description": "L'empreinte numérique des développeurs est-elle problématique ? Découvrez les 3 leviers d'action concrets pour une écoconception logicielle efficace et souvent gratuite.",
+      "link": "https://lecodeestdanslepre.fr/billets/sobriete-numerique-developpeur/",
+      "pubDate": "2026-06-26T19:35:26.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
       "categories": [
         "Programmation",
         "Web"
@@ -1030,6 +1120,21 @@
       "type": "blog"
     },
     {
+      "id": "7c22c4d71941",
+      "title": "Vibe coding : le garde-fou n'est pas là où on l'a mis",
+      "description": "Trois ratés d'IA en 2025-2026 (BMW, Starbucks, boutique) montrent que le code est bon, mais la délégation de décision en production manque de garde-fou humain.",
+      "link": "https://lecodeestdanslepre.fr/billets/vibe-coding-garde-fou/",
+      "pubDate": "2026-06-16T19:16:16.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b85da77e0c40",
       "title": "Event-Driven Architecture chez Octo : épisode 3, les services AWS et la config",
       "description": "Épisode 3 de la série EDA : on suit une candidature de bout en bout, de SmartRecruiters jusqu'à Mattermost, en full AWS. EventBridge, API Gateway, Lambda, SQS, DLQ, CDC… avec du vrai code, des schémas, et même comment brancher un legacy de 13 ans.",
@@ -1229,6 +1334,21 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "53cc7f874925",
+      "title": "Une IA a trouvé les failles que ma QA ne voyait plus",
+      "description": "Une IA a détecté des failles de sécurité critiques (IDOR, exécution de code arbitraire) dans une application Symfony, là où la QA humaine ne voyait plus rien. Comment ce piège fonctionne.",
+      "link": "https://lecodeestdanslepre.fr/billets/une-ia-a-trouve-les-failles-que-ma-qa-ne-voyait-plus/",
+      "pubDate": "2026-06-14T15:55:49.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

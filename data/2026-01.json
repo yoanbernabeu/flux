@@ -175,6 +175,21 @@
       "videoId": "FNy-fa0aSn4"
     },
     {
+      "id": "8821bdc50682",
+      "title": "Les délimiteurs Twig : ce problème d'espace blanc que vous ignorez",
+      "description": "Les délimiteurs Twig ({% %}, {{ }}, {# #}) génèrent des espaces blancs inattendus. Découvrez comment les maîtriser pour un code source HTML stable et léger.",
+      "link": "https://lecodeestdanslepre.fr/billets/les-delimiteurs-twig-le-probleme-d-espace-blanc-que-personne-ne-maitrise-vraiment/",
+      "pubDate": "2026-01-29T13:41:33.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "eae2d029acf4",
       "title": "Les délimiteurs Twig : ce problème d'espace blanc que vous ignorez",
       "description": "Gaps inline-block, diffs bruyants, layouts instables : comprenez l'impact des délimiteurs Twig sur l'espace blanc et adoptez les bonnes pratiques avec {%- et {{-.",
@@ -317,6 +332,36 @@
       "type": "podcast",
       "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_126_newsJanv26.mp3",
       "duration": "3567"
+    },
+    {
+      "id": "ae3a985f7220",
+      "title": "PHP 8.4 : rattrapage de retard ou véritable modernisation ?",
+      "description": "PHP 8.4 introduit les property hooks, la visibilité asymétrique, et des fonctions de tableau. Analyse de leur adoption et impact réel sur les projets.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-4-rattrapage-modernisation/",
+      "pubDate": "2026-01-27T13:56:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "46946a9533a8",
+      "title": "PHP 8.5 : pipe operator et nouvelles fonctionnalités",
+      "description": "PHP 8.5 introduit le pipe operator, array_first(), array_last() et l'attribut NoDiscard. Découvrez les nouveautés qui modernisent le langage.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-5-pipe-operator-et-nouvelles-fonctionnalites/",
+      "pubDate": "2026-01-27T13:49:59.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "801db48e60b1",
@@ -503,6 +548,21 @@
       "type": "blog"
     },
     {
+      "id": "e9f90a9c75ce",
+      "title": "PHP 8.3 : typage renforcé et nouvelles fonctionnalités",
+      "description": "PHP 8.3 améliore la rigueur avec le typage des constantes et json_validate(). Découvrez ces nouveautés pour sécuriser et optimiser votre code PHP.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-3-le-renforcement-du-typage-renforce-et-coherence-du-langage/",
+      "pubDate": "2026-01-25T20:59:12.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a0eb4bfad002",
       "title": "PHP 8.3 : typage renforcé et nouvelles fonctionnalités",
       "description": "PHP 8.3 : constantes typées, json_validate(), attribut #[Override] et clonage readonly. Découvrez les nouveautés qui améliorent la sûreté et les performances du langage.",
@@ -515,6 +575,21 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "0d7aad740afb",
+      "title": "PHP 8.2 : la consolidation du système de types et modernisation de l’API",
+      "description": "PHP 8.2 a introduit les classes readonly, une avancée majeure pour la consolidation du typage en PHP. Découvrez son impact sur la fiabilité des applications.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-2-readonly-classes/",
+      "pubDate": "2026-01-25T19:20:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "f7e845520a5b",
@@ -544,6 +619,36 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/TwMXi6tDzLE"
+    },
+    {
+      "id": "951fa51127b9",
+      "title": "Comment tailwind_merge résout les conflits de classes dans Twig",
+      "description": "Le filtre tailwind_merge résout les conflits de classes Tailwind CSS dans Twig, simplifiant le développement de vos composants réutilisables.",
+      "link": "https://lecodeestdanslepre.fr/billets/comment-tailwind-merge-resout-les-conflits-de-classes-dans-twig/",
+      "pubDate": "2026-01-25T10:40:09.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "57982a31d330",
+      "title": "PHP 8.1 : l’expression après la révolution",
+      "description": "Découvrez comment 'readonly' de PHP 8.1 renforce les architectures PHP modernes, malgré la fin de sa maintenance. Un outil essentiel pour la robustesse.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-1-readonly-impact/",
+      "pubDate": "2026-01-25T10:24:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "fb7efc345571",
@@ -586,6 +691,21 @@
         "Cloud"
       ],
       "image": "https://www.microlinux.fr/img/configuration.png",
+      "type": "blog"
+    },
+    {
+      "id": "42c007c45d66",
+      "title": "PHP 8.0 : la révolution qui a tout changé",
+      "description": "PHP 8 : les attributs et propriétés promues ont révolutionné le code. Analyse des vrais impacts cinq ans plus tard sur le développement PHP.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-0-attributs-proprietes-promues/",
+      "pubDate": "2026-01-24T19:12:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1151,6 +1271,21 @@
       "image": "https://les-tilleuls.coop/wp-content/uploads/2026/01/article-hot-reloading-1024x569.webp"
     },
     {
+      "id": "2fd7869531b9",
+      "title": "Ce qui se passe entre la barre de recherche et l'index",
+      "description": "De la frappe au résultat : LiveComponent, index Meilisearch, indexation asynchrone et tokenisation. La chaîne réelle d'une recherche sur ce blog.",
+      "link": "https://lecodeestdanslepre.fr/billets/meilisearch-l-art-de-la-recherche-instantanee/",
+      "pubDate": "2026-01-19T13:41:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ab8a43d5a237",
       "title": "Meilisearch : l'art de la recherche instantanée",
       "description": "Marre du SQL LIKE ? Découvrez comment intégrer Meilisearch à Symfony pour une recherche résiliente, asynchrone et une latence inférieure à 50ms.",
@@ -1187,6 +1322,21 @@
       "pubDate": "2026-01-19T00:00:00.000Z",
       "source": "Elao",
       "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d7bc9a3c1590",
+      "title": "OWASP ZAP : comment implémenter un audit DAST automatisé avec Symfony et Docker",
+      "description": "Auditez la sécurité de votre application Symfony avec OWASP ZAP, Docker et le réseau. Apprenez à automatiser vos scans pour des tests reproductibles.",
+      "link": "https://lecodeestdanslepre.fr/billets/owasp-zap-comment-implementer-un-audit-dast-automatise-avec-symfony-et-docker/",
+      "pubDate": "2026-01-18T22:37:50.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
       "categories": [
         "Programmation",
         "Web"
@@ -1760,6 +1910,21 @@
       "type": "blog"
     },
     {
+      "id": "a97092b0ddb5",
+      "title": "Le FOUC n'est pas un bug graphique, c'est une faille d'architecture !",
+      "description": "Le FOUC n'est pas un bug visuel, mais une faille d'architecture frontend qui brise la confiance utilisateur et pénalise votre SEO. Éradiquez-le.",
+      "link": "https://lecodeestdanslepre.fr/billets/le-fouc-n-est-pas-un-bug-graphique-c-est-une-faille-d-architecture/",
+      "pubDate": "2026-01-12T20:16:44.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ff619224f197",
       "title": "Le FOUC n'est pas un bug graphique, c'est une faille d'architecture !",
       "description": "Marre du contenu qui saute au chargement ? Découvrez comment éradiquer le FOUC (Flash of Unstyled Content), améliorer votre score CLS et optimiser l'UX de vos applications web modernes.",
@@ -1848,6 +2013,21 @@
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
     },
     {
+      "id": "519dcbf282fc",
+      "title": "Symfony UX Icons : 200 000 icônes SVG sans CDN, sans sprite, sans prise de tête",
+      "description": "Symfony UX Icons intègre 200 000+ icônes SVG via Iconify, sans CDN ni sprite. Installation et usage en une ligne Twig pour une UX sans prise de tête.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-ux-icons-200-000-icones-svg-sans-cdn-sans-sprite-sans-prise-de-tete/",
+      "pubDate": "2026-01-11T12:15:36.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "01cc6a859536",
       "title": "Symfony UX Icons : 200 000 icônes SVG sans CDN, sans sprite, sans prise de tête",
       "description": "Fini les sprites et Font Awesome ! Découvrez comment Symfony UX Icons intègre 200k+ icônes (Iconify) nativement. Zéro requête HTTP, performances maximales.",
@@ -1876,6 +2056,21 @@
         "IA"
       ],
       "image": "https://yoandev.co/img/66748f27-3a23-4aae-a4f0-972c1dc718de.webp"
+    },
+    {
+      "id": "ef39d2ca14d9",
+      "title": "Symfony UX Toolkit : quand le frontend devient (enfin) un plaisir",
+      "description": "Symfony UX Toolkit révolutionne la DX avec des composants UI inspirés de shadcn/ui. Maîtrisez vos vues Twig et Stimulus pour un frontend enfin agréable.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-ux-toolkit-quand-le-frontend-devient-enfin-un-plaisir/",
+      "pubDate": "2026-01-10T13:06:13.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "66a62c13ee8e",

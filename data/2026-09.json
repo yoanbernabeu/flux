@@ -901,6 +901,21 @@
       "videoId": "PBdwFuk4VPI"
     },
     {
+      "id": "e34ceff8f839",
+      "title": "Homebrew, Docker, nvm, worktrees : une seule commande pour tout nettoyer",
+      "description": "Ma fonction Zsh update : topgrade, Homebrew, Docker, nvm et les worktrees Claude Code sous une seule commande, avec un bilan d'espace en Go.",
+      "link": "https://lecodeestdanslepre.fr/billets/homebrew-docker-nvm-worktrees-une-seule-commande-pour-tout-nettoyer/",
+      "pubDate": "2026-09-19T12:49:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8a19d15cee30",
       "title": "Homebrew, Docker, nvm, worktrees : une seule commande pour tout nettoyer",
       "description": "Ma fonction Zsh update : topgrade, Homebrew, Docker, nvm et les worktrees Claude Code sous une seule commande, avec un bilan d'espace en Go.",

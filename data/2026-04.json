@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "1e1fba5f8d3e",
+      "title": "C'est parti pour installer EasyAdmin",
+      "description": "EasyAdmin Symfony est la solution idéale pour un back-office léger. Installez-le rapidement en suivant ce guide et gérez efficacement vos entités Doctrine.",
+      "link": "https://lecodeestdanslepre.fr/billets/c-est-parti-pour-installer-easyadmin/",
+      "pubDate": "2026-04-30T18:47:42.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "01daa01c2d2e",
       "title": "Le consultant : une lecture sociologique",
       "description": "Je publie dans le dernier numéro de la Nouvelle revue du travail, consacré à « Ce que manager veut dire », une recension du roman de David Naïm, Le Consultant. J’y propose une lecture sociologique de ce récit acerbe sur Le consultant : une lecture sociologique first appeared on Mais où va le Web.",
@@ -58,6 +73,21 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "128f9261a357",
+      "title": "Héritage Doctrine : la troisième porte que personne ne montre",
+      "description": "Doctrine présente 3 stratégies d'héritage ORM : STI, CTI et Mapped Superclass. Découvrez cette 3e option souvent oubliée pour vos entités complexes.",
+      "link": "https://lecodeestdanslepre.fr/billets/heritage-doctrine-la-troisieme-porte-que-personne-ne-montre/",
+      "pubDate": "2026-04-29T11:18:17.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -251,6 +281,21 @@
         "Cloud",
         "IA",
         "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4276e0e6f4e8",
+      "title": "Fibers PHP : anatomie d'une primitive mal aimée",
+      "description": "Les Fibers PHP, bien que peu utilisées directement, sont le moteur des bibliothèques async modernes comme Amphp. Découvrez leur fonctionnement bas niveau.",
+      "link": "https://lecodeestdanslepre.fr/billets/fibers-php-anatomie-d-une-primitive-mal-aimee/",
+      "pubDate": "2026-04-28T19:34:01.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"

@@ -2,6 +2,103 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "328126098898",
+      "title": "Les astuces pour dompter Claude Code ⚡",
+      "description": "30 minutes, 30 astuces. 1 mission : transformer votre manière de travailler avec Claude Code et vous faire gagner en productivité ! Claude Code est devenu bien plus qu’un simple générateur de code : c’est un co-pilote capable d’écrire, refactorer, déboguer et même anticiper vos besoins. Mais sa vraie puissance se révèle quand on connaît les bons tips & tricks pour en tirer le maximum. Erwan GEREEC (Engineering Manager chez Doctolib) passe en revue une série de bonnes pratiques et astuces…",
+      "link": "https://www.youtube.com/watch?v=hQW11iWGOdQ",
+      "pubDate": "2026-10-27T09:19:09.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/hQW11iWGOdQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "hQW11iWGOdQ"
+    },
+    {
+      "id": "d3f879c1aa3d",
+      "title": "Agents IA : qui surveille les machines pendant que vous êtes censé gagner du temps ?",
+      "description": "L'article souligne un angle souvent ignoré de l'IA : le temps qu'elle entraîne en supervision et en corrections, qui peut annuler les gains de productivité prometteurs. Une étude de G2 révèle que 45 % des utilisateurs perdent des heures à surveiller les IA, ce qui nécessite une réflexion sur leur réelle efficacité dans l'entreprise. L’article Agents IA : qui surveille les machines pendant que vous êtes censé gagner du temps ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/27/agents-ia-qui-surveille-les-machines-pendant-que-vous-etes-cense-gagner-du-temps/",
+      "pubDate": "2026-10-27T07:32:56.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d937815092fb",
+      "title": "Harnais agentiques (2/2) : huit réflexes à désapprendre pour un harnais frugal",
+      "description": "Ce volet est consacré à un sujet délicat : le désapprentissage. Contrairement à ce que l'on pourrait croire, se défaire d'un savoir demande souvent plus d'effort que d'en acquérir un nouveau. Dans notre cas, nous avons longuement tâtonné pour construire un harnais qui nous semblait satisfaisant.",
+      "link": "https://blog.octo.com/harnais-agentiques-(22)--huit-reflexes-a-desapprendre-pour-un-harnais-frugal-1",
+      "pubDate": "2026-10-27T06:53:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e1a9f831753a",
+      "title": "😱 Ta Google TV est remplie de pubs ? Voici la solution !",
+      "description": "📺 Marre des publicités et des recommandations inutiles sur ta Google TV ? Découvre CleanYourTV, un projet open source gratuit qui permet de nettoyer l'interface de ta télévision et de reprendre le contrôle sur ton expérience Android TV / Google TV. 🚀 Moins de distractions, une interface plus épurée et une TV qui va à l'essentiel ! 🔗 Projet disponible sur GitHub. #GoogleTV #AndroidTV #OpenSource #AstuceTech #Tech",
+      "link": "https://www.youtube.com/watch?v=lH6H5XSyb8s",
+      "pubDate": "2026-10-27T01:05:12.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/lH6H5XSyb8s/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "lH6H5XSyb8s"
+    },
+    {
+      "id": "12d9e161a205",
+      "title": "Dans les coulisses de mon dernier side project: l'infrastructure",
+      "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness 3/X - Les tests automatisés 4/X - L’infrastructure (cet article) Avant l’IA, travailler sur un projet Web ne présentait pas de difficulté particulière: il suffisait de lancer les serveurs de développement qui étaient généralement directement intégrés…",
+      "link": "https://www.jdecool.fr/blog/2026/10/27/dans-les-coulisses-de-mon-dernier-side-project-l-infrastructure.html",
+      "pubDate": "2026-10-26T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "473d4ea1a19c",
+      "title": "Transforme ta Google TV avec cette IA (CleanYourTV)",
+      "description": "📺 Marre des publicités et recommandations qui envahissent l'écran d'accueil de votre Google TV ou Android TV ? Découvrez CleanYourTV, un projet open source qui permet de nettoyer et personnaliser l'interface de votre télévision grâce à l'intelligence artificielle ! Dans ce tutoriel complet, je vous explique étape par étape comment utiliser CleanYourTV avec Claude Code, Codex ou Gemini CLI pour reprendre le contrôle de votre TV, sans avoir besoin de la rooter. 🚀 *Au programme :* - Comprendre…",
+      "link": "https://www.youtube.com/watch?v=UOEXWFcc0VU",
+      "pubDate": "2026-10-26T20:29:19.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/UOEXWFcc0VU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "UOEXWFcc0VU"
+    },
+    {
       "id": "6fb0143f86a7",
       "title": "Mesurer l’immesurable : Comment évaluer les systèmes à base d’IA générative ?",
       "description": "Faire un POC avec un LLM prend 2 jours… avoir le cran de le brancher face à de vrais clients prend parfois 6 mois 😅 En interne sur 5 questions parfaites, tout le monde crie au génie. Mais pour la mise en prod, la question est : « Est-ce qu’on est VRAIMENT sûrs que ça marche bien ? » Erin Pacquetet, Ph.D. (Senior AI et Data Scientist chez SCIAM) nous donne des pistes pour exploiter les LLM tout en maîtrisant l’évaluation de leurs résultats. 👉 Au programme : limites des métriques classiques,…",
@@ -91,6 +188,21 @@
       "image": "https://i.ytimg.com/vi/i3aFQ4vEYfs/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "i3aFQ4vEYfs"
+    },
+    {
+      "id": "18d38e948c88",
+      "title": "Sortir de Google Workspace : mail, agendas, visio et bureautique sur un serveur dédié, un seul SSO",
+      "description": "Ce qui tourne aujourd’hui Le 24 octobre 2026, l’enregistrement MX de mon domaine a cessé de pointer vers Google. Depuis, le mail arrive sur un serveur dédié, dans Stalwart, et je le lis dans Bulwark, un webmail installé comme application sur le bureau et sur Android. Les agendas et les contacts sont dans Stalwart aussi, qui fait Calendrier et Contact sans rien ajouter. La page de prise de rendez-vous que les prospects utilisent n’est plus un lien Google Calendar. La visio n’est plus Meet. Les…",
+      "link": "https://kolapsis.com/blog/how-to-exit-google-workspace/",
+      "pubDate": "2026-10-26T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "89aac718bd43",

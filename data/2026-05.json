@@ -928,6 +928,21 @@
       "videoId": "pPGfHtf31_0"
     },
     {
+      "id": "6657cfac822a",
+      "title": "EasyAdmin : quand un seul trait configure trois CRUDs",
+      "description": "Simplifiez vos CRUDs Symfony avec EasyAdmin. Utilisez un trait pour partager des champs communs entre entités et améliorez la maintenance de votre code.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-quand-un-seul-trait-configure-quatre-cruds/",
+      "pubDate": "2026-05-22T13:33:24.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "54a02ecdd26f",
       "title": "Gemini 3.5 Flash débarque et vous manipule (veille #21)",
       "description": "\"Chacun gagne sur ses propres critères.\" C'est ainsi qu'on pourrait résumer toute annonce de modèle IA en 2026.",
@@ -1061,6 +1076,21 @@
         "Cloud"
       ],
       "image": "https://codeka.io/2026/05/22/tangled/cover_hu_504506566c19fc08.webp",
+      "type": "blog"
+    },
+    {
+      "id": "eb75840b38bf",
+      "title": "FrankenPHP en dev : un worker chaud, trois --watch empilés, et un cert qui ne demande rien",
+      "description": "FrankenPHP : 3 hot reloads empilés (worker, Tailwind, PHP) dans un binaire avec Caddy et HTTPS natif. Développement sans configuration complexe.",
+      "link": "https://lecodeestdanslepre.fr/billets/frankenphp-en-dev-un-worker-chaud-trois-watch-empiles-et-un-cert-qui-ne-demande-rien/",
+      "pubDate": "2026-05-21T19:25:25.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1370,6 +1400,21 @@
       "type": "blog"
     },
     {
+      "id": "b7b5006a8744",
+      "title": "jakzal/phpqa : sortir la QA Symfony de son vendor/",
+      "description": "Exclure les outils de QA Symfony (PHPStan, Rector, CS-Fixer) du vendor Composer grâce à jakzal/phpqa et Docker. Reproduisez votre environnement.",
+      "link": "https://lecodeestdanslepre.fr/billets/jakzal-phpqa-sortir-la-qa-symfony-de-son-vendor/",
+      "pubDate": "2026-05-18T12:32:58.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c9356c0febd4",
       "title": "Devoxx France 2026: retour d'expérience",
       "description": "Après trois jours à la Devoxx France 2026,, voici mon top 3 des conférences qui m’ont le plus marquée.",
@@ -1514,6 +1559,21 @@
       "type": "blog"
     },
     {
+      "id": "68be013a478b",
+      "title": "Symfony 8.1 : vos Commands passent en mode Controller",
+      "description": "Symfony 8.1 intègre les value resolvers Doctrine (MapEntity, Uid, DateTime) pour vos commands. Simplifiez vos signatures __invoke() comme en Controller.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-8-1-vos-commands-passent-en-mode-controller/",
+      "pubDate": "2026-05-17T19:52:59.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b18b03322ba0",
       "title": "Utiliser npm link pour tester un module localement",
       "description": "Découvrez comment utiliser la commande npm link pour développer et tester un module NPM localement sans avoir à le publier à chaque modification.",
@@ -1545,6 +1605,21 @@
       "image": "https://i.ytimg.com/vi/1tX5_4BaPeg/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "1tX5_4BaPeg"
+    },
+    {
+      "id": "a62df96a09c2",
+      "title": "FrankenPHP en prod : un binaire, quatre sous-domaines, un seul worker",
+      "description": "FrankenPHP intègre Caddy pour remplacer Nginx et PHP-FPM. Nous démontons la stack Docker pour servir 4 sous-domaines avec un worker Symfony.",
+      "link": "https://lecodeestdanslepre.fr/billets/frankenphp-en-prod-un-binaire-quatre-sous-domaines-un-seul-worker/",
+      "pubDate": "2026-05-17T15:07:25.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "dd591ca783af",
@@ -1619,6 +1694,21 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6d83cf764bf0",
+      "title": "Symfony Scheduler en prod : j'ai attendu d'avoir Redis pour migrer, et j'ai bien fait",
+      "description": "Migration de Cron vers Symfony Scheduler : 3 briques essentielles (worker Messenger, Redis, transport async) pour une exécution fiable en production.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-scheduler-en-prod-j-ai-attendu-d-avoir-redis-pour-migrer-et-j-ai-bien-fait/",
+      "pubDate": "2026-05-16T13:23:32.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1717,6 +1807,21 @@
       "type": "blog"
     },
     {
+      "id": "49c4a580570f",
+      "title": "EasyAdmin : son premier CrudController",
+      "description": "Dès votre premier CrudController avec EasyAdmin et Symfony, prenez les bonnes habitudes. Cet article détaille la création sur l'entité simple RedirectRule.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-son-premier-crudcontroller/",
+      "pubDate": "2026-05-15T08:04:15.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b2261206a8e5",
       "title": "#340.exe - De l’idée à une entreprise avec Flutter: Quitter la stabilité pour l'impact par Guillaume Laforge",
       "description": "Pour l'épisode #340 je recevais Nicolas Guillot. On en débrief avec Guillaume. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
@@ -1747,6 +1852,21 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dc4f08569214",
+      "title": "PHP 8.6 : ce qui est acté, ce qui se joue encore",
+      "description": "Découvrez ce qui est confirmé et ce qui se joue encore pour PHP 8.6 : analyse complète des nouvelles fonctionnalités et RFC en cours de vote.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-6-ce-qui-est-dans-le-pot-ce-qui-se-joue-encore/",
+      "pubDate": "2026-05-14T10:02:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1808,6 +1928,21 @@
       "sourceUrl": "https://oliviersauvage.com/feed/",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7de55473b960",
+      "title": "CrowdSec : la défense réseau communautaire expliquée",
+      "description": "CrowdSec est une défense réseau communautaire : les bans sont partagés et validés collectivement. Découvrez sa mécanique et comment il surpasse les limites de Fail2ban.",
+      "link": "https://lecodeestdanslepre.fr/billets/crowdsec-la-defense-reseau-communautaire-expliquee/",
+      "pubDate": "2026-05-13T07:12:18.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
@@ -2572,6 +2707,21 @@
       "type": "blog"
     },
     {
+      "id": "cf7356d55390",
+      "title": "EasyAdmin : construire un menu admin qui tient la route",
+      "description": "Un menu EasyAdmin qui tient la route : configureMenuItems(), MenuItem, rôles et sections pour un back-office Symfony navigable. Retour d'expérience complet.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-construire-un-menu-admin-qui-tient-la-route/",
+      "pubDate": "2026-05-08T12:34:33.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e7ea1c47583f",
       "title": "EasyAdmin : construire un menu admin qui tient la route",
       "description": "Créez un menu admin EasyAdmin robuste avec Symfony. ConfigureMenuItems(), linkTo: bonnes pratiques pour une navigation back-office efficace.",
@@ -2840,6 +2990,21 @@
       "type": "blog"
     },
     {
+      "id": "18909f62944f",
+      "title": "Une boucle for contre 11,7 millions de Français : autopsie d'une faille IDOR",
+      "description": "Décryptage de la faille IDOR qui a exposé 11,7 millions de comptes ANTS en 2026. Apprenez comment Symfony prévient ce type de vulnérabilité.",
+      "link": "https://lecodeestdanslepre.fr/billets/une-boucle-for-contre-11-7-millions-de-francais-autopsie-d-une-faille-idor/",
+      "pubDate": "2026-05-06T08:36:29.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7aa3c232743c",
       "title": "Une boucle for contre 11,7 millions de Français : autopsie d'une faille IDOR",
       "description": "Analysez la faille IDOR exploitée chez l'ANTS. Comprenez cette vulnérabilité critique et découvrez comment la prévenir efficacement avec Symfony et PHP pour sécuriser vos applications web.",
@@ -3045,6 +3210,21 @@
         "Cloud",
         "IA",
         "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b2e7ad9a27b0",
+      "title": "Symfony AI Mate : un troisième port d'entrée pour votre app Symfony",
+      "description": "Symfony AI Mate ajoute un port JSON-RPC à votre app Symfony, exposant votre container DI et services aux agents via stdio. Installation en 3 lignes.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-ai-mate-un-troisieme-port-d-entree-pour-votre-app-symfony/",
+      "pubDate": "2026-05-04T13:44:36.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"

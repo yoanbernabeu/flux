@@ -432,6 +432,21 @@
       "videoId": "lQHy-Av4meg"
     },
     {
+      "id": "a4c7d00754f2",
+      "title": "Symfony 8.2 : des URLs signées à usage unique, sans stockage",
+      "description": "Symfony 8.2 ajoute l'usage unique aux URLs signées d'UriSigner via un jeton d'état replié dans le HMAC. Mécanisme, limites et comparaison avec login_link.",
+      "link": "https://lecodeestdanslepre.fr/billets/urls-signees-usage-unique-symfony-8-2/",
+      "pubDate": "2026-07-22T12:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "55bf2c89eeb0",
       "title": "Symfony 8.2 : des URLs signées à usage unique, sans stockage",
       "description": "Symfony 8.2 ajoute l'usage unique aux URLs signées d'UriSigner via un jeton d'état replié dans le HMAC. Mécanisme, limites et comparaison avec login_link.",
@@ -681,6 +696,36 @@
       "type": "blog"
     },
     {
+      "id": "aa84ca874684",
+      "title": "Twig 3.28 : le sandbox arrête de tout emballer, les macros redeviennent dynamiques",
+      "description": "Découvrez les nouveautés de Twig 3.28 : le retour des macros dynamiques grâce à l'opérateur point et un sandbox plus performant. Auditez vos extensions Twig.",
+      "link": "https://lecodeestdanslepre.fr/billets/twig-3-28-sandbox-macros-dynamiques/",
+      "pubDate": "2026-07-18T12:33:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da069e1672ad",
+      "title": "Le SEO tué par l'IA ? Les chiffres ne mesurent pas la même chose",
+      "description": "Zéro-clic, AI Overviews : ces chiffres ne mesurent pas la même chose. Comment lire leur périmètre, et mesurer la dépendance réelle de votre site à Google.",
+      "link": "https://lecodeestdanslepre.fr/billets/seo-ia-guerre-des-chiffres/",
+      "pubDate": "2026-07-18T11:04:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2f854d6e5528",
       "title": "Twig 3.28 : le sandbox arrête de tout emballer, les macros redeviennent dynamiques",
       "description": "Découvrez les nouveautés de Twig 3.28 : le retour des macros dynamiques grâce à l'opérateur point et un sandbox plus performant. Auditez vos extensions Twig.",
@@ -701,6 +746,21 @@
       "description": "Zéro-clic, AI Overviews : ces chiffres ne mesurent pas la même chose. Comment lire leur périmètre, et mesurer la dépendance réelle de votre site à Google.",
       "link": "https://lecodeestdanslepre.fr/billets/seo-ia-guerre-des-chiffres",
       "pubDate": "2026-07-18T09:04:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aeebaf95bc1b",
+      "title": "Une timeline et un bouton « Copy as text » : la page d'exception Symfony se redessine",
+      "description": "La page d'exception Symfony se réinvente avec une timeline cliquable et un bouton « Copy as text » pour faciliter le debug avec les IA. Analyse des changements.",
+      "link": "https://lecodeestdanslepre.fr/billets/page-exception-symfony-redesign-copy-as-text/",
+      "pubDate": "2026-07-17T12:33:45.000Z",
       "source": "Le Code est dans le Pré",
       "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
       "categories": [
@@ -952,6 +1012,21 @@
       "videoId": "VuqThZ8SjfA"
     },
     {
+      "id": "906fd0f63a16",
+      "title": "Les macros Twig : des fonctions qui ne voient rien",
+      "description": "Les macros Twig dans Symfony : syntaxe, import, portée et bug invisible. Ce billet explore leurs limites et quand les remplacer par des Twig Components.",
+      "link": "https://lecodeestdanslepre.fr/billets/macros-twig/",
+      "pubDate": "2026-07-15T12:33:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b4a0f933d5b9",
       "title": "Les macros Twig : des fonctions qui ne voient rien",
       "description": "Maîtrisez les macros Twig : syntaxe, importations multiples, portée et quand les remplacer par des Twig Components pour optimiser vos templates Symfony.",
@@ -1172,11 +1247,41 @@
       "videoId": "QBIOCGa2Nvw"
     },
     {
+      "id": "4f8abf0999e6",
+      "title": "Un RAG sur son propre blog : pour me relire, pas pour écrire",
+      "description": "Monter un RAG sur son blog pour vérifier ses écrits. Découvrez le montage canonique et décomposé de Symfony AI pour chercher avant de générer vos contenus.",
+      "link": "https://lecodeestdanslepre.fr/billets/rag-editorial-relire-corpus/",
+      "pubDate": "2026-07-13T12:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a31ef7b3aedf",
       "title": "Un RAG sur son propre blog : pour me relire, pas pour écrire",
       "description": "Optimisez votre blog : découvrez le RAG pour retrouver vos infos sans jargon. Bénéfices pour les auteurs.",
       "link": "https://lecodeestdanslepre.fr/billets/rag-editorial-relire-corpus",
       "pubDate": "2026-07-13T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0a8d4aa7cfc4",
+      "title": "Cyber Resilience Act : mainteneur, steward ou simple passant ?",
+      "description": "Le 11 septembre 2026, les obligations de signalement du CRA s'activent. Fabricant, steward ou hors champ : ce qui tombe (ou pas) sur un dev PHP.",
+      "link": "https://lecodeestdanslepre.fr/billets/cyber-resilience-act-mainteneur-steward-dev-php/",
+      "pubDate": "2026-07-13T09:41:21.000Z",
       "source": "Le Code est dans le Pré",
       "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
       "categories": [
@@ -1245,6 +1350,21 @@
         "DevOps",
         "Cloud",
         "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2733548a5205",
+      "title": "L'affiche avant le film : des images OG dessinées en PHP, sans Chromium",
+      "description": "Générez des images OG personnalisées en PHP avec GD et Imagick, sans Chromium ni IA. Apprenez le processus complet incluant Glide et la gestion des caches.",
+      "link": "https://lecodeestdanslepre.fr/billets/images-og-dessinees-en-php/",
+      "pubDate": "2026-07-10T12:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
@@ -1394,6 +1514,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!XsGj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F011fbc59-a683-4995-9046-e7a7e46c4b59_1280x832.webp",
+      "type": "blog"
+    },
+    {
+      "id": "37dfd02b8d12",
+      "title": "JSON-LD et schema.org : baliser pour l'ère des agents",
+      "description": "Décryptage du JSON-LD et Schema.org en 2026 : comment baliser pour les agents IA et ce qui ne sert plus à rien dans votre structuration de données.",
+      "link": "https://lecodeestdanslepre.fr/billets/json-ld-ere-agentique/",
+      "pubDate": "2026-07-08T12:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1606,6 +1741,21 @@
       "videoId": "jl0sLkW5KoQ"
     },
     {
+      "id": "22c428b5a6ea",
+      "title": "Le backup de Schrödinger : rejouer son pg_dump avant d'en avoir besoin",
+      "description": "Votre pg_dump tourne mais savez-vous le restaurer ? Mesurez votre RTO avec un exercice concret et répété. Évitez le cas du backup qui ne marche jamais.",
+      "link": "https://lecodeestdanslepre.fr/billets/backup-schrodinger-restaurer-pg-dump/",
+      "pubDate": "2026-07-06T12:33:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "eb635cfc00ce",
       "title": "Le backup de Schrödinger : rejouer son pg_dump avant d'en avoir besoin",
       "description": "Testez vos sauvegardes PostgreSQL ! Apprenez à rejouer vos pg_dump quotidiens et mesurez votre RTO avant le sinistre.",
@@ -1668,6 +1818,36 @@
       "type": "blog"
     },
     {
+      "id": "d94a2b321c6a",
+      "title": "EasyAdmin : sécuriser un admin sans toucher à setPermission()",
+      "description": "Comment sécuriser une interface EasyAdmin avec Symfony sans toucher à setPermission(). Aperçu des couches access_control, #[IsGranted] et gardes métier.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-securiser-un-admin-sans-toucher-a-setpermission/",
+      "pubDate": "2026-07-05T07:40:18.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6c2f2068d71c",
+      "title": "EasyAdmin : écrire un filtre custom du FilterInterface au FilterType",
+      "description": "Filtres custom Symfony : créez vos filtres pour EasyAdmin 5 avec FilterInterface et FilterType. Idéal pour des besoins spécifiques comme la date de mise en avant.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-ecrire-un-filtre-custom-du-filterinterface-au-filtertype/",
+      "pubDate": "2026-07-05T07:38:38.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "42e4e3d1812d",
       "title": "EasyAdmin : sécuriser un admin sans toucher à setPermission()",
       "description": "Sécurisez votre back-office EasyAdmin sans setPermission(). Combinez access_control, #[IsGranted] et gardes custom pour une sécurité robuste et efficace.",
@@ -1715,6 +1895,36 @@
       "type": "blog"
     },
     {
+      "id": "b270c2c3c987",
+      "title": "Doctrine sous EXPLAIN : profiler ce blog jusqu'à l'index",
+      "description": "Profiler un blog Symfony réel : requêtes comptées au profiler Doctrine, plans lus sous EXPLAIN ANALYZE, index vérifiés dans pg_stat_user_indexes en prod.",
+      "link": "https://lecodeestdanslepre.fr/billets/doctrine-postgresql-explain-n-plus-1/",
+      "pubDate": "2026-07-04T06:55:20.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f47f2a285da1",
+      "title": "WebMCP : exposer un site aux agents",
+      "description": "WebMCP permet aux agents de consulter votre site avec des actions typées. Découvrez comment exposer une page Symfony à un agent avec ce draft W3C.",
+      "link": "https://lecodeestdanslepre.fr/billets/webmcp-symfony-stimulus/",
+      "pubDate": "2026-07-03T17:42:03.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d2d8aec55b8d",
       "title": "WebMCP : exposer un site aux agents",
       "description": "Découvrez comment exposer votre site aux agents grâce à WebMCP et Symfony. Intégrez des actions typées pour une interaction machine-humain simplifiée.",
@@ -1747,6 +1957,21 @@
       "type": "blog"
     },
     {
+      "id": "00bf8fc42bee",
+      "title": "Mesurer le trafic IA dans ses logs",
+      "description": "13,5 jours de logs Caddy analysés : qui crawle un blog PHP, ce que pèsent GPTBot et ClaudeBot, et ce que vaut un robots.txt écrit sans mesure.",
+      "link": "https://lecodeestdanslepre.fr/billets/mesurer-trafic-ia-logs-crawlers/",
+      "pubDate": "2026-07-03T14:34:43.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a52ad325727c",
       "title": "Créer des agents IA avec Mistral AI Studio (Sans Coder)",
       "description": "Dans cette vidéo, je te montre comment créer rapidement et facilement ton premier agent IA avec Mistral AI Studio. On va voir comment configurer un agent depuis l’interface de Mistral AI, choisir le bon modèle, écrire les instructions, régler la température, le max tokens, le top_p, activer les outils intégrés, comprendre l’effort de raisonnement, utiliser les fonctions personnalisées et choisir le bon format de réponse. L’objectif est simple : comprendre comment passer d’un simple prompt à un…",
@@ -1761,6 +1986,21 @@
       "image": "https://i.ytimg.com/vi/0esChgVuxSc/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "0esChgVuxSc"
+    },
+    {
+      "id": "6414b243cd9c",
+      "title": "La release qui ne comptait plus",
+      "description": "Automatisez vos releases de 0 à 1 avec Conventional Commits, git-cliff et SemVer. Simplifiez votre workflow DevOps pour un déploiement d'application.",
+      "link": "https://lecodeestdanslepre.fr/billets/release-automatisee-git-cliff-github-actions/",
+      "pubDate": "2026-07-03T13:49:50.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "19f0df9ebe33",
@@ -1889,6 +2129,21 @@
       "type": "blog"
     },
     {
+      "id": "721c43c502d0",
+      "title": "Core Web Vitals : mécanique de mesure et pièges à éviter",
+      "description": "D'où viennent les chiffres des Core Web Vitals : ce que CrUX voit (et rate), pourquoi Lighthouse ne prédit rien, et les pièges LCP, INP, CLS à éviter.",
+      "link": "https://lecodeestdanslepre.fr/billets/core-web-vitals-mecanique-pieges/",
+      "pubDate": "2026-07-02T12:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7b08ec16e73b",
       "title": "Profiler un consumer avec Blackfire",
       "description": "Quand on parle de profiling PHP avec Blackfire, on pense généralement à une requête HTTP : un clic sur l'extension navigateur, et hop, le profil apparaît. Mais que faire quand le code à profiler tourne dans un consumer ou un worker ; une commande Symfony qui boucle indéfiniment, consommant une queue ou traitant des tâches en background ? La bonne nouvelle : Blackfire peut fonctionner dans ce contexte. La moins bonne : on ne peut pas déclencher le profiling au moment où ça nous arrange... sauf…",
@@ -1945,6 +2200,21 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "589fa47eea9e",
+      "title": "AI Overviews arrive en France : faut-il vraiment optimiser ?",
+      "description": "Google AI Overviews arrive en France. Faut-il optimiser votre stratégie SEO pour être cité ? Décryptage des enjeux et des réglages techniques.",
+      "link": "https://lecodeestdanslepre.fr/billets/optimiser-pour-les-ia-qui-repondent/",
+      "pubDate": "2026-07-01T18:51:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

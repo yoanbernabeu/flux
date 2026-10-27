@@ -2,6 +2,169 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "6e67f4e00304",
+      "title": "New in Symfony 8.2: Generics and Stricter Types in the Serializer",
+      "description": "The Serializer component relies on the TypeInfo component to know the type of each property it denormalizes. Symfony 8.2 makes both components understand more of the types you already write in your PHPDoc, such as generics and arrays of union types, and makes…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-generics-and-stricter-types-in-the-serializer?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-27T08:12:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/yonelceruto.picture",
+      "type": "blog"
+    },
+    {
+      "id": "c15b1e3c66d8",
+      "title": "GPT-6.1 Terra",
+      "description": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra, a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting…",
+      "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "pubDate": "2026-10-26T23:53:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b6a0fc28ea2e",
+      "title": "Why Temperature 0 Isn't Deterministic in LLM Inference",
+      "description": "...explained visually (a popular LLM interview question).",
+      "link": "https://blog.dailydoseofds.com/p/why-temperature-0-isnt-deterministic",
+      "pubDate": "2026-10-26T23:12:43.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/df8439c9-d228-4f03-849d-6ec88d67a471_1200x1200.gif",
+      "type": "blog"
+    },
+    {
+      "id": "db1b6218def0",
+      "title": "Socket Threat Intel Now Shows Which Malware Campaigns Were Blocked or Detected",
+      "description": "When a new malware campaign emerges, you need to know whether it reached your organization and whether your defenses stopped it. Socket Threat Intel now makes those answers easier to find, with campaign summaries that show what Socket blocked or detected and links to the scans and Firewall events behind them. Every malware campaign on the Threat Intel → Campaigns page now carries a real-time summary for your organization: Blocked by Socket, Detected in Firewall/SCA, or Not Detected. Each…",
+      "link": "https://socket.dev/blog/threat-intel-campaign-impact?utm_medium=feed",
+      "pubDate": "2026-10-26T22:14:49.698Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/b725e7c14cc8c2635e36ef49f64841de142c74ff-2048x1304.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "5e82bdf60b4b",
+      "title": "eMudhra, Brotli, and the Long Tail of a Security Fix",
+      "description": "How much software do you have to update to fix one vulnerability, let alone two far-reaching ones in the same week? Our corner of the internet was getting impatient waiting for Node’s eMudhra fix to drop. The certificate block had merged, and we were ready to update Node, rebuild, and move on. Then the October 21 release dropped, and we got Brotli too. That covered both problems in Node. But how much else used that same decoder? It was tucked into other applications and runtimes, and now we had…",
+      "link": "https://socket.dev/blog/emudhra-brotli-security-fix?utm_medium=feed",
+      "pubDate": "2026-10-26T21:18:47.327Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "de56fb996b09",
+      "title": "Quoting Jason Koebler",
+      "description": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they have discovered something journalistically notable and that 404 Media, specifically, can help them. &mdash; Jason Koebler, ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems…",
+      "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "pubDate": "2026-10-26T19:00:25.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "db71bb0ca35a",
+      "title": "webframe: evaluated as a scraper and a sandbox",
+      "description": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard output and any exceptions to standard error. It's written in Go on top of the glaze library, which provides access to a system browser (\"WKWebView on macOS, WebKitGTK on Linux, WebView2 on Windows\") so it doesn't need to…",
+      "link": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+      "pubDate": "2026-10-26T16:15:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a29dc3cd8614",
+      "title": "Symfony AI 1.0.0-BETA1 + AI & MCP Hackathon",
+      "description": "Today we are releasing Symfony AI 1.0.0-BETA1, the first pre-release on the road to 1.0, and also kicking off the Symfony AI & MCP Hackathon: Four weeks of building with Symfony AI and the official PHP MCP SDK to find out what is still wrong with it.…",
+      "link": "https://symfony.com/blog/symfony-ai-1-0-0-beta1-ai-and-mcp-hackathon?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-26T14:15:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e07451712c2c",
+      "title": "Laravel Deadlocks: Queue Jobs That Already Ran End Up in failed_jobs",
+      "description": "Below MySQL 8.0.1, or on a server Laravel misreads, workers reserve jobs with a plain FOR UPDATE and can deadlock on the DELETE. One tinker line shows which lock yours use. Read more",
+      "link": "https://freek.dev/3208-laravel-deadlocks-queue-jobs-that-already-ran-end-up-in-failed-jobs",
+      "pubDate": "2026-10-26T13:50:42.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "70ec7704786c",
+      "title": "Soloists, Copy-Pasters, and Tourists",
+      "description": "Spend a week with almost any infrastructure team in 2026 and you’ll see one AI subscription producing five very different results. One engineer opens 40 pull requests before lunch across repositories they haven’t touched in a year. Another ships a Terraform change they couldn’t explain in a code review. A third hasn’t opened the tool […]",
+      "link": "https://www.oreilly.com/radar/soloists-copy-pasters-and-tourists/",
+      "pubDate": "2026-10-26T10:54:18.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aad981996b46",
+      "title": "30 days until SymfonyCon Warsaw 2026: Schedule highlights, tickets, and final details",
+      "description": "Only 30 days left until the global Symfony community comes together for SymfonyCon Warsaw 2026! Join us on November 26-27 for 2 days of inspiring talks, hands-on workshops, and unforgettable community moments. 🎤 Event schedule at a glance November…",
+      "link": "https://symfony.com/blog/30-days-until-symfonycon-warsaw-2026-schedule-highlights-tickets-and-final-details?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-26T10:45:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
       "id": "21e0ca326d66",
       "title": "New in Symfony 8.2: Messenger Inbox",
       "description": "In a previous article, we introduced the Messenger outbox, which saves the messages you send in the same database transaction as your changes. Symfony 8.2 adds the other half of the pattern: an inbox to keep track of messages your application has already…",
