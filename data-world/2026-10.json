@@ -2,6 +2,109 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "2cf23206607f",
+      "title": "Quoting Terk Terkowitz",
+      "description": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. &mdash; Terk Terkowitz, An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon, generative-ai, agentic-engineering, ai, llms",
+      "link": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "pubDate": "2026-10-28T10:09:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a6c7be9008d0",
+      "title": "New in Symfony 8.2: Security Expressions Everywhere",
+      "description": "Security expressions let you use functions such as is_granted() and is_authenticated() to define complex access rules in access_control, #[IsGranted] and other security features. Symfony 8.2 makes these functions available in more expressions, such as validation…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-security-expressions-everywhere?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-28T08:26:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/mp3000mp.picture",
+      "type": "blog"
+    },
+    {
+      "id": "bdb4f5c70b31",
+      "title": "Which OCR Solution Works Best for Your Documents?",
+      "description": "...DeepSeek-OCR vs. PaddleOCR-VL vs. Datalab Surya, tested on the same 150 pages.",
+      "link": "https://blog.dailydoseofds.com/p/which-ocr-solution-works-best-for",
+      "pubDate": "2026-10-27T23:58:18.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!EVcr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0393bbae-fa58-42fc-b96d-2f145945f1d0_1080x1080.png",
+      "type": "blog"
+    },
+    {
+      "id": "8333c89d9d7c",
+      "title": "Game Boy Color on My Conference Badge",
+      "description": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year, the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went a step further and deployed an emulator for both the Game Boy and the Game Boy Color. Which means, if you can obtain the ROM, you can run The Legend of Zelda: Link's Awakening on…",
+      "link": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "pubDate": "2026-10-27T19:34:18.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1f7399e28739",
+      "title": "Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Wallet Secrets",
+      "description": "Socket’s Threat Research Team identified a cluster of malicious Firefox extensions that impersonate well-known crypto wallets and steal recovery phrases and private keys. The extensions use Unicode homoglyphs to copy the names of Phantom, Jupiter, and Bitget, and they route stolen secrets to brand-named subdomains of a single command-and-control apex, bonto[.]io. Each signed package carries a complete, always-on stealer, so the malicious code is present in what Mozilla reviewed. The Phantom…",
+      "link": "https://socket.dev/blog/firefox-wallet-impersonators?utm_medium=feed",
+      "pubDate": "2026-10-27T17:28:33.184Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/7fecdc2360a732e82462b7e73b7c8d460275241a-1280x633.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "ce5cec4cdf0d",
+      "title": "SymfonyCon Warsaw 2026: Beyond HTML: Colocating Assets in Twig Components",
+      "description": "Always better when we learn together. SymfonyCon Warsaw 2026 is happening November 26-27, bringing developers together for 3 tracks of presentations and informal networking. 🎤 Speaker announcement We are delighted to welcome Matthias Krauser,…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-beyond-html-colocating-assets-in-twig-components?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-27T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "60aa80fa10cf",
+      "title": "Are agent harnesses dying? What harness distillation changes.",
+      "description": "The following article originally appeared on The Arize Blog and is being republished here with the author’s permission. Every time you think you’ve just got the hang of this AI thing, another thing gets declared “dead.” This week, it’s agent harnesses. Back in ancient history, aka June, I wrote a piece called “Frameworks are dying, […]",
+      "link": "https://www.oreilly.com/radar/are-agent-harnesses-dying-what-harness-distillation-changes/",
+      "pubDate": "2026-10-27T10:54:38.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/10/image-14-1600x788.png",
+      "type": "blog"
+    },
+    {
       "id": "6e67f4e00304",
       "title": "New in Symfony 8.2: Generics and Stricter Types in the Serializer",
       "description": "The Serializer component relies on the TypeInfo component to know the type of each property it denormalizes. Symfony 8.2 makes both components understand more of the types you already write in your PHPDoc, such as generics and arrays of union types, and makes…",

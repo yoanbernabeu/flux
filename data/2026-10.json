@@ -2,6 +2,154 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "2b4397f5ada5",
+      "title": "#382.src - Rapprocher la CI: L'IA a 20x la cadence, nos CI doivent suivre avec Yves Brissaud",
+      "description": "\"Aujourd'hui, c'est illusoire de se dire qu'on va relire le code. Je n'écris plus de code, pourquoi j'irais le relire ?\" Le D.E.V. de la semaine est Yves Brissaud, SSE chez Dagger et Docker Captain. Avec l'explosion du nombre de pull requests générées par les agents IA, nos CI craquent sous la charge et révèlent des problèmes qui existaient déjà bien avant : lenteur, flakiness, absence de cache fin, gaspillage de ressources. Yves nous explique comment repenser la CI en profondeur grâce à un…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/382-032793d4d61c",
+      "pubDate": "2026-10-28T04:00:25.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/3f1a2f27-c8d2-4044-8518-5f1b5ef90a81.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/dc7844a9-0048-43f3-90d2-032793d4d61c.mp3?_=1793106084",
+      "duration": "01:03:34"
+    },
+    {
+      "id": "4bbee201cf0f",
+      "title": "Une année est passée, on dirait une éternité",
+      "description": "Cette semaine, je retourne à BDX I/O, à Bordeaux. J'ai deux talks à donner, plein de gens que j'ai envie de retrouver, et pas mal de choses dans la tête. L'année dernière, j'y avais parlé de l'avenir du métier de développeur. De l'arrivée des LLM, de ce qu'ils changeaient dans notre façon de travailler, et de cette question qui revenait partout : est-ce qu'on aura encore besoin de développeurs ? Pour prendre un peu de recul, je racontais les autres révolutions que notre métier avait traversées.…",
+      "link": "https://lostinbrittany.dev/fr/une-annee-est-passee/",
+      "pubDate": "2026-10-28T00:00:00.000Z",
+      "source": "Lost in Brittany (Horacio Gonzalez)",
+      "sourceUrl": "https://lostinbrittany.dev/fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://lostinbrittany.dev/img/posts/2026-10-28-a-year-has-passed/a-year-has-passed-social-fr.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a14fc8667fc2",
+      "title": "Forum PHP 2026 - L'aftermovie",
+      "description": "Voici l'aftermovie officiel du Forum PHP 2026, l'événement phare dédié à l'écosystème PHP ! Les 8 et 9 octobre 2026, le cadre de Disneyland Paris a accueilli cette édition qui a rassemblé 500 participantes et participants, venus échanger et partager autour des dernières innovations technologiques. À travers l'intervention de plus de 35 speakers, cette rencontre a été rythmée par des conférences inspirantes et des moments de networking riches. Nous adressons nos plus sincères remerciements à…",
+      "link": "https://www.youtube.com/watch?v=LiLHtR_FRnA",
+      "pubDate": "2026-10-27T21:17:18.000Z",
+      "source": "AFUP PHP (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCb-D560WkMEPE7dwNta_nqA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/LiLHtR_FRnA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "LiLHtR_FRnA"
+    },
+    {
+      "id": "c1428e86c14d",
+      "title": "Point sur la lettre ouverte pour la survie des événements tech",
+      "description": "Plus d'informations sur cette conférence : https://lettreouverte.afup.org/ Cette vidéo vous a plu ? Adhérez à l'AFUP pour soutenir son activité : https://afup.org/association/devenir-membre Nous cherchons des sponsors et des conférenciers pour le prochain événement AFUP : https://event.afup.org/ Captation : http://www.dfusion.fr/",
+      "link": "https://www.youtube.com/watch?v=E55TQ5E-wSY",
+      "pubDate": "2026-10-27T21:13:39.000Z",
+      "source": "AFUP PHP (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCb-D560WkMEPE7dwNta_nqA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/E55TQ5E-wSY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "E55TQ5E-wSY"
+    },
+    {
+      "id": "e98e232ace64",
+      "title": "En finir avec le mème de la conquête lunaire",
+      "description": "Suggestion de lecture au passionné·es d’espace, d’astrophysique, de planétologie : le numéro 24 de la magnifique revue Reliefs (« Lunes »), qui traite de l’astre sélène sous tous les angles, avec un texte de l’astrophysicien Roland Lehoucq sur la science-fiction, un autre En finir avec le mème de la conquête lunaire first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/en-finir-avec-le-meme-de-la-conquete-lunaire/",
+      "pubDate": "2026-10-27T19:46:54.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "24665266ba2a",
+      "title": "Claude peut désormais créer des vidéos grâce à ce MCP 🤯",
+      "description": "Claude ne se limite plus à la génération de code ! Grâce au Model Context Protocol (MCP), Claude peut se connecter à des outils externes comme Higgsfield pour créer des images et des vidéos avec l'intelligence artificielle. Dans ce Short, découvre : ✅ Ce qu'est un MCP (Model Context Protocol) ✅ Comment Claude communique avec Higgsfield ✅ Comment fonctionne la génération de contenu IA avec Claude Une nouvelle façon de créer du contenu avec l'IA, sans jongler entre plusieurs outils ! #ClaudeAI…",
+      "link": "https://www.youtube.com/watch?v=NedYsHoUC1o",
+      "pubDate": "2026-10-27T16:23:34.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/NedYsHoUC1o/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "NedYsHoUC1o"
+    },
+    {
+      "id": "deef225c6f20",
+      "title": "Que s'est-il passé avec les packages npm sur ces 12 derniers mois ?",
+      "description": "Depuis septembre 2025, les compromissions de paquets npm se sont multipliées : Shai-Hulud, axios, Mastra, ChainDrop. Retour sur un an et demi d’attaques, les propriétés de l’écosystème node qui les rendent possibles, et les mesures concrètes (délai avant installation, blocage des scripts, CI, OIDC) pour réduire votre exposition.",
+      "link": "https://blog.octo.com/octo-que-s'est-il-passe-avec-les-packages-npm-sur-ces-12-derniers-mois",
+      "pubDate": "2026-10-27T15:29:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "06c088aad99d",
+      "title": "PHP, failles de sécurité et communs numériques : qui tient le Web ?",
+      "description": "70 % du Web tourne sur PHP, mais sa sécurité repose sur une poignée de développeur·ses. Les récentes failles critiques le rappellent : les communs numériques ont besoin de financements pérennes. Cet article, PHP, failles de sécurité et communs numériques : qui tient le Web ?, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/php-failles-securite-communs-numeriques",
+      "pubDate": "2026-10-27T14:38:39.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/image-php-1024x571.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "d6e362881620",
+      "title": "J'ai donné des super-pouvoirs à Claude avec ce MCP !",
+      "description": "🚀 Transformez Claude en véritable studio de création IA avec Higgsfield MCP : 👉 https://higgsfield.ai/s/higgsfield-mcp-general-yt-pentiminax-DEdRXn Et si Claude pouvait faire bien plus que générer du texte ou du code ? Grâce à Higgsfield MCP, votre assistant IA peut désormais piloter la création d'images, de vidéos cinématiques, de publicités et même participer à la création d'un site web, directement depuis une conversation ! Dans cette vidéo sponsorisée par Higgsfield, je vous montre…",
+      "link": "https://www.youtube.com/watch?v=AbYzdsAFjZw",
+      "pubDate": "2026-10-27T14:00:22.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/AbYzdsAFjZw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "AbYzdsAFjZw"
+    },
+    {
       "id": "328126098898",
       "title": "Les astuces pour dompter Claude Code ⚡",
       "description": "30 minutes, 30 astuces. 1 mission : transformer votre manière de travailler avec Claude Code et vous faire gagner en productivité ! Claude Code est devenu bien plus qu’un simple générateur de code : c’est un co-pilote capable d’écrire, refactorer, déboguer et même anticiper vos besoins. Mais sa vraie puissance se révèle quand on connaît les bons tips & tricks pour en tirer le maximum. Erwan GEREEC (Engineering Manager chez Doctolib) passe en revue une série de bonnes pratiques et astuces…",
@@ -19,6 +167,22 @@
       "image": "https://i.ytimg.com/vi/hQW11iWGOdQ/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "hQW11iWGOdQ"
+    },
+    {
+      "id": "0cd449e39ccd",
+      "title": "BDX I/O 2026 : dédicace de mon livre, jeudi matin !",
+      "description": "C’est officiel ! Dans mon post de septembre, je vous teasais qu’une troisième chose mijotait peut-être pour BDX I/O… Je serai bien présent à l’édition 2026, mais uniquement le jeudi matin, pour une séance de dédicaces ! Les infos pratiques Quand : jeudi 29 octobre 2026, le matin uniquement Où : sur le stand de la librairie Mollat, à l’ENSEIRB-MATMECA (Talence) Quoi : dédicaces de “Kubernetes : 50 solutions pour les postes de développement et les clusters de production” (Éditions Eyrolles) Les…",
+      "link": "https://blog.zwindler.fr/2026/10/27/bdxio-2026-dedicace-livre/",
+      "pubDate": "2026-10-27T08:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2025/10/kubernetes-50-solutions-cover.webp",
+      "type": "blog"
     },
     {
       "id": "d3f879c1aa3d",
@@ -72,6 +236,21 @@
       "title": "Dans les coulisses de mon dernier side project: l'infrastructure",
       "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness 3/X - Les tests automatisés 4/X - L’infrastructure (cet article) Avant l’IA, travailler sur un projet Web ne présentait pas de difficulté particulière: il suffisait de lancer les serveurs de développement qui étaient généralement directement intégrés…",
       "link": "https://www.jdecool.fr/blog/2026/10/27/dans-les-coulisses-de-mon-dernier-side-project-l-infrastructure.html",
+      "pubDate": "2026-10-26T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e10067685de",
+      "title": "Dans les coulisses de mon dernier side project: les chiffres",
+      "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/5 - L’architecture technique 2/5 - Le harness 3/5 - Les tests automatisés 4/5 - L’infrastructure 5/5 - Les chiffres (cet article) Cet article sera le cinquième et dernier de la série “Dans les coulisses de mon dernier side project”. Au travers de ces articles, vous avez pu découvrir tout ce que…",
+      "link": "https://www.jdecool.fr/blog/2026/10/27/dans-les-coulisses-de-mon-dernier-side-project-les-chiffres.html",
       "pubDate": "2026-10-26T23:00:00.000Z",
       "source": "Jérémy Decool",
       "sourceUrl": "https://www.jdecool.fr/feed.xml",
