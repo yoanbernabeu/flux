@@ -2,6 +2,258 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "e42a092f74c1",
+      "title": "Symfony AI & MCP Hackathon: Meet the Jury, and What You Can Win",
+      "description": "The Symfony AI & MCP Hackathon is under way, and two things that were missing on day one are now live on the site: the people who will judge it, and what the top three teams take home. The jury Four experts across three seats, and we are grateful to…",
+      "link": "https://symfony.com/blog/symfony-ai-and-mcp-hackathon-meet-the-jury-and-what-you-can-win?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-29T10:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/symfony-ai-hackathon-jury.png",
+      "type": "blog"
+    },
+    {
+      "id": "56ec75059e51",
+      "title": "New in Symfony 8.2: Cross-Application Messaging",
+      "description": "Messenger transports often connect your Symfony application to other applications, which may not use Symfony or even PHP. For example, a shop publishes its orders to RabbitMQ and an invoicing service written in Go consumes them. Symfony 8.2 adds a new serializer…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-cross-application-messaging?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-29T08:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nikophil.picture",
+      "type": "blog"
+    },
+    {
+      "id": "93959b3dfe0d",
+      "title": "About the security entries in Symfony 5.4.55, 6.4.49, 7.4.22 and 8.1.10",
+      "description": "Yesterday, we released Symfony 5.4.55, 6.4.49, 7.4.22 and 8.1.10. Their changelogs list security fixes that were announced before, which confused some of you. Here is what these releases change, and what you should do. CVE-2026-45070 is fixed only now In…",
+      "link": "https://symfony.com/blog/about-the-security-entries-in-symfony-5-4-55-6-4-49-7-4-22-and-8-1-10?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-29T07:51:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e940ecdf5aa6",
+      "title": "Searchjacked: Hidden Browser Extensions Hijack Searches for 13 Million Users",
+      "description": "You may have come across ads on webpages promoting \"manual finder\", \"safe search\", \"PDF converter\", or \"AI search\" tools which often end up as easy to install browser extensions. What are these extensions actually doing and who is behind them? This investigation expands on previous research with 264 newly identified extensions which exist only to capture users search queries impacting 8.7 million more users. This brings the total number of distinct extensions to 319 installed by roughly 13.4…",
+      "link": "https://socket.dev/blog/searchjacked?utm_medium=feed",
+      "pubDate": "2026-10-29T02:01:54.540Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/fd8f956b43bc4aac73b74da2e7c690f376b6b598-1720x900.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "da9c62c52f6c",
+      "title": "Quoting Ted Sanders",
+      "description": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c) have better recall of esoteric facts. As you note, our models are ordered: Luna &lt; Terra &lt; Sol…",
+      "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+      "pubDate": "2026-10-28T23:23:21.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "912a027eb258",
+      "title": "Why DeepSeek stores its KV cache on disk",
+      "description": "DeepSeek's engineering behind 26x faster time to first token.",
+      "link": "https://blog.dailydoseofds.com/p/why-deepseek-stores-its-kv-cache",
+      "pubDate": "2026-10-28T22:56:03.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Ppcc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7767340f-c861-4882-a49f-2f4f3fafcf58_1200x806.gif",
+      "type": "blog"
+    },
+    {
+      "id": "a4fb6bb2efc1",
+      "title": "Symfony 8.1.10 released",
+      "description": "Symfony 8.1.10 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-1-10-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-28T18:25:56.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fecf07a45677",
+      "title": "Symfony 7.4.22 released",
+      "description": "Symfony 7.4.22 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-7-4-22-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-28T18:21:51.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "94d74b3e3131",
+      "title": "Symfony 6.4.49 released",
+      "description": "Symfony 6.4.49 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-6-4-49-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-28T18:18:07.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "030caab6e40f",
+      "title": "Symfony 5.4.55 released",
+      "description": "Symfony 5.4.55 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-5-4-55-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-28T18:14:15.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e9a7a10b5a66",
+      "title": "GitHub Octoverse 2026",
+      "description": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering on GitHub. In 2026, merged pull requests tripled in less than a year to 220 million per month. Commits more than tripled to 7.38 billion per month, with most of that increase in the second half of…",
+      "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "pubDate": "2026-10-28T16:45:23.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "648f7402cc73",
+      "title": "PHP 8.6 Makes State Machines Easy (Enums + Roles)",
+      "description": "If your PHP app has a status column, you already have a state machine, but if you’re like most developers, you haven’t written down its rules. Any code can set an episode to “published”, whether it’s still a rough draft or the person clicking the button lacks access. PHP will save it without a […] The post PHP 8.6 Makes State Machines Easy (Enums + Roles) appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/2026/10/php-8-6-makes-state-machines-easy-enums-roles/",
+      "pubDate": "2026-10-28T16:00:58.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-8.58.41 PM-300x43.png",
+      "type": "blog"
+    },
+    {
+      "id": "d89bb2a34cb2",
+      "title": "The PHP Incident",
+      "description": "The PHP security incident is now (almost) old news. The timeline looks something like this: In late August, Wiz Research discovered two serious remote code execution vulnerabilities in PHP called PHP2Shell. They reported the vulnerabilities to the PHP team on August 24, which started working on fixes on September 21. Amazon apparently detected PHP2Shell in […]",
+      "link": "https://www.oreilly.com/radar/the-php-incident/",
+      "pubDate": "2026-10-28T15:58:22.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7f577f4b01c6",
+      "title": "The October inflection point for vibe game development",
+      "description": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games. Tree Appreciator Emberwick Battle Drones Pumpkin Farmer, aka Quarter Sun Cove Four times as insulting What happens if someone actually puts…",
+      "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "pubDate": "2026-10-28T13:55:15.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "376f604be2ef",
+      "title": "Call for IT student volunteers: Join us at all our upcoming Symfony conferences!",
+      "description": "Symfony is proud to offer IT students the opportunity to participate as volunteers during its conferences: SymfonyCon Warsaw (Poland) on November 26 – 27, 2026 SymfonyLive Paris (France) on March 25 – 26, 2027 SymfonyLive Cologne (Germany) on May 20 – 21,…",
+      "link": "https://symfony.com/blog/call-for-it-student-volunteers-join-us-at-all-our-upcoming-symfony-conferences?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-28T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c5c9bce4affd",
+      "title": "I don't write code anymore",
+      "description": "Jason McCreary explains how he went from using AI for tedious snippets to letting agents handle nearly all coding, testing, and review work. It is a clear account of the guardrails, workflow shifts, and mindset changes that got him there. Read more",
+      "link": "https://freek.dev/3209-i-dont-write-code-anymore",
+      "pubDate": "2026-10-28T12:30:43.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8029cb88799c",
+      "title": "Are You Getting Your Money’s Worth From AI?",
+      "description": "The following article was originally published on James Shore’s Successful Software blog and is being republished here with the author’s permission. Software development has emerged as the biggest beneficiary of AI automation. One CIO I talked to recently, with 170 people in his organization, measured a 2.1x increase in productivity from AI. That productivity came […]",
+      "link": "https://www.oreilly.com/radar/are-you-getting-your-moneys-worth-from-ai/",
+      "pubDate": "2026-10-28T10:54:18.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/10/image-16-1600x993.png",
+      "type": "blog"
+    },
+    {
       "id": "2cf23206607f",
       "title": "Quoting Terk Terkowitz",
       "description": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. &mdash; Terk Terkowitz, An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon, generative-ai, agentic-engineering, ai, llms",

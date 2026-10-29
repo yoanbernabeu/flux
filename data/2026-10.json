@@ -2,6 +2,57 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "2051519a0518",
+      "title": "Harnais agentiques (épilogue) : travailler au quotidien avec un agent frontière",
+      "description": "Plutôt que de rédiger vous-même une longue spécification, la méthode recommandée aujourd'hui consiste à inverser les rôles : c'est Claude qui vous interroge et extrait de votre tête le contexte dont il a besoin. Le prompt « interview ». La documentation officielle propose un modèle de prompt qui s'appuie sur l'outil AskUserQuestion.",
+      "link": "https://blog.octo.com/harnais-agentiques-(epilogue)--travailler-au-quotidien-avec-un-agent-de-frontiere",
+      "pubDate": "2026-10-29T06:53:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "648d089f33b9",
+      "title": "News octobre 2026, adieu Arc, Brotli fait trembler Node et Nuxt souffle ses 10 bougies",
+      "description": "Nous évoquons la fin d'Arc au profit de Dia, Sumi.css, les 10 ans de Nuxt, le framework Rust Proa, TanStack Redact, le skill next-bundle-optimizer de Next.js, TanStack AI 1.0, la faille Brotli corrigée dans Node.js et Bun, les certificats eMudhra compromis, GitHub Copilot Fusion, Timestral et la Responses API de Mistral, le benchmark de Nolan Lawson sur le coût IA des frameworks JS, et runonweb pour faire tourner des modèles d'IA dans le navigateur. Retrouvez toutes les notes et les liens de…",
+      "link": "https://double-slash.dev/podcasts/news-oct-26-rc3/",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1793267726/episode/ART_145_o6yatk.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_145_news-oct-26-rc3.mp3",
+      "duration": "3431"
+    },
+    {
+      "id": "8b96927e4ee4",
+      "title": "Et si votre super idée “innovante” de projet Agentique avait déjà été pensée par votre éditeur de Data Plateforme ?",
+      "description": "Et si la and quot;révolution and quot; agentique que vos équipes s’apprêtent à bâtir de toutes pièces était déjà sur les rails, packagée et gouvernée au cœur même de votre Data Plateforme ? Entre promesse d'autonomie et illusion de la nouveauté, l'écosystème data change de paradigme.",
+      "link": "https://blog.octo.com/et-si-votre-super-idee-innovante-de-projet-agentique-avait-deja-ete-pensee-par-votre-editeur-de-data-plateforme--1",
+      "pubDate": "2026-10-28T13:23:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2b4397f5ada5",
       "title": "#382.src - Rapprocher la CI: L'IA a 20x la cadence, nos CI doivent suivre avec Yves Brissaud",
       "description": "\"Aujourd'hui, c'est illusoire de se dire qu'on va relire le code. Je n'écris plus de code, pourquoi j'irais le relire ?\" Le D.E.V. de la semaine est Yves Brissaud, SSE chez Dagger et Docker Captain. Avec l'explosion du nombre de pull requests générées par les agents IA, nos CI craquent sous la charge et révèlent des problèmes qui existaient déjà bien avant : lenteur, flakiness, absence de cache fin, gaspillage de ressources. Yves nous explique comment repenser la CI en profondeur grâce à un…",
@@ -34,6 +85,21 @@
         "IA"
       ],
       "image": "https://lostinbrittany.dev/img/posts/2026-10-28-a-year-has-passed/a-year-has-passed-social-fr.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d1087ec93143",
+      "title": "Vers une hyper-spécialisation logicielle",
+      "description": "Il y a encore peu de temps, quand un outil ne correspondait pas entièrement à notre besoin, il était plus facile de s’adapter à ce dernier que l’inverse. On le configurait, on mettait en place de nouveaux processus. Aujourd’hui, de plus en plus, on le recrée. Avec l’IA, produire un logiciel n’a jamais été aussi accessible (indépendamment de la qualité du résultat). Quelques jours suffisent à obtenir une version taillée sur mesure, correspondant en tout point à ce que l’on veut et à notre façon…",
+      "link": "https://www.jdecool.fr/blog/2026/10/28/vers-une-hyper-specialisation-logicielle.html",
+      "pubDate": "2026-10-27T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -196,6 +262,20 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fff94c3a6604",
+      "title": "Agents IA : qui surveille les machines pendant que vous êtes censé gagner du temps ?",
+      "description": "L'article souligne un angle souvent ignoré de l'IA : le temps qu'elle entraîne en supervision et en corrections, qui peut annuler les gains de productivité prometteurs. Une étude de G2 révèle que 45 % des utilisateurs perdent des heures à surveiller les IA, ce qui nécessite une réflexion sur leur réelle efficacité dans l'entreprise.",
+      "link": "https://oliviersauvage.com/fr/agents-ia-qui-surveille-les-machines-pendant-que-vous-etes-cense-gagner-du-temps/",
+      "pubDate": "2026-10-27T07:32:56.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/10/etude-G2.wav",
       "type": "blog"
     },
     {
@@ -474,6 +554,20 @@
       "type": "blog"
     },
     {
+      "id": "ef108d4db8ec",
+      "title": "IA en entreprise : ceux qui en profitent le plus sont-ils les moins dupes ?",
+      "description": "Une étude de SuperOffice révèle que 70 % des entreprises utilisant l’intelligence artificielle avancée jugent ses promesses exagérées, tandis que 56 % des expérimentateurs partagent cet avis. La connexion des logiciels existants est priorisée par 38 % des entreprises, indiquant un pragmatisme face à l’IA et ses limitations.",
+      "link": "https://oliviersauvage.com/fr/ia-en-entreprise-ceux-qui-en-profitent-le-plus-sont-ils-les-moins-dupes/",
+      "pubDate": "2026-10-23T10:18:48.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "129979ed03b4",
       "title": "Harnais agentiques (1/2) : pourquoi les bonnes pratiques d'hier coûtent cher aujourd'hui",
       "description": "Un agent de codage ne se résume pas au modèle qui l'anime. Le modèle de langage en est le moteur, mais il ne travaille jamais seul : il est intégré dans un harnais, c'est-à-dire l'ensemble des instructions, outils, règles, étapes d'orchestration et mécanismes de contrôle qui encadrent son travail.",
@@ -565,6 +659,20 @@
       "title": "IA et développement : pourquoi un groupe de distribution automobile a revu son approche",
       "description": "L'interview avec Jérémy Muller aborde l'intégration de l'IA dans le développement d'applications. Il partage des expériences sur un mini CRM, soulignant que le gain de temps peut être perdu dans la correction de code. Il conseille de commencer par des tâches simples et de combiner IA et expertise humaine pour maximiser l'efficacité. L’article IA et développement : pourquoi un groupe de distribution automobile a revu son approche est apparu en premier sur OlivierSauvage.com.",
       "link": "https://oliviersauvage.com/2026/10/22/ia-et-developpement-pourquoi-un-groupe-de-distribution-automobile-a-revu-son-approche/",
+      "pubDate": "2026-10-22T15:30:42.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1015df80c6c5",
+      "title": "IA et développement : pourquoi un groupe de distribution automobile a revu son approche",
+      "description": "L’interview avec Jérémy Muller aborde l’intégration de l’IA dans le développement d’applications. Il partage des expériences sur un mini CRM, soulignant que le gain de temps peut être perdu dans la correction de code. Il conseille de commencer par des tâches simples et de combiner IA et expertise humaine pour maximiser l’efficacité.",
+      "link": "https://oliviersauvage.com/fr/ia-et-developpement-pourquoi-un-groupe-de-distribution-automobile-a-revu-son-approche/",
       "pubDate": "2026-10-22T15:30:42.000Z",
       "source": "Olivier Sauvage (Numerika)",
       "sourceUrl": "https://oliviersauvage.com/feed/",
@@ -675,6 +783,20 @@
       "title": "Et si remplir son CRM devenait aussi simple que raconter son rendez-vous ?",
       "description": "L’article Et si remplir son CRM devenait aussi simple que raconter son rendez-vous ? est apparu en premier sur OlivierSauvage.com.",
       "link": "https://oliviersauvage.com/2026/10/21/et-si-remplir-son-crm-devenait-aussi-simple-que-raconter-son-rendez-vous/",
+      "pubDate": "2026-10-21T11:59:48.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "724c4a1310fa",
+      "title": "Et si remplir son CRM devenait aussi simple que raconter son rendez-vous ?",
+      "description": "",
+      "link": "https://oliviersauvage.com/fr/et-si-remplir-son-crm-devenait-aussi-simple-que-raconter-son-rendez-vous/",
       "pubDate": "2026-10-21T11:59:48.000Z",
       "source": "Olivier Sauvage (Numerika)",
       "sourceUrl": "https://oliviersauvage.com/feed/",
@@ -836,6 +958,20 @@
       "title": "Pourquoi, en tant que dirigeant de PME, prendre la parole sur LinkedIn vous rapportera beaucoup",
       "description": "L'étude sur l'engagement des dirigeants sur LinkedIn révèle que, bien que 94 % des membres de comités exécutifs y soient présents, beaucoup restent invisibles. Les dirigeants génèrent un engagement plus élevé que les pages entreprises, prouvant qu'une communication authentique est essentielle. Exprimer ses idées et expériences est crucial pour se démarquer. L’article Pourquoi, en tant que dirigeant de PME, prendre la parole sur LinkedIn vous rapportera beaucoup est apparu en premier sur…",
       "link": "https://oliviersauvage.com/2026/10/20/pourquoi-en-tant-que-dirigeant-de-pme-prendre-la-parole-sur-linkedin-vous-rapportera-beaucoup/",
+      "pubDate": "2026-10-20T08:13:40.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "19e1dd150ff1",
+      "title": "Pourquoi, en tant que dirigeant de PME, prendre la parole sur LinkedIn vous rapportera beaucoup",
+      "description": "L’étude sur l’engagement des dirigeants sur LinkedIn révèle que, bien que 94 % des membres de comités exécutifs y soient présents, beaucoup restent invisibles. Les dirigeants génèrent un engagement plus élevé que les pages entreprises, prouvant qu’une communication authentique est essentielle. Exprimer ses idées et expériences est crucial pour se démarquer.",
+      "link": "https://oliviersauvage.com/fr/pourquoi-en-tant-que-dirigeant-de-pme-prendre-la-parole-sur-linkedin-vous-rapportera-beaucoup/",
       "pubDate": "2026-10-20T08:13:40.000Z",
       "source": "Olivier Sauvage (Numerika)",
       "sourceUrl": "https://oliviersauvage.com/feed/",
@@ -1309,6 +1445,20 @@
       "type": "blog"
     },
     {
+      "id": "12371e670645",
+      "title": "Comment transformer le savoir-faire de votre PME en nouveaux clients à l’heure de l’IA ?",
+      "description": "Dans cet épisode de B2Biz, Renaud Joly discute de la valorisation des contenus d’entreprise à l’ère de l’IA. Il souligne l’importance de transformer les informations internes en contenus originaux et utiles pour les clients. L’échange insiste sur la nécessité d’exploiter les connaissances internes tout en respectant la confidentialité.",
+      "link": "https://oliviersauvage.com/fr/comment-transformer-le-savoir-faire-de-votre-pme-en-nouveaux-clients-a-lheure-de-lia/",
+      "pubDate": "2026-10-15T14:39:16.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8557a0ed9823",
       "title": "Claude Code Desktop : le TERMINAL, c'est FINI ?!",
       "description": "Claude Code Desktop va-t-il remplacer le terminal ? Découvrez pourquoi cette nouvelle interface pourrait complètement changer votre façon de développer avec les agents IA ! Vous utilisez encore Claude Code uniquement en CLI ? Dans cette vidéo, je vous montre comment Claude Code Desktop permet de piloter plusieurs agents IA en parallèle, gérer des sessions indépendantes avec Git Worktrees, examiner les modifications de code et automatiser votre workflow de développement. 🔥 Au programme : -…",
@@ -1512,6 +1662,20 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "95fa66de29dc",
+      "title": "Pourquoi « Gemini at Work 2026 »  transforme notre façon de travailler",
+      "description": "Google Cloud a annoncé Gemini at Work 2026, marquant un tournant dans l’intégration de l’IA au travail. Contrairement à Microsoft Copilot, Gemini agit en tant qu’agent proactif, apprenant des méthodes de l’entreprise et orchestrant des missions via des sous-agents. Cette évolution vise à améliorer l’efficacité sans remplacer l’humain, transformant ainsi la manière de travailler.",
+      "link": "https://oliviersauvage.com/fr/pourquoi-gemini-at-work-2026-transforme-notre-facon-de-travailler/",
+      "pubDate": "2026-10-13T10:22:35.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/10/Six-robots-au-travail-administratif-edited.png",
       "type": "blog"
     },
     {
@@ -1912,6 +2076,20 @@
       "type": "blog"
     },
     {
+      "id": "d5de222fa302",
+      "title": "YouTube est-il devenu incontournable pour faire connaître son entreprise aux IA ?",
+      "description": "Dans cet épisode de B2Biz, Renaud Joly explique comment l’IA générative impacte le SEO et cause un effondrement du trafic web. Il conseille de diversifier les contenus, notamment à travers la vidéo, pour attirer les clients. Les dirigeants doivent s’adapter aux nouvelles attentes des internautes pour protéger leur visibilité en ligne.",
+      "link": "https://oliviersauvage.com/fr/youtube-est-il-devenu-incontournable-pour-faire-connaitre-son-entreprise-aux-ia/",
+      "pubDate": "2026-10-08T17:38:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ce7ccb6ed411",
       "title": "What Public Relations Can Help You Achieve in the Age of AI",
       "description": "Public relations play a crucial role in the visibility and credibility of companies, especially in the age of artificial intelligence. They help build a reputation by providing expert content that influences purchasing decisions. Leaders must speak out to make their expertise concrete, as this prepares future clients before the first commercial contact. L’article What Public Relations Can Help You Achieve in the Age of AI est apparu en premier sur OlivierSauvage.com.",
@@ -2139,6 +2317,20 @@
       "type": "blog"
     },
     {
+      "id": "a1dd486bcdad",
+      "title": "Ce que les relations presse peuvent vous faire gagner à l’ère de l’IA",
+      "description": "Les relations presse jouent un rôle crucial dans la visibilité et la crédibilité des entreprises, surtout à l’ère de l’intelligence artificielle. Elles aident à construire une réputation en fournissant des contenus d’expertise qui influencent les décisions d’achat. Les dirigeants doivent prendre la parole pour rendre leur savoir-faire concret, car cela prépare les futurs clients avant le premier contact commercial.",
+      "link": "https://oliviersauvage.com/fr/ce-que-les-relations-presse-peuvent-vous-faire-gagner-a-lere-de-lia/",
+      "pubDate": "2026-10-06T07:32:48.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/10/Portrait-editorial-bleu-violet.png",
+      "type": "blog"
+    },
+    {
       "id": "cccbd0d3086e",
       "title": "PlatformCon 2026 : ce qu'il faut vraiment en retenir",
       "description": "Shift Down, Governed Path, agents IA devenus utilisateurs de la plateforme : les 6 enseignements de la PlatformCon 2026, croisés avec les chiffres des rapports State of Platform Engineering.",
@@ -2184,6 +2376,20 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "07986ab844b6",
+      "title": "Souveraineté numérique: l’Europe a la tête dans les nuages, Octave Klaba jette un pavé dans le Cloud",
+      "description": "Octave Klaba, fondateur d’OVHcloud, a critiqué l’audition récente à l’Assemblée nationale, mettant en avant le manque de courage politique en Europe face à l’IA. Il dénonce la culture financière court-termiste des investisseurs et l’inefficacité administrative qui freine l’innovation. Pour lui, il est crucial de rediriger les fonds publics vers les acteurs européens pour soutenir l’industrie locale.",
+      "link": "https://oliviersauvage.com/fr/souverainete-numerique-leurope-a-la-tete-dans-les-nuages-octave-klaba-jette-un-pave-dans-le-cloud/",
+      "pubDate": "2026-10-05T06:12:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f517.png",
       "type": "blog"
     },
     {
