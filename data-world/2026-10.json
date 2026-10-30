@@ -2,6 +2,139 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "4fb0898ad133",
+      "title": "Cursor Removes Malicious Claude Code 2.1.313 Extension From Its Marketplace",
+      "description": "Cursor has confirmed that a malicious Claude Code extension labeled version 2.1.313 was available through its extension marketplace on October 29, potentially affecting up to 5,000 users. The disclosure identifies the distribution source behind a malware report initially attributed to Open VSX, where Socket’s investigation found no corresponding publication or removal records. OpenSourceMalware initially reported that a malicious version of Anthropic’s Claude Code extension, 2.1.313, was…",
+      "link": "https://socket.dev/blog/claude-code-extension-compromise?utm_medium=feed",
+      "pubDate": "2026-10-30T09:26:06.050Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/16b81f3ea70675d5fa5c2f41a93ce17de656fd2f-1096x892.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "37e35c8f4787",
+      "title": "The PHP Podcast 2026.10.29",
+      "description": "🎙️ PHP Podcast – October 29, 2026 Hosts: Joe Ferguson, Sara Golemon & Holly Schilling Patrick Stewart has passed. Tailscale handed out root. The PHP RCE patch landed. And MediaWiki contributer Brooke Vibber tells us how Wikipedia survives celebrity deaths, 500 languages, and Apple’s file system. ☕ Patrick Stewart, Cache Stampedes, and the Michael Jackson […] The post The PHP Podcast 2026.10.29 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-10-29/",
+      "pubDate": "2026-10-29T23:32:26.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f399.png",
+      "type": "blog"
+    },
+    {
+      "id": "49d99f09e516",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "description": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan with them you now get that same quantity of credits to apply to one of your API organizations. I…",
+      "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "pubDate": "2026-10-29T22:48:29.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "13913fcf94c8",
+      "title": "Prefix-Aware LLM Routing, clearly explained",
+      "description": "...explained visually (the trick to get the first LLM token 170x sooner).",
+      "link": "https://blog.dailydoseofds.com/p/prefix-aware-llm-routing-clearly",
+      "pubDate": "2026-10-29T20:42:27.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!9iec!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d894230-732b-485d-9d5e-3702526b42eb_1100x928.gif",
+      "type": "blog"
+    },
+    {
+      "id": "a41c6b1e5e90",
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "description": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to modify the game world. I fired it up on my phone for a few minutes and was able to prompt a castle…",
+      "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "pubDate": "2026-10-29T17:00:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "76bbbad899d8",
+      "title": "OpenCode User Hit with Hostile Backlash After Reporting Free AI Loophole",
+      "description": "An OpenCode user who reported a loophole in its free AI usage limits became the target of harassment, including comments encouraging suicide, from people who blamed the disclosure for cutting off their supply of free AI. The GitHub thread has since been deleted, although an earlier version remains available through the Wayback Machine. OpenCode is an open source AI coding agent that helps developers write, edit, and run code from a terminal, IDE, or desktop app. The MIT-licensed software can…",
+      "link": "https://socket.dev/blog/opencode-free-usage-bypass?utm_medium=feed",
+      "pubDate": "2026-10-29T16:20:11.979Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/060df98c9ae370c246f45eca3e92d321ccbf98fe-2212x1160.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "95cafd4597e8",
+      "title": "Quoting Ben Hylak",
+      "description": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. &mdash; Ben Hylak Tags: model-context-protocol, ai",
+      "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+      "pubDate": "2026-10-29T14:06:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9b87f08d8bb5",
+      "title": "SymfonyCon Warsaw 2026: Symfony Mate: From Hallway Idea to Daily Driver",
+      "description": "Let's meet up in Poland! SymfonyCon Warsaw 2026 brings the international PHP and Symfony community together on November 26-27. Come for the 3 talk tracks, stay for the people. 🎤 Speaker announcement Mark your calendars for Johannes Wachter, Core…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-symfony-mate-from-hallway-idea-to-daily-driver?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-29T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "4ca614fbe78d",
+      "title": "Cheap Code, Expensive Confidence",
+      "description": "I recently used a coding agent to build Task Viewer, a small community helper for IBM Bob that we use internally at IBM. It’s a convenience plug-in to Bob, with no critical production role. Despite helping some users internally, for me it’s a real-world experiment on a project to find out how much of the […]",
+      "link": "https://www.oreilly.com/radar/cheap-code-expensive-confidence/",
+      "pubDate": "2026-10-29T10:54:18.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e42a092f74c1",
       "title": "Symfony AI & MCP Hackathon: Meet the Jury, and What You Can Win",
       "description": "The Symfony AI & MCP Hackathon is under way, and two things that were missing on day one are now live on the site: the people who will judge it, and what the top three teams take home. The jury Four experts across three seats, and we are grateful to…",

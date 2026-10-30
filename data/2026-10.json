@@ -2,6 +2,42 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "4e94f39c13e0",
+      "title": "MACI #168 - Vivons-nous déjà l'âge d'or de l'IA ? - Avec Mehdi Medjaoui",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on s'intéresse à la souveraineté numérique et au rôle des affaires publiques dans la tech européenne. Avec Mehdi Medjaoui, Quentin Adam et Axel Marc Jean Laniez, on parle lobbying, mutualisation des moyens entre entreprises européennes et dépendance aux grands fournisseurs de modèles d'IA. Et puis, comme à notre habitude, la discussion va vite s'étendre… du modèle économique des tokens au coût réel de l'inférence, en passant par les…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-168-vivons-nous-deja-l-age-d-or-de-l-ia-avec-mehdi-medjaoui",
+      "pubDate": "2026-10-30T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/2Rcp5DgQ9q3fA4K3MUBUyNkuxhAcZIJTLyPMCRLw_1400x1400.jpeg?t=1793176796",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/yJEN6hDwdwkz.mp3?t=1793176726",
+      "duration": "55:17"
+    },
+    {
+      "id": "52a8216fdadf",
+      "title": "#358.exe - DevSecOps: Pourquoi l'automatisation ne sauvera pas (toute seule) la sécu par Florian Bruniaux",
+      "description": "Pour l'épisode #358 je recevais Tugdual Grall. On en débrief avec Florian. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/358-c0fb9bb02c67",
+      "pubDate": "2026-10-30T04:00:16.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/733f8263-ed68-47d2-aa36-c0fb9bb02c67.mp3?_=1793278876",
+      "duration": "21:07"
+    },
+    {
       "id": "2051519a0518",
       "title": "Harnais agentiques (épilogue) : travailler au quotidien avec un agent frontière",
       "description": "Plutôt que de rédiger vous-même une longue spécification, la méthode recommandée aujourd'hui consiste à inverser les rôles : c'est Claude qui vous interroge et extrait de votre tête le contexte dont il a besoin. Le prompt « interview ». La documentation officielle propose un modèle de prompt qui s'appuie sur l'outil AskUserQuestion.",
@@ -34,6 +70,36 @@
       "type": "podcast",
       "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_145_news-oct-26-rc3.mp3",
       "duration": "3431"
+    },
+    {
+      "id": "8e73080b3282",
+      "title": "tailnet-preview : mon agent de code m'envoie un lien",
+      "description": "Un skill qui publie des aperçus sur mon tailnet, vérifie leurs liens HTTPS et retire uniquement ce qu'il a publié quand j'ai fini. Les aperçus s'affichent aussi dans tailhome.",
+      "link": "https://michaelbensoussan.com/posts/tailnet-preview-lien-agent/",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "source": "Michael Bensoussan",
+      "sourceUrl": "https://michaelbensoussan.com/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://michaelbensoussan.com/images/posts/tailhome/social.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "89171fde8629",
+      "title": "tailnet-preview: my coding agent sends me a link",
+      "description": "An agent skill that publishes previews on my tailnet, checks their HTTPS links and removes only what it published when I'm done. The previews also show up in tailhome.",
+      "link": "https://michaelbensoussan.com/posts/tailnet-preview/",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "source": "Michael Bensoussan",
+      "sourceUrl": "https://michaelbensoussan.com/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://michaelbensoussan.com/images/posts/tailhome/social.jpg",
+      "type": "blog"
     },
     {
       "id": "8b96927e4ee4",
