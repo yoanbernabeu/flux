@@ -2,6 +2,79 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "3b8361d079ac",
+      "title": "dbreunig/nesformer",
+      "description": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! In a comment on Hacker News Drew reveals the Opus 5.5 prompts he used to build this system: Read this article and any relevant source code: https://divagr.com/blog/qwenputer. Then explore if you could emulate the chip and ram in a…",
+      "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
+      "pubDate": "2026-10-30T21:59:22.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dd250304b2b0",
+      "title": "RAG vs. Vectorless RAG, clearly explained!",
+      "description": "...explained visually (with tradeoffs in production).",
+      "link": "https://blog.dailydoseofds.com/p/rag-vs-vectorless-rag-clearly-explained",
+      "pubDate": "2026-10-30T20:22:09.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!I9LO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa86e8c9a-f522-4db7-8663-e5a94aec7689_1080x1080.gif",
+      "type": "blog"
+    },
+    {
+      "id": "52f836b78b3c",
+      "title": "SymfonyCon Warsaw 2026: Headless vs Monolith: The Final Battle",
+      "description": "Let's meet up in Poland! SymfonyCon Warsaw 2026 brings the international PHP and Symfony community together on November 26-27. Come for the 3 talk tracks, stay for the people. 🎤 Speaker announcement Mark your calendars for Gracjan Józefczyk, Backend…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-headless-vs-monolith-the-final-battle?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-30T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "c6b295857a80",
+      "title": "Composer 2.11",
+      "description": "Composer 2.11 adds a cooldown dependency policy that withholds newly published package versions for a configurable period. The release also includes several security fixes and faster dependency resolution. Read more",
+      "link": "https://freek.dev/3210-composer-211",
+      "pubDate": "2026-10-30T12:30:47.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33715339011c",
+      "title": "Who Governs What an Agent Learns?",
+      "description": "The following article originally appeared on Tim O’Brien’s Medium blog and is being republished here with the author’s permission. I think we’re missing something in the conversation about agent security. We keep asking whether an agent has the right “identity” and “credentials.” Whether its credentials expire fast enough. Whether it can access a database or […]",
+      "link": "https://www.oreilly.com/radar/who-governs-what-an-agent-learns/",
+      "pubDate": "2026-10-30T10:54:16.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/10/image-20.png",
+      "type": "blog"
+    },
+    {
       "id": "4fb0898ad133",
       "title": "Cursor Removes Malicious Claude Code 2.1.313 Extension From Its Marketplace",
       "description": "Cursor has confirmed that a malicious Claude Code extension labeled version 2.1.313 was available through its extension marketplace on October 29, potentially affecting up to 5,000 users. The disclosure identifies the distribution source behind a malware report initially attributed to Open VSX, where Socket’s investigation found no corresponding publication or removal records. OpenSourceMalware initially reported that a malicious version of Anthropic’s Claude Code extension, 2.1.313, was…",
@@ -14,6 +87,21 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/16b81f3ea70675d5fa5c2f41a93ce17de656fd2f-1096x892.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "d9159bbd3c7b",
+      "title": "New in Symfony 8.2: Recovering from Controller Attribute Failures",
+      "description": "Contributed by Kevin Bond in #67563…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-recovering-from-controller-attribute-failures?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-10-30T08:26:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/kbond.picture",
       "type": "blog"
     },
     {
