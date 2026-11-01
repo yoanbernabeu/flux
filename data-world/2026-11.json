@@ -1,0 +1,20 @@
+{
+  "month": "2026-11",
+  "articles": [
+    {
+      "id": "2f0b5f4d2a73",
+      "title": "A Week of Symfony #1035 (October 26 – November 1, 2026)",
+      "description": "This week, Symfony 5.4.55, 6.4.49, 7.4.22, and 8.1.10 maintenance versions were released. We also released Symfony AI 1.0.0-BETA1 and kicked off the Symfony AI & MCP Hackathon, which runs until November 22. Meanwhile, we kept publishing articles about…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1035-october-26-november-1-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-01T08:12:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}

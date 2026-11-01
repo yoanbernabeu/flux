@@ -1,0 +1,36 @@
+{
+  "month": "2026-11",
+  "articles": [
+    {
+      "id": "27b20530b3ee",
+      "title": "Labo virtuel avec QEMU",
+      "description": "J’utilisais jusqu’ici des pour toutes mes expérimentations relatives au réseau. De nombreuses alternatives existent : , , ou . Malgré leurs qualités, je considère encore ma propre solution comme la plus adaptée à mes attentes :machines virtuelles UMLGNS3NetkitMarionnetCloonix L’utilisation d’ me posait quelques soucis :UML Toutefois, l’un des points forts d’ est la présence de , un système de fichiers donnant accès à une partie du système de fichiers de l’hôte. C’est une fonctionnalité clé pour…",
+      "link": "https://vincent.bernat.ch/fr/blog/2012-lab-reseau-qemu",
+      "pubDate": "2026-11-01T09:57:45.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9cabc058a1ad",
+      "title": "PaaS, Coolify, Terraform et IA : Comment gérer son infra en 2026 quand on lance une startup",
+      "description": "De Malt à l'IA-Ops : retour sur 14 ans d'évolution des infrastructures. Quel outil choisir pour lancer sa startup aujourd'hui entre PaaS, Coolify et Terraform ?",
+      "link": "https://eventuallycoding.com/p/paas-coolify-terraform-et-ia-comment-gerer-son-infra-en-2026-quand-on-lance-une-startup",
+      "pubDate": "2026-11-01T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}

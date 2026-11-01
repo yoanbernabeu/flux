@@ -2,6 +2,38 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "699f409c6442",
+      "title": "Mistral Large 4 : l'Europe peut-elle encore rivaliser avec les USA ?",
+      "description": "🇫🇷 *Mistral Large 4 (Le Chonk) : l'Europe peut-elle enfin rivaliser avec OpenAI, Google et Anthropic ?* La startup française Mistral AI vient de dévoiler son modèle d'intelligence artificielle le plus ambitieux : *Mistral Large 4*, surnommé « Le Chonk ». Avec 1 000 milliards de paramètres, des capacités avancées en développement logiciel et en cybersécurité, ce nouveau modèle open-weight pourrait changer la donne. Mais est-il vraiment capable de concurrencer ChatGPT, Claude et Gemini ? Dans…",
+      "link": "https://www.youtube.com/watch?v=SKJeryAGs6w",
+      "pubDate": "2026-10-31T18:11:49.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/SKJeryAGs6w/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "SKJeryAGs6w"
+    },
+    {
+      "id": "9e88533d52d0",
+      "title": "Cloud Nord 2026 - Récap de ma journée à Lille",
+      "description": "De retour de Cloud Nord 2026 Comme je vous l’avais annoncé en septembre, j’étais cette année à Cloud Nord, à Lille, pour y donner un talk “inédit” : “J’ai mis Kubernetes dans 512 Mo de RAM. Et il restait de la place pour DOOM.” Enchaînement un peu sportif pour moi, puisque la veille au matin j’étais encore à BDX I/O pour dédicacer mon livre (cf mon post précédent). Direction ensuite Lille dans le train, puisque Cloud Nord, c’était le vendredi 30 octobre. Pour ceux qui ne connaissent pas : Cloud…",
+      "link": "https://blog.zwindler.fr/2026/10/31/recap-cloud-nord-2026/",
+      "pubDate": "2026-10-31T10:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/10/cloudnord2026.webp",
+      "type": "blog"
+    },
+    {
       "id": "469c90b38ecc",
       "title": "Un agent ou un comité ? Ce que l'usage des comités m'a appris depuis leur mise en place",
       "description": "Un agent seul se croit toujours dans le vrai. Deux agents d'accord aussi, parfois : à deux, ils se trompent simplement plus fort. Trois semaines d'essais de comités d'agents IA m'ont appris que le vrai gain n'est pas le comité, mais un relecteur qui n'a rien vu et un petit programme qui refait la vérification.",
