@@ -2,6 +2,95 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "e25140e248f8",
+      "title": "Practical Loop Engineering",
+      "description": "The following article originally appeared on Addy Osmani’s Elevate blog and is being republished here with the author’s permission. The way that I typically work is I have anywhere between five and ten agents working at the same time in parallel. There are going to be some tasks that I’m very happy to delegate fully […]",
+      "link": "https://www.oreilly.com/radar/practical-loop-engineering/",
+      "pubDate": "2026-11-02T11:54:29.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/11/image.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "a37407f3abca",
+      "title": "New SymfonyCasts Course: Symfony Security - Going Further",
+      "description": "You've mastered the basics of Symfony Security: authentication, authorization, roles, and voters. But what about those tricky, real-world security requirements that go beyond a simple login form? That's where our latest SymfonyCasts course comes in: Symfony…",
+      "link": "https://symfony.com/blog/new-symfonycasts-course-symfony-security-going-further?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-02T10:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "81e45d9d172d",
+      "title": "New in Symfony 8.2: Validated and Compiled Expressions",
+      "description": "The ExpressionLanguage component powers many Symfony features: the #[IsGranted] and #[Cache] attributes, access_control rules, workflow guards, and more. Symfony 8.2 makes these expressions faster, safer, and reports their errors before they reach production.…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-validated-and-compiled-expressions?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-02T08:26:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "70296174a274",
+      "title": " Backwards beneficial ",
+      "description": "Read the full post on https://stitcher.io/blog/backwards-beneficial",
+      "link": "https://stitcher.io/blog/backwards-beneficial",
+      "pubDate": "2026-11-02T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "215d5e6ee0fa",
+      "title": "If in doubt, delete the uv.lock file",
+      "description": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it. Running uv run pytest etc tends to leave uv.lock files lying around, which are listed in .gitignore and so do not get committed to my repositories. But...…",
+      "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "pubDate": "2026-11-01T23:24:22.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b72dc720cf78",
+      "title": "Quoting Kyle Kingsbury",
+      "description": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? &mdash; Kyle Kingsbury, Jepsen…",
+      "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "pubDate": "2026-11-01T16:49:04.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2f0b5f4d2a73",
       "title": "A Week of Symfony #1035 (October 26 – November 1, 2026)",
       "description": "This week, Symfony 5.4.55, 6.4.49, 7.4.22, and 8.1.10 maintenance versions were released. We also released Symfony AI 1.0.0-BETA1 and kicked off the Symfony AI & MCP Hackathon, which runs until November 22. Meanwhile, we kept publishing articles about…",

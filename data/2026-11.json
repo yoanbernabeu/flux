@@ -2,6 +2,55 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "e73ca8e644f3",
+      "title": "Plugin Modernization by Anthropic ",
+      "description": "Avant l’essor des approches agentiques, moderniser un système legacy exigeait du courage, de la persévérance et une solide maîtrise technique. Ces projets pouvaient mobiliser pendant plusieurs mois de nombreux professionnels, avec un budget parfois difficile à engager.",
+      "link": "https://blog.octo.com/moderniser-un-systeme-legacy-avec-le-plugin-modernization-12",
+      "pubDate": "2026-11-02T10:05:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c0bdb7b4f39c",
+      "title": "Symfony 8.2 : Les 10 nouveautés qui changent tout ! 🚀",
+      "description": "🚀 *Symfony 8.2 arrive avec de nombreuses nouveautés !* Découvrez les 10 fonctionnalités incontournables de cette nouvelle version du framework PHP. Formulaires avec attributs PHP, chiffrement natif des données Doctrine, authentification OpenID Connect, Messenger plus rapide et plus fiable, améliorations des performances… Symfony 8.2 apporte de belles évolutions pour les développeurs. Et ce n'est pas tout ! Un nouveau composant JsonSchema facilite également l'intégration de Symfony avec les…",
+      "link": "https://www.youtube.com/watch?v=Sn8vcWB8nW4",
+      "pubDate": "2026-11-02T08:00:24.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Sn8vcWB8nW4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Sn8vcWB8nW4"
+    },
+    {
+      "id": "40a89382791c",
+      "title": "DeepSeek dévoile son SuperAgent : il travaille à ta place !",
+      "description": "🚀 DeepSeek dévoile SuperAgent, un nouveau projet open source qui pourrait transformer notre façon de développer avec l'intelligence artificielle ! Et si ton agent IA pouvait gérer des tâches GitHub, corriger des bugs, développer des fonctionnalités et créer des Pull Requests sans que tu aies besoin de le surveiller en permanence ? Avec *DeepSeek Harness et dsh-superagent*, l'objectif est de passer des assistants de code classiques à un véritable système d'agents IA autonomes. Dans cette vidéo,…",
+      "link": "https://www.youtube.com/watch?v=5cn3S6TiF0A",
+      "pubDate": "2026-11-02T03:24:09.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/5cn3S6TiF0A/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "5cn3S6TiF0A"
+    },
+    {
       "id": "27b20530b3ee",
       "title": "Labo virtuel avec QEMU",
       "description": "J’utilisais jusqu’ici des pour toutes mes expérimentations relatives au réseau. De nombreuses alternatives existent : , , ou . Malgré leurs qualités, je considère encore ma propre solution comme la plus adaptée à mes attentes :machines virtuelles UMLGNS3NetkitMarionnetCloonix L’utilisation d’ me posait quelques soucis :UML Toutefois, l’un des points forts d’ est la présence de , un système de fichiers donnant accès à une partie du système de fichiers de l’hôte. C’est une fonctionnalité clé pour…",
