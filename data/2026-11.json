@@ -2,6 +2,127 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "0e7e6758eafa",
+      "title": "Cet agent IA gère tes projets GitHub tout seul ! 🤯 #Shorts",
+      "description": "Et si un agent IA pouvait gérer tes projets GitHub de manière autonome ? Découvre comment l'IA agentique peut automatiser des tâches de développement, travailler sur du code et intervenir sur tes repositories GitHub. L'avenir du développement logiciel passe-t-il par les agents autonomes ? #IA #GitHub #AIAgents #Coding #Développement #Shorts",
+      "link": "https://www.youtube.com/watch?v=yRafV6cHKvw",
+      "pubDate": "2026-11-03T09:00:28.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/yRafV6cHKvw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "yRafV6cHKvw"
+    },
+    {
+      "id": "cb8b29e9d428",
+      "title": "API Platform Conference 2026 - Damien Fernandes - Extension 101 : Invisibles mais indispensables",
+      "description": "Vous avez sûrement déjà croisé des noms comme ext-json, ext-mbstring, ou ext-libxml dans vos fichiers composer.json, sans forcément comprendre ce qu’ils font — à part qu’ils sont indispensables au bon fonctionnement de vos applications. Mais ces packages ne viennent pas de Packagist : ce sont des extensions PHP, des modules natifs qui enrichissent le langage avec des fonctionnalités supplémentaires et souvent essentielles. C’est l’heure de démystifier ces fameuses extensions : à quoi elles…",
+      "link": "https://www.youtube.com/watch?v=wMHeU_Y79dg",
+      "pubDate": "2026-11-02T14:01:25.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/wMHeU_Y79dg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "wMHeU_Y79dg"
+    },
+    {
+      "id": "532e039d30fe",
+      "title": "Mods Claude Code : et si votre session pouvait se piloter elle-même ?",
+      "description": "Skills, hooks et MCP agissent autour de la session ; les mods agissent dedans. Routage du modèle selon la tâche, mémoire persistante, installation et précautions de sécurité à connaître avant d'essayer.",
+      "link": "https://blog.ippon.fr/2026/11/02/mods-claude-code-routage-memoire/",
+      "pubDate": "2026-11-02T13:25:01.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/Capture-d-----cran-2026-10-30----11.48.53.png",
+      "type": "blog"
+    },
+    {
+      "id": "a9d7717a6e0c",
+      "title": "API Platform Conference 2026 - Smaïne Milianni - L'exception qui confirme la règle",
+      "description": "“Everything fails all the time.” — une vérité universelle, aussi valable en développement. Un appel API échoue, une requête SQL déraille… et soudain, une Exception surgit un peu comme un Pokémon sauvage. À ce moment-là, deux choix s’offrent à nous : - L’attraper avec une Hyper Ball (et la logguer soigneusement dans notre Pokédex) - La laisser filer, au risque qu’elle réapparaisse au pire moment. Les exceptions sont bien plus qu’un simple mécanisme d’erreur : c’est un outil puissant que PHP met…",
+      "link": "https://www.youtube.com/watch?v=s9TGxHLhrUo",
+      "pubDate": "2026-11-02T13:19:34.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/s9TGxHLhrUo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "s9TGxHLhrUo"
+    },
+    {
+      "id": "746afbdaa2c4",
+      "title": "API Platform Conference 2026 - Tanguy Lemarié - UX DataTables : réinventer les tableaux",
+      "description": "UX DataTables : réinventer les tableaux avec Symfony, API Platform et Mercure Construire des tableaux de données complexes, filtrables et performants est souvent une tâche répétitive et chronophage. Et si on arrêtait simplement de réimplémenter tout ça ? Dans ce talk, je vous montrerai comment j’ai conçu UX DataTables, un bundle Symfony qui permet d’intégrer DataTables.net sans écrire une seule ligne de JavaScript. L’idée : tirer parti de l’écosystème Symfony et d’API Platform pour générer des…",
+      "link": "https://www.youtube.com/watch?v=YM-G0XbwyRA",
+      "pubDate": "2026-11-02T13:18:18.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/YM-G0XbwyRA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "YM-G0XbwyRA"
+    },
+    {
+      "id": "6ca7bb0560be",
+      "title": "API Platform Conference 2026 - Florent Morselli - Les en‑têtes HTTP comme première ligne de défense",
+      "description": "Les en‑têtes HTTP comme première ligne de défense des APIs et du front Les en‑têtes HTTP de sécurité sont souvent vus comme un détail de configuration, alors qu’ils structurent en profondeur le modèle de sécurité du web : quelles ressources peuvent être partagées entre sites, comment les pages sont isolées entre elles, quels comportements du navigateur sont autorisés ou non, etc. Entre les règles de navigation entre origines, les politiques de chargement de ressources et les mécanismes…",
+      "link": "https://www.youtube.com/watch?v=NXX2pzr6IDQ",
+      "pubDate": "2026-11-02T13:16:27.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/NXX2pzr6IDQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "NXX2pzr6IDQ"
+    },
+    {
+      "id": "c049e18406f6",
+      "title": "Valider les données en TypeScript avec Zod",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/zod-valider-typescript-2355 Zod est une bibliothèque de validation de données pour JavaScript et TypeScript. On définit un schéma qui décrit la forme attendue des données, puis on l'utilise pour vérifier leur contenu. Ce même schéma permet aussi de générer des types TypeScript et de transformer les valeurs, par exemple pour supprimer les espaces autour d'une chaîne ou convertir une chaîne en nombre. - 00:00 Présentation - 01:32 Premier schéma - 07:20…",
+      "link": "https://www.youtube.com/watch?v=S8V4TuWpNUA",
+      "pubDate": "2026-11-02T13:03:44.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/S8V4TuWpNUA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "S8V4TuWpNUA"
+    },
+    {
       "id": "e73ca8e644f3",
       "title": "Plugin Modernization by Anthropic ",
       "description": "Avant l’essor des approches agentiques, moderniser un système legacy exigeait du courage, de la persévérance et une solide maîtrise technique. Ces projets pouvaient mobiliser pendant plusieurs mois de nombreux professionnels, avec un budget parfois difficile à engager.",

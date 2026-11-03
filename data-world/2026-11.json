@@ -2,6 +2,124 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "e20cb0fe165d",
+      "title": "Practical Loop Engineering",
+      "description": "The following article originally appeared on Addy Osmani’s Elevate blog and is being republished here with the author’s permission. The way that I typically work is I have anywhere between five and ten agents working at the same time in parallel. There are going to be some tasks that I’m very happy to delegate fully […]",
+      "link": "https://www.oreilly.com/radar/?p=20108",
+      "pubDate": "2026-11-03T11:38:37.757Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/11/image.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "446342e61777",
+      "title": "New in Symfony 8.2: Polymorphic Form Collections",
+      "description": "The CollectionType field is the standard way of editing a list of items in a Symfony form, but it has two limitations: all its entries must use the same form type, and submitted rows are matched to entries by their position in the collection. Symfony 8.2…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-polymorphic-form-collections?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-03T08:17:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/michael_kaefer.picture",
+      "type": "blog"
+    },
+    {
+      "id": "dcf65f4aed7f",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "description": "I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between different flights. Via Lobste.rs Tags: privacy, youtube",
+      "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "pubDate": "2026-11-03T05:32:25.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "de959bab9411",
+      "title": "October sponsors-only newsletter",
+      "description": "I sent out the October edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm using right now My software releases My September newsletter can now be seen here, as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter",
+      "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "pubDate": "2026-11-03T05:28:59.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8fbbc27028af",
+      "title": "llm 0.37",
+      "description": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra, plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints. I switched the default model (if you have not set your own default) to gpt-6-luna - half the price of the previous default, gpt-5.6-luna. LLM's support for…",
+      "link": "https://simonwillison.net/2026/Nov/2/llm/",
+      "pubDate": "2026-11-02T23:49:30.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2a98d7051576",
+      "title": "12 Optimizers for Training Neural Networks, clearly explained!",
+      "description": "...and what each one costs in GPU memory!",
+      "link": "https://blog.dailydoseofds.com/p/12-optimizers-for-training-neural",
+      "pubDate": "2026-11-02T21:30:36.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!gHRY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56a6e4e5-3e34-4e37-b073-7ec589d2eb67_1402x1125.png",
+      "type": "blog"
+    },
+    {
+      "id": "93776c9c2a6b",
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "description": "I was reminded today of AI Adoption Rate Trending Down for Large Companies, a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis, and then to experiment with Claude's new Code Interpreter. I decided to try running those numbers again to see what had changed over the past year, and in doing so learned…",
+      "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "pubDate": "2026-11-02T13:31:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b9dbf40f6527",
+      "title": "SymfonyCon Warsaw 2026: Works on my machine. The agent said so.",
+      "description": "Always better when we learn together. SymfonyCon Warsaw 2026 is happening November 26-27, bringing developers together for 3 tracks of presentations and informal networking. 🎤 Speaker announcement We are delighted to welcome Jonas Kröger, Senior…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-works-on-my-machine-the-agent-said-so?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-02T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
       "id": "e25140e248f8",
       "title": "Practical Loop Engineering",
       "description": "The following article originally appeared on Addy Osmani’s Elevate blog and is being republished here with the author’s permission. The way that I typically work is I have anywhere between five and ten agents working at the same time in parallel. There are going to be some tasks that I’m very happy to delegate fully […]",
