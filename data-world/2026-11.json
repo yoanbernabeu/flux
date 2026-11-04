@@ -2,6 +2,95 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "0a9f8cf06676",
+      "title": "New in Symfony 8.2: Firewalls and Routes",
+      "description": "Symfony 8.2 connects firewalls and routes more closely: routes can choose their firewall, you can load the routes of all firewalls with a single import, and redirecting anonymous users to a login page no longer requires a custom class. Selecting the Firewall…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-firewalls-and-routes?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-04T08:32:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/tilaven.png",
+      "type": "blog"
+    },
+    {
+      "id": "2ed6de92c3c0",
+      "title": "SymfonyCon Warsaw 2026: Fixing PHP2Shell",
+      "description": "Join devs from all over at SymfonyCon Warsaw 2026 on November 26-27 for two days of talks, workshops, and shared experiences. 🎤 Speaker announcement Huge welcome to Volker Dusch, Head of Engineering, Tideways, as he joins our lineup with Fixing…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-fixing-php2shell?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-04T07:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "209addd7dee5",
+      "title": "Agent Framework vs. Agent Harness, clearly explained!",
+      "description": "+ a technique for 23x faster attention!",
+      "link": "https://blog.dailydoseofds.com/p/agent-framework-vs-agent-harness",
+      "pubDate": "2026-11-03T21:36:04.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Pwck!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e36d4fa-98f8-40dc-a6d0-f2925369482c_900x900.png",
+      "type": "blog"
+    },
+    {
+      "id": "68736af426e3",
+      "title": "Hardening GitHub Actions Against Outside Threats",
+      "description": "The supply chain attacks that defined 2025 and 2026 did not arrive as typosquats or as newly published malicious packages. They arrived inside legitimate, widely installed packages whose maintainers wrote no malicious code. The malicious code entered during the release, and in most cases the release ran on GitHub Actions. Some of the better-known incidents on widely used projects, as a sample rather than a complete list: tj-actions/changed-files, March 2025 Nx s1ngularity, August 2025…",
+      "link": "https://socket.dev/blog/hardening-github-actions-against-outside-threats?utm_medium=feed",
+      "pubDate": "2026-11-03T17:41:44.155Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f1a111e72742",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "description": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a text description of the model containing a bunch of floating point numbers. I've been playing…",
+      "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "pubDate": "2026-11-03T16:29:48.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f1b6638b79a8",
+      "title": "SymfonyCon Warsaw 2026: Zero to production on SymfonyCloud, live",
+      "description": "Heading to Poland this fall? SymfonyCon Warsaw 2026 (Nov 26-27) will feature 3 parallel tracks and plenty of opportunities to meet other community members. 🎤 Speaker announcement We're happy to confirm Vincent Robert, Technical Enablement Lead,…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-zero-to-production-on-symfonycloud-live?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-03T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
       "id": "e20cb0fe165d",
       "title": "Practical Loop Engineering",
       "description": "The following article originally appeared on Addy Osmani’s Elevate blog and is being republished here with the author’s permission. The way that I typically work is I have anywhere between five and ten agents working at the same time in parallel. There are going to be some tasks that I’m very happy to delegate fully […]",
@@ -31,6 +120,21 @@
       "type": "blog"
     },
     {
+      "id": "ad73af8eb1d8",
+      "title": "As Humans Write Less Code: Workloads Shift from Human to Agent Verification with Iterative Test Suites",
+      "description": "Analysts, analytics engineers, and even business users are writing less SQL and Python by hand. They prompt an agent instead, and with the right context (data models, docs, a data catalog), the agent writes a decent query. Think of a BI tool shifting left and democratizing new context from data models and sources. This helps the agents better understand the business problem and write a more accurate SQL query. With more advanced tooling that automatically reviews or generates queries…",
+      "link": "https://www.ssp.sh/blog/humans-write-less-code/",
+      "pubDate": "2026-11-03T07:40:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "dcf65f4aed7f",
       "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
       "description": "I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between different flights. Via Lobste.rs Tags: privacy, youtube",
@@ -56,6 +160,36 @@
       "categories": [
         "IA",
         "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "26202adf58de",
+      "title": "Composer 2.11 Adds Dependency Cooldowns",
+      "description": "Composer 2.11 has introduced dependency cooldowns, giving PHP developers a native way to delay newly published package versions before they become eligible for installation. The release arrives nearly a year after developers first requested the feature, bringing Composer into line with package managers that have already adopted minimum release age policies to reduce exposure to supply chain attacks. The new config.policy.cooldown setting allows developers to specify a waiting period in hours,…",
+      "link": "https://socket.dev/blog/composer-dependency-cooldowns?utm_medium=feed",
+      "pubDate": "2026-11-03T04:23:21.154Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bb54d256c9ea",
+      "title": "Designed Once, Usable Everywhere: An Investment in PHP’s Standard Library",
+      "description": "All PHP projects have one thing in common, regardless of whether they are built on a full-stack framework, on a microservice framework with carefully selected standalone libraries, or as an extension for a CMS: the PHP standard library. Functions such as str_replace() or array_map() and classes like DateTimeImmutable or Uri\\Rfc3986\\Uri from PHP 8.5 are always available, always work the same, and always have the same meaning. This makes PHP’s standard library a “lingua franca”, enabling…",
+      "link": "https://thephp.foundation/blog/2026/11/03/stdlib-investment/",
+      "pubDate": "2026-11-03T00:00:00.000Z",
+      "source": "The PHP Foundation",
+      "sourceUrl": "https://thephp.foundation/atom.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"

@@ -2,6 +2,105 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "6cda0fb68389",
+      "title": "PHP 8.6 : l’essentiel des nouveautés",
+      "description": "PHP 8.6 sort le 19 novembre 2026. Découvrez dans cet article ce qu'il faut retenir de cette version. Cet article, PHP 8.6 : l’essentiel des nouveautés, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/ce-quil-faut-retenir-des-nouveautes-de-php-8-6",
+      "pubDate": "2026-11-04T10:00:28.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/laptop-1024x683.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "12eb3ac8e574",
+      "title": "Comment rendre une requête SQL 100 fois plus rapide ? 🚀 #Shorts",
+      "description": "Pourquoi certaines requêtes SQL passent de 2 secondes à seulement 20 millisecondes ? 🚀 En 73 secondes, découvre comment fonctionnent les index SQL, les B-trees dans PostgreSQL et pourquoi ajouter trop d'index peut aussi ralentir ta base de données. On parle de performances SQL, de Full Table Scan et d'EXPLAIN ANALYZE. #SQL #PostgreSQL #Database #Programmation #Shorts",
+      "link": "https://www.youtube.com/watch?v=MdFpRno_qvI",
+      "pubDate": "2026-11-04T09:00:14.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/MdFpRno_qvI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "MdFpRno_qvI"
+    },
+    {
+      "id": "db4f6360df26",
+      "title": "GitHub Spec Kit : L'IA code mieux quand on arrête d'improviser !",
+      "description": "🚀 Tu utilises GitHub Copilot, Claude Code ou d'autres agents IA pour développer ? Et si le problème n'était pas l'IA, mais la façon dont tu lui donnes tes instructions ? Dans cette vidéo, je te présente *GitHub Spec Kit*, un outil open source qui permet d'adopter le *Spec-Driven Development (SDD)* : une méthode pour définir précisément ce que tu veux construire avant de laisser l'IA générer du code. On commence par comprendre les concepts, puis on passe à une *démonstration pratique* pour…",
+      "link": "https://www.youtube.com/watch?v=zXwt0-XZ6-8",
+      "pubDate": "2026-11-04T09:00:10.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/zXwt0-XZ6-8/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "zXwt0-XZ6-8"
+    },
+    {
+      "id": "535565d1c594",
+      "title": "#383.src - Contexte Engineering: Dresser ses agents IA avec Florian Bruniaux",
+      "description": "\"Il vaut mieux un très bon harnais et un modèle plus low cost qu'un très bon modèle avec un mauvais harnais.\" Le D.E.V. de la semaine est Florian Bruniaux, développeur et harness engineer chez Méthode Aristote. Après un parcours tech passant par le dev, le lead dev, l'EM, le VP et le CTO, il est revenu au code pour se spécialiser dans le context engineering et le harness engineering. Il nous explique comment construire des harnais fiables pour piloter des agents IA, pourquoi il ne relit plus la…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/383-5fb716849506",
+      "pubDate": "2026-11-04T04:00:40.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/d40de32c-7def-46fa-940a-2f0bf6ed8f71.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/1c3c40a5-bd08-49fd-bdaa-5fb716849506.mp3?_=1793710900",
+      "duration": "01:00:26"
+    },
+    {
+      "id": "72042431b7f1",
+      "title": "Talos : un certificat en lecture seule qui reboot votre serveur",
+      "description": "TL;DR Sur Talos Linux reboot # rpc error: code = PermissionDenied desc = not authorized Ensuite, un test inoffensif pour prouver que la traversée passe : talosctl -n time --check \"/dev/../proc/version\" # rpc error ... error querying PTP device \"/dev/../proc/version\": invalid argument # open() a reussi (le fichier existe), c'est l'ioctl PTP qui echoue talosctl -n time --check \"/dev/../nonexistent\" # rpc error ... \"/dev/../nonexistent\": no such file or directory # open() a echoue : le fichier…",
+      "link": "https://blog.zwindler.fr/2026/11/03/talos-timecheck-watchdog-os-reader-reboot/",
+      "pubDate": "2026-11-03T17:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/10/talos.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3f1c8fc4fe03",
+      "title": "DeepSeek SuperAgent : des agents IA qui codent en parallèle 🤯",
+      "description": "Et si un seul développeur pouvait piloter plusieurs agents IA en parallèle, sans les surveiller en permanence ? Les super-agents changent notre façon de coder : exécution parallèle, mémoire de projet partagée et orchestration autonome des tâches. Une nouvelle étape pour le développement assisté par IA 🚀 #IA #AgentsIA #CodingAgents #IntelligenceArtificielle #Developpement #Shorts",
+      "link": "https://www.youtube.com/watch?v=HNwHfvvFDzA",
+      "pubDate": "2026-11-03T16:39:20.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/HNwHfvvFDzA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "HNwHfvvFDzA"
+    },
+    {
       "id": "0e7e6758eafa",
       "title": "Cet agent IA gère tes projets GitHub tout seul ! 🤯 #Shorts",
       "description": "Et si un agent IA pouvait gérer tes projets GitHub de manière autonome ? Découvre comment l'IA agentique peut automatiser des tâches de développement, travailler sur du code et intervenir sur tes repositories GitHub. L'avenir du développement logiciel passe-t-il par les agents autonomes ? #IA #GitHub #AIAgents #Coding #Développement #Shorts",
