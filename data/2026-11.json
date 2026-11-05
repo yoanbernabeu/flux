@@ -2,6 +2,75 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "24957c3f5a2b",
+      "title": "Manager à l'ère de l'intelligence artificielle, avec Yannick Grenzinger",
+      "description": "Yannick Grenzinger, développeur depuis 20 ans, devenu engineering manager chez Payfit, revient sur son parcours du code vers l’humain. IA et métier de développeur, revue de code devenue goulot, limites des LLM, puis management : autonomie, flux inspiré du Lean, amélioration continue et documentation, autour de sa devise « manager moins sans manager moins bien ». Interview enregistrée lors de Devoxx France 2026, animée par Emmanuel Bernard. 0:00 Intro 0:50 Parcours : du code à l’humain 2:41…",
+      "link": "https://www.youtube.com/watch?v=AkSdRN1Hjyo",
+      "pubDate": "2026-11-05T09:39:26.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/AkSdRN1Hjyo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "AkSdRN1Hjyo"
+    },
+    {
+      "id": "c5cb4ef74a2e",
+      "title": "Claude Code a changé ! Toutes les nouveautés d'Octobre 2026",
+      "description": "🚀 *Claude a beaucoup évolué en octobre 2026 !* Nouveau modèle Claude Haiku 5.5, arrivée de Claude Duet, améliorations de Claude Code Desktop et CLI, agents IA plus autonomes… Anthropic a multiplié les annonces ! Dans cette vidéo, je te présente les **principales nouveautés de Claude en octobre 2026**, leurs impacts concrets et ce qui change vraiment pour les développeurs et les utilisateurs de Claude. 🔥 *Au programme :* - Claude Haiku 5.5 : nouveau modèle, contexte 1M tokens et adaptive…",
+      "link": "https://www.youtube.com/watch?v=hheu30ccxVk",
+      "pubDate": "2026-11-05T09:00:04.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/hheu30ccxVk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "hheu30ccxVk"
+    },
+    {
+      "id": "2e1d2b250451",
+      "title": "React Native, encore valable en 2026 ? avec David Leuliette",
+      "description": "React Native et Expo tiennent-ils toujours la route face à une IA qui sait écrire du Swift et du Kotlin pour faire du natif ? David Leuliette, qui livre des apps React Native depuis plus de 10 ans pour des startups comme pour des grands comptes, nous donne sa vision du terrain : ce qui marche, ce qui est encore compliqué et comment il choisit ses outils aujourd'hui. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/react-native/",
+      "link": "https://double-slash.dev/podcasts/react-native/",
+      "pubDate": "2026-11-05T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1793787451/episode/ART_146_utower.png",
+      "type": "podcast",
+      "audioUrl": "https://cdn.double-slash.dev/episodes/DS_146_react-native.mp3",
+      "duration": "3687"
+    },
+    {
+      "id": "2a30922557d9",
+      "title": "J'ai demandé un PowerPoint à des agents : le premier, on voulait l'oublier ; le dernier, tout le monde l'a accepté",
+      "description": "Répondre vite à un appel d'offres avec un deck PowerPoint soigné sur le fond comme sur la forme, en le confiant à des agents. 113 scripts jetables plus tard, le deck est devenu des données qu'un script reconstruit sans tokens, sous des gardes qui refusent d'abîmer ce qui est fini. Le récit, la méthode, et huit gestes à reprendre.",
+      "link": "https://blog.octo.com/j'ai-demande-un-powerpoint-a-des-agents--le-premier-on-voulait-l'oublier-le-dernier-tout-le-monde-l'a-accepte",
+      "pubDate": "2026-11-04T17:04:48.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6cda0fb68389",
       "title": "PHP 8.6 : l’essentiel des nouveautés",
       "description": "PHP 8.6 sort le 19 novembre 2026. Découvrez dans cet article ce qu'il faut retenir de cette version. Cet article, PHP 8.6 : l’essentiel des nouveautés, est paru en premier sur Les-Tilleuls.coop.",
@@ -67,6 +136,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/1c3c40a5-bd08-49fd-bdaa-5fb716849506.mp3?_=1793710900",
       "duration": "01:00:26"
+    },
+    {
+      "id": "bd4e3af20e1a",
+      "title": "Quand l'IA devient un réflexe",
+      "description": "Il y a un dicton assez connu en informatique : “quand on a un marteau, tout ressemble à un clou”. Depuis l’arrivée de l’IA, j’ai l’impression de le voir appliqué dans de nombreuses équipes de développement. L’IA est une révolution, c’est certain. Elle rend faciles des tâches qui étaient longues ou pénibles. Mais je la vois aussi utilisée pour des tâches simples, qui pourraient très bien être faites autrement. Des rebases, des cherry-picks sans conflit, confiées à un agent simplement par…",
+      "link": "https://www.jdecool.fr/blog/2026/11/04/quand-l-ia-devient-un-reflexe.html",
+      "pubDate": "2026-11-03T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "72042431b7f1",

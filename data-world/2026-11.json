@@ -2,6 +2,243 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "6cd0416e76b2",
+      "title": "Symfony UX 3.7 released",
+      "description": "Symfony UX 3.7 is out, with more than 100 pull requests merged since 3.6. It adds UX CSS, an experimental package that turns design tokens into atomic CSS, two self-hosted image servers to UX Image, and takes the UX Toolkit out of experimental. LiveComponent…",
+      "link": "https://symfony.com/blog/symfony-ux-3-7-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-05T09:06:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/Kocal.png",
+      "type": "blog"
+    },
+    {
+      "id": "9b7064e431da",
+      "title": "New in Symfony 8.2: HTTP Recorder",
+      "description": "Contributed by Imen Ezzine ,…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-http-recorder?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-05T08:12:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/imenezzine.picture",
+      "type": "blog"
+    },
+    {
+      "id": "96e5ce9810eb",
+      "title": "Symfony 8.1.11 released",
+      "description": "Symfony 8.1.11 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-1-11-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-05T08:01:25.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e101ec6ff8e8",
+      "title": " Be humble ",
+      "description": "Read the full post on https://stitcher.io/blog/be-humble",
+      "link": "https://stitcher.io/blog/be-humble",
+      "pubDate": "2026-11-05T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e075d4bdf0ec",
+      "title": "Grok Bot Masterclass",
+      "description": "...covered with a full hands-on video demo.",
+      "link": "https://blog.dailydoseofds.com/p/grok-bot-masterclass-081",
+      "pubDate": "2026-11-04T23:24:08.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/9d1cb505-4873-4ddc-90d1-75286ab7a31e_680x272.png",
+      "type": "blog"
+    },
+    {
+      "id": "cc062bdc4505",
+      "title": "Resonant Computing and Common Fabric",
+      "description": "This event summary was created by Claude with editing by Tim O’Reilly, based on a transcript of the conversation. Alex Komoroske is the CEO and a cofounder of Common Fabric, a public benefit corporation building the infrastructure for human-centric agentic computing. He spent more than a decade at Google as a product manager and director […]",
+      "link": "https://www.oreilly.com/radar/resonant-computing-and-common-fabric/",
+      "pubDate": "2026-11-04T21:01:32.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d062a8ce388c",
+      "title": "Community Corner Podcast: cakePHP with Jamison Bryant",
+      "description": "In this episode, Scott talks with Jamison Bryant about what sets CakePHP apart from Laravel and Symfony, the plugin ecosystem, and how he moved TicketSauce from CakePHP 2 to 5 with the strangler fig pattern. Links: Our Discord – https://discord.gg/aMTxunVx Buy our shirts – https://store.phparch.com/products/community-corner-podcast-t-shirt Mentioned in this episode: CakePHP – https://cakephp.org/ CakePHP on […] The post Community Corner Podcast: cakePHP with Jamison Bryant appeared first on PHP…",
+      "link": "https://www.phparch.com/podcast/community-corner-podcast-cakephp-with-jamison-bryant/",
+      "pubDate": "2026-11-04T17:05:44.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/07/Banners-OurCVEs-1-768x141.png",
+      "type": "blog"
+    },
+    {
+      "id": "6b1c4708310c",
+      "title": "datasette-llm 0.1a10",
+      "description": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette, llm",
+      "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+      "pubDate": "2026-11-04T15:26:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fae3d93cb0e7",
+      "title": "SymfonyLive Germany 2027: 30 days left to grab your early bird ticket",
+      "description": "Every year, the German Symfony community gathers to catch up, share stories from production, and dig into what's next for PHP and Symfony. After many memorable editions in Berlin, 2027 marks the start of a whole new chapter: SymfonyLive Germany is…",
+      "link": "https://symfony.com/blog/symfonylive-germany-2027-30-days-left-to-grab-your-early-bird-ticket?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-04T14:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/HEADER-1200x440px-at-4x.png",
+      "type": "blog"
+    },
+    {
+      "id": "41d9c666965e",
+      "title": "Symfony 8.2.0-BETA1 released",
+      "description": "Symfony 8.2.0-BETA1 has just been released. This is a pre-release version of Symfony 8.2. If you want to test it in your own applications before its final release, run the following commands: 1 2 3 $ composer config minimum-stability…",
+      "link": "https://symfony.com/blog/symfony-8-2-0-beta1-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-04T12:41:20.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fdf74096b026",
+      "title": "Developers are getting rAIded",
+      "description": "Nick Bevers argues that AI is pushing developers toward shallow, uncritical building, and that many teams are trusting generated code far too blindly. It's a thoughtful take on keeping a mental model of your codebase and using AI as a tool instead of handing over the craft. Read more",
+      "link": "https://freek.dev/3211-developers-are-getting-raided",
+      "pubDate": "2026-11-04T12:31:05.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "02e12fc53f38",
+      "title": "Measuring AI’s Impact on Delivery Speed",
+      "description": "The following article was originally published on James Shore’s Successful Software blog and is being republished here with the author’s permission. Is AI making software development faster? Most people I talk to say yes. But how much? What value are you getting for your money? Are there other ways of using AI that have a […]",
+      "link": "https://www.oreilly.com/radar/measuring-ais-impact-on-delivery-speed/",
+      "pubDate": "2026-11-04T11:54:20.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/11/image-1600x993.png",
+      "type": "blog"
+    },
+    {
+      "id": "6683ac8f1549",
+      "title": "CVE-2026-118513: X509 Authenticators Split DN Values on Escaped Commas and Bare Slashes: Incomplete Fix for CVE-2026-45063",
+      "description": "Affected versions Symfony Security HTTP versions =6, =7, =8, <8.1.11 are affected by this security issue. The issue has been fixed in Symfony Security HTTP 5.4.56, 6.4.50, 7.4.23, 8.1.11. Description X509Authenticator…",
+      "link": "https://symfony.com/blog/cve-2026-118513-x509-authenticators-split-dn-values-on-escaped-commas-and-bare-slashes-incomplete-fix-for-cve-2026-45063?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-04T11:54:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ce4d9ebaadc4",
+      "title": "GHSA-6prc-h956-hxjq: Filesystem Path Treats Any Prefix Before \"://\" as a Root, Letting Paths Escape Their Base Directory",
+      "description": "Affected versions Symfony Filesystem versions >=5.4.0, =6, =7, =8, <8.1.11 are affected by this security issue. The issue has been fixed in Symfony Filesystem 5.4.56, 6.4.50, 7.4.23, 8.1.11. Description…",
+      "link": "https://symfony.com/blog/ghsa-6prc-h956-hxjq-filesystem-path-treats-any-prefix-before-as-a-root-letting-paths-escape-their-base-directory?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-04T11:54:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4242fbe612ff",
+      "title": "CVE-2026-118515: The Serializer Builds UploadedFile Objects From Request Data, Pointing Uploads at Any Server File",
+      "description": "Affected versions Symfony Serializer versions =6, =7, =8, <8.1.11 are affected by this security issue. The issue has been fixed in Symfony Serializer 5.4.56, 6.4.50, 7.4.23, 8.1.11. Description DataUriNormalizer…",
+      "link": "https://symfony.com/blog/cve-2026-118515-the-serializer-builds-uploadedfile-objects-from-request-data-pointing-uploads-at-any-server-file?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-04T11:54:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "634c34416598",
+      "title": "GHSA-5mx8-mwrp-5693: Generated URLs Can Point to a Host Chosen by the Client",
+      "description": "Affected versions Symfony HTTP Foundation versions =6, =7, =8, <8.1.11 are affected by this security issue. The issue has been fixed in Symfony HTTP Foundation 5.4.56, 6.4.50, 7.4.23, 8.1.11. Description…",
+      "link": "https://symfony.com/blog/ghsa-5mx8-mwrp-5693-generated-urls-can-point-to-a-host-chosen-by-the-client?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-04T11:54:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0a9f8cf06676",
       "title": "New in Symfony 8.2: Firewalls and Routes",
       "description": "Symfony 8.2 connects firewalls and routes more closely: routes can choose their firewall, you can load the routes of all firewalls with a single import, and redirecting anonymous users to a login page no longer requires a custom class. Selecting the Firewall…",
@@ -29,6 +266,51 @@
         "Web"
       ],
       "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "8265b69742e7",
+      "title": "datasette-apps 0.3a0",
+      "description": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent. This release improves that integration: Apps can now be tagged in Datasette Agent chat messages by typing #, which autocompletes from the apps the user has permission to view. New app_add_stored_queries() and app_remove_stored_queries() tools let the agent manage which stored…",
+      "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+      "pubDate": "2026-11-04T00:29:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "abbb96cf1471",
+      "title": "datasette-agent 0.5a0",
+      "description": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent. The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed app into existence and then modify it from the chat that sits next to that app. You can try it by signing in with your GitHub account to agent.datasette.io. Tags: projects, datasette,…",
+      "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+      "pubDate": "2026-11-03T23:13:45.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aac81467646f",
+      "title": "llm 0.37.1",
+      "description": "Release: llm 0.37.1 A bugfix release for LLM, with contributions from Steven Huang, Tao An, Arjan Mossel, and XQ. Tags: llm",
+      "link": "https://simonwillison.net/2026/Nov/3/llm/",
+      "pubDate": "2026-11-03T21:41:42.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

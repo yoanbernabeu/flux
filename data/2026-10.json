@@ -427,6 +427,38 @@
       "videoId": "lH6H5XSyb8s"
     },
     {
+      "id": "a261c950f68a",
+      "title": "Le workflow est un produit : un jeu complet en neuf jours avec Claude Code",
+      "description": "Neuf jours, un développeur seul, un agent de code et un kebab en pixel art. Ce que j'ai dû écrire, brancher et auditer autour de Claude Code pour qu'il écrive tout le code d'un jeu sans que la qualité s'écroule, et ce que ce workflow ne fait pas.",
+      "link": "https://blog.eleven-labs.com/fr/workflow-claude-code-kebab-roguelite/",
+      "pubDate": "2026-10-27T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "541e5855509d",
+      "title": "The workflow is a product: a complete game in nine days with Claude Code",
+      "description": "Nine days, one developer, a coding agent and a pixel-art kebab shop. What I had to write, wire up and audit around Claude Code so that it could write all the code of a game without quality collapsing, and what that workflow doesn't do.",
+      "link": "https://blog.eleven-labs.com/en/claude-code-workflow-kebab-roguelite/",
+      "pubDate": "2026-10-27T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "12d9e161a205",
       "title": "Dans les coulisses de mon dernier side project: l'infrastructure",
       "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness 3/X - Les tests automatisés 4/X - L’infrastructure (cet article) Avant l’IA, travailler sur un projet Web ne présentait pas de difficulté particulière: il suffisait de lancer les serveurs de développement qui étaient généralement directement intégrés…",
