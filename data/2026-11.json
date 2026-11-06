@@ -2,6 +2,69 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "29dbdd66e21f",
+      "title": "On ship 10x plus vite depuis notre terminal grâce à nos 2nd brain - Gen AI Nantes #21",
+      "description": "Et si les équipes marketing passaient désormais 80 % de leur journée dans un terminal ? Il y a quelques années, personne n'y aurait cru. Oui, l'écran noir des devs, celui que la plupart des gens referment en panique quand il s'ouvre par erreur. Et le marketing n'est qu'un début : sales, ops, produit, le terminal n'est plus réservé aux techs. Vous connaissez la routine : réexpliquer votre contexte à chaque nouvelle conversation, recoller les mêmes infos dans ChatGPT, puis dans Claude, puis dans…",
+      "link": "https://www.youtube.com/watch?v=X2o43O-AsfQ",
+      "pubDate": "2026-11-06T08:25:10.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/X2o43O-AsfQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "X2o43O-AsfQ"
+    },
+    {
+      "id": "d93d4eca24e2",
+      "title": "#371.exe - Everyone can build: La révolution du code ouvert chez Alan par Yves Brissaud",
+      "description": "Pour l'épisode #371 je recevais Alexandre Gerlic. On en débrief avec Yves. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/371-e25b74a02356",
+      "pubDate": "2026-11-06T04:00:01.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/ddeb6928-74b0-4076-94a3-e25b74a02356.mp3?_=1793883661",
+      "duration": "17:26"
+    },
+    {
+      "id": "a97a39a85cc2",
+      "title": "Claude n'attend plus tes instructions… 😳",
+      "description": "Claude Duet : une IA qui travaille pendant que tu fais autre chose ? 🤯 Anthropic dévoile Claude Duet, une nouvelle expérience d'IA proactive capable d'anticiper tes besoins et de faire avancer certaines tâches sans attendre tes instructions à chaque étape. Comment fonctionne Claude Duet ? Quelles sont ses possibilités et ses limites ? Découvre cette nouvelle approche des agents IA autonomes en 60 secondes ! #ClaudeDuet #ClaudeAI #Anthropic #IntelligenceArtificielle #AgentIA #Tech #Shorts",
+      "link": "https://www.youtube.com/watch?v=MOuVaFbe1Kc",
+      "pubDate": "2026-11-05T20:01:55.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/MOuVaFbe1Kc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "MOuVaFbe1Kc"
+    },
+    {
+      "id": "01d0ce52524d",
+      "title": "Vos clients ont l’IA pour s’informer. Ils ont encore besoin de vous pour décider.",
+      "description": "Dans la vente complexe B2B, l’humain reste au centre. Mais une IA intégrée aux connaissances et aux processus de l’entreprise peut lui donner de bien meilleurs moyens de convaincre. Le résumé : L’IA permet aux acheteurs de comparer des offres et de préparer leurs questions. Elle ne suffit pas à déterminer quelle solution fonctionnera dans […] The post Vos clients ont l’IA pour s’informer. Ils ont encore besoin de vous pour décider. appeared first on Oliviersauvage.com.",
+      "link": "https://oliviersauvage.com/fr/vos-clients-ont-lia-pour-sinformer-ils-ont-encore-besoin-de-vous-pour-decider/",
+      "pubDate": "2026-11-05T12:01:25.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "24957c3f5a2b",
       "title": "Manager à l'ère de l'intelligence artificielle, avec Yannick Grenzinger",
       "description": "Yannick Grenzinger, développeur depuis 20 ans, devenu engineering manager chez Payfit, revient sur son parcours du code vers l’humain. IA et métier de développeur, revue de code devenue goulot, limites des LLM, puis management : autonomie, flux inspiré du Lean, amélioration continue et documentation, autour de sa devise « manager moins sans manager moins bien ». Interview enregistrée lors de Devoxx France 2026, animée par Emmanuel Bernard. 0:00 Intro 0:50 Parcours : du code à l’humain 2:41…",

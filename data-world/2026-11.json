@@ -2,6 +2,138 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "91c88e54ed6f",
+      "title": "New in Symfony 8.2: Forms That Read Your Types",
+      "description": "Symfony forms are often backed by a DTO or another class with typed properties. Those types say a lot about each field, but you have to repeat much of that information when creating your forms. In Symfony 8.2, the Form component uses those types, so forms…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-forms-that-read-your-types?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-06T08:24:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "69a195742e41",
+      "title": "The PHP Podcast 2026.11.05",
+      "description": "🎙️ PHP Podcast – November 5, 2026 Hosts: Eric Van Johnson & Joe Ferguson (John Congdon) Two months, a dozen new stream buttons, and a 6 AM crypto-mining emergency. Eric falls in love with a developer-only social network, the PHP2Shell CVE tests the team, and PHP Tek season kicks off. Welcome to the Boss Level. […] The post The PHP Podcast 2026.11.05 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-11-05/",
+      "pubDate": "2026-11-06T02:51:46.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f399.png",
+      "type": "blog"
+    },
+    {
+      "id": "4bf7e3e40cde",
+      "title": "Finding Every Vulnerability Made Security Harder",
+      "description": "+ building an agent engineering team with Grok Bot!",
+      "link": "https://blog.dailydoseofds.com/p/finding-every-vulnerability-made",
+      "pubDate": "2026-11-05T22:54:55.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!mgUA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa45ec282-24a0-46b5-a64d-43262825d0d4_1990x1160.png",
+      "type": "blog"
+    },
+    {
+      "id": "8960dd2ef9a9",
+      "title": "The New Knowledge Artifacts of the AI Economy",
+      "description": "At our recent Foo Camp, a number of people said something like, “I don’t want someone else’s code any more. I may have my agent take a look at it, but I want to extract just the parts that I want, and may rewrite even those in Rust. It’s just too easy to create just […]",
+      "link": "https://www.oreilly.com/radar/the-new-knowledge-artifacts-of-the-ai-economy/",
+      "pubDate": "2026-11-05T18:18:39.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff14400f2913",
+      "title": "Quoting Paul Ford",
+      "description": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day. &mdash; Paul Ford, The Web Is More Than Enough Tags: browsers, paul-ford, web-development",
+      "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+      "pubDate": "2026-11-05T17:34:03.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "89cbfc49215e",
+      "title": "GitHub to Block pull_request_target Workflows by Default Starting December 2",
+      "description": "GitHub will begin blocking GitHub Actions workflows triggered by pull_request_target in public repositories on December 2, 2026, expanding its protections against a class of CI/CD vulnerabilities that has repeatedly enabled attackers to steal credentials and compromise open source software releases. The restriction, originally announced in September, will prevent affected workflows from running unless an applicable Actions event policy explicitly allows them. GitHub had initially scheduled…",
+      "link": "https://socket.dev/blog/github-to-block-pull-request-target?utm_medium=feed",
+      "pubDate": "2026-11-05T15:01:39.110Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/e76ccc4c32b356ed8b9152b7b9d2440a2c8148f5-2598x1488.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "56574441c0b7",
+      "title": "SymfonyCon Warsaw 2026: Pedal to the Metal: Compiling PHP to Native Code",
+      "description": "Save the date for SymfonyCon Warsaw 2026 on November 26-27! An open, welcoming event featuring 3 parallel tracks and space to connect with fellow PHP enthusiasts. 🎤 Speaker announcement We are honored to have Guillaume Loulier, Technical Expert,…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-pedal-to-the-metal-compiling-php-to-native-code?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-05T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "271f865f71e1",
+      "title": "Hunger beats tenure: Advice for junior engineers",
+      "description": "Felix Rieseberg argues that AI is changing what makes junior engineers valuable. He makes the case that fresh perspective, ambition, and quick prototypes can beat tenure when execution is cheap. Read more",
+      "link": "https://freek.dev/3212-hunger-beats-tenure-advice-for-junior-engineers",
+      "pubDate": "2026-11-05T12:31:02.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "daee0204e375",
+      "title": "What It Takes To Trust Automatic Model Routing",
+      "description": "When a new coding model comes out, I want to try it. New releases always carry a promise for me. Maybe it can handle a change that needed too much manual intervention before. Maybe it can find the problem an earlier model kept missing. Maybe it can handle some coding scenarios that my favorite model […]",
+      "link": "https://www.oreilly.com/radar/what-it-takes-to-trust-automatic-model-routing/",
+      "pubDate": "2026-11-05T11:54:16.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6cd0416e76b2",
       "title": "Symfony UX 3.7 released",
       "description": "Symfony UX 3.7 is out, with more than 100 pull requests merged since 3.6. It adds UX CSS, an experimental package that turns design tokens into atomic CSS, two self-hosted image servers to UX Image, and takes the UX Toolkit out of experimental. LiveComponent…",
