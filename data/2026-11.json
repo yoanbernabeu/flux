@@ -2,6 +2,87 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "dbd5a93c0114",
+      "title": "Hermes Agent 0.23 : 1 950 changements… C’est FOU ! 🤯",
+      "description": "Hermes Agent 0.23 débarque avec une mise à jour impressionnante ! 🚀 1 950 pull requests : mais qu'est-ce qui a vraiment changé dans cet agent IA open source ? On revient sur l'ampleur de cette nouvelle version et ce qu'elle signifie pour l'avenir de Hermes Agent. #HermesAgent #IA #IntelligenceArtificielle #OpenSource #AIAgents #Shorts",
+      "link": "https://www.youtube.com/watch?v=UD7nB183jiU",
+      "pubDate": "2026-11-07T00:28:11.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/UD7nB183jiU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "UD7nB183jiU"
+    },
+    {
+      "id": "83bf1400819b",
+      "title": "Hermes Agent 0.23 : Cette mise à jour change TOUT ! 🚀",
+      "description": "🚀 Hermes Agent 0.23 est disponible ! Nous Research vient de publier une mise à jour majeure de son agent IA open source, avec une nouvelle interface Web, un gateway unifié et plus de 1 050 plugins. Dans cette vidéo, je te présente les nouveautés les plus intéressantes de Hermes Agent v0.23.0, aussi appelée « The Hearth Release ». Au programme : la nouvelle interface Hermes Web, la synchronisation des conversations entre CLI, Desktop et navigateur, les améliorations des Group Chats multi-agents…",
+      "link": "https://www.youtube.com/watch?v=GQXSehUXIYU",
+      "pubDate": "2026-11-06T18:41:08.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/GQXSehUXIYU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "GQXSehUXIYU"
+    },
+    {
+      "id": "834cae4e5f19",
+      "title": "Hacktoberfest 2026",
+      "description": "Comme en 2025 (cf https://blog.zenika.com/2025/12/15/hacktoberfest-25-ledition-zenika-open-source/) et depuis plusieurs années, Zenika célèbre l’Hacktoberfest durant le mois d’octobre. Cet événement mondial de",
+      "link": "https://blog.zenika.com/2026/11/06/hacktoberfest-2026/",
+      "pubDate": "2026-11-06T14:44:39.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/11/image-e4916c55.png?resize=505%2C439&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "1c0905cc7d8b",
+      "title": "Pourquoi Claude Code OUBLIE tes instructions ? 🤯",
+      "description": "Pourquoi ton agent IA finit-il par oublier certaines instructions après une longue conversation ? C'est notamment lié à la gestion de sa fenêtre de contexte et à un mécanisme appelé Context Compaction. Dans cette vidéo, découvre comment les agents IA compressent leur historique pour continuer à travailler, et pourquoi certaines informations peuvent se perdre au passage. #IA #AIAgents #ClaudeCode #ContextCompaction #IntelligenceArtificielle",
+      "link": "https://www.youtube.com/watch?v=4kezEiEXVZc",
+      "pubDate": "2026-11-06T14:21:10.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/4kezEiEXVZc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "4kezEiEXVZc"
+    },
+    {
+      "id": "394068472197",
+      "title": "GeoDNS programmable : migration d'AWS vers Bunny",
+      "description": "Pour optimiser les performances de ce blog, je m'appuyais sur pour servir les ressources statiques et sur pour un DNS géolocalisé qui dirige les lecteurs vers le serveur le plus proche. Mais Route 53 coûte cher : , auxquels s'ajoute nécessaire à la signature des zones avec DNSSEC. Quand j'ai découvert que Bunny DNS est jusqu'à 500 domaines et propose des réponses programmables, j'ai sauté sur l'occasion! En prime, c'est une entreprise européenne, installée en Slovénie.Amazon CloudFrontRoute…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-bunny-geodns",
+      "pubDate": "2026-11-06T13:29:34.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://media-bernat-ch.b-cdn.net/images/bunny-dns-map.05f55a00ae040e.svg",
+      "type": "blog"
+    },
+    {
       "id": "29dbdd66e21f",
       "title": "On ship 10x plus vite depuis notre terminal grâce à nos 2nd brain - Gen AI Nantes #21",
       "description": "Et si les équipes marketing passaient désormais 80 % de leur journée dans un terminal ? Il y a quelques années, personne n'y aurait cru. Oui, l'écran noir des devs, celui que la plupart des gens referment en panique quand il s'ouvre par erreur. Et le marketing n'est qu'un début : sales, ops, produit, le terminal n'est plus réservé aux techs. Vous connaissez la routine : réexpliquer votre contexte à chaque nouvelle conversation, recoller les mêmes infos dans ChatGPT, puis dans Claude, puis dans…",

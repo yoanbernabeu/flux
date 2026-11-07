@@ -2,6 +2,109 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "7cd18ce8533a",
+      "title": "7 MoE routing strategies in production, clearly explained",
+      "description": "+ a practical learning checklist to learn AI engineering.",
+      "link": "https://blog.dailydoseofds.com/p/7-moe-routing-strategies-in-production",
+      "pubDate": "2026-11-07T01:58:32.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!2C2x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F265d349e-5fe7-4eea-8226-9058281c7542_1400x1200.png",
+      "type": "blog"
+    },
+    {
+      "id": "1a9fbceb8109",
+      "title": "Free Certified Patch for Critical Rails Active Storage Vulnerability",
+      "description": "Ruby on Rails has released security updates addressing 21 vulnerabilities, including a critical Active Storage flaw that could allow unauthenticated attackers to write arbitrary files to a server through crafted uploads. Under certain configurations, attackers may also be able to read sensitive files, potentially leading to remote code execution. Socket is releasing a free Certified Patch for the critical vulnerability, tracked as GHSA-f3w6-w445-fwh9 (CVSS 9.8). The patch is available to…",
+      "link": "https://socket.dev/blog/rails-active-storage-patch?utm_medium=feed",
+      "pubDate": "2026-11-06T20:40:46.426Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "db8aad7567ee",
+      "title": "Quoting Nilay Patel",
+      "description": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they might not be being used the way that anyone wants them to yet. All these companies are spending more than they're making on these products. Refrigerators holding blood storage in…",
+      "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "pubDate": "2026-11-06T17:13:12.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "12cd4e88ca00",
+      "title": "Shai-Hulud Descendant Surfaces in Malicious Ruby Gem That Steals Credentials and Poisons AI Tools",
+      "description": "Socket’s Threat Research Team analyzed strutil-core version 1.0.1, a malicious RubyGems package that runs a 5.48 MB credential-stealing worm when it is installed. The RubyGems account jamnajiea published a clean 1.0.0 on November 1, 2026, and pushed the malicious 1.0.1 less than two hours later. Socket’s AI Scanner flagged it 70 seconds after publication, and RubyGems removed both versions about five hours after the malicious release. strutil-core was a standalone gem, not a compromised…",
+      "link": "https://socket.dev/blog/shai-hulud-descendant-malicious-ruby-gem?utm_medium=feed",
+      "pubDate": "2026-11-06T17:11:11.050Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/e7e8eb97521c24e2bb62f775fd2ca093db62cb8c-2048x1152.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "acd41edde97e",
+      "title": "Case Study: Connecting the pipes: Building Dixon scalable B2B platform on Symfony and Drupal",
+      "description": "Dixon is a global US manufacturer and supplier of hose fittings, valves, and fluid transfer products operating across more than a dozen international domains. To scale across these multi-regional enterprise operations, Americaneagle.com re-architected…",
+      "link": "https://symfony.com/blog/case-study-connecting-the-pipes-building-dixon-scalable-b2b-platform-on-symfony-and-drupal?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-06T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/DixonValve-Logo-1.svg",
+      "type": "blog"
+    },
+    {
+      "id": "371d97266a02",
+      "title": "The SaaS apocalypse started in October",
+      "description": "Using Stripe data across about 181,000 subscription businesses, Mack Grenfell argues the SaaS slowdown became visible in October, when median revenue growth turned negative across most peer groups. He suggests the bigger problem is fewer new signups, likely driven by AI-fueled competition rather than customer churn. Read more",
+      "link": "https://freek.dev/3213-the-saas-apocalypse-started-in-october",
+      "pubDate": "2026-11-06T12:30:48.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b011d03abcc7",
+      "title": "Choose Your Coding Harness by What You Need to Control—Not by Who Built It",
+      "description": "Remember back in 2019, when you had only a handful of language models to choose from, all with limited context windows? That world is gone, and it feels like a forgotten past. Today, flagship providers and open source projects compete across model families, sizes, capabilities, and deployment options. Coding harnesses seem to be heading in […]",
+      "link": "https://www.oreilly.com/radar/choose-your-coding-harness-by-what-you-need-to-control-not-by-who-built-it/",
+      "pubDate": "2026-11-06T11:54:19.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "91c88e54ed6f",
       "title": "New in Symfony 8.2: Forms That Read Your Types",
       "description": "Symfony forms are often backed by a DTO or another class with typed properties. Those types say a lot about each field, but you have to repeat much of that information when creating your forms. In Symfony 8.2, the Form component uses those types, so forms…",
