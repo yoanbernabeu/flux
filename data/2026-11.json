@@ -2,6 +2,54 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "cef950ce0a59",
+      "title": "Discord abandonne Electron pour Rust… mais pourquoi ? 😱",
+      "description": "Discord abandonne Electron pour passer à Rust ! 🚀 Mais pourquoi reconstruire une application utilisée par des millions de personnes ? Avec Rust et GPUI, Discord prépare une application native plus légère et plus performante. Une première version expérimentale affiche déjà environ 290 Mo de RAM ! Mais est-ce vraiment la fin d'Electron et de Chromium ? Et quel rôle les agents IA pourraient-ils jouer dans cette transformation ? Je t'explique ce qui change et pourquoi cette décision est aussi…",
+      "link": "https://www.youtube.com/watch?v=nORHW399488",
+      "pubDate": "2026-11-08T08:00:21.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/nORHW399488/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "nORHW399488"
+    },
+    {
+      "id": "f22c68448272",
+      "title": "Discord passe à Rust… mais pourquoi ?",
+      "description": "🚀 *Discord abandonne Electron pour Rust et GPUI !* Mais pourquoi reconstruire une application utilisée par des millions de personnes ? Le CTO de Discord a confirmé un projet ambitieux : *Discord Phoenix*, une nouvelle architecture qui mise sur Rust et GPUI pour remplacer Electron et Chromium sur desktop. Même React Native est concerné par cette transformation ! Et les premiers résultats intriguent : une version de test affiche seulement **290 Mo de RAM** avec deux comptes connectés. 👀 Dans…",
+      "link": "https://www.youtube.com/watch?v=Bgj_Yu6xk4o",
+      "pubDate": "2026-11-07T17:59:34.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Bgj_Yu6xk4o/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Bgj_Yu6xk4o"
+    },
+    {
+      "id": "fc331ecef310",
+      "title": "Hermes Agent : Cette fonctionnalité change TOUT !",
+      "description": "Hermes Agent passe à un autre niveau avec les Subagents ! 🚀 Imagine une IA capable de déléguer des tâches à d'autres agents IA pour travailler plus efficacement. Dans cette vidéo, je te montre comment fonctionnent les Subagents d'Hermes Agent et pourquoi cette fonctionnalité pourrait changer ta façon d'utiliser les agents IA. Et toi, tu utilises déjà Hermes Agent ? #HermesAgent #Subagents #AgentIA #IntelligenceArtificielle #OpenSource #AIAgents",
+      "link": "https://www.youtube.com/watch?v=2ZHBuLoS-4k",
+      "pubDate": "2026-11-07T13:29:17.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/2ZHBuLoS-4k/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "2ZHBuLoS-4k"
+    },
+    {
       "id": "dbd5a93c0114",
       "title": "Hermes Agent 0.23 : 1 950 changements… C’est FOU ! 🤯",
       "description": "Hermes Agent 0.23 débarque avec une mise à jour impressionnante ! 🚀 1 950 pull requests : mais qu'est-ce qui a vraiment changé dans cet agent IA open source ? On revient sur l'ampleur de cette nouvelle version et ce qu'elle signifie pour l'avenir de Hermes Agent. #HermesAgent #IA #IntelligenceArtificielle #OpenSource #AIAgents #Shorts",

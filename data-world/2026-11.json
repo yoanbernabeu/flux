@@ -2,6 +2,51 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "b2f434184082",
+      "title": "A Week of Symfony #1036 (November 2–8, 2026)",
+      "description": "This week, Symfony 5.4.56, 6.4.50, 7.4.23, and 8.1.11 maintenance versions were released with many security fixes for components such as Routing, Serializer, Config, and HtmlSanitizer. We also published the first beta of Symfony 8.2 so you can test it before…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1036-november-2-8-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-08T08:41:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe1f6a98c50b",
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "description": "datasette #3046: Don&#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link: &lt;https://latest.datasette.io/fixtures/compound_three_primary_keys?_next=a%2Cd%2Cv&gt;; rel=\"next\" This is bad. A tiny fraction of the visitors to…",
+      "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "pubDate": "2026-11-07T23:57:46.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f3c4d0d10aac",
+      "title": "Build an Agent-Friendly CLI Tool in PHP and Run It Anywhere With CPX",
+      "description": "This tutorial shows how to build a PHP CLI tool that returns JSON, package it for Composer, and run it from anywhere with CPX. It also explains why CPX is a nicer alternative to globally installed Composer tools, thanks to isolated dependencies and automatic updates. Read more",
+      "link": "https://freek.dev/3214-build-an-agent-friendly-cli-tool-in-php-and-run-it-anywhere-with-cpx",
+      "pubDate": "2026-11-07T12:30:49.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7cd18ce8533a",
       "title": "7 MoE routing strategies in production, clearly explained",
       "description": "+ a practical learning checklist to learn AI engineering.",
