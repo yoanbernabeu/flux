@@ -2,6 +2,72 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "ae0587a1b2dc",
+      "title": "Discord prend un risque ÉNORME en passant à Rust ! 😱",
+      "description": "Discord se lance dans un pari risqué : reconstruire son application avec Rust et GPUI pour gagner en performances ! Mais remplacer Electron et repenser une application aussi complexe, c'est loin d'être simple. Sécurité, performances, compatibilité, fonctionnalités… Discord doit tout repenser sans perturber ses utilisateurs. Et si les agents IA pouvaient accélérer cette transformation ? #Discord #Rust #Electron #Programmation #IntelligenceArtificielle #Shorts",
+      "link": "https://www.youtube.com/watch?v=dhvzotOueDk",
+      "pubDate": "2026-11-09T10:00:08.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/dhvzotOueDk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "dhvzotOueDk"
+    },
+    {
+      "id": "48edcf566e62",
+      "title": "#237.diff - Exotec: Une reine et une armée de robots avec Sophie Paquereau",
+      "description": "Il y a 3 ans, dans l'épisode #237 je recevais Sophie Paquereau. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch |…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/237-3130cbe7b951",
+      "pubDate": "2026-11-09T04:00:29.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/9e7c0f1d-cfb3-4c63-81e3-3130cbe7b951.mp3?_=1794142829",
+      "duration": "01:04:44"
+    },
+    {
+      "id": "246daf5c38b7",
+      "title": "Discord en Rust : seulement 290 Mo de RAM ?!",
+      "description": "🚀 Discord abandonne progressivement Electron pour reconstruire son application desktop avec Rust et GPUI ! Le projet Phoenix promet un Discord plus rapide, plus fluide et moins gourmand en mémoire. 🔥 Les premiers tests internes montrent environ 290 Mo de RAM avec deux comptes connectés ! Mais pourquoi Discord a-t-il choisi Rust ? Et qu'est-ce que GPUI peut réellement changer face à Electron et Chromium ? On décrypte cette transformation technique et ses premières démonstrations. 👀 #Discord…",
+      "link": "https://www.youtube.com/watch?v=eaVql3J6gL8",
+      "pubDate": "2026-11-08T16:30:11.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/eaVql3J6gL8/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "eaVql3J6gL8"
+    },
+    {
+      "id": "19f171efdeff",
+      "title": "Hermes Agent peut maintenant contrôler plusieurs serveurs ! 🤯",
+      "description": "Hermes Agent 0.23 franchit une nouvelle étape ! 🚀 Avec le nouveau système multi-Gateway, tu peux connecter ton PC, ton VPS et tes serveurs distants depuis une seule interface. Sessions, terminaux distants et agents IA : tout devient plus simple à piloter ! #HermesAgent #IA #AIAgents #OpenSource #AI",
+      "link": "https://www.youtube.com/watch?v=2byN3RitUeM",
+      "pubDate": "2026-11-08T14:08:32.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/2byN3RitUeM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "2byN3RitUeM"
+    },
+    {
       "id": "cef950ce0a59",
       "title": "Discord abandonne Electron pour Rust… mais pourquoi ? 😱",
       "description": "Discord abandonne Electron pour passer à Rust ! 🚀 Mais pourquoi reconstruire une application utilisée par des millions de personnes ? Avec Rust et GPUI, Discord prépare une application native plus légère et plus performante. Une première version expérimentale affiche déjà environ 290 Mo de RAM ! Mais est-ce vraiment la fin d'Electron et de Chromium ? Et quel rôle les agents IA pourraient-ils jouer dans cette transformation ? Je t'explique ce qui change et pourquoi cette décision est aussi…",

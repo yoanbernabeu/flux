@@ -2,6 +2,110 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "e84307aa66e0",
+      "title": "Ding, toasts with real spring physics",
+      "description": "Ding is a toast notification library with playful spring physics, built to work with React, Svelte, or plain DOM. The site includes interactive demos for layout, sounds, themes, and different toast behaviors. Read more",
+      "link": "https://freek.dev/3216-ding-toasts-with-real-spring-physics",
+      "pubDate": "2026-11-09T12:31:06.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "81ca137cc90a",
+      "title": "Why AI Agents Are Repeating 2019’s Microservices Mistake",
+      "description": "Microservices changed how we build software by breaking large applications into smaller, independently deployable services. That made systems easier to develop and scale, but it introduced a different class of problems: The behavior of the whole system got harder to see. AI agents are now following a similar path. A workflow that once lived inside […]",
+      "link": "https://www.oreilly.com/radar/why-ai-agents-are-repeating-2019s-microservices-mistake/",
+      "pubDate": "2026-11-09T11:55:04.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/11/image-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "65a7b6c9d1ca",
+      "title": "New in Symfony 8.2: Translation Improvements",
+      "description": "Symfony 8.2 brings many improvements to the Translation component and its integration with Twig and forms, including better XLIFF files and a translation:extract command that finds many more messages. Meaningful XLIFF Source Elements…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-translation-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-09T08:06:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/mauricedefelicec24.png",
+      "type": "blog"
+    },
+    {
+      "id": "5963f0ac8271",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "description": "My comment on The Web Is More Than Enough, by Paul Ford &mdash; Hacker News.OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude (Opus 5.5 Medium running in regular Claude Chat) to port that to Vanilla JS, in the same thread where it had built it, and got this: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg...…",
+      "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+      "pubDate": "2026-11-09T04:32:33.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cfd192eda4f2",
+      "title": "Hide your slop PR descriptions behind <details><summary>",
+      "description": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions. They're too good at describing the work The problem is that they are too good. An agent-written PR description is accurate and comprehensive. It describes…",
+      "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
+      "pubDate": "2026-11-09T04:25:05.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a86fe963d82a",
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "description": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I fired up regular Claude chat (Opus 5.5) and prompted: I'm thinking about a SQLite custom function 'parse_number(value)' that strips ',', '$', '£' and '%', handles a leading '-', and returns…",
+      "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+      "pubDate": "2026-11-08T22:26:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "774a54292db7",
+      "title": "The Next Dependency Problem Is Inside Your AI Agent",
+      "description": "Amit Merchant argues that skills, prompts, plugins, and MCP servers are becoming dependencies of AI agents, and should be versioned and managed like application code. He also highlights APM as a way to install reproducible agent tooling, with Dependabot now able to keep those dependencies up to date. Read more",
+      "link": "https://freek.dev/3215-the-next-dependency-problem-is-inside-your-ai-agent",
+      "pubDate": "2026-11-08T12:30:37.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b2f434184082",
       "title": "A Week of Symfony #1036 (November 2–8, 2026)",
       "description": "This week, Symfony 5.4.56, 6.4.50, 7.4.23, and 8.1.11 maintenance versions were released with many security fixes for components such as Routing, Serializer, Config, and HtmlSanitizer. We also published the first beta of Symfony 8.2 so you can test it before…",
@@ -22,6 +126,21 @@
       "description": "datasette #3046: Don&#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link: &lt;https://latest.datasette.io/fixtures/compound_three_primary_keys?_next=a%2Cd%2Cv&gt;; rel=\"next\" This is bad. A tiny fraction of the visitors to…",
       "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
       "pubDate": "2026-11-07T23:57:46.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32cf753613ff",
+      "title": "Terry Pratchett's Study",
+      "description": "My comment on Terry Pratchett&#x27;s Study &mdash; Hacker News.Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suchlike. Horizontal wealth is where you spend more money on the things you liked before you got rich: https://chibuikeani.blogspot.com/2017/02/the-price-of-happin... But horizontal wealth means not letting your increased income dictate your tastes. You like books and now you have money? Buy…",
+      "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
+      "pubDate": "2026-11-07T19:34:24.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
       "categories": [
@@ -617,6 +736,21 @@
       "sourceUrl": "https://socket.dev/api/blog/feed.atom",
       "categories": [
         "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4104450b512f",
+      "title": "AI is destroying my CS degree",
+      "description": "My comment on AI is destroying my CS degree &mdash; Hacker News.I don't envy educators right now. AI clearly means you need to change how you teach and evaluate students. We are only a few years in though, and it's still extremely unclear what effective teaching with these tools looks like. The worst part is that the evaluation loop is measured in multiple years! If you start trying some new education mechanism today you won't get a robust idea of how well it works until your current cohort…",
+      "link": "https://simonwillison.net/2026/Nov/3/hn-50354278/",
+      "pubDate": "2026-11-03T16:42:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
         "Programmation"
       ],
       "image": null,
