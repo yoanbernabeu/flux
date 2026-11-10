@@ -2,6 +2,207 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "1966fa7ced3c",
+      "title": "CSS responsive : de la jungle à la boîte à outils, interview de Theo Gianella",
+      "description": "Théo Gianella, développeur front-end chez Zenika, transforme la jungle du CSS en boîte à outils : responsive et mobile first, Flexbox et Grid, unités relatives et clamp, container queries, scroll state et Baseline pour le support des navigateurs. Il raconte aussi sa reconversion, de la recherche en littérature française au développement web. Interview enregistrée à Devoxx France 2026 par le Studio Devoxx France, animée par Emmanuel Bernard. 0:00 Intro 1:03 Responsive : combien sur 10 ? 3:35…",
+      "link": "https://www.youtube.com/watch?v=1FLyvfMs-9g",
+      "pubDate": "2026-11-10T08:56:14.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/1FLyvfMs-9g/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "1FLyvfMs-9g"
+    },
+    {
+      "id": "632e717c489a",
+      "title": "1 000 Agents IA créent un OS en 8 jours avec Claude ! 🤯",
+      "description": "🤯 Plus de 1 000 agents IA ont collaboré pendant 8 jours pour créer un système d'exploitation fonctionnel ! Anthropic dévoile Claude Fable 5.2 et Mythos 5.2, deux nouveaux modèles qui repoussent les limites de l'intelligence artificielle. Programmation, robotique, cybersécurité… Mais qu'est-ce qui différencie réellement ces deux modèles ? Et faut-il abandonner Claude Opus 5.5 ? 🎥 Découvrez mon analyse complète : https://youtu.be/YYWtqUNM7X4 #ClaudeAI #Anthropic #AgentsIA #Shorts",
+      "link": "https://www.youtube.com/watch?v=8LAnI9L7TWA",
+      "pubDate": "2026-11-10T08:00:18.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/8LAnI9L7TWA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "8LAnI9L7TWA"
+    },
+    {
+      "id": "2f1714a0cd01",
+      "title": "Mise en place de Ntfy : un point d'entrée unique pour toutes vos notifications",
+      "description": "Alertes éparpillées entre mails, Telegram et applis dédiées ? Un serveur Ntfy auto-hébergé réunit tout et vous laisse décider de leur destination.",
+      "link": "https://domopi.eu/mise-en-place-de-ntfy-un-point-dentree-unique-pour-toutes-vos-notifications/",
+      "pubDate": "2026-11-10T06:45:00.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/10/Notification-bleue-dans-un-espace-tech.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ebd25006035b",
+      "title": "Claude Fable 5.2 et Mythos 5.2 : Anthropic franchit un nouveau cap ?",
+      "description": "Anthropic dévoile *Claude Fable 5.2 et Mythos 5.2*, deux nouveaux modèles d'intelligence artificielle qui repoussent les limites des agents IA autonomes. Plus de *1 000 agents IA capables de créer un système d'exploitation en seulement 8 jours*, des avancées en programmation, robotique, cybersécurité et recherche scientifique… Mais que valent réellement ces nouveaux modèles face à Claude Opus 5.5 ? Dans cette vidéo, on découvre : 🚀 Les nouveautés de Claude Fable 5.2 et Mythos 5.2 💻 Comment 1…",
+      "link": "https://www.youtube.com/watch?v=YYWtqUNM7X4",
+      "pubDate": "2026-11-09T23:30:06.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/YYWtqUNM7X4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "YYWtqUNM7X4"
+    },
+    {
+      "id": "cefef9adb9b8",
+      "title": "Meta Muse Ember : 3 FOIS moins cher que Claude… et meilleur ?",
+      "description": "🚀 Meta vient de dévoiler *Muse Ember*, son plus petit modèle IA, annoncé jusqu'à 3 fois moins cher par tâche que Claude Haiku 5.5 à performances comparables sur Artificial Analysis. Mais est-il vraiment meilleur que Claude et GPT-6 Luna ? Dans cette vidéo, on compare *Muse Ember vs Claude Haiku 5.5 vs GPT-6 Luna* : performances, prix API, benchmarks, programmation et automatisation avec des agents IA. Au programme : - 🔥 Muse Ember : présentation du nouveau modèle IA de Meta - 💰 Prix API :…",
+      "link": "https://www.youtube.com/watch?v=w1jN6KKpsSA",
+      "pubDate": "2026-11-09T21:06:48.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/w1jN6KKpsSA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "w1jN6KKpsSA"
+    },
+    {
+      "id": "4833b6ab94b7",
+      "title": "Évolution des performances de la table de routage sous Linux",
+      "description": "Dans des articles précédents, j'ai expliqué comment le noyau Linux gérait les tables de routage et . J'ai suivi l'évolution des performances de recherche , avec l'impact des , ainsi qu'. Cet article met à jour ces chiffres jusqu'à Linux 7.3 et expose les responsables de chaque régression ! 🕵️‍♂️IPv4IPv6entre Linux 2.6.32 et 4.16 pour IPv4mitigations contre Meltdown et Spectreentre Linux 2.6.39 et 4.18 pour IPv6 J'ai mesuré les performances sur un , un loué à tournant à 2,4 GHz sans le mode…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-linux-performance-ipv4-ipv6-table-routage",
+      "pubDate": "2026-11-09T20:07:32.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://media-bernat-ch.b-cdn.net/images/linux/ipv6-radix-perf-2026.b057a30dbcf68e.svg",
+      "type": "blog"
+    },
+    {
+      "id": "adf74a2081f4",
+      "title": "Jane 8: modern PHP models, Symfony HttpClient and lazy API calls",
+      "description": "Jane 7.14 shipped on September 1st. Exactly one month later, we tagged 8.0.0: a major version, with breaking changes we chose one by one. A major version of a code generator is a strange beast: it changes the code it writes, and therefore the code you write. We did not take that lightly. Jane generated PSR-18 clients with HTTPlug plugins and getter/setter models for years, and they worked. They also stacked three abstraction layers over an HTTP transport, hid the real shape of your data behind…",
+      "link": "https://jolicode.com/blog/jane-8-modern-php-models-symfony-httpclient-and-lazy-api-calls",
+      "pubDate": "2026-11-09T15:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2fe119574fef",
+      "title": "J'ai créé un mini-film de science-fiction avec seulement 3 prompts IA !",
+      "description": "🚀 Créez votre première vidéo IA avec Higgsfield ! Les nouveaux utilisateurs peuvent bénéficier de *jusqu'à 50 % de réduction sur leur premier achat* : https://higgsfield.ai/s/make-your-first-ai-video-yt-pentiminax-gFxtfg 🎬 Comment créer une vidéo IA réaliste de A à Z en 2026, sans caméra ni compétences en montage ? Dans ce tutoriel complet Higgsfield AI, je vous montre comment créer un mini-film de science-fiction à partir de simples prompts. On commence par générer un explorateur spatial…",
+      "link": "https://www.youtube.com/watch?v=uINDTO7vfpU",
+      "pubDate": "2026-11-09T14:59:53.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/uINDTO7vfpU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "uINDTO7vfpU"
+    },
+    {
+      "id": "ab182685eb89",
+      "title": "API Platform Conference 2026 - Mathias Arlaud - DDD x API Platform: 4 years later",
+      "description": "In 2022, we explored how Domain-Driven Design principles could be applied with API Platform 3, which helped making API Platform better. Four years later, API Platform 4, PHP 8.5 and Symfony 8 have reshaped the landscape. Time to revisit the topic! API Platform is the most productive framework for building web APIs. Its conventions and Doctrine integration make it incredibly fast to get started. But when business complexity grows, that simplicity slowly becomes a constraint. This talk picks up…",
+      "link": "https://www.youtube.com/watch?v=BZd6PGYzFXs",
+      "pubDate": "2026-11-09T13:50:39.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/BZd6PGYzFXs/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "BZd6PGYzFXs"
+    },
+    {
+      "id": "6d4195356915",
+      "title": "API Platform Conference 2026 - Yohan Giarelli - Quand PHP devient plus que Full Stack",
+      "description": "Quand on parle IoT ou informatique embarquée, on pense à C/C++, Javascript, Python mais pas à PHP… Réparons cet affront en étudiant ensemble les possibilités que nous offre PHP dans le monde de l’embarqué ! Nous allons voir ensemble une application assez simple, nous permettant de déverrouiller des casiers à colis depuis une PWA, basée sur PHP, Symfony et Mercure… Pas parce que c’est utile, mais parce que c’est possible ! ___________ More info: https://api-platform.com/con/2026/ X:…",
+      "link": "https://www.youtube.com/watch?v=U8v5ql7yBoY",
+      "pubDate": "2026-11-09T13:50:32.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/U8v5ql7yBoY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "U8v5ql7yBoY"
+    },
+    {
+      "id": "632792e1ae87",
+      "title": "API Platform Conference 2026 - Jérémy Nikolic - Symfony on Laravel Cloud: What Could Go Wrong?",
+      "description": "Symfony on Laravel Cloud: What Could Go Wrong? (Spoiler: Not Much) Laravel Cloud is initially built for Laravel. Symfony is not Laravel. So when our team decided to deploy our Symfony application on Laravel Cloud, eyebrows were raised, including our own. In this talk, we’ll walk through what happened next: the assumptions we challenged, the surprises we didn’t expect, and why the experience turned out to be far smoother than anyone predicted. You don’t need to know Laravel to follow along, just…",
+      "link": "https://www.youtube.com/watch?v=bbzTNaNjVa0",
+      "pubDate": "2026-11-09T13:50:29.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/bbzTNaNjVa0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "bbzTNaNjVa0"
+    },
+    {
+      "id": "3c7193226a70",
+      "title": "API Platform Conference 2026 - Matthieu Werner - API Platform : Le Hub Sémantique qu'on mérite",
+      "description": "API Platform : Le Hub Sémantique qu'on mérite (et comment piloter du Go avec) Faire du microservice, c’est souvent troquer une stack cohérente contre une armée de petits services qui parlent tous un dialecte potentiellement différent. On choisit Go pour la perf brute (et parce que c’est cool), mais on finit avec des APIs “plates” qui ont perdu toute la richesse sémantique qu’on aime tant dans l’écosystème PHP. L’idée de ce talk ? Arrêter de forcer Go à faire du Web élégant et arrêter de forcer…",
+      "link": "https://www.youtube.com/watch?v=ZuTQ3QScYik",
+      "pubDate": "2026-11-09T13:50:24.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/ZuTQ3QScYik/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "ZuTQ3QScYik"
+    },
+    {
       "id": "ae0587a1b2dc",
       "title": "Discord prend un risque ÉNORME en passant à Rust ! 😱",
       "description": "Discord se lance dans un pari risqué : reconstruire son application avec Rust et GPUI pour gagner en performances ! Mais remplacer Electron et repenser une application aussi complexe, c'est loin d'être simple. Sécurité, performances, compatibilité, fonctionnalités… Discord doit tout repenser sans perturber ses utilisateurs. Et si les agents IA pouvaient accélérer cette transformation ? #Discord #Rust #Electron #Programmation #IntelligenceArtificielle #Shorts",
@@ -16,6 +217,23 @@
       "image": "https://i.ytimg.com/vi/dhvzotOueDk/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "dhvzotOueDk"
+    },
+    {
+      "id": "37c7521a0877",
+      "title": "Kubedock et GitLab Runner : exécuter vos tests d'intégration avec Testcontainers sur Kubernetes sans Docker-in-Docker",
+      "description": "Comment faire tourner Testcontainers dans un job GitLab Runner sur Kubernetes sans conteneur privilégié : sidecar Kubedock, permissions RBAC, parallélisme, nettoyage, et les cas où un simple service GitLab CI suffit.",
+      "link": "https://blog.ippon.fr/2026/11/09/kubedock-gitlab-runner-testcontainers-kubernetes/",
+      "pubDate": "2026-11-09T08:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGdpdGxhYnxlbnwwfHx8fDE3OTQyMzA3OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000",
+      "type": "blog"
     },
     {
       "id": "48edcf566e62",

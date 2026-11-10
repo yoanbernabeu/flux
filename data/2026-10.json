@@ -1716,6 +1716,21 @@
       "type": "blog"
     },
     {
+      "id": "ac1347105011",
+      "title": "Forum PHP 2026 : 221 téléphones, 7 minutes de jeu et zéro droit à l'erreur",
+      "description": "Pour l'ouverture du Forum PHP 2026, l'AFUP nous a confié un ice breaker : un jeu multijoueur en temps réel, joué par toute la salle sur téléphone. Retour sur le projet, la stack et les chiffres de la partie.",
+      "link": "https://www.elao.com/blog/elao/forum-php-2026-icebreaker",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ac56cf684fcb",
       "title": "AWS Transform: ce que notre “trousse à outils agentique” automatise vraiment",
       "description": "Cinq familles d'agents, une modernisation Python exécutée de bout en bout avec la CLI atx, ses coûts et ses pièges : le deuxième volet de notre série sur la migration augmentée par l'IA précise la part d'AWS et celle du travail d'expert.",

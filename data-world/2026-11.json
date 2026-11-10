@@ -2,6 +2,184 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "bd47509df3e8",
+      "title": "Human-Pilled",
+      "description": "The following article originally appeared on the Asimov’s Addendum Substack and is being republished here with the author’s permission. This essay is based on my conversation with Demetrios Brinkmann for AAIF Live, recorded before my keynote at AGNTCon + MCPCon North America in San Jose on October 23, 2026. It has been edited and rearranged […]",
+      "link": "https://www.oreilly.com/radar/human-pilled/",
+      "pubDate": "2026-11-10T12:02:31.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d801bceffdcf",
+      "title": "New in Symfony 8.2: AssetMapper Improvements",
+      "description": "AssetMapper lets you use modern JavaScript and CSS without a build step, relying on native browser features like import maps. Symfony 8.2 improves it in several areas: security of third-party packages, control over what the import map exposes, and a smoother…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-assetmapper-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-10T08:14:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/oby.picture",
+      "type": "blog"
+    },
+    {
+      "id": "c80838f46e53",
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "description": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million…",
+      "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "pubDate": "2026-11-10T07:28:21.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2635939a1fb2",
+      "title": "Typed Graphs, Checked Types: Graph as Code for Agentic Engineering and Data Quality",
+      "description": "Graphs usually get a bad rap: “what are they good for?”, “there’s no schema”. But there are also moments when they are superior to tables and other formats, and agents like them a lot. Typed graphs, meaning graphs with clear data types attached, help even more, especially with types that can be checked and verified. If you can define it declaratively, that helps collaboration by giving humans and agents a place to work together, but also data quality, as you can version it and extensively run…",
+      "link": "https://www.ssp.sh/blog/context-as-code-typed-graphs-checked/",
+      "pubDate": "2026-11-10T06:00:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f932ce868872",
+      "title": "Quoting Prompting Claude Fable 5.2",
+      "description": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure, even when that repeated existing code. [...] If you want the model to improve the structure as it works, say that the code is its own: This codebase is yours: what it's for and how it's built are your call, and you'll…",
+      "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+      "pubDate": "2026-11-10T05:34:14.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4312adb7671",
+      "title": "Yonkers Rises",
+      "description": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and átomos around manhattan and queens and Brooklyn, use openstreetmap mapping data It correctly deduced that \"átomos\" was a mobile keyboard typo for…",
+      "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+      "pubDate": "2026-11-10T03:53:04.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "86b4ba3155e4",
+      "title": "llm-anthropic 0.31",
+      "description": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis. Anthropic say it \"solved two open problems in the physics of black holes\", so clearly their internal benchmarks have become more ambitious! I've added the new models to llm-anthropic, so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2 \"Generate…",
+      "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "pubDate": "2026-11-09T23:58:46.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ffd0277ad7cd",
+      "title": "Locating the source of a mysterious beep with Claude",
+      "description": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping. The beeps were far enough apart that standing in the room and trying to determine the source of the noise was frustrating, and I really didn't want to dig through every one of those boxes. So I had Claude Code build Beep Locator, a software system for triangulating the source of a mysterious beep using multiple devices scattered…",
+      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "pubDate": "2026-11-09T23:57:21.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8ab7be2dc89f",
+      "title": "Pages in Grok Bot, clearly explained:",
+      "description": "...covered with a full hands-on video demo.",
+      "link": "https://blog.dailydoseofds.com/p/pages-in-grok-bot-clearly-explained",
+      "pubDate": "2026-11-09T23:04:15.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!vqlA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cfac875-3603-4ccd-82e3-4dc6c6b0ffb6_2752x1536.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "bbccc55ff92e",
+      "title": "Symfony AI & MCP Hackathon: 50 Teams In, Two More Judges, and One More Prize",
+      "description": "The Symfony AI & MCP Hackathon is well under way, with around 50 teams building and submissions open until 22 November. Three things have changed since we started. Two more judges Florian Bauer — Member of Technical Staff at OpenAI Fabien Potencier…",
+      "link": "https://symfony.com/blog/symfony-ai-and-mcp-hackathon-50-teams-in-two-more-judges-and-one-more-prize?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-09T16:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c711eef631b1",
+      "title": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+      "description": "Socket’s Threat Research Team analyzed the November 9, 2026 compromise of Ethersphere’s release pipeline, in which a threat actor used the project’s own GitHub automation to publish a malicious @ethersphere/bee-js 13.3.0 to npm and a trojanized Swarm Desktop 0.56.2 release on GitHub. Both artifacts carry a small loader that fetches JavaScript from api[.]frameworkmetrics[.]xyz and executes it with full Node.js privileges. The Ethereum smart contract that tells the later stages where to connect,…",
+      "link": "https://socket.dev/blog/bee-js-compromise?utm_medium=feed",
+      "pubDate": "2026-11-09T14:52:15.147Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/0a63713c724d533a8c3cff82f13e9fa6a3ce17fb-573x537.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "5ac22b91de0c",
+      "title": "SymfonyCon Warsaw 2026: If You Build It, They Won't Come",
+      "description": "Looking to exchange ideas with other Symfony builders? SymfonyCon Warsaw 2026 is happening on Nov 26-27 in Poland, with 3 streams of community talks and social gatherings. 🎤 Speaker announcement Mark your calendars for Greg Qualls, Director of…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-if-you-build-it-they-won-t-come?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-09T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
       "id": "e84307aa66e0",
       "title": "Ding, toasts with real spring physics",
       "description": "Ding is a toast notification library with playful spring physics, built to work with React, Svelte, or plain DOM. The site includes interactive demos for layout, sounds, themes, and different toast behaviors. Read more",
@@ -28,6 +206,20 @@
         "IA"
       ],
       "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/11/image-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "174d32c755b3",
+      "title": "BAIR at CoRL 2026",
+      "description": "The Conference on Robot Learning (CoRL) takes place November 9–12, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sessions, including an Early Career Keynote from Professor Negar Mehr. See below for the full schedule of sessions with BAIR members, including papers co-authored with collaborators at other universities and companies. h2 { border-bottom: 2px solid #003262; padding-bottom: 0.3rem; margin-bottom: 0.2rem; } .corl-day-sub { font-size:…",
+      "link": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+      "pubDate": "2026-11-09T09:00:00.000Z",
+      "source": "BAIR Blog",
+      "sourceUrl": "https://bair.berkeley.edu/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
