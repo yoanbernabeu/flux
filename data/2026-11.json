@@ -2,6 +2,69 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "e97b293194f6",
+      "title": "Anthropic entre en Bourse : Claude ne sera plus jamais pareil ?",
+      "description": "Anthropic prépare son entrée en Bourse avec une valorisation potentielle de 1 400 milliards de dollars ! Mais pourquoi l'entreprise derrière Claude et Claude Code vaut-elle autant ? Et surtout, qu'est-ce que cette IPO pourrait changer pour les utilisateurs de l'IA ? Dans cette vidéo, on décrypte l'introduction en Bourse d'Anthropic, ses chiffres financiers, les coûts gigantesques du développement de l'intelligence artificielle et les conséquences possibles pour Claude, Claude Code et leurs…",
+      "link": "https://www.youtube.com/watch?v=ulnH8RCtlbU",
+      "pubDate": "2026-11-11T10:00:01.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/ulnH8RCtlbU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "ulnH8RCtlbU"
+    },
+    {
+      "id": "0bb39bcddf9c",
+      "title": "Road trip vers l'Espagne, partie 1",
+      "description": "Jour 1 : Paris - Rambouillet – Chartres - Saumur Ça faisait longtemps que j’avais dans la tête cette idée d’aller faire un grand tour de moto prendre plusieurs semaines de vacances, et rouler dans des paysages magnifiques dans des endroits où il y a du soleil seul ou avec des potes et retrouver des potes sur la route. Et le hasard de la vie on fait que c’est devenu possible le 19 octobre 2026, qui se trouve être le jour de mes 60 ans. J’ai chargé la moto, embrassé ma femme lundi matin, jour…",
+      "link": "https://standblog.org/blog/post/2026/11/11/Road-trip-vers-l-Espagne-partie-1",
+      "pubDate": "2026-11-11T09:09:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://pix.diaspodon.fr/storage/m/_v2/40/4796c06ff-5eacf7/uvOtFzb64ihk/BrVDzp8nCg0WYrClKaP6ZOJm8sSWQMA8YhmkQMy9.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "314c3b513372",
+      "title": "#384.src -  Usine logicielle 100% AI: Qui réveille-t-on quand l'usine prend feu ? avec Nikolay Rodionov",
+      "description": "\"tu sais que c'est du code que tu vas devoir jeter à la poubelle assez vite.\" Le D.E.V. de la semaine est Nikolay Rodionov, ingénieur et entrepreneur, fondateur d'Alpic. Avec lui, on plonge dans l'usine logicielle qu'il a construite en quelques mois : des agents autonomes qui codent dans des sandboxes éphémères, des PR qui pleuvent chaque matin, et une équipe de 5 développeurs qui n'a pas grandi malgré la charge. On y parle ownership, code review, quality gates, et de la frontière encore…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/384-3680913dce53",
+      "pubDate": "2026-11-11T04:00:45.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/c5894487-18ae-4d40-92bc-a28c647dfa67.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/2d2ae4ea-acb6-4ff5-883b-3680913dce53.mp3?_=1794315645",
+      "duration": "01:01:41"
+    },
+    {
+      "id": "e720b6e3568f",
+      "title": "Logiciels industriels : concevoir des interfaces pour le terrain",
+      "description": "Dans un entrepôt, un opérateur doit retirer ses gants de sécurité pour appuyer sur un bouton trop petit. Le geste ne prend que quelques secondes, mais il se répète à chaque utilisation. Et lorsque les gants sont obligatoires, le défaut d’ergonomie devient aussi un problème de sécurité. Dans cet épisode de B2Biz, je reçois Maxence […] The post Logiciels industriels : concevoir des interfaces pour le terrain appeared first on Oliviersauvage.com.",
+      "link": "https://oliviersauvage.com/fr/logiciels-industriels-interfaces-terrain/",
+      "pubDate": "2026-11-10T17:11:27.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1966fa7ced3c",
       "title": "CSS responsive : de la jungle à la boîte à outils, interview de Theo Gianella",
       "description": "Théo Gianella, développeur front-end chez Zenika, transforme la jungle du CSS en boîte à outils : responsive et mobile first, Flexbox et Grid, unités relatives et clamp, container queries, scroll state et Baseline pour le support des navigateurs. Il raconte aussi sa reconversion, de la recherche en littérature française au développement web. Interview enregistrée à Devoxx France 2026 par le Studio Devoxx France, animée par Emmanuel Bernard. 0:00 Intro 1:03 Responsive : combien sur 10 ? 3:35…",

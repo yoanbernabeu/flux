@@ -2,6 +2,95 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "3e50eea994a2",
+      "title": "New in Symfony 8.2: Messenger Flows",
+      "description": "Many business processes involve several messages: process a podcast, then optimize it, then release it; charge a card, then ship the order, and cancel it if anything goes wrong. In Messenger, these flows are usually built by having each handler dispatch the…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-messenger-flows?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-11T08:16:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "c99511a3c681",
+      "title": "16 Policy Optimization Methods for LLM Training",
+      "description": "...explained visually, plus how hybrid LLMs shrink the KV cache.",
+      "link": "https://blog.dailydoseofds.com/p/16-policy-optimization-methods-for",
+      "pubDate": "2026-11-11T00:07:01.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!W6LW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc70904f3-7eb3-48e9-8957-93caf292fb80_1024x854.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ebd6f824c481",
+      "title": "Every public API should have a feedback endpoint for agents",
+      "description": "I like this idea very much. Inspired by this tweet, I added a tool to the MCP servers for Oh Dear, There There, and Mailcoach that lets agents report missing MCP or API functionality. If an agent can't complete a task because something is missing, it can send that feedback directly to us. J Jack Sharkey @jsharkey 𝕏 Every public API should have a feedback endpoint for agents When my agent struggles to use your API, it should be able to submit structured feedback directly Your agent should…",
+      "link": "https://freek.dev/3222-every-public-api-should-have-a-feedback-endpoint-for-agents",
+      "pubDate": "2026-11-10T21:19:45.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e5607ea9b345",
+      "title": "llm-gemini 0.36",
+      "description": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else. This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5). Here are three pelicans for the low, medium and high thinking efforts (it defaults to medium). This is the pelican I got for high:…",
+      "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+      "pubDate": "2026-11-10T20:09:44.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3307c0f85c87",
+      "title": "SymfonyCon Warsaw 2026: From 30% to 100%: Fifteen Years of Hearing Loss and Tech",
+      "description": "Interested in where PHP and Symfony are heading? Meet up with the community at SymfonyCon Warsaw 2026 on November 26-27 for two full days of talks and discussions. 🎤 Speaker announcement We are thrilled to present Florian Margaine, Field CTO,…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-from-30-to-100-fifteen-years-of-hearing-loss-and-tech?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-10T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "d8b43aaf621c",
+      "title": "Tuning Laravel Horizon",
+      "description": "Stan Daniels shares a practical checklist for tuning Laravel Horizon, from aligning timeouts and retry_after values to verifying deploy hooks and measuring real queue behavior before adding workers. It is a good reminder that queue performance issues often come down to configuration clarity and instrumentation, not just scaling up blindly. Read more",
+      "link": "https://freek.dev/3217-tuning-laravel-horizon",
+      "pubDate": "2026-11-10T12:30:33.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bd47509df3e8",
       "title": "Human-Pilled",
       "description": "The following article originally appeared on the Asimov’s Addendum Substack and is being republished here with the author’s permission. This essay is based on my conversation with Demetrios Brinkmann for AAIF Live, recorded before my keynote at AGNTCon + MCPCon North America in San Jose on October 23, 2026. It has been edited and rearranged […]",
