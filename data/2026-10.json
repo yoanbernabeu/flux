@@ -151,6 +151,21 @@
       "type": "blog"
     },
     {
+      "id": "d3b59cccfb77",
+      "title": "L'addiction aux fourchettes",
+      "description": "Imaginez la une des journaux demain matin : Fruits, légumes de saison ou burgers dégoulinants : les Français passent en moyenne plus de trois heures par jour à se nourrir. Enquête choc sur le fléau de l’addiction aux fourchettes. Ou encore : Podcasts d’histoire, musique symphonique, débats complotistes : nous passons cinq heures quotidiennes les oreilles vissées à nos enceintes et écouteurs. Faut-il interdire les parois vibrantes ? Absurde ? Évidemment. Pourtant, c’est très exactement le niveau…",
+      "link": "https://boris.schapira.dev/notes/2026-10-addiction-aux-fourchettes/",
+      "pubDate": "2026-10-28T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8b96927e4ee4",
       "title": "Et si votre super idée “innovante” de projet Agentique avait déjà été pensée par votre éditeur de Data Plateforme ?",
       "description": "Et si la and quot;révolution and quot; agentique que vos équipes s’apprêtent à bâtir de toutes pièces était déjà sur les rails, packagée et gouvernée au cœur même de votre Data Plateforme ? Entre promesse d'autonomie et illusion de la nouveauté, l'écosystème data change de paradigme.",

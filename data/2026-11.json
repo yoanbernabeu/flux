@@ -2,6 +2,38 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "e4ecd213843f",
+      "title": "L'usine à vulnérabilités : R0 planifie, R1 audite, R2 contre-expertise",
+      "description": "TL;DR Suite de l’article de septembre : je concluais que trouver des vulns était devenu trivial et que le goulot d’étranglement, c’était moi, l’humain dans la boucle. Depuis, j’ai industrialisé la partie triage : mon repo d’audit est devenu une usine à findings, avec des agents aux rôles distincts (planification, audit, contre-expertise) et une base qui mémorise toutes les pistes, y compris celles qu’on a écartées. Les chiffres qui justifient l’usine : mes rapports n’étaient presque jamais…",
+      "link": "https://blog.zwindler.fr/2026/11/12/usine-agentique-a-findings/",
+      "pubDate": "2026-11-12T11:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/11/20250611_191900.webp",
+      "type": "blog"
+    },
+    {
+      "id": "def9961d5387",
+      "title": "Anthropic entre en Bourse ? Ce que ça change pour Claude !",
+      "description": "Anthropic, l'entreprise derrière Claude et Claude Code, pourrait entrer en Bourse. Mais pourquoi une IPO ? Comment fonctionne une introduction en Bourse et quelles conséquences pour l'avenir de l'IA ? On décrypte les enjeux financiers et ce que cela pourrait changer pour les utilisateurs de Claude. #Anthropic #ClaudeAI #ClaudeCode #IPO #IntelligenceArtificielle #Shorts",
+      "link": "https://www.youtube.com/watch?v=VBA1P4ncvcQ",
+      "pubDate": "2026-11-11T23:11:10.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/VBA1P4ncvcQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "VBA1P4ncvcQ"
+    },
+    {
       "id": "e97b293194f6",
       "title": "Anthropic entre en Bourse : Claude ne sera plus jamais pareil ?",
       "description": "Anthropic prépare son entrée en Bourse avec une valorisation potentielle de 1 400 milliards de dollars ! Mais pourquoi l'entreprise derrière Claude et Claude Code vaut-elle autant ? Et surtout, qu'est-ce que cette IPO pourrait changer pour les utilisateurs de l'IA ? Dans cette vidéo, on décrypte l'introduction en Bourse d'Anthropic, ses chiffres financiers, les coûts gigantesques du développement de l'intelligence artificielle et les conséquences possibles pour Claude, Claude Code et leurs…",
@@ -49,6 +81,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/2d2ae4ea-acb6-4ff5-883b-3680913dce53.mp3?_=1794315645",
       "duration": "01:01:41"
+    },
+    {
+      "id": "e0b2e468d3ea",
+      "title": "Les tests passent. Ça ne dit pas que ça marche.",
+      "description": "Je développe mes produits avec un agent de code. Il écrit, je cadre, je relis, je décide. Cette façon de travailler pose une question que tout le monde finit par se poser : comment savoir que ce qui a été produit fait vraiment ce qui était demandé ? Ma réponse tient en deux étages. Le premier s’appelle speckit-guard. Le second est un banc de test dans une machine virtuelle. Cet article explique pourquoi le premier ne suffit pas, et ce que le second apporte.",
+      "link": "https://kolapsis.com/blog/how-to-validate-ai-written-code/",
+      "pubDate": "2026-11-11T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "e720b6e3568f",

@@ -2,6 +2,212 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "cf5e708fcab0",
+      "title": "Why Git Needs Help: Moving from Files to Systems for Source Control",
+      "description": "The shift to agentic reality When Git was designed in 2005, Linus Torvalds solved a brilliant problem for humans collaborating over terminal windows by trading line-by-line diffs. Fast-forward to 2026: Autonomous coding agents don’t think in flat text files or line breaks. They reason across syntax trees, execution traces, call graphs, and type constraints. In […]",
+      "link": "https://www.oreilly.com/radar/why-git-needs-help-moving-from-files-to-systems-for-source-control/",
+      "pubDate": "2026-11-12T11:54:27.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "415d3e84f9ca",
+      "title": "New in Symfony 8.2: Form Improvements",
+      "description": "Symfony 8.2 brings many improvements to the Form component, from new form types and options to more flexible multi-step forms and form events. Defining Ranges with BoundsType…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-form-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-12T08:06:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/sebastien76.picture",
+      "type": "blog"
+    },
+    {
+      "id": "5c30b8f5a9d9",
+      "title": "Find Production Agent Failures Before Users Do",
+      "description": "...explained with a hands-on walkthrough!",
+      "link": "https://blog.dailydoseofds.com/p/find-production-agent-failures-before",
+      "pubDate": "2026-11-11T23:33:57.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!fd04!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F365e2adb-10d9-4795-9626-a249a4c75965_2752x1536.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "485ec329c8b7",
+      "title": "Gemini Decisions API",
+      "description": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million. Jev is text (and JSON) only.…",
+      "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "pubDate": "2026-11-11T22:03:25.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "967141e571a3",
+      "title": "aws-emulator",
+      "description": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It currently requires Docker to run on macOS or Windows. I'm hoping they fix that in the future - it would be great…",
+      "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+      "pubDate": "2026-11-11T21:18:30.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ef29ebd80732",
+      "title": "PHP’s Profile is Looking Up",
+      "description": "November is here, and as we head into the final stretch of the year, it’s a great time to reflect on how much the PHP community continues to grow and evolve. Whether you’re tackling a challenging project, exploring new tools, or simply looking for ways to sharpen your skills, this month’s issue of PHP Architect […] The post PHP’s Profile is Looking Up appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/magazine/2026/11/2026-11-php-s-profile-is-looking-up/",
+      "pubDate": "2026-11-11T20:38:06.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8ba32157965a",
+      "title": "Browse tools.simonwillison.net by tag",
+      "description": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts used by each tool. The homepage now features tag clouds for browsing by each of those categories of tag: Tags: javascript, tools, ai, generative-ai, llms, claude, vibe-coding",
+      "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+      "pubDate": "2026-11-11T18:42:50.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "460872e68e9e",
+      "title": "llm 0.37.2",
+      "description": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w. LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel reported two ways this could accidentally send your configured OpenAI API key to one of those providers: if the key named by api_key_name had never been stored, or if a responses:…",
+      "link": "https://simonwillison.net/2026/Nov/11/llm/",
+      "pubDate": "2026-11-11T17:19:52.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d4dbcd7c8d53",
+      "title": "Community Corner Podcast: Zachary Watkins Codes With His Voice, Feet, and Face",
+      "description": "In this episode, Scott talks with Zach Watkins about coding through osteoarthritis with Talon Voice, a split keyboard mounted to his chair, and foot pedals with macOS head tracking. Chapters: 00:00 Meet Zach Watkins 01:26 Numb hands and an osteoarthritis diagnosis 03:21 One week searching for answers 06:30 Patching Talon Voice for PHP 10:03 […] The post Community Corner Podcast: Zachary Watkins Codes With His Voice, Feet, and Face appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/community-corner-podcast-zachary-watkins-codes-with-his-voice-feet-and-face/",
+      "pubDate": "2026-11-11T17:00:02.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/07/Banners-OurCVEs-1-768x141.png",
+      "type": "blog"
+    },
+    {
+      "id": "696a0c99c5e6",
+      "title": "Where Are the “Killer Apps” of AI?",
+      "description": "Most of today’s AI entrepreneurs and social media enthusiasts are young. AI is the first technology revolution they’ve lived through. They don’t remember how unbelievably exciting it was in the late 1970s to get your own computer, instead of struggling to get time on one of the vast machines chugging away in what used to […]",
+      "link": "https://www.oreilly.com/radar/where-are-the-killer-apps-of-ai/",
+      "pubDate": "2026-11-11T15:43:41.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/11/image-7-1600x1199.png",
+      "type": "blog"
+    },
+    {
+      "id": "6e96a802abbc",
+      "title": "Anthropic's IPO roadshow video",
+      "description": "Anthropic&#x27;s IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Claude across AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs. I'm not sure why there's no official video transcript, but here's one that I extracted using MacWhisper.…",
+      "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "pubDate": "2026-11-11T15:11:59.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "edd7a288b587",
+      "title": "SymfonyCon Warsaw 2026: Beyond Mocks",
+      "description": "Come be part of the conversation at SymfonyCon Warsaw 2026 on November 26-27. Two days, 3 parallel tracks, and a warm community atmosphere in Poland. 🎤 Speaker announcement We are delighted to welcome Imen Ezzine, Developer, Sensiolabs, as she…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-beyond-mocks?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-11T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "536a19f9d1f1",
+      "title": "Your Laravel queue workers keep 8 copies of your app in memory",
+      "description": "This post explains why Laravel queue workers and Horizon supervisors each keep their own compiled copy of your app in memory, and how that adds up fast on smaller servers. It also introduces queue-prefork, a package that shares opcache across forked workers and dramatically cuts memory usage without changing job throughput. Read more",
+      "link": "https://freek.dev/3218-your-laravel-queue-workers-keep-8-copies-of-your-app-in-memory",
+      "pubDate": "2026-11-11T12:31:09.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ee7e9db3750",
+      "title": "Measuring AI’s Unintended Consequences",
+      "description": "The following article was originally published on James Shore’s Successful Software blog and is being republished here with the author’s permission. AI is great for making teams faster. But is it sustainable? What about maintainability, burnout, and lock-in? This is part 3 of my series on assessing AI’s impact on software development. In part 1, […]",
+      "link": "https://www.oreilly.com/radar/measuring-ais-unintended-consequences/",
+      "pubDate": "2026-11-11T12:11:10.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/11/image-3-1600x989.png",
+      "type": "blog"
+    },
+    {
       "id": "3e50eea994a2",
       "title": "New in Symfony 8.2: Messenger Flows",
       "description": "Many business processes involve several messages: process a podcast, then optimize it, then release it; charge a card, then ship the order, and cancel it if anything goes wrong. In Messenger, these flows are usually built by having each handler dispatch the…",
