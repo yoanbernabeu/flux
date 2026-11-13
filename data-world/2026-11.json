@@ -2,6 +2,110 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "fb4e96acbc6d",
+      "title": "New in Symfony 8.2: Validator Improvements",
+      "description": "Inline Rules with the Callback Constraint Contributed by Javier Eguiluz in…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-validator-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-13T08:16:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/javier.eguiluz.picture",
+      "type": "blog"
+    },
+    {
+      "id": "d6e3c249c936",
+      "title": "The PHP Podcast 2026.11.12",
+      "description": "🎙️ PHP Podcast – November 12, 2026 Hosts: Joe Ferguson, Sara Golemon & Holly Schilling A surprise RC7, assembly-level ABI detective work, Claude landing commits in php-src, a survey on why nobody upgrades, Portuguese wiring codes, and the corporate spy saga that ate your RAM. Just an “off week.” 🐘 The Surprise RC7 and the […] The post The PHP Podcast 2026.11.12 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-11-12/",
+      "pubDate": "2026-11-13T00:26:59.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f399.png",
+      "type": "blog"
+    },
+    {
+      "id": "5b86eed0286e",
+      "title": "llm-gemini 0.37",
+      "description": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Argon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20…",
+      "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "pubDate": "2026-11-12T22:55:19.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3e018bc12c45",
+      "title": "How Top AI Teams Scale to 1,000+ Agents",
+      "description": "...explained visually, plus a Claude Code and Codex walkthrough.",
+      "link": "https://blog.dailydoseofds.com/p/how-top-ai-teams-scale-to-1000-agents",
+      "pubDate": "2026-11-12T22:52:10.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/ef84ddc6-9b5f-46b9-b936-e112de4446b6_1983x793.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "f2a3b36875d9",
+      "title": "Cyberattacks Are Skyrocketing in Japan as Researchers Trace AI-Assisted Intrusions",
+      "description": "Japan is facing an extraordinary surge in cyberattacks, with a record 233 security incidents publicly disclosed in October alone. That's roughly 2.4 times the previous monthly record, according to Trend Micro data reported by TV Asahi. Cyberattacks are rising around the world, but the pace of disclosures in Japan is staggering. Nearly every day has dragged another affected company, service provider, or public institution into the headlines. The volume of exposed information is growing even…",
+      "link": "https://socket.dev/blog/japan-cyberattack-surge?utm_medium=feed",
+      "pubDate": "2026-11-12T14:51:52.947Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/0c51b57cb903f52ce5043e01b61af6348114ee02-1672x941.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "f9f761517b71",
+      "title": "Changement de décor pour SymfonyLive Paris 2027 : direction l'Espace 42 pour une édition renouvelée !",
+      "description": "Pendant de belles années, la Cité Internationale Universitaire de Paris a été le théâtre de nos retrouvailles, de nos échanges passionnés et de nos plus beaux souvenirs de communauté. C'était un chapitre incroyable mais, aujourd'hui, il est temps de donner…",
+      "link": "https://symfony.com/blog/changement-de-decor-pour-symfonylive-paris-2027-direction-l-espace-42-pour-une-edition-renouvelee?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-12T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/Banner-BLOG.png",
+      "type": "blog"
+    },
+    {
+      "id": "b8f16dde3c0f",
+      "title": "Using Laravel Boost for package development with Orchestra Testbench",
+      "description": "Rias Van der Veken shows how to make Laravel Boost work nicely in package development by pairing it with Orchestra Testbench. The article covers a few smart tweaks so Boost reads and writes in the package root, works through a custom artisan file, and stays tailored for package workflows instead of full Laravel apps. Read more",
+      "link": "https://freek.dev/3219-using-laravel-boost-for-package-development-with-orchestra-testbench",
+      "pubDate": "2026-11-12T12:30:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cf5e708fcab0",
       "title": "Why Git Needs Help: Moving from Files to Systems for Source Control",
       "description": "The shift to agentic reality When Git was designed in 2005, Linus Torvalds solved a brilliant problem for humans collaborating over terminal windows by trading line-by-line diffs. Fast-forward to 2026: Autonomous coding agents don’t think in flat text files or line breaks. They reason across syntax trees, execution traces, call graphs, and type constraints. In […]",

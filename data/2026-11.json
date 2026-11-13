@@ -2,6 +2,148 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "bf33d99556e0",
+      "title": "Comprendre Git : Les worktree",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/git-worktree-2356 Avec git il est possible de travailler sur plusieurs fonctionnalité à l'aide de branche, mais lorsque l'on passe d'une branche à l'autre cela change le code dans notre copie de travaille. Avec les **worktree** on peut créer une copie du projet lorsque l'on crée une branche ce qui permet de travailler sur plusieurs branches en parallèles. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium…",
+      "link": "https://www.youtube.com/watch?v=PxXHoCTd6YQ",
+      "pubDate": "2026-11-13T10:00:02.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/PxXHoCTd6YQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "PxXHoCTd6YQ"
+    },
+    {
+      "id": "6a89be7b9e10",
+      "title": "#362.exe - Le LEAN à l'ère de l'IA: Réapprendre à produire du code (vraiment) Lean avec l'IA par Jordan Nourry",
+      "description": "Pour l'épisode #362 je recevais Yacine Hmito. On en débrief avec Jordan. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/362-60d955870338",
+      "pubDate": "2026-11-13T04:00:41.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/a1a2f062-9387-43eb-ab07-60d955870338.mp3?_=1794488441",
+      "duration": "15:00"
+    },
+    {
+      "id": "2bfaa8593609",
+      "title": "NVIDIA : Le scandale d’espionnage qui a fait tomber Jensen Huang 😱",
+      "description": "Jensen Huang quitte NVIDIA après un énorme scandale mêlant espionnage chinois présumé, Alice Huang et des milliards de dollars de puces IA. Pourquoi les services de renseignement américains s'intéressent-ils à Megaspeed ? Comment le patron de NVIDIA s'est-il retrouvé au cœur de cette affaire ? Retour sur une crise majeure pour le géant de l'intelligence artificielle. #NVIDIA #JensenHuang #IntelligenceArtificielle #Shorts #Tech",
+      "link": "https://www.youtube.com/watch?v=YlBz1_xqczE",
+      "pubDate": "2026-11-12T20:28:20.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/YlBz1_xqczE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "YlBz1_xqczE"
+    },
+    {
+      "id": "36ffe5d60e54",
+      "title": "NVIDIA : Comment Jensen Huang a perdu son empire ?",
+      "description": "🚨 *Scandale NVIDIA : Jensen Huang quitte son poste de PDG après 33 ans à la tête du géant de l'intelligence artificielle.* Une affaire mêlant soupçons d'espionnage chinois, relations extraconjugales et enquête interne provoque une crise historique chez NVIDIA. Le 12 novembre 2026, NVIDIA annonce officiellement la démission de Jensen Huang, son cofondateur et PDG emblématique. Colette Kress, jusqu'ici directrice financière, prend les commandes en tant que PDG par intérim. Mais comment le…",
+      "link": "https://www.youtube.com/watch?v=Fvc5FY2B158",
+      "pubDate": "2026-11-12T17:30:20.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Fvc5FY2B158/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Fvc5FY2B158"
+    },
+    {
+      "id": "827ddaa90703",
+      "title": "Secret Santa in 2026: exclusions, Slack Connect, and a fresh coat of paint",
+      "description": "Every year since 2015, right when the first fairy lights go up, Secret Santa comes out of hibernation. The idea has not changed: sign in with Slack, Discord or Webex, pick the participants, and everyone gets a private message with the name of the person they will be buying a gift for. No account, no sign-up, no ads, and no database either: the draw lives in your session and is gone a few hours later. Ten years in, the counter shows a bit more than 30,000 draws and 300,000 participants since we…",
+      "link": "https://jolicode.com/blog/secret-santa-in-2026-exclusions-slack-connect-and-a-fresh-coat-of-paint",
+      "pubDate": "2026-11-12T14:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/secret-santa-2026/channels.png",
+      "type": "blog"
+    },
+    {
+      "id": "54307793bdd9",
+      "title": "Secret Santa 2026 : Slack Connect, exclusions et un coup de neuf",
+      "description": "Chaque année depuis 2015, au moment où les premières guirlandes s’allument, Secret Santa reprend du service. Le principe n’a pas changé : vous vous connectez avec Slack, Discord ou Webex, vous choisissez les participants et chacun reçoit en message privé le nom de la personne à qui offrir un cadeau. Pas de compte, pas d’inscription, pas de pub et pas de base de données non plus : le tirage vit dans votre session et disparaît quelques heures plus tard. Dix ans plus tard, le compteur affiche un…",
+      "link": "https://jolicode.com/blog/secret-santa-2026-slack-connect-exclusions-et-un-coup-de-neuf",
+      "pubDate": "2026-11-12T14:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/secret-santa-2026/channels.png",
+      "type": "blog"
+    },
+    {
+      "id": "fc843f712b81",
+      "title": "FrankenPHP 1.13.5 et Caddy 2.11.9 : des versions renforcées grâce à l’OSS Scanner d’Anthropic",
+      "description": "FrankenPHP 1.13.5 et Caddy 2.11.9 corrigent plusieurs failles, souvent trouvées par l'OSS Scanner d'Anthropic. Découvrir ce qui change dans vos outils. Cet article, FrankenPHP 1.13.5 et Caddy 2.11.9 : des versions renforcées grâce à l’OSS Scanner d’Anthropic, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/frankenphp-1-13-5-caddy-2-11-9-correctifs-securite",
+      "pubDate": "2026-11-12T14:20:27.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/computer-screen-1024x724.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8fcba1b87777",
+      "title": "Road trip vers l'Espagne, partie 2",
+      "description": "Jour 5 : Castejon de Sos - Sos del Rey Catolico Le lendemain, après un petit déjeuner typiquement local, à savoir des tranches de saucisson, de la sauce tomate avec de l’huile d’olive sur du pain et une tranche d’omelette aux pommes de terre accompagné de thé et de café, je repars sous un ciel plutôt bleu en mangeant les Pyrénées qui sont sur ma droite. Je commence par traverser des gorges de toute beauté. La route est étroite et équipé de zones ou les véhicules peuvent se croiser. Je m’arrête…",
+      "link": "https://standblog.org/blog/post/2026/11/12/Road-trip-vers-l-Espagne-partie-2",
+      "pubDate": "2026-11-12T14:19:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://pix.diaspodon.fr/storage/m/_v2/40/4796c06ff-5eacf7/qWchjbiLfpmd/zV5U34Z7zF95Rt6t93WwXbltBjIDS1aH39FtKt4C.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8e0bab27a02a",
+      "title": "Agents IA : la revanche des seniors",
+      "description": "Les agents IA transforment profondément la manière dont nous pratiquons certains métiers… une transformation qui mettrait les plus jeunes de côté et valoriserait les seniors ? À voir… Quand tout le monde peut créer avec l’IA Le problème avec les agents IA et l’IA générative, c’est qu’ils vont donner les mêmes compétences à beaucoup de […] The post Agents IA : la revanche des seniors appeared first on Oliviersauvage.com.",
+      "link": "https://oliviersauvage.com/fr/agents-ia-la-revanche-des-seniors/",
+      "pubDate": "2026-11-12T13:56:03.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e4ecd213843f",
       "title": "L'usine à vulnérabilités : R0 planifie, R1 audite, R2 contre-expertise",
       "description": "TL;DR Suite de l’article de septembre : je concluais que trouver des vulns était devenu trivial et que le goulot d’étranglement, c’était moi, l’humain dans la boucle. Depuis, j’ai industrialisé la partie triage : mon repo d’audit est devenu une usine à findings, avec des agents aux rôles distincts (planification, audit, contre-expertise) et une base qui mémorise toutes les pistes, y compris celles qu’on a écartées. Les chiffres qui justifient l’usine : mes rapports n’étaient presque jamais…",
