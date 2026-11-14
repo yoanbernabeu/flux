@@ -76,6 +76,20 @@
       "type": "blog"
     },
     {
+      "id": "1793a1d6aeaf",
+      "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI ",
+      "description": "Plus, a live event with Robin Sloan!",
+      "link": "https://importai.substack.com/p/import-ai-471-why-hugging-face-worries",
+      "pubDate": "2026-08-31T13:31:06.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
       "id": "46123c4b9b73",
       "title": "Build Your Own AI-Powered Slack Bot with the Laravel AI SDK",
       "description": "In this article, we’ll build an AI-powered Slack bot with the Laravel AI SDK. Unlike tools such as Claude Tag, it can switch AI providers, answer questions, execute tasks, and retrieve information from a knowledge base you control. Read more",
@@ -688,6 +702,20 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8abc3244a14b",
+      "title": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye ",
+      "description": "Differential acceleration of cyber, math, and AI",
+      "link": "https://importai.substack.com/p/import-ai-470-no-rights-for-machines",
+      "pubDate": "2026-08-24T13:12:40.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {
@@ -1441,6 +1469,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5cd321603458",
+      "title": "Import AI 469: Science AI; RSI simulator; and Zuck's technological pessimism",
+      "description": "The new frontier of AI is developing capable autonomous researchers",
+      "link": "https://importai.substack.com/p/import-ai-469-science-ai-rsi-simulator",
+      "pubDate": "2026-08-17T13:05:36.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {
@@ -2209,6 +2251,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!RGTf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75694f25-937d-456a-af02-886c04be7025_1756x826.png",
+      "type": "blog"
+    },
+    {
+      "id": "f22709272110",
+      "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing ",
+      "description": "Which galaxy will you choose?",
+      "link": "https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench",
+      "pubDate": "2026-08-10T12:32:20.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {
@@ -3458,6 +3514,20 @@
         "Web"
       ],
       "image": "https://github.com/nicolas-grekas.png",
+      "type": "blog"
+    },
+    {
+      "id": "c1500e93189d",
+      "title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+      "description": "When do we build the moon arcology?",
+      "link": "https://importai.substack.com/p/import-ai-467-self-sustaining-ai",
+      "pubDate": "2026-08-03T13:31:22.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {

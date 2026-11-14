@@ -2,6 +2,37 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "0a766b8eeb41",
+      "title": "Anthropic’s $1.4 Trillion IPO: The Most Fascinating Part Isn’t the Valuation. It’s Who Gets Paid.",
+      "description": "Anthropic could be worth $1.4 trillion. But what if the biggest winners of the AI revolution aren't the companies building the models, but the ones selling them the infrastructure?",
+      "link": "https://upskiller.substack.com/p/anthropics-14-trillion-ipo-the-most",
+      "pubDate": "2026-11-13T16:18:29.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!XRhA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7968f910-1505-4401-82f9-2ee13e467bc0_1542x1042.png",
+      "type": "blog"
+    },
+    {
+      "id": "5540bde74641",
+      "title": "Être fail-safe, c'est avant tout une question produit",
+      "description": "La résilience n'est pas qu'une affaire de retry et de DLQ : sans décision produit, ces mécanismes provoquent doublons, fausses alertes et incohérences. Une méthode pour cadrer les failure paths dès les ateliers produit.",
+      "link": "https://blog.ippon.fr/2026/11/13/resilience-fail-safe-question-produit/",
+      "pubDate": "2026-11-13T12:58:20.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/fail-safe-safe-to-fail.jpg",
+      "type": "blog"
+    },
+    {
       "id": "bf33d99556e0",
       "title": "Comprendre Git : Les worktree",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/git-worktree-2356 Avec git il est possible de travailler sur plusieurs fonctionnalité à l'aide de branche, mais lorsque l'on passe d'une branche à l'autre cela change le code dans notre copie de travaille. Avec les **worktree** on peut créer une copie du projet lorsque l'on crée une branche ce qui permet de travailler sur plusieurs branches en parallèles. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium…",
@@ -16,6 +47,22 @@
       "image": "https://i.ytimg.com/vi/PxXHoCTd6YQ/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "PxXHoCTd6YQ"
+    },
+    {
+      "id": "fbb52ad2818f",
+      "title": "30 heures au lieu de 11 jours",
+      "description": "Mais aussi : Jensen Huang quitte Nvidia, Claude s’invite dans Google Meet et Meta sort un modèle à 0,10 dollar",
+      "link": "https://codecodecoders.substack.com/p/30-heures-au-lieu-de-11-jours",
+      "pubDate": "2026-11-13T09:47:22.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!fdlD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2677488-e8bb-4550-ba75-82acad07019b_1456x816.png",
+      "type": "blog"
     },
     {
       "id": "6a89be7b9e10",
@@ -36,6 +83,35 @@
       "duration": "15:00"
     },
     {
+      "id": "a8810e64bbab",
+      "title": "GRUB vs. RAID sur les systèmes Red Hat",
+      "description": "GRUB vs. RAID sur les systèmes Red Hat {align=right} Ce matin j'ai fait un peu de maintenance informatique dans mon réseau local, et j'en ai profité pour intégrer la dernière mouture de mes playbooks Ansible. Résultat des courses : deux machines qui ne démarrent plus. Il semble bien que je me suis mis deux coups de douze dans le pied.",
+      "link": "https://www.microlinux.fr/blog/grub-raid-rhel/",
+      "pubDate": "2026-11-13T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/raid.png",
+      "type": "blog"
+    },
+    {
+      "id": "428019f12eea",
+      "title": "Trump Wants Tim Cook to Run Nvidia. But is Apple’s greatest operator the right man for the Job?",
+      "description": "Jensen Huang is out. Donald Trump has already suggested his replacement: Tim Cook. But behind this unexpected recommendation lies a fascinating question about leadership and innovation.",
+      "link": "https://upskiller.substack.com/p/trump-wants-tim-cook-to-run-nvidia",
+      "pubDate": "2026-11-12T21:14:22.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3gib!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3668a5d-b38c-4d9d-9b40-7a5e06e088c1_1860x1582.png",
+      "type": "blog"
+    },
+    {
       "id": "2bfaa8593609",
       "title": "NVIDIA : Le scandale d’espionnage qui a fait tomber Jensen Huang 😱",
       "description": "Jensen Huang quitte NVIDIA après un énorme scandale mêlant espionnage chinois présumé, Alice Huang et des milliards de dollars de puces IA. Pourquoi les services de renseignement américains s'intéressent-ils à Megaspeed ? Comment le patron de NVIDIA s'est-il retrouvé au cœur de cette affaire ? Retour sur une crise majeure pour le géant de l'intelligence artificielle. #NVIDIA #JensenHuang #IntelligenceArtificielle #Shorts #Tech",
@@ -50,6 +126,20 @@
       "image": "https://i.ytimg.com/vi/YlBz1_xqczE/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "YlBz1_xqczE"
+    },
+    {
+      "id": "526faf545051",
+      "title": "Pattern to Revenue: Stop Scaling Activity. Scale What Actually Works. ",
+      "description": "The future of Go-to-Market isn’t about prospecting more. It’s about identifying the precise patterns that actually generate revenue. Understand what works, reproduce it, and scale it.",
+      "link": "https://upskiller.substack.com/p/pattern-to-revenue-stop-scaling-activity",
+      "pubDate": "2026-11-12T20:22:19.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Su1w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7946958-06c4-4491-b9bb-51920ce855d3_572x308.png",
+      "type": "blog"
     },
     {
       "id": "36ffe5d60e54",
@@ -174,6 +264,20 @@
       "image": "https://i.ytimg.com/vi/VBA1P4ncvcQ/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "VBA1P4ncvcQ"
+    },
+    {
+      "id": "f2983d101f2f",
+      "title": "Le Pattern-to-Revenue : arrêtons de scaler l’activité, scalons simplement ce qui marche",
+      "description": "Le futur du Go-to-Market ne consiste pas à prospecter davantage, mais à identifier les patterns précis qui génèrent réellement du revenu. Comprendre, reproduire et scaler ce qui fonctionne.",
+      "link": "https://upskiller.substack.com/p/le-pattern-to-revenue-arretons-de",
+      "pubDate": "2026-11-11T15:06:42.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Y81u!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf2041f1-90bc-4a81-b522-26ad2a7a3a91_2396x1306.png",
+      "type": "blog"
     },
     {
       "id": "e97b293194f6",
@@ -301,6 +405,22 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2026/10/Notification-bleue-dans-un-espace-tech.webp",
+      "type": "blog"
+    },
+    {
+      "id": "5d154170e90a",
+      "title": "Ce réglage n’est pas dans la doc de Claude Code. Il devrait.",
+      "description": "Votre quota fond sans que vous le sachiez. Voici comment reprendre la main en 15 minutes.",
+      "link": "https://codecodecoders.substack.com/p/15-minutes-pour-economiser-des-tokens",
+      "pubDate": "2026-11-10T06:16:15.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!tHff!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb5946b9-aa13-48cd-91c0-ad08fbbf7449_1456x816.png",
       "type": "blog"
     },
     {
@@ -667,6 +787,22 @@
       "type": "blog"
     },
     {
+      "id": "dddbd45ce516",
+      "title": "Le coût de l'IA rattrape Anthropic, Apple et Canva",
+      "description": "Mais aussi : Google menace de couper sa recherche aux écoles, ChatGPT et Codex vont partager un seul quota et Meta rachète Conductor",
+      "link": "https://codecodecoders.substack.com/p/le-cout-de-lia-rattrape-anthropic",
+      "pubDate": "2026-11-06T09:27:36.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!KC_3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a4d9c6b-6e8e-4fee-9697-0ef27b68ff6e_1456x816.png",
+      "type": "blog"
+    },
+    {
       "id": "29dbdd66e21f",
       "title": "On ship 10x plus vite depuis notre terminal grâce à nos 2nd brain - Gen AI Nantes #21",
       "description": "Et si les équipes marketing passaient désormais 80 % de leur journée dans un terminal ? Il y a quelques années, personne n'y aurait cru. Oui, l'écran noir des devs, celui que la plupart des gens referment en panique quand il s'ouvre par erreur. Et le marketing n'est qu'un début : sales, ops, produit, le terminal n'est plus réservé aux techs. Vous connaissez la routine : réexpliquer votre contexte à chaque nouvelle conversation, recoller les mêmes infos dans ChatGPT, puis dans Claude, puis dans…",
@@ -929,6 +1065,22 @@
       "videoId": "yRafV6cHKvw"
     },
     {
+      "id": "faa5b8b95d15",
+      "title": "Claude Design : créer une interface SaaS pro sans designer",
+      "description": "Pourquoi le premier rendu ressemble souvent à tous les autres et comment je lui donne un vrai design system.",
+      "link": "https://codecodecoders.substack.com/p/claude-design-creer-une-interface",
+      "pubDate": "2026-11-03T06:31:07.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!yUD0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38deaa80-47c8-4077-a6c1-7a36dddb5df3_2912x1632.png",
+      "type": "blog"
+    },
+    {
       "id": "cb8b29e9d428",
       "title": "API Platform Conference 2026 - Damien Fernandes - Extension 101 : Invisibles mais indispensables",
       "description": "Vous avez sûrement déjà croisé des noms comme ext-json, ext-mbstring, ou ext-libxml dans vos fichiers composer.json, sans forcément comprendre ce qu’ils font — à part qu’ils sont indispensables au bon fonctionnement de vos applications. Mais ces packages ne viennent pas de Packagist : ce sont des extensions PHP, des modules natifs qui enrichissent le langage avec des fonctionnalités supplémentaires et souvent essentielles. C’est l’heure de démystifier ces fameuses extensions : à quoi elles…",
@@ -1081,6 +1233,22 @@
       "image": "https://i.ytimg.com/vi/5cn3S6TiF0A/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "5cn3S6TiF0A"
+    },
+    {
+      "id": "44b52f0949d5",
+      "title": "Veille : Claude Code, moteur de la croissance d’Anthropic",
+      "description": "Google lance Gemini 4 Carbon, 40 % des pull requests GitHub démarrent avec un agent et l’abonnement Max 20x de Claude devient Ultra",
+      "link": "https://codecodecoders.substack.com/p/veille-claude-code-moteur-de-la-croissance",
+      "pubDate": "2026-11-01T16:21:50.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!EEYM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F618e2806-bf2a-4680-9a68-1197f77d6950_2912x1632.png",
+      "type": "blog"
     },
     {
       "id": "27b20530b3ee",

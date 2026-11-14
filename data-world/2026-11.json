@@ -2,6 +2,166 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "b6f04234209f",
+      "title": "What Makes an Agent Self-Evolving?",
+      "description": "An agent can get better at its job without a new model. It can learn to find useful information, choose the right tool, or check that a task is finished before reporting success. For that experience to help with the next task, something has to carry over: an updated instruction, a lesson saved in memory, […]",
+      "link": "https://www.oreilly.com/radar/?p=20219",
+      "pubDate": "2026-11-14T11:14:09.522Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0ef4adc7ead8",
+      "title": "New in Symfony 8.2: Link Sets and Link Templates",
+      "description": "Contributed by Florent Morselli in #65428…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-link-sets-and-link-templates?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-14T08:03:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/spomky_.picture",
+      "type": "blog"
+    },
+    {
+      "id": "9fc720c3910d",
+      "title": "What could possibly go wrong? Nationwide FAA Ground Stop edition",
+      "description": "A sign of things to come?",
+      "link": "https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide",
+      "pubDate": "2026-11-14T00:20:10.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!5lOZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2121355005919936512.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b628951e5f52",
+      "title": "How to Deploy Agent Teams Across Your Company (Complete Guide)",
+      "description": "...explained visually, plus a four-agent Alook and Nimble walkthrough.",
+      "link": "https://blog.dailydoseofds.com/p/how-to-deploy-agent-teams-across",
+      "pubDate": "2026-11-14T00:00:46.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/d427c98d-fc2d-4dc4-8a32-221c768e0229_1983x793.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "4cb58a6ed2a6",
+      "title": "datasette-cluster-map 0.19",
+      "description": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&amp;E, also demonstrating Datasette's recently redesigned facets: Tags: datasette, geospatial, openstreetmap",
+      "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "pubDate": "2026-11-13T23:02:45.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e1058067669e",
+      "title": "datasette-leaflet 0.3",
+      "description": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header. Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the plugin that loads a bundled Leaflet so other Datasette plugins can depend on it. It now sets the referrer policy on the tile requests themselves to strict-origin-when-cross-origin,…",
+      "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "pubDate": "2026-11-13T22:30:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0b196d3cb505",
+      "title": "The great Generative AI unraveling",
+      "description": "Things are starting to fall apart",
+      "link": "https://garymarcus.substack.com/p/the-great-generative-ai-unraveling",
+      "pubDate": "2026-11-13T18:26:49.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!dOYc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHXA68M7bAAAd7Tx.png",
+      "type": "blog"
+    },
+    {
+      "id": "d4c4ce441453",
+      "title": "Symfony 8.2.0-BETA2 released",
+      "description": "Symfony 8.2.0-BETA2 has just been released. This is a pre-release version of Symfony 8.2. If you want to test it in your own applications before its final release, run the following commands: 1 2 3 $ composer config minimum-stability…",
+      "link": "https://symfony.com/blog/symfony-8-2-0-beta2-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-13T17:33:24.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "34a17cada879",
+      "title": "SymfonyCon Warsaw 2026: The building blocks of an agentic software factory",
+      "description": "Join the global Symfony ecosystem in Warsaw on November 26-27 for SymfonyCon Warsaw 2026. A relaxed environment to learn from 3 talk tracks and hang out with peer developers. 🎤 Speaker announcement We're proud to feature Guillaume Moigneu, Field…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-the-building-blocks-of-an-agentic-software-factory?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-13T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "3fe2a7daa28f",
+      "title": "One question at a conference became a $50K a month one-person business",
+      "description": "A nice profile of Jason McCreary and how Laravel Shift grew into a one-person business doing about $50K MRR. The most interesting bit is how raising prices, slowly and deliberately, turned it from a side project into a real business. Read more",
+      "link": "https://freek.dev/3220-one-question-at-a-conference-became-a-50k-a-month-one-person-business",
+      "pubDate": "2026-11-13T12:31:04.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8eb8b09a1209",
+      "title": "Jensen Huang Resigns After Having Another Affair In Addition to the Chinese Spy",
+      "description": "Jensen Huang has resigned as CEO of Nvidia and left its board.",
+      "link": "https://thezvi.substack.com/p/jensen-huang-resigns-after-having",
+      "pubDate": "2026-11-13T12:20:54.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!hRFW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f79bc9a-d013-42a4-a7b2-aeb990c8f752_1042x741.png",
+      "type": "blog"
+    },
+    {
       "id": "fb4e96acbc6d",
       "title": "New in Symfony 8.2: Validator Improvements",
       "description": "Inline Rules with the Callback Constraint Contributed by Javier Eguiluz in…",
@@ -76,6 +236,34 @@
       "type": "blog"
     },
     {
+      "id": "6f66b4eb09a0",
+      "title": "Jensen Huang resigns.",
+      "description": "The future of Nvidia and the AI industry is uncertain",
+      "link": "https://garymarcus.substack.com/p/jensen-huang-resigns",
+      "pubDate": "2026-11-12T14:44:04.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!2JKF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7909dec9-c165-4380-b6d8-df018e6099f2_2377x1231.png",
+      "type": "blog"
+    },
+    {
+      "id": "b753aee2f115",
+      "title": "AI #194: Spy Versus Guy",
+      "description": "Tomorrow I head to Washington DC for a conference called The Takeoff.",
+      "link": "https://thezvi.substack.com/p/ai-194-spy-versus-guy",
+      "pubDate": "2026-11-12T14:31:34.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!STAA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86ba09fb-1f54-42e7-bf35-9e2d2bf0325f_1199x675.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "f9f761517b71",
       "title": "Changement de décor pour SymfonyLive Paris 2027 : direction l'Espace 42 pour une édition renouvelée !",
       "description": "Pendant de belles années, la Cité Internationale Universitaire de Paris a été le théâtre de nos retrouvailles, de nos échanges passionnés et de nos plus beaux souvenirs de communauté. C'était un chapitre incroyable mais, aujourd'hui, il est temps de donner…",
@@ -106,6 +294,20 @@
       "type": "blog"
     },
     {
+      "id": "fd6731920983",
+      "title": "Breaking: Eli Lilly CEO becomes latest to push back on Dario Amodei’s ludicrous, Elizabeth Holmes-like medical claims",
+      "description": "Where is Nathan Fielder when you need him?",
+      "link": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+      "pubDate": "2026-11-12T12:25:55.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Diua!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2120233136420270080.jpg",
+      "type": "blog"
+    },
+    {
       "id": "cf5e708fcab0",
       "title": "Why Git Needs Help: Moving from Files to Systems for Source Control",
       "description": "The shift to agentic reality When Git was designed in 2005, Linus Torvalds solved a brilliant problem for humans collaborating over terminal windows by trading line-by-line diffs. Fast-forward to 2026: Autonomous coding agents don’t think in flat text files or line breaks. They reason across syntax trees, execution traces, call graphs, and type constraints. In […]",
@@ -132,6 +334,20 @@
         "Web"
       ],
       "image": "https://connect.symfony.com/profile/sebastien76.picture",
+      "type": "blog"
+    },
+    {
+      "id": "3c9f4b90cf3d",
+      "title": "Jensen is reportedly about to get fired",
+      "description": "Things may get really really crazy really fast",
+      "link": "https://garymarcus.substack.com/p/jensen-is-reportedly-about-to-get",
+      "pubDate": "2026-11-11T23:53:06.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!y8Sa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0afd532-6993-48ce-8d61-9da57e585e7d_1291x1492.png",
       "type": "blog"
     },
     {
@@ -236,6 +452,20 @@
         "Web"
       ],
       "image": "https://www.phparch.com/wp-content/uploads/2026/07/Banners-OurCVEs-1-768x141.png",
+      "type": "blog"
+    },
+    {
+      "id": "85f608a19d72",
+      "title": "Fable and Mythos 5.2: The System Card",
+      "description": "It’s that time again: Introducing the world’s most powerful model, Claude Mythos 5.2.",
+      "link": "https://thezvi.substack.com/p/fable-and-mythos-52-the-system-card",
+      "pubDate": "2026-11-11T16:25:17.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!7u6t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18e1e348-13d1-44a4-9f13-6d423d4cc20b_2560x1440.png",
       "type": "blog"
     },
     {
@@ -371,6 +601,20 @@
       "type": "blog"
     },
     {
+      "id": "641a959897ba",
+      "title": "Just say no to Anthropic’s IPO",
+      "description": "I am not an investment advisor, and you must make your own investment decisions, but this is why I personally would not touch their IPO.",
+      "link": "https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo",
+      "pubDate": "2026-11-10T14:37:21.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!vYnC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fnews_img%2F2120131203344826368%2FeI2agzh_%3Fformat%3Djpg%26name%3Dorig",
+      "type": "blog"
+    },
+    {
       "id": "3307c0f85c87",
       "title": "SymfonyCon Warsaw 2026: From 30% to 100%: Fifteen Years of Hearing Loss and Tech",
       "description": "Interested in where PHP and Symfony are heading? Meet up with the community at SymfonyCon Warsaw 2026 on November 26-27 for two full days of talks and discussions. 🎤 Speaker announcement We are thrilled to present Florian Margaine, Field CTO,…",
@@ -383,6 +627,20 @@
         "Web"
       ],
       "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "dfcc3fbedaf6",
+      "title": "Nvidia CEO Jensen Huang Had an Affair With a Chinese Spy",
+      "description": "Well, sure, it sounds bad when you put it like that.",
+      "link": "https://thezvi.substack.com/p/nvidia-ceo-jensen-huang-had-an-affair",
+      "pubDate": "2026-11-10T13:01:11.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!s5X4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb544ad1b-f18c-4114-b5b5-10f0158d7c93_1200x800.jpeg",
       "type": "blog"
     },
     {
@@ -564,6 +822,34 @@
       "type": "blog"
     },
     {
+      "id": "200100facb47",
+      "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+      "description": "METR came out with an extensive report on how much AI is accelerating AI R&D at Anthropic, and thus how close we might be to recursive self-improvement (RSI) and how far that might go.",
+      "link": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards",
+      "pubDate": "2026-11-09T14:45:41.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!sFvS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26315143-62b0-4880-a80e-a7eea616a681_1200x722.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "3958b424628c",
+      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+      "description": "When do you think we'll have robots on the moon?",
+      "link": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+      "pubDate": "2026-11-09T13:31:34.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
       "id": "5ac22b91de0c",
       "title": "SymfonyCon Warsaw 2026: If You Build It, They Won't Come",
       "description": "Looking to exchange ideas with other Symfony builders? SymfonyCon Warsaw 2026 is happening on Nov 26-27 in Poland, with 3 streams of community talks and social gatherings. 🎤 Speaker announcement Mark your calendars for Greg Qualls, Director of…",
@@ -576,6 +862,20 @@
         "Web"
       ],
       "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "c133a33178ce",
+      "title": "Jensen is cooked",
+      "description": "Not by the affair itself but by the receipts he left. There’s no moving past this.",
+      "link": "https://garymarcus.substack.com/p/jensen-is-cooked",
+      "pubDate": "2026-11-09T12:47:02.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!ufdD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHWqkkF9aAAAKEpb.jpg",
       "type": "blog"
     },
     {
@@ -664,6 +964,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c00f5582af1c",
+      "title": "The Huang Affair: What did they know and when did they know it?",
+      "description": "None of this was on my bingo card",
+      "link": "https://garymarcus.substack.com/p/the-huang-affair-what-did-they-know",
+      "pubDate": "2026-11-09T02:04:38.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!IUy4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FG23lLZSbAAEoesM.jpg",
       "type": "blog"
     },
     {
@@ -786,6 +1100,20 @@
       "type": "blog"
     },
     {
+      "id": "1355f88619fb",
+      "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+      "description": "For a while, UK AISI, Redwood Research and others have been concerned specifically with the possibility that AIs would sabotage safety research, and have invested in looking for signs that this may be happening.",
+      "link": "https://thezvi.substack.com/p/gpt-6-astra-covertly-underperforms",
+      "pubDate": "2026-11-06T18:26:12.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/1f9c684e-bd10-4162-9a84-3042417d9244_1672x941.png",
+      "type": "blog"
+    },
+    {
       "id": "db8aad7567ee",
       "title": "Quoting Nilay Patel",
       "description": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they might not be being used the way that anyone wants them to yet. All these companies are spending more than they're making on these products. Refrigerators holding blood storage in…",
@@ -813,6 +1141,20 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/e7e8eb97521c24e2bb62f775fd2ca093db62cb8c-2048x1152.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "0fd87d349a8c",
+      "title": "The markets dropped $2.5 trillion yesterday. What happens next?",
+      "description": "5 predictions",
+      "link": "https://garymarcus.substack.com/p/the-markets-dropped-25-trillion-yesterday",
+      "pubDate": "2026-11-06T13:55:04.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/b1b6aa9d-8fab-4eb6-bccb-b1ab7de141ac_1599x703.jpeg",
       "type": "blog"
     },
     {
@@ -904,6 +1246,20 @@
       "type": "blog"
     },
     {
+      "id": "1edb4601b9ac",
+      "title": "AI #193: Progress May Dramatically Accelerate",
+      "description": "Anthropic is warning us.",
+      "link": "https://thezvi.substack.com/p/ai-193-progress-may-dramatically",
+      "pubDate": "2026-11-05T18:37:37.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!WANw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b7bec61-d2b7-4dcc-945a-c14db253ee6f_1200x800.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "8960dd2ef9a9",
       "title": "The New Knowledge Artifacts of the AI Economy",
       "description": "At our recent Foo Camp, a number of people said something like, “I don’t want someone else’s code any more. I may have my agent take a look at it, but I want to extract just the parts that I want, and may rewrite even those in Rust. It’s just too easy to create just […]",
@@ -930,6 +1286,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f70fa236bb44",
+      "title": "Breaking: Mayhem in the market 🫧",
+      "description": "The Generative AI bubble may finally have popped.",
+      "link": "https://garymarcus.substack.com/p/breaking-mayhem-in-the-market",
+      "pubDate": "2026-11-05T17:13:47.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/d636727e-cf6e-46d8-a9cb-196547749d01_2379x1429.jpeg",
       "type": "blog"
     },
     {
@@ -1333,6 +1703,20 @@
       "type": "blog"
     },
     {
+      "id": "fc27be566047",
+      "title": "OpenAI Updates Its Model Spec",
+      "description": "The Model Spec is potentially OpenAI’s most important document.",
+      "link": "https://thezvi.substack.com/p/openai-updates-its-model-spec",
+      "pubDate": "2026-11-03T16:48:28.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/6fc4b6bc-44fd-424c-92be-3848b51ab958_1672x941.png",
+      "type": "blog"
+    },
+    {
       "id": "4104450b512f",
       "title": "AI is destroying my CS degree",
       "description": "My comment on AI is destroying my CS degree &mdash; Hacker News.I don't envy educators right now. AI clearly means you need to change how you teach and evaluate students. We are only a few years in though, and it's still extremely unclear what effective teaching with these tools looks like. The worst part is that the evaluation loop is measured in multiple years! If you start trying some new education mechanism today you won't get a robust idea of how well it works until your current cohort…",
@@ -1497,6 +1881,20 @@
       "type": "blog"
     },
     {
+      "id": "78c7de64445e",
+      "title": "Scott Alexander’s Against SURA Seems Deeply Confused",
+      "description": "If you are helping build something that might kill everyone, maybe stop doing that.",
+      "link": "https://thezvi.substack.com/p/scott-alexanders-against-sura-seems",
+      "pubDate": "2026-11-02T21:33:03.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/c995ceda-ff17-48ea-bdc9-5e04b88b9240_1672x941.png",
+      "type": "blog"
+    },
+    {
       "id": "2a98d7051576",
       "title": "12 Optimizers for Training Neural Networks, clearly explained!",
       "description": "...and what each one costs in GPU memory!",
@@ -1508,6 +1906,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!gHRY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56a6e4e5-3e34-4e37-b073-7ec589d2eb67_1402x1125.png",
+      "type": "blog"
+    },
+    {
+      "id": "9852193035f5",
+      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+      "description": "What do LLMs think about vision models?",
+      "link": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+      "pubDate": "2026-11-02T14:30:54.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {

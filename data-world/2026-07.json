@@ -800,6 +800,20 @@
       "type": "blog"
     },
     {
+      "id": "cc90ec0bce01",
+      "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI's accidental AI hacker ",
+      "description": "The warning shots will continue until civilization wakes up",
+      "link": "https://importai.substack.com/p/import-ai-466-the-bitter-lesson-for",
+      "pubDate": "2026-07-27T13:30:53.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
       "id": "42c9af0d0607",
       "title": "The AI Industry Is Betting on Open Weights",
       "description": "NVIDIA CEO Jensen Huang, who had long stayed off social media, posted on X for the first time on July 24. His debut was not a product launch or a GPU teaser. It was a policy letter, with one argument: Washington should not restrict open weight AI. Microsoft CEO Satya Nadella wrote on LinkedIn that open-weight models are \"essential to a healthy AI ecosystem.\" The letter, Open Weights and American AI Leadership, launched with 25 signatures and now carries 50, a roster that runs from NVIDIA,…",
@@ -1475,6 +1489,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aa53761640d8",
+      "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan ",
+      "description": "The singularity will be seen in hindsight as an interregnum",
+      "link": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
+      "pubDate": "2026-07-20T12:31:45.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {

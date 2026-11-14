@@ -222,6 +222,22 @@
       "type": "blog"
     },
     {
+      "id": "5e80d528cfb8",
+      "title": "Je n’ai jamais utilisé Hugging Face, mais son rachat par Nvidia m’inquiète quand même",
+      "description": "La neutralité qui faisait sa valeur pourrait-elle disparaître ? OpenAI coupe l’accès à ses modèles pour Cursor, Zed Industries et Anthropic ont du nouveau !",
+      "link": "https://codecodecoders.substack.com/p/je-nai-jamais-utilise-hugging-face",
+      "pubDate": "2026-08-30T10:48:10.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!7RCH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe420bd09-0174-47da-960b-0a63a8c37d9d_1920x1080.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "c2425ae217ef",
       "title": "Vite+ : enfin un seul outil pour tout le Web ?",
       "description": "Et si tu pouvais remplacer une grosse partie de ta toolchain JavaScript par un seul binaire ? C’est la promesse de Vite+. Vite+ veut réunir dans une seule toolchain le build, le lint, le formatage, les tests, le package management et le task running. Dans cette vidéo, je teste Vite+ directement dans VS Code et je regarde notamment : → vp create → vp install → vp check → vp check --fix → vp test → vp run → le fonctionnement dans un monorepo → la migration depuis NX → le cache → les performances…",
@@ -1016,6 +1032,22 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aecb33a76a29",
+      "title": "Pourquoi le filigrane de Claude est une bonne nouvelle",
+      "description": "Cette semaine, on fait un point sur le fameux filigrane à venir, Google et Microsoft ont du nouveau et je vous propose de découvrir une librairie React animée, basée sur la physique !",
+      "link": "https://codecodecoders.substack.com/p/pourquoi-le-filigrane-de-claude-est",
+      "pubDate": "2026-08-16T13:58:51.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://images.unsplash.com/photo-1728739529355-31dcaefd82b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyN3x8aG9sb2dyYW18ZW58MHx8fHwxNzg2ODg4NDI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "type": "blog"
     },
     {

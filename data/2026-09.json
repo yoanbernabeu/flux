@@ -211,6 +211,22 @@
       "videoId": "VxyG__p15CI"
     },
     {
+      "id": "00004becee99",
+      "title": "Cette skill méconnue a rendu mon fichier CLAUDE.md enfin efficace",
+      "description": "Et j’ai également économisé des milliers de tokens par sessions.",
+      "link": "https://codecodecoders.substack.com/p/cette-skill-meconnue-a-rendu-mon",
+      "pubDate": "2026-09-29T05:30:18.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!F2nI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa586c53c-9c77-402e-9024-53d13956b7f2_1024x608.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "dbfa0667a0e3",
       "title": "Mon second cerveau, pour moi et pour mes agents : Obsidian alimenté par Claude Code",
       "description": "Je n'écris plus mes notes, je les dicte. Claude les range dans Obsidian, les retrouve dans n'importe quelle session, depuis mon téléphone comme depuis mon ordinateur. Retour sur un second cerveau alimenté par l'IA, sans usine à gaz.",
@@ -419,6 +435,22 @@
       "image": "https://i.ytimg.com/vi/grGRlP2GYqQ/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "grGRlP2GYqQ"
+    },
+    {
+      "id": "9eb4c3ec4cf3",
+      "title": "Opus 5.5 est la première IA capable d'optimiser sans casser votre travail",
+      "description": "Même si ça n’empêche pas Anthropic de perdre face au Pentagone. Pendant ce temps, Microsoft réinvente Copilot et shadcn lance un linter pour votre design system",
+      "link": "https://codecodecoders.substack.com/p/opus-55-est-la-premiere-ia-capable",
+      "pubDate": "2026-09-27T10:29:06.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!-hOY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6c62f47-b5fa-49ad-b304-d0f8aed694d0_1200x630.jpeg",
+      "type": "blog"
     },
     {
       "id": "a81ea18f2005",
@@ -883,6 +915,22 @@
       "type": "blog"
     },
     {
+      "id": "0b1e017714a4",
+      "title": "Cette IA ne génère aucun texte, et c'est une excellente nouvelle",
+      "description": "Pendant que Shopify abandonne React Native pour le natif, que Zuckerberg et Huang font les sourdes oreilles et que Claude s’améliore.",
+      "link": "https://codecodecoders.substack.com/p/cette-ia-ne-genere-aucun-texte-et",
+      "pubDate": "2026-09-20T18:51:25.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!NGUB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82051bda-8631-4043-ba16-0bdb6b2923e7_2173x864.png",
+      "type": "blog"
+    },
+    {
       "id": "aae4d1c66144",
       "title": "Jev : cette IA ne sait pas écrire (et c'est une bonne nouvelle)",
       "description": "Jev, le modèle « System One » de TypeSafe AI, ne génère pas une seule phrase : on lui pose des questions typées, il répond par des probabilités. Je l'ai testé avec Symfony AI : 3 000 décisions en 25 secondes, pour environ 3 centimes. Dans une application, on demande rarement un texte à une IA. On lui demande de trancher : ce message est-il urgent ? Dans quelle file part ce ticket ? Est-ce du spam ? Jev est fait pour ça, et seulement pour ça. Pas de texte à parser, pas de tokens de sortie à…",
@@ -1071,6 +1119,22 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "64455380ad15",
+      "title": "100 fichiers CLAUDE/AGENTS.md comparés : l'erreur qui rend votre IA inefficace",
+      "description": "Avec le template structuré et la skill prêts à l'emploi.",
+      "link": "https://codecodecoders.substack.com/p/100-fichiers-claudeagentsmd-compares",
+      "pubDate": "2026-09-17T08:01:08.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!2UEd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13f31e1e-7b4c-45dd-bb6b-caa887f1bf4e_1024x608.jpeg",
       "type": "blog"
     },
     {
@@ -1482,6 +1546,22 @@
       "image": "https://i.ytimg.com/vi/c_MmFK8JSLs/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "c_MmFK8JSLs"
+    },
+    {
+      "id": "1c6a4fb07969",
+      "title": "Les fondateurs d'IA redoutent le contrôle d'Internet",
+      "description": "Pendant que l'Europe obtient enfin son accès à Mythos, que Mistral boucle une levée de 3 milliards d’euros et que NVIDIA souhaite investir 10 milliards dans Anthropic",
+      "link": "https://codecodecoders.substack.com/p/les-fondateurs-dia-redoutent-le-controle",
+      "pubDate": "2026-09-13T16:11:07.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!IWV4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2834d26a-c2fb-41ec-85d7-4a8af4d7dde0_590x350.jpeg",
+      "type": "blog"
     },
     {
       "id": "2c3da7ade102",
@@ -2144,6 +2224,22 @@
       "image": "https://i.ytimg.com/vi/yTfL52riIw0/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "yTfL52riIw0"
+    },
+    {
+      "id": "faa704a4aea3",
+      "title": "Quand Gemini envoie des alpinistes dans le décor",
+      "description": "Claude divise discrètement votre facture par deux, Microsoft sort un documentaire sur les dix ans d’histoire de VS Code, Google dévoile Gemini 3.8 Flash et bien plus !",
+      "link": "https://codecodecoders.substack.com/p/quand-gemini-envoie-des-alpinistes",
+      "pubDate": "2026-09-06T09:59:23.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!c7ZN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7186dd3-6c8e-45f3-963a-2891e4fee22a_1024x608.jpeg",
+      "type": "blog"
     },
     {
       "id": "b34410775828",
