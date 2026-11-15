@@ -2,6 +2,81 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "ef4b2f040856",
+      "title": "A Week of Symfony #1037 (November 9–15, 2026)",
+      "description": "This week, we published the second beta of Symfony 8.2 so you can keep testing it before its final release. Meanwhile, we kept publishing articles about Symfony 8.2 features, such as Messenger flows, AssetMapper improvements, form improvements, validator…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1037-november-9-15-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-15T08:16:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e9477865501b",
+      "title": "datasette-llm 0.1a11",
+      "description": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama or llama.cpp (which just hit v1.0.0) you can run Datasette via uvx like this: wget…",
+      "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "pubDate": "2026-11-14T23:59:28.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bc18151cc754",
+      "title": "ESLint Ends Paid Contributor Program as AI Upends Open Source Collaboration",
+      "description": "ESLint is retiring its contributor pool after five years, citing growing difficulties with AI-generated contributions and disputes over whether contributors deserved payment for work produced with AI assistance. In a November 13 announcement, ESLint creator Nicholas C. Zakas said the program had paid outside contributors more than $51,000 and helped recruit several future team members. But the increasing volume of AI-generated issues and pull requests, along with accusations about undisclosed…",
+      "link": "https://socket.dev/blog/eslint-ends-paid-contributor-program?utm_medium=feed",
+      "pubDate": "2026-11-14T17:27:29.411Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/970ef7d445672c59aaa00aaec845769f8a09c758-1912x1382.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "4f7f1f7fcbbe",
+      "title": "datasette-vega 0.7",
+      "description": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite. (Datasette Lite just gained the ability to run JavaScript plugins like this! I'll write more about that soon.) Since it works with Datasette Lite, the live…",
+      "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "pubDate": "2026-11-14T17:09:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "be8eacfe78f9",
+      "title": "How Claude reviews our docs every Monday",
+      "description": "A practical look at the GitHub Action we use to let Claude review Flare docs every Monday. It checks recent changes, updates the docs where needed, and opens a draft PR while staying within tight boundaries. Read more",
+      "link": "https://freek.dev/3221-how-claude-reviews-our-docs-every-monday",
+      "pubDate": "2026-11-14T12:31:05.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b6f04234209f",
       "title": "What Makes an Agent Self-Evolving?",
       "description": "An agent can get better at its job without a new model. It can learn to find useful information, choose the right tool, or check that a task is finished before reporting success. For that experience to help with the next task, something has to carry over: an updated instruction, a lesson saved in memory, […]",
@@ -159,6 +234,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!hRFW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f79bc9a-d013-42a4-a7b2-aeb990c8f752_1042x741.png",
+      "type": "blog"
+    },
+    {
+      "id": "74e104ffccbb",
+      "title": "What Makes an Agent Self-Evolving?",
+      "description": "An agent can get better at its job without a new model. It can learn to find useful information, choose the right tool, or check that a task is finished before reporting success. For that experience to help with the next task, something has to carry over: an updated instruction, a lesson saved in memory, […]",
+      "link": "https://www.oreilly.com/radar/what-makes-an-agent-self-evolving/",
+      "pubDate": "2026-11-13T11:54:22.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

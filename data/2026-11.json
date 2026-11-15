@@ -2,6 +2,81 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "ab4e5874de39",
+      "title": "Travail des juniors et IA : avant de savoir prompter, il faut savoir penser.",
+      "description": "Quel avenir pour le travail des juniors face à l’IA ? Expérience, esprit critique et compétences transversales : pourquoi savoir penser compte plus que savoir prompter. The post Travail des juniors et IA : avant de savoir prompter, il faut savoir penser. appeared first on Oliviersauvage.com.",
+      "link": "https://oliviersauvage.com/fr/travail-des-juniors-et-ia-avant-de-savoir-prompter-il-faut-savoir-penser/",
+      "pubDate": "2026-11-15T09:53:22.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9ba776208cac",
+      "title": "PHP 8.6 : ce qui change vraiment (et ce qui risque de casser)",
+      "description": "PHP 8.6 arrive le 19 novembre 2026 ! Découvrez les principales nouveautés de cette version, les changements qui vont simplifier votre code et les dépréciations à anticiper avant de mettre à jour vos projets PHP. Au programme : l'application partielle de fonctions (PFA), les propriétés readonly avec valeurs par défaut, la nouvelle API de polling, la fonction clamp(), Time\\Duration, SortDirection et les améliorations de sécurité des sessions. On revient également sur les évolutions de la…",
+      "link": "https://www.youtube.com/watch?v=2qo5FBpY06A",
+      "pubDate": "2026-11-14T17:04:27.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/2qo5FBpY06A/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "2qo5FBpY06A"
+    },
+    {
+      "id": "d9a0cd1caf22",
+      "title": "PHP, Brotli et autres raisons de devenir ébéniste",
+      "description": "Deux failles critiques dans PHP, une vulnérabilité dans Brotli et quelques envies de reconversion. Retour sur un mois d'octobre mouvementé.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-brotli-et-autres-raisons-de-devenir-ebeniste/",
+      "pubDate": "2026-11-14T12:54:36.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "22f4af902e75",
+      "title": "Utiliser la console de secours Red Hat",
+      "description": "Utiliser la console de secours Red Hat {align=right} Les supports d'installation de Red Hat Enterprise Linux et des clones compatibles comme Rocky Linux, AlmaLinux et Oracle Linux intègrent tous un système de secours qu'il peut être utile de savoir manipuler pour un certain nombre d'opérations :",
+      "link": "https://www.microlinux.fr/blog/rescue-rhel/",
+      "pubDate": "2026-11-14T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/rescue-console.png",
+      "type": "blog"
+    },
+    {
+      "id": "8116cea0b0fd",
+      "title": "Le développeur, gardien du harness",
+      "description": "Tout le monde semble s’accorder sur le fait que les développeurs vont devenir de moins en moins techniques pour devenir plus orientés fonctionnel. J’ai moi-même partagé plusieurs réflexions dans ce sens. Mais je me demande s’il n’y a pas également un autre chemin possible. Dans un monde où l’IA produit de plus en plus de code et s’améliore chaque semaine, on se dit que la technique pure n’a plus d’avenir. Mais si les product owners continuent de spécifier les besoins, et que ce sont des agents…",
+      "link": "https://www.jdecool.fr/blog/2026/11/14/le-developpeur-gardien-du-harness.html",
+      "pubDate": "2026-11-13T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0a766b8eeb41",
       "title": "Anthropic’s $1.4 Trillion IPO: The Most Fascinating Part Isn’t the Valuation. It’s Who Gets Paid.",
       "description": "Anthropic could be worth $1.4 trillion. But what if the biggest winners of the AI revolution aren't the companies building the models, but the ones selling them the infrastructure?",
