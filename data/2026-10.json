@@ -2,6 +2,21 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "9b9dabc3bc05",
+      "title": "PDT",
+      "description": "– On mange quoi ce midi ? rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-pdt/",
+      "pubDate": "2026-10-31T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "699f409c6442",
       "title": "Mistral Large 4 : l'Europe peut-elle encore rivaliser avec les USA ?",
       "description": "🇫🇷 *Mistral Large 4 (Le Chonk) : l'Europe peut-elle enfin rivaliser avec OpenAI, Google et Anthropic ?* La startup française Mistral AI vient de dévoiler son modèle d'intelligence artificielle le plus ambitieux : *Mistral Large 4*, surnommé « Le Chonk ». Avec 1 000 milliards de paramètres, des capacités avancées en développement logiciel et en cybersécurité, ce nouveau modèle open-weight pourrait changer la donne. Mais est-il vraiment capable de concurrencer ChatGPT, Claude et Gemini ? Dans…",
@@ -1903,6 +1918,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1d6bdf646661",
+      "title": "Obtenir une réponse",
+      "description": "Obtenir une réponse simple, c’est parfois une aventure. – C’est dans quelle matière que tu étais avec Gabin la dernière fois ? Tu sais, quand il n’avait pas fait sa partie ? Ah, quand même ! rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-10-obtenir-une-reponse/",
+      "pubDate": "2026-10-13T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"

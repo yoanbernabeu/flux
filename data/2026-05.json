@@ -2630,6 +2630,21 @@
       "type": "blog"
     },
     {
+      "id": "d3b07f86ef04",
+      "title": "Une soirée type",
+      "description": "Une soirée type à la maison, ça commence tôt. 18h45. On sonne la cloche, et c’est le signal pour que les enfants descendent à la cuisine mettre la table. 19h00. On re-sonne la cloche, parce que rien ne s’est passé. 19h05. – On peut prendre un apéro ? Des chips ? 19h15. On passe à table. Enfin, tout le monde sauf Rocky, qui commence à sortir du frigo des choses pour “personnaliser” ses plats. 19h17. Ezio a fini son plat principal, manquant de s’étouffer deux fois. 19h19. Rocky commence à manger,…",
+      "link": "https://boris.schapira.dev/notes/2026-05-une-soiree-type/",
+      "pubDate": "2026-05-09T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2e009a142515",
       "title": "Varnish 9 et le TLS, cool, et avec Let’s Encrypt ?",
       "description": "J’ai pu expérimenter le support HTTPS de Varnish 9 en live « à l’ancienne » sur une VM Debian 13. Comme la gestion de Let’s Encrypt (d’ACME [...]",
@@ -2680,6 +2695,21 @@
       "title": "Le message",
       "description": "Je suis en train de conduire donc c’est Rocky qui décroche. C’est sa mère : – Rocky, j’ai besoin que tu dises quelque chose à Papa. Entre-temps, j’avais eu le temps de me garer pour prendre l’appel, parce que je ne comprenais rien ! rédigés en français. ce flux.",
       "link": "https://boris.schapira.dev/notes/2026-05-le-message/",
+      "pubDate": "2026-05-08T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7174d22ecd8",
+      "title": "Louis XIV",
+      "description": "– Non mais pitié, arrête de parler tout le temps pas dessus les autres ! Il n’y a pas que toi, à table ! Ça ne m’étonne pas que tes copains continuent à t’appeler Louis XIV. Il m’épuise. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-05-louis-xiv/",
       "pubDate": "2026-05-08T22:00:00.000Z",
       "source": "Boris Schapira",
       "sourceUrl": "https://boris.schapira.dev/feed.xml",

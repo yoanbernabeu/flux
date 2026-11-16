@@ -2,6 +2,85 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "e4cc86c6f8f5",
+      "title": "Faut-il encore faire venir du trafic sur son site ?",
+      "description": "Faut-il chercher à faire venir du trafic sur son site ? À partir du livre Zero Click Marketing, je décrypte ce que le zéro clic change pour les entreprises B2B : visibilité, intention d’achat, mesure des résultats et rôle du site. Moins de visites ne signifie pas moins de clients. The post Faut-il encore faire venir du trafic sur son site ? appeared first on Oliviersauvage.com.",
+      "link": "https://oliviersauvage.com/fr/trafic-site-marketing-zero-clic/",
+      "pubDate": "2026-11-16T09:37:19.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f642.png",
+      "type": "blog"
+    },
+    {
+      "id": "420772f919eb",
+      "title": "Comment fonctionne vraiment une IA comme ChatGPT ?",
+      "description": "Comment fonctionne vraiment ChatGPT ? 🤖 Derrière ChatGPT, Claude ou Gemini se cachent des LLM (Large Language Models), des modèles d'intelligence artificielle capables de comprendre le contexte et de générer du texte. Mais comment fonctionnent-ils réellement ? Tokens, Transformers, mécanisme d'attention, entraînement et prédiction du prochain token : découvre en moins de 3 minutes les technologies qui permettent à une IA de générer ses réponses. Une explication simple et visuelle pour…",
+      "link": "https://www.youtube.com/watch?v=FRyasnVUlqM",
+      "pubDate": "2026-11-16T09:00:20.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/FRyasnVUlqM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "FRyasnVUlqM"
+    },
+    {
+      "id": "757b15f8b315",
+      "title": "API Platform Conference 2026 -  Imen Ezzine & Benjamin Georgeaut - Transition avec API Platform",
+      "description": "Face à une équipe en pleine expansion, nous avons fait le choix de découper notre monolithe Symfony en plusieurs applications distinctes, gravitant autour d’une application centrale. Notre allié ? API Platform. Dans ce talk à deux voix, nous vous proposons un retour d’expérience sans filtre sur la mise en place de ce projet : - Le Choix : Pourquoi API Platform est le compagnon idéal de Symfony pour structurer une architecture distribuée. - Le Quotidien : Comment les State Providers et…",
+      "link": "https://www.youtube.com/watch?v=J9Xd9kUSJbU",
+      "pubDate": "2026-11-16T08:00:13.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/J9Xd9kUSJbU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "J9Xd9kUSJbU"
+    },
+    {
+      "id": "702c931ad091",
+      "title": "Liens Tech - Novembre 2026",
+      "description": "Au menu ce mois-ci : du stockage cloud hébergé en Europe, un outil d'accessibilité pour les mathématiques, un outil de traitement de fichiers auto-hébergé, un téléchargeur de vidéos, un serveur MCP pour sa médiathèque et un outil de visualisation de données, avec un webinar cybersécurité en clôture.",
+      "link": "https://domopi.eu/liens-tech-novembre-2026/",
+      "pubDate": "2026-11-16T06:45:58.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "890c37c50c1f",
+      "title": "Gemini 4 Hydrogen : plus rapide, moins cher, et meilleur ?",
+      "description": "Google vient de lancer Gemini 4 Hydrogen, son nouveau modèle d'intelligence artificielle conçu pour être plus rapide et moins cher. Mais face à Gemini 4 Argon et Carbon, lequel faut-il vraiment choisir ? Avec Gemini 4, Google propose désormais trois modèles aux performances et aux usages différents. Hydrogen surprend notamment par ses résultats sur les benchmarks, ses capacités de raisonnement et son positionnement tarifaire. Dans cette vidéo, on décrypte les différences entre Gemini 4…",
+      "link": "https://www.youtube.com/watch?v=mgthGDxDZlo",
+      "pubDate": "2026-11-15T20:18:58.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/mgthGDxDZlo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "mgthGDxDZlo"
+    },
+    {
       "id": "ab4e5874de39",
       "title": "Travail des juniors et IA : avant de savoir prompter, il faut savoir penser.",
       "description": "Quel avenir pour le travail des juniors face à l’IA ? Expérience, esprit critique et compétences transversales : pourquoi savoir penser compte plus que savoir prompter. The post Travail des juniors et IA : avant de savoir prompter, il faut savoir penser. appeared first on Oliviersauvage.com.",
@@ -11,6 +90,38 @@
       "sourceUrl": "https://oliviersauvage.com/feed/",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ecfbacc85c4f",
+      "title": "J'ai construit un projet troué de partout : ce que voit stackalarm, et pas vos audits",
+      "description": "composer audit et npm audit trouvent des failles. Mais pas dans le runtime, l'image Docker, la forge auto-hébergée ni le code copié. Démonstration sur La Passoire, un monorepo Symfony, Next.js et Python troué de partout.",
+      "link": "https://yoandev.co/stackalarm-la-passoire",
+      "pubDate": "2026-11-15T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/stackalarm-la-passoire.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ea036d6a52e6",
+      "title": "Presque",
+      "description": "Sa mère s’agace car ses devoirs ne sont pas faits, ou mal. – Allez on passe au français : montre-moi le fruit de tes recherches sur la filmographie de Hitchcock. Je ne dirais pas qu’il n’y a pas d’effort. Il n’y a juste pas les résultats. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-presque/",
+      "pubDate": "2026-11-14T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -72,6 +183,36 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "68a053bd50f3",
+      "title": "Quizz cinéma",
+      "description": "– … mais si, un film avec Moïse ! C’était Maui dans Vaiana. – Je l’ai vu, moi, “Rafle” ? C’était Ralph 2.0. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-quizz-cinema/",
+      "pubDate": "2026-11-13T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aa05cc8f9419",
+      "title": "Plus sympa cette année",
+      "description": "Discussion autour de la réunion parents-profs : – J’ai pris des rendez-vous, regarde, ça te convient ? 1, par contre. 1 ? Le sens de l’observation. Les noms sont modifiés. ↩ rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-prof/",
+      "pubDate": "2026-11-13T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
@@ -170,6 +311,21 @@
         "Cloud"
       ],
       "image": "https://www.microlinux.fr/img/raid.png",
+      "type": "blog"
+    },
+    {
+      "id": "ca20fd1b1bce",
+      "title": "XVIII",
+      "description": "J’entends Tanjiro réviser ses leçons à voix haute. “Au gngngn siècle…” Pff, alors… croix-v-baton, c’est seize. Donc là, ça fait 16-baton-baton… donc 18. On reprend : “Au 18e siècle,…” rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-xviii/",
+      "pubDate": "2026-11-12T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -911,6 +1067,21 @@
       "duration": "17:26"
     },
     {
+      "id": "0a4384f687e3",
+      "title": "Caillou",
+      "description": "Je mets mes chaussures qui étaient dans l’entrée. Au fond du pied droit, je sens un caillou. Pas un truc minuscule, un truc qui se ressent vraiment, et dont la forme est très étrange, très sphérique. Je retire ma chaussure, la retourne : un M&M’s. Aucun des deux garçons n’est capable de me fournir une explication. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-caillou/",
+      "pubDate": "2026-11-05T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a97a39a85cc2",
       "title": "Claude n'attend plus tes instructions… 😳",
       "description": "Claude Duet : une IA qui travaille pendant que tu fais autre chose ? 🤯 Anthropic dévoile Claude Duet, une nouvelle expérience d'IA proactive capable d'anticiper tes besoins et de faire avancer certaines tâches sans attendre tes instructions à chaque étape. Comment fonctionne Claude Duet ? Quelles sont ses possibilités et ses limites ? Découvre cette nouvelle approche des agents IA autonomes en 60 secondes ! #ClaudeDuet #ClaudeAI #Anthropic #IntelligenceArtificielle #AgentIA #Tech #Shorts",
@@ -1087,6 +1258,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "68973cca9040",
+      "title": "Oups",
+      "description": "Nous sommes mercredi midi. J’arrête de travailler pour préparer le repas. Tanjiro a fini les cours à 10h. Je le retrouve devant la TV et lui demande de venir m’aider à mettre la table. Il descend avec moi, pose deux assiettes et me demande : – Elle rentre quand, maman ? Je me retourne, il a disparu. J’en connais un qui n’a sûrement pas fait tous les devoirs qu’il avait promis de faire… rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-oups/",
+      "pubDate": "2026-11-03T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"

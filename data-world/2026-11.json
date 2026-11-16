@@ -2,6 +2,109 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "86b2c67c4221",
+      "title": "When AI Can Code, What Is Left for Programmers to Do?",
+      "description": "AI is in such widespread use for programming that project maintainers (particularly for free and open source software) are complaining about the burden of reviewing mounds of low-quality code. In fact, AI can help with every stage of code development: writing the specification, coding, uncovering bugs, and repairing the code. This article describes human-AI collaboration […]",
+      "link": "https://www.oreilly.com/radar/when-ai-can-code-what-is-left-for-programmers-to-do/",
+      "pubDate": "2026-11-16T11:54:16.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1368e8c1dcf3",
+      "title": "New in Symfony 8.2: Tui Improvements",
+      "description": "Symfony 8.2 improves the Tui component with new widgets, new APIs to create your own widgets and many improvements in input handling and rendering. Tabs Widget…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-tui-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-16T08:26:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/fabpot.picture",
+      "type": "blog"
+    },
+    {
+      "id": "9afc84c40c21",
+      "title": "Moving from RAG Apps to RAG Systems Engineering",
+      "description": "A hands-on path through retrieval, context, storage, and scale.",
+      "link": "https://blog.dailydoseofds.com/p/moving-from-rag-apps-to-rag-systems",
+      "pubDate": "2026-11-16T00:46:08.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!-BPc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22cdf107-2889-417c-a3b6-31b8fd77a1a0_5504x3072.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "3c506afcbc50",
+      "title": "datasette-maplibre 0.1a0",
+      "description": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap, the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub.) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/dev/tools/openfreemap-demo.html - then build a brand new Datasette plugin that uses maplibreGL and…",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "pubDate": "2026-11-15T23:58:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0139ca5c534e",
+      "title": "datasette 1.0a43",
+      "description": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone, which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response.stream() method. There are a couple of security fixes, one of which I deemed deserving of a GitHub…",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "pubDate": "2026-11-15T23:20:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9f458effb436",
+      "title": "datasette 0.65.6",
+      "description": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /&lt;route&gt;.db by actors who were denied access to it. [...] Tags: security, datasette",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+      "pubDate": "2026-11-15T23:18:17.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a81ddc19fd4",
+      "title": "Tests as data: ensuring AI-generated code does what we want",
+      "description": "Matteo Vaccari explains how readable acceptance tests, stored as data rather than test code, can define what we expect from AI-generated software. Separating those expectations from the test runner makes them easier to review and protect from unwanted changes by coding agents. Read more",
+      "link": "https://freek.dev/3223-tests-as-data-ensuring-ai-generated-code-does-what-we-want",
+      "pubDate": "2026-11-15T12:30:23.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ef4b2f040856",
       "title": "A Week of Symfony #1037 (November 9–15, 2026)",
       "description": "This week, we published the second beta of Symfony 8.2 so you can keep testing it before its final release. Meanwhile, we kept publishing articles about Symfony 8.2 features, such as Messenger flows, AssetMapper improvements, form improvements, validator…",
@@ -12,6 +115,36 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "81dba6fe40f7",
+      "title": "datasette-apps 0.4a0",
+      "description": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Datasette Agent so it can help write apps that link to each other. This means you can have e.g. an app that shows details about a…",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+      "pubDate": "2026-11-15T04:02:45.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d47427f5a2b9",
+      "title": "datasette-agent 0.6a0",
+      "description": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent, llm, datasette, llms, ai, generative-ai",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+      "pubDate": "2026-11-15T03:49:47.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
