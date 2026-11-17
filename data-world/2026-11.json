@@ -2,6 +2,139 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "066f072f5b2f",
+      "title": "Giving AI Agents a Better Way to Debug CSS",
+      "description": "Amit Merchant shows how to connect Chrome DevTools MCP to Codex and use its get_css_styles tool to inspect matched CSS rules and overridden declarations in the browser. This lets agents diagnose cascade and specificity issues using the styles actually applied to an element instead of guessing from source files. Read more",
+      "link": "https://freek.dev/3225-giving-ai-agents-a-better-way-to-debug-css",
+      "pubDate": "2026-11-17T12:30:30.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fc6c7a73cfa1",
+      "title": "When AI-Generated Data Becomes Tomorrow’s Ground Truth",
+      "description": "Manufacturers qualify suppliers before trusting them with critical work. Before a supplier can provide parts for a regulated product such as a medical device, the manufacturer collects evidence: quality certifications, test reports, insurance documents, and regulatory approvals. Increasingly, an AI agent reads that evidence first. The agent reviews the documents and proposes a finding, and […]",
+      "link": "https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/",
+      "pubDate": "2026-11-17T11:54:15.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "257daf547a34",
+      "title": "New in Symfony 8.2: Smarter Controller Arguments",
+      "description": "Symfony can inject services, map request data into typed objects and fetch Doctrine entities based on the arguments of your controllers. Symfony 8.2 improves this feature to make it work in more cases, and some improvements apply to console commands too.…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-smarter-controller-arguments?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-17T08:13:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/hypemc.picture",
+      "type": "blog"
+    },
+    {
+      "id": "9b8d90e7c27c",
+      "title": "pnpm Introduces New Lockfile Format to Reduce Git Merge Conflicts",
+      "description": "pnpm has introduced an experimental lockfile format designed to reduce Git merge conflicts by changing how dependency relationships are recorded. The new format, available starting with pnpm 12.19.0, previews changes planned for pnpm 13 and is available as an opt-in setting. The change addresses a common frustration in JavaScript development, particularly in projects with multiple contributors or large dependency trees. Updates to dependencies can produce substantial changes in pnpm-lock.yaml,…",
+      "link": "https://socket.dev/blog/pnpm-introduces-new-lockfile-format?utm_medium=feed",
+      "pubDate": "2026-11-17T07:02:53.649Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "38f599c774ee",
+      "title": "Quoting Go Proverbs",
+      "description": "A little copying is better than a little dependency. &mdash; Go Proverbs, via Tags: go, programming",
+      "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+      "pubDate": "2026-11-17T06:16:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a50437ccc021",
+      "title": "llm 0.37.3",
+      "description": "Release: llm 0.37.3 A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code. Short version: in SQLite 3.54.0 the following SQL: select json_object('a', (select json_array(1))) Returns this: {\"a\":[1]} But in 3.54.1 the same query returns this: {\"a\":\"[1]\"} According to D. Richard Hipp: That was a bug fix. Per the documentation, (SELECT…",
+      "link": "https://simonwillison.net/2026/Nov/16/llm/",
+      "pubDate": "2026-11-16T23:57:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "48f1dba4e33e",
+      "title": "Security Breaks in the Gaps Between Your Reviews",
+      "description": "Everything you need to understand about why the riskiest access control bugs sit between services, and how to catch them before and after they merge.",
+      "link": "https://blog.dailydoseofds.com/p/security-breaks-in-the-gaps-between",
+      "pubDate": "2026-11-16T23:02:23.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!AgsQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ac60bbe-7efc-4055-ba4b-3fd9bab152b3_1990x1338.png",
+      "type": "blog"
+    },
+    {
+      "id": "83f2d6e612d2",
+      "title": "SymfonyCon Warsaw 2026: Giving AI Agents a Durable Memory",
+      "description": "It’s almost time for our annual reunion! SymfonyCon Warsaw 2026 takes place Nov 26-27, featuring 3 tracks of developer talks and community events. 🎤 Speaker announcement Joining us as a featured speaker is Clément Bertillon, Head of Engineering,…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-giving-ai-agents-a-durable-memory?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-16T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "13d1eb12a40e",
+      "title": "wire:key and the Row That Kept the Wrong Data",
+      "description": "Steven Richardson explains why missing or unstable wire:key values can leave Livewire lists showing the wrong Alpine state or stale nested component data after a row is deleted or reordered. He shows how to use stable, prefixed keys for rows and child components, and what server-side tests can and cannot verify. Read more",
+      "link": "https://freek.dev/3224-wirekey-and-the-row-that-kept-the-wrong-data",
+      "pubDate": "2026-11-16T12:30:15.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "86b2c67c4221",
       "title": "When AI Can Code, What Is Left for Programmers to Do?",
       "description": "AI is in such widespread use for programming that project maintainers (particularly for free and open source software) are complaining about the burden of reviewing mounds of low-quality code. In fact, AI can help with every stage of code development: writing the specification, coding, uncovering bugs, and repairing the code. This article describes human-AI collaboration […]",

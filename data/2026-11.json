@@ -2,6 +2,201 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "837810a3d42e",
+      "title": "Cas client : la Caisse de Solidarité reprend la main sur sa plateforme de dons",
+      "description": "La Caisse de Solidarité est une association loi 1901 créée en 2020 et une activité militante existante depuis 2016. Elle collecte des dons et les reverse aux salarié·es grévistes et aux personnes en difficulté lors de mouvements sociaux. Elle soutient aussi les personnes victimes de discriminations. À ce jour, 111 000 dons effectués par plus […] Cet article, Cas client : la Caisse de Solidarité reprend la main sur sa plateforme de dons, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/etude-de-cas-caisse-de-solidarite",
+      "pubDate": "2026-11-17T10:44:57.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/Vignette-blog-1200×630@1x-1024x538.png",
+      "type": "blog"
+    },
+    {
+      "id": "7ecd4d4b20e4",
+      "title": "GenAI Days Nantes 2026",
+      "description": "LA Conf Gen AI dédiée aux décideurs et leurs équipes techs",
+      "link": "https://www.youtube.com/watch?v=o1ax42Pbd9E",
+      "pubDate": "2026-11-17T08:40:20.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/o1ax42Pbd9E/maxresdefault.jpg?v=6afbfe93",
+      "type": "youtube",
+      "videoId": "o1ax42Pbd9E"
+    },
+    {
+      "id": "2a1e0fd582dd",
+      "title": "Comment LinkedIn recommande vos posts au-delà de votre réseau",
+      "description": "Comment LinkedIn recommande-t-il vos publications à des personnes hors de votre réseau ? Son équipe d’ingénierie explique le rôle du profil professionnel, du pays et des premières interactions. Voici ce que les dirigeants et commerciaux de PME industrielles peuvent en tirer pour écrire des posts qui parlent à leurs clients. The post Comment LinkedIn recommande vos posts au-delà de votre réseau appeared first on Oliviersauvage.com.",
+      "link": "https://oliviersauvage.com/fr/algorithme-linkedin-recommandation-posts/",
+      "pubDate": "2026-11-17T07:11:48.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f642.png",
+      "type": "blog"
+    },
+    {
+      "id": "5884dd7e22c5",
+      "title": "Qwen4-Max : la nouvelle IA qui défie  Opus 5.5 ?",
+      "description": "🚀 *Qwen4-Max vient d'être dévoilé par Alibaba !* Ce nouveau modèle d'intelligence artificielle peut-il rivaliser avec Claude Opus 5.5, GPT-6 Astra et les meilleurs modèles IA du marché ? Avec *2 400 milliards de paramètres*, une fenêtre de contexte d'un million de tokens et des capacités avancées en programmation, Qwen4-Max promet de repousser les limites des agents IA. Dans cette vidéo, on découvre : 🔥 Les nouveautés de Qwen4-Max et son architecture Mixture-of-Experts (MoE) ⚡ Les benchmarks…",
+      "link": "https://www.youtube.com/watch?v=x8XX5HJBNrg",
+      "pubDate": "2026-11-17T03:45:11.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/x8XX5HJBNrg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "x8XX5HJBNrg"
+    },
+    {
+      "id": "e15beb8636c0",
+      "title": "Vue et React : même route, deux boîtes de vitesses",
+      "description": "Vue, c'est l'automatique ; React, la manuelle. Un même composant écrit dans les deux, ce qui se passe sous le capot (réactivité, setup et hooks, écosystème), comment les deux se rapprochent par le compilateur, et les questions à poser avant de choisir.",
+      "link": "https://blog.eleven-labs.com/fr/vue-react-meme-route-deux-boites-de-vitesses/",
+      "pubDate": "2026-11-17T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0bc8b05b85a0",
+      "title": "Vue and React: same road, two gearboxes",
+      "description": "Vue is the automatic; React, the stick shift. The same component written in both, what happens under the hood (reactivity, setup and hooks, ecosystem), how the two are converging through the compiler, and the questions to ask before choosing.",
+      "link": "https://blog.eleven-labs.com/en/vue-react-same-road-two-gearboxes/",
+      "pubDate": "2026-11-17T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "135863e501b6",
+      "title": "Stage optimisation d'un calcul haute performance pour ingénieur⋅e fin d'études ",
+      "description": "Contrat : Stage de 6 mois Lieu : Toulouse",
+      "link": "https://makina-corpus.com/devops/stage-optimisation-dun-calcul-haute-performance-pour-ingenieure-fin-detudes",
+      "pubDate": "2026-11-16T18:32:30.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4067a06f16b1",
+      "title": "Combien est payée une semaine d'astreinte dans la tech en France ?",
+      "description": "TL;DR Une semaine d’astreinte “complète” (4 nuits de semaine + un week-end, soit 123 heures où on peut te réveiller) est payée entre 150 € (fonction publique) et 765 € brut (le haut du panier dans le privé), hors majorations. La médiane de mon échantillon tourne autour de 500 €, soit à peine plus de 4 € de l’heure pour accepter d’avoir le laptop dans le sac au restaurant. Le montant affiché ne fait pas tout : majorations de nuit et de week-end, paiement des interventions, fréquence de rotation…",
+      "link": "https://blog.zwindler.fr/2026/11/16/combien-paye-astreinte-tech-france/",
+      "pubDate": "2026-11-16T17:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/11/astreinte-marathon.webp",
+      "type": "blog"
+    },
+    {
+      "id": "8f2e05b33517",
+      "title": "Lean, AI et Delivery Tech - J’ai observé le futur du développement",
+      "description": "Comment travaille une équipe qui a une longueur d’avance sur l’IA ? J’ai passé du temps avec Sara, Lead Tech, pour le découvrir. Documentation dans le repo, standards Lean devenus le carburant de l’IA, Jidoka retrouvé… et une question qui reste ouverte : développons-nous encore les personnes ?",
+      "link": "https://blog.octo.com/lean-ai-et-delivery-tech-j'ai-observe-le-futur-du-developpement",
+      "pubDate": "2026-11-16T16:45:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c4f8258c3f5",
+      "title": "API Platform Conference 2026 - Mathieu Santostefano - Des APIs sécurisées sans perdre la tête",
+      "description": "La sécurisation d’une API n’a pas toujours été facile, mais ces dernières années, l’authentification a été standardisée. Des solutions modernes et robustes ont vu le jour. Vous avez peut-être rencontré les mots-clés Oauth2, OIDC, JWT, Rate Limiting au cours des dernières années. Ce sont les technologies qui sont les fondations de la sécurisation de vos API. Mais nous irons plus loin, avec des outils comme Keycloak et de toutes nouvelles fonctionnalités de Symfony, qui nous éviteront d’avoir à…",
+      "link": "https://www.youtube.com/watch?v=BQEkktjNNmw",
+      "pubDate": "2026-11-16T15:44:37.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/BQEkktjNNmw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "BQEkktjNNmw"
+    },
+    {
+      "id": "544886b9b0a9",
+      "title": "API Platform Conference 2026 - Sébastien Rogier - 5 ans d'évolution d'une stack LLM en PHP",
+      "description": "En 2021, l’effet “magique” : nous intégrons GPT-3 à notre SaaS SEO (stack Symfony/API Platform). Un simple appel à une API, un prompt, et nous avons des suggestions de titres dans notre application. Deux ans plus tard, l’effet magique s’estompe. Nous maintenons des dizaines de “générateurs”. L’architecture (1 classe = 1 prompt) est devenue une usine à gaz, difficile à maintenir ou à faire évoluer. 2024 : Le besoin d’intégrer Claude expose notre dépendance technique. Nous devons intégrer un…",
+      "link": "https://www.youtube.com/watch?v=2M7brQYkKVo",
+      "pubDate": "2026-11-16T15:25:09.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/2M7brQYkKVo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "2M7brQYkKVo"
+    },
+    {
+      "id": "35b537255280",
+      "title": "Coraza dans FrankenPHP : ce que ça coûte vraiment d’embarquer un WAF",
+      "description": "Coraza dans FrankenPHP : benchmarks WAF et coût Kubernetes Cet article, Coraza dans FrankenPHP : ce que ça coûte vraiment d’embarquer un WAF, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/coraza-frankenphp-waf-benchmarks-kubernetes",
+      "pubDate": "2026-11-16T14:58:10.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/magnific_MBsFFMbDCm-1024x572.png",
+      "type": "blog"
+    },
+    {
       "id": "e4cc86c6f8f5",
       "title": "Faut-il encore faire venir du trafic sur son site ?",
       "description": "Faut-il chercher à faire venir du trafic sur son site ? À partir du livre Zero Click Marketing, je décrypte ce que le zéro clic change pour les entreprises B2B : visibilité, intention d’achat, mesure des résultats et rôle du site. Moins de visites ne signifie pas moins de clients. The post Faut-il encore faire venir du trafic sur son site ? appeared first on Oliviersauvage.com.",

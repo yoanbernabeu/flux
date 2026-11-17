@@ -233,6 +233,22 @@
       "type": "blog"
     },
     {
+      "id": "f30b16d7307b",
+      "title": "☕️ Java à l'ère de l'IA 🤖 - partie 4 : le RAG simple",
+      "description": "I've seen things you people wouldn't believe. ©Roy Batty",
+      "link": "https://philippart-s.github.io/blog/2026-10-28-java-and-ai-part4/",
+      "pubDate": "2026-10-28T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d1087ec93143",
       "title": "Vers une hyper-spécialisation logicielle",
       "description": "Il y a encore peu de temps, quand un outil ne correspondait pas entièrement à notre besoin, il était plus facile de s’adapter à ce dernier que l’inverse. On le configurait, on mettait en place de nouveaux processus. Aujourd’hui, de plus en plus, on le recrée. Avec l’IA, produire un logiciel n’a jamais été aussi accessible (indépendamment de la qualité du résultat). Quelques jours suffisent à obtenir une version taillée sur mesure, correspondant en tout point à ce que l’on veut et à notre façon…",
