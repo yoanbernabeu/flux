@@ -2,6 +2,139 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "56afdd286c4f",
+      "title": "New in Symfony 8.2: Custom Property Accessors",
+      "description": "The PropertyInfo component tells the rest of Symfony how to read and write the properties of your objects. It finds the methods by convention: getName(), isActive(), setName(), addRole(), removeRole(), etc. That works for most classes, but not for the ones…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-custom-property-accessors?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-18T08:09:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/hypemc.picture",
+      "type": "blog"
+    },
+    {
+      "id": "dda0d9f8c75c",
+      "title": "Optimizely Supply Chain Attack Distributes Malware Across Global Brands",
+      "description": "An attacker exploited a vulnerability in Optimizely's Web Experimentation platform on November 16, 2026, distributing malicious JavaScript through websites operated by some of the world's largest brands. Security researcher Scott Helme of Report URI identified 188 infected JavaScript snippets associated with 178 organizations, including the BBC, CNN, Zoom, GitLab, IKEA, and HSBC. The attack exposed website visitors to malware designed to replace cryptocurrency wallet addresses, steal payment…",
+      "link": "https://socket.dev/blog/optimizely-supply-chain-attack?utm_medium=feed",
+      "pubDate": "2026-11-18T00:17:00.921Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a801afcf53a2",
+      "title": "The next AI inference architecture, clearly explained (4x faster than GPUs)",
+      "description": "...plus autoregressive LLMs vs. diffusion LLMs (a popular LLM interview question).",
+      "link": "https://blog.dailydoseofds.com/p/the-next-ai-inference-architecture",
+      "pubDate": "2026-11-17T23:40:37.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/6fb4594a-1250-4b28-8f2e-728074fbfd91_2752x1536.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "379e630fc3ca",
+      "title": "Microsoft’s agent-framework PyPI package Compromised with Credential Stealer",
+      "description": "Executive Summary # The Microsoft agent-framework PyPI package was compromised on November 17th, affecting versions 1.26.1 and 1.26.2. Both versions install Python startup hooks that silently collect credentials, environment data, and cloud identity tokens, then exfiltrate them to a webhook[.]site endpoint. Avoid installing either version; if installed, remove them and rotate potentially exposed credentials. Attack Analysis # On Python startup, the .pth file imports a module that launches…",
+      "link": "https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer?utm_medium=feed",
+      "pubDate": "2026-11-17T23:05:25.054Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b4439a7527ca",
+      "title": "External sandboxes for coding agents",
+      "description": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Radiant, the AI research lab behind Superpowers and other projects. My post on the Prime Radiant blog introduces the external sandbox pattern, where code executed by the agent runs…",
+      "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "pubDate": "2026-11-17T22:52:29.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0b5f35342ecc",
+      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "description": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol. I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80% of the price of 6 Astra - $8/MTok input and $40/MTok output, the same price as Claude Fable 5.2 (which was also 80% of its predecessor). 6 Astra and Fable 5 were both $10/$50. The…",
+      "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "pubDate": "2026-11-17T22:38:52.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7f0119a99c3e",
+      "title": "The Value of Human Expertise in The Software Factory",
+      "description": "“Any sufficiently advanced technology is indistinguishable from magic.” – Arthur C. Clarke Most developers now write less code by hand. Gergely Orosz recently posted that modern software engineering is no longer done without LLMs and will no longer be done without them. Some miss writing code, while others question how much of the code that […]",
+      "link": "https://www.oreilly.com/radar/the-value-of-human-expertise-in-the-software-factory/",
+      "pubDate": "2026-11-17T16:55:03.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e220b537aee2",
+      "title": "Symfony is now a CVE Numbering Authority",
+      "description": "Symfony is now a CVE Numbering Authority (CNA). The CVE Program announced it this week, with Red Hat as our Root CNA. This means that we assign CVE IDs to the vulnerabilities of our projects ourselves, and publish the matching CVE Records. Until now,…",
+      "link": "https://symfony.com/blog/symfony-is-now-a-cve-numbering-authority?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-17T16:51:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/new-cve-partner.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9e24bec0316d",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "description": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide. I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io: Load client-side Datasette to browse any SQLite database, JSON file, CSV file or SQL script Select a released version of Datasette to…",
+      "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+      "pubDate": "2026-11-17T16:48:33.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "066f072f5b2f",
       "title": "Giving AI Agents a Better Way to Debug CSS",
       "description": "Amit Merchant shows how to connect Chrome DevTools MCP to Codex and use its get_css_styles tool to inspect matched CSS rules and overridden declarations in the browser. This lets agents diagnose cascade and specificity issues using the styles actually applied to an element instead of guessing from source files. Read more",

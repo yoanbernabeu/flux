@@ -2,6 +2,102 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "7db11e469128",
+      "title": "Défi Zéro Déchet : 10 ans aux côtés des collectivités",
+      "description": "Défi Zéro Déchet : la plateforme libre des collectivités créée par Les-Tilleuls.coop Cet article, Défi Zéro Déchet : 10 ans aux côtés des collectivités, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/defi-zero-dechet-plateforme-collectivites",
+      "pubDate": "2026-11-18T11:25:15.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/flat-lay-zero-waste-spoons-concept-1024x683.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0951d1d440f0",
+      "title": "Qwen4-Max : −60 % par tâche, pas par token",
+      "description": "Alibaba annonce Qwen4-Max environ 60 % moins cher par tâche. 35 % de tokens en moins, 1,50 $ / 4,50 $ le million de tokens… mais le vrai coût, c'est celui d'un résultat qui marche. Au token ou au résultat : tu mesures comment tes agents ? #qwen #ia #agentia",
+      "link": "https://www.youtube.com/watch?v=AgBv9Eh37PM",
+      "pubDate": "2026-11-18T06:00:17.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/AgBv9Eh37PM/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "AgBv9Eh37PM"
+    },
+    {
+      "id": "d2bca330ff67",
+      "title": "#385.src -  AT Protocol: Décentraliser son identité numérique avec Julien Wittouck",
+      "description": "\"Quitter un réseau social, d'habitude c'est tout perdre. BlueSky, eux, promettent l'inverse : vos données ne lui appartiennent pas.\" Le D.E.V. de la semaine est Julien Wittouck, développeur back-end, architecte et associé chez Ekité, enseignant à l'université de Lille et conférencier. Dans cet épisode, il nous plonge dans l'AT Protocol, le protocole ouvert et décentralisé derrière BlueSky. On y découvre comment l'identité, les données et les posts d'un utilisateur peuvent voyager d'un serveur à…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/385-0e842b5cd5a9",
+      "pubDate": "2026-11-18T04:00:31.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/d10145c3-79c4-48ee-a732-a60756f68418.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/1ebca351-8f11-461b-9acf-0e842b5cd5a9.mp3?_=1794920431",
+      "duration": "01:04:25"
+    },
+    {
+      "id": "2a3a4ec1ea73",
+      "title": "Outils de gestion sur mesure pour TPE et PME — plus vite et plus simplement avec le no-code",
+      "description": "Comment créer des outils de gestion sur mesure avec le no-code ? Thomas Vedel et Matthieu Gameiro racontent le projet TimeTonic d’IP Conseils : des tâches simplifiées, une application qui évolue avec les utilisateurs et un temps de traitement par dossier divisé par quatre. Un retour d’expérience pour les TPE et PME. The post Outils de gestion sur mesure pour TPE et PME — plus vite et plus simplement avec le no-code appeared first on Oliviersauvage.com.",
+      "link": "https://oliviersauvage.com/fr/outils-gestion-no-code-tpe-pme/",
+      "pubDate": "2026-11-17T16:32:55.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "768033f6c32a",
+      "title": "Claude Code + VPS : le combo que j’aurais aimé connaître plus tôt !",
+      "description": "🚀 Teste un VPS Hostinger pour héberger tes projets : https://www.hostg.xyz/SHEU5 🎁 Code promo PENTIMINAX pour profiter d'une réduction supplémentaire sur ton VPS ! Et si Claude Code pouvait gérer ton serveur à ta place ? Dans cette vidéo, je te montre comment j'utilise Claude Code avec un VPS Hostinger pour déployer, configurer et maintenir mes applications, sans avoir à tout faire manuellement. Avec cette combinaison, je peux gérer mon infrastructure directement depuis Claude Code sur mon…",
+      "link": "https://www.youtube.com/watch?v=fbcknydBvL4",
+      "pubDate": "2026-11-17T15:00:17.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/fbcknydBvL4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "fbcknydBvL4"
+    },
+    {
+      "id": "8e8299ef977f",
+      "title": "Many small reads, a few huge invalidations: what I learned alongside Symfony Cache on Redis Cluster",
+      "description": "On our e-commerce API, we invalidate a few hundred cache entries all the time, and that is easy with any cache. But switching the active catalogue means invalidating around a million entries at once, and that has to be fast too. With the first version of my cache, it blocked everything else for minutes, five minutes in the worst case. Nobody understood what was happening; the business and the customers saw it. So, how do you invalidate a million cache entries fast? Tags are the means, not the…",
+      "link": "https://jolicode.com/blog/many-small-reads-a-few-huge-invalidations-what-i-learned-alongside-symfony-cache-on-redis-cluster",
+      "pubDate": "2026-11-17T14:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/redis-performance/mermaid-diagram-2026-11-17-160842.png",
+      "type": "blog"
+    },
+    {
       "id": "837810a3d42e",
       "title": "Cas client : la Caisse de Solidarité reprend la main sur sa plateforme de dons",
       "description": "La Caisse de Solidarité est une association loi 1901 créée en 2020 et une activité militante existante depuis 2016. Elle collecte des dons et les reverse aux salarié·es grévistes et aux personnes en difficulté lors de mouvements sociaux. Elle soutient aussi les personnes victimes de discriminations. À ce jour, 111 000 dons effectués par plus […] Cet article, Cas client : la Caisse de Solidarité reprend la main sur sa plateforme de dons, est paru en premier sur Les-Tilleuls.coop.",
@@ -91,6 +187,21 @@
         "Programmation",
         "Web",
         "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4875e03b1ed2",
+      "title": "Tomber",
+      "description": "– Non mais, c’est comme la prof elle a dit : les charrettes en ski ! Mesdames et messieurs, “tomber de charrettes en ski, là”. Je vais me coucher, j’ai tout donné pour celui-“là”. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-tomber/",
+      "pubDate": "2026-11-16T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
