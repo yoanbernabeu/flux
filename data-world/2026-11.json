@@ -2,6 +2,153 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "afaa465c7d53",
+      "title": "Who Builds the Next Model?",
+      "description": "AI is building AI At Anthropic, Claude now writes more than 80% of the code the company merges. At Google, an AI agent called AlphaEvolve found a way to make Gemini train faster. At OpenAI, an “automated research intern” now carries out research tasks under human direction. Put those together and a pattern appears. AI […]",
+      "link": "https://www.oreilly.com/radar/?p=20251",
+      "pubDate": "2026-11-19T12:30:55.267Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2d062fe724df",
+      "title": "New in Symfony 8.2: Lock Improvements",
+      "description": "The Lock component provides exclusive access to shared resources through many stores: files, semaphores, Redis, databases, etc. Symfony 8.2 added a #[Lock] attribute for controllers and also improves the stores themselves, focusing on database advisory locks:…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-lock-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-19T08:17:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/ryanpon-payjoy.png",
+      "type": "blog"
+    },
+    {
+      "id": "74dc7e1ad56d",
+      "title": "GPU architecture, clearly explained",
+      "description": "...and why memory bandwidth, not compute, sets your token rate.",
+      "link": "https://blog.dailydoseofds.com/p/gpu-architecture-clearly-explained",
+      "pubDate": "2026-11-19T00:13:29.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/838af6d2-1392-4263-ae54-c6becd6b962a_1838x1574.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "02f125d9c6cc",
+      "title": "llm-gemini 0.38",
+      "description": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon. I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price, and Hydrogen was 3/4 of that price now but will be 1/4 of that price when the other two double an 1st December once their initial discount pricing expires. The Neon announcement pretends that Argon doesn't…",
+      "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "pubDate": "2026-11-18T23:59:20.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eeeb9ff10ba7",
+      "title": "MITRE Acknowledges Inaccurate Publication Timestamps in 87% of Its Recent CVE Records",
+      "description": "MITRE has acknowledged that a legacy publishing system is responsible for inaccurate timestamps in thousands of CVE records, following research showing that 87% of the organization's CVEs published over the past year were assigned a publication time of exactly midnight UTC. MITRE says the legacy system responsible for the problem will be phased out in the first quarter of 2027. The findings come from security researcher Jerry Gamblin, founder of RogoLabs, an independent open source research lab…",
+      "link": "https://socket.dev/blog/mitre-cve-timestamp-issues?utm_medium=feed",
+      "pubDate": "2026-11-18T19:38:28.084Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/f92b2005945a6f6bbef0602cb4ce9fc81ca9c872-1599x900.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "5f73b59a3fca",
+      "title": "datasette-arrows 0.1a0",
+      "description": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those two file formats support streaming data in chunks. The register_output_renderer() plugin hook can now be used to implement the same pattern for other formats. I've learned never to release a new plugin feature without…",
+      "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "pubDate": "2026-11-18T17:09:59.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "27f7b51e3bf8",
+      "title": "Quoting Daniel Stenberg",
+      "description": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust rewrites have. We also fixed a few vulnerabilities. In another month we have done another 200 and maybe fixed a few more vulnerabilities. Will these clones keep up? &mdash; Daniel Stenberg,…",
+      "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "pubDate": "2026-11-18T15:58:27.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d6b88907cbda",
+      "title": "The PSF end-of-year fundraiser",
+      "description": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The PSF looks after the IP behind Python, operates PyPI, sponsors core developer sprints, supports community events (including running PyCon US every year), and employs a small and excellent staff team…",
+      "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "pubDate": "2026-11-18T14:44:48.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f77dcf250508",
+      "title": "When Is a Workday Done?",
+      "description": "AI agents have changed the rhythm of my workday. I can get more done than ever, but keeping up with everything can be exhausting. I'm learning to work more intentionally, stay focused on what matters and know when I've done enough. Read more",
+      "link": "https://freek.dev/3226-when-is-a-workday-done",
+      "pubDate": "2026-11-18T14:01:18.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8ab5cf282525",
+      "title": "Modeling Software’s Business Impact",
+      "description": "The following article was originally published on James Shore’s Successful Software blog and is being republished here with the author’s permission. Are your teams working on the right thing? It doesn’t matter how fast they are if they’re running in the wrong direction. This is part 4 of my series on assessing AI’s impact on […]",
+      "link": "https://www.oreilly.com/radar/modeling-softwares-business-impact/",
+      "pubDate": "2026-11-18T11:54:10.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/21a9.png",
+      "type": "blog"
+    },
+    {
       "id": "56afdd286c4f",
       "title": "New in Symfony 8.2: Custom Property Accessors",
       "description": "The PropertyInfo component tells the rest of Symfony how to read and write the properties of your objects. It finds the methods by convention: getName(), isActive(), setName(), addRole(), removeRole(), etc. That works for most classes, but not for the ones…",

@@ -2,6 +2,89 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "d435ec291923",
+      "title": "Devoxx 2027 : le CFP ouvre bientôt",
+      "description": "📢 CFP Devoxx France : à vos agendas ! Le Call for Papers ouvre officiellement ce lundi 23 novembre et fermera ses portes le 10 janvier prochain. Pensez à soumettre assez tôt pour avoir éventuellement des retours sur vos propositions. Nous vous remercions aussi de ne pas utiliser de l’IA générative pour rédiger vos abstracts. Nous utilisons encore des humains, 25 personnes, qui lisent, notent et commentent vos propositions. Gardons l’humain dans la boucle ! 🔁❤️ Merci 👉 Rendez-vous dès le 23…",
+      "link": "https://www.youtube.com/watch?v=Uja6WoukSpU",
+      "pubDate": "2026-11-19T10:21:32.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/Uja6WoukSpU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Uja6WoukSpU"
+    },
+    {
+      "id": "9c747e0bbe87",
+      "title": "GPT-6.2 Astra : jusqu'où peut aller le nouveau ChatGPT ?",
+      "description": "🔥 Black Friday Higgsfield : profite de réductions jusqu'à 65 % ! 👉 https://higgsfield.ai/s/first-impression-on-astra-6-2-pentiminax-cclLVP GPT-6.2 Astra, le nouveau modèle d'intelligence artificielle d'OpenAI, ne se limite pas à la programmation. Grâce à Higgsfield MCP, ChatGPT peut désormais orchestrer des workflows de création d'images, de vidéos et d'animations complexes. Dans cette vidéo, je te partage mes premières impressions sur GPT-6.2 Astra avec Higgsfield AI. On découvre plusieurs…",
+      "link": "https://www.youtube.com/watch?v=ikrY6VWoO_E",
+      "pubDate": "2026-11-19T10:00:11.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/ikrY6VWoO_E/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "ikrY6VWoO_E"
+    },
+    {
+      "id": "18de0c9f546a",
+      "title": "Modèle et effort de raisonnement : trouver le bon équilibre pour vos agents",
+      "description": "La plupart des fournisseurs de modèles d’intelligence artificielle permettent aujourd’hui d’ajuster le niveau d’effort de raisonnement consacré à une tâche. Cette possibilité constitue un levier important pour maîtriser la consommation de tokens, optimiser les coûts et adapter les performances à la complexité des traitements.",
+      "link": "https://blog.octo.com/modele-et-effort-de-raisonnement--trouver-le-bon-equilibre-pour-vos-agents",
+      "pubDate": "2026-11-19T08:24:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8bb2ac688178",
+      "title": "Road trip vers l'Espagne, partie 3",
+      "description": "Jours 13 à 18 : Pays Basque « du Nord » Pour notre séjour à Biarritz avec mon épouse Bénédicte, nous avons choisi un logement un peu à l’écart du centre-ville. Au programme, pas mal de balades à pied, une journée à vélo de location, le reste à moto pour découvrir les environs. La ville de Biarritz superbe, le surf y est omniprésent, les gens sont sympas et on y mange bien. On prend la moto pour aller visiter Saint-Jean-Pied-de-Port, on en profite pour aller faire un tour au Pays basque espagnol…",
+      "link": "https://standblog.org/blog/post/2026/11/18/Road-trip-vers-l-Espagne-partie-3",
+      "pubDate": "2026-11-18T18:25:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://pix.diaspodon.fr/storage/m/_v2/40/4796c06ff-5eacf7/T07W2ndZH2NP/IifoxOTyMTZxXZ0VXpscdNnzDp818fFezgLbX6LT.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2d51ece5eccb",
+      "title": "GPT-6.2 est là : OpenAI vient-il de dépasser Claude ?",
+      "description": "🚀 *GPT-6.2 Astra et Sol sont là !* OpenAI vient de dévoiler ses nouveaux modèles d'intelligence artificielle, avec des performances impressionnantes en programmation, agents IA, création 3D et développement d'applications. Mais GPT-6.2 Astra est-il vraiment meilleur que Claude Fable 5.2 ? Simuler la suspension d'une voiture dans Blender, modéliser un moteur 3D, créer un jeu de course jouable ou développer des applications complètes : GPT-6.2 Astra repousse les limites du développement assisté…",
+      "link": "https://www.youtube.com/watch?v=Y3z0yaW6V_o",
+      "pubDate": "2026-11-18T12:53:13.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Y3z0yaW6V_o/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Y3z0yaW6V_o"
+    },
+    {
       "id": "7db11e469128",
       "title": "Défi Zéro Déchet : 10 ans aux côtés des collectivités",
       "description": "Défi Zéro Déchet : la plateforme libre des collectivités créée par Les-Tilleuls.coop Cet article, Défi Zéro Déchet : 10 ans aux côtés des collectivités, est paru en premier sur Les-Tilleuls.coop.",
@@ -51,6 +134,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/1ebca351-8f11-461b-9acf-0e842b5cd5a9.mp3?_=1794920431",
       "duration": "01:04:25"
+    },
+    {
+      "id": "db953577ceec",
+      "title": "Comment l'IA pourrait faire disparaitre l'humanité ?",
+      "description": "Entre 1 et 99 % de risque selon les experts. Mais concrètement, comment l'IA nous ferait disparaître ? Cinq scénarios, du plus proche au plus lointain.",
+      "link": "https://eventuallycoding.com/p/comment-l-ia-pourrait-faire-disparaitre-l-humanite",
+      "pubDate": "2026-11-18T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1795019634005-ahaqp3r.png",
+      "type": "blog"
     },
     {
       "id": "2a3a4ec1ea73",
