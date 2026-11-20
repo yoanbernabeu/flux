@@ -2,11 +2,159 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "58f0568df905",
+      "title": "llms.txt and MCP didn't move the needle for us. Here's what did.",
+      "description": "Cristian Tabacitu shares why stable APIs, readable source code, Laravel Boost guidelines, and code generators helped AI agents work with Backpack more than llms.txt or a docs-only MCP server. Read more",
+      "link": "https://freek.dev/3228-llmstxt-and-mcp-didnt-move-the-needle-for-us-heres-what-did",
+      "pubDate": "2026-11-20T12:30:17.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "13535d963938",
+      "title": "★ Detecting suspicious logins in your Laravel app",
+      "description": "Imagine someone logs in to your account from the other side of the world. If you're travelling, that might be perfectly normal. But if you're sitting at home in your hometown, it's suspicious. Someone might have gotten hold of your credentials. We've released laravel-suspicious-login to notify users about suspicious logins and let you decide what happens next. It looks at signals such as the browser, location and earlier failed attempts. You can email the user, block the login or run your own…",
+      "link": "https://freek.dev/3230-detecting-suspicious-logins-in-your-laravel-app",
+      "pubDate": "2026-11-20T10:01:17.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a77ab015d1e1",
+      "title": "New in Symfony 8.2: Routing Improvements",
+      "description": "In addition to letting routes choose their firewall, Symfony 8.2 improves the Routing component with more features. Default Query Parameters Contributed by…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-routing-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-20T08:31:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/oby.picture",
+      "type": "blog"
+    },
+    {
+      "id": "478ea25aeed3",
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "description": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD, an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post) Claire describes the flood of token fraud she has seen from groups abusing the product's free trial, sometimes just to get free AI usage but often to resell tokens or run other…",
+      "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "pubDate": "2026-11-20T02:49:57.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "307c3631c298",
+      "title": "Vibe Coding Has a Blind Spot",
+      "description": "...plus a Deepnote upgrade that lets coding agents share one live data app.",
+      "link": "https://blog.dailydoseofds.com/p/vibe-coding-has-a-blind-spot",
+      "pubDate": "2026-11-20T00:43:42.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!ygsv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc471b321-eb04-49d8-b34f-22d686655083_2752x1536.png",
+      "type": "blog"
+    },
+    {
+      "id": "a457925fbd60",
+      "title": "PostgreSQL 19 Released",
+      "description": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, PostgreSQL 19 adds \"read-your-writes\" consistency with the new WAIT FOR LSN command. A session on a…",
+      "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "pubDate": "2026-11-19T20:43:57.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a3441af2a2c2",
+      "title": "Hardening GitHub Actions Against Insider Threats",
+      "description": "Part one of this series covered attackers with no credential for your organization, who reach the pipeline through a pull request, a dependency or a third-party action. Those controls are largely deterministic. Pin an action to a commit SHA and a retagged action cannot run. This post covers the other half, and it behaves differently. Here the attacker presents a valid credential. Either a maintainer's account, token or session has been stolen, or a person with legitimate access is acting…",
+      "link": "https://socket.dev/blog/hardening-github-actions-against-insider-threats?utm_medium=feed",
+      "pubDate": "2026-11-19T19:17:08.445Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4b8e46be61ed",
+      "title": "Go for PHP Developers: Your First Program and a Different Workflow",
+      "description": "Start learning Go through familiar PHP concepts. Write and test your first program, understand packages and modules, and compare running source code with building an executable. Read more",
+      "link": "https://freek.dev/3227-go-for-php-developers-your-first-program-and-a-different-workflow",
+      "pubDate": "2026-11-19T13:30:56.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "70aa98878ed6",
+      "title": "SymfonyCon Warsaw 2026: Nobody typed this: reviewing agentic code",
+      "description": "Connecting with fellow developers makes all the difference. Come join us at SymfonyCon Warsaw 2026 on November 26-27 for 3 parallel tracks and community fun. 🎤 Speaker announcement Get ready to welcome Kateryna Dvornichenko, Product Manager, Upsun!…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-nobody-typed-this-reviewing-agentic-code?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-19T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
       "id": "afaa465c7d53",
       "title": "Who Builds the Next Model?",
       "description": "AI is building AI At Anthropic, Claude now writes more than 80% of the code the company merges. At Google, an AI agent called AlphaEvolve found a way to make Gemini train faster. At OpenAI, an “automated research intern” now carries out research tasks under human direction. Put those together and a pattern appears. AI […]",
       "link": "https://www.oreilly.com/radar/?p=20251",
       "pubDate": "2026-11-19T12:30:55.267Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b771b2ecefa4",
+      "title": "Who Builds the Next Model?",
+      "description": "AI is building AI At Anthropic, Claude now writes more than 80% of the code the company merges. At Google, an AI agent called AlphaEvolve found a way to make Gemini train faster. At OpenAI, an “automated research intern” now carries out research tasks under human direction. Put those together and a pattern appears. AI […]",
+      "link": "https://www.oreilly.com/radar/who-builds-the-next-model/",
+      "pubDate": "2026-11-19T11:45:40.000Z",
       "source": "O'Reilly Radar — AI/ML",
       "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
       "categories": [
