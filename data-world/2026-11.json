@@ -2,6 +2,80 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "4338a0b33222",
+      "title": "New in Symfony 8.2: Redesigned Exception Page",
+      "description": "The exception page is probably the Symfony feature that you see most often while developing applications. Its design has remained almost unchanged for years, and it showed its age. Symfony 8.2 redesigns the exception page entirely to help you find the cause…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-redesigned-exception-page?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-21T08:18:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/javier.eguiluz.picture",
+      "type": "blog"
+    },
+    {
+      "id": "3cf2cffedf9a",
+      "title": "K-means vs. E-means, clearly explained",
+      "description": "...explained visually (and a Google paper on RSI worth bookmarking).",
+      "link": "https://blog.dailydoseofds.com/p/k-means-vs-e-means-clearly-explained",
+      "pubDate": "2026-11-20T23:47:29.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!uRJp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4737aab-5ee7-4385-8572-bd2c50031ef9_2752x1536.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "cf3b0c6c1cbc",
+      "title": "Quoting Ravi Vakil",
+      "description": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft. &mdash; Ravi Vakil, Hurried Announcement: Alessandro Masullo GRH…",
+      "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "pubDate": "2026-11-20T19:21:49.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f27b1f34ce20",
+      "title": "Quoting Levent Alpöge",
+      "description": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one…",
+      "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "pubDate": "2026-11-20T16:30:48.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1da500fb2fdd",
+      "title": "SymfonyCon Warsaw 2026: Form Component Through the Ages: History of (not so) Black Magic",
+      "description": "SymfonyCon Warsaw 2026 is happening in Poland on November 26-27. A friendly gathering for developers worldwide, offering 3 tracks of sessions and space to collaborate. 🎤 Speaker announcement It’s a pleasure to introduce Benjamin Georgeault, Lead…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-form-component-through-the-ages-history-of-not-so-black-magic?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-20T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
       "id": "58f0568df905",
       "title": "llms.txt and MCP didn't move the needle for us. Here's what did.",
       "description": "Cristian Tabacitu shares why stable APIs, readable source code, Laravel Boost guidelines, and code generators helped AI agents work with Backpack more than llms.txt or a docs-only MCP server. Read more",

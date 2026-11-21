@@ -2,6 +2,90 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "ee0b6ccf5411",
+      "title": "Hugging Face × OpenRouter : une alliance qui change la donne pour l’IA",
+      "description": "Hugging Face et OpenRouter s’associent pour accélérer l’adoption des modèles IA open-weight. Alors que ces modèles représentent désormais plus de 70 % des tokens consommés sur OpenRouter, cette alliance pourrait transformer la manière dont les développeurs exploitent l’intelligence artificielle. Dans cette vidéo, je décrypte le partenariat, son infrastructure de routage intelligent et ses implications concrètes pour les développeurs utilisant Claude Code, Codex ou OpenCode. Au programme : -…",
+      "link": "https://www.youtube.com/watch?v=YKSi6DZNW2E",
+      "pubDate": "2026-11-21T10:00:23.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/YKSi6DZNW2E/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "YKSi6DZNW2E"
+    },
+    {
+      "id": "f7d61f87b9f4",
+      "title": "Kiri fait tourner des conteneurs sans Docker ! 🤯",
+      "description": "Comment Kiri arrive-t-il à faire tourner des conteneurs sans le moteur Docker ? En supprimant dockerd, containerd et runc, Kiri communique plus directement avec le noyau Linux grâce à l'appel système clone3(), tout en conservant l'isolation des conteneurs. Résultat : moins d'intermédiaires et de meilleures performances. #Docker #Kiri #Linux #DevOps #OpenSource #Shorts",
+      "link": "https://www.youtube.com/watch?v=MorNncOTjXI",
+      "pubDate": "2026-11-20T19:36:45.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/MorNncOTjXI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "MorNncOTjXI"
+    },
+    {
+      "id": "3b152ab78871",
+      "title": "Devoxx 2027 : le CFP ouvre bientôt !",
+      "description": "📢 CFP Devoxx France : à vos agendas ! Le Call for Papers ouvre officiellement ce lundi 23 novembre et fermera ses portes le 10 janvier prochain. Pensez à soumettre assez tôt pour avoir éventuellement des retours sur vos propositions. Nous vous remercions aussi de ne pas utiliser de l’IA générative pour rédiger vos abstracts. Nous utilisons encore des humains, 25 personnes, qui lisent, notent et commentent vos propositions. Gardons l’humain dans la boucle ! 🔁❤️ Merci 👉 Rendez-vous dès le 23…",
+      "link": "https://www.youtube.com/watch?v=5HrZfDPlJm4",
+      "pubDate": "2026-11-20T15:04:25.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/5HrZfDPlJm4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "5HrZfDPlJm4"
+    },
+    {
+      "id": "d06762e0c01b",
+      "title": "Qualité interne et ralentissement du rythme de livraison : pourquoi le code se dégrade et comment l'éviter",
+      "description": "Un étonnement revient souvent dans les équipes avec qui je travaille : and quot;Pourquoi est-ce que faire un changement prend deux semaines ? Il y a deux ans, faire un changement similaire prenait deux jours. and quot; Qu'est-ce qui cause ce phénomène ? Comment le mitiger ?",
+      "link": "https://blog.octo.com/qualite-interne-et-rythme-de-livraison--pourquoi-le-code-se-degrade-et-comment-l'eviter",
+      "pubDate": "2026-11-20T14:41:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f5411b5abba3",
+      "title": "Cette alternative à Docker ne consomme que 9,7 Mo de RAM ! 🤯",
+      "description": "Kiri pourrait bien remplacer Docker Desktop sur ton Mac ! Avec seulement 9,7 Mo de RAM pour les processus de son moteur, le Memory Ballooning et l'arrêt automatique de sa machine virtuelle, Kiri propose une gestion intelligente des ressources. Mais est-il vraiment meilleur que Docker Desktop, OrbStack et Colima ? Décryptage de ses performances et de ses limites. 🔗 https://runkiri.com/ #Docker #Kiri #DevOps #MacOS #Programmation #OpenSource #Shorts",
+      "link": "https://www.youtube.com/watch?v=nI-X9sS605w",
+      "pubDate": "2026-11-20T12:51:26.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/nI-X9sS605w/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "nI-X9sS605w"
+    },
+    {
       "id": "d112d3cf21a0",
       "title": "DevFest Toulouse 2026 - Récap express",
       "description": "Un DevFest Toulouse en coup de vent Comme je vous l’avais annoncé en septembre, j’étais ce jeudi 19 novembre au DevFest Toulouse, au Diagora de Labège, pour présenter ma boîte à coucou des Guignols. J’avais VRAIMENT envie de faire ce talk (comme le précédent sur KubeSolo, Raspberry Pi Zero et DOOM), donc malgré des contraintes persos et un talk de seulement 15 minutes, j’ai fait le déplacement dans la journée (5h de route aller-retour). Ce récap est donc un peu moins riche que ce que je fais…",
