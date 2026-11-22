@@ -2,6 +2,22 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "509c019f347c",
+      "title": "Claude Code : 77 % de tokens en moins avec Code Mode ?",
+      "description": "Code Mode, la nouvelle fonctionnalité expérimentale de Claude Code, fait écrire à Claude de petits programmes JavaScript qui pilotent ses outils : moins d'allers-retours, moins de tokens. Je l'ai testée sur le benchmark MCP (−76,2 % de tokens traités, Bicameral AI annonce 77 %), puis on regarde si ça tient sur un vrai projet et comment l'activer. 🔗 Liens Documentation Code Mode (Anthropic) : https://code.claude.com/docs/fr/code-mode Benchmark MCP de Bicameral AI :…",
+      "link": "https://www.youtube.com/watch?v=xyPnDpf9EJA",
+      "pubDate": "2026-11-22T10:00:37.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/xyPnDpf9EJA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "xyPnDpf9EJA"
+    },
+    {
       "id": "ee0b6ccf5411",
       "title": "Hugging Face × OpenRouter : une alliance qui change la donne pour l’IA",
       "description": "Hugging Face et OpenRouter s’associent pour accélérer l’adoption des modèles IA open-weight. Alors que ces modèles représentent désormais plus de 70 % des tokens consommés sur OpenRouter, cette alliance pourrait transformer la manière dont les développeurs exploitent l’intelligence artificielle. Dans cette vidéo, je décrypte le partenariat, son infrastructure de routage intelligent et ses implications concrètes pour les développeurs utilisant Claude Code, Codex ou OpenCode. Au programme : -…",
@@ -16,6 +32,23 @@
       "image": "https://i.ytimg.com/vi/YKSi6DZNW2E/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "YKSi6DZNW2E"
+    },
+    {
+      "id": "b0f10c50b77e",
+      "title": "Les news d'août et septembre 2026 : la rentrée du durcissement",
+      "description": "FlyD sur Unsplash Je vous avais donné rendez-vous en septembre… et nous voici bientôt en décembre. Je n’ai pas chômé pour autant : la rentrée a été dense côté pro, et je n’ai pas pris le temps d’écrire de nouveaux articles même si mon backlog déborde d’idées ou de thèmes pour l’alimenter. Cela fait un an que j’ai ouvert ce blog : j’en ai profité pour offrir au blog une nouvelle identité, plus sobre et, je l’espère, plus agréable à lire. Initialement, j’avais prévu de le faire à l’ouverture de…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/09/news-aout-septembre/",
+      "pubDate": "2026-11-21T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "f7d61f87b9f4",
