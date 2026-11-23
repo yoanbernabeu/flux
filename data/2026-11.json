@@ -2,6 +2,160 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "70e609542467",
+      "title": "Vercel UI SDK, encore une nouvelle bibliothèque d'interface ?",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/vercel-ui-sdk-2357 Vercel a récemment annoncé une nouvelle bibliothèque de composants : UI SDK. Dans un écosystème déjà pas mal saturé (Base UI, Radix ou React Aria...), on peut se demander ce qu'elle peut apporter de plus. Derrière la promesse d’un outil \"pensé pour les agents\" se cache un système permettant de créer des composants sur plusieurs frameworks en séparant le comportement du rendu. - 00:00 Présentation - 03:56 Les primitives - 11:22 Les…",
+      "link": "https://www.youtube.com/watch?v=510_VXhtqT4",
+      "pubDate": "2026-11-23T14:00:24.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/510_VXhtqT4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "510_VXhtqT4"
+    },
+    {
+      "id": "f3ba55261b78",
+      "title": "Docker change de cap : les agents IA vont tout changer ?",
+      "description": "Docker change de cap ! 🚀 Après avoir révolutionné le développement avec les conteneurs, Docker veut désormais devenir une infrastructure incontournable pour les agents IA comme Claude Code, Codex et les assistants de développement autonomes. Avec son nouveau positionnement *« Built to Run on Trust »*, Docker dévoile une stratégie centrée sur la sécurité, l'isolation et l'exécution des agents d'intelligence artificielle. Au programme : *Docker Sandboxes*, des environnements isolés basés sur des…",
+      "link": "https://www.youtube.com/watch?v=fn0vqogp8iQ",
+      "pubDate": "2026-11-23T12:00:05.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/fn0vqogp8iQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "fn0vqogp8iQ"
+    },
+    {
+      "id": "9b7b1562dd03",
+      "title": "Claude Code : pourquoi Code Mode est désactivé par défaut ? 😳",
+      "description": "Code Mode promet de réduire drastiquement la consommation de tokens dans Claude Code. Mais pourquoi Anthropic ne l'active pas pour tout le monde ? Derrière les gains de performance se cache un compromis important entre efficacité, permissions et sécurité. Dans ce Short, on découvre pourquoi Code Mode reste expérimental et ce que ça change pour les développeurs. #ClaudeCode #Anthropic #CodeMode #IA #Developpeur",
+      "link": "https://www.youtube.com/watch?v=3AB5ydFv4Yw",
+      "pubDate": "2026-11-23T10:00:30.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/3AB5ydFv4Yw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "3AB5ydFv4Yw"
+    },
+    {
+      "id": "d1d1b7a57f7b",
+      "title": "Migrating Zend Framework 1 to API Platform 4 | Robin Chalas – API Platform Con 2026",
+      "description": "Migrating a large, complex legacy application is never just a technical challenge, it’s a matter of finding the right equations between business constraints, team capacity, and long-term maintainability. This talk is a real-world experience report of an ongoing migration from Zend Framework 1 to API Platform 4, Doctrine 3, Symfony 8, and PHP 8.5. A journey that involves turning unstructured payloads into proper REST APIs leveraging the principles of linked data, progressively migrating public…",
+      "link": "https://www.youtube.com/watch?v=rzkUHGmM4gg",
+      "pubDate": "2026-11-23T08:00:38.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/rzkUHGmM4gg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "rzkUHGmM4gg"
+    },
+    {
+      "id": "fa529e98c00d",
+      "title": "Own Your Content: ActivityPub & the Open Web | Derick Rethans – API Platform Con 2026",
+      "description": "In this keynote we are having a critical look at how the web went wrong. How we went from using common and open protocols to create a rich digital culture, to an environment were everything seems to turn into walled gardens and platforms, controlled by “big tech”, and algorithms, that can, at a whim, scupper your business. We will look at how this control by big tech is detrimental to the open web, and open discussions, and having thriving communities. But it doesn’t have to be like that. And…",
+      "link": "https://www.youtube.com/watch?v=8IkTPwRWbEE",
+      "pubDate": "2026-11-23T08:00:31.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/8IkTPwRWbEE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "8IkTPwRWbEE"
+    },
+    {
+      "id": "f28c66e00e12",
+      "title": "Event-Driven APIs with Symfony Messenger & Redis | Abdellah El Ghailani – API Platform Con 2026",
+      "description": "Modern enterprise systems can’t afford to be fragile. When a critical downstream service is slow, an ERP takes 3 seconds to respond, or traffic spikes unexpectedly, your API needs to keep serving gracefully. In this talk, I’ll share hard-won lessons from a real-world migration: replacing a legacy BizTalk middleware layer with a Symfony/API Platform application that talks directly to SAP via RFC, processes orders asynchronously through Messenger, and uses Redis both as a cache layer and a…",
+      "link": "https://www.youtube.com/watch?v=HFvNjoHpZjo",
+      "pubDate": "2026-11-23T08:00:20.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/HFvNjoHpZjo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "HFvNjoHpZjo"
+    },
+    {
+      "id": "e82cd67211ab",
+      "title": "Run FrankenPHP Locally with DDEV | Stephan Hochdörfer – API Platform Con 2026",
+      "description": "DDEV offers a powerful yet accessible approach to containerized development. In this session, we will walk through setting up a DDEV environment explicitly for FrankenPHP. This talk explores adding FrankenPHP to a DDEV environment, covering both server configuration and the practicalities of daily development. Learn how to leverage DDEV’s tooling to manage the full application lifecycle, from setting up the FrankenPHP runtime to handling routine debugging and data backups tasks. _________…",
+      "link": "https://www.youtube.com/watch?v=TxNWGJYZSlo",
+      "pubDate": "2026-11-23T08:00:09.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/TxNWGJYZSlo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "TxNWGJYZSlo"
+    },
+    {
+      "id": "3d4df84e70e8",
+      "title": "Vos audits de sécurité ne voient pas tout : je lance Stackalarm (open source)",
+      "description": "Avec les agents IA, le nombre de failles explose : PHP2Shell, React2Shell, kernel Linux, nginx… Et entre la publication d'un correctif et son exploitation dans la nature, on ne compte plus en semaines mais en heures. Alors comment suivre ? Dans cette vidéo, je vous présente stackalarm, un outil open source (licence MIT) que j'ai développé ces dernières semaines. Sa promesse : voir ce que vos audits ne voient pas. composer audit et npm audit font très bien leur travail, mais ils ne lisent que…",
+      "link": "https://www.youtube.com/watch?v=xLJcTeXwqgI",
+      "pubDate": "2026-11-22T17:06:31.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/xLJcTeXwqgI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "xLJcTeXwqgI"
+    },
+    {
+      "id": "48ee5c419d44",
+      "title": "Claude Code : Code Mode réduit mes tokens de 76 % ! 🤯",
+      "description": "📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les meilleures formations pour apprendre à programmer ★ ▶️ Apprendre le C# : http://bit.ly/csharp-course-fr ▶️ Apprendre le PHP : http://bit.ly/php-course-fr ★ Les meilleurs tutoriels ★ ▶️ Tutoriel C# : https://www.youtube.com/playlist?list=PLkHw7J3J2iaqfQTn23awgOsp65y63u4JD ▶️ Tutoriel Xamarin : https://www.youtube.com/playlist?list=PLkHw7J3J2iaqSek-JvskTjyvjWUwbzYdy ▶️ Tutoriel PHP :…",
+      "link": "https://www.youtube.com/watch?v=LJPUd1tBONU",
+      "pubDate": "2026-11-22T15:27:22.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/LJPUd1tBONU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "LJPUd1tBONU"
+    },
+    {
       "id": "509c019f347c",
       "title": "Claude Code : 77 % de tokens en moins avec Code Mode ?",
       "description": "Code Mode, la nouvelle fonctionnalité expérimentale de Claude Code, fait écrire à Claude de petits programmes JavaScript qui pilotent ses outils : moins d'allers-retours, moins de tokens. Je l'ai testée sur le benchmark MCP (−76,2 % de tokens traités, Bicameral AI annonce 77 %), puis on regarde si ça tient sur un vrai projet et comment l'activer. 🔗 Liens Documentation Code Mode (Anthropic) : https://code.claude.com/docs/fr/code-mode Benchmark MCP de Bicameral AI :…",

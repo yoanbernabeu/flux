@@ -2,6 +2,125 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "e8834647d746",
+      "title": "Bypassing iOS Safari’s 60 FPS Limit to Build Web Applications That Feel Native",
+      "description": "Rida F'kih combines native scrolling with OffscreenCanvas to get 120 Hz input and rendering on iOS Safari. He walks through the experiments behind a Liquid Glass tab bar and explains why this workaround isn't something to rebuild an entire app around. Read more",
+      "link": "https://freek.dev/3232-bypassing-ios-safaris-60-fps-limit-to-build-web-applications-that-feel-native",
+      "pubDate": "2026-11-23T12:30:38.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bf0744379c96",
+      "title": "Symfony UX 3.8 released: The Optimization Update",
+      "description": "Symfony UX 3.8 is out, two and a half weeks after 3.7. It adds UX Upload, a cva() function to UX CSS, and moves the Shadcn kit of the UX Toolkit onto the native APIs of the browser. It is also the optimization update: 60 of its 91 pull requests make a package…",
+      "link": "https://symfony.com/blog/symfony-ux-3-8-released-the-optimization-update?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-23T12:01:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/smnandre.png",
+      "type": "blog"
+    },
+    {
+      "id": "c82d71f6fe4b",
+      "title": "Black Friday 2026: Exclusive Deals for the Symfony Community!",
+      "description": "Black Friday is officially here, and it’s the perfect time to treat yourself, sharpen your skills, and level up your projects! Whether you’re looking to validate your expertise with an official certification, improve your codebase quality before your next…",
+      "link": "https://symfony.com/blog/black-friday-2026-exclusive-deals-for-the-symfony-community?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-23T09:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/Banner-BLOG.png",
+      "type": "blog"
+    },
+    {
+      "id": "67c69405e343",
+      "title": "New in Symfony 8.2: Console improvements",
+      "description": "Symfony 8.2 is a big release for terminal applications. We already introduced console sub-commands, the Tui component improvements and the smarter arguments of invokable commands. This article showcases the rest of the new features added to the Console component.…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-console-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-23T08:08:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/KalimeroMK.png",
+      "type": "blog"
+    },
+    {
+      "id": "a136d5e3dd45",
+      "title": "We didn't really want to write a book. But we wanted to write that book—Cynthia Dunlop (Show Your Workflow #2)",
+      "description": "Cynthia went from a literature grad program to explaining C/C++ runtime error detection tools in about three weeks. Since then, she has co-authored six books, with the latest one an ambitious 6-month “weekend project”. That makes her the perfect guest for the show. I asked her all the questions that make writing so unique: how she ended up writing so many books, how she keeps going, what her writing process is, where her ideas come from, and much more.",
+      "link": "https://www.ssp.sh/blog/cynthia-dunlop-writing-books/",
+      "pubDate": "2026-11-23T04:00:00.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f79590d7e769",
+      "title": "Moving from RAG Apps to RAG Systems Engineering",
+      "description": "A developer-focused guide to retrieval drift, embedding migrations, and answer verification.",
+      "link": "https://blog.dailydoseofds.com/p/moving-from-rag-apps-to-rag-systems-465",
+      "pubDate": "2026-11-23T00:07:37.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!woLS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde01ec95-4ed9-4676-a7c2-405f063520f5_5504x2279.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "b0c1b6250591",
+      "title": "Select Styling Specimens",
+      "description": "Tool: Select Styling Specimens I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser After some experimentation I've decided my favorite CSS for select boxes is this: select {…",
+      "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
+      "pubDate": "2026-11-22T19:45:06.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ee7388481714",
+      "title": "What’s New in PHP 8.6 from a Performance Perspective",
+      "description": "Tideways looks at PHP 8.6 benchmarks for Symfony, Laravel, and WordPress, explaining why upgrading alone won't bring a broad speed boost. The video also covers faster functions, the new Polling API, reduced ZTS overhead, and TLS handshake reuse in streams. Read more",
+      "link": "https://freek.dev/3231-whats-new-in-php-86-from-a-performance-perspective",
+      "pubDate": "2026-11-22T12:30:34.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6f38ec9e712d",
       "title": "A Week of Symfony #1038 (November 16–22, 2026)",
       "description": "This week, we announced that Symfony is now a CVE Numbering Authority, so we now assign the CVE IDs of Symfony, Twig and our other projects ourselves. Meanwhile, we kept publishing articles about Symfony 8.2 features, such as Tui improvements, smarter controller…",
@@ -193,6 +312,21 @@
         "Web"
       ],
       "image": "https://connect.symfony.com/profile/oby.picture",
+      "type": "blog"
+    },
+    {
+      "id": "5f9dd29a1653",
+      "title": "Business Knowledge Is Still King: Agentic Data Analysis Without a Data Team",
+      "description": "Let’s say you are new to data analytics and need a report or data analysis of a file, multiple files, or a query from a data warehouse. How do you start? What do you do? The common path is probably to ask ChatGPT or use the chatbox available, paste the exported CSV into Excel, and make some edits. But how do you share it, schedule it, and have a central pipeline for all, not manually in a spreadsheet function, and how would you scale the Excel sheet if it’s slow to crunch a lot of data?",
+      "link": "https://www.ssp.sh/blog/business-knowledge-still-king/",
+      "pubDate": "2026-11-20T04:40:08.000Z",
+      "source": "SSP Data Engineering Blog",
+      "sourceUrl": "https://www.ssp.sh/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
