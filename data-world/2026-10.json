@@ -103,6 +103,20 @@
       "type": "blog"
     },
     {
+      "id": "3aebd6320c02",
+      "title": "Getting Smarter, Not Just Faster",
+      "description": "This event summary was created by Claude with light editing by Tim O’Reilly, based on a transcript of the event. On October 15, 2026, Tim O’Reilly hosted Andrew Odewahn, CTO of O’Reilly Media, for an hour-long episode of Live with Tim O’Reilly, the interview series streamed live on the O’Reilly learning platform. Andrew has been […]",
+      "link": "https://www.oreilly.com/radar/getting-smarter-not-just-faster/",
+      "pubDate": "2026-10-30T16:54:16.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "52f836b78b3c",
       "title": "SymfonyCon Warsaw 2026: Headless vs Monolith: The Final Battle",
       "description": "Let's meet up in Poland! SymfonyCon Warsaw 2026 brings the international PHP and Symfony community together on November 26-27. Come for the 3 talk tracks, stay for the people. 🎤 Speaker announcement Mark your calendars for Gracjan Józefczyk, Backend…",

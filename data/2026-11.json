@@ -2,6 +2,70 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "3cb6a22ea502",
+      "title": "Parvis : l’assistant IA des communes qui cite ses sources",
+      "description": "À l’occasion du Salon des Maires et des Collectivités Locales, où nous sommes présent·es, notre coopérative et Tilia lancent Parvis, un assistant pour les communes qui répond aux questions des habitants et habitantes à partir du site et des documents de la mairie. Chaque réponse cite sa source : un clic, et l’on arrive sur […] Cet article, Parvis : l’assistant IA des communes qui cite ses sources, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/parvis-assistant-ia-communes",
+      "pubDate": "2026-11-24T14:27:11.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/vignette-parvis-1024x538.png",
+      "type": "blog"
+    },
+    {
+      "id": "064cd1a5d210",
+      "title": "Comment ajouter des agrégations à une collection API Platform",
+      "description": "En juillet 2023, j'ai demandé sur les discussions d'API Platform comment renvoyer des données en plus dans une GetCollection, et surtout comment les documenter. J'avais proposé d'écrire un article si ça intéressait quelqu'un, et en septembre, quelqu'un a dit oui. Le voici, avec trois ans de retard 😅 Le besoin J’ai eu ce besoin pour des endpoints d’API sur redirection.io. Mais pour simplifier l’article nous allons prendre un autre exemple concret : une liste d'articles, sur GET /api/articles. À…",
+      "link": "https://jolicode.com/blog/comment-ajouter-des-agregations-a-une-collection-api-platform",
+      "pubDate": "2026-11-24T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33ac49651ba9",
+      "title": "Claude Fable 5.2 crée un site web COMPLET avec ce MCP !",
+      "description": "🔥 Black Friday Sale, get up to 65% off Higgsfield plans 👉 https://higgsfield.ai/s/claude-fable-5-2-yt-pentiminax-lvjMLP 🚀 Claude Fable 5.2 peut-il créer un site web complet, avec ses propres images, vidéos et animations, depuis une seule conversation ? Dans cette vidéo sponsorisée par *Higgsfield*, je teste *Claude Fable 5.2 avec Higgsfield MCP* pour développer DevFlow AI, une plateforme SaaS fictive destinée aux développeurs. L'objectif : créer un véritable site web interactif de A à Z,…",
+      "link": "https://www.youtube.com/watch?v=VvFRw7z-GUs",
+      "pubDate": "2026-11-24T10:00:13.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/VvFRw7z-GUs/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "VvFRw7z-GUs"
+    },
+    {
+      "id": "9d9f212df016",
+      "title": "Ton agent IA a accès à ta machine… et c'est dangereux ⚠️",
+      "description": "Ton agent IA peut lire tes fichiers, exécuter des commandes et modifier ton environnement de développement. Mais jusqu'où faut-il lui faire confiance ? 🤖 Avec les agents IA comme Claude Code, Codex ou OpenCode, la sécurité devient un enjeu majeur. Docker propose une nouvelle approche avec *Docker Sandboxes* : isoler les agents IA dans des environnements dédiés pour limiter les risques sur ta machine. Pourquoi cette isolation pourrait changer notre façon de développer avec l'IA ? #Docker…",
+      "link": "https://www.youtube.com/watch?v=choVJqJM3v8",
+      "pubDate": "2026-11-23T15:55:38.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/choVJqJM3v8/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "choVJqJM3v8"
+    },
+    {
       "id": "70e609542467",
       "title": "Vercel UI SDK, encore une nouvelle bibliothèque d'interface ?",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/vercel-ui-sdk-2357 Vercel a récemment annoncé une nouvelle bibliothèque de composants : UI SDK. Dans un écosystème déjà pas mal saturé (Base UI, Radix ou React Aria...), on peut se demander ce qu'elle peut apporter de plus. Derrière la promesse d’un outil \"pensé pour les agents\" se cache un système permettant de créer des composants sur plusieurs frameworks en séparant le comportement du rendu. - 00:00 Présentation - 03:56 Les primitives - 11:22 Les…",

@@ -2,6 +2,185 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "3abecbcdc5ec",
+      "title": "Twig 4.0.0-beta1 released",
+      "description": "Six months after the first alpha, Twig 4.0 reaches beta. Since then, the 3.x branch has deprecated many legacy behaviors, and this beta removes them all: sandboxed templates get an environment of their own, macros become as strict as functions, and several…",
+      "link": "https://symfony.com/blog/twig-4-0-0-beta1-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-24T13:34:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://github.com/fabpot.png",
+      "type": "blog"
+    },
+    {
+      "id": "1a8556d9f8b9",
+      "title": "Twig 3.31.1 released",
+      "description": "Twig 3.31.1 is a security release that fixes nine vulnerabilities, seven of them in the sandbox. This post also covers two more, which 3.31.0 already fixed. Applications that don't render sandboxed templates are only exposed to two of these issues. One is…",
+      "link": "https://symfony.com/blog/twig-3-31-1-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-24T12:34:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fa85a42d20c1",
+      "title": "Bad ideas that aren't bad anymore",
+      "description": "Devon Estes shares how AI has led his team to rethink peer code reviews, parallel work, and the value of deep technical expertise. He argues that engineering advice needs revisiting when the costs behind it change. Read more",
+      "link": "https://freek.dev/3233-bad-ideas-that-arent-bad-anymore",
+      "pubDate": "2026-11-24T12:30:41.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e94e1e8910f9",
+      "title": "CVE-2026-133773 Unbounded Converter Memoisation in twig/markdown-extra Keyed on Template-Controlled Options",
+      "description": "Affected versions Twig Markdown Extra versions <3.31.1 are affected by this security issue. The issue has been fixed in Twig Markdown Extra 3.31.1. Description The html_to_markdown filter of twig/markdown-extra keeps an HtmlConverter for each distinct…",
+      "link": "https://symfony.com/blog/cve-2026-133773-unbounded-converter-memoisation-in-twig-markdown-extra-keyed-on-template-controlled-options?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-24T11:54:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "60617ef25e3f",
+      "title": "CVE-2026-133772 Sandbox Tag Allow-List Bypass via the Branch of a `guard` Tag That Isn't Selected",
+      "description": "Affected versions Twig versions >=3.15.0, <3.31.0 are affected by this security issue. The issue has been fixed in Twig 3.31.0. Description The guard tag compiles only one of its branches, depending on whether a callable exists. The other branch…",
+      "link": "https://symfony.com/blog/cve-2026-133772-sandbox-tag-allow-list-bypass-via-the-branch-of-a-guard-tag-that-isn-t-selected?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-24T11:54:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "715c5a279778",
+      "title": "CVE-2026-133771 Missing autoescaping for a variable named like a macro import alias of another scope",
+      "description": "Affected versions Twig versions <3.31.0 are affected by this security issue. The issue has been fixed in Twig 3.31.0. Description The escaper considered x.attr, x['key'] and x.method() safe whenever {% import ... as x %} appeared anywhere in the template.…",
+      "link": "https://symfony.com/blog/cve-2026-133771-missing-autoescaping-for-a-variable-named-like-a-macro-import-alias-of-another-scope?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-24T11:54:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bfe39e5b176c",
+      "title": "datasette-charts 0.2a0",
+      "description": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday. Today it's gained integration with Datasette Agent, so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent.datasette.io where you can sign in with GitHub to try the plugin yourself: Download the video (MP4) I prompt Datasette Agent to \"Use #stats to show sqlite-utils downloads over time…",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "pubDate": "2026-11-24T04:24:29.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cde2e4331c94",
+      "title": "datasette-agent 0.7a1",
+      "description": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent: chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way that changes state. I built this in order to fix some bugs with the much more exciting datasette-charts 0.2a0 release. Tags: datasette-agent,…",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "pubDate": "2026-11-24T03:45:57.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2f3ef0ead000",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "description": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the previous pass. This gives us a deeper network without increasing the parameter count. This is the…",
+      "link": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "pubDate": "2026-11-23T23:40:49.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "303eebb4ce3f",
+      "title": "You’re Using Coding Agents At Half Their Power",
+      "description": "...plus a major agent memory upgrade!",
+      "link": "https://blog.dailydoseofds.com/p/youre-using-coding-agents-at-half",
+      "pubDate": "2026-11-23T22:23:32.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!1tIX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79cebcf6-71e7-4b3a-a3f8-357bb02297e2_895x836.png",
+      "type": "blog"
+    },
+    {
+      "id": "e07bf38c1a2c",
+      "title": "13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments",
+      "description": "Socket’s Threat Research Team identified 13 malicious NuGet packages from an operation that uses fake job “Home Assessment” projects to target Windows .NET developers. Most of the packages pose as WinUI 3 and WPF button controls. In the versions we analyzed, building or running a project that uses them downloads files from GitHub, stages a DLL side-loading pair around the Microsoft On-Screen Keyboard (osk.exe), or downloads and runs an executable. One package, WinUI.Button 1.0.0, remains listed…",
+      "link": "https://socket.dev/blog/malicious-nuget-packages-fake-job-assessments?utm_medium=feed",
+      "pubDate": "2026-11-23T21:55:22.725Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/db7947cb68178fd60c85bd9c05eb02a71a39d0e1-2048x1420.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "e59fe8be067f",
+      "title": "Ladybird's first alpha release",
+      "description": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, ffmpeg for video, and SQLite for the things you do with SQLite. Everything else is part of Ladybird, or code brought in from Ladybird's even more ambitious predecessor project SerenityOS. This morning…",
+      "link": "https://simonwillison.net/2026/Nov/23/ladybird/",
+      "pubDate": "2026-11-23T21:46:35.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e8834647d746",
       "title": "Bypassing iOS Safari’s 60 FPS Limit to Build Web Applications That Feel Native",
       "description": "Rida F'kih combines native scrolling with OffscreenCanvas to get 120 Hz input and rendering on iOS Safari. He walks through the experiments behind a Liquid Glass tab bar and explains why this workaround isn't something to rebuild an entire app around. Read more",
@@ -72,6 +251,21 @@
       "categories": [
         "Programmation",
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d26bd4b314a8",
+      "title": "datasette-charts 0.1a0",
+      "description": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin. You can try it out in Datasette Lite here. It looks like this: The new charts plugin works against any table or arbitrary SQL query in Datasette. It defines several different chart types (using vendored D3, Observable Plot, and topojson-client), each with a set of…",
+      "link": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "pubDate": "2026-11-23T00:37:20.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"
