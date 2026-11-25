@@ -2,6 +2,185 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "19c0f223a0e5",
+      "title": "React Native Connection 2026",
+      "description": "Résumé talk par talk de la React Native Connection 2026 : agents IA, desktop, web, navigation, animations et les tendances à retenir.",
+      "link": "https://blog.ippon.fr/2026/11/25/react-native-connection-2026/",
+      "pubDate": "2026-11-25T13:49:51.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/11/data-src-image-2ba30b1a-c1c6-47ee-a3d0-fb296a746396-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "70cec7c656cf",
+      "title": "J'ai demandé à Claude Code de réparer mon Wi-Fi…",
+      "description": "J'ai demandé à Claude Code de diagnostiquer et d'optimiser mon Wi-Fi, et les résultats sont surprenants ! Grâce à un simple prompt trouvé sur X, j'ai transformé Claude Code en véritable outil de diagnostic réseau. L'agent IA a analysé ma connexion Internet, détecté les interférences Wi-Fi, identifié des problèmes de configuration de mon routeur et proposé des solutions concrètes pour améliorer les performances. Dans cette vidéo, je vous montre : - Comment utiliser Claude Code pour diagnostiquer…",
+      "link": "https://www.youtube.com/watch?v=WmW3cT5V1yk",
+      "pubDate": "2026-11-25T11:00:18.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/WmW3cT5V1yk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "WmW3cT5V1yk"
+    },
+    {
+      "id": "a05949b69525",
+      "title": "Quand les ventes plafonnent, par où commencer ?",
+      "description": "Quand les ventes plafonnent, quelles actions lancer d’abord ? Mathilde Le Rouzic explique comment un audit marketing B2B aide à revoir les priorités. À partir du cas d’un grossiste en téléphonie, elle montre comment écouter ses clients, réunir marketing et commerciaux et combiner des actions rapides avec des chantiers de fond. The post Quand les ventes plafonnent, par où commencer ? appeared first on Oliviersauvage.com.",
+      "link": "https://oliviersauvage.com/fr/quand-les-ventes-plafonnent-par-ou-commencer/",
+      "pubDate": "2026-11-25T10:51:11.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f3f565d3e023",
+      "title": "Comment transcrire en texte l’audio d’une réunion, en local et gratuitement avec Whisper",
+      "description": "Transcription Google Meet oubliée ? Avec ffmpeg et whisper.cpp, convertissez l'audio de votre réunion en texte sur votre laptop, en quelques minutes, sans coût de tokens et sans envoyer de données dans le cloud.",
+      "link": "https://blog.ippon.fr/2026/11/25/transcrire-audio-reunion-whisper/",
+      "pubDate": "2026-11-25T08:01:30.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/11/image_f4706479.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8c707270f9ea",
+      "title": "Claude Code : MCP devient bien plus qu'un simple connecteur !",
+      "description": "Anthropic vient d'annoncer une nouvelle évolution du Model Context Protocol (MCP) dans Claude et Claude Code. Avec Skills over MCP, les serveurs MCP peuvent désormais distribuer leurs propres Skills. MCP Tasks permet de déléguer des opérations longues en arrière-plan, tandis qu'Elicitation introduit des interactions avec l'utilisateur pendant leur exécution. Dans cette vidéo, on découvre : • Skills over MCP et les fichiers SKILL.md distants • MCP Tasks et l'exécution en arrière-plan •…",
+      "link": "https://www.youtube.com/watch?v=SNJGrw8sMgo",
+      "pubDate": "2026-11-25T07:00:27.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/SNJGrw8sMgo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "SNJGrw8sMgo"
+    },
+    {
+      "id": "61d38405be3e",
+      "title": "#386.src - ESN AI Native: Remettre l'humain au coeur de l'Agentic Software Factory avec Jordan Nourry",
+      "description": "\"Vous voulez quelque chose qui va plus vite, mais quelle organisation voulez-vous créer autour de ça ?\" Le D.E.V. de la semaine est Jordan Nourry, cofondateur de Shodo Studio. Face à l'arrivée massive de l'IA générative, Jordan explique comment son ESN a complètement repensé son modèle : équipes réduites à 3-4 personnes, software factory agentique sur mesure pour chaque client, et surtout une obsession pour remettre l'humain au centre de la conception, de la réalisation et de la production. Il…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/386-1d1a7e0f66d5",
+      "pubDate": "2026-11-25T04:00:27.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/ebcefb2c-2e00-4a52-9294-8f218234f6c7.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/65ceec49-da35-4c8e-b8f7-1d1a7e0f66d5.mp3?_=1795525227",
+      "duration": "01:13:08"
+    },
+    {
+      "id": "38e45bab89b6",
+      "title": "Claude Code ne se contente plus de coder ! (Claude Ship)",
+      "description": "Claude Code ne se contente plus de coder ! Avec Claude Ship, Anthropic veut automatiser les étapes qui suivent le développement d'une fonctionnalité : la revue de code, les corrections et l'approbation des pull requests. Dans cette vidéo, on découvre les trois composants de Claude Ship : Code Review, PR Steward et Claude Approvals, ainsi que la nouvelle commande `/ship` intégrée à Claude Code. On revient également sur son intégration avec GitHub, son fonctionnement dans un véritable projet open…",
+      "link": "https://www.youtube.com/watch?v=7yHNVnpIjSw",
+      "pubDate": "2026-11-25T01:29:00.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/7yHNVnpIjSw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "7yHNVnpIjSw"
+    },
+    {
+      "id": "3ab1d1884a31",
+      "title": "Recruter avec méthode, sans perdre l’humain (épisode 5)",
+      "description": "Trois entretiens de deux heures pour s'apercevoir, à la fin, qu'on n'était pas sur la même fourchette de salaire. L'erreur qui a tout changé dans notre façon de recruter.",
+      "link": "https://www.elao.com/blog/elao/rh-tpe-ep-05-recruter",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e44c9c780e6",
+      "title": "On a gagné du temps. Rendons-le aux humains",
+      "description": "Il y a quelques mois, le backlog de mon équipe s'est vidé. Plutôt que de coder des features pour remplir le vide, on a remis de la discussion entre métier, produit et tech. Ce que l'IA ne fera pas à notre place : décider.",
+      "link": "https://yoandev.co/rendre-le-temps-aux-humains",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/rendre-le-temps-aux-humains.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c8f17d7e10c4",
+      "title": "Modèles de décision, une IA qui répond en 10 ms",
+      "description": "Depuis le marketing de septembre 2026 autour de JEV, une petite famille de decision models s'est formée : JEV, Clef, D1 et Laya. L'idée, c'est un modèle rapide et automatique, qui classe, route, score ou filtre, là où un LLM, plus lent et plus coûteux, reste le bon outil pour écrire, coder, planifier ou dialoguer. Dans l’épisode, nous expliquons : comment ça marche, le prix, les questions typées (NOUL, Choice, Score, et Box pour l'image), la sortie JSON. Comment s'en servir côté dev : routage…",
+      "link": "https://double-slash.dev/podcasts/decision_model/",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1795540127/episode/ART_148_biw0zb.png",
+      "type": "podcast",
+      "audioUrl": "https://cdn.double-slash.dev/episodes/DS_148_decision_model.mp3",
+      "duration": "2559"
+    },
+    {
+      "id": "ebc6ba794739",
+      "title": "Claude Code dans Docker ? Ce n'est pas suffisant !",
+      "description": "Exécuter Claude Code dans un conteneur Docker ne suffit pas toujours à garantir son isolation. En exposant le socket Docker, un agent IA peut obtenir un accès étendu à la machine hôte. Avec Docker Sandboxes, chaque agent bénéficie de sa propre microVM, de son propre noyau Linux et de son propre moteur Docker. Une nouvelle approche pour sécuriser les agents IA autonomes. #Docker #ClaudeCode #DockerSandboxes #IA #DevOps #Shorts",
+      "link": "https://www.youtube.com/watch?v=gRbuNipDl6c",
+      "pubDate": "2026-11-24T15:34:22.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/gRbuNipDl6c/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "gRbuNipDl6c"
+    },
+    {
       "id": "3cb6a22ea502",
       "title": "Parvis : l’assistant IA des communes qui cite ses sources",
       "description": "À l’occasion du Salon des Maires et des Collectivités Locales, où nous sommes présent·es, notre coopérative et Tilia lancent Parvis, un assistant pour les communes qui répond aux questions des habitants et habitantes à partir du site et des documents de la mairie. Chaque réponse cite sa source : un clic, et l’on arrive sur […] Cet article, Parvis : l’assistant IA des communes qui cite ses sources, est paru en premier sur Les-Tilleuls.coop.",
@@ -48,6 +227,21 @@
       "image": "https://i.ytimg.com/vi/VvFRw7z-GUs/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "VvFRw7z-GUs"
+    },
+    {
+      "id": "b75879382016",
+      "title": "Déployer un projet Symfony sur Scaleway Functions",
+      "description": "Je l’ai évoqué plusieurs fois au travers de différents articles de ce blog, mais je porte une attention particulière à utiliser et héberger mes outils sur des infrastructures françaises ou (à défaut) européennes. Pour des sites statiques simples, je passe généralement par un hébergement Alwaysdata et pour les serveurs type VPS, j’utilise Scaleway. Je souhaitais récemment déployer une petite application Symfony ayant très peu de trafic. Pour des raisons qui me sont propres, je ne souhaite pas…",
+      "link": "https://www.jdecool.fr/blog/2026/11/24/deployer-un-projet-symfony-sur-scaleway-functions.html",
+      "pubDate": "2026-11-23T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "9d9f212df016",
