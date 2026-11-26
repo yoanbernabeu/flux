@@ -2,6 +2,169 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "cf3bc42672e6",
+      "title": "Ray is getting rusty!",
+      "description": "We've rewritten Ray in Rust with GPUI, making it faster and lighter while keeping the interface familiar. Dries shares how we used Claude and a parity harness to build Ray 4, which is a free upgrade for existing users. Read more",
+      "link": "https://freek.dev/3235-ray-is-getting-rusty",
+      "pubDate": "2026-11-26T12:30:31.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bb457a003ff1",
+      "title": "What PHP's session handler teaches us about atomicity",
+      "description": "Amit Merchant explains how interrupted writes in PHP's file-based session handler could turn leftover session data into a security vulnerability. It's a useful example of why locking a file doesn't make an update atomic. Read more",
+      "link": "https://freek.dev/3237-what-phps-session-handler-teaches-us-about-atomicity",
+      "pubDate": "2026-11-26T09:56:33.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "033cf9d6c525",
+      "title": "New in Symfony 8.2: Messenger improvements",
+      "description": "Symfony 8.2 is a huge release for the Messenger component. We already introduced the outbox and claim check options, the Messenger inbox, Messenger flows, cross-application messaging, signed transports, faster workers and the MongoDB transport. This article…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-messenger-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-26T08:11:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/joppedc.picture",
+      "type": "blog"
+    },
+    {
+      "id": "7de39f044da3",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "description": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025. It was only today that I understood one of its most attractive characteristics. Normally, if you want to grab a snapshot copy of a SQLite database, you need to use either the backup API or VACUUM INTO. In both cases you need enough disk space to create a duplicate copy of your…",
+      "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+      "pubDate": "2026-11-26T06:08:25.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "619a96ab2485",
+      "title": "16 Policy Optimization Methods for LLM Training",
+      "description": "...plus an open-source engine that streams 180B-class models from an SSD.",
+      "link": "https://blog.dailydoseofds.com/p/16-policy-optimization-methods-for-8e6",
+      "pubDate": "2026-11-26T00:13:03.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!0mU3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdff311b7-dbce-408f-b390-59a673419fe0_1600x1335.png",
+      "type": "blog"
+    },
+    {
+      "id": "2ada6bc927bc",
+      "title": "Quoting Scott Aaronson",
+      "description": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo first training his telescope on the stars. That might give you some idea of how our resolution into the complexity-theoretic universe, and the whole universe of mathematical truth beyond it, has now improved. &mdash; Scott…",
+      "link": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "pubDate": "2026-11-25T23:26:32.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2b1047862a27",
+      "title": "Risky Biz Podcast: Eliminating Vulnerabilities Without Upgrading Dependencies",
+      "description": "Risky Biz Podcast: Eliminating Vulnerabilities Without Upgrading Dependencies Security teams are often responsible for remediating vulnerabilities in applications that no longer have engineering resources assigned to them. Even a minor dependency upgrade can introduce performance regressions, break production services, or require extensive regression testing. Meanwhile, attackers are exploiting newly disclosed vulnerabilities faster than organizations can respond. In a new Risky Business…",
+      "link": "https://socket.dev/blog/eliminating-vulnerabilities-without-upgrading-dependencies?utm_medium=feed",
+      "pubDate": "2026-11-25T22:50:32.756Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b5ca262b4d4f",
+      "title": "Introducing Socket Calm: A Syntax Highlighting Theme for VS Code, Vim, and Neovim",
+      "description": "We're bringing a little bit of Socket's design system to your code editor. Today we're releasing Socket Calm, a free, open source syntax highlighting theme for VS Code, Vim, and Neovim. The theme borrows from a principle behind Socket's own interface design: use color with intention and reserve stronger visual cues for things that need your attention. The name Calm also captures what we want our products to bring to developers: peace of mind in an increasingly hostile software supply chain.…",
+      "link": "https://socket.dev/blog/socket-syntax-highlighting-theme?utm_medium=feed",
+      "pubDate": "2026-11-25T18:52:26.336Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/48d33f5a6c5a3885ea7b79b91741e79b45f269c9-2646x1888.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "6685fd5896f6",
+      "title": "Assessing AI Impact: Notes for Your CFO",
+      "description": "The following article was originally published on James Shore’s Successful Software blog and is being republished here with the author’s permission. Hi there. This is the epilogue to my series on assessing the impact of AI-assisted software development. It brings all the concepts together into one whole. It’s also good for sharing with your CFO […]",
+      "link": "https://www.oreilly.com/radar/assessing-ai-impact-notes-for-your-cfo/",
+      "pubDate": "2026-11-25T18:43:31.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/11/image-12-1600x993.png",
+      "type": "blog"
+    },
+    {
+      "id": "e0577f40419a",
+      "title": "datasette-charts 0.3a0",
+      "description": "Release: datasette-charts 0.3a0 I added chart annotations to datasette-charts! You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three. A chart with annotations looks like this: Here's that same chart in Datasette Lite, where you can tweak the annotations using the chart builder UI: If you also install Datasette Agent the agent can build annotated charts for you. Here's what I got on the agent.datasette.io demo for this prompt: Show a…",
+      "link": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+      "pubDate": "2026-11-25T18:16:50.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8445f9190af4",
+      "title": "New in Symfony 8.2: Profiler Improvements",
+      "description": "The Symfony profiler is the first place to look at when something doesn't work as expected in your application. Symfony 8.2 makes it more useful when debugging authentication and HTTP requests, and easier to use for everybody. Reasons for Skipped Authenticators…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-profiler-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-25T16:12:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
       "id": "fcab19abe5f1",
       "title": "Introducing Inertia UI Notifications: Toasts, a notification center, and preferences for Laravel and Inertia.js",
       "description": "Say hello to Inertia Notifications. It brings toasts, a notification center, and notification preferences to your Laravel and Inertia.js app, with components for both Vue and React. Read more",
@@ -250,6 +413,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4915fa3466d2",
+      "title": "datasette-charts 0.2a1",
+      "description": "Release: datasette-charts 0.2a1 Minor UI improvements: Collapsing the suggested charts section now leaves the chart visible. Following a link to a chart opens it with the suggestions collapsed for that visit. On table pages the panel now sits below the \"4,235 rows where country = CHN\" line. The \"Data\" table under each chart has been replaced by Copy TSV and Copy CSV buttons. Removed the \"Chart this data\" item from the table, view and query action menus. More space between lines in chart…",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+      "pubDate": "2026-11-24T06:07:19.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
       ],
       "image": null,
       "type": "blog"

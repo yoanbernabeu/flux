@@ -2,6 +2,119 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "ea1c00698dd0",
+      "title": "Couper les lignes sur le web avec des caractères invisibles",
+      "description": "Il est difficile d'obtenir une bonne typographie sur le web. Comparés à des moteurs tels que ou , les navigateurs ne disposent toujours pas d'un bon algorithme pour couper les lignes. La directive CSS tente d'améliorer la situation, mais elle n'est toujours et . de l' existent en JavaScript, mais elles provoquent un retard de l'affichage ou un changement intempestif de la mise en page. Ma solution consiste à insérer des césures conditionnelles et des espaces insécables à des endroits…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-web-typographie",
+      "pubDate": "2026-11-26T13:19:12.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://media-bernat-ch.b-cdn.net/images/xkcd-1015.5bbc33a6b165fd.png",
+      "type": "blog"
+    },
+    {
+      "id": "63067913e21d",
+      "title": "Comment automatiser les tests d'un jeu vidéo avec Playwright ?",
+      "description": "Découvrez comment utiliser Playwright pour automatiser les tests d'un jeu vidéo dans le navigateur : déplacements, interactions, clavier et détection des erreurs JavaScript.",
+      "link": "https://code-garage.com/blog/comment-automatiser-les-tests-d-un-jeu-video-avec-playwright",
+      "pubDate": "2026-11-26T09:55:22.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a57126a9dfad",
+      "title": "MCP en pratique : une application pour tout comprendre",
+      "description": "Model Context Protocol, le célèbre protocole développé par Anthropic, est sorti en 2024 et s’est rapidement imposé dans le monde des IA génératives. Conçu pour interconnecter des LLM et des systèmes externes, MCP ouvre la voie à des intégrations puissantes : appels d’API web, accès à des sources de connaissance privées, ou encore déclenchement d’autres IA ! Bertrand Nau (Fullstack devops) nous fait faire un saut dans le temps avec la première utilisation de MCP, qui est excessivement simple :…",
+      "link": "https://www.youtube.com/watch?v=ApdNWlUsXYc",
+      "pubDate": "2026-11-26T09:53:36.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/ApdNWlUsXYc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "ApdNWlUsXYc"
+    },
+    {
+      "id": "a9618eadf7f9",
+      "title": "Développement augmenté : bien outiller son agent",
+      "description": "Vous confiez un petit correctif à votre agent : « Empêche les doublons à la création d’une facture ». L’agent ouvre quelques",
+      "link": "https://blog.zenika.com/2026/11/25/developpement-augmente-bien-outiller-son-agent/",
+      "pubDate": "2026-11-25T20:06:40.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e6214769cc0b",
+      "title": "L'IA m'a tuer.",
+      "description": "Vidéo YouTube publiée par Laravel Jutsu (YouTube) — L'IA m'a tuer.",
+      "link": "https://www.youtube.com/watch?v=TzLhu2-oVtU",
+      "pubDate": "2026-11-25T16:56:49.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/TzLhu2-oVtU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "TzLhu2-oVtU"
+    },
+    {
+      "id": "c00de8f398f2",
+      "title": "IA générative en entreprise : Cloud, souveraineté ou IA locale ? | ELCA Group",
+      "description": "IA générative en entreprise : comment choisir la bonne infrastructure sans compromettre la sécurité de vos données ? Cloud public, cloud sécurisé, cloud souverain suisse ou déploiement local (on-premise) : chaque approche présente des avantages, des limites et des compromis. Lors de ce meetup organisé par Generative AI Genève, Olga Popovych et Benjamin Audren, experts chez ELCA Group (https://www.elca.ch), explorent les différentes stratégies de déploiement de l'IA générative en entreprise. À…",
+      "link": "https://www.youtube.com/watch?v=56Faehumcgk",
+      "pubDate": "2026-11-25T16:18:24.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/56Faehumcgk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "56Faehumcgk"
+    },
+    {
+      "id": "6f8113a9ec3e",
+      "title": "Faire tourner les plus grands LLM sur ses propres machines : le pari d'Anyway Systems",
+      "description": "Et si les entreprises pouvaient déployer de grands modèles d'intelligence artificielle sur leurs propres infrastructures, sans dépendre des géants du cloud ? Lors de ce meetup organisé par Generative AI Genève, Geovani Rizk, cofondateur d'Anyway Systems (https://www.anyway.dev), une spin-off issue de l'EPFL, présente une approche innovante du déploiement de l'intelligence artificielle en local (on-premise). Grâce aux technologies de calcul distribué développées par Anyway Systems, des…",
+      "link": "https://www.youtube.com/watch?v=5OO8LH2uxls",
+      "pubDate": "2026-11-25T16:17:55.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/5OO8LH2uxls/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "5OO8LH2uxls"
+    },
+    {
       "id": "19c0f223a0e5",
       "title": "React Native Connection 2026",
       "description": "Résumé talk par talk de la React Native Connection 2026 : agents IA, desktop, web, navigation, animations et les tendances à retenir.",
@@ -163,6 +276,53 @@
       "type": "podcast",
       "audioUrl": "https://cdn.double-slash.dev/episodes/DS_148_decision_model.mp3",
       "duration": "2559"
+    },
+    {
+      "id": "c51bbfd31fee",
+      "title": "jsdom ou happy-dom : l'envers du décor",
+      "description": "J'ai passé les tests de composants d'un jeu React de jsdom à happy-dom pour gagner une minute de CI par PR. Les chiffres de la migration, trois tests rouges et 406 erreurs réseau, ce qu'ils disent des deux faux navigateurs, et les questions à se poser avant de changer.",
+      "link": "https://blog.eleven-labs.com/fr/jsdom-ou-happy-dom-envers-du-decor/",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "40cca57bf596",
+      "title": "jsdom or happy-dom: behind the scenes",
+      "description": "I moved the component tests of a React game from jsdom to happy-dom to shave a minute of CI off every PR. The numbers from the migration, three red tests and 406 network errors, what they reveal about the two fake browsers, and what to ask yourself before switching.",
+      "link": "https://blog.eleven-labs.com/en/jsdom-or-happy-dom-behind-the-scenes/",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "95b0d275f719",
+      "title": "Et si le bon ratio était un PO pour un développeur ?",
+      "description": "Pendant des années, on a dimensionné les équipes de développement sur le modèle des “pizza teams” inspiré du fonctionnement d’Amazon. Le principe est simple: une équipe doit être assez petite pour être nourrie avec deux pizzas. C’est ainsi qu’on se retrouve fréquemment avec des équipes d’à peu près 5/6 développeurs et 1 product owner.",
+      "link": "https://www.jdecool.fr/blog/2026/11/25/et-si-le-bon-ratio-etait-un-po-pour-un-developpeur.html",
+      "pubDate": "2026-11-24T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "ebc6ba794739",
