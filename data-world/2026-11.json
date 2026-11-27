@@ -2,6 +2,95 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "fdcdf47740ec",
+      "title": "Tokens, constraints, and Black+Decker",
+      "description": "Sebastian De Deyne uses Black+Decker's move to computerized planning to show why new technology calls for rethinking old processes. He applies that lesson to AI, encouraging us to question constraints and be more ambitious about what we can build. Read more",
+      "link": "https://freek.dev/3236-tokens-constraints-and-blackdecker",
+      "pubDate": "2026-11-27T12:31:09.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "24e917be9a21",
+      "title": "NEW Laravel Package: Spatie Suspicious Login",
+      "description": "Povilas walks through our Laravel Suspicious Login package, from email alerts to custom blocking rules, with more details in our blog post and our docs. Read more",
+      "link": "https://freek.dev/3240-new-laravel-package-spatie-suspicious-login",
+      "pubDate": "2026-11-27T09:06:05.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5dd6ace30af7",
+      "title": "New in Symfony 8.2: Testing Improvements",
+      "description": "In application tests you rarely make just one request: you submit a form, follow the redirect, click a link, etc. Until now, a lot of what those requests did (the emails they sent, the messages they queued, the services you replaced) was gone by the time…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-testing-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-27T08:19:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "ac560a9dac73",
+      "title": "Rethinking KV Caching for Production LLM Inference",
+      "description": "+ Thanksgiving sale for lifetime accounts (4 days left)!",
+      "link": "https://blog.dailydoseofds.com/p/rethinking-kv-caching-for-production-e3a",
+      "pubDate": "2026-11-26T20:28:40.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!fFcv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3469bd3a-08a1-4389-89fb-59434b6cb71c_960x671.gif",
+      "type": "blog"
+    },
+    {
+      "id": "dc3156e99213",
+      "title": "New in Symfony 8.2: HttpClient Improvements",
+      "description": "In addition to the new HTTP recorder and the support for HTTP trailers, Symfony 8.2 improves the HttpClient component with more features. Cache Policies for Cached Responses…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-httpclient-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-26T16:12:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "fcbb41954277",
+      "title": "Quoting Jack Despain Zhou",
+      "description": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their reputations and mine, and I see Claude. &mdash; Jack Despain Zhou, Spitting in the Face of Glaude Tags:…",
+      "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "pubDate": "2026-11-26T15:09:31.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cf3bc42672e6",
       "title": "Ray is getting rusty!",
       "description": "We've rewritten Ray in Rust with GPUI, making it faster and lighter while keeping the interface familiar. Dries shares how we used Claude and a parity harness to build Ray 4, which is a free upgrade for existing users. Read more",
@@ -52,6 +141,21 @@
       "description": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025. It was only today that I understood one of its most attractive characteristics. Normally, if you want to grab a snapshot copy of a SQLite database, you need to use either the backup API or VACUUM INTO. In both cases you need enough disk space to create a duplicate copy of your…",
       "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
       "pubDate": "2026-11-26T06:08:25.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7f1c23cf7eb",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "description": "My comment on The New York Times warns photographers not to update Photoshop over AI features &mdash; Hacker News.I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said absolutely not - they present photographs as they were taken, with cropping and balancing applied but no edits beyond that. He did spend a bunch of time trying to find the best…",
+      "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "pubDate": "2026-11-26T05:08:46.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
       "categories": [

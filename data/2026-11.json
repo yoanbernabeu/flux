@@ -2,6 +2,55 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "feafeb183d72",
+      "title": "Retrouver un travail grâce à son réseau",
+      "description": "J’ai de nombreux amis qui se retrouvent à chercher un job ces temps-ci, et il se trouve que j’ai une méthode qui pourrait les aider, et toi aussi, cher(e) lecteurice. Cela se passe en deux temps. D’abord savoir ce que tu veux faire dans ton prochain job et savoir l’exprimer clairement. Ensuite une méthode pour activer son réseau professionnel et converger vers le job de tes rêves. 1 - Déterminer son projet professionnel avec l’ikigai L’ikigai, c’est un concept d’origine japonaise qui vise à…",
+      "link": "https://standblog.org/blog/post/2026/11/27/Retrouver-un-travail-grace-a-son-reseau",
+      "pubDate": "2026-11-27T10:47:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/.ikigai_m.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0ad6c9f30ed0",
+      "title": "#299.exe - IA: Du mythe à la réalité: Apprendre à comprendre l'intelligence par Arnaud Héritier",
+      "description": "Pour l'épisode #299 je recevais Nastasia Saby. On en débrief avec Arnaud. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/299-98b3c12a9fee",
+      "pubDate": "2026-11-27T04:00:14.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/beb88e1d-5520-4299-9c4c-98b3c12a9fee.mp3?_=1795698014",
+      "duration": "13:53"
+    },
+    {
+      "id": "2606d149fd5a",
+      "title": "J'en peux plus de cette phrase !  #code  #laravel #php",
+      "description": "PHP me permet de vivre alors écoutez ce que j'ai à vous dire ! Besoin d'une application ? goblin-studio.com",
+      "link": "https://www.youtube.com/watch?v=gO_S9nlDnU8",
+      "pubDate": "2026-11-26T21:33:40.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/gO_S9nlDnU8/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "gO_S9nlDnU8"
+    },
+    {
       "id": "ea1c00698dd0",
       "title": "Couper les lignes sur le web avec des caractères invisibles",
       "description": "Il est difficile d'obtenir une bonne typographie sur le web. Comparés à des moteurs tels que ou , les navigateurs ne disposent toujours pas d'un bon algorithme pour couper les lignes. La directive CSS tente d'améliorer la situation, mais elle n'est toujours et . de l' existent en JavaScript, mais elles provoquent un retard de l'affichage ou un changement intempestif de la mise en page. Ma solution consiste à insérer des césures conditionnelles et des espaces insécables à des endroits…",
@@ -1258,6 +1307,23 @@
       "image": "https://i.ytimg.com/vi/J9Xd9kUSJbU/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "J9Xd9kUSJbU"
+    },
+    {
+      "id": "bf1419c5c8c7",
+      "title": "Le prix réel de l'IA va remettre le numérique responsable au centre du jeu",
+      "description": "Six enseignements du GreenTech Forum 2026 pour les directions du numérique : empreinte de l'IA, réglementation, souveraineté, IA éthique, retours d'expérience techniques et feuille de route de chantiers.",
+      "link": "https://blog.ippon.fr/2026/11/16/prix-reel-ia-numerique-responsable/",
+      "pubDate": "2026-11-16T08:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://images.unsplash.com/photo-1680992046626-418f7e910589?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGRhdGFjZW50ZXJzJTIwZ3JlZW58ZW58MHx8fHwxNzk0OTA1NjMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000",
+      "type": "blog"
     },
     {
       "id": "702c931ad091",
