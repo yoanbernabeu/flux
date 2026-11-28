@@ -2,6 +2,140 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "bed61bb1439c",
+      "title": "Symfony UX 4.0 Could Leave Stimulus and Hotwire",
+      "description": "We used the Hackday of SymfonyCon Warsaw 2026 to announce what we would like Symfony UX 4.0 to be: a UX that no longer depends on Stimulus, Turbo or the rest of the Hotwire ecosystem. Nothing is decided yet. The proposal is an RFC, symfony/ux#4387, and this…",
+      "link": "https://symfony.com/blog/symfony-ux-4-0-could-leave-stimulus-and-hotwire?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-28T09:08:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7e5c1f9bb67",
+      "title": "New in Symfony 8.2: Doctrine improvements",
+      "description": "Symfony 8.2 already introduced encrypted Doctrine columns. This article showcases other improvements of the Doctrine integration, most of them aimed at removing configuration that you had to write by hand. Discovering Entities Automatically…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-doctrine-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-28T08:12:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/nayte.picture",
+      "type": "blog"
+    },
+    {
+      "id": "bedee2e9acb0",
+      "title": "datasette-charts 0.4a0",
+      "description": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release addresses those, which should make building additional chart plugins a whole lot more ergonomic. I've also added a website for the plugin, at…",
+      "link": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "pubDate": "2026-11-27T23:57:17.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6770b87a6ebf",
+      "title": "Test Agents Using Agents",
+      "description": "...explained with code.",
+      "link": "https://blog.dailydoseofds.com/p/test-agents-using-agents-528",
+      "pubDate": "2026-11-27T22:07:18.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Tw5X!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff93849be-1746-4083-bb52-b6c875791a0d_1264x1108.gif",
+      "type": "blog"
+    },
+    {
+      "id": "1d8d18f9ca77",
+      "title": "New in Symfony 8.2: RateLimiter Improvements",
+      "description": "The RateLimiter component controls how often an action can happen in your application. Symfony 8.2 makes it possible to create limiters at runtime and adds many features to the #[RateLimit] attribute introduced in Symfony 8.1. Building Rate Limiters at Runtime…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-ratelimiter-improvements?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-27T16:05:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/kbond.picture",
+      "type": "blog"
+    },
+    {
+      "id": "088c8746f41e",
+      "title": "Symfony 8.1.13 released",
+      "description": "Symfony 8.1.13 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-1-13-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-27T14:51:18.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0409d97dfcc9",
+      "title": "Symfony 7.4.25 released",
+      "description": "Symfony 7.4.25 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-7-4-25-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-27T14:44:39.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a8932d96994a",
+      "title": "Symfony 6.4.52 released",
+      "description": "Symfony 6.4.52 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Warning…",
+      "link": "https://symfony.com/blog/symfony-6-4-52-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-27T14:39:58.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "60c560068bea",
+      "title": "Symfony 5.4.58 released",
+      "description": "Symfony 5.4.58 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-5-4-58-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-27T14:37:36.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "fdcdf47740ec",
       "title": "Tokens, constraints, and Black+Decker",
       "description": "Sebastian De Deyne uses Black+Decker's move to computerized planning to show why new technology calls for rethinking old processes. He applies that lesson to AI, encouraging us to question constraints and be more ambitious about what we can build. Read more",
@@ -44,6 +178,21 @@
         "Web"
       ],
       "image": "https://connect.symfony.com/profile/nicolas-grekas.picture",
+      "type": "blog"
+    },
+    {
+      "id": "cb9c58904170",
+      "title": "datasette-mcp 0.4",
+      "description": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44. Tags: model-context-protocol, datasette",
+      "link": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+      "pubDate": "2026-11-27T00:26:17.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
